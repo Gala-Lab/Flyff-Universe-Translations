@@ -3,131 +3,131 @@ PROPSKILL_TXT_000309,
 PROPSKILL_TXT_000000,Clean Hit
 PROPSKILL_TXT_000001,"A powerful, downward strike."
 PROPSKILL_TXT_000002,Flurry
-PROPSKILL_TXT_000003,"Rapid, stabbing attack."
+PROPSKILL_TXT_000003,"A rapid stabbing attack."
 PROPSKILL_TXT_000004,Over Cutter
-PROPSKILL_TXT_000005,"Powerful, upward, finishing move."
+PROPSKILL_TXT_000005,"A powerful upward finishing move."
 PROPSKILL_TXT_000006,Slash
-PROPSKILL_TXT_000007,"Strikes the enemy two times, in rapid succession."
+PROPSKILL_TXT_000007,"Strikes the enemy twice in rapid succession."
 PROPSKILL_TXT_000008,Keenwheel
 PROPSKILL_TXT_000009,A continuous spinning attack.
 PROPSKILL_TXT_000010,Blindside
-PROPSKILL_TXT_000011,"A spinning, finishing move."
+PROPSKILL_TXT_000011,"A spinning finishing move that may stun the enemy."
 PROPSKILL_TXT_000012,Protection
-PROPSKILL_TXT_000013,Increases the defense of a Shield against melee attacks & significantly increases Ranged Block.
+PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.
 PROPSKILL_TXT_000014,Pan Barrier
 PROPSKILL_TXT_000015,Significantly increases Ranged Block.
 PROPSKILL_TXT_000016,Blazing Sword
-PROPSKILL_TXT_000017,Increases Accuracy and increases power of the Sword.
+PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.
 PROPSKILL_TXT_000018,Smite Axe
-PROPSKILL_TXT_000019,Increases Accuracy and increases power of the Axe.
-PROPSKILL_TXT_000020,Empower weapon
-PROPSKILL_TXT_000021,Uses the element of a weapon to boost your attack power.
+PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.
+PROPSKILL_TXT_000020,Empower Weapon
+PROPSKILL_TXT_000021,Enhances the weapon's elemental power.
 PROPSKILL_TXT_000022,Bloody Strike
 PROPSKILL_TXT_000024,Sword Mastery
-PROPSKILL_TXT_000025,Increases the striking power of a Sword.
+PROPSKILL_TXT_000025,Enhances the power of the wielded sword.
 PROPSKILL_TXT_000026,Axe Mastery
-PROPSKILL_TXT_000027,Increases the striking power of an axe.
+PROPSKILL_TXT_000027,Enhances the power of the wielded axe.
 PROPSKILL_TXT_000028,Special Hit
-PROPSKILL_TXT_000029,"A single, powerful strike that attacks all enemies around you."
+PROPSKILL_TXT_000029,"A single powerful strike that hits all enemies around you."
 PROPSKILL_TXT_000030,Guillotine
-PROPSKILL_TXT_000031,"A powerful, ranged attack."
+PROPSKILL_TXT_000031,"A powerful ranged attack."
 PROPSKILL_TXT_000032,Sneaker
 PROPSKILL_TXT_000033,Stops an enemy.
 PROPSKILL_TXT_000034,Reflex Hit
-PROPSKILL_TXT_000035,This skill absorbs one attack and releases back at an enemy.
+PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.
 PROPSKILL_TXT_000036,Guard
-PROPSKILL_TXT_000037,Decreases all incoming damage from enemies by sacrificing attack power. Requires a weapon to be equipped.
+PROPSKILL_TXT_000037,Reduces all incoming damage from enemies at the cost of attack power.
 PROPSKILL_TXT_000038,Pain Reflection
-PROPSKILL_TXT_000039,Reflects a part of the damage received by an enemy.
+PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy.
 PROPSKILL_TXT_000040,Rage
-PROPSKILL_TXT_000041,Increases striking power. Become more vulnerable to all incoming attacks.
+PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.
 PROPSKILL_TXT_000042,Power Swing
-PROPSKILL_TXT_000043,To strike a blow at the enemy by flourishing a weapon. Requires a two-handed weapon.
+PROPSKILL_TXT_000043,"Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon."
 PROPSKILL_TXT_000044,Earth Divider
-PROPSKILL_TXT_000045,"Powerful, downward strike. Has a chance to reduce Incoming Healing on target. Requires a two-handed weapon."
+PROPSKILL_TXT_000045,"A powerful downward strike that may reduce HP restoration on the target. Requires a two-handed weapon."
 PROPSKILL_TXT_000046,Charge
-PROPSKILL_TXT_000047,"Powerful, upward strike. Stuns the enemy. Requires a two-handed weapon."
+PROPSKILL_TXT_000047,"A powerful upward strike that stuns the enemy. Requires a two-handed weapon."
 PROPSKILL_TXT_000048,Pain Dealer
-PROPSKILL_TXT_000049,"Powerful, downward strike. Lowers the defense of the target. Requires a two-handed weapon."
+PROPSKILL_TXT_000049,"A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon."
 PROPSKILL_TXT_000050,Power Stomp
-PROPSKILL_TXT_000051,"Pounds the ground, stunning nearby enemies. Requires a two-handed weapon."
+PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon."
 PROPSKILL_TXT_000052,Cross Strike
-PROPSKILL_TXT_000053,Powerful strike using two weapons.
+PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.
 PROPSKILL_TXT_000054,Armor Penetrate
-PROPSKILL_TXT_000055,Strikes at the enemy and lowers their Block Rate.
+PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.
 PROPSKILL_TXT_000056,Silent Strike
-PROPSKILL_TXT_000057,Pounces on the enemy from afar. Stuns the target. Requires two weapons.
+PROPSKILL_TXT_000057,"Pounces on the enemy from afar, stunning them. Requires two weapons."
 PROPSKILL_TXT_000058,Blade Dance
-PROPSKILL_TXT_000059,Rapidly strikes the blades at multiple enemies. Requires two weapons.
+PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons. Requires two weapons.
 PROPSKILL_TXT_000060,Spring Attack
-PROPSKILL_TXT_000061,Strikes at an enemy multiple times. Each hit has a chance to deal double damage. Requires two weapons.
+PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons."
 PROPSKILL_TXT_000062,Hawk Attack
-PROPSKILL_TXT_000063,"Powerful, downward strike. Lowers targets accuracy. Requires two weapons."
+PROPSKILL_TXT_000063,"A powerful downward strike that lowers the accuracy of the target. Requires two weapons."
 PROPSKILL_TXT_000064,Sonic Blade
-PROPSKILL_TXT_000065,"Powerful, slashing attack. Attacks all enemies around. Requires two weapons."
+PROPSKILL_TXT_000065,"A powerful slashing attack that hits all surrounding enemies. Requires two weapons."
 PROPSKILL_TXT_000066,Berserk
-PROPSKILL_TXT_000067,"Increases attack speed and striking power, and reduces skill damage."
+PROPSKILL_TXT_000067,"Increases Attack Speed and striking power at the cost of reduced skill damage."
 PROPSKILL_TXT_000068,Heal
-PROPSKILL_TXT_000069,Recover the HP of a target.
+PROPSKILL_TXT_000069,Recovers the target's HP.
 PROPSKILL_TXT_000070,Temping Hole
-PROPSKILL_TXT_000071,"Powerful, straight punch."
+PROPSKILL_TXT_000071,"A powerful straight punch."
 PROPSKILL_TXT_000072,Resurrection
 PROPSKILL_TXT_000073,Resurrects a dead player.
 PROPSKILL_TXT_000074,Patience
-PROPSKILL_TXT_000075,Increases maximum HP of the target.
+PROPSKILL_TXT_000075,Increases the target's maximum HP.
 PROPSKILL_TXT_000076,Prevention
-PROPSKILL_TXT_000077,Recovers your own HP when it reaches below a certain point.
+PROPSKILL_TXT_000077,Automatically recovers your HP when it falls below a certain threshold.
 PROPSKILL_TXT_000078,Heap Up
-PROPSKILL_TXT_000079,Increases STA of the target.
+PROPSKILL_TXT_000079,Increases the target's STA.
 PROPSKILL_TXT_000080,Cannon Ball
-PROPSKILL_TXT_000081,Increases DEX of the target.
+PROPSKILL_TXT_000081,Increases the target's DEX.
 PROPSKILL_TXT_000082,Circle Healing
-PROPSKILL_TXT_000083,Heals party members close to you.
+PROPSKILL_TXT_000083,Heals nearby party members.
 PROPSKILL_TXT_000084,Mental Sign
-PROPSKILL_TXT_000085,Increases INT of a target
+PROPSKILL_TXT_000085,Increases the target's INT.
 PROPSKILL_TXT_000086,Beef Up
-PROPSKILL_TXT_000087,Increases striking power of a target.
+PROPSKILL_TXT_000087,Increases the target's STR.
 PROPSKILL_TXT_000088,Burst Crack
-PROPSKILL_TXT_000089,Pounds the ground and damages enemies around you.
+PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you."
 PROPSKILL_TXT_000090,Stonehand
-PROPSKILL_TXT_000091,All attacks gain the chance to stun.
+PROPSKILL_TXT_000091,Grants all attacks a chance to stun.
 PROPSKILL_TXT_000092,Quick Step
-PROPSKILL_TXT_000093,Increases the walk speed of a target.
+PROPSKILL_TXT_000093,Increases the target's movement speed.
 PROPSKILL_TXT_000094,Cat's Reflex
-PROPSKILL_TXT_000095,Increases the block rate of a target.
+PROPSKILL_TXT_000095,Increases the target's block rate.
 PROPSKILL_TXT_000096,Accuracy
-PROPSKILL_TXT_000097,Increases the accuracy of a target.
+PROPSKILL_TXT_000097,Increases the target's accuracy.
 PROPSKILL_TXT_000098,Power Fist
-PROPSKILL_TXT_000099,Three concentrated power strikes.
+PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.
 PROPSKILL_TXT_000100,Haste
-PROPSKILL_TXT_000101,Increases attack speed and decreases casting time of a target.
+PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.
 PROPSKILL_TXT_000102,Heal Rain
-PROPSKILL_TXT_000103,Recovers HP for party members near you.
+PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.
 PROPSKILL_TXT_000104,Holycross
-PROPSKILL_TXT_000105,Target enemy takes double damage in the next attack.
+PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.
 PROPSKILL_TXT_000106,Protect
-PROPSKILL_TXT_000107,Decreases the damage from physical & magical attacks on a target.
+PROPSKILL_TXT_000107,Increases the target's defense and magic resistance.
 PROPSKILL_TXT_000108,Holyguard
-PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited amount of time.
+PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.
 PROPSKILL_TXT_000110,Spirit Fortune
 PROPSKILL_TXT_000112,Gvur Tialla
-PROPSKILL_TXT_000113,Removes de-buffs from a target.
+PROPSKILL_TXT_000113,Removes debuffs from the target.
 PROPSKILL_TXT_000114,Geburah Tiphreth
-PROPSKILL_TXT_000115,"This ability draws upon the inner strength of the user & nearby party members, increasing both Attack Power and Attack Speed for a limited time."
+PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time."
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha
-PROPSKILL_TXT_000117,Enemies take damage over time in an area around you.
+PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.
 PROPSKILL_TXT_000118,Belial Smashing
-PROPSKILL_TXT_000119,Deals five powerful blows to the enemy.
+PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.
 PROPSKILL_TXT_000120,Piercing Serpent
-PROPSKILL_TXT_000121,Fires a piercing beam at the target.
+PROPSKILL_TXT_000121,Fires a piercing beam at the enemy.
 PROPSKILL_TXT_000122,Blood Fist
-PROPSKILL_TXT_000123,Strikes a heavy blow to the enemy that causes bleeding to the target.
+PROPSKILL_TXT_000123,Strikes the enemy with a heavy blow that causes bleeding.
 PROPSKILL_TXT_000124,Sonichand
-PROPSKILL_TXT_000125,"Fast, straight punch."
+PROPSKILL_TXT_000125,"A fast, straight punch."
 PROPSKILL_TXT_000126,Asmodeus
-PROPSKILL_TXT_000127,Increases striking power.
+PROPSKILL_TXT_000127,Enhances the power of the wielded knuckle.
 PROPSKILL_TXT_000128,Baraqijal Esna
-PROPSKILL_TXT_000129,"Increases damage dealt to the target, but also increases targets attack."
+PROPSKILL_TXT_000129,"Increases damage dealt to the target while also increasing the target's Attack."
 PROPSKILL_TXT_000130,Bgvur Tialbold
 PROPSKILL_TXT_000131,Strikes at nearby enemies with an outward shockwave.
 PROPSKILL_TXT_000132,Asalraalaikum
