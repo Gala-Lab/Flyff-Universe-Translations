@@ -567,23 +567,23 @@ PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,Yo
 PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
 PROPSKILL_TXT_150067,Additional Shield,Additional Shield
 PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的诅咒
-PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success."
+PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","以奇美拉之灵诅咒目标，对其造成伤害并将其变异为独眼蝙蝠。变异期间目标无法攻击。该技能在完全蓄力后，成功概率将提升30%。"
 PROPSKILL_TXT_150071,Full charge duration increase,Full charge duration increase
 PROPSKILL_TXT_150072,Full charge debuff increase,Full charge debuff increase
-PROPSKILL_TXT_150073,Malefic Detonation,Malefic Detonation
-PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","Track the number of Disable type debuffs you apply, multiplying the bonuses given."
+PROPSKILL_TXT_150073,Malefic Detonation,灾厄迸发
+PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","根据你施加的控制类减益效果数量，以此倍增其效果。"
 PROPSKILL_TXT_150075,Weaken at full charge,Weaken at full charge
 PROPSKILL_TXT_150076,Cooldown reduction,Cooldown reduction
-PROPSKILL_TXT_150077,Shield,盾
-PROPSKILL_TXT_150078,Hexe's Lament,Hexe's Lament
-PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently."
+PROPSKILL_TXT_150077,Shield,护盾
+PROPSKILL_TXT_150078,Hexe's Lament,怨缚悲鸣
+PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","对目标周围区域造成伤害，并有概率使被命中的敌人陷入诅咒状态，剥夺其发动暴击的能力。技能完全蓄力后，持续时间将延长，且攻击频率提高。"
 PROPSKILL_TXT_150080,Aoe Range,Aoe Range
 PROPSKILL_TXT_150081,Debuff increase,Debuff increase
 PROPSKILL_TXT_150082,Damage increase,Damage increase
-PROPSKILL_TXT_150083,Damnation Surge,Damnation Surge
-PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Track the number of Weaken type debuffs you apply, multiplying the bonuses given."
+PROPSKILL_TXT_150083,Damnation Surge,咒术奔涌
+PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","根据你施加的虚弱类减益效果数量，以此倍增其效果。"
 PROPSKILL_TXT_150085,Sleep at full charge,Sleep at full charge
-PROPSKILL_TXT_150087,Shield,盾
+PROPSKILL_TXT_150087,Shield,护盾
 PROPSKILL_TXT_150088,Enhanced Blinkpool,Enhanced Blinkpool
 PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,Movement speed is temporarily increased after using Blinkpool.
 PROPSKILL_TXT_150090,Additional damage disable,Additional damage disable
@@ -746,13 +746,13 @@ PROPSKILL_TXT_150158,Debuff Chance,Debuff Chance
 PROPSKILL_TXT_150160,Aether Rend,Aether Rend
 PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.
 PROPSKILL_TXT_150162,Additional Buffs,Additional Buffs
-PROPSKILL_TXT_150163,Additional Damage,追加伤害
-PROPSKILL_TXT_150165,Yo-Yo Storm,Yo-Yo Storm
-PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,Spin your yo-yos in place to continuously attack all nearby enemies.
+PROPSKILL_TXT_150163,Additional Damage,额外伤害
+PROPSKILL_TXT_150165,Yo-Yo Storm,轮舞飓风
+PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,原地旋转飞轮，持续攻击周围所有敌人。
 PROPSKILL_TXT_150167,Extended Range,Extended Range
 PROPSKILL_TXT_150169,CC Attack,CC Attack
-PROPSKILL_TXT_150170,Toxic Cloud,Toxic Cloud
-PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby."
+PROPSKILL_TXT_150170,Toxic Cloud,毒雾
+PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","向目标区域投掷毒瓶，生成一片毒雾，对范围内敌人造成伤害并有概率使其中毒。"
 PROPSKILL_TXT_150172,Extended Range,Extended Range
 PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
 PROPSKILL_TXT_150175,Bloody Rush,Bloody Rush
@@ -801,30 +801,30 @@ PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on n
 PROPSKILL_TXT_150221,Stun Resistance,Stun Resistance
 PROPSKILL_TXT_150222,DoT Resistance,DoT Resistance
 PROPSKILL_TXT_150223,Area Increase,Area Increase
-PROPSKILL_TXT_150224,Soul of Rhisis,Soul of Rhisis
-PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
+PROPSKILL_TXT_150224,Soul of Rhisis,莱斯神之魂
+PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提供伤害减免。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
 PROPSKILL_TXT_150226,Effect Increase,Effect Increase
 PROPSKILL_TXT_150228,Duration Increase,Duration Increase
-PROPSKILL_TXT_150229,Celestial Barrier,Celestial Barrier
-PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150234,Heaven's Step,Heaven's Step
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150239,Gloria Patri,Gloria Patri
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150244,Kyrie Eleison,Kyrie Eleison
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150249,Flow of Salvation,Flow of Salvation
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise."
+PROPSKILL_TXT_150229,Celestial Barrier,天界屏障
+PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提供元素抗性。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150234,Heaven's Step,天界步履
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提升闪避与格挡能力。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150239,Gloria Patri,荣耀颂祷
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，周期性地为周围友方及自身恢复生命。吟唱期间使用其他技能将中断吟唱。圣歌的治疗效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150244,Kyrie Eleison,怜恤祷言
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150249,Flow of Salvation,神佑流转
+PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。"
 PROPSKILL_TXT_150251,Increased Healing,Increased Healing
 PROPSKILL_TXT_150253,Increased Chain,Increased Chain
-PROPSKILL_TXT_150254,Hymn - Damage Reduction,Hymn - Damage Reduction
-PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","While a hymn is being chanted, gain extra damage reduction for yourself."
-PROPSKILL_TXT_150256,Hymn - Perfect Performance,Hymn - Perfect Performance
-PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,Hymns that are chanted to completion will have their cooldowns reduced.
-PROPSKILL_TXT_150258,Hymn - Quick Step,Hymn - Quick Step
-PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","While a hymn is being chanted, walking speed is increased."
-PROPSKILL_TXT_150260,Hymn - Liberation,Hymn - Liberation
-PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,Allow other hymn skills to be chanted at the same time.
+PROPSKILL_TXT_150254,Hymn - Damage Reduction,圣歌 - 伤害减免
+PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","吟唱圣歌期间，自身获得额外伤害减免效果。"
+PROPSKILL_TXT_150256,Hymn - Perfect Performance,圣歌 - 完美演绎
+PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,完成吟唱的圣歌，其冷却时间将缩短。
+PROPSKILL_TXT_150258,Hymn - Quick Step,圣歌 - 迅步
+PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","吟唱圣歌期间，移动速度提升。"
+PROPSKILL_TXT_150260,Hymn - Liberation,圣歌 - 解放
+PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,允许同时吟唱其他圣歌类技能。
 PROPSKILL_TXT_150262,Nen Overflow,Nen Overflow
 PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.","Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow."
 PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
@@ -861,7 +861,7 @@ PROPSKILL_TXT_150301,Increases knuckle damage.,Increases knuckle damage.
 PROPSKILL_TXT_150302,Quick Movement,Quick Movement
 PROPSKILL_TXT_150303,Critical Damage,暴击伤害
 PROPSKILL_TXT_150304,Knuckle Power,Knuckle Power
-PROPSKILL_TXT_150305,Bubble's Blessing,Bubble's Blessing
+PROPSKILL_TXT_150305,Bubble's Blessing,波卜尔的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.
 PROPSKILL_TXT_150309,Range Extension,Range Extension
 PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
