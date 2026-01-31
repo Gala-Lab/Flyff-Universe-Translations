@@ -1,14 +1,14 @@
 ﻿Key,English,Filipino
 CHARACTER_INC_000001,Mikyel,Mikyel
 CHARACTER_INC_000011,Noier,Noier
-CHARACTER_INC_000017,[Sage] Radion,[Sage] Radion
+CHARACTER_INC_000017,[Sage] Radion,[Pantas] Radion
 CHARACTER_INC_000021,Boboku,Boboku
 CHARACTER_INC_000027,Boboko,Boboko
 CHARACTER_INC_000033,Luda,Luda
-CHARACTER_INC_000034,Weapons,Weapons
-CHARACTER_INC_000035,Armors,Armors
+CHARACTER_INC_000034,Weapons,Mga Sandata
+CHARACTER_INC_000035,Armors,Mga Baluti
 CHARACTER_INC_000039,Lui,Lui
-CHARACTER_INC_000043,Arrows,Arrows
+CHARACTER_INC_000043,Arrows,Mga Palaso
 CHARACTER_INC_000045,Losha,Losha
 CHARACTER_INC_000051,Marche,Marche
 CHARACTER_INC_000057,Julia,Julia
@@ -20,9 +20,9 @@ CHARACTER_INC_000072,Isruel,Isruel
 CHARACTER_INC_000075,Ismeralda,Ismeralda
 CHARACTER_INC_000083,Flaris Pang,Flaris Pang
 CHARACTER_INC_000091,Jeff,Jeff
-CHARACTER_INC_000099,[High-Dwarpet] Tucani,[High-Dwarpet] Tucani
-CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
-CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Wise-man] Kimel
+CHARACTER_INC_000099,[High-Dwarpet] Tucani,[Mataas na Dwarpet] Tucani
+CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Pantas na Jester] Radyon
+CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Pantas na Ranger] Kimel
 CHARACTER_INC_000111,[Pepoview] Brodeay,[Pepoview] Brodeay
 CHARACTER_INC_000113,[Pepoview] Ruminerr,[Pepoview] Ruminerr
 CHARACTER_INC_000115,[Pepoview] Ellangdl,[Pepoview] Ellangdl
@@ -34,47 +34,47 @@ CHARACTER_INC_000127,Helena,Helena
 CHARACTER_INC_000129,Martin,Martin
 CHARACTER_INC_000135,Bill,Bill
 CHARACTER_INC_000141,Tina,Tina
-CHARACTER_INC_000144,Fuel,Fuel
+CHARACTER_INC_000144,Fuel,Gasolina
 CHARACTER_INC_000147,Bulrox,Bulrox
 CHARACTER_INC_000153,Bozman,Bozman
 CHARACTER_INC_000159,Colack,Colack
 CHARACTER_INC_000165,Karin,Karin
 CHARACTER_INC_000171,Leann,Leann
-CHARACTER_INC_000172,Accessories,Accessories
+CHARACTER_INC_000172,Accessories,Mga Aksesorya
 CHARACTER_INC_000174,Ann,Ann
 CHARACTER_INC_000176,Herth,Herth
 CHARACTER_INC_000178,Janne,Janne
 CHARACTER_INC_000180,Kimberley,Kimberley
 CHARACTER_INC_000186,Saint Pang,Saint Pang
-CHARACTER_INC_000200,[MagicBox] Ancimys,[MagicBox] Ancimys
+CHARACTER_INC_000200,[MagicBox] Ancimys,[Kahon ng Mahika] Ancimys
 CHARACTER_INC_000226,Lurif,Lurif
 CHARACTER_INC_000228,Darkon Pang,Darkon Pang
 CHARACTER_INC_000230,Stima,Stima
-CHARACTER_INC_000231,Mercenary,Mercenary
-CHARACTER_INC_000232,Assist,Assist
-CHARACTER_INC_000233,Acrobat,Acrobat
-CHARACTER_INC_000234,Magician,Magician
+CHARACTER_INC_000231,Mercenary,Mersenaryo
+CHARACTER_INC_000232,Assist,Tagasuporta
+CHARACTER_INC_000233,Acrobat,Akrobat
+CHARACTER_INC_000234,Magician,Salamangkero
 CHARACTER_INC_000236,Phacham,Phacham
 CHARACTER_INC_000260,Achaben,Achaben
-CHARACTER_INC_000261,Collector,Collector
+CHARACTER_INC_000261,Collector,Kolektor
 CHARACTER_INC_000262,Poster,Poster
-CHARACTER_INC_000263,Magic Tools,Magic Tools
-CHARACTER_INC_000264,Arrow,Arrow
+CHARACTER_INC_000263,Magic Tools,Mga Kagamitang Mahika
+CHARACTER_INC_000264,Arrow,Palaso
 CHARACTER_INC_000266,Almani,Almani
-CHARACTER_INC_000267,Broom,Broom
-CHARACTER_INC_000268,Board,Board
+CHARACTER_INC_000267,Broom,Walis
+CHARACTER_INC_000268,Board,Tabla
 CHARACTER_INC_000272,Bolpor,Bolpor
-CHARACTER_INC_000273,Food,Food
+CHARACTER_INC_000273,Food,Pagkain
 CHARACTER_INC_000280,Eshylop,Eshylop
-CHARACTER_INC_000284,Haven,Haven
-CHARACTER_INC_000285,Wand,Wand
-CHARACTER_INC_000286,Staff,Staff
-CHARACTER_INC_000288,Robe,Robe
+CHARACTER_INC_000284,Haven,Kanlungan
+CHARACTER_INC_000285,Wand,Baston ng Mahika
+CHARACTER_INC_000286,Staff,Tungkod
+CHARACTER_INC_000288,Robe,Roba
 CHARACTER_INC_000290,Ollien,Ollien
 CHARACTER_INC_000292,Roocky,Roocky
 CHARACTER_INC_000298,Remine,Remine
 CHARACTER_INC_000304,Krinton,Krinton
-CHARACTER_INC_000305,Shields,Shields
+CHARACTER_INC_000305,Shields,Mga Kalasag
 CHARACTER_INC_000310,Dr. Est,Dr. Est
 CHARACTER_INC_000312,Dr. Estly,Dr. Estly
 CHARACTER_INC_000314,Dr. Estern,Dr. Estern
@@ -84,77 +84,77 @@ CHARACTER_INC_000324,Chenbing,Chenbing
 CHARACTER_INC_000330,Jinitte,Jinitte
 CHARACTER_INC_000336,Tandy,Tandy
 CHARACTER_INC_000338,Blinkwing,Blinkwing
-CHARACTER_INC_000339,Class Goods,Class Goods
-CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[Acrobat Drillmaster] Hent
-CHARACTER_INC_000344,[Acrobat Master] Pyre,[Acrobat Master] Pyre
-CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[Acrobat Instructor] Tailer
-CHARACTER_INC_000348,[Jester Master] Lorein,[Jester Master] Lorein
-CHARACTER_INC_000350,[Jester Priest] Homeit,[Jester Priest] Homeit
-CHARACTER_INC_000352,[Jester Guardian] Heingard,[Jester Guardian] Heingard
-CHARACTER_INC_000354,[Ranger Master] Eliff,[Ranger Master] Eliff
-CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[High-Dwarpet] Liekyen
-CHARACTER_INC_000358,[Ranger Priest] Rupim,[Ranger Priest] Rupim
-CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[Ranger Guardian] Kailreard
+CHARACTER_INC_000339,Class Goods,Mga Kagamitang Pang-Klase
+CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[Tagasanay ng Akrobat] Hent
+CHARACTER_INC_000344,[Acrobat Master] Pyre,[Master ng Akrobat] Pyre
+CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[Instruktor ng Akrobat] Tailer
+CHARACTER_INC_000348,[Jester Master] Lorein,[Master ng Jester] Lorein
+CHARACTER_INC_000350,[Jester Priest] Homeit,[Paring Jester] Homeit
+CHARACTER_INC_000352,[Jester Guardian] Heingard,[Tagapangalaga ng Jester] Heingard
+CHARACTER_INC_000354,[Ranger Master] Eliff,[Master ng Ranger] Eliff
+CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[Mataas na Dwarpet] Liekyen
+CHARACTER_INC_000358,[Ranger Priest] Rupim,[Paring Ranger] Rupim
+CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[Tagapangalaga ng Ranger] Kailreard
 CHARACTER_INC_000362,Santa,Santa
-CHARACTER_INC_000364,Priest,Priest
+CHARACTER_INC_000364,Priest,Pari
 CHARACTER_INC_000366,Hans,Hans
-CHARACTER_INC_000368,Guardian Master,Guardian Master
+CHARACTER_INC_000368,Guardian Master,Master ng Tagapangalaga
 CHARACTER_INC_000372,Shun,Shun
 CHARACTER_INC_000378,Rocbin,Rocbin
-CHARACTER_INC_000382,Shield,Shield
+CHARACTER_INC_000382,Shield,Kalasag
 CHARACTER_INC_000384,Ciel,Ciel
 CHARACTER_INC_000390,Yuna,Yuna
 CHARACTER_INC_000396,Heron,Heron
 CHARACTER_INC_000398,Cell,Cell
 CHARACTER_INC_000400,Rankashu,Rankashu
 CHARACTER_INC_000402,Drian,Drian
-CHARACTER_INC_000404,Nevil of Prison,Nevil of Prison
+CHARACTER_INC_000404,Nevil of Prison,Nevil ng Bilangguan
 CHARACTER_INC_000406,Nevil,Nevil
 CHARACTER_INC_000408,Bernard,Bernard
 CHARACTER_INC_000410,Kazen,Kazen
 CHARACTER_INC_000412,Andre,Andre
 CHARACTER_INC_000414,Nein,Nein
-CHARACTER_INC_000418,Banker Pang,Banker Pang
-CHARACTER_INC_000420,Guild Siege Merchant,Guild Siege Merchant
+CHARACTER_INC_000418,Banker Pang,Bangker Pang
+CHARACTER_INC_000420,Guild Siege Merchant,Mangangalakal ng Guild Siege
 CHARACTER_INC_000430,Furan,Furan
-CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Guild Siege Manager] Frankie
-CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Guild Siege Manager] Donaris
+CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Tagapamahala ng Guild Siege] Frankie
+CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Tagapamahala ng Guild Siege] Donaris
 CHARACTER_INC_000438,[Santa] Buruto,[Santa] Buruto
 CHARACTER_INC_000440,[Santa] Aramy,[Santa] Aramy
 CHARACTER_INC_000442,[Santa] Atto,[Santa] Atto
-CHARACTER_INC_000444,[Probationer Cook] Juglin,[Probationer Cook] Juglin
+CHARACTER_INC_000444,[Probationer Cook] Juglin,[Baguhang Kusinero] Juglin
 CHARACTER_INC_000454,Hachal,Hachal
-CHARACTER_INC_000458,[Great Magician] Laola,[Great Magician] Laola
-CHARACTER_INC_000460,[Dreadpet Manager] Himadel,[Dreadpet Manager] Himadel
-CHARACTER_INC_000462,[Dreadpet Manager] Gornus,[Dreadpet Manager] Gornus
-CHARACTER_INC_000464,[Dreadpet Manager] Kanane,[Dreadpet Manager] Kanane
-CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[Mercenary Drillmaster] Mustang
-CHARACTER_INC_000468,[Mercenary Master] Andy,[Mercenary Master] Andy
-CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[High-Dwarpet] Langdrong
-CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[Mercenary Instructor] Hyuit
-CHARACTER_INC_000474,[Assist Drillmaster] Elic,[Assist Drillmaster] Elic
-CHARACTER_INC_000476,[Assist Master] Maki,[Assist Master] Maki
-CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[High-Dwarpet] Goripeg
-CHARACTER_INC_000480,[Assist Instructor] Kidmen,[Assist Instructor] Kidmen
-CHARACTER_INC_000482,[High-Dwarpet] Hastan,[High-Dwarpet] Hastan
+CHARACTER_INC_000458,[Great Magician] Laola,[Mahusay na Salamangkero] Laola
+CHARACTER_INC_000460,[Dreadpet Manager] Himadel,[Tagapamahala ng Dreadpet] Himadel
+CHARACTER_INC_000462,[Dreadpet Manager] Gornus,[Tagapamahala ng Dreadpet] Gornus
+CHARACTER_INC_000464,[Dreadpet Manager] Kanane,[Tagapamahala ng Dreadpet] Kanane
+CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[Tagasanay ng Mersenaryo] Mustang
+CHARACTER_INC_000468,[Mercenary Master] Andy,[Master ng Mersenaryo] Andy
+CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[Mataas na Dwarpet] Langdrong
+CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[Instruktor ng Mersenaryo] Hyuit
+CHARACTER_INC_000474,[Assist Drillmaster] Elic,[Tagasanay ng Assist] Elic
+CHARACTER_INC_000476,[Assist Master] Maki,[Master ng Assist] Maki
+CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[Mataas na Dwarpet] Goripeg
+CHARACTER_INC_000480,[Assist Instructor] Kidmen,[Instruktor ng Assist] Kidmen
+CHARACTER_INC_000482,[High-Dwarpet] Hastan,[Mataas na Dwarpet] Hastan
 CHARACTER_INC_000484,Rudvihil,Rudvihil
 CHARACTER_INC_000486,Ancimys,Ancimys
-CHARACTER_INC_000488,[Historian] Martinyc,[Historian] Martinyc
-CHARACTER_INC_000490,[Mayor of Flarine],[Mayor of Flarine]
-CHARACTER_INC_000492,[Public Official of Flarine],[Public Official of Flarine]
-CHARACTER_INC_000494,[Novelist] Gergantes,[Novelist] Gergantes
-CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[Magician Drillmaster] Wingyei
-CHARACTER_INC_000498,[Magician Master] Hee,[Magician Master] Hee
-CHARACTER_INC_000500,[Magician Instructor] Lopaze,[Magician Instructor] Lopaze
+CHARACTER_INC_000488,[Historian] Martinyc,[Historyador] Martinyc
+CHARACTER_INC_000490,[Mayor of Flarine],[Alkalde ng Flarine]
+CHARACTER_INC_000492,[Public Official of Flarine],[Opisyal ng Flarine]
+CHARACTER_INC_000494,[Novelist] Gergantes,[Nobelist] Gergantes
+CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[Tagasanay ng Salamangkero] Wingyei
+CHARACTER_INC_000498,[Magician Master] Hee,[Master ng Salamangkero] Hee
+CHARACTER_INC_000500,[Magician Instructor] Lopaze,[Instruktor ng Salamangkero] Lopaze
 CHARACTER_INC_000502,Helgar,Helgar
 CHARACTER_INC_000504,Heltung,Heltung
-CHARACTER_INC_000506,Strange Collector,Strange Collector
-CHARACTER_INC_000508,[BowlMerchant] Bowler,[BowlMerchant] Bowler
+CHARACTER_INC_000506,Strange Collector,Kakaibang Kolektor
+CHARACTER_INC_000508,[BowlMerchant] Bowler,[Mangangalakal ng Mangkok] Bowler
 CHARACTER_INC_000510,JeongHwa,JeongHwa
 CHARACTER_INC_000512,Porgo,Porgo
-CHARACTER_INC_000514,[Mayor of Saint City],[Mayor of Saint City]
-CHARACTER_INC_000516,[Chairman of History Society] Gothante,[Chairman of History Society] Gothante
-CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[Manager of Ancient Document] Rovanett
+CHARACTER_INC_000514,[Mayor of Saint City],[Alkalde ng Saint City]
+CHARACTER_INC_000516,[Chairman of History Society] Gothante,[Tagapangulo ng Samahan ng Kasaysayan] Gothante
+CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[Tagapamahala ng Sinaunang Dokumento] Rovanett
 CHARACTER_INC_000520,Colar,Colar
 CHARACTER_INC_000522,Amadolka,Amadolka
 CHARACTER_INC_000524,Nina,Nina
@@ -163,41 +163,41 @@ CHARACTER_INC_000528,PiPi,PiPi
 CHARACTER_INC_000530,Loyah,Loyah
 CHARACTER_INC_000532,Mayun,Mayun
 CHARACTER_INC_000534,Sotta,Sotta
-CHARACTER_INC_000536,[Knight Master] Karandur,[Knight Master] Karandur
-CHARACTER_INC_000538,[Knight Wise-man] Hormes,[Knight Wise-man] Hormes
+CHARACTER_INC_000536,[Knight Master] Karandur,[Master ng Knight] Karandur
+CHARACTER_INC_000538,[Knight Wise-man] Hormes,[Pantas na Knight] Hormes
 CHARACTER_INC_000540,Kurmin,Kurmin
-CHARACTER_INC_000542,[Knight Priest] Lobiet,[Knight Priest] Lobiet
-CHARACTER_INC_000544,[Knight Guardian] Boneper,[Knight Guardian] Boneper
-CHARACTER_INC_000546,[Blade Master] Corel,[Blade Master] Corel
-CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[Blade Wise-man] Guabrill
+CHARACTER_INC_000542,[Knight Priest] Lobiet,[Paring Knight] Lobiet
+CHARACTER_INC_000544,[Knight Guardian] Boneper,[Tagapangalaga ng Knight] Boneper
+CHARACTER_INC_000546,[Blade Master] Corel,[Master ng Blade] Corel
+CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[Pantas na Blade] Guabrill
 CHARACTER_INC_000550,Ata,Ata
-CHARACTER_INC_000552,[Blade Priest] Jeperdy,[Blade Priest] Jeperdy
-CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[Blade Guardian] Sencyrit
-CHARACTER_INC_000556,[Billposter Master] Ride,[Billposter Master] Ride
-CHARACTER_INC_000558,[Billposter Wise-man] Domek,[Billposter Wise-man] Domek
+CHARACTER_INC_000552,[Blade Priest] Jeperdy,[Paring Blade] Jeperdy
+CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[Tagapangalaga ng Blade] Sencyrit
+CHARACTER_INC_000556,[Billposter Master] Ride,[Master ng Billposter] Ride
+CHARACTER_INC_000558,[Billposter Wise-man] Domek,[Pantas na Billposter] Domek
 CHARACTER_INC_000560,Segho,Segho
-CHARACTER_INC_000562,[Billposter Priest] Fera,[Billposter Priest] Fera
-CHARACTER_INC_000564,[Billposter Guardian] Capafe,[Billposter Guardian] Capafe
-CHARACTER_INC_000566,[Ringmaster Master] Ellend,[Ringmaster Master] Ellend
-CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[Ringmaster Wise-man] Clamb
+CHARACTER_INC_000562,[Billposter Priest] Fera,[Paring Billposter] Fera
+CHARACTER_INC_000564,[Billposter Guardian] Capafe,[Tagapangalaga ng Billposter] Capafe
+CHARACTER_INC_000566,[Ringmaster Master] Ellend,[Master ng Ringmaster] Ellend
+CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[Pantas na Ringmaster] Clamb
 CHARACTER_INC_000570,Teshar,Teshar
-CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[Ringmaster Priest] Heedan
-CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[Ringmaster Guardian] Romvoette
-CHARACTER_INC_000576,[Psykeeper Master] Cylor,[Psykeeper Master] Cylor
-CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[Psykeeper Wise-man] Cuarine
+CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[Paring Ringmaster] Heedan
+CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[Tagapangalaga ng Ringmaster] Romvoette
+CHARACTER_INC_000576,[Psykeeper Master] Cylor,[Master ng Psykeeper] Cylor
+CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[Pantas na Psykeeper] Cuarine
 CHARACTER_INC_000580,Ryupang,Ryupang
-CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[Psykeeper Priest] Pereb
-CHARACTER_INC_000584,[Psykeeper Guardian] Shyniff,[Psykeeper Guardian] Shyniff
-CHARACTER_INC_000586,[Elementor Master] Horison,[Elementor Master] Horison
-CHARACTER_INC_000588,[Elementor Wise-man] Cuzrill,[Elementor Wise-man] Cuzrill
+CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[Paring Psykeeper] Pereb
+CHARACTER_INC_000584,[Psykeeper Guardian] Shyniff,[Tagapangalaga ng Psykeeper] Shyniff
+CHARACTER_INC_000586,[Elementor Master] Horison,[Master ng Elementor] Horison
+CHARACTER_INC_000588,[Elementor Wise-man] Cuzrill,[Pantas na Elementor] Cuzrill
 CHARACTER_INC_000590,Parine,Parine
-CHARACTER_INC_000592,[Elementor Priest] Condram,[Elementor Priest] Condram
-CHARACTER_INC_000594,[Elementor Guardian] Wendien,[Elementor Guardian] Wendien
+CHARACTER_INC_000592,[Elementor Priest] Condram,[Paring Elementor] Condram
+CHARACTER_INC_000594,[Elementor Guardian] Wendien,[Tagapangalaga ng Elementor] Wendien
 CHARACTER_INC_000596,Tomba,Tomba
 CHARACTER_INC_000598,Eoners,Eoners
 CHARACTER_INC_000600,Ghalade,Ghalade
 CHARACTER_INC_000602,Phoho,Phoho
-CHARACTER_INC_000604,[Darken Mayor],[Darken Mayor]
+CHARACTER_INC_000604,[Darken Mayor],[Alkalde ng Darken]
 CHARACTER_INC_000606,Darz,Darz
 CHARACTER_INC_000608,Ivil Tobby,Ivil Tobby
 CHARACTER_INC_000610,Ivil Dorry,Ivil Dorry
@@ -208,17 +208,17 @@ CHARACTER_INC_000621,Firdryad,Firdryad
 CHARACTER_INC_000623,Persdryad,Persdryad
 CHARACTER_INC_000625,Peardryad,Peardryad
 CHARACTER_INC_000627,Pinedryad,Pinedryad
-CHARACTER_INC_000628,Hair Designer,Hair Designer
+CHARACTER_INC_000628,Hair Designer,Tagapag-ayos ng Buhok
 CHARACTER_INC_000629,Makeup Artist,Makeup Artist
 CHARACTER_INC_000633,Post Box,Post Box
-CHARACTER_INC_000671,[Pet Tamer],[Pet Tamer]
+CHARACTER_INC_000671,[Pet Tamer],[Tagapag-alaga ng Alagang Hayop]
 CHARACTER_INC_000704,Buff Pang,Buff Pang
-CHARACTER_INC_000706,[Arena Manager] Harold,[Arena Manager] Harold
-CHARACTER_INC_000708,[Arena Store] Deek,[Arena Store] Deek
-CHARACTER_INC_000712,[Arena Manager] Lay,[Arena Manager] Lay
-CHARACTER_INC_000738,Card Master,Card Master
-CHARACTER_INC_000742,[Jewel Manager] Peach,[Jewel Manager] Peach
-CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,[Rock Scissor Paper NPC] Demian
+CHARACTER_INC_000706,[Arena Manager] Harold,[Tagapamahala ng Arena] Harold
+CHARACTER_INC_000708,[Arena Store] Deek,[Tindahan ng Arena] Deek
+CHARACTER_INC_000712,[Arena Manager] Lay,[Tagapamahala ng Arena] Lay
+CHARACTER_INC_000738,Card Master,Master ng Baraha
+CHARACTER_INC_000742,[Jewel Manager] Peach,[Tagapamahala ng Alahas] Peach
+CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,[NPC ng Bato-Gunting-Papel] Demian
 CHARACTER_INC_000847,[Mentor] Inisis,[Mentor] Inisis
 CHARACTER_INC_001067,Reonan,Reonan
 CHARACTER_INC_001069,Nerco,Nerco
@@ -244,48 +244,48 @@ CHARACTER_INC_100011,Miriun,Miriun
 CHARACTER_INC_100012,Auxilior,Auxilior
 CHARACTER_INC_100013,Mawrang,Mawrang
 CHARACTER_INC_100014,Buur,Buur
-CHARACTER_INC_100015,Gloves,Gloves
+CHARACTER_INC_100015,Gloves,Mga Guwantes
 CHARACTER_INC_100016,Kumah,Kumah
 CHARACTER_INC_100017,Obnis,Obnis
 CHARACTER_INC_100018,Airon,Airon
 CHARACTER_INC_100019,Haom,Haom
-CHARACTER_INC_100020,Mysterious Robed Girl,Mysterious Robed Girl
-CHARACTER_INC_000697,[Chip Merchant] Waforu,[Chip Merchant] Waforu
+CHARACTER_INC_100020,Mysterious Robed Girl,Mahiwagang Babaeng may Roba
+CHARACTER_INC_000697,[Chip Merchant] Waforu,[Mangangalakal ng Chip] Waforu
 CHARACTER_INC_100021,Azria Pang,Azria Pang
 CHARACTER_INC_001260,Lifeguard Jennifer,Lifeguard Jennifer
-CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 Guild Siege Manager] Atlas
-CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 Guild Siege Manager] Olivia
+CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 Tagapamahala ng Guild Siege] Atlas
+CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 Tagapamahala ng Guild Siege] Olivia
 CHARACTER_INC_100024,Polar Bear,Polar Bear
 CHARACTER_INC_100025,Fu Lion King,Fu Lion King
 CHARACTER_INC_100026,Cupid,Cupid
-CHARACTER_INC_100027,[Master Quests] Leila,[Master Quests] Leila
-CHARACTER_INC_000722,Secret Room Manager,Secret Room Manager
-CHARACTER_INC_000723,Leren Chasm Guard,Leren Chasm Guard
-CHARACTER_INC_000724,Rhisis Catacombs Guard,Rhisis Catacombs Guard
-CHARACTER_INC_000725,Envy Depths Guard,Envy Depths Guard
-CHARACTER_INC_000726,Guardiane Sanctuary Guard,Guardiane Sanctuary Guard
-CHARACTER_INC_000727,Storm Peak Guard,Storm Peak Guard
+CHARACTER_INC_100027,[Master Quests] Leila,[Master ng mga Quest] Leila
+CHARACTER_INC_000722,Secret Room Manager,Tagapamahala ng Lihim na Silid
+CHARACTER_INC_000723,Leren Chasm Guard,Guwardiya ng Leren Chasm
+CHARACTER_INC_000724,Rhisis Catacombs Guard,Guwardiya ng Rhisis Catacombs
+CHARACTER_INC_000725,Envy Depths Guard,Guwardiya ng Envy Depths
+CHARACTER_INC_000726,Guardiane Sanctuary Guard,Guwardiya ng Guardiane Sanctuary
+CHARACTER_INC_000727,Storm Peak Guard,Guwardiya ng Storm Peak
 CHARACTER_INC_000728,Rankashin,Rankashin
 CHARACTER_INC_100028,Kebaras Pang,Kebaras Pang
 CHARACTER_INC_100029,Pink Easter Bunny,Pink Easter Bunny
 CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
 CHARACTER_INC_100031,Birthday Baker,Birthday Baker
-CHARACTER_INC_100032,[FWC Manager] Ava,[FWC Manager] Ava
+CHARACTER_INC_100032,[FWC Manager] Ava,[Tagapamahala ng FWC] Ava
 CHARACTER_INC_100033,Gacha Machine,Gacha Machine
 CHARACTER_INC_100034,Bach,Bach
 CHARACTER_INC_100035,Private Leo,Private Leo
 CHARACTER_INC_100036,Noah,Noah
 CHARACTER_INC_100037,Conch,Conch
-CHARACTER_INC_100038,Traveling Merchant,Traveling Merchant
-CHARACTER_INC_400000,[Token Merchant] Andrew,[Token Merchant] Andrew
+CHARACTER_INC_100038,Traveling Merchant,Naglalakbay na Mangangalakal
+CHARACTER_INC_400000,[Token Merchant] Andrew,[Mangangalakal ng Token] Andrew
 CHARACTER_INC_100039,Molu,Molu
-CHARACTER_INC_100040,Costume Box,Costume Box
+CHARACTER_INC_100040,Costume Box,Kahon ng Costume
 CHARACTER_INC_100041,Pragas,Pragas
 CHARACTER_INC_100042,Beltung,Beltung
 CHARACTER_INC_100043,Gujane,Gujane
-CHARACTER_INC_000729,The Wilds Guard,The Wilds Guard
-CHARACTER_INC_000730,Rainbow Race Officer,Rainbow Race Officer
-CHARACTER_INC_002000,Mysterious Islander,Mysterious Islander
+CHARACTER_INC_000729,The Wilds Guard,Guwardiya ng The Wilds
+CHARACTER_INC_000730,Rainbow Race Officer,Opisyal ng Rainbow Race
+CHARACTER_INC_002000,Mysterious Islander,Mahiwagang Taga-Isla
 CHARACTER_INC_002001,Pau Pau,Pau Pau
 CHARACTER_INC_002002,Kammie,Kammie
 CHARACTER_INC_002003,BoBu,BoBu
@@ -293,10 +293,10 @@ CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,Inventor Remi
 CHARACTER_INC_002006,Sunny Pang,Sunny Pang
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Guild House Manager] Lousiana
+CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Tagapamahala ng Guild House] Lousiana
 CHARACTER_INC_000773,Santa,Santa
 CHARACTER_INC_100044,Diosa,Diosa
-CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
+CHARACTER_INC_100200,Kalgas Assault Manager,Tagapamahala ng Kalgas Assault
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[Personal House NPC] Casanova
 CHARACTER_INC_003201,[Personal House NPC] Misun,[Personal House NPC] Misun
 CHARACTER_INC_003202,[Personal House NPC] Punk,[Personal House NPC] Punk
@@ -344,13 +344,13 @@ CHARACTER_INC_003243,[Guild House NPC] Alyn,[Guild House NPC] Alyn
 CHARACTER_INC_003244,[Guild House NPC] Lane,[Guild House NPC] Lane
 CHARACTER_INC_003245,[Guild House NPC] Runni,[Guild House NPC] Runni
 CHARACTER_INC_003246,[Guild House NPC] Pang,[Guild House NPC] Pang
-CHARACTER_INC_000774,Orphanage Keeper,Orphanage Keeper
+CHARACTER_INC_000774,Orphanage Keeper,Tagapangalaga ng Bahay-Ampunan
 CHARACTER_INC_003247,Guest Book,Guest Book
 CHARACTER_INC_003248,Bomida,Bomida
 CHARACTER_INC_003249,Negie,Negie
 CHARACTER_INC_100100,Templates,Templates
 CHARACTER_INC_100101,Props,Props
-CHARACTER_INC_100102,NPCs,NPCs
+CHARACTER_INC_100102,NPCs,Mga NPC
 CHARACTER_INC_000775,Chonjang,Chonjang
 CHARACTER_INC_000776,[Event] Chonjang,[Event] Chonjang
 CHARACTER_INC_000777,Defconn,Defconn
@@ -359,47 +359,47 @@ CHARACTER_INC_000779,Sea Shell,Sea Shell
 CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
 CHARACTER_INC_000781,[Event] Roger,[Event] Roger
 CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
-CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
+CHARACTER_INC_100103,[Messenger of Love] Cupid,[Mensahero ng Pag-ibig] Cupid
 CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Personal House NPC] Mac (F Grade)
 CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Personal House NPC] Mac (E Grade)
 CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac (D Grade)
 CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
 CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
 CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
-CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
+CHARACTER_INC_140000,Couple Rings,Mga Singsing ng Mag-kasintahan
+CHARACTER_INC_100104,[Life Master] Livi,[Master ng Buhay] Livi
+CHARACTER_INC_100105,Gathering Tool,Kagamitang Pang-tipon
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
 CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
+CHARACTER_INC_100110,Wounded Revolutionary,Sugatang Rebolusyonaryo
 CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
-CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
-CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
-CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
-CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
-CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
-CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
+CHARACTER_INC_150001,[Airport Guard] Doran,[Guwardiya ng Paliparan] Doran
+CHARACTER_INC_150002,[Airport Guard] Chiron,[Guwardiya ng Paliparan] Chiron
+CHARACTER_INC_150003,[Airport Guard] Bran,[Guwardiya ng Paliparan] Bran
+CHARACTER_INC_150004,[Airport Guard] Karr,[Guwardiya ng Paliparan] Karr
+CHARACTER_INC_150005,[Airport Guard] Zerke,[Guwardiya ng Paliparan] Zerke
+CHARACTER_INC_150006,[Airport Guard] Elin,[Guwardiya ng Paliparan] Elin
+CHARACTER_INC_150007,[Eillun Guard] Gard,[Guwardiya ng Eillun] Gard
+CHARACTER_INC_150008,[Eillun Guard] Liont,[Guwardiya ng Eillun] Liont
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[Guwardiya ng Eillun] Serkan
+CHARACTER_INC_150010,[Eillun Guard] Kras,[Guwardiya ng Eillun] Kras
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[Guwardiya ng Eillun] Maeron
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[Guwardiya ng Eillun] Kerion
+CHARACTER_INC_150013,[Eillun Guard] Raon,[Guwardiya ng Eillun] Raon
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[Guwardiya ng Eillun] Dreon
+CHARACTER_INC_150015,[Eillun Guard] Merk,[Guwardiya ng Eillun] Merk
+CHARACTER_INC_150016,[Captain] Baron,[Kapitan] Baron
 CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
+CHARACTER_INC_150018,[Elder] Ayr,[Nakatatanda] Ayr
+CHARACTER_INC_150019,[Elder] Traitus,[Nakatatanda] Traitus
+CHARACTER_INC_150020,[Elder] Melak,[Nakatatanda] Melak
+CHARACTER_INC_150021,[Elder] Silar,[Nakatatanda] Silar
+CHARACTER_INC_150022,[Elder] Ebron,[Nakatatanda] Ebron
+CHARACTER_INC_150023,[Elder] Luteon,[Nakatatanda] Luteon
 CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
+CHARACTER_INC_150025,[Jewel Manager] Teron,[Tagapamahala ng Alahas] Teron
 CHARACTER_INC_150026,Haret,Haret
 CHARACTER_INC_150027,Domir,Domir
 CHARACTER_INC_150028,Toran,Toran
@@ -415,16 +415,16 @@ CHARACTER_INC_150037,Lumi,Lumi
 CHARACTER_INC_150038,Ivelyn,Ivelyn
 CHARACTER_INC_150039,Selin,Selin
 CHARACTER_INC_150040,Kaela,Kaela
-CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
+CHARACTER_INC_150041,[Pet Tamer] Livia,[Tagapag-alaga ng Alagang Hayop] Livia
 CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
-CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
-CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
-CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
+CHARACTER_INC_150044,[Mysterious] ??? ,[Misteryoso] ???
+CHARACTER_INC_150045,[Expedition] Beck,[Ekspedisyon] Beck
+CHARACTER_INC_150046,Asylum Guard,Guwardiya ng Asylum
+CHARACTER_INC_150047,Mysterious Adventurer,Mahiwagang Manlalakbay
+CHARACTER_INC_150048,Jarl (Dying),Jarl (Naghihingalo)
+CHARACTER_INC_150049,[PTS Manager] Mewdev,[Tagapamahala ng PTS] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
 CHARACTER_INC_150051,[Post Office] Cheirang,[Post Office] Cheirang
-CHARACTER_INC_150052,[Village Chief] Huntrang,[Village Chief] Huntrang
-CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
+CHARACTER_INC_150052,[Village Chief] Huntrang,[Pinuno ng Nayon] Huntrang
+CHARACTER_INC_150053,[Arena Manager] Aerin,[Tagapamahala ng Arena] Aerin

@@ -1,115 +1,115 @@
 ﻿Key,English,Filipino
-UI_EVENT_EXPBOOST,Exp Boost!,Exp Boost!
-UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,Accessory Upgrading!
-UI_EVENT_WEAPONPIERCING,Weapon Piercing!,Weapon Piercing!
-UI_EVENT_PARTYEXPBOOST,Party Exp Boost!,Party Exp Boost!
-UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,Find the Golden Aibatt!
+UI_EVENT_EXPBOOST,Exp Boost!,Pag-boost ng EXP!
+UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,Pag-upgrade ng Accessory!
+UI_EVENT_WEAPONPIERCING,Weapon Piercing!,Piercing ng Sandata!
+UI_EVENT_PARTYEXPBOOST,Party Exp Boost!,Boost ng EXP para sa Party!
+UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,Hanapin ang Golden Aibatt!
 UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,Patayin ang Golden Aibatt sa mga dungeon at makakuha ng mga drop bonus!
-UI_EVENT_NIGHTBOOST,Night Boost!,Night Boost!
-UI_EVENT_NIGHTBOOST_DESC,+30% Exp when it's night in game!,+30% Exp when it's night in game!
-UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 Exp!!,It's night! x1.3 Exp!!
-UI_EVENT_NIGHTBOOST_DAY,"Sun is here, x1.3 Exp is over...","Sun is here, x1.3 Exp is over..."
-UI_EVENT_EASTER,Easter Event,Easter Event
-UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,Complete Eggcellent's Meadow to get Pink Easter Eggs!
-UI_EVENT_SPRING,Spring Event!,Spring Event!
-UI_EVENT_DIAMONDINTHESKY,Diamond in the sky,Diamond in the sky
-UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,Destroy the stars in the night sky to obtain star fragments!
-UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out.. Find them in the sky!,Night has come! The stars are coming out.. Find them in the sky!
-UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing.","Nighttime has passed, the stars are disappearing."
-UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,Dungeon Coins Discount!
-UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,Spend fewer Dungeon Coins when taking on missions or entering dungeons!
-UI_EVENT_ANNIVERSARY,1 Year Anniversary!,1 Year Anniversary!
-UI_EVENT_ANNIVERSARY_DESC,FlyFF Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe is turning 1! A huge thank you to all of our players who made this milestone possible!
-UI_EVENT_ANNIVERSARY_ATTENDANCE,1 Year Anniversary Attendance,1 Year Anniversary Attendance
-UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Login each day for 40 minutes and receive rewards!
+UI_EVENT_NIGHTBOOST,Night Boost!,Gabi Boost!
+UI_EVENT_NIGHTBOOST_DESC,+30% Exp when it's night in game!,+30% EXP kapag gabi sa laro!
+UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 Exp!!,Gabi na! x1.3 EXP!!
+UI_EVENT_NIGHTBOOST_DAY,"Sun is here, x1.3 Exp is over...","Sumikat na ang araw, tapos na ang x1.3 EXP..."
+UI_EVENT_EASTER,Easter Event,Easter na Kaganapan
+UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,Tapusin ang Eggcellents Meadow para makakuha ng Pink Easter Eggs!
+UI_EVENT_SPRING,Spring Event!,Spring na Kaganapan!
+UI_EVENT_DIAMONDINTHESKY,Diamond in the sky,Diamante sa Langit
+UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,Sirain ang mga bituin sa kalangitan ng gabi para makakuha ng mga piraso ng bituin!
+UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out.. Find them in the sky!,Dumating na ang gabi! Lumalabas na ang mga bituin.. Hanapin sila sa langit!
+UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing.","Lumipas na ang gabi, nawawala na ang mga bituin."
+UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,Diskwento sa Dungeon Coins!
+UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,Mas kakaunti ang Dungeon Coins na gagastusin kapag kumukuha ng misyon o pumapasok sa dungeon!
+UI_EVENT_ANNIVERSARY,1 Year Anniversary!,Ika-1 Anibersaryo!
+UI_EVENT_ANNIVERSARY_DESC,FlyFF Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,Isang taon na ang FlyFF Universe! Malaking pasasalamat sa lahat ng manlalaro na nagawa itong posible!
+UI_EVENT_ANNIVERSARY_ATTENDANCE,1 Year Anniversary Attendance,Pagdalo para sa Ika-1 Anibersaryo
+UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Mag-login araw-araw nang 40 minuto at makatanggap ng mga gantimpala!
 UI_EVENT_FWC,Flyff World Championship,Flyff World Championship
-UI_EVENT_FWC_LEVELREACH,FWC Level Reach,FWC Level Reach
-UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!
-UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear at the [FWC Manager] Ava to get more rewards!,Exchange FWC Gear at the [FWC Manager] Ava to get more rewards!
-UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted Exp and Drops and attempt to win exceptional prizes!","The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted Exp and Drops and attempt to win exceptional prizes!"
+UI_EVENT_FWC_LEVELREACH,FWC Level Reach,Abutin ang Level sa FWC
+UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,Abutin ang mga bagong level habang tumatakbo ang event at tumanggap ng mga gantimpala! Eksklusibo sa Flyff World Championship server!
+UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear at the [FWC Manager] Ava to get more rewards!,Ipagpalit ang FWC Gear kay [FWC Manager] Ava para makakuha ng dagdag na gantimpala!
+UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted Exp and Drops and attempt to win exceptional prizes!","Ang #bFlyff World Championship#nb ay isang pandaigdigang kompetisyon hanggang Setyembre 7, 2023. Sumali sa server na may pinalakas na EXP at Drop at subukan manalo ng mga natatanging premyo!"
 UI_EVENT_MOCOMOCHI,Mocomochi!,Mocomochi!
-UI_EVENT_UPGRADING,Upgrading!,Upgrading!
-UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Lucky Draw!
-UI_EVENT_LUCKYCAPSULE_DESC,Earn coins by defeating monsters or completing quests for the Gacha Machine NPC and receive exceptional rewards!,Earn coins by defeating monsters or completing quests for the Gacha Machine NPC and receive exceptional rewards!
-UI_EVENT_DROPBOOST,Drop Boost!,Drop Boost!
-UI_EVENT_SUITPIERCING,Suit Piercing!,Suit Piercing!
+UI_EVENT_UPGRADING,Upgrading!,Pag-a-upgrade!
+UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Swertehan!
+UI_EVENT_LUCKYCAPSULE_DESC,Earn coins by defeating monsters or completing quests for the Gacha Machine NPC and receive exceptional rewards!,Kumita ng coins sa pagpatay ng mga monster o pagtapos ng quests para sa Gacha Machine NPC at tumanggap ng natatanging gantimpala!
+UI_EVENT_DROPBOOST,Drop Boost!,Boost sa Drop!
+UI_EVENT_SUITPIERCING,Suit Piercing!,Piercing ng Suit!
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff Music Festival!
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them to NPC Bach,Collect Music Notes and Music Score Scrolls from monsters and exchange them to NPC Bach
-UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,+30% Experience!
-UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,+30% Party Experience!
-UI_EVENT_SECRETBOOST,Secret boost!,Secret boost!
-UI_EVENT_RESCUE,Rescue Private Leo!,Rescue Private Leo!
-UI_EVENT_STONERAIN,Stone Rain!,Stone Rain!
-UI_EVENT_STONERAIN_DESC,Drop upgrade stones pieces!,Drop upgrade stones pieces!
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them to NPC Bach,Kolektahin ang Music Notes at Music Score Scrolls mula sa mga monster at ipagpalit ang mga ito kay NPC Bach
+UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,+30% EXP!
+UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,+30% Party EXP!
+UI_EVENT_SECRETBOOST,Secret boost!,Lihim na boost!
+UI_EVENT_RESCUE,Rescue Private Leo!,Iligtas si Private Leo!
+UI_EVENT_STONERAIN,Stone Rain!,Ulan ng Bato!
+UI_EVENT_STONERAIN_DESC,Drop upgrade stones pieces!,Mga piraso ng Drop Upgrade Stone!
 UI_EVENT_LUCKYRPS,Lucky RPS Event,Lucky RPS Event
 UI_EVENT_SERVICEMIGRATION,September Connect,September Connect
-UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,Player Survey! Aim for special rewards!
-UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,Visit https://linktr.ee/flyffuniverse
+UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,Player Survey! Sumagot para sa espesyal na gantimpala!
+UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,Bisitahin ang https://linktr.ee/flyffuniverse
 UI_EVENT_OKTOBERFEST,Oktoberfest!,Oktoberfest!
-UI_EVENT_TIME_TO_HUNT,Time to Hunt,Time to Hunt
-UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?","It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?"
+UI_EVENT_TIME_TO_HUNT,Time to Hunt,Panahon na para Manghuli
+UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?",Napakabountiful ng taon kaya maraming monster ang umaatake sa mga pananim. Panahon na para hulihin sila! Matutulungan mo ba kami?
 UI_EVENT_TRICKORTREAT,Trick or Treat,Trick or Treat
-UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,Halloween World Bosses
-UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,Catch the Thief Santa
-UI_EVENT_NEWYEAR,New Year,New Year
-UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boss Drop Boost!
-UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop+20%!,Dungeon Boss Drop+20%!
+UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,Mga World Boss ng Halloween
+UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,Hulihin ang Magnanakaw na Santa
+UI_EVENT_NEWYEAR,New Year,Bagong Taon
+UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boost sa Drop ng Boss!
+UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop+20%!,Boss Drop sa Dungeon +20%!
 UI_EVENT_WEATHERBOOST,Weather Boost!,Weather Boost!
-UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,1.3 Update Survey! Aim for special rewards!
-UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,Attack of the Snow Clones
-UI_EVENT_LETTER_COLLECTION,2024 Valentine's Day,2024 Valentine's Day
-UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!!!,Exchange letters with a loved one or friend to complete the phrases below!!!
-UI_EVENT_LETTER_COLLECTION_PT50,50 points,50 points
-UI_EVENT_LETTER_COLLECTION_PT100,100 points,100 points
-UI_EVENT_LETTER_COLLECTION_PT150,150 points,150 points
-UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 points
-UI_EVENT_CANDYEVENT,Candy Event,Candy Event
-UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Spring 2024 Event
-UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Attack of the Hungry Monsters
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Daily Connection
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Let's celebrate for 2nd anniversary of Flyff Universe!
-UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2nd Anniversary!
-UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!
-UI_EVENT_ANNIVERSARY2_CAKE,Cake,Cake
-UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Couple Ring from the Legend
-UI_EVENT_EXPBOOST_DESC_100,Experience x2!,Experience x2!
-UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,Drop Chance x2!
-UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Instance Dungeon Cooldown
-UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Upgrade Boost!
-UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Upgrade Chance x2!
+UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,1.3 Update Survey! Sumagot para sa espesyal na gantimpala!
+UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,Atake ng mga Snow Clones
+UI_EVENT_LETTER_COLLECTION,2024 Valentine's Day,Valentine's Day 2024
+UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!!!,Magpalitan ng liham sa minamahal o kaibigan para kumpletuhin ang mga parirala sa ibaba!!!
+UI_EVENT_LETTER_COLLECTION_PT50,50 points,50 puntos
+UI_EVENT_LETTER_COLLECTION_PT100,100 points,100 puntos
+UI_EVENT_LETTER_COLLECTION_PT150,150 points,150 puntos
+UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 puntos
+UI_EVENT_CANDYEVENT,Candy Event,Kaganapan ng Candy
+UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Spring Event 2024
+UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Atake ng mga Gutom na Monster
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Araw-araw na Koneksyon
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Magdiwang tayo para sa ikalawang anibersaryo ng Flyff Universe!
+UI_EVENT_ANNIVERSARY2,2nd Anniversary!,Ika-2 Anibersaryo!
+UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,Dalawang taon na ang FlyFF Universe! Malaking pasasalamat sa lahat ng manlalaro na nagawang makamit ito!
+UI_EVENT_ANNIVERSARY2_CAKE,Cake,Keyk
+UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Couple Ring mula sa Legend
+UI_EVENT_EXPBOOST_DESC_100,Experience x2!,EXP x2!
+UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,Double ang tsansa ng drop!
+UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Cooldown ng Instance Dungeon
+UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Boost sa Upgrade!
+UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Tsansa ng Upgrade x2!
 UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
-UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon and own a permanent costume!,Obtain EXP and event items in the dungeon and own a permanent costume!
-UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Roll your Lucky Dice!
-UI_EVENT_ROLL_DICE_DESC,Complete Daily Quests to earn an opportunity to roll the dice for rewards!,Complete Daily Quests to earn an opportunity to roll the dice for rewards!
-UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyff's 20th Anniversary
-UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th anniversary!,Celebrate Flyff's 20th anniversary!
-UI_EVENT_PIRATESHIP,Plunder the treasure from the Pirate Ship!,Plunder the treasure from the Pirate Ship!
+UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon and own a permanent costume!,Kumuha ng EXP at mga event item sa dungeon at makuha ang permanenteng costume!
+UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,I-roll ang Lucky Dice mo!
+UI_EVENT_ROLL_DICE_DESC,Complete Daily Quests to earn an opportunity to roll the dice for rewards!,Tapusin ang Daily Quests para magkaron ng pagkakataong i-roll ang dice para sa mga gantimpala!
+UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Ika-20 Anibersaryo ng Flyff
+UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th anniversary!,Ipagdiwang ang ika-20 anibersaryo ng Flyff!
+UI_EVENT_PIRATESHIP,Plunder the treasure from the Pirate Ship!,Agawin ang kayamanan mula sa Pirate Ship!
 UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
-UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1 Update Celebration
-UI_EVENT_145_ATTENDANCE,Login Event,Login Event
-UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Login each day for 30 minutes and receive rewards!
-UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Mastery Event
-UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Increase your life gathering mastery gain by 20%!
-UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Mastery Event
-UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Increase your life production mastery gain by 20%!
-UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
-UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Increase your whole life mastery gain by 20%!
-UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Increase your life gathering speed by 20%!
-UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
-UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Increase your life production speed by 20%!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Life Gathering Durability Cost Reduction Event!
-UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces by 1 the durability cost when gathering!,Reduces by 1 the durability cost when gathering!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Marchant Renewal Event!,Life Wandering Marchant Renewal Event!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The wandering merchant's renewal will occur 30 minutes earlier during the event!,The wandering merchant's renewal will occur 30 minutes earlier during the event!
-UI_EVENT_LIFEGATHERINGSPAWN,Increased Life Gathering Spawn Event!,Increased Life Gathering Spawn Event!
-UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,Increase gathering objects spawn count by 20%!,Increase gathering objects spawn count by 20%!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Items!,Life Wandering Merchant Items!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!
-UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3rd Anniversary Field Boss Event
+UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Pagdiriwang ng 1.4.1 Update
+UI_EVENT_145_ATTENDANCE,Login Event,Kaganapan sa Pag-login
+UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Mag-login araw-araw nang 30 minuto at makatanggap ng mga gantimpala!
+UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Kaganapan: Life Gathering Mastery
+UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Tumaas ng 20% ang makukuhang life gathering mastery!
+UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Kaganapan: Life Production Mastery
+UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Tumaas ng 20% ang makukuhang life production mastery!
+UI_EVENT_LIFEMASTERY,Life Mastery Event,Kaganapan: Life Mastery
+UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Tumaas ng 20% ang kabuuang makukuhang life mastery!
+UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Kaganapan: Life Gathering Speed
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Tumaas ng 20% ang bilis ng life gathering mo!
+UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Kaganapan: Life Production Speed
+UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Tumaas ng 20% ang bilis ng life production mo!
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Kaganapan: Bawas sa Durability Cost ng Life Gathering!
+UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces by 1 the durability cost when gathering!,Binabawasan ng 1 ang durability cost kapag nag-ga-gather!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Marchant Renewal Event!,Kaganapan: Mas Maagang Renewal ng Life Wandering Merchant!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The wandering merchant's renewal will occur 30 minutes earlier during the event!,Ang renewal ng wandering merchant ay magaganap 30 minuto nang mas maaga habang event!
+UI_EVENT_LIFEGATHERINGSPAWN,Increased Life Gathering Spawn Event!,Kaganapan: Nadagdagang Spawn ng Life Gathering!
+UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,Increase gathering objects spawn count by 20%!,Tumaas ng 20% ang dami ng lumilitaw na gathering objects!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Items!,Mga Item ng Life Wandering Merchant!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!,Nadagdagan ng 2 ang maximum na bilang ng item sa shop ng wandering merchant habang event!
+UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,Ika-3 Anibersaryo: Field Boss Event
 UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Prediction Event
 UI_EVENT_FWC_PREDICTION_DESC,FWC Championship Prediction Event!,FWC Championship Prediction Event!
-UI_EVENT_TIMETOUPGRADE,It's time to Upgrade!,It's time to Upgrade!
-UI_EVENT_TIMETOUPGRADE_DESC,"Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box.","Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box."
-UI_EVENT_PTS,Public Test Server,Public Test Server
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information.","Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information."
+UI_EVENT_TIMETOUPGRADE,It's time to Upgrade!,Panahon na para Mag-upgrade!
+UI_EVENT_TIMETOUPGRADE_DESC,"Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box.","Maabot ang bawat upgrade level mula 1 hanggang 10 nang isang beses habang event para makatanggap ng gantimpala. Kapag natapos mo ang lahat ng 10 yugto, makakatanggap ka ng Ultimate Accessory Selection Box."
+UI_EVENT_PTS,Public Test Server,Pampublikong Test Server
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information.","Tumaas ang rates, nabawasan ang dungeon cooldowns, at marami pang iba! Bisitahin ang Discord para sa karagdagang impormasyon."
