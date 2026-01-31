@@ -2220,7 +2220,7 @@ PROPITEM_TXT_004220,Meat Skewer
 PROPITEM_TXT_004221,Recovers 120 HP
 PROPITEM_TXT_004222,Barbecue
 PROPITEM_TXT_004223,Recovers 160 HP
-PROPITEM_TXT_004224,Seafood Pan Cake
+PROPITEM_TXT_004224,Seafood Pancake
 PROPITEM_TXT_004225,Recovers 230 HP
 PROPITEM_TXT_004226,Fish Soup
 PROPITEM_TXT_004227,Recovers 300 HP
@@ -2797,7 +2797,7 @@ PROPITEM_TXT_004897,Quest item that drops from Jack the Hammer.
 PROPITEM_TXT_004898,Gigglande
 PROPITEM_TXT_004899,Quest item that drops from Giggle Box.
 PROPITEM_TXT_004900,Crescent Stone
-PROPITEM_TXT_004901,Quest item that drops from Rockmuscle.
+PROPITEM_TXT_004901,Quest item that drops from Rock Muscle.
 PROPITEM_TXT_004902,Boband
 PROPITEM_TXT_004903,Quest item that drops from Hobo.
 PROPITEM_TXT_004904,Dumbling
@@ -7188,7 +7188,7 @@ PROPITEM_TXT_010959,This box contains the Cyber Punk Set for female characters.
 PROPITEM_TXT_100697,Baby Peakyturtle
 PROPITEM_TXT_100698,"A cute and fast, baby, Peakyturtle that follows its master around and picks up dropped items"
 PROPITEM_TXT_100699,Baby Rock Muscle
-PROPITEM_TXT_100700,"A cute and fast, baby, Rockmuscle that follows its master around and picks up dropped items"
+PROPITEM_TXT_100700,"A cute and fast, baby, Rock Muscle that follows its master around and picks up dropped items"
 PROPITEM_TXT_100701,Vital Drink X or Refresher Hold
 PROPITEM_TXT_100702,Select if you want to receive a Vital Drink X or Refresher Hold!
 PROPITEM_TXT_100703,Kitty or Doggy (7 Days)
@@ -13247,10 +13247,10 @@ PROPITEM_TXT_009042,Cotton Candy Box
 PROPITEM_TXT_009043,Select which Cotton Candy you want to receive!
 PROPITEM_TXT_009046,Turkey Box
 PROPITEM_TXT_009047,Select which Turkey you want to receive!
-PROPITEM_TXT_230212,Additional Attendance Coupon
-PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.
-PROPITEM_TXT_230214,Additional Connection Coupon
-PROPITEM_TXT_230215,Coupon to earn additional connection rewards.
+PROPITEM_TXT_230212,Bonus Playtime Coupon
+PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.
+PROPITEM_TXT_230214,Bonus Login Coupon
+PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over."
 PROPITEM_TXT_230216,Extended January Pass
 PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230218,PlayPark Launch Gift
@@ -16466,7 +16466,7 @@ PROPITEM_TXT_132268,[Event] Fourth Completion Gift
 PROPITEM_TXT_132270,[Event] Dice Set
 PROPITEM_TXT_132271,You can roll the dice on the board and obtain various rewards.
 PROPITEM_TXT_132272,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scrolls of Guild Custody, 5 Scrolls of General Shop, and 5 Scrolls of Food Shop."
-PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket."
+PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon."
 PROPITEM_TXT_132274,"Third completion reward for Roll your Lucky Dice!\nYou can earn 5 Power Scrolls, 5 Scrolls of Velocity, and 5 Def-Upcut Stones."
 PROPITEM_TXT_132275,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stones, 5 Vital Drink X or Refresher Hold, 5 Scrolls of Amplification ES, and 5 Scrolls of Return."
 PROPITEM_TXT_725583,FWC PvE Supply Package (FWC Only)
@@ -17802,11 +17802,11 @@ PROPITEM_TXT_133421,Fish Ball (B)
 PROPITEM_TXT_133422,Fish Ball (A)
 PROPITEM_TXT_133423,Fish Ball (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133425,Seafood Pan Cake (C)
+PROPITEM_TXT_133425,Seafood Pancake (C)
 PROPITEM_TXT_133426,Recovers 276 HP
-PROPITEM_TXT_133427,Seafood Pan Cake (B)
-PROPITEM_TXT_133428,Seafood Pan Cake (A)
-PROPITEM_TXT_133429,Seafood Pan Cake (A+)
+PROPITEM_TXT_133427,Seafood Pancake (B)
+PROPITEM_TXT_133428,Seafood Pancake (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+)
 PROPITEM_TXT_133430,Recovers 299 HP
 PROPITEM_TXT_133431,Fish Soup (C)
 PROPITEM_TXT_133432,Recovers 360 HP
@@ -21004,8 +21004,8 @@ PROPITEM_TXT_827582,Neon Valentines White Chair Single Pack
 PROPITEM_TXT_827583,Neon Valentines White Bath Single Pack
 PROPITEM_TXT_827584,Neon Valentines White Bed Single Pack
 PROPITEM_TXT_827585,Neon Valentines White Sofa Single Pack
-PROPITEM_TXT_827586,Attendance Coupon Box
-PROPITEM_TXT_827587,A package containing 1x Additional Attendance Coupon and 5x Scroll of Amplification ES. All items are also linked.
+PROPITEM_TXT_827586,Playtime Coupon Box
+PROPITEM_TXT_827587,A package containing 1x Bonus Playtime Coupon and 5x Scroll of Amplification ES. All items are also linked.
 PROPITEM_TXT_827588,Magical Potion Box
 PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked."
 PROPITEM_TXT_829999,Lifestyle Mastery Bag
@@ -23247,8 +23247,8 @@ PROPITEM_TXT_134812,FWC Coin
 PROPITEM_TXT_134813,Betting currency
 PROPITEM_TXT_134814,2025 FWC Championship Pass
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season
-PROPITEM_TXT_134816,FWC Additional attendance Coupon
-PROPITEM_TXT_134817,Coupon to earn FWC additional attendance rewards.
+PROPITEM_TXT_134816,FWC Bonus Playtime Coupon
+PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.
 PROPITEM_TXT_134818,Blessing of the FWC coin
 PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%
 PROPITEM_TXT_901407,Nobility 10% Blue Set
@@ -23476,7 +23476,7 @@ PROPITEM_TXT_901600,Firefighter 2025 Red Hands (F)
 PROPITEM_TXT_901601,Firefighter 2025 Neon Hands (M)
 PROPITEM_TXT_901602,Firefighter 2025 Neon Hands (F)
 PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop"
-PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket."
+PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon."
 PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box"
 PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return."
 PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box
@@ -23669,7 +23669,7 @@ PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Li
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2
 PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked."
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3
-PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Additional Attendance Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked."
+PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked."
 PROPITEM_TXT_901798,Myth Costume Select Box 1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked."
 PROPITEM_TXT_901800,Butterflies Pet select box
