@@ -352,7 +352,7 @@ PROPSKILL_TXT_100027,Redirect damage taken from a target player to yourself.
 PROPSKILL_TXT_000392,Rending Entry
 PROPSKILL_TXT_000393,"Teleport to your cursor click position, dealing damage to nearby enemies. Chance to slow the enemy. If an enemy dies to this attack, Rending Entry's cooldown is reset."
 PROPSKILL_TXT_000394,Barrier of Life
-PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.
+PROPSKILL_TXT_000395,The target blocks the next incoming hit(s) for the duration of the buff.
 PROPSKILL_TXT_000430,Gravity Well
 PROPSKILL_TXT_000431,Creates a gravity well at your cursor position that considerably slows enemies in the area.
 PROPSKILL_TXT_000440,Eye of the Storm
