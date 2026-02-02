@@ -1,11 +1,11 @@
 ﻿Key,English,Russian
 TEXTCLIENT_CONNECTING,Connecting. Please wait.,Соединение…
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Не удалось подключиться к игре. Проверьте соединение. Вы также можете обратиться к администрации для решения проблемы.
-TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,The game has been updated. Please close the page and open it again.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Игра обновлена. Пожалуйста, закройте страницу и откройте её снова.
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Неправильный идентификатор сервера.
 TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Неизвестная ошибка, пожалуйста попробуйте ещё раз."
-TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Your account is already connected.
-TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Do you want to disconnect the other device?
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Ваш аккаунт уже подключен.
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Вы хотите отключить другое устройство?
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,The device is being disconnected. Please login again in 10 seconds.
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Данный канал полностью заполнен, пожалуйста подождите или попробуйте выбрать другой."
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Это имя занято.
@@ -138,7 +138,7 @@ TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party 
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,"Вы не можете вступить в труппу, пока не завершите поединок."
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,"Вы не можете вступить в гильдию, пока не завершите поединок."
 TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Во время поединка принимать новых игроков в труппу нельзя.
-TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Cannot invite a player from a different channel.
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Невозможно пригласить игрока с другого канала.
 TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s состоит в другой труппе.
 TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s уже в вашей труппе.
 TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,Игрок не может присоединиться к труппе.
