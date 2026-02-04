@@ -1,25 +1,25 @@
 ﻿Key,English,Filipino
-ITEMTYPE_1H_SWORD,1H Sword,1H Sword
-ITEMTYPE_2H_SWORD,2H Sword,2H Sword
-ITEMTYPE_1H_AXE,1H Axe,1H Axe
-ITEMTYPE_2H_AXE,2H Axe,2H Axe
+ITEMTYPE_1H_SWORD,1H Sword,Espada (Isang-kamay)
+ITEMTYPE_2H_SWORD,2H Sword,Espada (Dalawang kamay)
+ITEMTYPE_1H_AXE,1H Axe,Palakol (Isang-kamay)
+ITEMTYPE_2H_AXE,2H Axe,Palakol (Dalawang kamay)
 ITEMTYPE_KNUCKLE,Knuckle,Knuckle
-ITEMTYPE_STICK,Stick,Stick
-ITEMTYPE_BOW,Bow,Bow
-ITEMTYPE_YOYO,Yo-Yo,Yo-Yo
+ITEMTYPE_STICK,Stick,Baston
+ITEMTYPE_BOW,Bow,Pana
+ITEMTYPE_YOYO,Yo-Yo,Yo-yo
 ITEMTYPE_WAND,Wand,Wand
 ITEMTYPE_STAFF,Staff,Staff
-ITEMTYPE_COSTUME,Costume,Costume
-ITEMTYPE_SHOES,Shoes,Shoes
-ITEMTYPE_PICKUP,Pick-Up Pet,Pick-Up Pet
-ITEMTYPE_REAR_PET,Raised Pet,Raised Pet
-ITEMTYPE_CONSUMABLE,Consumable,Consumable
-ITEMTYPE_BOARD,Board,Board
-ITEMTYPE_CAR,Car,Car
-ITEMTYPE_WINGS,Wings,Wings
-ITEMTYPE_BIKE,Bike,Bike
-ITEMTYPE_BERRY,Berry,Berry
-ITEMTYPE_DICE,Dice,Dice
-ITEMTYPE_BOX,Box,Box
-ITEMTYPE_VANITY,Vanity,Vanity
+ITEMTYPE_COSTUME,Costume,Kostyum
+ITEMTYPE_SHOES,Shoes,Sapatos
+ITEMTYPE_PICKUP,Pick-Up Pet,Alagang Nangongolekta
+ITEMTYPE_REAR_PET,Raised Pet,Alagang Pinalaki
+ITEMTYPE_CONSUMABLE,Consumable,Ginagamit
+ITEMTYPE_BOARD,Board,Tabla
+ITEMTYPE_CAR,Car,Kotse
+ITEMTYPE_WINGS,Wings,Pakpak
+ITEMTYPE_BIKE,Bike,Bisikleta
+ITEMTYPE_BERRY,Berry,Beri
+ITEMTYPE_DICE,Dice,Dado
+ITEMTYPE_BOX,Box,Kahon
+ITEMTYPE_VANITY,Vanity,Pamporma
 ITEMTYPE_CHIP,Chip,Chip

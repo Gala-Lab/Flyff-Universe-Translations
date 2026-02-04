@@ -1,186 +1,186 @@
-﻿Key,English,Filipino
-MMI_0,Dialog,Dyalogo
-MMI_1,Quest,Quest
-MMI_2,Trade,Kalakal
+Key,English,Filipino
+MMI_0,Dialog,Dayalogo
+MMI_1,Quest,Misyon
+MMI_2,Trade,Kalakalan
 MMI_3,Attack,Atake
 MMI_4,Message,Mensahe
-MMI_5,Add to my list,Idagdag sa aking listahan
-MMI_6,Invite to join party,Iimbita sa party
-MMI_7,Invite to join guild,Iimbita sa guild
-MMI_8,Place of Resurrection,Pwesto ng Resurrection
-MMI_9,Bank,Banko
-MMI_10,Duel,Duel
-MMI_11,Request party duel,Humiling ng party duel
+MMI_5,Add to my list,Idagdag sa listahan ko
+MMI_6,Invite to join party,Imbitahin sa party
+MMI_7,Invite to join guild,Imbitahin sa guild
+MMI_8,Place of Resurrection,Lugar ng Muling Pagkabuhay
+MMI_9,Bank,Bangko
+MMI_10,Duel,Duelo
+MMI_11,Request party duel,Humiling ng duelo ng party
 MMI_12,Follow,Sundan
-MMI_13,Beauty Shop,Shop ng Pampaganda
+MMI_13,Beauty Shop,Tindahan ng Kagandahan
 MMI_14,Repair,Ayusin
-MMI_15,Guild Warehouse,Guild Warehouse
-MMI_16,Guild ranking,Guild ranking
-MMI_17,Guild war ranking,Guild war ranking
-MMI_18,Overall guild war ranking,Overall guild war ranking
-MMI_21,Put Bounty,Bigyang ng Pabuya
-MMI_22,See the Bounty List,Tignang ang mga Pabuya
-MMI_24,View equipment,Tignan ang gamit
-MMI_25,Mailbox,Mailbox
-MMI_26,Apply,Apply
-MMI_27,Status,Kalagayan
-MMI_28,Cancel,Kansela
-MMI_29,Enter,Sumali
-MMI_30,Ranking,Ranking
-MMI_31,Cheer,Aluin
-MMI_32,Remove piercing card,Tangal butas ng kard
-MMI_33,Lineup Setup,Pagpasok
-MMI_34,Claim Guild Penya,Resibo sa perang premyo at bayad pagpairal
-MMI_35,Reward Information,Kaalaman sa perang premyo
-MMI_36,Claim MVP Penya Reward,Pagtangap ng perang pa-premyo bilang MVP
-MMI_37,Participation Information,Kaalaman sa partisipasyon
-MMI_38,Basic Rules,Alituntunin
-MMI_39,Winning Conditions,Kailanganin para manalo
-MMI_40,Application Fee Information,Kaalaman sa komisyon
-MMI_41,The refund of application fee,Pag sauli sa bayad ng aplikasyon
-MMI_42,Cosmetic Upgrades,Pagpaganda
-MMI_44,Rock-Paper-Scissors,Bato-bato-pete
-MMI_49,Pet State,Katayuan ng alaga
-MMI_50,Un-summon pet,Itago ang alaga
-MMI_51,Create Shining Power Dice,Mag-likha ng Shining Power Dice
-MMI_53,Create Jewels,Mag-likha ng Jewels
-MMI_54,Create Unique Weapon,Mag-Likha ng Unique Weapon
-MMI_59,Remove Element,Remove Element
-MMI_71,Remove Level Reduction,Tangalin ang Level Reduction
-MMI_74,Get Buffed!,Pa Buff lods
-MMI_75,Exchange Rare Item Pieces,Palitan ang Rare Item Pieces
-MMI_76,Exchange Card Pieces,Palitan ang Card Pieces
-MMI_79,Remove Premium Item Blessing,Remove Premium Item Blessing
+MMI_15,Guild Warehouse,Imbakan ng Guild
+MMI_16,Guild ranking,Ranggo ng Guild
+MMI_17,Guild war ranking,Ranggo sa Digmaang Guild
+MMI_18,Overall guild war ranking,Pangkalahatang ranggo sa digmaang guild
+MMI_21,Put Bounty,Maglagay ng bounty
+MMI_22,See the Bounty List,Tingnan ang listahan ng bounty
+MMI_24,View equipment,Tingnan ang kagamitan
+MMI_25,Mailbox,Kahon ng Liham
+MMI_26,Apply,Mag-apply
+MMI_27,Status,Katayuan
+MMI_28,Cancel,Kanselahin
+MMI_29,Join,Sumali
+MMI_30,Ranking,Ranggo
+MMI_31,Cheer,Palakpakan
+MMI_32,Remove piercing card,Alisin ang piercing card
+MMI_33,Entry,Pagpasok
+MMI_34,Receipt prize money and application money,Tanggapin ang premyong pera at bayad sa aplikasyon
+MMI_35,The information of prize money,Impormasyon tungkol sa premyong pera
+MMI_36,Acceptance of prize money for MVP,Pagtanggap ng premyong pera para sa MVP
+MMI_37,Information to Participate,Impormasyon sa Paglahok
+MMI_38,Basic Rule,Pangunahing Patakaran
+MMI_39,Condition to Win,Kondisyon para Manalo
+MMI_40,The information of a commission,Impormasyon tungkol sa komisyon
+MMI_41,The refund of application fee,Pag-refund ng bayad sa aplikasyon
+MMI_42,Cosmetic Upgrades,Pag-upgrade ng Hitsura
+MMI_44,Rock-Paper-Scissors,"Bato, Papel, Gunting"
+MMI_49,Pet State,Kalagayan ng Alaga
+MMI_50,Un-summon pet,I-unsummon ang alaga
+MMI_51,Create Shining Power Dice,Gumawa ng Shining Power Dice
+MMI_53,Create Jewels,Gumawa ng Hiyas
+MMI_54,Create Unique Weapon,Gumawa ng Natatanging Sandata
+MMI_59,Remove Element,Alisin ang Elemento
+MMI_71,Remove Level Reduction,Alisin ang pagbabawas ng antas
+MMI_74,Get Buffed!,Kumuha ng buff!
+MMI_75,Exchange Rare Item Pieces,Palitan ang mga piraso ng bihirang item
+MMI_76,Exchange Card Pieces,Palitan ang mga piraso ng card
+MMI_79,Remove Premium Item Blessing,Alisin ang bendisyon ng premium item
 MMI_80,Enter Arena,Pumasok sa Arena
-MMI_81,Leave Arena,Lumabas sa Arena
-MMI_82,Arena Ranking,Arena Ranking
-MMI_83,Arena Reward,Arena Reward
-MMI_134,Upgrading,Upgrading
+MMI_81,Leave Arena,Umalis sa Arena
+MMI_82,Arena Ranking,Ranggo sa Arena
+MMI_83,Arena Reward,Gantimpala sa Arena
+MMI_134,Upgrading,Pag-upgrade
 MMI_136,Piercing,Piercing
-MMI_167,Element Upgrading,Element Upgrading
+MMI_167,Element Upgrading,Pag-upgrade ng Elemento
 MMI_142,Store Pet,Itago ang alaga
-MMI_272,Exchange RPS Coupon,Pagpalit ng RPS Coupon
-MMI_309,Card Upgrade,Card Upgrade
-MMI_310,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-MMI_311,Couple proposal,Couple proposal
-MMI_1000,Drop Filter,Panala
-MMI_1001,Report,Isumbong
-MMI_1002,Inspect,Suriin
-MMI_1003,Unbinding,Pakawalan
+MMI_272,Exchange RPS Coupon,Palitan ang RPS Coupon
+MMI_309,Card Upgrade,Pag-upgrade ng Card
+MMI_310,Weapon Socket Card Reshuffle,I-resuffle ang card sa socket ng sandata
+MMI_311,Couple proposal,Panukala para sa mag-asawa
+MMI_1000,Drop Filter,Filter ng Drop
+MMI_1001,Report,I-report
+MMI_1002,Inspect,Siyasatin
+MMI_1003,Unbinding,I-unbind
 MMI_1004,Exchange,Palitan
-MMI_1005,Combat Power Ranking,Combat Power Ranking
-MMI_1006,Giant Hunt Ranking ,Giant Hunt Ranking 
-MMI_1007,Accessory Upgrade,Upgrade ng Alahas
-MMI_1008,Mute,Mute
-MMI_1009,Unmute,Unmute
-MMI_1010,Freeze,Freeze
-MMI_1011,Unfreeze,Unfreeze
-MMI_1012,Shadow Mute,Shadow Mute
-MMI_1013,Pet Candy Crafting,Pet Candy Crafting
-MMI_1014,Exchange Dice,Palitan ng Dice
-MMI_1015,Pet Sacrificing,Pet Sacrificing
-MMI_1016,Red Chip Shop,Red Chip Shop
-MMI_1017,Cosmetic Wardrobe,Cosmetic Wardrobe
-MMI_1018,Lv80 GS Apply,Lv80 GS Apply
-MMI_1019,Lv80 GS Status,Lv80 GS Status
-MMI_1020,Lv80 GS Cancel,Lv80 GS Cancel
-MMI_1021,Lv80 GS Enter,Lv80 GS Enter
-MMI_1022,Lv80 GS Lineup Setup,Lv80 GS Lineup Setup
-MMI_1023,Lv80 GS Ranking,Lv80 GS Ranking
-MMI_1024,Lv80 GS Information,Lv80 GS Information
-MMI_1025,Lv60 GS Apply,Lv60 GS Apply
-MMI_1026,Lv60 GS Status,Lv60 GS Status
-MMI_1027,Lv60 GS Cancel,Lv60 GS Cancel
-MMI_1028,Lv60 GS Enter,Lv60 GS Enter
-MMI_1029,Lv60 GS Lineup Setup,Lv60 GS Lineup Setup
-MMI_1030,Lv60 GS Ranking,Lv60 GS Ranking
-MMI_1031,Lv60 GS Information,Lv60 GS Information
-MMI_1032,Blue Chip Shop,Blue Chip Shop
-MMI_1033,Valentine's Letter Exchange,Valentine's Letter Exchange
-MMI_1034,Dungeon,Dungeon
-MMI_1035,PK Chip Shop,PK Chip Shop
+MMI_1005,Combat Power Ranking,Ranggo ng Lakas
+MMI_1006,Giant Hunt Ranking ,Ranggo ng Giant Hunt
+MMI_1007,Accessory Upgrade,Pag-upgrade ng Accessory
+MMI_1008,Mute,I-mute
+MMI_1009,Unmute,I-unmute
+MMI_1010,Freeze,I-freeze
+MMI_1011,Unfreeze,I-unfreeze
+MMI_1012,Shadow Mute,Lihim na mute
+MMI_1013,Pet Candy Crafting,Paggawa ng kendi para sa alaga
+MMI_1014,Exchange Dice,Palitan ang dice
+MMI_1015,Pet Sacrificing,Pag-aalay ng alaga
+MMI_1016,Red Chip Shop,Tindahan ng Red Chip
+MMI_1017,Cosmetic Wardrobe,Wardrobe ng Hitsura
+MMI_1018,Lv80 GS Apply,Mag-apply sa Lv80 GS
+MMI_1019,Lv80 GS Status,Katayuan ng Lv80 GS
+MMI_1020,Lv80 GS Cancel,Kanselahin ang Lv80 GS
+MMI_1021,Lv80 GS Join,Sumali sa Lv80 GS
+MMI_1022,Lv80 GS Line Up,Pila para sa Lv80 GS
+MMI_1023,Lv80 GS Ranking,Ranggo ng Lv80 GS
+MMI_1024,Lv80 GS Information,Impormasyon ng Lv80 GS
+MMI_1025,Lv60 GS Apply,Mag-apply sa Lv60 GS
+MMI_1026,Lv60 GS Status,Katayuan ng Lv60 GS
+MMI_1027,Lv60 GS Cancel,Kanselahin ang Lv60 GS
+MMI_1028,Lv60 GS Join,Sumali sa Lv60 GS
+MMI_1029,Lv60 GS Line Up,Pila para sa Lv60 GS
+MMI_1030,Lv60 GS Ranking,Ranggo ng Lv60 GS
+MMI_1031,Lv60 GS Information,Impormasyon ng Lv60 GS
+MMI_1032,Blue Chip Shop,Tindahan ng Blue Chip
+MMI_1033,Valentine's Letter Exchange,Palitan ng Liham ng Araw ng mga Puso
+MMI_1034,Dungeon,Piitan
+MMI_1035,PK Chip Shop,Tindahan ng PK Chip
 MMI_1036,Exchange,Palitan
-MMI_1037,Green Chip Shop,Green Chip Shop
-MMI_1038,FWC Gear Exchange,FWC Gear Exchange
-MMI_1039,FWC Jewel Exchange,FWC Jewel Exchange
-MMI_1040,Use Capsule Coins,Use Capsule Coins
-MMI_1041,Music Festival Exchange,Music Festival Exchange
-MMI_1042,Fitting Room,Fitting Room
-MMI_1043,FWC PVP Registrations Board,FWC PVP Registrations Board
-MMI_1047,Join FWC PVP Arena,Join FWC PVP Arena
-MMI_1046,FWC PVP Ranking,FWC PVP Ranking
-MMI_1048,Spectate FWC PVP Contest,Spectate FWC PVP Contest
-MMI_1049,Rock Paper Scissors,Rock Paper Scissors
-MMI_1050,W-Token Shop,W-Token Shop
-MMI_1051,Costume Box Upgrade,Costume Box Upgrade
-MMI_1054,Exchange Rings,Exchange Rings
-MMI_1055,Dismantle Item,Dismantle Item
-MMI_1056,Buy that Guild House,Buy that Guild House
-MMI_1057,Enter in Guild House,Enter in Guild House
-MMI_1058,Enter Your House,Enter Your House
-MMI_1059,Select House Template,Select House Template
-MMI_1060,Visit Friend's House,Visit Friend's House
-MMI_1061,Edit,Edit
-MMI_1062,Remove,Remove
-MMI_1063,Exchange Earrings,Exchange Earrings
-MMI_1064,Exchange Necklaces,Exchange Necklaces
-MMI_1065,Rainbow Race,Rainbow Race
-MMI_1066,Create Ultimate Weapon,Create Ultimate Weapon
-MMI_1069,Open Guest Book,Open Guest Book
-MMI_1070,Orphanage Keeper Shop,Orphanage Keeper Shop
-MMI_1071,Kalgas Assault Registration,Kalgas Assault Registration
-MMI_1072,Kalgas Assault Enter,Kalgas Assault Enter
-MMI_1073,Kalgas Assault Rank,Kalgas Assault Rank
-MMI_1074,Kalgas Assault Info,Kalgas Assault Info
-MMI_1075,Kalgas Chip Shop,Kalgas Chip Shop
-MMI_1076,Couple's Storage,Couple's Storage
-MMI_1077,Create Ultimate Jewel,Create Ultimate Jewel
-MMI_1078,Fuse Ultimate Jewel,Fuse Ultimate Jewel
-MMI_1079,Teleport,Teleport
-MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
-MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
-MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-MMI_1083,Pet Training,Pet Training
-MMI_1084,Teleport,Teleport
-MMI_1085,Individual Race (Item),Individual Race (Item)
-MMI_1086,Individual Race (Speed),Individual Race (Speed)
-MMI_1087,Duo Team Race (Item),Duo Team Race (Item)
-MMI_1088,Duo Team Race (Speed),Duo Team Race (Speed)
-MMI_1089,Sit,Sit
-MMI_1090,Sleep,Sleep
-MMI_1091,Yellow Chip Shop,Yellow Chip Shop
-MMI_1092,Madrigal Tournament Registration,Madrigal Tournament Registration
-MMI_1093,Enter Madrigal Tournament,Enter Madrigal Tournament
-MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
-MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
-MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-MMI_1097,Remove Ultimate Jewel,Remove Ultimate Jewel
-MMI_1098,Customize,Customize
-MMI_1099,Enter Couple House,Enter Couple House
-MMI_1100,Select Couple House Template,Select Couple House Template
-MMI_1101,Wandering Shop,Wandering Shop
-MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemy
-MMI_1103,Product Upgrade,Product Upgrade
-MMI_1104,Life Mastery Ranking,Life Mastery Ranking
-MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranking Reward
-MMI_1106,Alchemy,Alchemy
-MMI_1107,Cooking,Cooking
-MMI_1108,Carpentry,Carpentry
-MMI_1109,Smithing,Smithing
-MMI_1110,Enter Race,Enter Race
-MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Cooking
-MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Carpentry
-MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Smithing
-MMI_1115,Join Boss Raid,Join Boss Raid
-MMI_1120,3rd Anniversary Egg Upgrade Event,3rd Anniversary Egg Upgrade Event
-MMI_1121,Champion Coin Exchange,Champion Coin Exchange
-MMI_1116,Synthesize Ultimate Jewel,Synthesize Ultimate Jewel
-MMI_1117,Convert Ultimate Jewel,Convert Ultimate Jewel
-MMI_2025,PTS Exchange (Equipment),PTS Exchange (Equipment)
-MMI_2026,Give Feedback,Give Feedback
-MMI_2027,PTS Exchange (Materials),PTS Exchange (Materials)
-MMI_2028,PTS Exchange (Essentials),PTS Exchange (Essentials)
-MMI_2029,PTS Exchange (Jewelry),PTS Exchange (Jewelry)
-MMI_2030,PTS Exchange (Other Equipment),PTS Exchange (Other Equipment)
-MMI_2031,Reset Cooldowns,Reset Cooldowns
-MMI_2032,PTS Exchange (New Equipment),PTS Exchange (New Equipment)
+MMI_1037,Green Chip Shop,Tindahan ng Green Chip
+MMI_1038,FWC Gear Exchange,Palitan ng Gear ng FWC
+MMI_1039,FWC Jewel Exchange,Palitan ng Hiyas ng FWC
+MMI_1040,Use Capsule Coins,Gamitin ang Capsule Coins
+MMI_1041,Music Festival Exchange,Palitan sa Music Festival
+MMI_1042,Fitting Room,Silid-pagsukat
+MMI_1043,FWC PVP Registrations Board,Board ng Rehistrasyon ng FWC PVP
+MMI_1047,Join FWC PVP Arena,Sumali sa FWC PVP Arena
+MMI_1046,FWC PVP Ranking,Ranggo ng FWC PVP
+MMI_1048,Spectate FWC PVP Contest,Manood ng FWC PVP Contest
+MMI_1049,Rock Paper Scissors,"Bato, Papel, Gunting"
+MMI_1050,W-Token Shop,Tindahan ng W-Token
+MMI_1051,Costume Box Upgrade,Pag-upgrade ng Costume Box
+MMI_1054,Exchange Rings,Palitan ang mga singsing
+MMI_1055,Dismantle Item,I-dismantle ang item
+MMI_1056,Buy that Guild House,Bilhin ang Guild House na iyon
+MMI_1057,Enter in Guild House,Pumasok sa Guild House
+MMI_1058,Enter Your House,Pumasok sa Iyong Bahay
+MMI_1059,Select House Template,Piliin ang Template ng Bahay
+MMI_1060,Visit Friend's House,Bisitahin ang Bahay ng Kaibigan
+MMI_1061,Edit,I-edit
+MMI_1062,Remove,Tanggalin
+MMI_1063,Exchange Earrings,Palitan ang hikaw
+MMI_1064,Exchange Necklaces,Palitan ang kwintas
+MMI_1065,Rainbow Race,Karera ng Bahaghari
+MMI_1066,Create Ultimate Weapon,Gumawa ng Ultimate Weapon
+MMI_1069,Open Guest Book,Buksan ang Libro ng Mga Bisita
+MMI_1070,Orphanage Keeper Shop,Tindahan ng Tagapangasiwa ng Ampon
+MMI_1071,Kalgas Assault Registration,Rehistrasyon para sa Kalgas Assault
+MMI_1072,Kalgas Assault Enter,Pumasok sa Kalgas Assault
+MMI_1073,Kalgas Assault Rank,Ranggo ng Kalgas Assault
+MMI_1074,Kalgas Assault Info,Impormasyon ng Kalgas Assault
+MMI_1075,Kalgas Chip Shop,Tindahan ng Kalgas Chip
+MMI_1076,Couple's Storage,Imbakan ng Mag-asawa
+MMI_1077,Create Ultimate Jewel,Gumawa ng Ultimate Hiyas
+MMI_1078,Fuse Ultimate Jewel,Pagsamahin ang Ultimate Hiyas
+MMI_1079,Teleport,Mag-teleport
+MMI_1080,Sea Shell Upgrading,Pag-upgrade ng Kabibi
+MMI_1081,Fuse Rainbow Jewel,Pagsamahin ang Hiyas ng Bahaghari
+MMI_1082,Dismantle Rainbow Jewel,I-dismantle ang Hiyas ng Bahaghari
+MMI_1083,Pet Training,Pagsasanay ng Alaga
+MMI_1084,Teleport,Mag-teleport
+MMI_1085,Individual Race (Item),Indibidwal na Karera (Item)
+MMI_1086,Individual Race (Speed),Indibidwal na Karera (Bilis)
+MMI_1087,Duo Team Race (Item),Karera ng Duo Team (Item)
+MMI_1088,Duo Team Race (Speed),Karera ng Duo Team (Bilis)
+MMI_1089,Sit,Umupo
+MMI_1090,Sleep,Matulog
+MMI_1091,Yellow Chip Shop,Tindahan ng Yellow Chip
+MMI_1092,Madrigal Tournament Registration,Rehistrasyon sa Torneo ng Madrigal
+MMI_1093,Enter Madrigal Tournament,Pumasok sa Torneo ng Madrigal
+MMI_1094,Madrigal Tournament Ranking,Ranggo sa Torneo ng Madrigal
+MMI_1095,Madrigal Tournament Reward,Gantimpala sa Torneo ng Madrigal
+MMI_1096,Madrigal Tournament Bidding,Pag-bid para sa Torneo ng Madrigal
+MMI_1097,Remove Ultimate Jewel,Alisin ang Ultimate Hiyas
+MMI_1098,Customize,I-customize
+MMI_1099,Enter Couple House,Pumasok sa Bahay ng Mag-asawa
+MMI_1100,Select Couple House Template,Piliin ang Template ng Bahay ng Mag-asawa
+MMI_1101,Wandering Shop,Naglalakbay na Tindahan
+MMI_1102,Master Chip Shop - Alchemy,Tindahan ng Master Chip - Alkimya
+MMI_1103,Product Upgrade,Pag-upgrade ng Produkto
+MMI_1104,Life Mastery Ranking,Ranggo ng Kasanayan sa Buhay
+MMI_1105,Life Mastery Ranking Reward,Gantimpala sa Ranggo ng Kasanayan sa Buhay
+MMI_1106,Alchemy,Alkimya
+MMI_1107,Cooking,Pagluluto
+MMI_1108,Carpentry,Pagkakarpintero
+MMI_1109,Smithing,Pagpanday
+MMI_1110,Enter Race,Sumali sa Karera
+MMI_1111,Master Chip Shop - Cooking,Tindahan ng Master Chip - Pagluluto
+MMI_1112,Master Chip Shop - Carpentry,Tindahan ng Master Chip - Pagkakarpintero
+MMI_1113,Master Chip Shop - Smithing,Tindahan ng Master Chip - Pagpanday
+MMI_1115,Join Boss Raid,Sumali sa Boss Raid
+MMI_1120,3rd Anniversary Egg Upgrade Event,Ikatlong Anibersaryo: Egg Upgrade Event
+MMI_1121,Champion Coin Exchange,Palitan ang Champion Coin
+MMI_1116,Synthesize Ultimate Jewel,Sinteuhin ang Ultimate Hiyas
+MMI_1117,Convert Ultimate Jewel,I-konvert ang Ultimate Hiyas
+MMI_2025,PTS Exchange (Equipment),PTS Palitan (Kagamitan)
+MMI_2026,Give Feedback,Magbigay ng Feedback
+MMI_2027,PTS Exchange (Materials),PTS Palitan (Materyales)
+MMI_2028,PTS Exchange (Essentials),PTS Palitan (Pangunahing Bagay)
+MMI_2029,PTS Exchange (Jewelry),PTS Palitan (Alahas)
+MMI_2030,PTS Exchange (Other Equipment),PTS Palitan (Iba pang Kagamitan)
+MMI_2031,Reset Cooldowns,I-reset ang cooldowns
+MMI_2032,PTS Exchange (New Equipment),PTS Palitan (Bagong Kagamitan)

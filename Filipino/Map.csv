@@ -6,16 +6,16 @@ PROPMAP_TXT_000003,Town,Bayan
 PROPMAP_TXT_000004,Madrigal,Madrigal
 PROPMAP_TXT_000005,"Darkon 1, 2","Darkon 1, 2"
 PROPMAP_TXT_000006,Darkon 3,Darkon 3
-PROPMAP_TXT_000007,Garden of Rhisis,Garden of Rhisis
+PROPMAP_TXT_000007,Garden of Rhisis,Hardin ng Rhisis
 PROPMAP_TXT_000008,Saint Morning,Saint Morning
 PROPMAP_TXT_000009,Flaris,Flaris
 PROPMAP_TXT_000012,Flarine,Flarine
 PROPMAP_TXT_000013,Saint City,Saint City
 PROPMAP_TXT_000014,Darken,Darken
-PROPMAP_TXT_000242,Dungeon,Dungeon
-PROPMAP_TXT_000263,Mars Dungeon,Mars Dungeon
-PROPMAP_TXT_000265,Dekane Mine,Dekane Mine
-PROPMAP_TXT_000266,Iblis Temple,Iblis Temple
+PROPMAP_TXT_000242,Dungeon,Piitan
+PROPMAP_TXT_000263,Mars Dungeon,Piitan ng Mars
+PROPMAP_TXT_000265,Dekane Mine,Mina ng Dekane
+PROPMAP_TXT_000266,Iblis Temple,Templo ni Iblis
 PROPMAP_TXT_000274,Forsaken Tower 1F,Forsaken Tower 1F
 PROPMAP_TXT_000275,Forsaken Tower 2F,Forsaken Tower 2F
 PROPMAP_TXT_000276,Forsaken Tower 3F,Forsaken Tower 3F
@@ -28,15 +28,15 @@ PROPMAP_TXT_100001,North-Fl,North-Fl
 PROPMAP_TXT_100002,Cen Flarine,Cen Flarine
 PROPMAP_TXT_100003,East-Fla,East-Fla
 PROPMAP_TXT_100004,Darkon,Darkon
-PROPMAP_TXT_100005,The North of Leren Mountains,Hilaga ng Kabundukan ng Leren
-PROPMAP_TXT_100006,The River of Weeping,Ang Ilog ng Pag-iyak
+PROPMAP_TXT_100005,The North of Leren Mountains,Hilaga ng Leren Mountains
+PROPMAP_TXT_100006,The River of Weeping,Ilog ng Pagluha
 PROPMAP_TXT_100007,Saint Hall,Saint Hall
 PROPMAP_TXT_100008,Pumpkin Town,Pumpkin Town
 PROPMAP_TXT_100009,Plateau of Silence,Talampas ng Katahimikan
-PROPMAP_TXT_100010,The North of Hillid Mountains,Hilaga ng Kabundukan ng Hillid
-PROPMAP_TXT_100011,The Middle of Hillid Mountains,Gitna ng Kabundukan ng Hillid
-PROPMAP_TXT_100012,The South of Hillid Mountains,Timog ng Kabundukan ng Hillid
-PROPMAP_TXT_100013,Guardian's Room,Guardian's Room
+PROPMAP_TXT_100010,The North of Hillid Mountains,Hilaga ng Hillid Mountains
+PROPMAP_TXT_100011,The Middle of Hillid Mountains,Gitna ng Hillid Mountains
+PROPMAP_TXT_100012,The South of Hillid Mountains,Timog ng Hillid Mountains
+PROPMAP_TXT_100013,Guardian's Room,Silid ng Tagapangalaga
 PROPMAP_TXT_100014,Heret,Heret
 PROPMAP_TXT_100015,Cendil,Cendil
 PROPMAP_TXT_100016,Aniceknight,Aniceknight
@@ -45,66 +45,66 @@ PROPMAP_TXT_100018,Deadwallderness,Deadwallderness
 PROPMAP_TXT_100019,Brekin,Brekin
 PROPMAP_TXT_100020,Guardiane,Guardiane
 PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),Darkon 2 (Cave of Envy)
-PROPMAP_TXT_100022,Clockworks' Cage,Clockworks' Cage
-PROPMAP_TXT_100023,Erons Factories,Mga Pabrika ng Erons
-PROPMAP_TXT_100024,Gouthan Mountains,Gouthan Mountains
+PROPMAP_TXT_100022,Clockworks' Cage,Kuwadro ng Clockworks
+PROPMAP_TXT_100023,Erons Factories,Pabrika ng Erons
+PROPMAP_TXT_100024,Gouthan Mountains,Guhong Gouthan Mountains
 PROPMAP_TXT_100025,Darkon 1 (KhipRa),Darkon 1 (KhipRa)
-PROPMAP_TXT_100026,Unknown,Unknown
+PROPMAP_TXT_100026,Unknown,Hindi Kilala
 PROPMAP_TXT_100029,Armory,Armory
-PROPMAP_TXT_100030,Center for Guild Combat,Center for Guild Combat
-PROPMAP_TXT_100031,Arena Manager,Arena Manager
+PROPMAP_TXT_100030,Center for Guild Combat,Sentro para sa Labang Guild
+PROPMAP_TXT_100031,Arena Manager,Tagapamahala ng Arena
 PROPMAP_TXT_100032,Azria,Azria
 PROPMAP_TXT_100033,Guild Siege,Guild Siege
-PROPMAP_TXT_100034,Quiz,Quiz
-PROPMAP_TXT_100035,Village of Kan,Village of Kan
+PROPMAP_TXT_100034,Quiz,Pagsusulit
+PROPMAP_TXT_100035,Village of Kan,Nayon ng Kan
 PROPMAP_TXT_100036,Area,Area
-PROPMAP_TXT_100037,Saint Morning Station,Saint Morning Station
-PROPMAP_TXT_100038,Garden of Rhisis II,Garden of Rhisis II
-PROPMAP_TXT_100039,Cave of Envy,Kweba ng Inggit
+PROPMAP_TXT_100037,Saint Morning Station,Estasyon ng Saint Morning
+PROPMAP_TXT_100038,Garden of Rhisis II,Hardin ng Rhisis II
+PROPMAP_TXT_100039,Cave of Envy,Cave of Envy
 PROPMAP_TXT_100040,Darkon 2,Darkon 2
 PROPMAP_TXT_100041,Volkane,Volkane
-PROPMAP_TXT_100042,Abandoned Erons Factory,Inabandunang Pabrika ng Erons
-PROPMAP_TXT_100043,Frozen Forest,Nagyelong Kagubatan
+PROPMAP_TXT_100042,Abandoned Erons Factory,Abandonadong Pabrika ng Erons
+PROPMAP_TXT_100043,Frozen Forest,Frozen Forest
 PROPMAP_TXT_100044,Forgotten Bridge,Nakalimutang Tulay
 PROPMAP_TXT_100045,Azria Village,Nayon ng Azria
-PROPMAP_TXT_100046,Frozen Lakes,Nagyelong mga Lawa
-PROPMAP_TXT_100047,Castle Ruins,Mga guho ng Kastilyo
-PROPMAP_TXT_100048,High Mountains,Matataas na Bundok
-PROPMAP_TXT_100049,Redchip Dealer,Redchip Dealer
+PROPMAP_TXT_100046,Frozen Lakes,Frozen Lakes
+PROPMAP_TXT_100047,Castle Ruins,Guhong Kastilyo
+PROPMAP_TXT_100048,High Mountains,Mataás na Kabundukan
+PROPMAP_TXT_100049,Redchip Dealer,Tindero ng Redchip
 PROPMAP_TXT_100050,Storm Peak,Storm Peak
 PROPMAP_TXT_100051,Envy Depths,Envy Depths
 PROPMAP_TXT_100052,Leren Chasm,Leren Chasm
-PROPMAP_TXT_100053,Rhisis Catacombs,Guardiane Sanctuary
-PROPMAP_TXT_100054,Guardiane Sanctuary,Leren Chasm
-PROPMAP_TXT_100055,Leren Chasm (Medium),Leren Chasm (Medium)
-PROPMAP_TXT_100056,Leren Chasm (Hard),Leren Chasm (Hard)
-PROPMAP_TXT_100057,Leren Chasm (Extra Hard),Leren Chasm (Extra Hard)
-PROPMAP_TXT_100058,Leren Chasm (Nightmare),Leren Chasm (Nightmare)
-PROPMAP_TXT_100059,Rhisis Catacombs (Hard),Rhisis Catacombs (Hard)
-PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),Rhisis Catacombs (Extra Hard)
-PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),Rhisis Catacombs (Nightmare)
-PROPMAP_TXT_100062,Envy Depths (Extra Hard),Envy Depths (Extra Hard)
-PROPMAP_TXT_100063,Envy Depths (Nightmare),Envy Depths (Nightmare)
-PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),Guardiane Sanctuary (Nightmare)
-PROPMAP_TXT_100065,Envy Depths (Medium),Envy Depths (Medium)
-PROPMAP_TXT_100066,Eggcellent's Meadow,Eggcellent's Meadow
-PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),Eggcellent's Meadow (Medium)
-PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),Eggcellent's Meadow (Hard)
-PROPMAP_TXT_100069,Leren Chasm (Story),Leren Chasm (Story)
-PROPMAP_TXT_100070,Rhisis Catacombs (Story),Rhisis Catacombs (Story)
-PROPMAP_TXT_100071,Envy Depths (Story),Envy Depths (Story)
-PROPMAP_TXT_100072,Guardiane Sanctuary (Story),Guardiane Sanctuary (Story)
-PROPMAP_TXT_100073,Storm Peak (Story),Storm Peak (Story)
-PROPMAP_TXT_200000,The Colosseum,The Colosseum
-PROPMAP_TXT_100074,The Wilds (Story),The Wilds (Story)
+PROPMAP_TXT_100053,Rhisis Catacombs,Rhisis Catacombs
+PROPMAP_TXT_100054,Guardiane Sanctuary,Sanctuary ng Guardiane
+PROPMAP_TXT_100055,Leren Chasm (Medium),Leren Chasm (Katamtaman)
+PROPMAP_TXT_100056,Leren Chasm (Hard),Leren Chasm (Mahirap)
+PROPMAP_TXT_100057,Leren Chasm (Extra Hard),Leren Chasm (Sobrang Mahirap)
+PROPMAP_TXT_100058,Leren Chasm (Nightmare),Leren Chasm (Bangungot)
+PROPMAP_TXT_100059,Rhisis Catacombs (Hard),Rhisis Catacombs (Mahirap)
+PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),Rhisis Catacombs (Sobrang Mahirap)
+PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),Rhisis Catacombs (Bangungot)
+PROPMAP_TXT_100062,Envy Depths (Extra Hard),Envy Depths (Sobrang Mahirap)
+PROPMAP_TXT_100063,Envy Depths (Nightmare),Envy Depths (Bangungot)
+PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),Guardiane Sanctuary (Bangungot)
+PROPMAP_TXT_100065,Envy Depths (Medium),Envy Depths (Katamtaman)
+PROPMAP_TXT_100066,Eggcellent's Meadow,Parang ni Eggcellent
+PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),Parang ni Eggcellent (Katamtaman)
+PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),Parang ni Eggcellent (Mahirap)
+PROPMAP_TXT_100069,Leren Chasm (Story),Leren Chasm (Kwento)
+PROPMAP_TXT_100070,Rhisis Catacombs (Story),Rhisis Catacombs (Kwento)
+PROPMAP_TXT_100071,Envy Depths (Story),Envy Depths (Kwento)
+PROPMAP_TXT_100072,Guardiane Sanctuary (Story),Guardiane Sanctuary (Kwento)
+PROPMAP_TXT_100073,Storm Peak (Story),Storm Peak (Kwento)
+PROPMAP_TXT_200000,The Colosseum,Ang Koloseo
+PROPMAP_TXT_100074,The Wilds (Story),The Wilds (Kwento)
 PROPMAP_TXT_100075,The Wilds,The Wilds
 PROPMAP_TXT_230001,Instance,Instance
 PROPMAP_TXT_100076,FWC Arena,FWC Arena
-PROPMAP_TXT_100081,Leren Chasm (Cursed),Leren Chasm (Cursed)
-PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),Rhisis Catacombs (Cursed)
-PROPMAP_TXT_100083,Envy Depths (Cursed),Envy Depths (Cursed)
-PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),Guardiane Sanctuary (Cursed)
-PROPMAP_TXT_100085,Storm Peak (Cursed),Storm Peak (Cursed)
+PROPMAP_TXT_100081,Leren Chasm (Cursed),Leren Chasm (Sumpa)
+PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),Rhisis Catacombs (Sumpa)
+PROPMAP_TXT_100083,Envy Depths (Cursed),Envy Depths (Sumpa)
+PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),Guardiane Sanctuary (Sumpa)
+PROPMAP_TXT_100085,Storm Peak (Cursed),Storm Peak (Sumpa)
 PROPMAP_TXT_200001,Beach House,Beach House
 PROPMAP_TXT_200002,Blank World,Blank World
 PROPMAP_TXT_200003,Guild Ship,Guild Ship
@@ -112,41 +112,41 @@ PROPMAP_TXT_200004,Forest House,Forest House
 PROPMAP_TXT_200005,Volcano House,Volcano House
 PROPMAP_TXT_200006,Snow House,Snow House
 PROPMAP_TXT_200007,Housing Specialist,Housing Specialist
-PROPMAP_TXT_200008,Pet Tamer,Pet Tamer
+PROPMAP_TXT_200008,Pet Tamer,Tagapagsanay ng Alagang Hayop
 PROPMAP_TXT_200009,Beach House (S),Beach House (S)
 PROPMAP_TXT_200010,Beach House (M),Beach House (M)
 PROPMAP_TXT_200011,Beach House (L),Beach House (L)
 PROPMAP_TXT_200012,Kalgas Assault Realm,Kalgas Assault Realm
 PROPMAP_TXT_200013,Darken House,Darken House
 PROPMAP_TXT_100086,2nd Anniversary,2nd Anniversary
-PROPMAP_TXT_100087,2nd Anniversary (Medium),2nd Anniversary (Medium)
-PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Hard)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Easy)
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Medium)
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Hard)
-PROPMAP_TXT_100089,Lv.15+,Lv.15+
-PROPMAP_TXT_100090,Lv.20+,Lv.20+
-PROPMAP_TXT_100091,Lv.80+,Lv.80+
-PROPMAP_TXT_100092,Lv.100+,Lv.100+
-PROPMAP_TXT_100093,Lv.25+,Lv.25+
-PROPMAP_TXT_100097,Lv.120+,Lv.120+
+PROPMAP_TXT_100087,2nd Anniversary (Medium),2nd Anniversary (Katamtaman)
+PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Mahirap)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Madali)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Katamtaman)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Mahirap)
+PROPMAP_TXT_100089,Lv.15+,Antas 15+
+PROPMAP_TXT_100090,Lv.20+,Antas 20+
+PROPMAP_TXT_100091,Lv.80+,Antas 80+
+PROPMAP_TXT_100092,Lv.100+,Antas 100+
+PROPMAP_TXT_100093,Lv.25+,Antas 25+
+PROPMAP_TXT_100097,Lv.120+,Antas 120+
 PROPMAP_TXT_200014,Fall House,Fall House
 PROPMAP_TXT_200015,Fall House (S),Fall House (S)
 PROPMAP_TXT_200016,Fall House (M),Fall House (M)
 PROPMAP_TXT_200017,Fall House (L),Fall House (L)
-PROPMAP_TXT_200018,Blank House (Couple),Blank House (Couple)
-PROPMAP_TXT_200019,Beach House (Couple),Beach House (Couple)
-PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
-PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
-PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
+PROPMAP_TXT_200018,Blank House (Couple),Blank House (Mag-asawa)
+PROPMAP_TXT_200019,Beach House (Couple),Beach House (Mag-asawa)
+PROPMAP_TXT_200020,Darken House (Couple),Darken House (Mag-asawa)
+PROPMAP_TXT_200021,Forest House (Couple),Forest House (Mag-asawa)
+PROPMAP_TXT_200022,Fall House (Couple),Fall House (Mag-asawa)
 PROPMAX_TXT_200023,Herneos,Herneos
 PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
 PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
 PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Mahirap)
 PROPMAP_TXT_200025,Snowfield,Snowfield
 PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
-PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
+PROPMAP_TXT_200027,Kaillun Temple,Templo ng Kaillun
 PROPMAP_TXT_200028,Eillun,Eillun
 PROPMAP_TXT_200029,Kaillun,Kaillun
 PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
@@ -155,5 +155,5 @@ PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
 PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
 PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
 PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
-PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Kwento)
 PROPMAP_TXT_200037,Seabed,Seabed

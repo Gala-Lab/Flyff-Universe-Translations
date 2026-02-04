@@ -1,19 +1,19 @@
-﻿Key,English,Filipino
-PROPTROUPESKILL_TXT_000000,Call,Call
-PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,Ituturo sa lahat ng mga miyembro ng partido ang lokasyon ng lider ng partido.
-PROPTROUPESKILL_TXT_000002,Blitz,Blitz
-PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,Uutusan ng lider ng partido ang mga miyembro na atakihin ang napili niyang kalaban. 
-PROPTROUPESKILL_TXT_000004,Retreat,Retreat
-PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Uutusan ng lider ng partido ang lahat ng mga miyembro ng partido na umatras sa kalaban. 
-PROPTROUPESKILL_TXT_000008,Precision,Precision
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
-PROPTROUPESKILL_TXT_000010,Linked Attack,Linked Attack
-PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Ang bawat miyembro ng partido sa paligid ng lider ay magdadagdag ng 5% bonus sa pinsala ng lider ng partido.
-PROPTROUPESKILL_TXT_000012,Lucky Drop,Lucky Drop
-PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Tataas ang tyansa ng lahat ng miyembro ng partido na makakuha ng unique items sa mga Masquerpets. 
-PROPTROUPESKILL_TXT_000014,Resting,Resting
-PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","Bibilis ang pag-galing ng mga miyembro ng partido ng 1.5 beses. Kung ang lider ng partido ay isang Assist, tataas ito sa 1.8 beses."
-PROPTROUPESKILL_TXT_000016,Gift Box,Gift Box
-PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Dadami ang makukuhang items sa mga Masquerpets. 
-PROPTROUPESKILL_TXT_000018,Global Attack,Global Attack
-PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,Bawat party member ay makakakuha ng 2.5% na dagdag sa damage sa bawat miyembro ng party malapit sa kanila. Di makukuha ng leader ito kung aktibo ang Linked Attack.
+Key,English,Filipino
+PROPTROUPESKILL_TXT_000000,Call,Tawag
+PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,Ipinapaalam sa lahat ng miyembro ng party kung nasaan ang lider ng party.
+PROPTROUPESKILL_TXT_000002,Blitz,Lusob
+PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,Iniutos ng lider ng party sa mga miyembro na atakihin ang isang target.
+PROPTROUPESKILL_TXT_000004,Retreat,Umatras
+PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Iniutos ng lider ng party sa lahat ng miyembro na umatras.
+PROPTROUPESKILL_TXT_000008,Precision,Katumpakan
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Pinapataas ang tsansa ng kritikal sa susunod na atake ng lahat ng miyembro ng party na nasa paligid ng lider ng 0.5% x bilang ng mga miyembro.
+PROPTROUPESKILL_TXT_000010,Linked Attack,Pinag-ugnay na Atake
+PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Bawat miyembro ng party na nasa paligid ng lider ay nagdadagdag ng 5% bonus sa pinsala ng lider ng party.
+PROPTROUPESKILL_TXT_000012,Lucky Drop,Maswerteng Drop
+PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Pinapataas ang tsansa na ang Masquerpets ay magdadrop ng mga natatanging item.
+PROPTROUPESKILL_TXT_000014,Resting,Pahinga
+PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"Ang mga miyembro ng party ay nagre-recover nang 1.5 beses na mas mabilis. Kung ang lider ng party ay isang Assist, nagre-recover ang mga miyembro nang 1.8 beses na mas mabilis."
+PROPTROUPESKILL_TXT_000016,Gift Box,Kahon ng Regalo
+PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Pinapataas ang dami ng mga item na dina-drop ng Masquerpets.
+PROPTROUPESKILL_TXT_000018,Global Attack,Pangkalahatang Atake
+PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,Bawat miyembro ng party ay nakakakuha ng 2.5% bonus sa pinsala para sa bawat miyembrong nasa paligid nila. Hindi ito naaaplay sa lider kapag aktibo ang Pinag-ugnay na Atake.
