@@ -1,12 +1,12 @@
 ﻿Key,English,Indonesian
 PROPITEM_TXT_000001,,
-PROPITEM_TXT_000002,Hand,Hand
+PROPITEM_TXT_000002,Hand,Tangan
 PROPITEM_TXT_000004,Penya,Penya
 PROPITEM_TXT_000012,P.K Reward,P.K Reward
 PROPITEM_TXT_000014,(Practice) Wooden Sword,(Practice) Wooden Sword
-PROPITEM_TXT_000016,Wooden Sword,Wooden Sword
-PROPITEM_TXT_000018,Normal Sword,Normal Sword
-PROPITEM_TXT_000020,Long Sword,Long Sword
+PROPITEM_TXT_000016,Wooden Sword,Pedang Kayu
+PROPITEM_TXT_000018,Normal Sword,Pedang Biasa
+PROPITEM_TXT_000020,Long Sword,Pedang Panjang
 PROPITEM_TXT_000022,Hand Saw,Hand Saw
 PROPITEM_TXT_000024,Hand Claw,Hand Claw
 PROPITEM_TXT_000026,Leaf Sword,Leaf Sword
@@ -3195,54 +3195,54 @@ PROPITEM_TXT_005642,Sword Board,Sword Board
 PROPITEM_TXT_005643,This flying board is shaped like a sword!,This flying board is shaped like a sword!
 PROPITEM_TXT_005644,Dragon Stick,Dragon Stick
 PROPITEM_TXT_005645,Flying broom stick shaped like a dragon.,Sapu terbang berbentuk seperti naga.
-PROPITEM_TXT_005646,1st Card,1st Card
-PROPITEM_TXT_005648,2nd Card,2nd Card
-PROPITEM_TXT_005650,3rd Card,3rd Card
-PROPITEM_TXT_005652,4th Card,4th Card
-PROPITEM_TXT_005654,5th Card,5th Card
-PROPITEM_TXT_005656,6th Card,6th Card
-PROPITEM_TXT_005658,7th Card,7th Card
-PROPITEM_TXT_005660,8th Card,8th Card
-PROPITEM_TXT_005662,9th Card,9th Card
-PROPITEM_TXT_005664,10th Card,10th Card
-PROPITEM_TXT_005666,11th Card,11th Card
+PROPITEM_TXT_005646,1st Card,Kartu ke-1
+PROPITEM_TXT_005648,2nd Card,Kartu ke-2
+PROPITEM_TXT_005650,3rd Card,Kartu ke-3
+PROPITEM_TXT_005652,4th Card,Kartu ke-4
+PROPITEM_TXT_005654,5th Card,Kartu ke-5
+PROPITEM_TXT_005656,6th Card,Kartu ke-6
+PROPITEM_TXT_005658,7th Card,Kartu ke-7
+PROPITEM_TXT_005660,8th Card,Kartu ke-8
+PROPITEM_TXT_005662,9th Card,Kartu ke-9
+PROPITEM_TXT_005664,10th Card,Kartu ke-10
+PROPITEM_TXT_005666,11th Card,Kartu ke-11
 PROPITEM_TXT_005667,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.,FlyFF World Championship Card yang dapat digabungkan dengan kartu lain untuk membuat item yang kuat selama FWC Puzzle Event. Kunjungi Card Master di Flarine Timur untuk bertukar kartu.
-PROPITEM_TXT_005668,12th Card,12th Card
-PROPITEM_TXT_005670,13th Card,13th Card
-PROPITEM_TXT_005672,14th Card,14th Card
-PROPITEM_TXT_005674,15th Card,15th Card
-PROPITEM_TXT_005676,16th Card,16th Card
-PROPITEM_TXT_005678,17th Card,17th Card
-PROPITEM_TXT_005680,18th Card,18th Card
-PROPITEM_TXT_005682,19th Card,19th Card
-PROPITEM_TXT_005684,20th Card,20th Card
-PROPITEM_TXT_005686,A Card,A Card
-PROPITEM_TXT_005688,B Card,B Card
-PROPITEM_TXT_005690,C Card,C Card
-PROPITEM_TXT_005692,D Card,D Card
-PROPITEM_TXT_005694,E Card,E Card
-PROPITEM_TXT_005696,F Card,F Card
-PROPITEM_TXT_005698,G Card,G Card
-PROPITEM_TXT_005700,H Card,H Card
-PROPITEM_TXT_005702,I Card,I Card
-PROPITEM_TXT_005704,J Card,J Card
-PROPITEM_TXT_005706,K Card,K Card
-PROPITEM_TXT_005708,L Card,L Card
-PROPITEM_TXT_005710,M Card,M Card
-PROPITEM_TXT_005712,N Card,N Card
-PROPITEM_TXT_005714,O Card,O Card
-PROPITEM_TXT_005716,P Card,P Card
-PROPITEM_TXT_005718,Q Card,Q Card
-PROPITEM_TXT_005720,R Card,R Card
-PROPITEM_TXT_005722,S Card,S Card
-PROPITEM_TXT_005724,T Card,T Card
-PROPITEM_TXT_005726,U Card,U Card
-PROPITEM_TXT_005728,V Card,V Card
-PROPITEM_TXT_005730,W Card,W Card
-PROPITEM_TXT_005732,X Card,X Card
-PROPITEM_TXT_005734,Y Card,Y Card
-PROPITEM_TXT_005736,Z Card,Z Card
-PROPITEM_TXT_005744,Mars Dungeon Key,Mars Dungeon Key
+PROPITEM_TXT_005668,12th Card,Kartu ke-12
+PROPITEM_TXT_005670,13th Card,Kartu ke-13
+PROPITEM_TXT_005672,14th Card,Kartu ke-14
+PROPITEM_TXT_005674,15th Card,Kartu ke-15
+PROPITEM_TXT_005676,16th Card,Kartu ke-16
+PROPITEM_TXT_005678,17th Card,Kartu ke-17
+PROPITEM_TXT_005680,18th Card,Kartu ke-18
+PROPITEM_TXT_005682,19th Card,Kartu ke-19
+PROPITEM_TXT_005684,20th Card,Kartu ke-20
+PROPITEM_TXT_005686,A Card,Kartu A
+PROPITEM_TXT_005688,B Card,Kartu B
+PROPITEM_TXT_005690,C Card,Kartu C
+PROPITEM_TXT_005692,D Card,Kartu D
+PROPITEM_TXT_005694,E Card,Kartu E
+PROPITEM_TXT_005696,F Card,Kartu F
+PROPITEM_TXT_005698,G Card,Kartu G
+PROPITEM_TXT_005700,H Card,Kartu H
+PROPITEM_TXT_005702,I Card,Kartu I
+PROPITEM_TXT_005704,J Card,Kartu J
+PROPITEM_TXT_005706,K Card,Kartu K
+PROPITEM_TXT_005708,L Card,Kartu L
+PROPITEM_TXT_005710,M Card,Kartu M
+PROPITEM_TXT_005712,N Card,Kartu N
+PROPITEM_TXT_005714,O Card,Kartu O
+PROPITEM_TXT_005716,P Card,Kartu P
+PROPITEM_TXT_005718,Q Card,Kartu Q
+PROPITEM_TXT_005720,R Card,Kartu R
+PROPITEM_TXT_005722,S Card,Kartu S
+PROPITEM_TXT_005724,T Card,Kartu T
+PROPITEM_TXT_005726,U Card,Kartu U
+PROPITEM_TXT_005728,V Card,Kartu V
+PROPITEM_TXT_005730,W Card,Kartu W
+PROPITEM_TXT_005732,X Card,Kartu X
+PROPITEM_TXT_005734,Y Card,Kartu Y
+PROPITEM_TXT_005736,Z Card,Kartu Z
+PROPITEM_TXT_005744,Mars Dungeon Key,Kunci Mars Dungeon
 PROPITEM_TXT_005745,Quest Item: Opens a sealed room in the Mars Dungeon.,Item Quest: Membuka ruang tertutup di Mars Dungeon.
 PROPITEM_TXT_005746,Dungeon Tarin Root,Dungeon Tarin Root
 PROPITEM_TXT_005747,Quest item that drops from Mutant Fefern.,Item quest yang didapat dari Mutant Fefern.
@@ -3252,7 +3252,7 @@ PROPITEM_TXT_005750,Dungeon Golden Wing,Dungeon Golden Wing
 PROPITEM_TXT_005751,Quest item that drops from Mutant Bang.,Item quest yang didapat dari Mutant Bang.
 PROPITEM_TXT_005756,Hair of Wormveduque,Hair of Wormveduque
 PROPITEM_TXT_005758,Hair of Serus Uriel,Hair of Serus Uriel
-PROPITEM_TXT_005760,Rankashu Letter,Rankashu Letter
+PROPITEM_TXT_005760,Rankashu Letter,Surat Rankashu
 PROPITEM_TXT_005761,Quest Item: Letter from Rankashu to Cell.,Item Quest: Surat dari Rankashu ke Cell.
 PROPITEM_TXT_005762,Mine Entrance Card,Mine Entrance Card
 PROPITEM_TXT_005763,Quest Item: Card that allows access into the Dekane Mine.,Item Quest: Kartu yang memungkinkan akses ke Tambang Dekane.
@@ -17306,10 +17306,10 @@ PROPITEM_TXT_801003,Using this scroll will increase your maximum guild house pet
 PROPITEM_TXT_140000,Cubic Ring,Cubic Ring
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.","This ring is used to propose to another player, and is deleted when the couple is broken."
 PROPITEM_TXT_140002,Fancy Cubic Ring,Fancy Cubic Ring
-PROPITEM_TXT_140003,Silver Ring,Silver Ring
-PROPITEM_TXT_140004,Gold Ring,Gold Ring
-PROPITEM_TXT_140005,Platinum Ring,Platinum Ring
-PROPITEM_TXT_140006,Diamond Ring,Diamond Ring
+PROPITEM_TXT_140003,Silver Ring,Cincin Perak
+PROPITEM_TXT_140004,Gold Ring,Cincin Emas
+PROPITEM_TXT_140005,Platinum Ring,Cincin Platinum
+PROPITEM_TXT_140006,Diamond Ring,Cincin Berlian
 PROPITEM_TXT_140007,Handmade Silver Ring,Handmade Silver Ring
 PROPITEM_TXT_140008,Handmade Gold Ring,Handmade Gold Ring
 PROPITEM_TXT_140009,Handmade Platinum Ring,Handmade Platinum Ring
@@ -17439,30 +17439,30 @@ PROPITEM_TXT_133058,Scroll of Production Reduction (1 Hour),Scroll of Production
 PROPITEM_TXT_133059,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.
 PROPITEM_TXT_133060,Wandering Merchant Refresh Ticket,Wandering Merchant Refresh Ticket
 PROPITEM_TXT_133061,Refresh the item list of the Wandering Merchant upon use.,Refresh the item list of the Wandering Merchant upon use.
-PROPITEM_TXT_133062,Salt,Salt
-PROPITEM_TXT_133063,A neccessary ingredient to make savoury dishes.,A neccessary ingredient to make savoury dishes.
-PROPITEM_TXT_133064,Sugar,Sugar
-PROPITEM_TXT_133065,A neccessary ingredient to make sweet dishes.,A neccessary ingredient to make sweet dishes.
+PROPITEM_TXT_133062,Salt,Garam
+PROPITEM_TXT_133063,A neccessary ingredient to make savoury dishes.,Bahan penting untuk membuat masakan gurih.
+PROPITEM_TXT_133064,Sugar,Gula
+PROPITEM_TXT_133065,A neccessary ingredient to make sweet dishes.,Bahan penting untuk membuat hidangan manis.
 PROPITEM_TXT_133066,Vinegar,Vinegar
 PROPITEM_TXT_133067,A neccessary ingredient to make sour dishes.,A neccessary ingredient to make sour dishes.
 PROPITEM_TXT_133068,Chili Powder,Chili Powder
 PROPITEM_TXT_133069,A neccessary ingredient to make spicy dishes.,A neccessary ingredient to make spicy dishes.
-PROPITEM_TXT_133070,Flour,Flour
-PROPITEM_TXT_133071,A powder made by grinding wheat.,A powder made by grinding wheat.
+PROPITEM_TXT_133070,Flour,Tepung
+PROPITEM_TXT_133071,A powder made by grinding wheat.,Bubuk yang dibuat dengan menggiling gandum.
 PROPITEM_TXT_133072,Water,Water
 PROPITEM_TXT_133073,Clean water.,Clean water.
-PROPITEM_TXT_133074,Sausage,Sausage
-PROPITEM_TXT_133075,Sausage made from pork.,Sausage made from pork.
-PROPITEM_TXT_133076,Chicken,Chicken
-PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,A piece of chicken meat. You can use it in various dishes.
+PROPITEM_TXT_133074,Sausage,Sosis
+PROPITEM_TXT_133075,Sausage made from pork.,Sosis yang terbuat dari daging babi.
+PROPITEM_TXT_133076,Chicken,Ayam
+PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,Sepotong daging ayam. Anda bisa menggunakannya dalam berbagai masakan.
 PROPITEM_TXT_133078,Cooking Oil,Cooking Oil
 PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,A bottle of cooking oil. You can use it in various dishes.
 PROPITEM_TXT_133080,Black Pepper,Black Pepper
 PROPITEM_TXT_133081,A spice that gives a spicy taste.,A spice that gives a spicy taste.
-PROPITEM_TXT_133082,Tomato,Tomato
-PROPITEM_TXT_133083,A red vegetable with a savory taste.,A red vegetable with a savory taste.
-PROPITEM_TXT_133084,Rice,Rice
-PROPITEM_TXT_133085,A white and round grain.,A white and round grain.
+PROPITEM_TXT_133082,Tomato,Tomat
+PROPITEM_TXT_133083,A red vegetable with a savory taste.,Sayuran merah dengan rasa gurih.
+PROPITEM_TXT_133084,Rice,Nasi
+PROPITEM_TXT_133085,A white and round grain.,Butirannya berwarna putih dan bulat.
 PROPITEM_TXT_133086,Assorted vegetables,Assorted vegetables
 PROPITEM_TXT_133087,A dish of assorted vegetables.,A dish of assorted vegetables.
 PROPITEM_TXT_133088,Coagulant,Coagulant
@@ -17471,8 +17471,8 @@ PROPITEM_TXT_133090,Pill Capsule,Pill Capsule
 PROPITEM_TXT_133091,A pill capsule made out of edible ingredients.,A pill capsule made out of edible ingredients.
 PROPITEM_TXT_133092,Fresh Cream,Fresh Cream
 PROPITEM_TXT_133093,Cream layer extracted from raw milk.,Cream layer extracted from raw milk.
-PROPITEM_TXT_133094,Onion,Onion
-PROPITEM_TXT_133095,A round shaped vegetable. You can use it in various dishes.,A round shaped vegetable. You can use it in various dishes.
+PROPITEM_TXT_133094,Onion,Bawang
+PROPITEM_TXT_133095,A round shaped vegetable. You can use it in various dishes.,Sayuran berbentuk bulat. Anda bisa menggunakannya dalam berbagai masakan.
 PROPITEM_TXT_133096,Tin,Tin
 PROPITEM_TXT_133097,A piece of tin that you can use in alloys.,A piece of tin that you can use in alloys.
 PROPITEM_TXT_133098,Steel,Steel
