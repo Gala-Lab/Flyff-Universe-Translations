@@ -1541,7 +1541,7 @@ UI_ACCEPTTERMS,I accept the terms.,J'accepte les termes.
 UI_ACCEPTTERMS_READ,Read,Lire
 UI_ACCEPTTERMS_TITLE,Accept Terms,Accepter les Termes
 UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Veuillez accepter les Termes et Conditions.
-UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Affiche le Menu du Battle Pass.
+UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Affiche le Menu du Passe de combat.
 UI_BATTLEPASS_REWARD,Reward,Récompense
 UI_BATTLEPASS_MISSION,Mission,Mission
 UI_BATTLEPASS_DAILY,Daily,Quotidien
@@ -1564,12 +1564,12 @@ UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Cueillir des Baies
 UI_BATTLEPASS_MISSION_RAISEPET,Raise Pet to %s,Améliorer un Familier à %s
 UI_BATTLEPASS_POINTS,Points,Points
 UI_BATTLEPASS_PASSGRADE,Pass Grade,Niveau de Pass
-UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Fin de la saison de %s : #b%s#nb (heure serveur)\nLimite de points hebdomadaire : #b%d / %d#nb\n#iLes points gagnés durant les missions de saison ne sont pas comptés dans la limite hebdomadaire.#ni\n#iCertaines récompenses de Battle Pass sont augmentées à partir du niveau %d#ni
+UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Fin de la saison de %s : #b%s#nb (heure serveur)\nLimite de points hebdomadaire : #b%d / %d#nb\n#iLes points gagnés durant les missions de saison ne sont pas comptés dans la limite hebdomadaire.#ni\n#iCertaines récompenses du Passe de combat sont augmentées à partir du niveau %d#ni
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Acheter le Pass étendu
 UI_BATTLEPASS_CLAIM,Claim Rewards,Recevoir les Récompenses
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,Des récompenses de base pour tout le monde !
-UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Des récompenses supplémentaires disponibles avec le Battle Pass étendu !
-UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,"Félicitations, vous avez terminé le Battle Pass !"
+UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Des récompenses supplémentaires disponibles avec le Passe de combat étendu !
+UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,"Félicitations, vous avez terminé le Passe de combat !"
 UI_GUILDCOMBAT80_CANCEL_TITLE,Lv80 GS - Cancel Application,GdG niv. 80 - Annuler l'inscription
 UI_GUILDCOMBAT80_CANCEL_MSG,Do you want to withdraw from the Level 80 Guild Siege?,Voulez-vous vous retirer de la Guerre de Guildes niveau 80 ?
 UI_GUILDCOMBAT80_JOIN_MSG,Do you join the Level 80 Guild Siege?,Voulez-vous rejoindre la Guerre de Guildes niveau 80 ?
@@ -1698,7 +1698,7 @@ UI_APP_LOTTERY_FREESPINTIMER_READY,You can spin the wheel!!,Vous pouvez faire to
 UI_LUCKYROULETTE,Lucky Roulette,Roue de la Chance
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to get 120 lottery coins to spend in the Lottery Wheel!,Jouez 24 heures pour obtenir 120 pièces de loterie à dépenser à la Roue de Loterie !
 UI_LUNAR_NEW_YEAR,Lunar New Year,Nouvel An Lunaire
-UI_BATTLEPASS,Battle Pass,Battle Pass
+UI_BATTLEPASS,Battle Pass,Passe de combat
 UI_EVENTPASS,Update Pass,Pass Lunaire
 UI_ANNIVERSARYPASS,1 Year Anniversary Pass,Pass du Premier Anniversaire
 UI_TOOLTIP_BATTLEPASS,Expire at the end of %s.,Expire au début de la prochaine saison de %s.

@@ -70,7 +70,7 @@ TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character windo
 TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Level up !!!
 TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Confirmer les nouvelles statistiques ?
 TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,(statistiques réinitialisées au niveau 15)
-TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Cette fonctionnalité n'est disponible qu'avec le Battle Pass Étendu.
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Cette fonctionnalité n'est disponible qu'avec le Passe de combat Étendu.
 TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Vous pouvez changer de page de statistiques dans %d secondes.
 TEXTCLIENT_ADMIN_STATE,Status,Statut
 TEXTCLIENT_ADMIN_NORMAL,Normal,Normale
@@ -876,13 +876,13 @@ TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transm
 TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,La transmutation a été supprimée.
 TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,Cet objet a été ajouté à votre penderie.
 TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Impossible de déclarer de guerre sur ce canal.
-TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Battle Pass
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Passe de combat
 TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,Mission de %s %s terminée.
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Vous avez reçu %d points de %s.
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,La saison de %s a été remise à zéro !
 TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Vous avez atteint le niveau de %s %d !
 TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
-TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,La saison de Battle Pass est terminée.
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,La saison du Passe de combat est terminée.
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Merci d'avoir acheté le %s étendu !
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Achetez le %s étendu pour recevoir plus de récompenses !
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Seuls les personnages de niveau 80 ou moins peuvent s'inscrire à la Guerre de Guildes niv. 80.
@@ -977,7 +977,7 @@ TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Votre messa
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Vous ne pouvez pas vous téléporter si vous êtes gelé.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Vous devez atteindre le niveau %d pour échanger des objets premiums.
 TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Vous devez atteindre le niveau %d pour utiliser ce mouvement.
-TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Changement d'équipement
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Vous ne pouvez qu'équiper des objets du menu/raccourci de changement d'équipement.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Vous avez mis à jour l'ensemble d'équipement %s avec succès !
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Vous avez trop d'ensembles d'équipement !
@@ -1466,7 +1466,7 @@ TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,Vous ne pouvez
 TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,Vous pouvez maintenant utiliser l’animation %s !
 TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,L’animation %s a expiré.
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,Vous ne pouvez pas retirer une Bénédiction du Démon !
-TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,Cette fonctionnalité est disponible uniquement avec le Battle Pass Étendu.
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,Cette fonctionnalité est disponible uniquement avec le Passe de combat Étendu.
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,Vous avez déjà utilisé tous vos téléportations quotidiennes.
 TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,Vous ne pouvez pas vous téléporter vers cette boutique car elle se trouve sur un autre canal.
 TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Récoltes %d/%d
