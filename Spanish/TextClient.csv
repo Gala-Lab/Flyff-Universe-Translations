@@ -977,7 +977,7 @@ TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Su mensaje 
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,No puedes teletransportarte si estás congelado.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Debes tener nivel %d para intercambiar artículos premium.
 TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Debes tener nivel %d para usar este movimiento.
-TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Cambio Equipa
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Cambiar Equipo
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Solo puedes equipar elementos desde el menú/atajo Cambiar Equipo.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,¡Has actualizado %s preestablecidos con éxito!
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,¡Tienes demasiados ajustes preestablecidos!
