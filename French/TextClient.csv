@@ -1409,7 +1409,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,Vo
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,Vous devez sélectionner votre partenaire pour demander cette animation.
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Votre partenaire a refusé d’effectuer cette animation.
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,Vous êtes trop éloignés l’un de l’autre pour effectuer cette animation.
-TEXTCLIENT_APP_LIFE,Life,Vie
+TEXTCLIENT_APP_LIFE,Life,Métier
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,Vous devez équiper un(e) %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Veuillez vérifier que vous utilisez l’outil approprié.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Échec de la récolte.
