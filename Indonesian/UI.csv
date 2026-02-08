@@ -648,7 +648,7 @@ UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,"Karakt
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Konfirmasi Penjualan Item Premium
 UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","Ini adalah Barang Premium. Apakah kamu yakin?\nSetelah dijual, itu tidak dapat dipulihkan."
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Soul-Linked]
-UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],Account-Linked]
+UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Linked]
 UI_BEAUTY_SHOP_TITLE,Hair Shop,Toko Rambut
 UI_BEAUTY_SHOP_RESET,Reset,Reset
 UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Warna Rambut
