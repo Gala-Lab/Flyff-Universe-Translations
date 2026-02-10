@@ -17223,7 +17223,7 @@ PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,Donne +80 Puissance d’Attaque lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,Donne +90 Puissance d’Attaque lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,Donne +100 Puissance d’Attaque lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800143,Jewel Tweezers,Pince à Bijoux
+PROPITEM_TXT_800143,Jewel Tweezers,Pince à Joyaux
 PROPITEM_TXT_800144,You can get the attached jewel without destruction.,Vous pouvez récupérer le bijou attaché sans destruction.
 PROPITEM_TXT_800145,Rune of Increasing HP,Runes d’Augmentation de PV
 PROPITEM_TXT_800146,Rune of Increasing MP,Runes d’Augmentation de PM
@@ -17274,7 +17274,7 @@ PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,Récupère 
 PROPITEM_TXT_800191,Mana Stone,Pierre de Mana
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,Récupère tous les morceaux de bijoux si la création échoue.
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[PNJ Maison Personnelle] Klock
-PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased","Ce PNJ vous accordera le bonus suivant lorsqu’il est placé dans la Maison Personnelle : fonctionnalités de Bijoux Ultimes.\nGagnez ce bijou avec 30% de chance de retirer un Bijou Ultime.\nFabrication de Bijoux Ultime, Taux de Succès de Composition Augmenté"
+PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased","Ce PNJ vous accorde les bonus suivants lorsqu’il est placé dans la Maison Personnelle :\n• Chance de 30 % d’obtenir un joyau Ultime.\n• Fabrication de Joyaux Ultime : taux de réussite augmenté. Chance d'équiper le même joyau ultime +10%."
 PROPITEM_TXT_800195,Ultimate Jewel Gemstone,Gemme de Bijou Ultime
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,Des bijoux de premier grade et des morceaux de bijoux peuvent être extraits de cette gemme.
 PROPITEM_TXT_800197,Cutting Knife,Couteau de Découpe
