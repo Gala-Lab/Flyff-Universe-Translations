@@ -1542,8 +1542,8 @@ TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because y
 TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s a amélioré l’Ultime %s en %s+%d !
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Paiement réussi !\nDes fCoins ont été ajoutés à votre compte.
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Erreur inconnue lors du paiement.\nVeuillez réessayer.
-TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
-TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
-TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
-TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
-TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,Vous avez récupéré l’expérience perdue dans le donjon.
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,Vous ne pouvez pas l’utiliser car vous avez déjà récupéré de l’expérience en terminant le donjon.
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,Vous ne pouvez pas retirer un membre du groupe tant que vous êtes dans le même donjon.
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,Vous ne pouvez pas transférer le rôle de leader à un membre qui n’est pas dans le même donjon.
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,Vous ne pouvez pas quitter le groupe en tant que leader dans le donjon.
