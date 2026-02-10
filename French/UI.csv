@@ -255,9 +255,9 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Augmentation de la vitesse d'attaq
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,Dégâts absorbés
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,PV et puissance d'attaque augmentés
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Défense et précision augmenté.
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Chance Ruée de la Mort
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Assaut de la Mort
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Fureur des Muran's
 UI_TOOLTIP_LOCOMOTION,Movement,Se déplacer
 UI_TOOLTIP_RETURN_USE,Return to your former position.,Revenir à votre ancienne position.
 UI_DISPLAY_BUFFS,Show/hide buffs,Voir/Cacher Buffs
@@ -348,7 +348,7 @@ UI_POST_TITLE,Post,Poste
 UI_POST_TAB_SEND,Send Mail,Envoyer un message
 UI_POST_TAB_RECEIVE,Inbox,Boîte de réception
 UI_OPTION_UISCALE,Scale,Échelle d'interface
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,Taille de la police
 UI_IGNORELIST_TITLE,Ignore List,Blacklist
 UI_IGNORELIST_COUNT,Ignored list: %d,Blacklist : %d
 UI_CHATFILTER_TITLE,Chatting Filter,Filtre de discussion
@@ -2027,7 +2027,7 @@ UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,Chance de Grâce de Soin
 UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,Chance de Surcharge Spirituelle
 UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,Chance d'Eclatement d'Aura
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb,Bombe à Eau
-UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,Vitesse d'Attaque et Déplcement Réduite
+UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,Vitesse d'Attaque et Déplacement Réduite
 UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,Chance de Perspicacité des Arcanes
 UI_MSGBOX_DISMANTLE,Dismantle,Démanteler
 UI_PLAYERHOUSINGBUY_TITLE,Select house template,Sélectionner un Modèle de Maison

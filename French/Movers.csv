@@ -1275,13 +1275,13 @@ PROPMOVER_TXT_400288,Pink Junior Banana Hero,Héros Banane Junior Rose
 PROPMOVER_TXT_400289,White Junior Banana Hero,Héros Banane Junior Blanc
 PROPMOVER_TXT_400290,Lord Zenma,Lord Zenma
 PROPMOVER_TXT_400291,[Event] Pirate ship,[Événement] Navire Pirate
-PROPMOVER_TXT_400292,Shadowirs,Shadowirs
-PROPMOVER_TXT_400293,Captain Shadowirs,Capitaine Shadowirs
-PROPMOVER_TXT_400294,Giant Shadowirs,Géant Shadowirs
-PROPMOVER_TXT_400295,Small Skelmaw,Jeune Skelmaw
-PROPMOVER_TXT_400296,Skelmaw,Skelmaw
-PROPMOVER_TXT_400297,Captain Skelmaw,Capitaine Skelmaw
-PROPMOVER_TXT_400298,Giant Skelmaw,Géant Skelmaw
+PROPMOVER_TXT_400292,Shadowirs,Liche
+PROPMOVER_TXT_400293,Captain Shadowirs,Capitaine Liche
+PROPMOVER_TXT_400294,Giant Shadowirs,Géant Liche
+PROPMOVER_TXT_400295,Small Skelmaw,Jeune Foudre de guerre
+PROPMOVER_TXT_400296,Skelmaw,Foudre de guerre
+PROPMOVER_TXT_400297,Captain Skelmaw,Capitaine Foudre de guerre
+PROPMOVER_TXT_400298,Giant Skelmaw,Géant Foudre de guerre
 PROPMOVER_TXT_400299,Alchemy Desk,Bureau d'Alchimie
 PROPMOVER_TXT_400300,Hearth,Foyer
 PROPMOVER_TXT_400301,Carpentry Workspace,Espace de Menuiserie
@@ -1295,11 +1295,11 @@ PROPMOVER_TXT_400308,Small Cursed Warden,Jeune Gardien Maudit
 PROPMOVER_TXT_400309,Cursed Warden,Gardien Maudit
 PROPMOVER_TXT_400310,Captain Cursed Warden,Capitaine Gardien Maudit
 PROPMOVER_TXT_400311,Giant Cursed Warden,Géant Gardien Maudit
-PROPMOVER_TXT_400312,Small Shadowirs,Jeune Shadowirs
-PROPMOVER_TXT_400313,Great Shadowirs,Grand Shadowirs
-PROPMOVER_TXT_400314,Great Skelmaw,Grand Skelmaw
-PROPMOVER_TXT_400315,Great Maleficar,Grand Maleficar
-PROPMOVER_TXT_400316,Great Cursed Warden,Grand Gardien Maudit
+PROPMOVER_TXT_400312,Small Shadowirs,Jeune Liche
+PROPMOVER_TXT_400313,Great Shadowirs,Géant Liche
+PROPMOVER_TXT_400314,Great Skelmaw,Géant Foudre de guerre
+PROPMOVER_TXT_400315,Great Maleficar,Géant Maleficar
+PROPMOVER_TXT_400316,Great Cursed Warden,Géant Gardien Maudit
 PROPMOVER_TXT_400317,Cyan Gloomie,Gloomie Cyan
 PROPMOVER_TXT_400318,Green Gloomie,Gloomie Vert
 PROPMOVER_TXT_400319,Blue Gloomie,Gloomie Bleu
@@ -1466,7 +1466,7 @@ PROPMOVER_TXT_500009,Miorang,Miorang
 PROPMOVER_TXT_500010,Ruidan,Ruidan
 PROPMOVER_TXT_500011,Weevs,Weevs
 PROPMOVER_TXT_500012,Small Hundur Sharpfoot,Jeune Lawolf des Plaines
-PROPMOVER_TXT_500013,Hundur Sharpfoot,Hundur Lawolf des Plaines
+PROPMOVER_TXT_500013,Hundur Sharpfoot,Lawolf des Plaines
 PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,Capitaine Lawolf des Plaines
 PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,Géant Lawolf des Plaines
 PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,Lawolf des Plaines Pourpre

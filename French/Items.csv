@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -3160,7 +3160,7 @@ PROPITEM_TXT_005584,Yellow Giftbox,Boite Mystère Jaune
 PROPITEM_TXT_005585,Stolen gift socks,Chaussettes Offerts Volées
 PROPITEM_TXT_005586,A Lucky Bag,Sac Porte-Bonheur
 PROPITEM_TXT_005587,Rumor says that there are special presents in the lucky bag which was made by Gerglin,Une rumeur prétend que ce sac contient des cadeaux préparés par Gerglin.
-PROPITEM_TXT_005588,Rice cake Soup,Soupe de Gâteau de Riz
+PROPITEM_TXT_005588,Rice cake Soup,Gâteau de Riz
 PROPITEM_TXT_005589,Special Korean Ddukguk Losha made for Chinese New Year which is the biggest holiday in Madrigal,Dukguk spécial préparé par Losha pour le Nouvel An Chinois.
 PROPITEM_TXT_005590,A Premium Box,Coffre au Trésor
 PROPITEM_TXT_005591,Hundreds of free gift are waiting for you!,Des centaines de cadeaux t'attendent !
@@ -4587,7 +4587,7 @@ PROPITEM_TXT_011913,"Inspector Koko is on the case! With his super high-intensit
 PROPITEM_TXT_011952,Cheshire Cat,Chat du Cheshire
 PROPITEM_TXT_011953,This cheesy kitty follows it's owner around and picks up dropped items. He's also quite mad.,Inutile de lui parler tant que ses oreilles ne sont pas apparues.
 PROPITEM_TXT_011954,The White Rabbit,Lapin blanc
-PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.","Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés."
+PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.",Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés.
 PROPITEM_TXT_011956,Tiger Cub,Dinah
 PROPITEM_TXT_011957,This cutie pie follows his *mommy* around and picks up dropped items.,Elle ne vous suivra pas de l'autre côté du miroir.
 PROPITEM_TXT_012180,Mocomochi,Bébé Mochikochi
@@ -12529,54 +12529,54 @@ PROPITEM_TXT_160006,Island Bait,Appât de l'Île
 PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,Délicieux appât fabriqué par Pau Pau pour faire baisser la garde des Nagaros.
 PROPITEM_TXT_160008,Evidence of Victory,Preuve de Victoire
 PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,Les restes des Nagaros que vous avez vaincues pour aider le village de l'Île Corail.
-PROPITEM_TXT_160010,Head of the Lord Naga,Head of the Lord Naga
-PROPITEM_TXT_160011,Remains of the Lord Naga.,Remains of the Lord Naga.
-PROPITEM_TXT_160012,Head of the Overlord Naga,Head of the Overlord Naga
-PROPITEM_TXT_160013,Remains of the Overlord Naga.,Remains of the Overlord Naga.
+PROPITEM_TXT_160010,Head of the Lord Naga,Tête du Seigneur Naga
+PROPITEM_TXT_160011,Remains of the Lord Naga.,Restes du Seigneur Naga.
+PROPITEM_TXT_160012,Head of the Overlord Naga,Tête du Naga Suprême
+PROPITEM_TXT_160013,Remains of the Overlord Naga.,Restes du seigneur Naga.
 PROPITEM_TXT_160014,Coral Island Metal Scrap,Déchet Métallique de l'Île Corail
 PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,Déchet métallique trouvé sur les corps de Dorians et Okéans.
-PROPITEM_TXT_160016,Lord Dorian Gear,Lord Dorian Gear
+PROPITEM_TXT_160016,Lord Dorian Gear,Équipement du Seigneur Dorian
 PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,Equipement qui peut seulement être trouvé sur le plus grand des Dorians.
-PROPITEM_TXT_160018,Lord Okean Crown,Lord Okean Crown
+PROPITEM_TXT_160018,Lord Okean Crown,Couronne du Seigneur Okean
 PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,Couronne qui peut seulement être trouvée du plus grand des Okéans.
 PROPITEM_TXT_160020,Champion's Ring,Anneau du Champion
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la FOR. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la FOR. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160022,Defender's Ring,Anneau du Défenseur
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'END. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'END. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160024,Adept's Ring,Anneau de l'Adepte
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'INT. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'INT. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160026,Marksman's Ring,Anneau de l'Archer
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la DEX. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la DEX. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160028,Champion's Gore Necklace,Collier Gore du Champion
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PV Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PV Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160030,Adept's Mental Necklace,Collier Mental de l'Adepte
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160032,Defender's Peision Necklace,Collier Paison du Défenseur
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160034,Champion's Demol Earring,Boucle Demol du Champion
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160036,Defender's Plug Earring,Boucle Plug du Défenseur
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160038,Defender's Gore Necklace,Collier Gore du Défenseur
 PROPITEM_TXT_160040,Marksman's Gore Necklace,Collier Gore de l'Archer
 PROPITEM_TXT_160042,Adept's Gore Necklace,Collier Gore de l'Adepte
 PROPITEM_TXT_160044,Marksman's Demol Earring,Boucle Demol de l'Archer
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160046,Adept's Demol Earring,Boucle Demol de l'Adepte
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160048,Marksman's Mental Necklace,Collier Mental de l'Archer
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160050,Champion's Mental Necklace,Collier Mental du Champion
 PROPITEM_TXT_160052,Champion's Peision Necklace,Collier Paison du Champion
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160054,Defender's Demol Earring,Boucle Demol du Défenseur
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160056,Champion's Plug Earring,Boucle Plug du Champion
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160058,Adept's Plug Earring,Boucle Plug de l'Adepte
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160060,Marksman's Plug Earring,Boucle Plug de l'Archer
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160062,Ultima,Ultima
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,Une essence puissante qui pourrait un jour contenir l'énergie Ultime.
 PROPITEM_TXT_160064,Blinkwing of Coral Island,Élytre de l'Île Corail
@@ -12980,7 +12980,7 @@ PROPITEM_TXT_131280,A classic Thanksgiving plate adorned with a succulent turkey
 PROPITEM_TXT_131281,Blue Turkey Board,Planche de Dinde Bleue
 PROPITEM_TXT_131282,Green Turkey Board,Planche de Dinde Verte
 PROPITEM_TXT_131283,2023 Thanksgiving Growth Package,Pack de Croissance Thanksgiving 2023
-PROPITEM_TXT_131284,"A package containing 1x Amplification ES Scroll Box, 20x Flask Box, 20x Grilled Eel, 20x Scroll of Resurrection, 20x Upcut Stone and 20x Def-Upcut Stone. All items are also linked.","Un pack contenant 1x Boîte de Parchemin ES Amplification, 20x Boîte de Flasques, 20x Anguille Grillée, 20x Parchemin de Résurrection, 20x Pierre Upcut et 20x Pierre Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_131284,"A package containing 1x Amplification ES Scroll Box, 20x Flask Box, 20x Grilled Eel, 20x Scroll of Resurrection, 20x Upcut Stone and 20x Def-Upcut Stone. All items are also linked.","Un pack contenant 1x Boîte de Parchemin ES Amplification, 20x Boîte de Flasques, 20x Anguille Grillée, 20x Parchemin de Résurrection, 20x Pierre Mars et 20x Pierre Arès. Tous les objets sont liés."
 PROPITEM_TXT_131285,2023 Thanksgiving Smelting Package,Pack de Fusion Thanksgiving 2023
 PROPITEM_TXT_131286,"A package containing 40x Smelting Scroll Box, 50x Power Dice 10, 50x Power Dice 12 and 30x Scroll of Weapon Bonus. All items are also linked.","Un pack contenant 40x Boîte de Parchemin de Fusion, 50x Dés de Puissance 10, 50x Dés de Puissance 12 et 30x Parchemins de Bonus d’Arme. Tous les objets sont liés."
 PROPITEM_TXT_131287,2023 Thanksgiving New Item Package,Pack Nouveaux Objets Thanksgiving 2023
@@ -13220,7 +13220,7 @@ PROPITEM_TXT_722126,This box contains a Glitch Pop Set with Speed Bonus. You can
 PROPITEM_TXT_722127,Rudolph's Growth Package,Pack de Croissance Rudolph
 PROPITEM_TXT_722128,"A package containing 10x Scroll of Amplification ES, 10x Grilled Eel and 1x Rudolph Costume Box. All items are also linked.","Un pack contenant 10x Parchemin d'Amplification ES, 10x Anguille Grillée et 1x Boîte Costume Rudolph. Tous les objets sont liés."
 PROPITEM_TXT_722129,Santa Supply Box,Boîte d’Approvisionnement du Père Noël
-PROPITEM_TXT_722130,"A package containing 1x Extra Bag (30 Days), 1x Common Bank 15, 5x Power Scroll, 10x Upcut Stone, 10x Def-Upcut Stone and 1x Santa Costume Box. All items are also linked.","Un pack contenant 1x Sac Supplémentaire (30 jours), 1x Banque Commune 15, 5x Parchemin de Puissance, 10x Pierre Upcut, 10x Pierre Def-Upcut et 1x Boîte Costume Père Noël. Tous les objets sont liés."
+PROPITEM_TXT_722130,"A package containing 1x Extra Bag (30 Days), 1x Common Bank 15, 5x Power Scroll, 10x Upcut Stone, 10x Def-Upcut Stone and 1x Santa Costume Box. All items are also linked.","Un pack contenant 1x Sac Supplémentaire (30 jours), 1x Banque Commune 15, 5x Parchemin de Puissance, 10x Pierre Mars, 10x Pierre Arès et 1x Boîte Costume Père Noël. Tous les objets sont liés."
 PROPITEM_TXT_722131,Christmas Sleigh Package,Pack Traîneau de Noël
 PROPITEM_TXT_722132,A package 1x Christmas Flying Select Box and 1x Nitro Booster (7 Days). All items are also linked.,Un pack contenant 1x Boîte Sélect Volante de Noël et 1x Nitro Booster (7 jours). Tous les objets sont liés.
 PROPITEM_TXT_722133,2023 Special Lucky Box,Boîte Chanceuse Spéciale 2023
@@ -13247,10 +13247,10 @@ PROPITEM_TXT_009042,Cotton Candy Box,Boîte à Barbe à Papa
 PROPITEM_TXT_009043,Select which Cotton Candy you want to receive!,Choisissez la barbe à papa que vous souhaitez recevoir !
 PROPITEM_TXT_009046,Turkey Box,Boîte à Dinde
 PROPITEM_TXT_009047,Select which Turkey you want to receive!,Choisissez la dinde que vous souhaitez recevoir !
-PROPITEM_TXT_230212,Bonus Playtime Coupon,Coupon de Présence Supplémentaire
-PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.,Coupon pour obtenir des récompenses de présence supplémentaires.
-PROPITEM_TXT_230214,Bonus Login Coupon,Coupon de Connexion Supplémentaire
-PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.",Coupon pour obtenir des récompenses de connexion supplémentaires.
+PROPITEM_TXT_230212,Additional Attendance Coupon,Coupon de Présence Supplémentaire
+PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.,Coupon pour obtenir des récompenses de présence supplémentaires.
+PROPITEM_TXT_230214,Additional Connection Coupon,Coupon de Connexion Supplémentaire
+PROPITEM_TXT_230215,Coupon to earn additional connection rewards.,Coupon pour obtenir des récompenses de connexion supplémentaires.
 PROPITEM_TXT_230216,Extended January Pass,Pass de Janvier Étendu
 PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230218,PlayPark Launch Gift,Cadeau de Lancement PlayPark
@@ -13363,7 +13363,7 @@ PROPITEM_TXT_131458,Blue Egg,Œuf bleu
 PROPITEM_TXT_131460,Dragon's Bag Package,Pack de sacs du Dragon
 PROPITEM_TXT_131461,"A package containing 1x Bank Extra Bag (30 Days), 1x Extra Bag (30 Days) and 1x Guild Extra Bag (30 Days). All items are also linked.","Un pack contenant 1x Sac supplémentaire de Banque (30 jours), 1x Sac supplémentaire (30 jours) et 1x Sac supplémentaire de Guilde (30 jours). Tous les objets sont également liés."
 PROPITEM_TXT_131462,Dragon's Consumable Package,Pack de consommables du Dragon
-PROPITEM_TXT_131463,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll and 10x Grilled Eel. All items are also linked.","Un pack contenant 10x Parchemin d’amplification ES, 10x Pierre Upcut, 10x Parchemin de Puissance et 10x Anguille grillée. Tous les objets sont également liés."
+PROPITEM_TXT_131463,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll and 10x Grilled Eel. All items are also linked.","Un pack contenant 10x Parchemin d’amplification ES, 10x Pierre Mars, 10x Parchemin de Puissance et 10x Anguille grillée. Tous les objets sont également liés."
 PROPITEM_TXT_131464,Dragon's Transy Package,Pack Transy du Dragon
 PROPITEM_TXT_131465,"A package containing 1x Transy, 1x Item Transy (B) and 1x Scroll of Name Change. All items are also linked.","Un pack contenant 1x Transy, 1x Transy d’objet (B) et 1x Parchemin de changement de nom. Tous les objets sont également liés."
 PROPITEM_TXT_131796,[Personal House NPC] Casanova,[PNJ Maison Personnelle] Casanova
@@ -13822,7 +13822,7 @@ PROPITEM_TXT_522405,Coral Island Beach Umbrella Single Pack,Pack Unitaire Paraso
 PROPITEM_TXT_131466,Flyff Gift Box A,Boîte Cadeau Flyff A
 PROPITEM_TXT_131467,"A package containing 1x Bank Extra Bag (1 Day), 10x Power Dice 10, 3x Scroll of Amplification ES and 5x Scroll of AProtect. All items are also linked.","Un pack contenant 1x Sac Banc Extra (1 Jour), 10x Dés de Puissance 10, 3x Parchemin d'Amplification ES et 5x Parchemin AProtect. Tous les objets sont liés."
 PROPITEM_TXT_131468,MyCard Event Box A,Boîte Événement MyCard A
-PROPITEM_TXT_131469,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 Days) and 1x Lunar Costume Select Box. All items are also linked.","Un pack contenant 10x Parchemin de Puissance, 10x Pierre Upcut, 1x Nitro Booster (7 Jours) et 1x Boîte de Sélection Costume Lunaire. Tous les objets sont liés."
+PROPITEM_TXT_131469,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 Days) and 1x Lunar Costume Select Box. All items are also linked.","Un pack contenant 10x Parchemin de Puissance, 10x Pierre Mars, 1x Nitro Booster (7 Jours) et 1x Boîte de Sélection Costume Lunaire. Tous les objets sont liés."
 PROPITEM_TXT_131470,MyCard Event Box B,Boîte Événement MyCard B
 PROPITEM_TXT_131471,"A package containing 1x Bank Extra Bag (15 Days), 10x Power Scroll, 50x Scroll of SProtect, 20x Scroll of Weapon Bonus and 1x Lunar Costume Select Box. All items are also linked.","Un pack contenant 1x Sac Banc Extra (15 Jours), 10x Parchemin de Puissance, 50x Parchemin SProtect, 20x Parchemin Bonus d'Arme et 1x Boîte de Sélection Costume Lunaire. Tous les objets sont liés."
 PROPITEM_TXT_131500,Orphanage Box,Boîte Orphelinat
@@ -14044,7 +14044,7 @@ PROPITEM_TXT_722449,Emerald Explorer Red Swords,Épées Rouges Explorateur Émer
 PROPITEM_TXT_722450,Door Prize Package,Pack Cadeau de Présence
 PROPITEM_TXT_722451,"A package containing 5x Scroll of Amplification ES, 1x Extra Bag (30 Days) and 8x Grilled Eel. All items are also linked.","Un pack contenant 5x Parchemin de Maîtrise ES, 1x Sac Supplémentaire (30 jours) et 8x Anguille Grillée. Tous les objets sont aussi liés."
 PROPITEM_TXT_722452,Early Bird Package,Pack Lève-Tôt
-PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","Un pack contenant 15x Pierre d’Upcut, 15x Boisson Vitale X ou Refresher Hold, 10x Parchemin de Maîtrise ES et 20x Parchemin de Retour. Tous les objets sont aussi liés."
+PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","Un pack contenant 15x Pierre d’Mars, 15x Boisson Énergétique X ou Fiole de Mana X, 10x Parchemin de Maîtrise ES et 20x Parchemin de Retour. Tous les objets sont aussi liés."
 PROPITEM_TXT_230220,Extended February Pass,Pass de Février Étendu
 PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Février :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230224,Extended March Pass,Pass de Mars Étendu
@@ -14276,7 +14276,7 @@ PROPITEM_TXT_722666,This box contains a Tiger Stripes Set with Speed Bonus. You 
 PROPITEM_TXT_722667,Lunar Pet Package,Pack Animal Lunaire
 PROPITEM_TXT_722668,A package containing 1x Feed Bag (15 Days) and 1x Scroll of Pickup Boost (15 Days). All items are also linked.,Un pack contenant 1x Sac de Nourriture (15 jours) et 1x Parchemin de Boost de Ramassage (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_722669,Power-up Package,Pack Amélioration
-PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 5x Parchemin de Changement d'Élément, 5x Parchemin de Résurrection, 5x Anguille Grillée, 5x Parchemin de Puissance, 5x Pierre Upcut et 5x Pierre Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 5x Parchemin de Changement d'Élément, 5x Parchemin de Résurrection, 5x Anguille Grillée, 5x Parchemin de Puissance, 5x Pierre Mars et 5x Pierre Arès. Tous les objets sont liés."
 PROPITEM_TXT_722671,2024 Valentine Package,Pack Saint-Valentin 2024
 PROPITEM_TXT_722672,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,Un pack contenant 20x Parchemin d'Amplification ES et 1x Parchemin des Effets de Groupe Combinés (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_131423,Kalgas Silver Coin,Pièce d'Argent Kalgas
@@ -14596,7 +14596,7 @@ PROPITEM_TXT_722934,Kalgas' wrath Wing (30 days),Aile Colère de Kalgas (30 jour
 PROPITEM_TXT_722935,Kalgas' wrath Wing box (Lasts 30 days),Boîte d’Aile Colère de Kalgas (Durée 30 jours)
 PROPITEM_TXT_722936,Kalgas' wrath Boots (F),Bottes Colère de Kalgas (F)
 PROPITEM_TXT_722937,Kalgas Supply Package,Pack de Fournitures Kalgas
-PROPITEM_TXT_722938,"A package containing 50x Kalgas Gold Coin, 10x Scroll of Velocity, 10x Amplification Elixir Box, 10x Amplification Potion Box, 10x Upcut Stone and 10x Def-Upcut Stone. All items are also linked.","Un pack contenant 50x Pièces d’Or Kalgas, 10x Parchemins de Vitesse, 10x Boîtes d’Élixir d’Amplification, 10x Boîtes de Potion d’Amplification, 10x Pierres Upcut et 10x Pierres Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_722938,"A package containing 50x Kalgas Gold Coin, 10x Scroll of Velocity, 10x Amplification Elixir Box, 10x Amplification Potion Box, 10x Upcut Stone and 10x Def-Upcut Stone. All items are also linked.","Un pack contenant 50x Pièces d’Or Kalgas, 10x Parchemins de Vitesse, 10x Boîtes d’Élixir d’Amplification, 10x Boîtes de Potion d’Amplification, 10x Pierres Mars et 10x Pierres Arès. Tous les objets sont liés."
 PROPITEM_TXT_722939,Common Green Tree 2 Single Pack (10 Days),Pack Unitaire Arbre Vert Commun 2 (10 jours)
 PROPITEM_TXT_722940,Common Wooden Barrel 2 Single Pack (10 Days),Pack Unitaire Baril en Bois Commun 2 (10 jours)
 PROPITEM_TXT_722941,Common Wooden Box 2 Single Pack (10 Days),Pack Unitaire Coffre en Bois Commun 2 (10 jours)
@@ -14642,7 +14642,7 @@ PROPITEM_TXT_722974,Limited weapon skin available for Heart Breaker's Day!,Skin 
 PROPITEM_TXT_722975,Monthly Convenient Supply Pack,Pack Mensuel de Fournitures Pratiques
 PROPITEM_TXT_722976,"A package containing 1x Feed Bag (30 Days), 1x Scroll of PickUp Boost (30 Days), 1x Card Disc (30 Days), 1x Extra Bag (30 Days) and 1x Bank Extra Bag (30 Days). All items are also linked.","Un pack contenant 1x Sac de Nourriture (30 jours), 1x Parchemin de Boost de Ramassage (30 jours), 1x Disque de Carte (30 jours), 1x Sac Supplémentaire (30 jours) et 1x Sac Supplémentaire de Banque (30 jours). Tous les objets sont liés."
 PROPITEM_TXT_722977,Adventurer's Package,Pack de l'Aventurier
-PROPITEM_TXT_722978,"A package containing 5x Torch of Raon, 20x Vital Drink X or Refresher Hold, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 5x Torche de Raon, 20x Boisson Vitalité X ou Refresher Hold, 5x Pierre Upcut et 5x Pierre Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_722978,"A package containing 5x Torch of Raon, 20x Vital Drink X or Refresher Hold, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 5x Torche de Raon, 20x Boisson Vitalité X ou Refresher Hold, 5x Pierre Mars et 5x Pierre Arès. Tous les objets sont liés."
 PROPITEM_TXT_132100,[Event] Spring Monster Ball Lv1,[Événement] Balle Monstre du Printemps Lv1
 PROPITEM_TXT_132101,A Monster Ball that can summon lesser monsters. Be careful when using it as giant monsters may appear sometime\n※Scheduled to be recalled within a certain period after the event ends,Balle Monstre pouvant invoquer de petits monstres. Attention lors de son utilisation car des monstres géants peuvent apparaître à certains moments\n※Prévue pour être rappelée dans une certaine période après la fin de l'événement
 PROPITEM_TXT_132102,[Event] Spring Monster Ball Lv2,[Événement] Balle Monstre du Printemps Lv2
@@ -15120,7 +15120,7 @@ PROPITEM_TXT_723392,Select which housing prop you want to receive!,Sélectionnez
 PROPITEM_TXT_723393,April Smelting Scroll Package,Pack de Parchemins de Fusion Avril
 PROPITEM_TXT_723394,"A package containing 20x Scroll of GProtect, 25x Scroll of SProtect and 40x Scroll of AProtect. All items are also linked.","Un pack contenant 20x Parchemin GProtect, 25x Parchemin SProtect et 40x Parchemin AProtect. Tous les objets sont liés"
 PROPITEM_TXT_723395,Hunter's Inventory,Inventaire du Chasseur
-PROPITEM_TXT_723396,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","Un pack contenant 10x Parchemin Amplification ES, 10x Pierre Upcut, 10x Vital Drink X ou Refresher Hold et 10x Parchemin Retour Ville. Tous les objets sont liés"
+PROPITEM_TXT_723396,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","Un pack contenant 10x Parchemin Amplification ES, 10x Pierre Mars, 10x Boisson Énergétique X ou Fiole de Mana X et 10x Parchemin Retour Ville. Tous les objets sont liés"
 PROPITEM_TXT_723397,2nd Anniversary Housing Furniture,Meuble d'Aménagement 2e Anniversaire
 PROPITEM_TXT_723398,2nd Anniversary Cake (Flaris),Gâteau 2e Anniversaire (Flaris)
 PROPITEM_TXT_723399,2nd Anniversary Cake (Saint City),Gâteau 2e Anniversaire (Saint City)
@@ -15244,16 +15244,16 @@ PROPITEM_TXT_724392,Phio Cage,Cage Phio
 PROPITEM_TXT_724394,A cute creature of unknown origins. Very rare sighting!,Une petite créature d’origine inconnue. Observation très rare !
 PROPITEM_TXT_724395,2nd Anniversary Costume Lucky Box,Coffre Chanceux Costume 2ème Anniversaire
 PROPITEM_TXT_724397,2nd Anniversary Growth Package,Pack de Croissance 2ème Anniversaire
-PROPITEM_TXT_724398,"A package containing 1x Amplification ES Scroll Box, 10x Scroll of Resurrection, 10x Upcut Stone, 10x Def-Upcut Stone and 1x 2nd Anniversary Gift Box C. All items are also linked.","Un pack contenant 1x Coffre de Parchemin Amplification ES, 10x Parchemin de Résurrection, 10x Pierre Upcut, 10x Pierre Def-Upcut et 1x Coffre Cadeau 2ème Anniversaire C. Tous les objets sont liés."
+PROPITEM_TXT_724398,"A package containing 1x Amplification ES Scroll Box, 10x Scroll of Resurrection, 10x Upcut Stone, 10x Def-Upcut Stone and 1x 2nd Anniversary Gift Box C. All items are also linked.","Un pack contenant 1x Coffre de Parchemin Amplification ES, 10x Parchemin de Résurrection, 10x Pierre Mars, 10x Pierre Arès et 1x Coffre Cadeau 2ème Anniversaire C. Tous les objets sont liés."
 PROPITEM_TXT_724399,2nd Anniversary Scroll Package,Pack de Parchemins 2ème Anniversaire
 PROPITEM_TXT_724400,"A package containing 1x 15 Days Scroll of Party Exp, 1x 15 Days Scroll of Party Skill, 1x Scroll of Party Amplification (15 Days), 1x Enhanced Party Skill Range 15 and 1x 2nd Anniversary Gift Box B. All items are also linked.","Un pack contenant 1x Parchemin d'Exp de Groupe (15 jours), 1x Parchemin de Compétences de Groupe (15 jours), 1x Parchemin Amplification de Groupe (15 jours), 1x Compétence de Groupe Étendue 15 et 1x Coffre Cadeau 2ème Anniversaire B. Tous les objets sont liés."
 PROPITEM_TXT_724401,FWC Supply Pack,Pack de Fournitures FWC
 PROPITEM_TXT_724403,Gift of Strength (3 Days),Cadeau de Force (3 Jours)
-PROPITEM_TXT_724404,"A package containing 1x Adventurer's Fortune Flask (3 Days), 3x Scroll of Amplification, 3x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 Jours), 3x Parchemin d’Amplification, 3x Anguille Grillée et 5x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_724404,"A package containing 1x Adventurer's Fortune Flask (3 Days), 3x Scroll of Amplification, 3x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 Jours), 3x Parchemin d’Amplification, 3x Anguille Grillée et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_724405,Gift of Strength (15 Days),Cadeau de Force (15 Jours)
-PROPITEM_TXT_724406,"A package containing 1x Adventurer's Fortune Flask (15 Days), 3x Scroll of Amplification, 3x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (15 Jours), 3x Parchemin d’Amplification, 3x Anguille Grillée et 5x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_724406,"A package containing 1x Adventurer's Fortune Flask (15 Days), 3x Scroll of Amplification, 3x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (15 Jours), 3x Parchemin d’Amplification, 3x Anguille Grillée et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_724407,Gift of Strength (30 Days),Cadeau de Force (30 Jours)
-PROPITEM_TXT_724408,"A package containing 1x Adventurer's Fortune Flask (30 Days), 10x Scroll of Amplification, 10x Grilled Eel, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone and 10x Def-Upcut Stone. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (30 Jours), 10x Parchemin d’Amplification, 10x Anguille Grillée, 10x Vital Drink X ou Refresher Hold, 10x Pierre Upcut et 10x Pierre Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_724408,"A package containing 1x Adventurer's Fortune Flask (30 Days), 10x Scroll of Amplification, 10x Grilled Eel, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone and 10x Def-Upcut Stone. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (30 Jours), 10x Parchemin d’Amplification, 10x Anguille Grillée, 10x Boisson Énergétique X ou Fiole de Mana X, 10x Pierre Mars et 10x Pierre Arès. Tous les objets sont liés."
 PROPITEM_TXT_724409,2024 School Uniform 10% Blue Set,Uniforme Scolaire 2024 Set Bleu 10%
 PROPITEM_TXT_724410,2024 School Uniform 10% Blue Set (M),Uniforme Scolaire 2024 Set Bleu 10% (M)
 PROPITEM_TXT_724411,The 2024 School Uniform 10% Blue Set for male characters.,Uniforme Scolaire 2024 Set Bleu 10% pour personnages masculins
@@ -16003,15 +16003,15 @@ PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minute
 PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),Horloge Magique des Terres Sauvages (10 Min)
 PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,Le temps de recharge pour revenir aux Terres Sauvages a été réduit de 10 minutes.\nLe nombre d’utilisations de cet objet aujourd’hui est partagé avec les autres horloges magiques des Terres Sauvages.
 PROPITEM_TXT_725135,Adventurer's Consumable Package,Pack de Consommables d’Aventurier
-PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activition, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","Un pack contenant 10x Pierre Upcut, 10x Activition, 10x Vital Drink X ou Refresher Hold et 10x Parchemin de Retour en Ville. Tous les objets sont également liés."
+PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activition, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","Un pack contenant 10x Pierre Mars, 10x Activition, 10x Boisson Énergétique X ou Fiole de Mana X et 10x Parchemin de Retour en Ville. Tous les objets sont également liés."
 PROPITEM_TXT_725137,PickUp Pet Package II,Pack Familier Ramasseur II
 PROPITEM_TXT_725138,A package containing 1x Baby Penguin and 1x Scroll of PickUp Boost (15 Days). All items are also linked.,Un pack contenant 1x Bébé Pingouin et 1x Parchemin de Boost de Ramassage (15 jours). Tous les objets sont également liés.
 PROPITEM_TXT_725139,Gift of the Champion (3 Days),Cadeau du Champion (3 jours)
-PROPITEM_TXT_725140,"A package containing 1x Champion's Bounty Flask (3 Days), 3x Power Scroll, 5x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (3 jours), 3x Parchemin de Puissance, 5x Vital Drink X ou Refresher Hold et 10x Activition. Tous les objets sont également liés."
+PROPITEM_TXT_725140,"A package containing 1x Champion's Bounty Flask (3 Days), 3x Power Scroll, 5x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (3 jours), 3x Parchemin de Puissance, 5x Boisson Énergétique X ou Fiole de Mana X et 10x Activition. Tous les objets sont également liés."
 PROPITEM_TXT_725141,Gift of the Champion (15 Days),Cadeau du Champion (15 jours)
-PROPITEM_TXT_725142,"A package containing 1x Champion's Bounty Flask (15 Days), 3x Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (15 jours), 3x Parchemin de Puissance Chargée, 10x Vital Drink X ou Refresher Hold et 10x Activition. Tous les objets sont également liés."
+PROPITEM_TXT_725142,"A package containing 1x Champion's Bounty Flask (15 Days), 3x Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (15 jours), 3x Parchemin de Puissance Chargée, 10x Boisson Énergétique X ou Fiole de Mana X et 10x Activition. Tous les objets sont également liés."
 PROPITEM_TXT_725143,Gift of the Champion (30 Days),Cadeau du Champion (30 jours)
-PROPITEM_TXT_725144,"A package containing 1x Champion's Bounty Flask (30 Days), 5x Super Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (30 jours), 5x Parchemin de Super Puissance Chargée, 10x Vital Drink X ou Refresher Hold et 10x Activition. Tous les objets sont également liés."
+PROPITEM_TXT_725144,"A package containing 1x Champion's Bounty Flask (30 Days), 5x Super Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activition. All items are also linked.","Un pack contenant 1x Fiole de Prime du Champion (30 jours), 5x Parchemin de Super Puissance Chargée, 10x Boisson Énergétique X ou Fiole de Mana X et 10x Activition. Tous les objets sont également liés."
 PROPITEM_TXT_725145,Luxury Housing Pack,Pack d'Aménagement de Luxe
 PROPITEM_TXT_725146,Luxury Housing Pack,Pack d'Aménagement de Luxe
 PROPITEM_TXT_725147,Luxury Housing Pack,Pack d'Aménagement de Luxe
@@ -16250,9 +16250,9 @@ PROPITEM_TXT_725379,Big Wave Surfing 10% Red Set (F),Ensemble Surf Big Wave Roug
 PROPITEM_TXT_725380,The Big Wave Surfing 10% Red Set for female characters.,Ensemble Surf Big Wave Rouge 10% pour personnages féminins.
 PROPITEM_TXT_132260,This flying board is shaped like a Surfboard,Cette planche volante a la forme d’une planche de surf
 PROPITEM_TXT_132261,Hunting Expedition Package,Pack Expédition de Chasse
-PROPITEM_TXT_132262,"A package containing 10x Scroll of Food Shop, 10x Def-Upcut Stone, 20x Potion Select Box, 20x Flask Select Box and 4x Power Scroll. All items are also linked.","Un pack contenant 10x Parchemin de Boutique de Nourriture, 10x Pierre Def-Upcut, 20x Boîte de Sélection de Potions, 20x Boîte de Sélection de Fioles et 4x Parchemin de Puissance. Tous les objets sont également liés."
+PROPITEM_TXT_132262,"A package containing 10x Scroll of Food Shop, 10x Def-Upcut Stone, 20x Potion Select Box, 20x Flask Select Box and 4x Power Scroll. All items are also linked.","Un pack contenant 10x Parchemin de Boutique de Nourriture, 10x Pierre Arès, 20x Boîte de Sélection de Potions, 20x Boîte de Sélection de Fioles et 4x Parchemin de Puissance. Tous les objets sont également liés."
 PROPITEM_TXT_132263,Summer Boost Package,Pack Boost d’Été
-PROPITEM_TXT_132264,"A package containing 3x Scroll of Amplification ES 140, 3x Power Scroll and 10x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Parchemin d’Amplification ES 140, 3x Parchemin de Puissance et 10x Boisson Vitale X ou Refresher Hold. Tous les objets sont également liés."
+PROPITEM_TXT_132264,"A package containing 3x Scroll of Amplification ES 140, 3x Power Scroll and 10x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Parchemin d’Amplification ES 140, 3x Parchemin de Puissance et 10x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont également liés."
 PROPITEM_TXT_725381,Little Butterflies Brown Set,Ensemble Petits Papillons Marron
 PROPITEM_TXT_725382,Little Butterflies Brown Set (M),Ensemble Petits Papillons Marron (H)
 PROPITEM_TXT_725383,The Little Butterflies Brown Set for male characters.,Ensemble Petits Papillons Marron pour personnages masculins.
@@ -16466,11 +16466,11 @@ PROPITEM_TXT_132268,[Event] Fourth Completion Gift,[Événement] Quatrième Cade
 PROPITEM_TXT_132270,[Event] Dice Set,[Événement] Ensemble de Dés
 PROPITEM_TXT_132271,You can roll the dice on the board and obtain various rewards.,Vous pouvez lancer les dés sur le plateau et obtenir diverses récompenses.
 PROPITEM_TXT_132272,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scrolls of Guild Custody, 5 Scrolls of General Shop, and 5 Scrolls of Food Shop.","Récompense de première réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale et 5 Parchemins de Boutique Alimentaire."
-PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
+PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
 PROPITEM_TXT_132274,"Third completion reward for Roll your Lucky Dice!\nYou can earn 5 Power Scrolls, 5 Scrolls of Velocity, and 5 Def-Upcut Stones.","Récompense de troisième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Puissance, 5 Parchemins de Vitesse et 5 Pierres Déf-Upcut."
-PROPITEM_TXT_132275,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stones, 5 Vital Drink X or Refresher Hold, 5 Scrolls of Amplification ES, and 5 Scrolls of Return.","Récompense de quatrième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Upcut, 5 Vital Drink X ou Refresher Hold, 5 Parchemins d'Amplification ES et 5 Parchemins de Retour."
+PROPITEM_TXT_132275,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stones, 5 Vital Drink X or Refresher Hold, 5 Scrolls of Amplification ES, and 5 Scrolls of Return.","Récompense de quatrième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Mars, 5 Boisson Énergétique X ou Fiole de Mana X, 5 Parchemins d'Amplification ES et 5 Parchemins de Retour."
 PROPITEM_TXT_725583,FWC PvE Supply Package (FWC Only),Pack de Fournitures PvE FWC (FWC uniquement)
-PROPITEM_TXT_725584,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 10x Grilled Eel, 10x Upcut Stone, 10x Def-Upcut Stone and 20x Scroll of Velocity. All items are also linked.","Un pack contenant 5x Parchemin d'Amplification ES, 5x Parchemin de Puissance, 10x Anguille Grillée, 10x Pierre Upcut, 10x Pierre Déf-Upcut et 20x Parchemins de Vitesse. Tous les objets sont liés."
+PROPITEM_TXT_725584,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 10x Grilled Eel, 10x Upcut Stone, 10x Def-Upcut Stone and 20x Scroll of Velocity. All items are also linked.","Un pack contenant 5x Parchemin d'Amplification ES, 5x Parchemin de Puissance, 10x Anguille Grillée, 10x Pierre Mars, 10x Pierre Déf-Upcut et 20x Parchemins de Vitesse. Tous les objets sont liés."
 PROPITEM_TXT_725585,Eastern Warrior 10% Red Set,Ensemble Guerrier de l'Est Rouge 10%
 PROPITEM_TXT_725586,Eastern Warrior 10% Red Set (M),Ensemble Guerrier de l'Est Rouge 10% (H)
 PROPITEM_TXT_725587,The Eastern Warrior 10% Red Set for male characters.,Ensemble Guerrier de l'Est Rouge 10% pour personnages masculins.
@@ -16751,7 +16751,7 @@ PROPITEM_TXT_008757,Green Swimwear and Beach Shoes inside,Maillot Vert avec Chau
 PROPITEM_TXT_725803,Gala Balloon,Ballon Gala
 PROPITEM_TXT_725804,Flyff Balloon,Ballon Flyff
 PROPITEM_TXT_725805,ES Scroll Select Package,Pack de Sélection de Parchemins ES
-PROPITEM_TXT_725806,"A package containing 5x Amplification ES Scroll Select Box, 10x Def-Upcut Stone, 10x Activition, 10x Scroll of Return Town and 4x Power Scroll. All items are also linked.","Un pack contenant 5x Boîte de Sélection de Parchemin ES Amplification, 10x Pierre Def-Upcut, 10x Activation, 10x Parchemin de Retour en Ville et 4x Parchemin de Puissance. Tous les objets sont liés."
+PROPITEM_TXT_725806,"A package containing 5x Amplification ES Scroll Select Box, 10x Def-Upcut Stone, 10x Activition, 10x Scroll of Return Town and 4x Power Scroll. All items are also linked.","Un pack contenant 5x Boîte de Sélection de Parchemin ES Amplification, 10x Pierre Arès, 10x Activation, 10x Parchemin de Retour en Ville et 4x Parchemin de Puissance. Tous les objets sont liés."
 PROPITEM_TXT_725807,Memorial Summer Lucky Box (M),Boîte Chance Été Commémorative (H)
 PROPITEM_TXT_725808,Memorial Summer Lucky Box (F),Boîte Chance Été Commémorative (F)
 PROPITEM_TXT_725809,This box contains a random beach costume! Good summer!,Cette boîte contient un costume de plage aléatoire ! Bon été !
@@ -16772,7 +16772,7 @@ PROPITEM_TXT_725823,Select which piercing card piece (7%) you want!,Sélectionne
 PROPITEM_TXT_725824,7 Day Essentials Pack,Pack Essentiels 7 Jours
 PROPITEM_TXT_725825,"A package containing 1x Feed Bag (7 Days), 1x Scroll of PickUp Boost (7 Days), 1x Card Disc (7 Days) and 1x Aura Selection Box (7 Days). All items are also linked.","Un pack contenant 1x Sac de Nourriture (7 Jours), 1x Parchemin Boost de PickUp (7 Jours), 1x Disque de Carte (7 Jours) et 1x Boîte de Sélection d'Aura (7 Jours). Tous les objets sont liés."
 PROPITEM_TXT_725826,Madrigal Survival Kit,Kit de Survie Madrigal
-PROPITEM_TXT_725827,"A package containing 5x Scroll of Resurrection, 5x Def-Upcut Stone, 2x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Parchemin de Résurrection, 5x Pierre Def-Upcut, 2x Anguille Grillée et 5x Boisson Vitale X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_725827,"A package containing 5x Scroll of Resurrection, 5x Def-Upcut Stone, 2x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Parchemin de Résurrection, 5x Pierre Arès, 2x Anguille Grillée et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_725828,Classy Bear Pack,Pack Ours Chic
 PROPITEM_TXT_725829,"A package containing 1x Teddy Bear Costume Select Box, 1x Polar Bear and 1x Hipster Glasses (Red). All items are also linked.","Un pack contenant 1x Boîte de Sélection Costume Ours en Peluche, 1x Ours Polaire et 1x Lunettes Hipster (Rouge). Tous les objets sont liés."
 PROPITEM_TXT_725830,Fortune Flask Pack (3 Days),Pack Flacon Fortune (3 Jours)
@@ -16784,11 +16784,11 @@ PROPITEM_TXT_725835,A package containing 1x Champion's Bounty Flask (3 Days) and
 PROPITEM_TXT_725836,Champion's Bounty Flask Pack (15 Days),Pack Flacon Récompense Champion (15 Jours)
 PROPITEM_TXT_725837,A package containing 1x Champion's Bounty Flask (15 Days) and 5x Power Scroll. All items are also linked.,Un pack contenant 1x Flacon Récompense Champion (15 Jours) et 5x Parchemins de Puissance. Tous les objets sont liés.
 PROPITEM_TXT_725838,FWC Adventure Pack,Pack Aventure FWC
-PROPITEM_TXT_725839,"A package containing 1x Adventurer's Fortune Flask (7 Days), 7x Def-Upcut Stone, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Potion Select Box and 7x Flask Select Box. All items are also linked.","Un pack contenant 1x Flacon Fortune de l'Aventurier (7 Jours), 7x Pierre Def-Upcut, 7x Anguille Grillée, 7x Boisson Vitale X ou Refresher Hold, 7x Boîtes de Sélection de Potions et 7x Boîtes de Sélection de Flacons. Tous les objets sont liés."
+PROPITEM_TXT_725839,"A package containing 1x Adventurer's Fortune Flask (7 Days), 7x Def-Upcut Stone, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Potion Select Box and 7x Flask Select Box. All items are also linked.","Un pack contenant 1x Flacon Fortune de l'Aventurier (7 Jours), 7x Pierre Arès, 7x Anguille Grillée, 7x Boisson Énergétique X ou Fiole de Mana X, 7x Boîtes de Sélection de Potions et 7x Boîtes de Sélection de Flacons. Tous les objets sont liés."
 PROPITEM_TXT_725840,Android Pre-registration Reward,Récompense Pré-inscription Android
-PROPITEM_TXT_725841,"A package containing 3x Vital Drink or Refresher Hold, 1x Scroll of Amplification ES, 5x Def-Upcut Stone and 5x Scroll of Return. All items are also linked.","Un pack contenant 3x Boisson Vitale ou Refresher Hold, 1x Parchemin d'Amplification ES, 5x Pierre Def-Upcut et 5x Parchemins de Retour. Tous les objets sont liés."
+PROPITEM_TXT_725841,"A package containing 3x Vital Drink or Refresher Hold, 1x Scroll of Amplification ES, 5x Def-Upcut Stone and 5x Scroll of Return. All items are also linked.","Un pack contenant 3x Boisson Vitale ou Refresher Hold, 1x Parchemin d'Amplification ES, 5x Pierre Arès et 5x Parchemins de Retour. Tous les objets sont liés."
 PROPITEM_TXT_725842,Android Milestone Gift Box 1,Boîte Cadeau Étape Android 1
-PROPITEM_TXT_725843,"A package containing 3x Vital Drink X or Refresher Hold, 5x Scroll of Return and 3x Activition. All items are also linked.","Un pack contenant 3x Boisson Vitale X ou Refresher Hold, 5x Parchemins de Retour et 3x Activation. Tous les objets sont liés."
+PROPITEM_TXT_725843,"A package containing 3x Vital Drink X or Refresher Hold, 5x Scroll of Return and 3x Activition. All items are also linked.","Un pack contenant 3x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemins de Retour et 3x Activation. Tous les objets sont liés."
 PROPITEM_TXT_725844,Android Milestone Gift Box 2,Boîte Cadeau Étape Android 2
 PROPITEM_TXT_725845,"A package containing 1x Scroll of Amplification ES, 1x Power Scroll and 1x Grilled Eel. All items are also linked.","Un pack contenant 1x Parchemin d'Amplification ES, 1x Parchemin de Puissance et 1x Anguille Grillée. Tous les objets sont liés."
 PROPITEM_TXT_725846,Android Milestone Gift Box 3,Boîte Cadeau Étape Android 3
@@ -17072,7 +17072,7 @@ PROPITEM_TXT_726128,A package containing 1x Scroll of Name Change and 1x Transy.
 PROPITEM_TXT_726129,FWC 2024 Final Gift Box A,Coffret Cadeau Final FWC 2024 A
 PROPITEM_TXT_726130,"A package containing 1x Card Disc (7 days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activition.","Un pack contenant 1x Carte Disque (7 jours), 3x Boisson Vital X ou Rafraîchisseur, 3x Pierre Upcut et 3x Activation."
 PROPITEM_TXT_726131,FWC 2024 Final Gift Box B,Coffret Cadeau Final FWC 2024 B
-PROPITEM_TXT_726132,"A package containing 1x Scroll of PickUp Boost (7 days), 3x Scroll of Resurrection, 5x Def-Upcut Stone and 1x Extra Bag (30 days).","Un pack contenant 1x Parchemin de Boost de Récupération (7 jours), 3x Parchemin de Résurrection, 5x Pierre Def-Upcut et 1x Sac Supplémentaire (30 jours)."
+PROPITEM_TXT_726132,"A package containing 1x Scroll of PickUp Boost (7 days), 3x Scroll of Resurrection, 5x Def-Upcut Stone and 1x Extra Bag (30 days).","Un pack contenant 1x Parchemin de Boost de Récupération (7 jours), 3x Parchemin de Résurrection, 5x Pierre Arès et 1x Sac Supplémentaire (30 jours)."
 PROPITEM_TXT_726133,FWC 2024 Final Gift Box C,Coffret Cadeau Final FWC 2024 C
 PROPITEM_TXT_726134,"A package containing 1x Feed Bag (7 days), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel.","Un pack contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Puissance et 3x Anguille Grillée."
 PROPITEM_TXT_726135,FWC 2024 Early Bird Reward,Récompense Early Bird FWC 2024
@@ -17357,7 +17357,7 @@ PROPITEM_TXT_140050,Shady eye,Œil Sombre
 PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Objet de quête lâché par les Shadowirs
 PROPITEM_TXT_140052,Cursed Wing,Aile Maudite
 PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Objet de quête lâché par les Skelmaw
-PROPITEM_TXT_131906,Yellow Chips,Puces Jaunes
+PROPITEM_TXT_131906,Yellow Chips,Jeton Jaunes
 PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi Madrigal (Utilisée pour acheter des objets auprès de Waforu)
 PROPITEM_TXT_131908,This will give you a new template for your couple house!,Cela vous donnera un nouveau modèle pour votre maison de couple !
 PROPITEM_TXT_131909,Blank House Template (M) (Couple),Modèle Maison Vide (M) (Couple)
@@ -17403,7 +17403,7 @@ PROPITEM_TXT_133022,Finest Pickaxe,Meilleure Pioche
 PROPITEM_TXT_133023,The finest pickaxe that is used for mining ores. Mining success rate: 70%,La meilleure pioche utilisée pour miner des minerais. Taux de réussite : 70 %
 PROPITEM_TXT_133024,Fishing Rod,Canne à Pêche
 PROPITEM_TXT_133025,"A fishing rod that is used for fishing. Fishing success rate: 40%, chance of catching a large fish: 5%","Une canne à pêche utilisée pour pêcher. Taux de réussite : 40 %, chance d’attraper un gros poisson : 5 %"
-PROPITEM_TXT_133026,Well-maintained Fishing Rod,Canne à Pêche Bien Entretien
+PROPITEM_TXT_133026,Well-maintained Fishing Rod,Canne à Pêche Bien Entretenue
 PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 55%, chance of catching large a fish: 6%","Une canne à pêche bien entretenue. Taux de réussite : 55 %, chance d’attraper un gros poisson : 6 %"
 PROPITEM_TXT_133028,New Fishing Rod,Nouvelle Canne à Pêche
 PROPITEM_TXT_133029,"A new type of fishing rod that is used for fishing. Fishing success rate: 70%, chance of catching a large fish: 8%","Un nouveau type de canne à pêche. Taux de réussite : 70 %, chance d’attraper un gros poisson : 8 %"
@@ -17802,11 +17802,11 @@ PROPITEM_TXT_133421,Fish Ball (B),Boule de Poisson (B)
 PROPITEM_TXT_133422,Fish Ball (A),Boule de Poisson (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Boule de Poisson (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133425,Seafood Pancake (C),Crêpe aux Fruits de Mer (C)
+PROPITEM_TXT_133425,Seafood Pan Cake (C),Crêpe aux Fruits de Mer (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Redonne 276 PV
-PROPITEM_TXT_133427,Seafood Pancake (B),Crêpe aux Fruits de Mer (B)
-PROPITEM_TXT_133428,Seafood Pancake (A),Crêpe aux Fruits de Mer (A)
-PROPITEM_TXT_133429,Seafood Pancake (A+),Crêpe aux Fruits de Mer (A+)
+PROPITEM_TXT_133427,Seafood Pan Cake (B),Crêpe aux Fruits de Mer (B)
+PROPITEM_TXT_133428,Seafood Pan Cake (A),Crêpe aux Fruits de Mer (A)
+PROPITEM_TXT_133429,Seafood Pan Cake (A+),Crêpe aux Fruits de Mer (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Redonne 299 PV
 PROPITEM_TXT_133431,Fish Soup (C),Soupe de Poisson (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Redonne 360 PV
@@ -19091,7 +19091,7 @@ PROPITEM_TXT_726174,"A package containing 3x Halloween Balloons Box, 3x Grilled 
 PROPITEM_TXT_726175,MyCard Promotion Box A,Boîte Promotion MyCard A
 PROPITEM_TXT_726176,"A package containing 2x Grilled Eel, 5x Vital Drink X or Refresher Hold, 3x Scroll of Amplification ES and 3x Def-Upcut Stone. All items are also linked.","Un pack contenant 2x Anguille Grillée, 5x Boisson Vitale X ou Réactivateur Hold, 3x Parchemin Amplification ES et 3x Pierre Déf-Upcut. Tous les objets sont liés."
 PROPITEM_TXT_726177,MyCard Promotion Box B,Boîte Promotion MyCard B
-PROPITEM_TXT_726178,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 days) and 1x Teddy Bear Costume Select Box. All items are also linked.","Un pack contenant 10x Parchemin Puissance, 10x Pierre Upcut, 1x Nitro Booster (7 jours) et 1x Boîte Sélection Costume Ours. Tous les objets sont liés."
+PROPITEM_TXT_726178,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 days) and 1x Teddy Bear Costume Select Box. All items are also linked.","Un pack contenant 10x Parchemin Puissance, 10x Pierre Mars, 1x Nitro Booster (7 jours) et 1x Boîte Sélection Costume Ours. Tous les objets sont liés."
 PROPITEM_TXT_726179,MyCard Promotion Box C,Boîte Promotion MyCard C
 PROPITEM_TXT_726180,"A package containing 1x Bank Extra Bag (15 Days), 10x Power Scroll, 50x Scroll of SProtect, 20x Scroll of Weapon Bonus and 1x Teddy Bear Costume Select Box. All items are also linked.","Un pack contenant 1x Sac Banque Supplémentaire (15 Jours), 10x Parchemin Puissance, 50x Parchemin SProtect, 20x Parchemin Bonus Arme et 1x Boîte Sélection Costume Ours. Tous les objets sont liés."
 PROPITEM_TXT_144001,[Housing] Ordinary Herb Seed,[Habitat] Graine d'Herbe Ordinaire
@@ -19401,7 +19401,7 @@ PROPITEM_TXT_726190,"A package containing 30x Scroll of GProtect, 30x Scroll of 
 PROPITEM_TXT_726191,2024 Thanksgiving Turkey Box,Boîte Dinde Thanksgiving 2024
 PROPITEM_TXT_726192,"A package containing 3x Turkey Box, 3x Potion Select Box and 3x Flask Select Box. All items are also linked.","Un pack contenant 3x Boîte Dinde, 3x Boîte de Sélection de Potion et 3x Boîte de Sélection de Flacon. Tous les objets sont également liés."
 PROPITEM_TXT_726193,2024 Thanksgiving Buff Package,Pack Bonus Thanksgiving 2024
-PROPITEM_TXT_726194,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activition and 1x Thanksgiving Day Buff Select Box. All items are also linked.","Un pack contenant 10x Pierre Upcut, 10x Vital Drink X ou Refresher Hold, 10x Activation et 1x Boîte de Sélection Buff Thanksgiving. Tous les objets sont également liés."
+PROPITEM_TXT_726194,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activition and 1x Thanksgiving Day Buff Select Box. All items are also linked.","Un pack contenant 10x Pierre Mars, 10x Boisson Énergétique X ou Fiole de Mana X, 10x Activation et 1x Boîte de Sélection Buff Thanksgiving. Tous les objets sont également liés."
 PROPITEM_TXT_726195,2024 Black Friday Costume Lucky Box,Boîte Chanceuse Costume Black Friday 2024
 PROPITEM_TXT_726196,2024 Thanksgiving Ultimate Package,Pack Ultime Thanksgiving 2024
 PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.","Un pack contenant 1x Parchemin Bonus Ultime, 5x Parchemin Pouvoir Ultime, 10x Parchemin XProtect, 5x Pierre Mana Avancée, 5x Pierre Mana et 10x Couteau de Coupe. Tous les objets sont également liés."
@@ -19555,7 +19555,7 @@ PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin
 PROPITEM_TXT_145013,Dreadscale Medallion,Médaille Dreadscale
 PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance.
 PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Boîte NPC Aléatoire pour Logement (7 jours)
-PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contient un NPC aléatoire pour logement de 7 jours. Le NPC sera lié à l’âme du joueur.
+PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contient un NPC aléatoire pour logement de 7 jours. Le NPC sera lié à votre personnage du joueur.
 PROPITEM_TXT_145017,Shop Advertisement (Gold),Publicité de Boutique (Or)
 PROPITEM_TXT_145018,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.,Ce parchemin fait apparaître votre boutique privée ou de vendeur en haut des résultats de recherche avec une décoration dorée. Il est consommé à l’ouverture de la boutique et disparaît à la fermeture.
 PROPITEM_TXT_145019,Shop Advertisement (Green),Publicité de Boutique (Vert)
@@ -19846,7 +19846,7 @@ PROPITEM_TXT_201114,Kalgas' Fury Wing box (Lasts 30 Days),Boîte d’Ailes de la
 PROPITEM_TXT_201115,Kuma Pet Package,Pack de Compagnon Kuma
 PROPITEM_TXT_201116,A package containing 1x Kuma and 1x Scroll of PickUp Boost (15 Days). All items are also linked.,Un pack contenant 1x Kuma et 1x Parchemin de Boost de Ramassage (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_144138,2025 New Year Lottery Coin,Pièce de Loterie Nouvel An 2025
-PROPITEM_TXT_144139,2025 Rice Cake Soup Select Box,Boîte de Sélection Soupe de Gâteau de Riz 2025
+PROPITEM_TXT_144139,2025 Rice Cake Soup Select Box,Boîte de Sélection Gâteau de Riz 2025
 PROPITEM_TXT_144140,A Lucky Box filled with variety buff items. You can choose 1 item from it,Boîte Chance remplie de divers objets de buff. Vous pouvez en choisir 1.
 PROPITEM_TXT_144141,Goldwork (B) Select Box,Boîte de Sélection Or (B)
 PROPITEM_TXT_144142,A Lucky Box filled with variety Goldwork(B) items. You can choose 1 item from it,Boîte Chance remplie de divers objets Or (B). Vous pouvez en choisir 1.
@@ -19862,14 +19862,14 @@ PROPITEM_TXT_144151,[Event] Christmas Invasion Box 2,[Événement] Boîte Invasi
 PROPITEM_TXT_144152,Final reward for the Christams Invasion!\nYou can earn 1 2024 Christmas Set,Récompense finale de l’Invasion de Noël !\nVous pouvez obtenir 1 Set de Noël 2024
 PROPITEM_TXT_144153,Blue Cobra,Cobra Bleu
 PROPITEM_TXT_144154,A Cobra that follows its master around and picks up dropped items,Un cobra qui suit son maître et ramasse les objets lâchés
-PROPITEM_TXT_144155,2025 Red Rice Cake Soup,Soupe de Gâteau de Riz Rouge 2025
-PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 STR pendant 30 minutes.
-PROPITEM_TXT_144157,2025 Green Rice Cake Soup,Soupe de Gâteau de Riz Vert 2025
-PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 DEX pendant 30 minutes.
-PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,Gâteau de riz Bleu 2025
-PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 INT pendant 30 minutes.
-PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,Soupe de Gâteau de Riz Jaune 2025
-PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,Cette soupe de gâteau de riz vous donnera +25 STA pendant 30 minutes.
+PROPITEM_TXT_144155,2025 Red Rice Cake Soup,Gâteau de Riz Rouge 2025
+PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,Ce gâteau de riz vous donnera +25 de FOR pendant 30 minutes.
+PROPITEM_TXT_144157,2025 Green Rice Cake Soup,Gâteau de Riz Vert 2025
+PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,Ce gâteau de riz vous donnera +25 de DEX pendant 30 minutes.
+PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,Gâteau de Riz Bleu 2025
+PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,Ce gâteau de riz vous donnera +25 de INT pendant 30 minutes.
+PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,Gâteau de Riz Jaune 2025
+PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,Ce gâteau de riz vous donnera +25 de END pendant 30 minutes.
 PROPITEM_TXT_826335,Xmas 2024 White Edition 10% Red Set,Noël 2024 Édition Blanche Set Rouge 10%
 PROPITEM_TXT_826336,Xmas 2024 White Edition Red Wings,Ailes Rouges Édition Blanche Noël 2024
 PROPITEM_TXT_826337,Xmas 2024 White Edition Red Sunglasses,Lunettes Rouges Édition Blanche Noël 2024
@@ -20228,7 +20228,7 @@ PROPITEM_TXT_826665,Select which Ice Ribbon Weapon you want to receive!,Sélecti
 PROPITEM_TXT_826666,2025 New year Lucky Box,Boîte Chanceuse Nouvel An 2025
 PROPITEM_TXT_826667,A Lucky Box filled with good luck for the 2025 new year!\nYou'll get 1 random item from a variety of different items,Une Boîte Chanceuse remplie de bonne chance pour le Nouvel An 2025 !\nVous recevrez 1 objet aléatoire parmi une variété d'objets différents.
 PROPITEM_TXT_826668,[Event] 2025 New Year Gift Box 1,[Événement] Boîte Cadeau Nouvel An 2025 1
-PROPITEM_TXT_826669,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES, and 5x Repair Hammer","Première récompense pour l'Événement Nouvel An !\nVous pouvez obtenir 5x Pierre Upcut, 1x Anguille Grillée, 1x Parchemin d'Amplification ES et 5x Marteau de Réparation."
+PROPITEM_TXT_826669,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES, and 5x Repair Hammer","Première récompense pour l'Événement Nouvel An !\nVous pouvez obtenir 5x Pierre Mars, 1x Anguille Grillée, 1x Parchemin d'Amplification ES et 5x Marteau de Réparation."
 PROPITEM_TXT_826670,[Event] 2025 New Year Gift Box 2,[Événement] Boîte Cadeau Nouvel An 2025 2
 PROPITEM_TXT_826671,"Second reward for New Year Event!\nYou can earn 1x Ad product selection box, 1x Angel Vendor Shop 7days, 1x Scroll of Gprotect or Power Scroll, and 10x Wandering Merchant Refresh Ticket","Deuxième récompense pour l'Événement Nouvel An !\nVous pouvez obtenir 1x Coffre de sélection de produit publicitaire, 1x Boutique Ange 7 jours, 1x Parchemin de Gprotect ou Parchemin de Pouvoir, et 10x Ticket de Rafraîchissement Marchand Errant."
 PROPITEM_TXT_826672,[Event] 2025 New Year Gift Box 3,[Événement] Boîte Cadeau Nouvel An 2025 3
@@ -21004,10 +21004,10 @@ PROPITEM_TXT_827582,Neon Valentines White Chair Single Pack,Pack Chaise Saint-Va
 PROPITEM_TXT_827583,Neon Valentines White Bath Single Pack,Pack Baignoire Saint-Valentin Néon Blanc
 PROPITEM_TXT_827584,Neon Valentines White Bed Single Pack,Pack Lit Saint-Valentin Néon Blanc
 PROPITEM_TXT_827585,Neon Valentines White Sofa Single Pack,Pack Canapé Saint-Valentin Néon Blanc
-PROPITEM_TXT_827586,Playtime Coupon Box,Boîte de Coupon de Présence
-PROPITEM_TXT_827587,A package containing 1x Bonus Playtime Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
+PROPITEM_TXT_827586,Attendance Coupon Box,Boîte de Coupon de Présence
+PROPITEM_TXT_827587,A package containing 1x Additional Attendance Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
 PROPITEM_TXT_827588,Magical Potion Box,Boîte de Potions Magiques
-PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked.","Un paquet contenant 5x Pierres Upcut, 5x Boîtes de Potion, 5x Boîtes de Flacon et 1x Parchemin de Puissance. Tous les objets sont également liés."
+PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked.","Un paquet contenant 5x Pierres Mars, 5x Boîtes de Potion, 5x Boîtes de Flacon et 1x Parchemin de Puissance. Tous les objets sont également liés."
 PROPITEM_TXT_829999,Lifestyle Mastery Bag,Sac de Maîtrise de Style de Vie
 PROPITEM_TXT_830000,Bag gifted by Livi. You can put up to 32 items obtained via lifestyle skills.,Sac offert par Livi. Vous pouvez y mettre jusqu’à 32 objets obtenus via les compétences de style de vie.
 PROPITEM_TXT_830001,Premium Lifestyle Bag,Sac de Maîtrise de Style de Vie Premium
@@ -21281,7 +21281,7 @@ PROPITEM_TXT_827778,Ghost of the Forgotten Sword,Fantôme de l'Épée Oubliée
 PROPITEM_TXT_827779,Ghost of the Forgotten Axe,Fantôme de la Hache Oubliée
 PROPITEM_TXT_827780,Ghost of the Forgotten Big Sword,Fantôme de la Grande Épée Oubliée
 PROPITEM_TXT_827781,Ghost of the Forgotten Big Axe,Fantôme de la Grande Hache Oubliée
-PROPITEM_TXT_827782,Ghost of the Forgotten Stick,Fantôme du Scptre Oublié
+PROPITEM_TXT_827782,Ghost of the Forgotten Stick,Fantôme du Sceptre Oublié
 PROPITEM_TXT_827783,Ghost of the Forgotten Knuckle,Fantôme du Poing Oubliés
 PROPITEM_TXT_827784,Ghost of the Forgotten Bow,Fantôme de l'Arc Oublié
 PROPITEM_TXT_827785,Ghost of the Forgotten Yo-Yo,Fantôme du Yo-Yo Oublié
@@ -21346,7 +21346,7 @@ PROPITEM_TXT_134692,"Final Reward for the Easter Event!\nYou can earn Scroll of 
 PROPITEM_TXT_134693,[Event] Easter Gift Box B,[Événement] Boîte Cadeau de Pâques B
 PROPITEM_TXT_134694,"Third Reward for the Easter Event!\nYou can earn Scroll of Multi-Shop x20, Scroll of Resurrection x5, Activition x5, and Spring Buff Lucky Box x5","Troisième récompense de l'événement de Pâques !\nVous pouvez obtenir Parchemin Multi-Boutique x20, Parchemin de Résurrection x5, Activition x5 et Boîte Chanceuse Buff Printanier x5"
 PROPITEM_TXT_134695,[Event] Easter Gift Box C,[Événement] Boîte Cadeau de Pâques C
-PROPITEM_TXT_134696,"Second Reward for the Easter Event!\nYou can earn Scroll of Amplification ES x5, Flask Box x10, Upcut Stone x10, and Gold Pill x30","Deuxième récompense de l'événement de Pâques !\nVous pouvez obtenir Parchemin d'Amplification ES x5, Boîte de Flasques x10, Pierre Upcut x10 et Pilule d'Or x30"
+PROPITEM_TXT_134696,"Second Reward for the Easter Event!\nYou can earn Scroll of Amplification ES x5, Flask Box x10, Upcut Stone x10, and Gold Pill x30","Deuxième récompense de l'événement de Pâques !\nVous pouvez obtenir Parchemin d'Amplification ES x5, Boîte de Flasques x10, Pierre Mars x10 et Pilule d'Or x30"
 PROPITEM_TXT_134697,[Event] Easter Gift Box D,[Événement] Boîte Cadeau de Pâques D
 PROPITEM_TXT_134698,"First Reward for the Easter Event!\nYou can earn [Housing] Ordinary Tree Seed 1 Day x5, [Housing] Ordinary Ore Deposit 1 Day x5, [Housing] Ordinary Herb Seed 1 Day x5, Premium Repair Hammer x5, and Spring Buff Lucky Box x5","Première récompense de l'événement de Pâques !\nVous pouvez obtenir [Housing] Graine d'Arbre Ordinaire 1 Jour x5, [Housing] Dépôt de Minerai Ordinaire 1 Jour x5, [Housing] Graine d'Herbe Ordinaire 1 Jour x5, Marteau de Réparation Premium x5 et Boîte Chanceuse Buff Printanier x5"
 PROPITEM_TXT_134699,[Event] Easter Gift Box E,[Événement] Boîte Cadeau de Pâques E
@@ -21829,9 +21829,9 @@ PROPITEM_TXT_900009,2025 FWC Golden Lusaka's Crystal Yo-Yo,Yo-Yo de Cristal Lusa
 PROPITEM_TXT_828300,Android Level 15 Reward Box,Coffre Récompense Android Niveau 15
 PROPITEM_TXT_828301,"A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES, 5x Scroll of Return town and 10x Scroll of Sprint. All items are also linked.","Un pack contenant 3x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES, 5x Parchemin de Retour au Village et 10x Parchemin Sprint. Tous les objets sont liés."
 PROPITEM_TXT_828302,Android Level 30 Reward Box,Coffre Récompense Android Niveau 30
-PROPITEM_TXT_828303,"A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES40, 10x Scroll of Return town and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 3x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES40, 10x Parchemin de Retour au Village et 5x Pierre Def-Upcut. Tous les objets sont liés."
+PROPITEM_TXT_828303,"A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES40, 10x Scroll of Return town and 5x Def-Upcut Stone. All items are also linked.","Un pack contenant 3x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES40, 10x Parchemin de Retour au Village et 5x Pierre Arès. Tous les objets sont liés."
 PROPITEM_TXT_828304,Android Level 45 Reward Box,Coffre Récompense Android Niveau 45
-PROPITEM_TXT_828305,"A package containing 5x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES60, 10x Upcut Stone and 3x Power Scroll. All items are also linked.","Un pack contenant 5x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES60, 10x Pierre Upcut et 3x Parchemin de Pouvoir. Tous les objets sont liés."
+PROPITEM_TXT_828305,"A package containing 5x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES60, 10x Upcut Stone and 3x Power Scroll. All items are also linked.","Un pack contenant 5x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES60, 10x Pierre Mars et 3x Parchemin de Pouvoir. Tous les objets sont liés."
 PROPITEM_TXT_828306,Android Level 60 Reward Box,Coffre Récompense Android Niveau 60
 PROPITEM_TXT_828307,"A package containing 5x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES80, 5x Grilled Eel and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Boisson Vital X ou Refresher Hold, 1x Parchemin Amplification ES80, 5x Anguille Grillée et 5x Parchemin de Pouvoir. Tous les objets sont liés."
 PROPITEM_TXT_828308,Android Box,Coffre Android
@@ -21898,11 +21898,11 @@ PROPITEM_TXT_134744,Candle Weapon Selection Box,Coffre de sélection Arme Bougie
 PROPITEM_TXT_134745,A box containing a Candle Weapon item. You can choose 1 item to receive.,Un coffre contenant un objet Arme Bougie. Vous pouvez choisir 1 objet à recevoir.
 PROPITEM_TXT_134746,3rd Anniversary Egg Upgrade Ticket,Ticket d’amélioration d’Œuf du 3e anniversaire
 PROPITEM_TXT_134747,3rd Anniversary Random Box Package,Pack Coffre aléatoire du 3e anniversaire
-PROPITEM_TXT_134748,"A package containing 1X 3rd Anniversary Roulette Ticket, 1X 3rd Anniversary Random Box.\nAll items are Soul-Linked.",Un pack contenant 1x Ticket de roulette du 3e anniversaire et 1x Coffre aléatoire du 3e anniversaire.\nTous les objets sont liés à l’âme.
+PROPITEM_TXT_134748,"A package containing 1X 3rd Anniversary Roulette Ticket, 1X 3rd Anniversary Random Box.\nAll items are Soul-Linked.",Un pack contenant 1x Ticket de roulette du 3e anniversaire et 1x Coffre aléatoire du 3e anniversaire.\nTous les objets sont liés à votre personnage.
 PROPITEM_TXT_134749,3rd Anniversary Infinite Skill Package,Pack Compétence infinie du 3e anniversaire
-PROPITEM_TXT_134750,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 10X Vital Drink X or Refresher Hold, 10X Activition.\nAll items are Soul-Linked.","Un pack contenant 2x Ticket de roulette du 3e anniversaire, 3x Œuf du 3e anniversaire I, 10x Boisson Vital X ou Refresher Hold et 10x Activation.\nTous les objets sont liés à l’âme."
+PROPITEM_TXT_134750,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 10X Vital Drink X or Refresher Hold, 10X Activition.\nAll items are Soul-Linked.","Un pack contenant 2x Ticket de roulette du 3e anniversaire, 3x Œuf du 3e anniversaire I, 10x Boisson Vital X ou Refresher Hold et 10x Activation.\nTous les objets sont liés à votre personnage."
 PROPITEM_TXT_134751,3rd Anniversary Upgrade Package,Pack d’amélioration du 3e anniversaire
-PROPITEM_TXT_134752,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 5X Smelting Scroll Box, 2X Scroll of Weapon Bonus, 6X Stat Scroll Box.\nAll items are Soul-Linked.","Un pack contenant 2x Ticket de roulette du 3e anniversaire, 3x Œuf du 3e anniversaire I, 5x Coffre Parchemin de Fusion, 2x Parchemin Bonus d’arme et 6x Coffre Parchemin de stats.\nTous les objets sont liés à l’âme."
+PROPITEM_TXT_134752,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 5X Smelting Scroll Box, 2X Scroll of Weapon Bonus, 6X Stat Scroll Box.\nAll items are Soul-Linked.","Un pack contenant 2x Ticket de roulette du 3e anniversaire, 3x Œuf du 3e anniversaire I, 5x Coffre Parchemin de Fusion, 2x Parchemin Bonus d’arme et 6x Coffre Parchemin de stats.\nTous les objets sont liés à votre personnage."
 PROPITEM_TXT_134753,Mechamochi Box,Coffre Mechamochi
 PROPITEM_TXT_134754,A reward found on a Mecamochi! Open it before the end of the event period,Une récompense trouvée sur un Mecamochi ! Ouvrez-la avant la fin de l’événement
 PROPITEM_TXT_134755,I am PANG!,Je suis PANG !
@@ -22021,7 +22021,7 @@ PROPITEM_TXT_900106,Dark Guardian Easter Bunny,Gardien Lapin de Pâques Sombre
 PROPITEM_TXT_900107,Easter Bunny 2025 Costume Lucky Box,Boîte Chanceuse Costume Lapin de Pâques 2025
 PROPITEM_TXT_900108,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Lapin de Pâques 2025 avec bonus de vitesse. Vous pouvez choisir votre genre après avoir ouvert la boîte chanceuse.
 PROPITEM_TXT_900109,PlayPark Door Prize Reward,Récompense de lot de présence PlayPark
-PROPITEM_TXT_900110,"A package containing 15x Upcut Stone, 3x Smelting Scroll Box, 1x Power Scroll, 1x Scroll of Amplification ES, 1x Extra Bag (30 Days), 1x Grilled Eel and 5x Flask Box. All items are also linked.","Un pack contenant 15x Pierre d’Upcut, 3x Boîte de Parchemins de Fonte, 1x Parchemin de Puissance, 1x Parchemin d’Amplification ES, 1x Sac Supplémentaire (30 jours), 1x Anguille Grillée et 5x Boîte de Fioles. Tous les objets sont également liés."
+PROPITEM_TXT_900110,"A package containing 15x Upcut Stone, 3x Smelting Scroll Box, 1x Power Scroll, 1x Scroll of Amplification ES, 1x Extra Bag (30 Days), 1x Grilled Eel and 5x Flask Box. All items are also linked.","Un pack contenant 15x Pierre de Mars, 3x Boîte de Parchemins de Fonte, 1x Parchemin de Puissance, 1x Parchemin d’Amplification ES, 1x Sac Supplémentaire (30 jours), 1x Anguille Grillée et 5x Boîte de Fioles. Tous les objets sont également liés."
 PROPITEM_TXT_900111,PlayPark Tournament Reward,Récompense de tournoi PlayPark
 PROPITEM_TXT_900112,A package containing multiple powerups for participating the tournament! All items are also linked.,Un pack contenant plusieurs bonus pour avoir participé au tournoi ! Tous les objets sont également liés.
 PROPITEM_TXT_900113,Fantasy Guardian 10% Purple Set,Gardien Fantaisie Set Violet 10%
@@ -22246,9 +22246,9 @@ PROPITEM_TXT_900333,A package containing a Charlie Gray Hunter Set and a Charlie
 PROPITEM_TXT_900334,Pickup Pet Boost Package (15 Days),Pack d’amélioration du familier Pickup (15 jours)
 PROPITEM_TXT_900335,A package containing 1x Scroll of PickUp Boost (15 Days) and 1x Scroll of Pickup Range (15 Days). All items are also linked.,Un pack contenant 1x Parchemin d’amélioration PickUp (15 jours) et 1x Parchemin de portée Pickup (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_900336,Pang's Growth Package A,Pack de croissance de Pang A
-PROPITEM_TXT_900337,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Parchemin d’Amplification ES, 5x Boisson Vitale X ou Refresher Hold, 5x Parchemin de Vélocité, 5x Pierre Upcut et 5x Parchemin de Puissance. Tous les objets sont liés."
+PROPITEM_TXT_900337,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Parchemin d’Amplification ES, 5x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemin de Vélocité, 5x Pierre Mars et 5x Parchemin de Puissance. Tous les objets sont liés."
 PROPITEM_TXT_900338,FWC Compensation Box A,Coffre de compensation FWC A
-PROPITEM_TXT_900339,"A package containing 1x Adventurer's Fortune Flask (3 Days), 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Scroll of Blessing and 10x Flask Box. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 jours), 10x Parchemin d’Amplification ES, 10x Boisson Vitale X ou Refresher Hold, 10x Pierre Upcut, 10x Parchemin de Bénédiction et 10x Coffre de Flasques. Tous les objets sont liés."
+PROPITEM_TXT_900339,"A package containing 1x Adventurer's Fortune Flask (3 Days), 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Scroll of Blessing and 10x Flask Box. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 jours), 10x Parchemin d’Amplification ES, 10x Boisson Énergétique X ou Fiole de Mana X, 10x Pierre Mars, 10x Parchemin de Bénédiction et 10x Coffre de Flasques. Tous les objets sont liés."
 PROPITEM_TXT_900340,Botanist Musician 10% Purple Set,Ensemble Botaniste Musicien 10% violet
 PROPITEM_TXT_900341,Botanist Musician Purple Guitar,Guitare violette Botaniste Musicien
 PROPITEM_TXT_900342,Botanist Musician Purple Glasses,Lunettes violettes Botaniste Musicien
@@ -22369,7 +22369,7 @@ PROPITEM_TXT_900456,"A package containing 20x Scroll of SProtect, 10x Power Dice
 PROPITEM_TXT_900457,Pang's Upgrade Package B,Pack d'amélioration B de Pang
 PROPITEM_TXT_900458,"A package containing 30x Scroll of AProtect, 10x Power Dice 10 and 10x Power Dice 12. All items are also linked.","Un pack contenant 30x Parchemin d'AProtect, 10x Dés de Puissance 10 et 10x Dés de Puissance 12. Tous les objets sont liés."
 PROPITEM_TXT_900459,Summer Starting Pack,Pack de démarrage été
-PROPITEM_TXT_900460,"A package containing 5x Summer Buff Lucky Box, 5x Scroll of Amplification ES, 5x Flask Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Coffre chanceux Buff Été, 5x Parchemin d'Amplification ES, 5x Boîte de Flasques et 5x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_900460,"A package containing 5x Summer Buff Lucky Box, 5x Scroll of Amplification ES, 5x Flask Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Coffre chanceux Buff Été, 5x Parchemin d'Amplification ES, 5x Boîte de Flasques et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_900461,Let's Party Time Pack,Pack Let's Party Time
 PROPITEM_TXT_900462,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,Un pack contenant 20x Parchemin d'Amplification ES et 1x Parchemin de 15 jours d'Effets de Fête Combinés. Tous les objets sont liés.
 PROPITEM_TXT_900463,Summer Buff Lucky Box,Coffre chanceux Buff Été
@@ -22380,7 +22380,7 @@ PROPITEM_TXT_900467,Red Leaf,Feuille rouge
 PROPITEM_TXT_900468,White Leaf,Feuille blanche
 PROPITEM_TXT_900469,Use the Leaf and get some magic in your step!,Utilisez la Feuille et ajoutez un peu de magie à vos pas !
 PROPITEM_TXT_900470,Pang's Growth Package B,Pack de Croissance B de Pang
-PROPITEM_TXT_900471,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Grilled Eel. All items are also linked.","Un pack contenant 5x Parchemin d'Amplification ES, 5x Vital Drink X ou Refresher Hold, 5x Parchemin de Vélocité, 5x Pierre d'Upcut et 5x Anguille Grillée. Tous les objets sont liés."
+PROPITEM_TXT_900471,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Grilled Eel. All items are also linked.","Un pack contenant 5x Parchemin d'Amplification ES, 5x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemin de Vélocité, 5x Pierre d'Mars et 5x Anguille Grillée. Tous les objets sont liés."
 PROPITEM_TXT_900472,3rd Anniversary All Inclusive Upgrade Package,Pack d'amélioration Tout Inclus 3e Anniversaire
 PROPITEM_TXT_900473,"A package containing 10x 3rd Anniversary Roulette Ticket, 20x Smelting Scroll Box, 20x Power Dice 10, 20x Power Dice 12 and 20x Scroll of Weapon Bonus. All items are also linked.","Un pack contenant 10x Ticket Roulette 3e Anniversaire, 20x Boîte de Parchemins de Fusion, 20x Dés de Puissance 10, 20x Dés de Puissance 12 et 20x Parchemin de Bonus d'Arme. Tous les objets sont liés."
 PROPITEM_TXT_900474,3rd Anniversary Egg Upgrade Package,Pack d'amélioration Œuf 3e Anniversaire
@@ -22420,7 +22420,7 @@ PROPITEM_TXT_134803,"This is the final reward of the Revolutionary Secret Journa
 PROPITEM_TXT_134804,[Event] Revolution Supply Box B,[Événement] Coffre Révolution B
 PROPITEM_TXT_134805,"This is the second reward of the Revolutionary Secret Journal event!\nYou can obtain: Feed Bag (1 Day) x1, Potion Box x1, Scroll of General Shop x1, Wandering Merchant Refresh Ticket x5.","C'est la deuxième récompense de l'événement Journal Secret Révolutionnaire !\nVous pouvez obtenir : Sac Nourriture (1 Jour) x1, Boîte de Potions x1, Parchemin Boutique Générale x1, Ticket de Rafraîchissement Marchand Errant x5."
 PROPITEM_TXT_134806,[Event] Revolution Supply Box C,[Événement] Coffre Révolution C
-PROPITEM_TXT_134807,"This is the first reward of the Revolutionary Secret Journal event!\nYou can obtain: Upcut Stone x1, Grilled Eel x1, Scroll of Amplification ES x1, Scroll of Food Shop x3.","C'est la première récompense de l'événement Journal Secret Révolutionnaire !\nVous pouvez obtenir : Pierre d'Upcut x1, Anguille Grillée x1, Parchemin d'Amplification ES x1, Parchemin Boutique Alimentaire x3."
+PROPITEM_TXT_134807,"This is the first reward of the Revolutionary Secret Journal event!\nYou can obtain: Upcut Stone x1, Grilled Eel x1, Scroll of Amplification ES x1, Scroll of Food Shop x3.","C'est la première récompense de l'événement Journal Secret Révolutionnaire !\nVous pouvez obtenir : Pierre Mars x1, Anguille Grillée x1, Parchemin d'Amplification ES x1, Parchemin Boutique Alimentaire x3."
 PROPITEM_TXT_134808,[Event] Revolution Random Box,[Événement] Coffre Révolution Aléatoire
 PROPITEM_TXT_134809,This is a random box received for completing all of the Revolutionary's quests.\nYou can obtain one random item from a variety of options.,C'est un coffre aléatoire reçu après avoir complété toutes les quêtes du Révolutionnaire.\nVous pouvez obtenir un objet aléatoire parmi plusieurs options.
 PROPITEM_TXT_134810,[Event] Revolutionary’s Gift Box,[Événement] Coffre Cadeau du Révolutionnaire
@@ -22554,8 +22554,8 @@ PROPITEM_TXT_900713,Obsidian Flame Orange Sword,Épée Flamme Obsidienne Orange
 PROPITEM_TXT_900714,Obsidian Flame Orange Axe,Hache Flamme Obsidienne Orange
 PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,Grande Épée Flamme Obsidienne Orange
 PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,Grande Hache Flamme Obsidienne Orange
-PROPITEM_TXT_900717,Obsidian Flame Orange Stick,Bâton Flamme Obsidienne Orange
-PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,Gants de Combat Flamme Obsidienne Orange
+PROPITEM_TXT_900717,Obsidian Flame Orange Stick,Sceptre Flamme Obsidienne Orange
+PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,Poing Flamme Obsidienne Orange
 PROPITEM_TXT_900719,Obsidian Flame Orange Bow,Arc Flamme Obsidienne Orange
 PROPITEM_TXT_900720,Obsidian Flame Orange Yo-Yo,Yo-Yo Flamme Obsidienne Orange
 PROPITEM_TXT_900721,Obsidian Flame Orange Staff,Bâton de Mage Flamme Obsidienne Orange
@@ -22569,8 +22569,8 @@ PROPITEM_TXT_900728,Obsidian Flame Purple Sword,Épée Flamme Obsidienne Violet
 PROPITEM_TXT_900729,Obsidian Flame Purple Axe,Hache Flamme Obsidienne Violet
 PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,Grande Épée Flamme Obsidienne Violet
 PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,Grande Hache Flamme Obsidienne Violet
-PROPITEM_TXT_900732,Obsidian Flame Purple Stick,Bâton Flamme Obsidienne Violet
-PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,Gants de Combat Flamme Obsidienne Violet
+PROPITEM_TXT_900732,Obsidian Flame Purple Stick,Sceptre Flamme Obsidienne Violet
+PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,Poing Flamme Obsidienne Violet
 PROPITEM_TXT_900734,Obsidian Flame Purple Bow,Arc Flamme Obsidienne Violet
 PROPITEM_TXT_900735,Obsidian Flame Purple Yo-Yo,Yo-Yo Flamme Obsidienne Violet
 PROPITEM_TXT_900736,Obsidian Flame Purple Staff,Bâton de Mage Flamme Obsidienne Violet
@@ -22584,8 +22584,8 @@ PROPITEM_TXT_900743,Obsidian Flame Red Sword,Épée Flamme Obsidienne Rouge
 PROPITEM_TXT_900744,Obsidian Flame Red Axe,Hache Flamme Obsidienne Rouge
 PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,Grande Épée Flamme Obsidienne Rouge
 PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,Grande Hache Flamme Obsidienne Rouge
-PROPITEM_TXT_900747,Obsidian Flame Red Stick,Bâton Flamme Obsidienne Rouge
-PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,Gants de Combat Flamme Obsidienne Rouge
+PROPITEM_TXT_900747,Obsidian Flame Red Stick,Sceptre Flamme Obsidienne Rouge
+PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,Poing Flamme Obsidienne Rouge
 PROPITEM_TXT_900749,Obsidian Flame Red Bow,Arc Flamme Obsidienne Rouge
 PROPITEM_TXT_900750,Obsidian Flame Red Yo-Yo,Yo-Yo Flamme Obsidienne Rouge
 PROPITEM_TXT_900751,Obsidian Flame Red Staff,Bâton de Mage Flamme Obsidienne Rouge
@@ -22599,8 +22599,8 @@ PROPITEM_TXT_900758,Obsidian Flame Blue Sword,Épée Flamme Obsidienne Bleu
 PROPITEM_TXT_900759,Obsidian Flame Blue Axe,Hache Flamme Obsidienne Bleu
 PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,Grande Épée Flamme Obsidienne Bleu
 PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,Grande Hache Flamme Obsidienne Bleu
-PROPITEM_TXT_900762,Obsidian Flame Blue Stick,Bâton Flamme Obsidienne Bleu
-PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,Gants de Combat Flamme Obsidienne Bleu
+PROPITEM_TXT_900762,Obsidian Flame Blue Stick,Sceptre Flamme Obsidienne Bleu
+PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,Poing Flamme Obsidienne Bleu
 PROPITEM_TXT_900764,Obsidian Flame Blue Bow,Arc Flamme Obsidienne Bleu
 PROPITEM_TXT_900765,Obsidian Flame Blue Yo-Yo,Yo-Yo Flamme Obsidienne Bleu
 PROPITEM_TXT_900766,Obsidian Flame Blue Staff,Bâton de Mage Flamme Obsidienne Bleu
@@ -22614,8 +22614,8 @@ PROPITEM_TXT_900773,Obsidian Flame Green Sword,Épée Flamme Obsidienne Vert
 PROPITEM_TXT_900774,Obsidian Flame Green Axe,Hache Flamme Obsidienne Vert
 PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,Grande Épée Flamme Obsidienne Vert
 PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,Grande Hache Flamme Obsidienne Vert
-PROPITEM_TXT_900777,Obsidian Flame Green Stick,Bâton Flamme Obsidienne Vert
-PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,Gants de Combat Flamme Obsidienne Vert
+PROPITEM_TXT_900777,Obsidian Flame Green Stick,Sceptre Flamme Obsidienne Vert
+PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,Poing Flamme Obsidienne Vert
 PROPITEM_TXT_900779,Obsidian Flame Green Bow,Arc Flamme Obsidienne Vert
 PROPITEM_TXT_900780,Obsidian Flame Green Yo-Yo,Yo-Yo Flamme Obsidienne Vert
 PROPITEM_TXT_900781,Obsidian Flame Green Staff,Bâton de Mage Flamme Obsidienne Vert
@@ -22629,8 +22629,8 @@ PROPITEM_TXT_900788,Obsidian Flame Yellow Sword,Épée Flamme Obsidienne Jaune
 PROPITEM_TXT_900789,Obsidian Flame Yellow Axe,Hache Flamme Obsidienne Jaune
 PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,Grande Épée Flamme Obsidienne Jaune
 PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,Grande Hache Flamme Obsidienne Jaune
-PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,Bâton Flamme Obsidienne Jaune
-PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,Gants de Combat Flamme Obsidienne Jaune
+PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,Sceptre Flamme Obsidienne Jaune
+PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,Poing Flamme Obsidienne Jaune
 PROPITEM_TXT_900794,Obsidian Flame Yellow Bow,Arc Flamme Obsidienne Jaune
 PROPITEM_TXT_900795,Obsidian Flame Yellow Yo-Yo,Yo-Yo Flamme Obsidienne Jaune
 PROPITEM_TXT_900796,Obsidian Flame Yellow Staff,Bâton de Mage Flamme Obsidienne Jaune
@@ -22644,8 +22644,8 @@ PROPITEM_TXT_900803,Obsidian Flame White Sword,Épée Flamme Obsidienne Blanc
 PROPITEM_TXT_900804,Obsidian Flame White Axe,Hache Flamme Obsidienne Blanc
 PROPITEM_TXT_900805,Obsidian Flame White Big Sword,Grande Épée Flamme Obsidienne Blanc
 PROPITEM_TXT_900806,Obsidian Flame White Big Axe,Grande Hache Flamme Obsidienne Blanc
-PROPITEM_TXT_900807,Obsidian Flame White Stick,Bâton Flamme Obsidienne Blanc
-PROPITEM_TXT_900808,Obsidian Flame White Knuckle,Gants de Combat Flamme Obsidienne Blanc
+PROPITEM_TXT_900807,Obsidian Flame White Stick,Sceptre Flamme Obsidienne Blanc
+PROPITEM_TXT_900808,Obsidian Flame White Knuckle,Poing Flamme Obsidienne Blanc
 PROPITEM_TXT_900809,Obsidian Flame White Bow,Arc Flamme Obsidienne Blanc
 PROPITEM_TXT_900810,Obsidian Flame White Yo-Yo,Yo-Yo Flamme Obsidienne Blanc
 PROPITEM_TXT_900811,Obsidian Flame White Staff,Bâton de Mage Flamme Obsidienne Blanc
@@ -22659,8 +22659,8 @@ PROPITEM_TXT_900818,Obsidian Flame Black Sword,Épée Flamme Obsidienne Noir
 PROPITEM_TXT_900819,Obsidian Flame Black Axe,Hache Flamme Obsidienne Noir
 PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,Grande Épée Flamme Obsidienne Noir
 PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,Grande Hache Flamme Obsidienne Noir
-PROPITEM_TXT_900822,Obsidian Flame Black Stick,Bâton Flamme Obsidienne Noir
-PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,Gants de Combat Flamme Obsidienne Noir
+PROPITEM_TXT_900822,Obsidian Flame Black Stick,Sceptre Flamme Obsidienne Noir
+PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,Poing Flamme Obsidienne Noir
 PROPITEM_TXT_900824,Obsidian Flame Black Bow,Arc Flamme Obsidienne Noir
 PROPITEM_TXT_900825,Obsidian Flame Black Yo-Yo,Yo-Yo Flamme Obsidienne Noir
 PROPITEM_TXT_900826,Obsidian Flame Black Staff,Bâton de Mage Flamme Obsidienne Noir
@@ -22775,11 +22775,11 @@ PROPITEM_TXT_900934,The Forest Faerie Set for female characters.,Ensemble Fée d
 PROPITEM_TXT_900935,Cute Baby Cat Pack,Pack Petit Chaton Mignon
 PROPITEM_TXT_900936,"A package containing 1x Scroll of Pickup Boost (15 Days), 1x Cute Baby Cat and 1x Scroll of Pickup Range (15 Days). All items are also linked.","Un pack contenant 1 Parchemin de Boost de Ramassage (15 jours), 1 Petit Chaton Mignon et 1 Parchemin de Portée de Ramassage (15 jours). Tous les objets sont liés."
 PROPITEM_TXT_900937,FWC Compensation Box B,Boîte de Compensation FWC B
-PROPITEM_TXT_900938,"A package containing 5x Def-Upcut Stone, 10x Potion Box, 3x Activition, 2x Scroll of Velocity, 5x Upcut Stone and 10x Bull Hamstern. All items are also linked.","Un pack contenant 5 Pierres Def-Upcut, 10 Boîtes de Potion, 3 Activitions, 2 Parchemins de Vélocité, 5 Pierres Upcut et 10 Bull Hamstern. Tous les objets sont liés."
+PROPITEM_TXT_900938,"A package containing 5x Def-Upcut Stone, 10x Potion Box, 3x Activition, 2x Scroll of Velocity, 5x Upcut Stone and 10x Bull Hamstern. All items are also linked.","Un pack contenant 5 Pierres Arès, 10 Boîtes de Potion, 3 Activitions, 2 Parchemins de Vélocité, 5 Pierres Mars et 10 Bull Hamstern. Tous les objets sont liés."
 PROPITEM_TXT_900939,Lifestyle Bag Select Box (15 Days),Boîte de Sélection Sac Lifestyle (15 jours)
 PROPITEM_TXT_900940,Select which Lifestyle Bag you want to receive.,Sélectionnez le sac lifestyle que vous souhaitez recevoir.
 PROPITEM_TXT_900941,Open 77 Festival Package,Pack Festival 77
-PROPITEM_TXT_900942,"A package containing 7x Amplification ES Scroll Select Box, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Def-Upcut Stone, 7x Activition, 7x Scroll of Return Town and 7x Power Scroll. All items are also linked.","Un pack contenant 7 Boîtes de Sélection Parchemin d'Amplification ES, 7 Anguilles Grillées, 7 Boissons Vitales X ou Fioles de Récupération, 7 Pierres Def-Upcut, 7 Activitions, 7 Parchemins de Retour à la Ville et 7 Parchemins de Pouvoir. Tous les objets sont liés."
+PROPITEM_TXT_900942,"A package containing 7x Amplification ES Scroll Select Box, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Def-Upcut Stone, 7x Activition, 7x Scroll of Return Town and 7x Power Scroll. All items are also linked.","Un pack contenant 7 Boîtes de Sélection Parchemin d'Amplification ES, 7 Anguilles Grillées, 7 Boissons Vitales X ou Fioles de Récupération, 7 Pierres Arès, 7 Activitions, 7 Parchemins de Retour à la Ville et 7 Parchemins de Pouvoir. Tous les objets sont liés."
 PROPITEM_TXT_900943,Open 77 Festival Element Package,Pack Élément Festival 77
 PROPITEM_TXT_900944,"A package containing 7x Scroll of Element Change, 7x Box of Element Attack and 7x Box of Element Defense. All items are also linked.","Un pack contenant 7 Parchemins de Changement d'Élément, 7 Boîtes d'Attaque Élémentaire et 7 Boîtes de Défense Élémentaire. Tous les objets sont liés."
 PROPITEM_TXT_900945,Open 77 Festival Lucky Box Package,Pack Boîte Chanceuse Festival 77
@@ -23247,8 +23247,8 @@ PROPITEM_TXT_134812,FWC Coin,Jeton FWC
 PROPITEM_TXT_134813,Betting currency,Monnaie de paris
 PROPITEM_TXT_134814,2025 FWC Championship Pass,Pass Championnat FWC 2025
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,Achat donnant accès à de nombreux avantages jusqu'à la fin de la saison du Pass Championnat FWC 2025.
-PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,Bon de présence supplémentaire FWC
-PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.,Coupon pour gagner des récompenses de présence supplémentaires FWC
+PROPITEM_TXT_134816,FWC Additional attendance Coupon,Bon de présence supplémentaire FWC
+PROPITEM_TXT_134817,Coupon to earn FWC additional attendance rewards.,Coupon pour gagner des récompenses de présence supplémentaires FWC
 PROPITEM_TXT_134818,Blessing of the FWC coin,Bénédiction de la pièce FWC
 PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%,Probabilité augmentée d'apparition de la pièce FWC de +1~15%
 PROPITEM_TXT_901407,Nobility 10% Blue Set,Ensemble Nobility 10% Bleu
@@ -23476,9 +23476,9 @@ PROPITEM_TXT_901600,Firefighter 2025 Red Hands (F),Gants Rouge Pompier 2025 (F)
 PROPITEM_TXT_901601,Firefighter 2025 Neon Hands (M),Gants Néon Pompier 2025 (H)
 PROPITEM_TXT_901602,Firefighter 2025 Neon Hands (F),Gants Néon Pompier 2025 (F)
 PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop","Récompense de première complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale, 5 Parchemins de Boutique Alimentaire"
-PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
+PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
 PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box","Récompense de troisième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 3 Boîtes Aléatoires Publicité Boutique [Événement], 3 Éditeurs de Police, et 20 Boîtes de Sélection PopCorn FWC 2025"
-PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Récompense de quatrième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Upcut, 5 Parchemins de Pouvoir, 5 Combos Spéciaux FWC et 5 Parchemins de Retour"
+PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Récompense de quatrième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Mars, 5 Parchemins de Pouvoir, 5 Combos Spéciaux FWC et 5 Parchemins de Retour"
 PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,Boîte Aléatoire Publicité Boutique [Événement]
 PROPITEM_TXT_901608,This box contains Shop Advertisement item.\nOpen it to see what's inside.,Cette boîte contient un objet Publicité Boutique.\nOuvrez-la pour voir le contenu.
 PROPITEM_TXT_901609,Sci-Fi Costume Select Box 1,Boîte de Sélection Costume Sci-Fi 1
@@ -23490,9 +23490,9 @@ PROPITEM_TXT_901614,Select which Pet you want to receive,Sélectionnez l'animal 
 PROPITEM_TXT_901615,Halloween Costume Select Box 1,Boîte de Sélection Costume Halloween 1
 PROPITEM_TXT_901616,Select which Costume you want to receive,Sélectionnez le costume que vous souhaitez recevoir
 PROPITEM_TXT_901617,2025 FWC Cheer up Box,Boîte FWC 2025 Cheer Up
-PROPITEM_TXT_901618,A package containing 5x 2025 FWC PopCorn Select box and 5x Scroll of Amplification ES. All items are Soul-Linked.,Un pack contenant 5 Boîtes de Sélection PopCorn FWC 2025 et 5 Parchemins d'Amplification ES. Tous les objets sont liés à l'âme.
+PROPITEM_TXT_901618,A package containing 5x 2025 FWC PopCorn Select box and 5x Scroll of Amplification ES. All items are Soul-Linked.,Un pack contenant 5 Boîtes de Sélection PopCorn FWC 2025 et 5 Parchemins d'Amplification ES. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901619,Festive Piyoko Box,Boîte Festive Piyoko
-PROPITEM_TXT_901620,A package containing 1x Festive Piyoko and 5x 2025 FWC PopCorn Select box. All items are Soul-Linked.,Un pack contenant 1 Festive Piyoko et 5 Boîtes de Sélection PopCorn FWC 2025. Tous les objets sont liés à l'âme.
+PROPITEM_TXT_901620,A package containing 1x Festive Piyoko and 5x 2025 FWC PopCorn Select box. All items are Soul-Linked.,Un pack contenant 1 Festive Piyoko et 5 Boîtes de Sélection PopCorn FWC 2025. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901621,Halloween Puppet Select Box,Boîte de Sélection Marionnette Halloween
 PROPITEM_TXT_901622,Select which Pet you want to receive,Sélectionnez l'animal de compagnie que vous souhaitez recevoir
 PROPITEM_TXT_901623,Witch Cat Select Box,Boîte de Sélection Chat Sorcier
@@ -23629,29 +23629,29 @@ PROPITEM_TXT_901753,Special Casual Set,Ensemble Special Casual
 PROPITEM_TXT_901754,FWC Consumable SET (Finalist),Pack Consommables FWC (Finaliste)
 PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.","Que la chance soit toujours avec toi, jeune aventurier."
 PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1 ,Bon FWC Grand Final 2025 1
-PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activition. All items are Soul-Linked.","Un paquet contenant 1x Disque de Carte (7 jours), 3x Boisson Vital X ou Rafraîchisseur, 3x Pierre Upcut et 3x Activation. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activition. All items are Soul-Linked.","Un paquet contenant 1x Disque de Carte (7 jours), 3x Boisson Vital X ou Rafraîchisseur, 3x Pierre Mars et 3x Activation. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2 ,Bon FWC Grand Final 2025 2
-PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ","Un paquet contenant 2x Boîte de Sélection Sac Lifestyle (15 jours), 3x Parchemin de Résurrection, 3x Pierre Def-Upcut et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ","Un paquet contenant 2x Boîte de Sélection Sac Lifestyle (15 jours), 3x Parchemin de Résurrection, 3x Pierre Arès et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3 ,Bon FWC Grand Final 2025 3
-PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked. ","Un paquet contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Pouvoir et 3x Anguille Grillée. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked. ","Un paquet contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Pouvoir et 3x Anguille Grillée. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1 ,Bon FWC Grand Final Online 2025 1
-PROPITEM_TXT_901763,"A package containing 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES, 4x Amplification Potion Box and 4x Flask Box. All items are Soul-Linked. ","Un paquet contenant 2x Boisson Vital X ou Rafraîchisseur, 2x Parchemin d’Amplification ES, 4x Boîte de Potion d’Amplification et 4x Boîte de Flacons. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901763,"A package containing 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES, 4x Amplification Potion Box and 4x Flask Box. All items are Soul-Linked. ","Un paquet contenant 2x Boisson Vital X ou Rafraîchisseur, 2x Parchemin d’Amplification ES, 4x Boîte de Potion d’Amplification et 4x Boîte de Flacons. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901764,2025 FWC Grand Final Online Coupon 2 ,Bon FWC Grand Final Online 2025 2
-PROPITEM_TXT_901765,"A package containing 1x Extra Bag (30 days), 2x Blinkwing of Madrigal, 1x Activition and 1x Scroll of Resurrection. All items are Soul-Linked. ","Un paquet contenant 1x Sac Supplémentaire (30 jours), 2x Ailes Clignotantes de Madrigal, 1x Activation et 1x Parchemin de Résurrection. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901765,"A package containing 1x Extra Bag (30 days), 2x Blinkwing of Madrigal, 1x Activition and 1x Scroll of Resurrection. All items are Soul-Linked. ","Un paquet contenant 1x Sac Supplémentaire (30 jours), 2x Ailes Clignotantes de Madrigal, 1x Activation et 1x Parchemin de Résurrection. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901766,2025 FWC Grand Final Online Coupon 3,Bon FWC Grand Final Online 2025 3
-PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked. ","Un paquet contenant 2x Parchemin de SProtect, 2x Parchemin de AProtect, 1x Parchemin de GProtect et 1x Parchemin de EProtect. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked. ","Un paquet contenant 2x Parchemin de SProtect, 2x Parchemin de AProtect, 1x Parchemin de GProtect et 1x Parchemin de EProtect. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901768,2025 FWC VIP Premium Box,Boîte VIP Premium FWC 2025
-PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked. ","Un paquet contenant 40x Combo Spécial FWC, 1x Boîte de Sélection Costume Premium 2025 1 et 1x Boîte de Sélection Costume Premium 2025 2. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked. ","Un paquet contenant 40x Combo Spécial FWC, 1x Boîte de Sélection Costume Premium 2025 1 et 1x Boîte de Sélection Costume Premium 2025 2. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901770,2025 Premium Costume Select Box 1 ,Boîte de Sélection Costume Premium 2025 1
-PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked. ,Choisissez votre costume préféré entre Spy Set et Dark Scions Set. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked. ,Choisissez votre costume préféré entre Spy Set et Dark Scions Set. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901772,2025 FWC VIP Gold Box,Boîte VIP Gold FWC 2025
-PROPITEM_TXT_901773,A package containing 20x FWC Special combo and 1x 2025 Gold Costume Select Box. All items are Soul-Linked.,Un paquet contenant 20x Combo Spécial FWC et 1x Boîte de Sélection Costume Gold 2025. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901773,A package containing 20x FWC Special combo and 1x 2025 Gold Costume Select Box. All items are Soul-Linked.,Un paquet contenant 20x Combo Spécial FWC et 1x Boîte de Sélection Costume Gold 2025. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901774,2025 Gold Costume Select Box ,Boîte de Sélection Costume Gold 2025
-PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ","Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Spy Set, Dark Scions Set, Warlord Set et Black Wedding Set. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ","Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Spy Set, Dark Scions Set, Warlord Set et Black Wedding Set. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901776,2025 FWC Welcome Box,Boîte de Bienvenue FWC 2025
-PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked. ,Un paquet contenant 10x Combo Spécial FWC et 3x Boîte de Chance. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked. ,Un paquet contenant 10x Combo Spécial FWC et 3x Boîte de Chance. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901778,2025 Premium Costume Select Box 2 ,Boîte de Sélection Costume Premium 2025 2
-PROPITEM_TXT_901779,Select your favorite costume between Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Warlord Set et Black Wedding Set. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901779,Select your favorite costume between Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Warlord Set et Black Wedding Set. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_901780,Dark Prince Set (M),Ensemble Dark Prince (H)
 PROPITEM_TXT_901781,Dark Prince set for Male characters,Ensemble Dark Prince pour personnages masculins
 PROPITEM_TXT_901782,Dark Princess Set (F),Ensemble Dark Princess (F)
@@ -23665,15 +23665,15 @@ PROPITEM_TXT_901789,Black Wedding set for Female characters,Ensemble Black Weddi
 PROPITEM_TXT_901790,Black Wedding,Black Wedding
 PROPITEM_TXT_901791,Select which Gender you want to receive!,Choisissez le sexe du costume que vous souhaitez recevoir !
 PROPITEM_TXT_901792,2025 FWC Streamer Event Coupon 1,Bon Événement Streamer FWC 2025 1
-PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.","Un paquet contenant 10x Boîte de Sélection PopCorn FWC 2025, 1x Boîte de Sélection Sac Lifestyle (15 jours) et 3x Boîte de Chance. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.","Un paquet contenant 10x Boîte de Sélection PopCorn FWC 2025, 1x Boîte de Sélection Sac Lifestyle (15 jours) et 3x Boîte de Chance. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,Bon Événement Streamer FWC 2025 2
-PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac Lifestyle (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac Lifestyle (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,Bon Événement Streamer FWC 2025 3
-PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Additional Attendance Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901798,Myth Costume Select Box 1,Boîte de Sélection Costume Myth 1
-PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.","Choisissez votre costume Myth préféré entre Little Butterflies Set, Shadow Hunter Set et Snake Samurai Set. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.","Choisissez votre costume Myth préféré entre Little Butterflies Set, Shadow Hunter Set et Snake Samurai Set. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901800,Butterflies Pet select box,Boîte de Sélection Pet Butterflies
-PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.","Choisissez votre Pet préféré entre Papillons Bruns, Papillons Violets, Papillons Verts, Papillons Roses, Papillons Rouges, Papillons Blancs et Papillons Noirs. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.","Choisissez votre Pet préféré entre Papillons Bruns, Papillons Violets, Papillons Verts, Papillons Roses, Papillons Rouges, Papillons Blancs et Papillons Noirs. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901802,Pumpkin Soup,Soupe de Potiron
 PROPITEM_TXT_901803,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases,Une potion chaude de puissance de potiron ! Avalez-la pour remplir instantanément vos PF et profiter de PF illimités pendant 1 heure. Parfait pour les sprints de minuit et les chasses aux monstres.
 PROPITEM_TXT_901804,Witch's Potion,Potion de Sorcière
@@ -24045,7 +24045,7 @@ PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWC Baguette Lusaka Flamme
 PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWC Bouclier Lusaka Flamme
 PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWC Boîte de sélection d’armes Lusaka Flamme
 PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,Cette boîte contient les armes Lusaka Flamme 2025 FWC.
-PROPITEM_TXT_155000,Blinkwing of Eillun,Blinkwing d’Eillun
+PROPITEM_TXT_155000,Blinkwing of Eillun,Élytre d’Eillun
 PROPITEM_TXT_155001,Teleport to Eillun,Téléportation vers Eillun
 PROPITEM_TXT_155002,Fragment of ???,Fragment de ???
 PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,Un fragment inconnu a été trouvé au sol. Apportez-le au Maire de Flarine ; peut-être pourra-t-il découvrir de quoi il s’agit.
@@ -24090,20 +24090,20 @@ PROPITEM_TXT_155041,"A tattered piece of an ancient scroll, its meaning obscured
 PROPITEM_TXT_155042,Torn Scroll (B),Parchemin déchiré (B)
 PROPITEM_TXT_155043,Torn Scroll (C),Parchemin déchiré (C)
 PROPITEM_TXT_155044,Torn Scroll (D),Parchemin déchiré (D)
-PROPITEM_TXT_155045,Hundur Skull,Crâne de lawolf
+PROPITEM_TXT_155045,Hundur Skull,Crâne de Lawolf des Plaines
 PROPITEM_TXT_155046,This skull appears to have been more than just decoration.,Ce crâne semble avoir été bien plus qu’une simple décoration.
-PROPITEM_TXT_155047,Samoset's Skull,Crâne de Lycan
-PROPITEM_TXT_155048,A gruesome token representing victory over the Samoset.,Un sinistre trophée représentant la victoire sur le Samoset.
-PROPITEM_TXT_155049,Kyouchish Claw,Griffe de Lycan
-PROPITEM_TXT_155050,This claw is all that remains of a once great Kyouchich.,Cette griffe est tout ce qu’il reste d’un grand Kyouchich d’autrefois.
-PROPITEM_TXT_155051,Kanonicus Sludge,Boue de Kanonicus
+PROPITEM_TXT_155047,Samoset's Skull,Crâne de Sentinelle Lycan
+PROPITEM_TXT_155048,A gruesome token representing victory over the Samoset.,Un sinistre trophée représentant la victoire sur les Sentinelles Lycan.
+PROPITEM_TXT_155049,Kyouchish Claw,Griffe d'un Garde Lycan
+PROPITEM_TXT_155050,This claw is all that remains of a once great Kyouchich.,Cette griffe est tout ce qu’il reste d’un grand Garde Lycan d’autrefois.
+PROPITEM_TXT_155051,Kanonicus Sludge,Fiole des Archer Lycan
 PROPITEM_TXT_155052,A mysterious liquid found on the remains of a Kanonicus.,Un liquide mystérieux trouvé sur les restes d’un Kanonicus.
-PROPITEM_TXT_155053,Redcloud Skull,Crâne de Lycan
+PROPITEM_TXT_155053,Redcloud Skull,Crâne d'un Magicien Lycan
 PROPITEM_TXT_155054,You feel a strong aura of magic eminating from this skull.,Vous sentez une puissante aura magique émaner de ce crâne.
-PROPITEM_TXT_155055,Devil's Tooth,Dent du Diable
-PROPITEM_TXT_155056,More or less the business end of a Taiaha's war staff.,Plus ou moins l’extrémité offensive du bâton de guerre d’un Taiaha.
-PROPITEM_TXT_155057,Hellhound Tooth,Dent de Molosse infernal
-PROPITEM_TXT_155058,This tooth is hard and very sharp.,Cette dent est dure et très tranchante.
+PROPITEM_TXT_155055,Devil's Tooth,Dent d'un Guerrier Lycan
+PROPITEM_TXT_155056,More or less the business end of a Taiaha's war staff.,Plus ou moins l’extrémité offensive d'une dent d'un Guerrier Lycan.
+PROPITEM_TXT_155057,Hellhound Tooth,Dent d'un Lawolf de l'Enfer
+PROPITEM_TXT_155058,This tooth is hard and very sharp.,Cette dent est dure et très tranchante ! Elle vient probablement d'un Lawolf de l'Enfer.
 PROPITEM_TXT_155059,Heart of Chief Keokuk,Cœur du chef Keokuk
 PROPITEM_TXT_155060,"Believe it or not, the Chieftain of the Lycan Tribe had a heart…","Croyez-le ou non, le chef de la tribu des Lycans avait un cœur…"
 PROPITEM_TXT_155061,Magic Clock of Asylum (5 Min),Horloge magique de l’Asile (5 min)
@@ -24786,45 +24786,45 @@ PROPITEM_TXT_134970,[Limited] Weapon Lucky Box,[Limité] Boîte chance d’arme
 PROPITEM_TXT_134971,A limited Weapon lucky box. May the odds be ever in your favor!,Une boîte chance limitée d’arme. Que la chance soit avec vous !
 PROPITEM_TXT_134972,[Limited] Enhancement Lucky Box,[Limité] Boîte chance d’amélioration
 PROPITEM_TXT_134973,A limited Enhancement lucky box. May the odds be ever in your favor!,Une boîte chance limitée d’amélioration. Que la chance soit avec vous !
-PROPITEM_TXT_134974,Luckybox Scroll of AProtect (1-100),Boîte chance Rouleau de AProtect (1-100)
-PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de AProtect.
-PROPITEM_TXT_134976,Luckybox Scroll of SProtect (1-100),Boîte chance Rouleau de SProtect (1-100)
-PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de SProtect.
-PROPITEM_TXT_134978,Luckybox Scroll of GProtect (1-100),Boîte chance Rouleau de GProtect (1-100)
-PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de GProtect.
-PROPITEM_TXT_134980,Luckybox Scroll of EProtect (1-100),Boîte chance Rouleau de EProtect (1-100)
-PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de EProtect.
-PROPITEM_TXT_134982,Luckybox Scroll of XProtect (1-100),Boîte chance Rouleau de XProtect (1-100)
-PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de XProtect.
-PROPITEM_TXT_134984,Luckybox Scroll of Ultimate Bonus (1-10),Boîte chance Rouleau de Bonus Ultime (1-10)
-PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 10 Rouleaux de Bonus Ultime.
-PROPITEM_TXT_134986,Luckybox Scroll of Ultimate Power (1-100),Boîte chance Rouleau de Puissance Ultime (1-100)
-PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Rouleaux de Puissance Ultime.
+PROPITEM_TXT_134974,Luckybox Scroll of AProtect (1-100),Boîte chance Parchemin de AProtect (1-100)
+PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de AProtect.
+PROPITEM_TXT_134976,Luckybox Scroll of SProtect (1-100),Boîte chance Parchemin de SProtect (1-100)
+PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de SProtect.
+PROPITEM_TXT_134978,Luckybox Scroll of GProtect (1-100),Boîte chance Parchemin de GProtect (1-100)
+PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de GProtect.
+PROPITEM_TXT_134980,Luckybox Scroll of EProtect (1-100),Boîte chance Parchemin de EProtect (1-100)
+PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de EProtect.
+PROPITEM_TXT_134982,Luckybox Scroll of XProtect (1-100),Boîte chance Parchemin de XProtect (1-100)
+PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de XProtect.
+PROPITEM_TXT_134984,Luckybox Scroll of Ultimate Bonus (1-10),Boîte chance Parchemin de Bonus Ultime (1-10)
+PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 10 Parchemin de Bonus Ultime.
+PROPITEM_TXT_134986,Luckybox Scroll of Ultimate Power (1-100),Boîte chance Parchemin de Puissance Ultime (1-100)
+PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Parchemin de Puissance Ultime.
 PROPITEM_TXT_134988,Luckybox Blessing of the Goddess and the Demon (1-100),Boîte chance Bénédiction de la Déesse et du Démon (1-100)
 PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,Ouvrir cette boîte vous donne une chance de recevoir de 1 à 100 Bénédictions de la Déesse ou du Démon.
 PROPITEM_TXT_134990,Cloak of Equilibrium,Cape de l’Équilibre
 PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","Une cape magnifique qui confère une grande puissance pour une durée limitée. Une cape bien équilibrée qui améliore les capacités globales. Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques."
 PROPITEM_TXT_134992,Cloak of Ascension,Cape de l’Ascension
 PROPITEM_TXT_134993,"A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","Une cape magnifique qui confère une grande puissance pour une durée limitée. Fournit un buff puissant aidant au combat et à la progression. Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques."
-PROPITEM_TXT_134994,[20~160] Amplification ES Scroll Select Box,Boîte de sélection Rouleau d’Amplification ES [20~160]
-PROPITEM_TXT_134995,Select which Amplification Scroll you want!,Sélectionnez le Rouleau d’Amplification que vous souhaitez recevoir !
+PROPITEM_TXT_134994,[20~160] Amplification ES Scroll Select Box,Boîte de sélection Parchemin d’Amplification ES [20~160]
+PROPITEM_TXT_134995,Select which Amplification Scroll you want!,Sélectionnez le Parchemin d’Amplification que vous souhaitez recevoir !
 PROPITEM_TXT_134996,Equilibrium Package,Pack Équilibre
-PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.","Un pack contenant 1x Cape de l’Équilibre, 5x Rouleau de Puissance, 7x Pierre Def-Upcut, 7x Pierre Upcut, 6x Boîte de sélection Pierre d’Attaque Élémentaire et 1x Boîte de sélection Pierre de Défense Élémentaire +6. Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.","Un pack contenant 1x Cape de l’Équilibre, 5x Parchemin de Puissance, 7x Pierre Arès, 7x Pierre Mars, 6x Boîte de sélection Pierre d’Attaque Élémentaire et 1x Boîte de sélection Pierre de Défense Élémentaire +6. Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_134998,Ascension Package,Pack Ascension
-PROPITEM_TXT_134999,"A package containing 20x Scroll of Amplification ES, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.","Un pack contenant 20x Rouleau d’Amplification ES, 1x Cape de l’Ascension et 1x Rouleau PickUp Boost (7 jours). Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_134999,"A package containing 20x Scroll of Amplification ES, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.","Un pack contenant 20x Parchemin d’Amplification ES, 1x Cape de l’Ascension et 1x Parchemin PickUp Boost (7 jours). Les options de la cape seront supprimées après la mise à jour 1.5, ne laissant que des éléments cosmétiques. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_135000,Advanced Ascension Package,Pack Ascension Avancé
-PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.","Un pack contenant 1x Nouvelle boîte de sélection Rouleau d’Amplification ES, 1x Cape de l’Ascension et 1x Rouleau PickUp Boost (7 jours). Tous les objets sont liés à l’âme."
+PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.","Un pack contenant 1x Nouvelle boîte de sélection Parchemin d’Amplification ES, 1x Cape de l’Ascension et 1x Parchemin PickUp Boost (7 jours). Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155622,[Event] 2025 Thanksgiving Gift Box,[Événement] Boîte Cadeau Thanksgiving 2025
 PROPITEM_TXT_155623,Shop Advertisement Random Box,Boîte aléatoire Publicité Boutique
 PROPITEM_TXT_155624,"This package randomly contains a Shop Advertisement Gold, Green, Red, Blue, Purple or Pink.","Ce pack contient aléatoirement une publicité boutique Or, Verte, Rouge, Bleue, Violette ou Rose."
 PROPITEM_TXT_155625,2025 Thanksgiving Buff Package,Pack Buff Thanksgiving 2025
-PROPITEM_TXT_155626,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activition, 2x Shop Advertisement Random Box and 1x Turkey Buff Box. All items are Soul-Linked.","Un pack contenant 10x Pierre Upcut, 10x Vital Drink X ou Refresher Hold, 10x Activition, 2x Boîte aléatoire Publicité Boutique et 1x Boîte Buff Dinde. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_155627,2025 Thanksgiving Smelting Scroll Package,Pack Rouleaux Fusion Thanksgiving 2025
-PROPITEM_TXT_155628,"A package containing 30x Scroll of GProtect, 30x Scroll of SProtect and 30x Scroll of AProtect. All items are Soul-Linked.","Un pack contenant 30x Rouleau GProtect, 30x Rouleau SProtect et 30x Rouleau AProtect. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_155626,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activition, 2x Shop Advertisement Random Box and 1x Turkey Buff Box. All items are Soul-Linked.","Un pack contenant 10x Pierre Mars, 10x Boisson Énergétique X ou Fiole de Mana X, 10x Activition, 2x Boîte aléatoire Publicité Boutique et 1x Boîte Buff Dinde. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_155627,2025 Thanksgiving Smelting Scroll Package,Pack Parchemin Fusion Thanksgiving 2025
+PROPITEM_TXT_155628,"A package containing 30x Scroll of GProtect, 30x Scroll of SProtect and 30x Scroll of AProtect. All items are Soul-Linked.","Un pack contenant 30x Parchemin GProtect, 30x Parchemin SProtect et 30x Parchemin AProtect. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155629,2025 Thanksgiving Turkey Box Package,Pack Boîte Dinde Thanksgiving 2025
-PROPITEM_TXT_155630,"A package containing 3x Turkey Box, 3x Potion Box and 3x Flask Box. All items are Soul-Linked.","Un pack contenant 3x Boîte Dinde, 3x Boîte Potion et 3x Boîte Flask. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_155630,"A package containing 3x Turkey Box, 3x Potion Box and 3x Flask Box. All items are Soul-Linked.","Un pack contenant 3x Boîte Dinde, 3x Boîte Potion et 3x Boîte Flask. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155631,2025 Thanksgiving Power Box,Boîte Pouvoir Thanksgiving 2025
-PROPITEM_TXT_155632,"A package containing 5x Power Scroll, 5x Potion Box, 5x Flask Box and 5x Grilled Eel. All items are Soul-Linked.","Un pack contenant 5x Rouleau de Puissance, 5x Boîte Potion, 5x Boîte Flask et 5x Anguille Grillée. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_155632,"A package containing 5x Power Scroll, 5x Potion Box, 5x Flask Box and 5x Grilled Eel. All items are Soul-Linked.","Un pack contenant 5x Parchemin de Puissance, 5x Boîte Potion, 5x Boîte Flask et 5x Anguille Grillée. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155633,Warriors Costume Select Box 1,Boîte de sélection Costume Guerriers 1
 PROPITEM_TXT_155634,Select which Warriors costume you want to receive!,Sélectionnez le costume Guerriers que vous souhaitez recevoir !
 PROPITEM_TXT_155635,Medieval Horse Pet select box,Boîte de sélection Animal Médiéval
@@ -24836,28 +24836,28 @@ PROPITEM_TXT_155640,Select which Northern Dragon you want to receive!,Sélection
 PROPITEM_TXT_155641,Eastern Warrior Horse Flying Select Box,Boîte de sélection Cheval Guerrier de l’Est Volant
 PROPITEM_TXT_155642,Select which Warrior Horse you want to receive!,Sélectionnez le Cheval Guerrier que vous souhaitez recevoir !
 PROPITEM_TXT_155643,Demian Server Welcome Coupon,Coupon de Bienvenue Serveur Demian
-PROPITEM_TXT_155644,"A package containing 5x [Event] Adventurer's Fortune Flask (3 Days), 12x Scroll of Amplification ES, 3x Activition, 10x Vital Drink X or Refresher Hold, 1x Extra Bag (30 days), 10x Blinkwing of Madrigal, 5x Def-Upcut Stone, 10x Scroll of Resurrection, 1x Madrigal Flying Selection Box (30 days), 1x Madrigal PickupPet Selection Box (30 days), 1x I am PANG! and 1x Aura Selection Box (15 days). All items are Soul-Linked.","Un pack contenant 5x [Événement] Flacon Fortune de l’Aventurier (3 jours), 12x Rouleau d’Amplification ES, 3x Activition, 10x Vital Drink X ou Refresher Hold, 1x Sac Supplémentaire (30 jours), 10x Blinkwing de Madrigal, 5x Pierre Def-Upcut, 10x Rouleau de Résurrection, 1x Boîte de sélection Vol Madrigal (30 jours), 1x Boîte de sélection PickupPet Madrigal (30 jours), 1x Je suis PANG ! et 1x Boîte de sélection Aura (15 jours). Tous les objets sont liés à l’âme."
+PROPITEM_TXT_155644,"A package containing 5x [Event] Adventurer's Fortune Flask (3 Days), 12x Scroll of Amplification ES, 3x Activition, 10x Vital Drink X or Refresher Hold, 1x Extra Bag (30 days), 10x Blinkwing of Madrigal, 5x Def-Upcut Stone, 10x Scroll of Resurrection, 1x Madrigal Flying Selection Box (30 days), 1x Madrigal PickupPet Selection Box (30 days), 1x I am PANG! and 1x Aura Selection Box (15 days). All items are Soul-Linked.","Un pack contenant 5x [Événement] Flacon Fortune de l’Aventurier (3 jours), 12x Parchemin d’Amplification ES, 3x Activition, 10x Boisson Énergétique X ou Fiole de Mana X, 1x Sac Supplémentaire (30 jours), 10x Élytre de Madrigal, 5x Pierre Arès, 10x Parchemin de Résurrection, 1x Boîte de sélection Vol Madrigal (30 jours), 1x Boîte de sélection de familier ramasseur Madrigal (30 jours), 1x Je suis PANG ! et 1x Boîte de sélection Aura (15 jours). Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155645,FWC 2025 Shiny Bloody Tiger,FWC 2025 Tigre Sanguin Brillant
-PROPITEM_TXT_155646,[Soul-Linked] 2025 Mycard Promotion Box A ,[Lié à l’âme] Boîte Promotion Mycard 2025 A
-PROPITEM_TXT_155647,"A package containing 3x Scroll of Amplification ES, 3x Upcut Stone, 7x Def-Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked.","Un pack contenant 3x Rouleau d’Amplification ES, 3x Pierre Upcut, 7x Pierre Def-Upcut et 3x Vital Drink X ou Refresher Hold. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_155648,[Soul-Linked] 2025 Mycard Promotion Box B ,[Lié à l’âme] Boîte Promotion Mycard 2025 B
-PROPITEM_TXT_155649,"A package containing 10x Grilled Eel, 3x Power Scroll, 10x Flask Box and 1x Blue Snowboarder Set. All items are Soul-Linked.","Un pack contenant 10x Anguille Grillée, 3x Rouleau de Puissance, 10x Boîte Flask et 1x Ensemble Snowboarder Bleu. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_155650,[Soul-Linked] 2025 Mycard Promotion Box C ,[Lié à l’âme] Boîte Promotion Mycard 2025 C
-PROPITEM_TXT_155651,"A package containing 10x Scroll of Amplification ES, 10x Power Scroll, 10x Balloon Select Box(6h), 1x Extra Bag (30 days), 10x Scroll of SProtect and 1x Winter Casual 10% Black Set. All items are Soul-Linked.","Un pack contenant 10x Rouleau d’Amplification ES, 10x Rouleau de Puissance, 10x Boîte de sélection Ballon (6h), 1x Sac Supplémentaire (30 jours), 10x Rouleau SProtect et 1x Ensemble Hiver Casual 10% Noir. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_155646,[Soul-Linked] 2025 Mycard Promotion Box A ,[Lié à votre personnage] Boîte Promotion Mycard 2025 A
+PROPITEM_TXT_155647,"A package containing 3x Scroll of Amplification ES, 3x Upcut Stone, 7x Def-Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked.","Un pack contenant 3x Parchemin d’Amplification ES, 3x Pierre Upcut, 7x Pierre Arès et 3x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_155648,[Soul-Linked] 2025 Mycard Promotion Box B ,[Lié à votre personnage] Boîte Promotion Mycard 2025 B
+PROPITEM_TXT_155649,"A package containing 10x Grilled Eel, 3x Power Scroll, 10x Flask Box and 1x Blue Snowboarder Set. All items are Soul-Linked.","Un pack contenant 10x Anguille Grillée, 3x Parchemin de Puissance, 10x Boîte Flask et 1x Ensemble Snowboarder Bleu. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_155650,[Soul-Linked] 2025 Mycard Promotion Box C ,[Lié à votre personnage] Boîte Promotion Mycard 2025 C
+PROPITEM_TXT_155651,"A package containing 10x Scroll of Amplification ES, 10x Power Scroll, 10x Balloon Select Box(6h), 1x Extra Bag (30 days), 10x Scroll of SProtect and 1x Winter Casual 10% Black Set. All items are Soul-Linked.","Un pack contenant 10x Parchemin d’Amplification ES, 10x Parchemin de Puissance, 10x Boîte de sélection Ballon (6h), 1x Sac Supplémentaire (30 jours), 10x Parchemin SProtect et 1x Ensemble Hiver Casual 10% Noir. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_155652,Winter Costume Select Box 1,Boîte de sélection Costume Hiver 1
 PROPITEM_TXT_155653,Select which Winter Costume you want to receive!,Sélectionnez le costume Hiver que vous souhaitez recevoir !
 PROPITEM_TXT_155654,Winter Pixie Pet select box,Boîte de sélection Fée Hivernale
 PROPITEM_TXT_155655,Select your favorite Winter Pixie Pet!,Sélectionnez votre Fée Hivernale préférée !
 PROPITEM_TXT_155656,Winter Tiger Pet select box,Boîte de sélection Tigre Hivernal
 PROPITEM_TXT_155657,Select your favorite Winter Tiger Pet!,Sélectionnez votre Tigre Hivernal préféré !
-PROPITEM_TXT_155658,Scroll of increased Jewel synthesis chance Select Box,Boîte de sélection Rouleau Chance Synthèse Joyaux
-PROPITEM_TXT_155659,Select which Scroll of increased Jewel synthesis chance you want to receive! This scroll will give you a 2x chance of synthesizing a selected Jewel.,Sélectionnez le Rouleau de Chance Synthèse Joyaux que vous souhaitez recevoir ! Ce rouleau double vos chances de synthétiser le joyau sélectionné.
+PROPITEM_TXT_155658,Scroll of increased Jewel synthesis chance Select Box,Boîte de sélection Parchemin Chance Synthèse Joyaux
+PROPITEM_TXT_155659,Select which Scroll of increased Jewel synthesis chance you want to receive! This scroll will give you a 2x chance of synthesizing a selected Jewel.,Sélectionnez le Parchemin de Chance Synthèse Joyaux que vous souhaitez recevoir ! Ce Parchemin double vos chances de synthétiser le joyau sélectionné.
 PROPITEM_TXT_155660,1.5 Update Growth Package,Pack Croissance Mise à jour 1.5
-PROPITEM_TXT_155661,"A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Nouvelle boîte de sélection Rouleau d’Amplification ES, 5x Vital Drink X ou Refresher Hold, 5x Rouleau de Vélocité, 5x Pierre Upcut et 5x Rouleau de Puissance. Tous les objets sont également liés à l’âme."
-PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,Pack Rouleaux Bonus Ultime 1.5
-PROPITEM_TXT_155663,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.,Un pack contenant 3x Rouleau Bonus Ultime et 3x Rouleau Bonus Ultime II. Tous les objets sont également liés à l’âme.
-PROPITEM_TXT_155664,[20~160] Amplification ES Scroll Bundle Select Box,Boîte de sélection Lot Rouleaux Amplification ES [20~160]
-PROPITEM_TXT_155665,"Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware.","Sélectionnez le Rouleau d’Amplification que vous souhaitez recevoir ! \n※ Cet objet inclut uniquement les Rouleaux d’Amplification ES 20, 40, 60, 80, 120 et 160. Veuillez en tenir compte."
+PROPITEM_TXT_155661,"A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Nouvelle boîte de sélection Parchemin d’Amplification ES, 5x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemin de Vélocité, 5x Pierre Upcut et 5x Parchemin de Puissance. Tous les objets sont également liés à votre personnage."
+PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,Pack Parchemin Bonus Ultime 1.5
+PROPITEM_TXT_155663,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.,Un pack contenant 3x Parchemin Bonus Ultime et 3x Parchemin Bonus Ultime II. Tous les objets sont également liés à votre personnage.
+PROPITEM_TXT_155664,[20~160] Amplification ES Scroll Bundle Select Box,Boîte de sélection Lot Parchemin Amplification ES [20~160]
+PROPITEM_TXT_155665,"Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware.","Sélectionnez le Parchemin d’Amplification que vous souhaitez recevoir ! \n※ Cet objet inclut uniquement les Parchemin d’Amplification ES 20, 40, 60, 80, 120 et 160. Veuillez en tenir compte."
 PROPITEM_TXT_155666,Turkeylicious Neon Pink Set,Ensemble Turkeylicious Rose Néon
 PROPITEM_TXT_155667,Turkeylicious Neon Pink Tail,Queue Turkeylicious Rose Néon
 PROPITEM_TXT_155668,Turkeylicious Neon Pink Hat (M),Chapeau Turkeylicious Rose Néon (H)
@@ -24922,7 +24922,7 @@ PROPITEM_TXT_155726,White Mecha Rabbit,Lapin Méca Blanc
 PROPITEM_TXT_155727,"A little robot rabbit hopping everywhere, collecting everything... beep beep!",Un petit lapin robot qui saute partout en collectant tout… bip bip !
 PROPITEM_TXT_155728,Mecha Rabbit Select box,Boîte de sélection Lapin Méca
 PROPITEM_TXT_155729,Select your favorite color for your sparkly robot rabbit!,Sélectionnez la couleur préférée de votre lapin robot scintillant !
-PROPITEM_TXT_155800,Scroll of Level & Class Change,Rouleau de Changement de Niveau & Classe
+PROPITEM_TXT_155800,Scroll of Level & Class Change,Parchemin de Changement de Niveau & Classe
 PROPITEM_TXT_155801,Changes level and job,Change le niveau et le métier
 PROPITEM_TXT_155802,Violent Soul Shield,Bouclier d'Âme Violente
 PROPITEM_TXT_155803,Keokuk Shield,Bouclier Keokuk
@@ -24939,23 +24939,23 @@ PROPITEM_TXT_155813,Orcus Great Sword,Grande Épée d'Orcus
 PROPITEM_TXT_155814,Mara's Soul Wand,Baguette d'Âme de Mara
 PROPITEM_TXT_155815,Keokuk Warlock Wand,Baguette de Sorcier Keokuk
 PROPITEM_TXT_155816,Orcus Yo-Yo,Yo-Yo d'Orcus
-PROPITEM_TXT_155817,Scroll of Weapon Bonus Augmentation,Rouleau d'Augmentation Bonus Arme
-PROPITEM_TXT_155818,"This powerful scroll randomly changes the % value of your weapon's skill bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce rouleau puissant change aléatoirement le pourcentage du bonus de compétence de votre arme tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
-PROPITEM_TXT_155819,Scroll of Shield Bonus Augmentation,Rouleau d'Augmentation Bonus Bouclier
-PROPITEM_TXT_155820,"This powerful scroll randomly changes the % value of your shield's s bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce rouleau puissant change aléatoirement le pourcentage du bonus de votre bouclier tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
-PROPITEM_TXT_155821,Scroll of Weapon Bonus (1st Jobs),Rouleau Bonus Arme (1er Métier)
-PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 1ers métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
-PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),Rouleau Bonus Arme (2e Métier)
-PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 2e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
-PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),Rouleau Bonus Arme (3e Métier)
-PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 3e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_155817,Scroll of Weapon Bonus Augmentation,Parchemin d'Augmentation Bonus Arme
+PROPITEM_TXT_155818,"This powerful scroll randomly changes the % value of your weapon's skill bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce Parchemin puissant change aléatoirement le pourcentage du bonus de compétence de votre arme tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
+PROPITEM_TXT_155819,Scroll of Shield Bonus Augmentation,Parchemin d'Augmentation Bonus Bouclier
+PROPITEM_TXT_155820,"This powerful scroll randomly changes the % value of your shield's s bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce Parchemin puissant change aléatoirement le pourcentage du bonus de votre bouclier tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
+PROPITEM_TXT_155821,Scroll of Weapon Bonus (1st Jobs),Parchemin Bonus Arme (1er Métier)
+PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce Parchemin ajoute un bonus de compétence aléatoire provenant des 1ers métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),Parchemin Bonus Arme (2e Métier)
+PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce Parchemin ajoute un bonus de compétence aléatoire provenant des 2e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
+PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),Parchemin Bonus Arme (3e Métier)
+PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce Parchemin ajoute un bonus de compétence aléatoire provenant des 3e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
 PROPITEM_TXT_135002,1.5 Update Pass,Pass Mise à jour 1.5
 PROPITEM_TXT_135003,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season,Cet achat vous donnera accès à de nombreux avantages jusqu'à la fin de la saison du Pass Mise à jour 1.5
 PROPITEM_TXT_135004,Hellhound,Chien Infernal
 PROPITEM_TXT_135005,A Hellhound that follows its master around and picks up dropped items,Un Chien Infernal qui suit son maître et récupère les objets tombés
-PROPITEM_TXT_135006,3 Days Scroll of Party Skill,Rouleau de Compétences de Groupe (3 jours)
-PROPITEM_TXT_135007,3 Days Scroll of Combined Party Effects,Rouleau Effets Combinés de Groupe (3 jours)
-PROPITEM_TXT_135008,Scroll of Pickup Range (3 days),Rouleau de Portée de Ramassage (3 jours)
+PROPITEM_TXT_135006,3 Days Scroll of Party Skill,Parchemin de Compétences de Groupe (3 jours)
+PROPITEM_TXT_135007,3 Days Scroll of Combined Party Effects,Parchemin Effets Combinés de Groupe (3 jours)
+PROPITEM_TXT_135008,Scroll of Pickup Range (3 days),Parchemin de Portée de Ramassage (3 jours)
 PROPITEM_TXT_135009,1.5 Update Lucky Box,Boîte Chance Mise à jour 1.5
 PROPITEM_TXT_135010,Ankou,Ankou
 PROPITEM_TXT_135011,A Ankou that follows its master around and picks up dropped items,Un Ankou qui suit son maître et récupère les objets tombés
@@ -24965,8 +24965,8 @@ PROPITEM_TXT_135014,Jewel (1) Select Box,Boîte de sélection Joyau (1)
 PROPITEM_TXT_135015,Jewel (2) Select Box,Boîte de sélection Joyau (2)
 PROPITEM_TXT_135016,Jewel (3) Select Box,Boîte de sélection Joyau (3)
 PROPITEM_TXT_135017,Select which Jewel you want!,Sélectionnez le Joyau que vous souhaitez !
-PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,Boîte de sélection Rouleau Chance Synthèse Joyaux
-PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,Sélectionnez le Rouleau Chance Synthèse Joyaux que vous souhaitez !
+PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,Boîte de sélection Parchemin Chance Synthèse Joyaux
+PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,Sélectionnez le Parchemin Chance Synthèse Joyaux que vous souhaitez !
 PROPITEM_TXT_902176,Muran Sword,Épée Muran
 PROPITEM_TXT_902177,Muran Axe,Hache Muran
 PROPITEM_TXT_902178,Muran Big Sword,Grande Épée Muran
@@ -25098,7 +25098,7 @@ PROPITEM_TXT_902298,"A package containing 5x Christmas Cookie, 10x Cotton Candy 
 PROPITEM_TXT_902299,Santa's Hunting Package,Pack Chasse du Père Noël
 PROPITEM_TXT_902300,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.","Un pack contenant 5x Parchemin Amplification ES, 5x Parchemin Résurrection, 5x Parchemin Retour Ville, 5x Parchemin Vitesse et 5x Activation. Tous les objets sont liés."
 PROPITEM_TXT_902301,Winter Elf's Exp Boost Package,Pack Bonus XP de l'Elfe d'Hiver
-PROPITEM_TXT_902302,"A package containing 5x New Amplification ES Scroll Select Box, 5x Grilled Eel, 5x Vital Drink X or Refresher Hold and 5x Potion Box. All items are also linked.","Un pack contenant 5x Nouvelle Boîte Sélection Parchemin Amplification ES, 5x Anguille Grillée, 5x Vital Drink X ou Refresher Hold et 5x Boîte de Potions. Tous les objets sont liés."
+PROPITEM_TXT_902302,"A package containing 5x New Amplification ES Scroll Select Box, 5x Grilled Eel, 5x Vital Drink X or Refresher Hold and 5x Potion Box. All items are also linked.","Un pack contenant 5x Nouvelle Boîte Sélection Parchemin Amplification ES, 5x Anguille Grillée, 5x Boisson Énergétique X ou Fiole de Mana X et 5x Boîte de Potions. Tous les objets sont liés."
 PROPITEM_TXT_902303,Flyfful Christmas Package,Pack Noël Flyfful
 PROPITEM_TXT_902304,"A package containing 3x Christmas Cookie, 1x Christmas Costume Box, 1x Christmas Flying Select Box and 1x Nitro Booster (7 Days). All items are also linked.","Un pack contenant 3x Cookie de Noël, 1x Boîte Costume Noël, 1x Boîte Sélection Vol Noël et 1x Nitro Booster (7 Jours). Tous les objets sont liés."
 PROPITEM_TXT_902305,Christmas Gingy Pet Select Box,Boîte Sélection Animal Gingy Noël
@@ -25124,13 +25124,13 @@ PROPITEM_TXT_135040,Dark Christmas Adventurer Dark Gold Suit (F),Costume Aventur
 PROPITEM_TXT_135041,Dark Christmas Adventurer Dark Gold Shoes (F),Chaussures Aventurier Noël Sombre Or Foncé (F)
 PROPITEM_TXT_135042,2026 New year Lucky Box,Boîte Chanceuse Nouvel An 2026
 PROPITEM_TXT_135043,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items,Une boîte chanceuse remplie de bonne chance pour le Nouvel An 2026 !\nVous recevrez 1 objet aléatoire parmi une variété d'objets.
-PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,Boîte Sélection Soupe de Gâteau de Riz 2026
-PROPITEM_TXT_135045,2026 Red Rice Cake Soup,Soupe de Gâteau de Riz Rouge 2026
-PROPITEM_TXT_135046,2026 Green Rice Cake Soup,Soupe de Gâteau de Riz Verte 2026
-PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,Gâteau de riz Bleue 2026
-PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,Soupe de Gâteau de Riz Jaune 2026
+PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,Boîte Sélection Gâteau de Riz 2026
+PROPITEM_TXT_135045,2026 Red Rice Cake Soup,Gâteau de Riz Rouge 2026
+PROPITEM_TXT_135046,2026 Green Rice Cake Soup,Gâteau de Riz Verte 2026
+PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,Gâteau de Riz Bleue 2026
+PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,Gâteau de Riz Jaune 2026
 PROPITEM_TXT_135049,[Event] 2026 New Year Gift Box 1,[Événement] Boîte Cadeau Nouvel An 2026 1
-PROPITEM_TXT_135050,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES and 5x Repair Hammer.","Première récompense de l'événement Nouvel An !\nVous pouvez obtenir 5x Pierre Upcut, 1x Anguille Grillée, 1x Parchemin Amplification ES et 5x Marteau de Réparation."
+PROPITEM_TXT_135050,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES and 5x Repair Hammer.","Première récompense de l'événement Nouvel An !\nVous pouvez obtenir 5x Pierre Mars, 1x Anguille Grillée, 1x Parchemin Amplification ES et 5x Marteau de Réparation."
 PROPITEM_TXT_135051,[Event] 2026 New Year Gift Box 2,[Événement] Boîte Cadeau Nouvel An 2026 2
 PROPITEM_TXT_135052,"Second reward for New Year Event!\nYou can earn 2x Flask Box, 5x Scroll of Velocity, 1x Scroll of Gprotect/Power Scroll and New Amplification ES Scroll Select Box.","Deuxième récompense de l'événement Nouvel An !\nVous pouvez obtenir 2x Boîte de Flacon, 5x Parchemin de Vitesse, 1x Parchemin Gprotect/Power et Nouvelle Boîte Sélection Parchemin Amplification ES."
 PROPITEM_TXT_135053,[Event] 2026 New Year Gift Box 3,[Événement] Boîte Cadeau Nouvel An 2026 3
@@ -25387,7 +25387,7 @@ PROPITEM_TXT_902523,The Snow Masquerade 2% Black Set for female characters.,L'en
 PROPITEM_TXT_902524,Snow Masquerade Costume Lucky Box,Boîte Chance Mascarade Neige
 PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Mascarade Neige avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture de la boîte.
 PROPITEM_TXT_902526,Winter Hunting Pack,Pack de Chasse Hiver
-PROPITEM_TXT_902527,"A package containing 3x Activition, 3x Vital Drink X or Refresher Hold, 3x Scroll of Velocity, 3x Upcut Stone, 3x Def-Upcut Stone and 3x Power Scroll. All items are also linked.","Un pack contenant 3x Activition, 3x Vital Drink X ou Refresher Hold, 3x Parchemin de Vélocité, 3x Pierre Upcut, 3x Pierre Def-Upcut et 3x Parchemin de Puissance. Tous les objets sont liés."
+PROPITEM_TXT_902527,"A package containing 3x Activition, 3x Vital Drink X or Refresher Hold, 3x Scroll of Velocity, 3x Upcut Stone, 3x Def-Upcut Stone and 3x Power Scroll. All items are also linked.","Un pack contenant 3x Activition, 3x Boisson Énergétique X ou Fiole de Mana X, 3x Parchemin de Vélocité, 3x Pierre Mars, 3x Pierre Arès et 3x Parchemin de Puissance. Tous les objets sont liés."
 PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,Pack Bonus Ultime Hiver A
 PROPITEM_TXT_902529,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,Un pack contenant 3x Parchemin Bonus Ultime et 5x Parchemin Bonus Arme (Sélection Job). Tous les objets sont liés.
 PROPITEM_TXT_902530,Winter Ultimate Bonus Package B,Pack Bonus Ultime Hiver B
@@ -25397,13 +25397,13 @@ PROPITEM_TXT_902533,Select which Scroll you want to receive !,Sélectionnez le p
 PROPITEM_TXT_902534,Winter Jewel All Inclusive Package,Pack Tout Inclus Joyaux Hiver
 PROPITEM_TXT_902535,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.","Un pack contenant 3x Pince à Joyaux, 3x Couteau de Coupe, 1x Parchemin Chance Synthèse Joyau (Sélection), 2x Parchemin Conversion Joyaux Inférieur et 2x Parchemin Conversion Joyaux. Tous les objets sont liés."
 PROPITEM_TXT_902536,Year of Red Horse Hunting Pack,Pack de Chasse Année du Cheval Rouge
-PROPITEM_TXT_902537,"A package containing 5x Def-Upcut Stone, 5x Activition, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Pierre Def-Upcut, 5x Activition, 5x Anguille Grillée et 5x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_902537,"A package containing 5x Def-Upcut Stone, 5x Activition, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Pierre Arès, 5x Activition, 5x Anguille Grillée et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_902538,Glory Wings Package,Pack Ailes de Gloire
 PROPITEM_TXT_902539,A package containing 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are also linked.,Un pack contenant 1x Boîte Sélection Ailes de Gloire et 1x Nitro Booster (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_902540,Glory Wings Select Box,Boîte Sélection Ailes de Gloire
 PROPITEM_TXT_902541,Select your favorite color for your Glory Wings!,Sélectionnez votre couleur préférée pour vos Ailes de Gloire !
 PROPITEM_TXT_902542,Myth Costume Select Box 2,Boîte Sélection Costume Mythique 2
-PROPITEM_TXT_902543,"Select your favorite Myth costume between Oni Set, Banana Hero Set and Cacti Set. All items are Soul-Linked.","Sélectionnez votre costume Mythique préféré parmi Oni Set, Banana Hero Set et Cacti Set. Tous les objets sont liés à l'âme."
+PROPITEM_TXT_902543,"Select your favorite Myth costume between Oni Set, Banana Hero Set and Cacti Set. All items are Soul-Linked.","Sélectionnez votre costume Mythique préféré parmi Oni Set, Banana Hero Set et Cacti Set. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_902544,Floating Oni Select Box,Boîte Sélection Oni Flottant
 PROPITEM_TXT_902545,Choose your favorite color for your Floating Oni!,Choisissez votre couleur préférée pour votre Oni Flottant !
 PROPITEM_TXT_902546,Junior Banana Hero Pet Select Box,Boîte Sélection Animal Junior Banana Hero
@@ -25412,7 +25412,7 @@ PROPITEM_TXT_902548,Cacti Pet Select Box,Boîte Sélection Animal Cactus
 PROPITEM_TXT_902549,Choose your favorite color for your Cacti!,Choisissez votre couleur préférée pour votre Cactus !
 PROPITEM_TXT_902550,"A tiny, frosty companion who never melts! With its cozy blue scarf and stylish top hat, this Blue Snowman Pet brings a cool breeze and a warm smile to every adventure.","Un petit compagnon givré qui ne fond jamais ! Avec son écharpe bleue douillette et son chapeau haut-de-forme élégant, ce Snowman Bleu apporte une brise fraîche et un sourire chaleureux à chaque aventure."
 PROPITEM_TXT_902551,NVIDIA GeForce Gamers Day Door Prize,Lot du Jour des Gamers NVIDIA GeForce
-PROPITEM_TXT_902552,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 5x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days) and 1x Feed Bag (7 day). All items are also linked.","Un pack contenant 10x Parchemin Amplification ES, 10x Pierre Upcut, 5x Parchemin de Puissance, 20x Boîte de Flacons, 20x Boîte de Potions, 1x Sac Supplémentaire (30 jours) et 1x Sac Nourriture (7 jours). Tous les objets sont liés."
+PROPITEM_TXT_902552,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 5x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days) and 1x Feed Bag (7 day). All items are also linked.","Un pack contenant 10x Parchemin Amplification ES, 10x Pierre Mars, 5x Parchemin de Puissance, 20x Boîte de Flacons, 20x Boîte de Potions, 1x Sac Supplémentaire (30 jours) et 1x Sac Nourriture (7 jours). Tous les objets sont liés."
 PROPITEM_TXT_902553,Onmyoji 2026 10% Cyan Set,Ensemble Onmyoji 2026 10% Cyan
 PROPITEM_TXT_902554,Onmyoji 2026 Cyan Cloak,Cape Onmyoji 2026 Cyan
 PROPITEM_TXT_902555,Onmyoji 2026 Cyan Mask,Masque Onmyoji 2026 Cyan
@@ -25534,9 +25534,9 @@ PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 Valentine's Day Rewar
 PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 Valentine's Day Reward Box D
 PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] Pet Random Box
 PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,Boîte Promotion Nouvel An MyCard 2026 A
-PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Anguille Grillée, 3x Parchemin Amplification ES, 3x Boîte de Potions, 3x Pierre Upcut et 3x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Anguille Grillée, 3x Parchemin Amplification ES, 3x Boîte de Potions, 3x Pierre Mars et 3x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,Boîte Promotion Nouvel An MyCard 2026 B
-PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activition, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.","Un pack contenant 5x Boîte de Sélection Parchemin Amplification ES [20~160], 5x Parchemin de Puissance, 5x Boîte de Flacon, 5x Activition, 5x Pierre Def-Upcut, 1x Ensemble d'Armes Obsidian Flame Rouge et 1x Boîte de Sélection Hunter Set. Tous les objets sont liés."
+PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activition, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.","Un pack contenant 5x Boîte de Sélection Parchemin Amplification ES [20~160], 5x Parchemin de Puissance, 5x Boîte de Flacon, 5x Activition, 5x Pierre Arès, 1x Ensemble d'Armes Obsidian Flame Rouge et 1x Boîte de Sélection Hunter Set. Tous les objets sont liés."
 PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,Boîte Promotion Nouvel An MyCard 2026 C
 PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.","Un pack contenant 3x Boîte de Sélection Parchemin Amplification ES [20~160], 2x Parchemin de Puissance, 2x Boîte de Sélection Balloon (6h), 2x Pinces à Bijoux, 2x Couteau de Coupe, 1x Boîte Skin Armes Reaper, 1x Sac Supplémentaire (30 jours), 4x Parchemin de SProtect et 1x Boîte de Sélection Shadow Hunter 10% Noir. Tous les objets sont liés."
 PROPITEM_TXT_902673,FWC 2026 Pre-regsistration Reward Package,Pack Récompense Pré-inscription FWC 2026
@@ -25554,11 +25554,11 @@ PROPITEM_TXT_902684,A package containing 1x Hanbok (F) and 5x Hot Ddukguk.,Un pa
 PROPITEM_TXT_902685,Valentine's Ultimate Package,Pack Ultime Saint-Valentin
 PROPITEM_TXT_902686,"A package containing 5x Scroll of Ultimate Bonus Select Box, 3x Scroll of Weapon Bonus(Job) Select box and 5x Chocolate Select Box. All items are also linked.","Un pack contenant 5x Boîte de Sélection Parchemin Bonus Ultime, 3x Boîte de Sélection Parchemin Bonus Armes (Métier) et 5x Boîte de Sélection Chocolat. Tous les objets sont liés."
 PROPITEM_TXT_902687,POP Costume Select Box 1,Boîte de Sélection Costume POP 1
-PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.","Choisissez votre costume POP préféré parmi Neo, White Stripes, Glitch Pop et Disco Set. Tous les objets sont liés à l'âme."
+PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.","Choisissez votre costume POP préféré parmi Neo, White Stripes, Glitch Pop et Disco Set. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_902689,Neo Robot Pet Select Box ,Boîte de Sélection Animal de Compagnie Robot Neo
-PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.,Choisissez la couleur préférée pour votre Robot Neo. Tous les objets sont liés à l'âme.
+PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.,Choisissez la couleur préférée pour votre Robot Neo. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_902691,White Stripe Bear Pet Select Box,Boîte de Sélection Ours White Stripe
-PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.,Choisissez la couleur préférée pour votre Ours White Stripe. Tous les objets sont liés à l'âme.
+PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.,Choisissez la couleur préférée pour votre Ours White Stripe. Tous les objets sont liés à votre personnage.
 PROPITEM_TXT_902693,Hunter Set Select Box,Boîte de Sélection Hunter Set
 PROPITEM_TXT_902694,Select which Gender you want to receive!,Choisissez le sexe du costume que vous souhaitez recevoir !
 PROPITEM_TXT_902695,Potion of Blind Love,Potion d'Amour Aveugle

@@ -709,7 +709,7 @@ TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Un familier est déjà in
 TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Votre mauvais Karma vous empêche de voler !
 TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Info] C'est un test! Le serveur fermera dans %s et les personnages seront supprimés.
 TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Attention] Le jeu est en accès anticipé ! Des instabilités serveur et bugs peuvent survenir.
-TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Un MJ (Maître du Jeu) ne vous demandera jamais vos identifiants de compte.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Un MJ (Maître du Jeu) ne vous demandera jamais votre mot de passe de compte ou de banque.
 TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Ne prêtez pas et ne laissez pas un joueur emprunter vos items. S'ils ne rendent pas l'item, il est perdu à jamais."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Vous êtes trop éloigné de la cible.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s est sur une lancée meurtrière !
@@ -977,7 +977,7 @@ TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Votre messa
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Vous ne pouvez pas vous téléporter si vous êtes gelé.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Vous devez atteindre le niveau %d pour échanger des objets premiums.
 TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Vous devez atteindre le niveau %d pour utiliser ce mouvement.
-TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Changement d'équipement
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Équip. rapide
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Vous ne pouvez qu'équiper des objets du menu/raccourci de changement d'équipement.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Vous avez mis à jour l'ensemble d'équipement %s avec succès !
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Vous avez trop d'ensembles d'équipement !
@@ -1273,7 +1273,7 @@ TEXTCLIENT_EVENT_PREFIX,[Event],[Événement]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Le compte %d a été déconnecté.
 TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Le compte %d n’existe pas ou n’est pas en ligne.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,Vous ne pouvez pas vous déconnecter vous-même.
-TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Recherche de boutique
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Rech. boutique
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,Une vérification de préparation est déjà en cours.
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,Un bateau pirate est apparu au-dessus de Madrigal !!
 TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Seul le chef peut lancer une vérification de préparation, et aucune n’est actuellement en cours."
@@ -1409,7 +1409,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,Vo
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,Vous devez sélectionner votre partenaire pour demander cette animation.
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Votre partenaire a refusé d’effectuer cette animation.
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,Vous êtes trop éloignés l’un de l’autre pour effectuer cette animation.
-TEXTCLIENT_APP_LIFE,Life,Vie
+TEXTCLIENT_APP_LIFE,Life,Métier
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,Vous devez équiper un(e) %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Veuillez vérifier que vous utilisez l’outil approprié.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Échec de la récolte.

@@ -917,10 +917,10 @@ PROPSKILL_TXT_150370,Tidal Omen,Présage tidal
 PROPSKILL_TXT_150371,Increased Recovery,Récupération augmentée
 PROPSKILL_TXT_150373,Fire Counter,Contre-feu
 PROPSKILL_TXT_150374,Aqua Veil,Voile d’eau
-PROPSKILL_TXT_150375,Gale,Grand vent
+PROPSKILL_TXT_150375,Gale,Tourbillon
 PROPSKILL_TXT_150376,Increased Suffocate Chance,Chance d’asphyxie augmentée
 PROPSKILL_TXT_150377,Earth Counter,Contre-terre
-PROPSKILL_TXT_150378,Stormveil Cloak,Cape Stormveil
+PROPSKILL_TXT_150378,Stormveil Cloak,Voile Protecteur
 PROPSKILL_TXT_150379,EVA Storm,Tempête EVA
 PROPSKILL_TXT_150380,Increased Shock Chance,Chance de choc augmentée
 PROPSKILL_TXT_150381,Thunder Strike,Frappe de foudre
@@ -1075,7 +1075,7 @@ PROPSKILL_TXT_150538,Extra damage when used on a burning target is increased.,Le
 PROPSKILL_TXT_150539,"Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them.","Enflamme votre cible, infligeant des dégâts et la brûlant. Sur une cible déjà en feu, les dégâts sont réduits mais elle est étourdie. Les ennemis brûlés blessent également les ennemis proches, sans les enflammer."
 PROPSKILL_TXT_150540,Damage reduction when used on a burning target is reduced.,La réduction de dégâts sur une cible en feu est réduite.
 PROPSKILL_TXT_150541,"Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen.","Emprisonnez-vous dans la glace, devenant invulnérable et infligeant des dégâts aux ennemis autour. Vous ne pouvez pas utiliser d’objets ou de compétences pendant que vous êtes gelé."
-PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.","Gelez votre cible dans une bulle d’eau, lui volant des PV."
+PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.","Gelez votre cible dans une bulle d’eau, l’immobilisant et lui volant instantanément des PV."
 PROPSKILL_TXT_150543,Stolen health is increased.,Les PV volés sont augmentés.
 PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.","Invoquez une bourrasque autour de vous, augmentant votre vitesse de déplacement et blessant les ennemis proches. Pendant la bourrasque, les coups peuvent appliquer des piles d’Étouffement. À 5 piles, la cible est étourdie, endormie ou paralysée au hasard."
 PROPSKILL_TXT_150545,Suffocate stack chance is increased.,La chance d’appliquer des piles d’Étouffement est augmentée.
