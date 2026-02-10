@@ -600,42 +600,41 @@ PROPSKILL_TXT_150100,Enhance Stun,眩晕强化
 PROPSKILL_TXT_150101,Quick Stun,迅速击晕
 PROPSKILL_TXT_150103,Templar's Call,虔信号令
 PROPSKILL_TXT_150104,Pull your target towards yourself.,将目标拉向你自身。
-PROPSKILL_TXT_150105,Ankle Slice,Ankle Slice
-PROPSKILL_TXT_150106,Strong Embrace,Strong Embrace
-PROPSKILL_TXT_150107,Multi-capture,Multi-capture
-PROPSKILL_TXT_150108,Rush Attack,Rush Attack
-PROPSKILL_TXT_150109,Quickly charge at your target to attack.,Quickly charge at your target to attack.
-PROPSKILL_TXT_150110,Deep Impact,Deep Impact
-PROPSKILL_TXT_150111,Ankle Strike,Ankle Strike
-PROPSKILL_TXT_150112,Shield,盾
-PROPSKILL_TXT_150113,Sky Splitter,Sky Splitter
-PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon."
-PROPSKILL_TXT_150116,Defensive Stance,Defensive Stance
-PROPSKILL_TXT_150117,Reduce Cooldown,Reduce Cooldown
-PROPSKILL_TXT_150118,Strong Impact,Strong Impact
-PROPSKILL_TXT_150119,Last One Standing,Last One Standing
-PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.
-PROPSKILL_TXT_150121,Slow Pace,Slow Pace
-PROPSKILL_TXT_150122,Reduce HP Penalty,Reduce HP Penalty
-PROPSKILL_TXT_150123,Damage Reduction,Damage Reduction
-PROPSKILL_TXT_150124,Increased HP Recovery,Increased HP Recovery
-PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,Gain additional HP recovery when restoring it with items or skills.
-PROPSKILL_TXT_150126,Undying,不死
-PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected."
-PROPSKILL_TXT_150128,Enhanced HP Recovery,Enhanced HP Recovery
-PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,Improve the effectiveness of healing received when low on health.
-PROPSKILL_TXT_150130,Increased HP Regeneration,Increased HP Regeneration
-PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,Increases the amount of natural HP recovery.
-PROPSKILL_TXT_150132,One-handed Mastery,One-handed Mastery
-PROPSKILL_TXT_150133,Increase your damage when using one-handed weapons.,Increase your damage when using one-handed weapons.
-PROPSKILL_TXT_150134,Two-handed Mastery,Two-handed Mastery
-PROPSKILL_TXT_150135,Increase your damage when using two-handed weapons.,Increase your damage when using two-handed weapons.
+PROPSKILL_TXT_150105,Ankle Slice,断踝斩
+PROPSKILL_TXT_150106,Strong Embrace,强力擒抱
+PROPSKILL_TXT_150107,Multi-capture,多重捕获
+PROPSKILL_TXT_150108,Rush Attack,突袭强攻
+PROPSKILL_TXT_150109,Quickly charge at your target to attack.,迅速冲向目标并发起攻击。
+PROPSKILL_TXT_150110,Deep Impact,深度冲击
+PROPSKILL_TXT_150111,Ankle Strike,裂踝斩
+PROPSKILL_TXT_150112,Shield,护盾
+PROPSKILL_TXT_150113,Sky Splitter,裂空斩
+PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","以双手武器斩裂天空，对目标造成伤害。需装备双手武器。"
+PROPSKILL_TXT_150116,Defensive Stance,防御姿态
+PROPSKILL_TXT_150117,Reduce Cooldown,冷却缩减
+PROPSKILL_TXT_150118,Strong Impact,强力冲击
+PROPSKILL_TXT_150119,Last One Standing,最后屹立者
+PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,每秒消耗生命值并定身自身，同时反射受到的伤害。可再次施放以取消该效果。
+PROPSKILL_TXT_150121,Slow Pace,缓步
+PROPSKILL_TXT_150122,Reduce HP Penalty,降低HP惩罚
+PROPSKILL_TXT_150123,Damage Reduction,伤害减免
+PROPSKILL_TXT_150124,Increased HP Recovery,HP恢复提升
+PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,通过物品或技能恢复生命值时，获得额外生命恢复效果。
+PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","累积不死层数，可保护你的生命值不低于1点。当层数被消耗时，HP、FP与MP均将降至1点。所有层数耗尽后，此保护效果消失。"
+PROPSKILL_TXT_150128,Enhanced HP Recovery,强化生命恢复
+PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,低生命值时受到的治疗效果提升。
+PROPSKILL_TXT_150130,Increased HP Regeneration,生命再生提升
+PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,提升HP自然恢复量。
+PROPSKILL_TXT_150132,One-handed Mastery,单手精通
+PROPSKILL_TXT_150133,Increase your damage when using one-handed weapons.,提升使用单手武器时的伤害。
+PROPSKILL_TXT_150134,Two-handed Mastery,双手精通
+PROPSKILL_TXT_150135,Increase your damage when using two-handed weapons.,提升使用双手武器时的伤害。
 PROPSKILL_TXT_150136,Shield Mastery,盾牌精通
-PROPSKILL_TXT_150137,Increases defense when wearing a shield.,Increases defense when wearing a shield.
-PROPSKILL_TXT_150138,Enhanced Physical Defense,Enhanced Physical Defense
-PROPSKILL_TXT_150139,Increases defense when HP is low.,Increases defense when HP is low.
-PROPSKILL_TXT_150140,Enhanced Magical Defense,Enhanced Magical Defense
-PROPSKILL_TXT_150141,Increases magic defense when HP is low.,Increases magic defense when HP is low.
+PROPSKILL_TXT_150137,Increases defense when wearing a shield.,提升装备盾牌时的防御力。
+PROPSKILL_TXT_150138,Enhanced Physical Defense,物理防御提升
+PROPSKILL_TXT_150139,Increases defense when HP is low.,HP较低时提升物理防御力。
+PROPSKILL_TXT_150140,Enhanced Magical Defense,魔法防御提升
+PROPSKILL_TXT_150141,Increases magic defense when HP is low.,HP较低时提升魔法防御力。
 PROPSKILL_TXT_140000,Asylum HP Low Bless,Asylum HP Low Bless
 PROPSKILL_TXT_140001,"The Asylum bestows a 5% hp boost, filling you with eerie strength.","The Asylum bestows a 5% hp boost, filling you with eerie strength."
 PROPSKILL_TXT_140002,Asylum HP High Bless,Asylum HP High Bless
@@ -700,10 +699,10 @@ PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.
 PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.
-PROPSKILL_TXT_140064,Trap: Debuff,Trap: Debuff
-PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,Deploy a trap that deals damage with a 15% chance to slow down targets.
-PROPSKILL_TXT_140066,Pit,Pit
-PROPSKILL_TXT_140067,You have stepped on a trap.,You have stepped on a trap.
+PROPSKILL_TXT_140064,Trap: Debuff,陷阱: Debuff
+PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,部署一个陷阱，造成伤害并有15%的概率使目标减速。
+PROPSKILL_TXT_140066,Pit,陷坑
+PROPSKILL_TXT_140067,You have stepped on a trap.,你踩到了一个陷阱。
 PROPSKILL_TXT_140068,Proficient Traps,Proficient Traps
 PROPSKILL_TXT_140069,Crowd Controller,Crowd Controller
 PROPSKILL_TXT_140071,Trap: DoT,Trap: DoT
