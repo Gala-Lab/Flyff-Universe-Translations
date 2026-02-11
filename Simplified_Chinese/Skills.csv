@@ -620,6 +620,7 @@ PROPSKILL_TXT_150122,Reduce HP Penalty,降低HP惩罚
 PROPSKILL_TXT_150123,Damage Reduction,伤害减免
 PROPSKILL_TXT_150124,Increased HP Recovery,HP恢复提升
 PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,通过物品或技能恢复生命值时，获得额外生命恢复效果。
+PROPSKILL_TXT_150126,Undying,不死
 PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","累积不死层数，可保护你的生命值不低于1点。当层数被消耗时，HP、FP与MP均将降至1点。所有层数耗尽后，此保护效果消失。"
 PROPSKILL_TXT_150128,Enhanced HP Recovery,强化生命恢复
 PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,低生命值时受到的治疗效果提升。
@@ -699,7 +700,7 @@ PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.
 PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.
-PROPSKILL_TXT_140064,Trap: Debuff,陷阱: Debuff
+PROPSKILL_TXT_140064,Trap: Debuff,陷阱：减益
 PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,部署一个陷阱，造成伤害并有15%的概率使目标减速。
 PROPSKILL_TXT_140066,Pit,陷坑
 PROPSKILL_TXT_140067,You have stepped on a trap.,你踩到了一个陷阱。
