@@ -15,7 +15,7 @@ TEXTCLIENT_APP_OPTION,Options,オプション
 TEXTCLIENT_APP_LOGOUT,Logout,接続終了
 TEXTCLIENT_APP_QUIT,Quit,ゲーム終了
 TEXTCLIENT_APP_SUPPORT,Support,サポート
-TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_PRIVACY,Privacy,プライバシー
 TEXTCLIENT_APP_NAVIGATOR,Navigator,ナビゲーター
 TEXTCLIENT_APP_DEBUG,Debug,デバッグ
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒後、終了します。
@@ -1499,7 +1499,7 @@ UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
-TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_APP_ACCOUNT,Account,アカウント
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,失敗によりアイテムが破壊されました。
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,レッドチーム
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,ブルーチーム
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,グリーンチーム
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,イエローチーム
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.

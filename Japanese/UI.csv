@@ -935,10 +935,10 @@ UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,1番ゲートより�
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,2番ゲートより入場します。
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,3番ゲートより入場します。
 UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,4番ゲートより入場します。
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,5番ゲートより入場します。
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,6番ゲートより入場します。
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,7番ゲートより入場します。
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,8番ゲートより入場します。
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,入力したいエリアを選択します。
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",%d秒後、%sへ進入します。
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,ランダム
@@ -2356,9 +2356,9 @@ UI_TRADE_LOG_PULL,Removed,Removed
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
-UI_COUPON_TITLE,Coupon,Coupon
+UI_COUPON_TITLE,Coupon,クーポン
 UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
-UI_COUPON_CODE,Coupon Code,Coupon Code
+UI_COUPON_CODE,Coupon Code,クーポンコード
 UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,もらう
 UI_COUPON_CODE_PAGE,Claim code ,Claim code 
@@ -2368,12 +2368,12 @@ UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
+UI_MENU_SAVE,Save changes,変更を保存
+UI_MENU_EDIT,Edit the menu,編集メニュー
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
+UI_MENU_UNSPECIFIED,Unspecified,指定されていない
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
+UI_DELETEACCOUNT_TITLE,Delete Account,アカウントを削除する
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,よろしいですか？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
@@ -2439,10 +2439,10 @@ UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,予備的
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
-UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
-UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,ベスト16
+UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,準々決勝
+UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,準決勝
+UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,3位
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
@@ -2452,8 +2452,8 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(今日)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,なし
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
@@ -2609,11 +2609,11 @@ UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
 UI_TIMES,%d time(s),%d time(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
 UI_WAITING,Waiting,Waiting
-UI_LIFE_RECIPEBTN,See related recipes,See related recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_RECIPEBTN,See related recipes,関連レシピを見る
+UI_LIFE_RECIPES,Recipes,レシピ
+UI_LIFE_RECIPES_CATEGORY,Category,カテゴリ
+UI_LIFE_RECIPES_DETAILS,Details,詳細
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,レシピが選択されていません
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Production
@@ -3247,7 +3247,7 @@ UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
 UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,時間:
 UI_DUNGEONTIMERECAP_CLOSE,Close,閉じる
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
