@@ -2651,17 +2651,17 @@ PROPITEM_TXT_004731,Summon Banker for 3 Min.
 PROPITEM_TXT_004732,Blessing of Party Leader
 PROPITEM_TXT_004733,x2 Party Exp. for 2 hours (Only Party Leader can use)
 PROPITEM_TXT_004734,Friendship (A)
-PROPITEM_TXT_004735,Summon a player to you (30 sec: Casting Time). This item only works on characters on the same continent or in the same instance.
+PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.
 PROPITEM_TXT_004736,Friendship (B)
-PROPITEM_TXT_004737,Summon a player to you (No casting time). This item only works on characters on the same continent or in the same instance.
+PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.
 PROPITEM_TXT_004738,Summon of Party Leader
 PROPITEM_TXT_004739,Summons Party members to the Party Leader (Only Party Leader can use)
 PROPITEM_TXT_004740,Scroll of SFusion High
 PROPITEM_TXT_004741,"100% Upgrade Rate up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
 PROPITEM_TXT_004742,Item Transy (A)
-PROPITEM_TXT_004743,Change the sex of items levels 1-60 (Does not work on Premium Items)
+PROPITEM_TXT_004743,Change the sex of items levels 1-60 (Does not work on Costume Items)
 PROPITEM_TXT_004744,Item Transy (B)
-PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Premium Items)
+PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items)
 PROPITEM_TXT_004746,[20] Scroll of Amplification ES
 PROPITEM_TXT_004747,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 3 times for a total of x2.5 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.
 PROPITEM_TXT_004748,[40] Scroll of Amplification ES
@@ -12540,43 +12540,43 @@ PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.
 PROPITEM_TXT_160018,Lord Okean Crown
 PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.
 PROPITEM_TXT_160020,Champion's Ring
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160022,Defender's Ring
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160024,Adept's Ring
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160026,Marksman's Ring
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160028,Champion's Gore Necklace
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160030,Adept's Mental Necklace
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160032,Defender's Peision Necklace
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160034,Champion's Demol Earring
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160036,Defender's Plug Earring
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160038,Defender's Gore Necklace
 PROPITEM_TXT_160040,Marksman's Gore Necklace
 PROPITEM_TXT_160042,Adept's Gore Necklace
 PROPITEM_TXT_160044,Marksman's Demol Earring
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160046,Adept's Demol Earring
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160048,Marksman's Mental Necklace
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160050,Champion's Mental Necklace
 PROPITEM_TXT_160052,Champion's Peision Necklace
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160054,Defender's Demol Earring
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160056,Champion's Plug Earring
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160058,Adept's Plug Earring
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160060,Marksman's Plug Earring
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160062,Ultima
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.
 PROPITEM_TXT_160064,Blinkwing of Coral Island
