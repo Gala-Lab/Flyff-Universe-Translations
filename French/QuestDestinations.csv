@@ -52,8 +52,8 @@ QUEST_DESTINATION_0070,Kill Elite Keakoon Guard Leaders in the third room.,Tuer 
 QUEST_DESTINATION_0071,Talk with Nevin in prison,"Parlez à Nevil, le père de Drian, pour vous assurer qu'il va bien."
 QUEST_DESTINATION_0072,Break Roach egg in fifth room and obtain 15 Pink Roach Fluids,Brisez des œufs de tyroglyphes et récupérez 15 fluides de tyroglyphes roses
 QUEST_DESTINATION_0073,Break Roach egg in fourth room and obtain 15 Blue Roach Fluids,Brisez des œufs de tyroglyphes et récupérez 15 fluides de tyroglyphes bleus
-QUEST_DESTINATION_0074,Break Roach egg in fifth room and obtain 1 Pink Roach Queen Fluid,Break Roach egg in fifth room and obtain 1 Pink Roach Queen Fluid
-QUEST_DESTINATION_0075,Break Roach egg in fourth room and obtain 1 Blue Roach Queen Fluid,Break Roach egg in fourth room and obtain 1 Blue Roach Queen Fluid
+QUEST_DESTINATION_0074,Break Roach egg in fifth room and obtain 1 Pink Roach Queen Fluid,Cassez l'œuf de tyroglyphes dans la cinquième salle et obtenez 1 Fluide de Reine tyroglyphes Rose
+QUEST_DESTINATION_0075,Break Roach egg in fourth room and obtain 1 Blue Roach Queen Fluid,Cassez l'œuf de tyroglyphes dans la quatrième salle et obtenez 1 Fluide de Reine tyroglyphes Bleue
 QUEST_DESTINATION_0076,Obtain 30 Cillins nearby,Ramasser 30 Cillins dans la mine.
 QUEST_DESTINATION_0077,Meet Kazen,Parler à Kazen.
 QUEST_DESTINATION_0078,Move to where Kazen is and kill Green Trillipy. Then obtain 30 Ribenuums,Tuez des trillipys verdâtres et récupérez 30 ribenuums 
@@ -114,7 +114,7 @@ QUEST_DESTINATION_1039,Kill %s more [Demonic Soul] Hel to spawn an hidden chests
 QUEST_DESTINATION_1040,Kill %s more [Perverted Soul] Morrigan to spawn the Mysterious Adventurer,Tuez encore %s [Âmes Perverties] Morrigan pour faire apparaître l’Aventurier Mystérieux
 QUEST_DESTINATION_1041,Kill %s more [Anguished Soul] Mara to spawn an hidden chest,Tuez encore %s [Âmes Angoissées] Mara pour faire apparaître un coffre caché
 QUEST_DESTINATION_1042,Kill %s more [Violent Soul] Ghed to spawn an hidden chest,Tuez encore %s [Âmes Violentes] Ghed pour faire apparaître un coffre caché
-QUEST_DESTINATION_1043,Defeat %s Dungeon Final Boss,Vainquez le Boss final du donjon %s
+QUEST_DESTINATION_1043,Defeat %s Dungeon Final Boss,Vaincre le Boss final du donjon %s
 QUEST_DESTINATION_1044,You received Master's letter of introduction from the previous quest.,Vous avez reçu la lettre de présentation du Maître de la quête précédente.
 QUEST_DESTINATION_1045,You received Fragment of a Fallen Ship from the Mayor of Flarine.,Vous avez reçu un Fragment de Navire Tombé du Maire de Flarine.
 QUEST_DESTINATION_1046,You received Translated Lycan Operation Plan from [Captain] Baron.,Vous avez reçu le Plan d’Opération Lycan traduit de [Capitaine] Baron.

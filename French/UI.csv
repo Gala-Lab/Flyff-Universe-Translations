@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Utiliser : %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Pas de limite de temps
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Temps d'attente avant la réutilisation: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Confirmation de la résurrection
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Un autre joueur tente de vous ressusciter (niveau de compétence %d). Voulez-vous être ressuscité ?
 UI_TOOLTIP_EQUIPSET,Set Effect,Bonus
 UI_TOOLTIP_BLOCKRATE,Block,Bloquer
 UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
@@ -2011,7 +2011,7 @@ UI_ULTIMATE_RANDOMSTAT,Random Stat Obtained,Stat Aléatoire Obtenue
 UI_RESTAT_TITLE,Re-Stat,Parchemin de statistiques
 UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),Souhaitez-vous appliquer l'amélioration des Stat fixes à l'objet suivant ?\n(%s)
 UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),Souhaitez-vous appliquer l'amélioration de Stat aléatoire à l'objet suivant ?\n(%s)
-UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Do you wish to apply the Random Special Option upgrade to the following item?\n(%s)
+UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Souhaitez-vous appliquer l'option spéciale aléatoire à l'objet suivant ?\n(%s)
 UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,Veuillez sélectionner l'objet que vous souhaitez améliorer.
 UI_MATERIAL_ITEM_PUT,Please input a material item first.,Veuillez d'abord sélectionner un matériau.
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,Cet objet ne peut pas être utilisé.
@@ -2575,10 +2575,10 @@ UI_COUPLE_RING_CHEER,Cheers: %d,Encouragements : %d
 UI_COUPLE_RING_SLOTS,Storage slots: %d,Emplacements de stockage : %d
 UI_COUPLE_MOTION_TITLE,Couple Motion,Mouvements de couple
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Votre partenaire demande le mouvement %s. Acceptez-vous ?
-UI_APP_LIFE_TIP,Opens life contents window.,Ouvre la fenêtre de vie
+UI_APP_LIFE_TIP,Opens life contents window.,Ouvre la fenêtre des métiers
 UI_LIFE_GATHERING_TAB,Gathering,Collecte
 UI_LIFE_PRODUCTION_TAB,Production,Production
-UI_LIFE_TITLE,Life,Vie
+UI_LIFE_TITLE,Life,Métier
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Effet de maîtrise
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Collecte identifiée
 UI_LIFE_HARVESTING_INFORMATION,Harvesting Information,Informations sur la collecte
@@ -3182,7 +3182,7 @@ UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Chance de coup critique
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Compléter #cffc32f07#b%d/%d#nb#nc quêtes journalières
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Dégâts augmentés par malus d’inhibition
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Dégâts augmentés par malus d’affaiblissement
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Réduction des dégâts subis par malus
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Réduction des dégâts subis par malus (Max 8)
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(Inhibition)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Affaiblissement)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Immobilité)

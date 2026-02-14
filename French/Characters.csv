@@ -367,13 +367,13 @@ CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[PNJ Personnel] Mac (C G
 CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[PNJ Personnel] Mac (B Grade)
 CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[PNJ Personnel] Mac (A Grade)
 CHARACTER_INC_140000,Couple Rings,Anneaux de couple
-CHARACTER_INC_100104,[Life Master] Livi,[Maître de la Vie] Livi
+CHARACTER_INC_100104,[Life Master] Livi,[Maître des métiers] Livi
 CHARACTER_INC_100105,Gathering Tool,Outil de collecte
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
 CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
+CHARACTER_INC_100110,Wounded Revolutionary,Révolutionnaire blessé
 CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
 CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
 CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
@@ -392,12 +392,12 @@ CHARACTER_INC_150014,[Eillun Guard] Dreon,[Garde d'Eillun] Dreon
 CHARACTER_INC_150015,[Eillun Guard] Merk,[Garde d'Eillun] Merk
 CHARACTER_INC_150016,[Captain] Baron,[Capitaine] Baron
 CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
+CHARACTER_INC_150018,[Elder] Ayr,[Ancien] Ayr
+CHARACTER_INC_150019,[Elder] Traitus,[Ancien] Traitus
+CHARACTER_INC_150020,[Elder] Melak,[Ancien] Melak
+CHARACTER_INC_150021,[Elder] Silar,[Ancien] Silar
+CHARACTER_INC_150022,[Elder] Ebron,[Ancien] Ebron
+CHARACTER_INC_150023,[Elder] Luteon,[Ancien] Luteon
 CHARACTER_INC_150024,Liana,Liana
 CHARACTER_INC_150025,[Jewel Manager] Teron,[Joaillier] Teron
 CHARACTER_INC_150026,Haret,Haret
@@ -422,8 +422,8 @@ CHARACTER_INC_150044,[Mysterious] ??? ,[Mystérieux] ???
 CHARACTER_INC_150045,[Expedition] Beck,[Expédition] Beck
 CHARACTER_INC_150046,Asylum Guard,Garde de l'asile d'Ankou
 CHARACTER_INC_150047,Mysterious Adventurer,Aventurier mystérieux
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
-CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
+CHARACTER_INC_150048,Jarl (Dying),(Agonisant) Jarl
+CHARACTER_INC_150049,[PTS Manager] Mewdev,[Responsable PTS] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
 CHARACTER_INC_150051,Cheirang,[Bureau de poste] Cheirang
 CHARACTER_INC_150052,[Village Chief] Huntrang,[Chef du village] Huntran

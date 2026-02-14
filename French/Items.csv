@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -7522,8 +7522,8 @@ PROPITEM_TXT_100958,Teleport to Azria,Objet magique permettant de se téléporte
 PROPITEM_TXT_100959,Pet Transmute,Transmutation de familier
 PROPITEM_TXT_100960,This item will give a new random appearance to your pet. There is a chance to get rare visuals!,Cet objet donnera une nouvelle apparence aléatoire à votre familier. Il y a une chance d'obtenir des visuels rares!
 PROPITEM_TXT_100961,Cyclops X Life Gem,Gemme de vie de Cyclope X
-PROPITEM_TXT_102038,Tooth of Leyena,Tooth of Leyena
-PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,A tooth of hungry monsters. Take it to Chonjang in town!!
+PROPITEM_TXT_102038,Tooth of Leyena,Dent de Leyena
+PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,Une dent de monstre affamé. Apportez-la à Chonjang en ville!!
 PROPITEM_TXT_008902,Red Chips,Jeton Rouge
 PROPITEM_TXT_008903,Guild Siege reward. Used to buy items from Waforu.,Jeton avec lequel vous pouvez acheter des objets à Waforu.
 PROPITEM_TXT_009208,Obsidian Cruentus Armor Set (M),Armure Cruentus Obsidienne (G)
@@ -25681,317 +25681,244 @@ PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You ca
 PROPITEM_TXT_135096,Yetti's Precious Box,Coffre Précieux du Yetti
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,Coffre de Reconnaissance
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,Coffre Parchemin ES d’Amplification [20~190]
-PROPITEM_TXT_902812,Heart Punk 10% Pink Set,Heart Punk 10% Pink Set
-PROPITEM_TXT_902813,Heart Punk Pink Aibag,Heart Punk Pink Aibag
-PROPITEM_TXT_902814,Heart Punk Pink Mask,Heart Punk Pink Mask
-PROPITEM_TXT_902815,Heart Punk Pink Hat (M),Heart Punk Pink Hat (M)
-PROPITEM_TXT_902816,Heart Punk Pink Suit (M),Heart Punk Pink Suit (M)
-PROPITEM_TXT_902817,Heart Punk Pink Shoes (M),Heart Punk Pink Shoes (M)
-PROPITEM_TXT_902818,Heart Punk Pink Hands (M),Heart Punk Pink Hands (M)
-PROPITEM_TXT_902819,Heart Punk 10% Pink Set (M),Heart Punk 10% Pink Set (M)
-PROPITEM_TXT_902820,The Heart Punk 10% Pink Set for male characters.,The Heart Punk 10% Pink Set for male characters.
-PROPITEM_TXT_902821,Heart Punk Pink Hat (F),Heart Punk Pink Hat (F)
-PROPITEM_TXT_902822,Heart Punk Pink Suit (F),Heart Punk Pink Suit (F)
-PROPITEM_TXT_902823,Heart Punk Pink Shoes (F),Heart Punk Pink Shoes (F)
-PROPITEM_TXT_902824,Heart Punk Pink Hands (F),Heart Punk Pink Hands (F)
-PROPITEM_TXT_902825,Heart Punk 10% Pink Set (F),Heart Punk 10% Pink Set (F)
-PROPITEM_TXT_902826,The Heart Punk 10% Pink Set for female characters.,The Heart Punk 10% Pink Set for female characters.
-PROPITEM_TXT_902827,Heart Punk 8% White Set,Heart Punk 8% White Set
-PROPITEM_TXT_902828,Heart Punk White Aibag,Heart Punk White Aibag
-PROPITEM_TXT_902829,Heart Punk White Mask,Heart Punk White Mask
-PROPITEM_TXT_902830,Heart Punk White Hat (M),Heart Punk White Hat (M)
-PROPITEM_TXT_902831,Heart Punk White Suit (M),Heart Punk White Suit (M)
-PROPITEM_TXT_902832,Heart Punk White Shoes (M),Heart Punk White Shoes (M)
-PROPITEM_TXT_902833,Heart Punk White Hands (M),Heart Punk White Hands (M)
-PROPITEM_TXT_902834,Heart Punk 8% White Set (M),Heart Punk 8% White Set (M)
-PROPITEM_TXT_902835,The Heart Punk 8% White Set for male characters.,The Heart Punk 8% White Set for male characters.
-PROPITEM_TXT_902836,Heart Punk White Hat (F),Heart Punk White Hat (F)
-PROPITEM_TXT_902837,Heart Punk White Suit (F),Heart Punk White Suit (F)
-PROPITEM_TXT_902838,Heart Punk White Shoes (F),Heart Punk White Shoes (F)
-PROPITEM_TXT_902839,Heart Punk White Hands (F),Heart Punk White Hands (F)
-PROPITEM_TXT_902840,Heart Punk 8% White Set (F),Heart Punk 8% White Set (F)
-PROPITEM_TXT_902841,The Heart Punk 8% White Set for female characters.,The Heart Punk 8% White Set for female characters.
-PROPITEM_TXT_902842,Heart Punk 6% Golden Set,Heart Punk 6% Golden Set
-PROPITEM_TXT_902843,Heart Punk Golden Aibag,Heart Punk Golden Aibag
-PROPITEM_TXT_902844,Heart Punk Golden Mask,Heart Punk Golden Mask
-PROPITEM_TXT_902845,Heart Punk Golden Hat (M),Heart Punk Golden Hat (M)
-PROPITEM_TXT_902846,Heart Punk Golden Suit (M),Heart Punk Golden Suit (M)
-PROPITEM_TXT_902847,Heart Punk Golden Shoes (M),Heart Punk Golden Shoes (M)
-PROPITEM_TXT_902848,Heart Punk Golden Hands (M),Heart Punk Golden Hands (M)
-PROPITEM_TXT_902849,Heart Punk 6% Golden Set (M),Heart Punk 6% Golden Set (M)
-PROPITEM_TXT_902850,The Heart Punk 6% Golden Set for male characters.,The Heart Punk 6% Golden Set for male characters.
-PROPITEM_TXT_902851,Heart Punk Golden Hat (F),Heart Punk Golden Hat (F)
-PROPITEM_TXT_902852,Heart Punk Golden Suit (F),Heart Punk Golden Suit (F)
-PROPITEM_TXT_902853,Heart Punk Golden Shoes (F),Heart Punk Golden Shoes (F)
-PROPITEM_TXT_902854,Heart Punk Golden Hands (F),Heart Punk Golden Hands (F)
-PROPITEM_TXT_902855,Heart Punk 6% Golden Set (F),Heart Punk 6% Golden Set (F)
-PROPITEM_TXT_902856,The Heart Punk 6% Golden Set for female characters.,The Heart Punk 6% Golden Set for female characters.
-PROPITEM_TXT_902857,Heart Punk 4% Blue Set,Heart Punk 4% Blue Set
-PROPITEM_TXT_902858,Heart Punk Blue Aibag,Heart Punk Blue Aibag
-PROPITEM_TXT_902859,Heart Punk Blue Mask,Heart Punk Blue Mask
-PROPITEM_TXT_902860,Heart Punk Blue Hat (M),Heart Punk Blue Hat (M)
-PROPITEM_TXT_902861,Heart Punk Blue Suit (M),Heart Punk Blue Suit (M)
-PROPITEM_TXT_902862,Heart Punk Blue Shoes (M),Heart Punk Blue Shoes (M)
-PROPITEM_TXT_902863,Heart Punk Blue Hands (M),Heart Punk Blue Hands (M)
-PROPITEM_TXT_902864,Heart Punk 4% Blue Set (M),Heart Punk 4% Blue Set (M)
-PROPITEM_TXT_902865,The Heart Punk 4% Blue Set for male characters.,The Heart Punk 4% Blue Set for male characters.
-PROPITEM_TXT_902866,Heart Punk Blue Hat (F),Heart Punk Blue Hat (F)
-PROPITEM_TXT_902867,Heart Punk Blue Suit (F),Heart Punk Blue Suit (F)
-PROPITEM_TXT_902868,Heart Punk Blue Shoes (F),Heart Punk Blue Shoes (F)
-PROPITEM_TXT_902869,Heart Punk Blue Hands (F),Heart Punk Blue Hands (F)
-PROPITEM_TXT_902870,Heart Punk 4% Blue Set (F),Heart Punk 4% Blue Set (F)
-PROPITEM_TXT_902871,The Heart Punk 4% Blue Set for female characters.,The Heart Punk 4% Blue Set for female characters.
-PROPITEM_TXT_902872,Heart Punk 2% Purple Set,Heart Punk 2% Purple Set
-PROPITEM_TXT_902873,Heart Punk Purple Aibag,Heart Punk Purple Aibag
-PROPITEM_TXT_902874,Heart Punk Purple Mask,Heart Punk Purple Mask
-PROPITEM_TXT_902875,Heart Punk Purple Hat (M),Heart Punk Purple Hat (M)
-PROPITEM_TXT_902876,Heart Punk Purple Suit (M),Heart Punk Purple Suit (M)
-PROPITEM_TXT_902877,Heart Punk Purple Shoes (M),Heart Punk Purple Shoes (M)
-PROPITEM_TXT_902878,Heart Punk Purple Hands (M),Heart Punk Purple Hands (M)
-PROPITEM_TXT_902879,Heart Punk 2% Purple Set (M),Heart Punk 2% Purple Set (M)
-PROPITEM_TXT_902880,The Heart Punk 2% Purple Set for male characters.,The Heart Punk 2% Purple Set for male characters.
-PROPITEM_TXT_902881,Heart Punk Purple Hat (F),Heart Punk Purple Hat (F)
-PROPITEM_TXT_902882,Heart Punk Purple Suit (F),Heart Punk Purple Suit (F)
-PROPITEM_TXT_902883,Heart Punk Purple Shoes (F),Heart Punk Purple Shoes (F)
-PROPITEM_TXT_902884,Heart Punk Purple Hands (F),Heart Punk Purple Hands (F)
-PROPITEM_TXT_902885,Heart Punk 2% Purple Set (F),Heart Punk 2% Purple Set (F)
-PROPITEM_TXT_902886,The Heart Punk 2% Purple Set for female characters.,The Heart Punk 2% Purple Set for female characters.
-PROPITEM_TXT_902887,Heart Punk 2% Red Set,Heart Punk 2% Red Set
-PROPITEM_TXT_902888,Heart Punk Red Aibag,Heart Punk Red Aibag
-PROPITEM_TXT_902889,Heart Punk Red Mask,Heart Punk Red Mask
-PROPITEM_TXT_902890,Heart Punk Red Hat (M),Heart Punk Red Hat (M)
-PROPITEM_TXT_902891,Heart Punk Red Suit (M),Heart Punk Red Suit (M)
-PROPITEM_TXT_902892,Heart Punk Red Shoes (M),Heart Punk Red Shoes (M)
-PROPITEM_TXT_902893,Heart Punk Red Hands (M),Heart Punk Red Hands (M)
-PROPITEM_TXT_902894,Heart Punk 2% Red Set (M),Heart Punk 2% Red Set (M)
-PROPITEM_TXT_902895,The Heart Punk 2% Red Set for male characters.,The Heart Punk 2% Red Set for male characters.
-PROPITEM_TXT_902896,Heart Punk Red Hat (F),Heart Punk Red Hat (F)
-PROPITEM_TXT_902897,Heart Punk Red Suit (F),Heart Punk Red Suit (F)
-PROPITEM_TXT_902898,Heart Punk Red Shoes (F),Heart Punk Red Shoes (F)
-PROPITEM_TXT_902899,Heart Punk Red Hands (F),Heart Punk Red Hands (F)
-PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),Heart Punk 2% Red Set (F)
-PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,The Heart Punk 2% Red Set for female characters.
-PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,Heart Punk Costume Lucky Box
-PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,Heart Punk Luxury Car Pink
-PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h."
-PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,Heart Punk Luxury Car Yellow
-PROPITEM_TXT_902907,"Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h."
-PROPITEM_TXT_902908,Heart Punk Luxury Car Purple,Heart Punk Luxury Car Purple
-PROPITEM_TXT_902909,"Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h."
-PROPITEM_TXT_902910,Oni-Style Kimono 10% Red Set,Oni-Style Kimono 10% Red Set
-PROPITEM_TXT_902911,Oni-Style Kimono Red Bag,Oni-Style Kimono Red Bag
-PROPITEM_TXT_902912,Oni-Style Kimono Red Mask,Oni-Style Kimono Red Mask
-PROPITEM_TXT_902913,Oni-Style Kimono Red Hat (M),Oni-Style Kimono Red Hat (M)
-PROPITEM_TXT_902914,Oni-Style Kimono Red Suit (M),Oni-Style Kimono Red Suit (M)
-PROPITEM_TXT_902915,Oni-Style Kimono Red Shoes (M),Oni-Style Kimono Red Shoes (M)
-PROPITEM_TXT_902916,Oni-Style Kimono 10% Red Set (M),Oni-Style Kimono 10% Red Set (M)
-PROPITEM_TXT_902917,The Oni-Style Kimono 10% Red Set for male characters.,The Oni-Style Kimono 10% Red Set for male characters.
-PROPITEM_TXT_902918,Oni-Style Kimono Red Hat (F),Oni-Style Kimono Red Hat (F)
-PROPITEM_TXT_902919,Oni-Style Kimono Red Suit (F),Oni-Style Kimono Red Suit (F)
-PROPITEM_TXT_902920,Oni-Style Kimono Red Shoes (F),Oni-Style Kimono Red Shoes (F)
-PROPITEM_TXT_902921,Oni-Style Kimono 10% Red Set (F),Oni-Style Kimono 10% Red Set (F)
-PROPITEM_TXT_902922,The Oni-Style Kimono 10% Red Set for female characters.,The Oni-Style Kimono 10% Red Set for female characters.
-PROPITEM_TXT_902923,Oni-Style Kimono 10% Pink Set,Oni-Style Kimono 10% Pink Set
-PROPITEM_TXT_902924,Oni-Style Kimono Pink Bag,Oni-Style Kimono Pink Bag
-PROPITEM_TXT_902925,Oni-Style Kimono Pink Mask,Oni-Style Kimono Pink Mask
-PROPITEM_TXT_902926,Oni-Style Kimono Pink Hat (M),Oni-Style Kimono Pink Hat (M)
-PROPITEM_TXT_902927,Oni-Style Kimono Pink Suit (M),Oni-Style Kimono Pink Suit (M)
-PROPITEM_TXT_902928,Oni-Style Kimono Pink Shoes (M),Oni-Style Kimono Pink Shoes (M)
-PROPITEM_TXT_902929,Oni-Style Kimono 10% Pink Set (M),Oni-Style Kimono 10% Pink Set (M)
-PROPITEM_TXT_902930,The Oni-Style Kimono 10% Pink Set for male characters.,The Oni-Style Kimono 10% Pink Set for male characters.
-PROPITEM_TXT_902931,Oni-Style Kimono Pink Hat (F),Oni-Style Kimono Pink Hat (F)
-PROPITEM_TXT_902932,Oni-Style Kimono Pink Suit (F),Oni-Style Kimono Pink Suit (F)
-PROPITEM_TXT_902933,Oni-Style Kimono Pink Shoes (F),Oni-Style Kimono Pink Shoes (F)
-PROPITEM_TXT_902934,Oni-Style Kimono 10% Pink Set (F),Oni-Style Kimono 10% Pink Set (F)
-PROPITEM_TXT_902935,The Oni-Style Kimono 10% Pink Set for female characters.,The Oni-Style Kimono 10% Pink Set for female characters.
-PROPITEM_TXT_902936,Oni-Style Kimono 8% Blue Set,Oni-Style Kimono 8% Blue Set
-PROPITEM_TXT_902937,Oni-Style Kimono Blue Bag,Oni-Style Kimono Blue Bag
-PROPITEM_TXT_902938,Oni-Style Kimono Blue Mask,Oni-Style Kimono Blue Mask
-PROPITEM_TXT_902939,Oni-Style Kimono Blue Hat (M),Oni-Style Kimono Blue Hat (M)
-PROPITEM_TXT_902940,Oni-Style Kimono Blue Suit (M),Oni-Style Kimono Blue Suit (M)
-PROPITEM_TXT_902941,Oni-Style Kimono Blue Shoes (M),Oni-Style Kimono Blue Shoes (M)
-PROPITEM_TXT_902942,Oni-Style Kimono 8% Blue Set (M),Oni-Style Kimono 8% Blue Set (M)
-PROPITEM_TXT_902943,The Oni-Style Kimono 8% Blue Set for male characters.,The Oni-Style Kimono 8% Blue Set for male characters.
-PROPITEM_TXT_902944,Oni-Style Kimono Blue Hat (F),Oni-Style Kimono Blue Hat (F)
-PROPITEM_TXT_902945,Oni-Style Kimono Blue Suit (F),Oni-Style Kimono Blue Suit (F)
-PROPITEM_TXT_902946,Oni-Style Kimono Blue Shoes (F),Oni-Style Kimono Blue Shoes (F)
-PROPITEM_TXT_902947,Oni-Style Kimono 8% Blue Set (F),Oni-Style Kimono 8% Blue Set (F)
-PROPITEM_TXT_902948,The Oni-Style Kimono 8% Blue Set for female characters.,The Oni-Style Kimono 8% Blue Set for female characters.
-PROPITEM_TXT_902949,Oni-Style Kimono 8% Green Set,Oni-Style Kimono 8% Green Set
-PROPITEM_TXT_902950,Oni-Style Kimono Green Bag,Oni-Style Kimono Green Bag
-PROPITEM_TXT_902951,Oni-Style Kimono Green Mask,Oni-Style Kimono Green Mask
-PROPITEM_TXT_902952,Oni-Style Kimono Green Hat (M),Oni-Style Kimono Green Hat (M)
-PROPITEM_TXT_902953,Oni-Style Kimono Green Suit (M),Oni-Style Kimono Green Suit (M)
-PROPITEM_TXT_902954,Oni-Style Kimono Green Shoes (M),Oni-Style Kimono Green Shoes (M)
-PROPITEM_TXT_902955,Oni-Style Kimono 8% Green Set (M),Oni-Style Kimono 8% Green Set (M)
-PROPITEM_TXT_902956,The Oni-Style Kimono 8% Green Set for male characters.,The Oni-Style Kimono 8% Green Set for male characters.
-PROPITEM_TXT_902957,Oni-Style Kimono Green Hat (F),Oni-Style Kimono Green Hat (F)
-PROPITEM_TXT_902958,Oni-Style Kimono Green Suit (F),Oni-Style Kimono Green Suit (F)
-PROPITEM_TXT_902959,Oni-Style Kimono Green Shoes (F),Oni-Style Kimono Green Shoes (F)
-PROPITEM_TXT_902960,Oni-Style Kimono 8% Green Set (F),Oni-Style Kimono 8% Green Set (F)
-PROPITEM_TXT_902961,The Oni-Style Kimono 8% Green Set for female characters.,The Oni-Style Kimono 8% Green Set for female characters.
-PROPITEM_TXT_902962,Oni-Style Kimono 6% Purple Set,Oni-Style Kimono 6% Purple Set
-PROPITEM_TXT_902963,Oni-Style Kimono Purple Bag,Oni-Style Kimono Purple Bag
-PROPITEM_TXT_902964,Oni-Style Kimono Purple Mask,Oni-Style Kimono Purple Mask
-PROPITEM_TXT_902965,Oni-Style Kimono Purple Hat (M),Oni-Style Kimono Purple Hat (M)
-PROPITEM_TXT_902966,Oni-Style Kimono Purple Suit (M),Oni-Style Kimono Purple Suit (M)
-PROPITEM_TXT_902967,Oni-Style Kimono Purple Shoes (M),Oni-Style Kimono Purple Shoes (M)
-PROPITEM_TXT_902968,Oni-Style Kimono 6% Purple Set (M),Oni-Style Kimono 6% Purple Set (M)
-PROPITEM_TXT_902969,The Oni-Style Kimono 6% Purple Set for male characters.,The Oni-Style Kimono 6% Purple Set for male characters.
-PROPITEM_TXT_902970,Oni-Style Kimono Purple Hat (F),Oni-Style Kimono Purple Hat (F)
-PROPITEM_TXT_902971,Oni-Style Kimono Purple Suit (F),Oni-Style Kimono Purple Suit (F)
-PROPITEM_TXT_902972,Oni-Style Kimono Purple Shoes (F),Oni-Style Kimono Purple Shoes (F)
-PROPITEM_TXT_902973,Oni-Style Kimono 6% Purple Set (F),Oni-Style Kimono 6% Purple Set (F)
-PROPITEM_TXT_902974,The Oni-Style Kimono 6% Purple Set for female characters.,The Oni-Style Kimono 6% Purple Set for female characters.
-PROPITEM_TXT_902975,Oni-Style Kimono 4% Gold Set,Oni-Style Kimono 4% Gold Set
-PROPITEM_TXT_902976,Oni-Style Kimono Gold Bag,Oni-Style Kimono Gold Bag
-PROPITEM_TXT_902977,Oni-Style Kimono Gold Mask,Oni-Style Kimono Gold Mask
-PROPITEM_TXT_902978,Oni-Style Kimono Gold Hat (M),Oni-Style Kimono Gold Hat (M)
-PROPITEM_TXT_902979,Oni-Style Kimono Gold Suit (M),Oni-Style Kimono Gold Suit (M)
-PROPITEM_TXT_902980,Oni-Style Kimono Gold Shoes (M),Oni-Style Kimono Gold Shoes (M)
-PROPITEM_TXT_902981,Oni-Style Kimono 4% Gold Set (M),Oni-Style Kimono 4% Gold Set (M)
-PROPITEM_TXT_902982,The Oni-Style Kimono 4% Gold Set for male characters.,The Oni-Style Kimono 4% Gold Set for male characters.
-PROPITEM_TXT_902983,Oni-Style Kimono Gold Hat (F),Oni-Style Kimono Gold Hat (F)
-PROPITEM_TXT_902984,Oni-Style Kimono Gold Suit (F),Oni-Style Kimono Gold Suit (F)
-PROPITEM_TXT_902985,Oni-Style Kimono Gold Shoes (F),Oni-Style Kimono Gold Shoes (F)
-PROPITEM_TXT_902986,Oni-Style Kimono 4% Gold Set (F),Oni-Style Kimono 4% Gold Set (F)
-PROPITEM_TXT_902987,The Oni-Style Kimono 4% Gold Set for female characters.,The Oni-Style Kimono 4% Gold Set for female characters.
-PROPITEM_TXT_902988,Oni-Style Kimono 2% Gold black Set,Oni-Style Kimono 2% Gold black Set
-PROPITEM_TXT_902989,Oni-Style Kimono Gold black Bag,Oni-Style Kimono Gold black Bag
-PROPITEM_TXT_902990,Oni-Style Kimono Gold black Mask,Oni-Style Kimono Gold black Mask
-PROPITEM_TXT_902991,Oni-Style Kimono Gold black Hat (M),Oni-Style Kimono Gold black Hat (M)
-PROPITEM_TXT_902992,Oni-Style Kimono Gold black Suit (M),Oni-Style Kimono Gold black Suit (M)
-PROPITEM_TXT_902993,Oni-Style Kimono Gold black Shoes (M),Oni-Style Kimono Gold black Shoes (M)
-PROPITEM_TXT_902994,Oni-Style Kimono 2% Gold black Set (M),Oni-Style Kimono 2% Gold black Set (M)
-PROPITEM_TXT_902995,The Oni-Style Kimono 2% Gold black Set for male characters.,The Oni-Style Kimono 2% Gold black Set for male characters.
-PROPITEM_TXT_902996,Oni-Style Kimono Gold black Hat (F),Oni-Style Kimono Gold black Hat (F)
-PROPITEM_TXT_902997,Oni-Style Kimono Gold black Suit (F),Oni-Style Kimono Gold black Suit (F)
-PROPITEM_TXT_902998,Oni-Style Kimono Gold black Shoes (F),Oni-Style Kimono Gold black Shoes (F)
-PROPITEM_TXT_902999,Oni-Style Kimono 2% Gold black Set (F),Oni-Style Kimono 2% Gold black Set (F)
-PROPITEM_TXT_903000,The Oni-Style Kimono 2% Gold black Set for female characters.,The Oni-Style Kimono 2% Gold black Set for female characters.
-PROPITEM_TXT_903001,Oni-Style Kimono 2% Black Set,Oni-Style Kimono 2% Black Set
-PROPITEM_TXT_903002,Oni-Style Kimono Black Bag,Oni-Style Kimono Black Bag
-PROPITEM_TXT_903003,Oni-Style Kimono Black Mask,Oni-Style Kimono Black Mask
-PROPITEM_TXT_903004,Oni-Style Kimono Black Hat (M),Oni-Style Kimono Black Hat (M)
-PROPITEM_TXT_903005,Oni-Style Kimono Black Suit (M),Oni-Style Kimono Black Suit (M)
-PROPITEM_TXT_903006,Oni-Style Kimono Black Shoes (M),Oni-Style Kimono Black Shoes (M)
-PROPITEM_TXT_903007,Oni-Style Kimono 2% Black Set (M),Oni-Style Kimono 2% Black Set (M)
-PROPITEM_TXT_903008,The Oni-Style Kimono 2% Black Set for male characters.,The Oni-Style Kimono 2% Black Set for male characters.
-PROPITEM_TXT_903009,Oni-Style Kimono Black Hat (F),Oni-Style Kimono Black Hat (F)
-PROPITEM_TXT_903010,Oni-Style Kimono Black Suit (F),Oni-Style Kimono Black Suit (F)
-PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),Oni-Style Kimono Black Shoes (F)
-PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),Oni-Style Kimono 2% Black Set (F)
-PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,The Oni-Style Kimono 2% Black Set for female characters.
-PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,Oni-Style Kimono Costume Lucky Box
-PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903016,2026 Valentine 10% Red Set,2026 Valentine 10% Red Set
-PROPITEM_TXT_903017,2026 Valentine Red Cloak,2026 Valentine Red Cloak
-PROPITEM_TXT_903018,2026 Valentine Red Glasses,2026 Valentine Red Glasses
-PROPITEM_TXT_903019,2026 Valentine Red Hat (M),2026 Valentine Red Hat (M)
-PROPITEM_TXT_903020,2026 Valentine Red Suit (M),2026 Valentine Red Suit (M)
-PROPITEM_TXT_903021,2026 Valentine Red Shoes (M),2026 Valentine Red Shoes (M)
-PROPITEM_TXT_903022,2026 Valentine 10% Red Set (M),2026 Valentine 10% Red Set (M)
-PROPITEM_TXT_903023,The 2026 Valentine 10% Red Set for male characters.,The 2026 Valentine 10% Red Set for male characters.
-PROPITEM_TXT_903024,2026 Valentine Red Hat (F),2026 Valentine Red Hat (F)
-PROPITEM_TXT_903025,2026 Valentine Red Suit (F),2026 Valentine Red Suit (F)
-PROPITEM_TXT_903026,2026 Valentine Red Shoes (F),2026 Valentine Red Shoes (F)
-PROPITEM_TXT_903027,2026 Valentine 10% Red Set (F),2026 Valentine 10% Red Set (F)
-PROPITEM_TXT_903028,The 2026 Valentine 10% Red Set for female characters.,The 2026 Valentine 10% Red Set for female characters.
-PROPITEM_TXT_903029,2026 Valentine 10% Orange Set,2026 Valentine 10% Orange Set
-PROPITEM_TXT_903030,2026 Valentine Orange Cloak,2026 Valentine Orange Cloak
-PROPITEM_TXT_903031,2026 Valentine Orange Glasses,2026 Valentine Orange Glasses
-PROPITEM_TXT_903032,2026 Valentine Orange Hat (M),2026 Valentine Orange Hat (M)
-PROPITEM_TXT_903033,2026 Valentine Orange Suit (M),2026 Valentine Orange Suit (M)
-PROPITEM_TXT_903034,2026 Valentine Orange Shoes (M),2026 Valentine Orange Shoes (M)
-PROPITEM_TXT_903035,2026 Valentine 10% Orange Set (M),2026 Valentine 10% Orange Set (M)
-PROPITEM_TXT_903036,The 2026 Valentine 10% Orange Set for male characters.,The 2026 Valentine 10% Orange Set for male characters.
-PROPITEM_TXT_903037,2026 Valentine Orange Hat (F),2026 Valentine Orange Hat (F)
-PROPITEM_TXT_903038,2026 Valentine Orange Suit (F),2026 Valentine Orange Suit (F)
-PROPITEM_TXT_903039,2026 Valentine Orange Shoes (F),2026 Valentine Orange Shoes (F)
-PROPITEM_TXT_903040,2026 Valentine 10% Orange Set (F),2026 Valentine 10% Orange Set (F)
-PROPITEM_TXT_903041,The 2026 Valentine 10% Orange Set for female characters.,The 2026 Valentine 10% Orange Set for female characters.
-PROPITEM_TXT_903042,2026 Valentine 8% Yellow Set,2026 Valentine 8% Yellow Set
-PROPITEM_TXT_903043,2026 Valentine Yellow Cloak,2026 Valentine Yellow Cloak
-PROPITEM_TXT_903044,2026 Valentine Yellow Glasses,2026 Valentine Yellow Glasses
-PROPITEM_TXT_903045,2026 Valentine Yellow Hat (M),2026 Valentine Yellow Hat (M)
-PROPITEM_TXT_903046,2026 Valentine Yellow Suit (M),2026 Valentine Yellow Suit (M)
-PROPITEM_TXT_903047,2026 Valentine Yellow Shoes (M),2026 Valentine Yellow Shoes (M)
-PROPITEM_TXT_903048,2026 Valentine 8% Yellow Set (M),2026 Valentine 8% Yellow Set (M)
-PROPITEM_TXT_903049,The 2026 Valentine 8% Yellow Set for male characters.,The 2026 Valentine 8% Yellow Set for male characters.
-PROPITEM_TXT_903050,2026 Valentine Yellow Hat (F),2026 Valentine Yellow Hat (F)
-PROPITEM_TXT_903051,2026 Valentine Yellow Suit (F),2026 Valentine Yellow Suit (F)
-PROPITEM_TXT_903052,2026 Valentine Yellow Shoes (F),2026 Valentine Yellow Shoes (F)
-PROPITEM_TXT_903053,2026 Valentine 8% Yellow Set (F),2026 Valentine 8% Yellow Set (F)
-PROPITEM_TXT_903054,The 2026 Valentine 8% Yellow Set for female characters.,The 2026 Valentine 8% Yellow Set for female characters.
-PROPITEM_TXT_903055,2026 Valentine 8% Green Set,2026 Valentine 8% Green Set
-PROPITEM_TXT_903056,2026 Valentine Green Cloak,2026 Valentine Green Cloak
-PROPITEM_TXT_903057,2026 Valentine Green Glasses,2026 Valentine Green Glasses
-PROPITEM_TXT_903058,2026 Valentine Green Hat (M),2026 Valentine Green Hat (M)
-PROPITEM_TXT_903059,2026 Valentine Green Suit (M),2026 Valentine Green Suit (M)
-PROPITEM_TXT_903060,2026 Valentine Green Shoes (M),2026 Valentine Green Shoes (M)
-PROPITEM_TXT_903061,2026 Valentine 8% Green Set (M),2026 Valentine 8% Green Set (M)
-PROPITEM_TXT_903062,The 2026 Valentine 8% Green Set for male characters.,The 2026 Valentine 8% Green Set for male characters.
-PROPITEM_TXT_903063,2026 Valentine Green Hat (F),2026 Valentine Green Hat (F)
-PROPITEM_TXT_903064,2026 Valentine Green Suit (F),2026 Valentine Green Suit (F)
-PROPITEM_TXT_903065,2026 Valentine Green Shoes (F),2026 Valentine Green Shoes (F)
-PROPITEM_TXT_903066,2026 Valentine 8% Green Set (F),2026 Valentine 8% Green Set (F)
-PROPITEM_TXT_903067,The 2026 Valentine 8% Green Set for female characters.,The 2026 Valentine 8% Green Set for female characters.
-PROPITEM_TXT_903068,2026 Valentine 6% Blue Set,2026 Valentine 6% Blue Set
-PROPITEM_TXT_903069,2026 Valentine Blue Cloak,2026 Valentine Blue Cloak
-PROPITEM_TXT_903070,2026 Valentine Blue Glasses,2026 Valentine Blue Glasses
-PROPITEM_TXT_903071,2026 Valentine Blue Hat (M),2026 Valentine Blue Hat (M)
-PROPITEM_TXT_903072,2026 Valentine Blue Suit (M),2026 Valentine Blue Suit (M)
-PROPITEM_TXT_903073,2026 Valentine Blue Shoes (M),2026 Valentine Blue Shoes (M)
-PROPITEM_TXT_903074,2026 Valentine 6% Blue Set (M),2026 Valentine 6% Blue Set (M)
-PROPITEM_TXT_903075,The 2026 Valentine 6% Blue Set for male characters.,The 2026 Valentine 6% Blue Set for male characters.
-PROPITEM_TXT_903076,2026 Valentine Blue Hat (F),2026 Valentine Blue Hat (F)
-PROPITEM_TXT_903077,2026 Valentine Blue Suit (F),2026 Valentine Blue Suit (F)
-PROPITEM_TXT_903078,2026 Valentine Blue Shoes (F),2026 Valentine Blue Shoes (F)
-PROPITEM_TXT_903079,2026 Valentine 6% Blue Set (F),2026 Valentine 6% Blue Set (F)
-PROPITEM_TXT_903080,The 2026 Valentine 6% Blue Set for female characters.,The 2026 Valentine 6% Blue Set for female characters.
-PROPITEM_TXT_903081,2026 Valentine 4% Purple Set,2026 Valentine 4% Purple Set
-PROPITEM_TXT_903082,2026 Valentine Purple Cloak,2026 Valentine Purple Cloak
-PROPITEM_TXT_903083,2026 Valentine Purple Glasses,2026 Valentine Purple Glasses
-PROPITEM_TXT_903084,2026 Valentine Purple Hat (M),2026 Valentine Purple Hat (M)
-PROPITEM_TXT_903085,2026 Valentine Purple Suit (M),2026 Valentine Purple Suit (M)
-PROPITEM_TXT_903086,2026 Valentine Purple Shoes (M),2026 Valentine Purple Shoes (M)
-PROPITEM_TXT_903087,2026 Valentine 4% Purple Set (M),2026 Valentine 4% Purple Set (M)
-PROPITEM_TXT_903088,The 2026 Valentine 4% Purple Set for male characters.,The 2026 Valentine 4% Purple Set for male characters.
-PROPITEM_TXT_903089,2026 Valentine Purple Hat (F),2026 Valentine Purple Hat (F)
-PROPITEM_TXT_903090,2026 Valentine Purple Suit (F),2026 Valentine Purple Suit (F)
-PROPITEM_TXT_903091,2026 Valentine Purple Shoes (F),2026 Valentine Purple Shoes (F)
-PROPITEM_TXT_903092,2026 Valentine 4% Purple Set (F),2026 Valentine 4% Purple Set (F)
-PROPITEM_TXT_903093,The 2026 Valentine 4% Purple Set for female characters.,The 2026 Valentine 4% Purple Set for female characters.
-PROPITEM_TXT_903094,2026 Valentine 2% Pink Set,2026 Valentine 2% Pink Set
-PROPITEM_TXT_903095,2026 Valentine Pink Cloak,2026 Valentine Pink Cloak
-PROPITEM_TXT_903096,2026 Valentine Pink Glasses,2026 Valentine Pink Glasses
-PROPITEM_TXT_903097,2026 Valentine Pink Hat (M),2026 Valentine Pink Hat (M)
-PROPITEM_TXT_903098,2026 Valentine Pink Suit (M),2026 Valentine Pink Suit (M)
-PROPITEM_TXT_903099,2026 Valentine Pink Shoes (M),2026 Valentine Pink Shoes (M)
-PROPITEM_TXT_903100,2026 Valentine 2% Pink Set (M),2026 Valentine 2% Pink Set (M)
-PROPITEM_TXT_903101,The 2026 Valentine 2% Pink Set for male characters.,The 2026 Valentine 2% Pink Set for male characters.
-PROPITEM_TXT_903102,2026 Valentine Pink Hat (F),2026 Valentine Pink Hat (F)
-PROPITEM_TXT_903103,2026 Valentine Pink Suit (F),2026 Valentine Pink Suit (F)
-PROPITEM_TXT_903104,2026 Valentine Pink Shoes (F),2026 Valentine Pink Shoes (F)
-PROPITEM_TXT_903105,2026 Valentine 2% Pink Set (F),2026 Valentine 2% Pink Set (F)
-PROPITEM_TXT_903106,The 2026 Valentine 2% Pink Set for female characters.,The 2026 Valentine 2% Pink Set for female characters.
-PROPITEM_TXT_903107,2026 Valentine 2% Brown Set,2026 Valentine 2% Brown Set
-PROPITEM_TXT_903108,2026 Valentine Brown Cloak,2026 Valentine Brown Cloak
-PROPITEM_TXT_903109,2026 Valentine Brown Glasses,2026 Valentine Brown Glasses
-PROPITEM_TXT_903110,2026 Valentine Brown Hat (M),2026 Valentine Brown Hat (M)
-PROPITEM_TXT_903111,2026 Valentine Brown Suit (M),2026 Valentine Brown Suit (M)
-PROPITEM_TXT_903112,2026 Valentine Brown Shoes (M),2026 Valentine Brown Shoes (M)
-PROPITEM_TXT_903113,2026 Valentine 2% Brown Set (M),2026 Valentine 2% Brown Set (M)
-PROPITEM_TXT_903114,The 2026 Valentine 2% Brown Set for male characters.,The 2026 Valentine 2% Brown Set for male characters.
-PROPITEM_TXT_903115,2026 Valentine Brown Hat (F),2026 Valentine Brown Hat (F)
-PROPITEM_TXT_903116,2026 Valentine Brown Suit (F),2026 Valentine Brown Suit (F)
-PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),2026 Valentine Brown Shoes (F)
-PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),2026 Valentine 2% Brown Set (F)
-PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,The 2026 Valentine 2% Brown Set for female characters.
-PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,2026 Valentine Costume Lucky Box
-PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903122,2026 Lunar New Year Coupon,2026 Lunar New Year Coupon
-PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.","A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked."
-PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Flyffer's Flying Select Box (15 days)
-PROPITEM_TXT_903125,"This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!","This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!"
+PROPITEM_TXT_902812,Heart Punk 10% Pink Set,Set Heart Punk Rose 10%
+PROPITEM_TXT_902813,Heart Punk Pink Aibag,Aibag Heart Punk Rose
+PROPITEM_TXT_902814,Heart Punk Pink Mask,Masque Heart Punk Rose
+PROPITEM_TXT_902815,Heart Punk Pink Hat (M),Chapeau Heart Punk Rose (H)
+PROPITEM_TXT_902816,Heart Punk Pink Suit (M),Costume Heart Punk Rose (H)
+PROPITEM_TXT_902817,Heart Punk Pink Shoes (M),Chaussures Heart Punk Rose (H)
+PROPITEM_TXT_902818,Heart Punk Pink Hands (M),Gants Heart Punk Rose (H)
+PROPITEM_TXT_902819,Heart Punk 10% Pink Set (M),Set Heart Punk Rose 10% (H)
+PROPITEM_TXT_902820,The Heart Punk 10% Pink Set for male characters.,Le set Heart Punk Rose 10% pour personnages masculins.
+PROPITEM_TXT_902821,Heart Punk Pink Hat (F),Chapeau Heart Punk Rose (F)
+PROPITEM_TXT_902822,Heart Punk Pink Suit (F),Costume Heart Punk Rose (F)
+PROPITEM_TXT_902823,Heart Punk Pink Shoes (F),Chaussures Heart Punk Rose (F)
+PROPITEM_TXT_902824,Heart Punk Pink Hands (F),Gants Heart Punk Rose (F)
+PROPITEM_TXT_902825,Heart Punk 10% Pink Set (F),Set Heart Punk Rose 10% (F)
+PROPITEM_TXT_902826,The Heart Punk 10% Pink Set for female characters.,Le set Heart Punk Rose 10% pour personnages féminins.
+PROPITEM_TXT_902827,Heart Punk 8% White Set,Set Heart Punk Blanc 8%
+PROPITEM_TXT_902828,Heart Punk White Aibag,Aibag Heart Punk Blanc
+PROPITEM_TXT_902829,Heart Punk White Mask,Masque Heart Punk Blanc
+PROPITEM_TXT_902830,Heart Punk White Hat (M),Chapeau Heart Punk Blanc (H)
+PROPITEM_TXT_902831,Heart Punk White Suit (M),Costume Heart Punk Blanc (H)
+PROPITEM_TXT_902832,Heart Punk White Shoes (M),Chaussures Heart Punk Blanc (H)
+PROPITEM_TXT_902833,Heart Punk White Hands (M),Gants Heart Punk Blanc (H)
+PROPITEM_TXT_902834,Heart Punk 8% White Set (M),Set Heart Punk Blanc 8% (H)
+PROPITEM_TXT_902835,The Heart Punk 8% White Set for male characters.,Le set Heart Punk Blanc 8% pour personnages masculins.
+PROPITEM_TXT_902836,Heart Punk White Hat (F),Chapeau Heart Punk Blanc (F)
+PROPITEM_TXT_902837,Heart Punk White Suit (F),Costume Heart Punk Blanc (F)
+PROPITEM_TXT_902838,Heart Punk White Shoes (F),Chaussures Heart Punk Blanc (F)
+PROPITEM_TXT_902839,Heart Punk White Hands (F),Gants Heart Punk Blanc (F)
+PROPITEM_TXT_902840,Heart Punk 8% White Set (F),Set Heart Punk Blanc 8% (F)
+PROPITEM_TXT_902841,The Heart Punk 8% White Set for female characters.,Le set Heart Punk Blanc 8% pour personnages féminins.
+PROPITEM_TXT_902842,Heart Punk 6% Golden Set,Set Heart Punk Doré 6%
+PROPITEM_TXT_902843,Heart Punk Golden Aibag,Aibag Heart Punk Doré
+PROPITEM_TXT_902844,Heart Punk Golden Mask,Masque Heart Punk Doré
+PROPITEM_TXT_902845,Heart Punk Golden Hat (M),Chapeau Heart Punk Doré (H)
+PROPITEM_TXT_902846,Heart Punk Golden Suit (M),Costume Heart Punk Doré (H)
+PROPITEM_TXT_902847,Heart Punk Golden Shoes (M),Chaussures Heart Punk Doré (H)
+PROPITEM_TXT_902848,Heart Punk Golden Hands (M),Gants Heart Punk Doré (H)
+PROPITEM_TXT_902849,Heart Punk 6% Golden Set (M),Set Heart Punk Doré 6% (H)
+PROPITEM_TXT_902850,The Heart Punk 6% Golden Set for male characters.,Le set Heart Punk Doré 6% pour personnages masculins.
+PROPITEM_TXT_902851,Heart Punk Golden Hat (F),Chapeau Heart Punk Doré (F)
+PROPITEM_TXT_902852,Heart Punk Golden Suit (F),Costume Heart Punk Doré (F)
+PROPITEM_TXT_902853,Heart Punk Golden Shoes (F),Chaussures Heart Punk Doré (F)
+PROPITEM_TXT_902854,Heart Punk Golden Hands (F),Gants Heart Punk Doré (F)
+PROPITEM_TXT_902855,Heart Punk 6% Golden Set (F),Set Heart Punk Doré 6% (F)
+PROPITEM_TXT_902856,The Heart Punk 6% Golden Set for female characters.,Le set Heart Punk Doré 6% pour personnages féminins.
+PROPITEM_TXT_902857,Heart Punk 4% Blue Set,Set Heart Punk Bleu 4%
+PROPITEM_TXT_902858,Heart Punk Blue Aibag,Aibag Heart Punk Bleu
+PROPITEM_TXT_902859,Heart Punk Blue Mask,Masque Heart Punk Bleu
+PROPITEM_TXT_902860,Heart Punk Blue Hat (M),Chapeau Heart Punk Bleu (H)
+PROPITEM_TXT_902861,Heart Punk Blue Suit (M),Costume Heart Punk Bleu (H)
+PROPITEM_TXT_902862,Heart Punk Blue Shoes (M),Chaussures Heart Punk Bleu (H)
+PROPITEM_TXT_902863,Heart Punk Blue Hands (M),Gants Heart Punk Bleu (H)
+PROPITEM_TXT_902864,Heart Punk 4% Blue Set (M),Set Heart Punk Bleu 4% (H)
+PROPITEM_TXT_902865,The Heart Punk 4% Blue Set for male characters.,Le set Heart Punk Bleu 4% pour personnages masculins.
+PROPITEM_TXT_902866,Heart Punk Blue Hat (F),Chapeau Heart Punk Bleu (F)
+PROPITEM_TXT_902867,Heart Punk Blue Suit (F),Costume Heart Punk Bleu (F)
+PROPITEM_TXT_902868,Heart Punk Blue Shoes (F),Chaussures Heart Punk Bleu (F)
+PROPITEM_TXT_902869,Heart Punk Blue Hands (F),Gants Heart Punk Bleu (F)
+PROPITEM_TXT_902870,Heart Punk 4% Blue Set (F),Set Heart Punk Bleu 4% (F)
+PROPITEM_TXT_902871,The Heart Punk 4% Blue Set for female characters.,Le set Heart Punk Bleu 4% pour personnages féminins.
+PROPITEM_TXT_902872,Heart Punk 2% Purple Set,Set Heart Punk Violet 2%
+PROPITEM_TXT_902873,Heart Punk Purple Aibag,Aibag Heart Punk Violet
+PROPITEM_TXT_902874,Heart Punk Purple Mask,Masque Heart Punk Violet
+PROPITEM_TXT_902875,Heart Punk Purple Hat (M),Chapeau Heart Punk Violet (H)
+PROPITEM_TXT_902876,Heart Punk Purple Suit (M),Costume Heart Punk Violet (H)
+PROPITEM_TXT_902877,Heart Punk Purple Shoes (M),Chaussures Heart Punk Violet (H)
+PROPITEM_TXT_902878,Heart Punk Purple Hands (M),Gants Heart Punk Violet (H)
+PROPITEM_TXT_902879,Heart Punk 2% Purple Set (M),Set Heart Punk Violet 2% (H)
+PROPITEM_TXT_902880,The Heart Punk 2% Purple Set for male characters.,Le set Heart Punk Violet 2% pour personnages masculins.
+PROPITEM_TXT_902881,Heart Punk Purple Hat (F),Chapeau Heart Punk Violet (F)
+PROPITEM_TXT_902882,Heart Punk Purple Suit (F),Costume Heart Punk Violet (F)
+PROPITEM_TXT_902883,Heart Punk Purple Shoes (F),Chaussures Heart Punk Violet (F)
+PROPITEM_TXT_902884,Heart Punk Purple Hands (F),Gants Heart Punk Violet (F)
+PROPITEM_TXT_902885,Heart Punk 2% Purple Set (F),Set Heart Punk Violet 2% (F)
+PROPITEM_TXT_902886,The Heart Punk 2% Purple Set for female characters.,Le set Heart Punk Violet 2% pour personnages féminins.
+PROPITEM_TXT_902887,Heart Punk 2% Red Set,Set Heart Punk Rouge 2%
+PROPITEM_TXT_902888,Heart Punk Red Aibag,Aibag Heart Punk Rouge
+PROPITEM_TXT_902889,Heart Punk Red Mask,Masque Heart Punk Rouge
+PROPITEM_TXT_902890,Heart Punk Red Hat (M),Chapeau Heart Punk Rouge (H)
+PROPITEM_TXT_902891,Heart Punk Red Suit (M),Costume Heart Punk Rouge (H)
+PROPITEM_TXT_902892,Heart Punk Red Shoes (M),Chaussures Heart Punk Rouge (H)
+PROPITEM_TXT_902893,Heart Punk Red Hands (M),Gants Heart Punk Rouge (H)
+PROPITEM_TXT_902894,Heart Punk 2% Red Set (M),Set Heart Punk Rouge 2% (H)
+PROPITEM_TXT_902895,The Heart Punk 2% Red Set for male characters.,Le set Heart Punk Rouge 2% pour personnages masculins.
+PROPITEM_TXT_902896,Heart Punk Red Hat (F),Chapeau Heart Punk Rouge (F)
+PROPITEM_TXT_902897,Heart Punk Red Suit (F),Costume Heart Punk Rouge (F)
+PROPITEM_TXT_902898,Heart Punk Red Shoes (F),Chaussures Heart Punk Rouge (F)
+PROPITEM_TXT_902899,Heart Punk Red Hands (F),Gants Heart Punk Rouge (F)
+PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),Set Heart Punk Rouge 2% (F)
+PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,Le set Heart Punk Rouge 2% pour personnages féminins.
+PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,Boîte Surprise Costume Heart Punk
+PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Heart Punk avec bonus de vitesse. Vous pourrez choisir le genre après ouverture.
+PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,Voiture de Luxe Heart Punk Rose
+PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Roulez avec élégance et romantisme grâce à la Voiture de Luxe Heart Punk Rose, un véhicule somptueux au style rose emblématique. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,Voiture de Luxe Heart Punk Jaune
+PROPITEM_TXT_902907,"Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h.","Roulez avec élégance et romantisme grâce à la Voiture de Luxe Heart Punk Jaune, un véhicule somptueux au style jaune emblématique. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_902908,Heart Punk Luxury Car Purple,Voiture de Luxe Heart Punk Violette
+PROPITEM_TXT_902909,"Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h.","Roulez avec élégance et romantisme grâce à la Voiture de Luxe Heart Punk Violette, un véhicule somptueux au style violet emblématique. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_902910,Oni-Style Kimono 10% Red Set,Set Kimono Style Oni Rouge 10%
+PROPITEM_TXT_902911,Oni-Style Kimono Red Bag,Sac Kimono Style Oni Rouge
+PROPITEM_TXT_902912,Oni-Style Kimono Red Mask,Masque Kimono Style Oni Rouge
+PROPITEM_TXT_902913,Oni-Style Kimono Red Hat (M),Chapeau Kimono Style Oni Rouge (M)
+PROPITEM_TXT_902914,Oni-Style Kimono Red Suit (M),Tenue Kimono Style Oni Rouge (M)
+PROPITEM_TXT_902915,Oni-Style Kimono Red Shoes (M),Chaussures Kimono Style Oni Rouge (M)
+PROPITEM_TXT_902916,Oni-Style Kimono 10% Red Set (M),Set Kimono Style Oni Rouge 10% (M)
+PROPITEM_TXT_902917,The Oni-Style Kimono 10% Red Set for male characters.,Le set Kimono Style Oni Rouge 10% pour personnages masculins.
+PROPITEM_TXT_902918,Oni-Style Kimono Red Hat (F),Chapeau Kimono Style Oni Rouge (F)
+PROPITEM_TXT_902919,Oni-Style Kimono Red Suit (F),Tenue Kimono Style Oni Rouge (F)
+PROPITEM_TXT_902920,Oni-Style Kimono Red Shoes (F),Chaussures Kimono Style Oni Rouge (F)
+PROPITEM_TXT_902921,Oni-Style Kimono 10% Red Set (F),Set Kimono Style Oni Rouge 10% (F)
+PROPITEM_TXT_902922,The Oni-Style Kimono 10% Red Set for female characters.,Le set Kimono Style Oni Rouge 10% pour personnages féminins.
+PROPITEM_TXT_902923,Oni-Style Kimono 10% Pink Set,Set Kimono Style Oni Rose 10%
+PROPITEM_TXT_902924,Oni-Style Kimono Pink Bag,Sac Kimono Style Oni Rose
+PROPITEM_TXT_902925,Oni-Style Kimono Pink Mask,Masque Kimono Style Oni Rose
+PROPITEM_TXT_902926,Oni-Style Kimono Pink Hat (M),Chapeau Kimono Style Oni Rose (M)
+PROPITEM_TXT_902927,Oni-Style Kimono Pink Suit (M),Tenue Kimono Style Oni Rose (M)
+PROPITEM_TXT_902928,Oni-Style Kimono Pink Shoes (M),Chaussures Kimono Style Oni Rose (M)
+PROPITEM_TXT_902929,Oni-Style Kimono 10% Pink Set (M),Set Kimono Style Oni Rose 10% (M)
+PROPITEM_TXT_902930,The Oni-Style Kimono 10% Pink Set for male characters.,Le set Kimono Style Oni Rose 10% pour personnages masculins.
+PROPITEM_TXT_902931,Oni-Style Kimono Pink Hat (F),Chapeau Kimono Style Oni Rose (F)
+PROPITEM_TXT_902932,Oni-Style Kimono Pink Suit (F),Tenue Kimono Style Oni Rose (F)
+PROPITEM_TXT_902933,Oni-Style Kimono Pink Shoes (F),Chaussures Kimono Style Oni Rose (F)
+PROPITEM_TXT_902934,Oni-Style Kimono 10% Pink Set (F),Set Kimono Style Oni Rose 10% (F)
+PROPITEM_TXT_902935,The Oni-Style Kimono 10% Pink Set for female characters.,Le set Kimono Style Oni Rose 10% pour personnages féminins.
+PROPITEM_TXT_902936,Oni-Style Kimono 8% Blue Set,Set Kimono Style Oni Bleu 8%
+PROPITEM_TXT_902937,Oni-Style Kimono Blue Bag,Sac Kimono Style Oni Bleu
+PROPITEM_TXT_902938,Oni-Style Kimono Blue Mask,Masque Kimono Style Oni Bleu
+PROPITEM_TXT_902939,Oni-Style Kimono Blue Hat (M),Chapeau Kimono Style Oni Bleu (M)
+PROPITEM_TXT_902940,Oni-Style Kimono Blue Suit (M),Tenue Kimono Style Oni Bleu (M)
+PROPITEM_TXT_902941,Oni-Style Kimono Blue Shoes (M),Chaussures Kimono Style Oni Bleu (M)
+PROPITEM_TXT_902942,Oni-Style Kimono 8% Blue Set (M),Set Kimono Style Oni Bleu 8% (M)
+PROPITEM_TXT_902943,The Oni-Style Kimono 8% Blue Set for male characters.,Le set Kimono Style Oni Bleu 8% pour personnages masculins.
+PROPITEM_TXT_902944,Oni-Style Kimono Blue Hat (F),Chapeau Kimono Style Oni Bleu (F)
+PROPITEM_TXT_902945,Oni-Style Kimono Blue Suit (F),Tenue Kimono Style Oni Bleu (F)
+PROPITEM_TXT_902946,Oni-Style Kimono Blue Shoes (F),Chaussures Kimono Style Oni Bleu (F)
+PROPITEM_TXT_902947,Oni-Style Kimono 8% Blue Set (F),Set Kimono Style Oni Bleu 8% (F)
+PROPITEM_TXT_902948,The Oni-Style Kimono 8% Blue Set for female characters.,Le set Kimono Style Oni Bleu 8% pour personnages féminins.
+PROPITEM_TXT_902949,Oni-Style Kimono 8% Green Set,Set Kimono Style Oni Vert 8%
+PROPITEM_TXT_902950,Oni-Style Kimono Green Bag,Sac Kimono Style Oni Vert
+PROPITEM_TXT_902951,Oni-Style Kimono Green Mask,Masque Kimono Style Oni Vert
+PROPITEM_TXT_902952,Oni-Style Kimono Green Hat (M),Chapeau Kimono Style Oni Vert (M)
+PROPITEM_TXT_902953,Oni-Style Kimono Green Suit (M),Tenue Kimono Style Oni Vert (M)
+PROPITEM_TXT_902954,Oni-Style Kimono Green Shoes (M),Chaussures Kimono Style Oni Vert (M)
+PROPITEM_TXT_902955,Oni-Style Kimono 8% Green Set (M),Set Kimono Style Oni Vert 8% (M)
+PROPITEM_TXT_902956,The Oni-Style Kimono 8% Green Set for male characters.,Le set Kimono Style Oni Vert 8% pour personnages masculins.
+PROPITEM_TXT_902957,Oni-Style Kimono Green Hat (F),Chapeau Kimono Style Oni Vert (F)
+PROPITEM_TXT_902958,Oni-Style Kimono Green Suit (F),Tenue Kimono Style Oni Vert (F)
+PROPITEM_TXT_902959,Oni-Style Kimono Green Shoes (F),Chaussures Kimono Style Oni Vert (F)
+PROPITEM_TXT_902960,Oni-Style Kimono 8% Green Set (F),Set Kimono Style Oni Vert 8% (F)
+PROPITEM_TXT_902961,The Oni-Style Kimono 8% Green Set for female characters.,Le set Kimono Style Oni Vert 8% pour personnages féminins.
+PROPITEM_TXT_903001,Oni-Style Kimono 2% Black Set,Set Kimono Style Oni Noir 2%
+PROPITEM_TXT_903002,Oni-Style Kimono Black Bag,Sac Kimono Style Oni Noir
+PROPITEM_TXT_903003,Oni-Style Kimono Black Mask,Masque Kimono Style Oni Noir
+PROPITEM_TXT_903004,Oni-Style Kimono Black Hat (M),Chapeau Kimono Style Oni Noir (M)
+PROPITEM_TXT_903005,Oni-Style Kimono Black Suit (M),Tenue Kimono Style Oni Noir (M)
+PROPITEM_TXT_903006,Oni-Style Kimono Black Shoes (M),Chaussures Kimono Style Oni Noir (M)
+PROPITEM_TXT_903007,Oni-Style Kimono 2% Black Set (M),Set Kimono Style Oni Noir 2% (M)
+PROPITEM_TXT_903008,The Oni-Style Kimono 2% Black Set for male characters.,Le set Kimono Style Oni Noir 2% pour personnages masculins.
+PROPITEM_TXT_903009,Oni-Style Kimono Black Hat (F),Chapeau Kimono Style Oni Noir (F)
+PROPITEM_TXT_903010,Oni-Style Kimono Black Suit (F),Tenue Kimono Style Oni Noir (F)
+PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),Chaussures Kimono Style Oni Noir (F)
+PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),Set Kimono Style Oni Noir 2% (F)
+PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,Le set Kimono Style Oni Noir 2% pour personnages féminins.
+PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,Boîte Chance Costume Kimono Style Oni
+PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Kimono Style Oni avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
+PROPITEM_TXT_903016,2026 Valentine 10% Red Set,Set Saint-Valentin 2026 Rouge 10%
+PROPITEM_TXT_903017,2026 Valentine Red Cloak,Cape Saint-Valentin 2026 Rouge
+PROPITEM_TXT_903018,2026 Valentine Red Glasses,Lunettes Saint-Valentin 2026 Rouges
+PROPITEM_TXT_903019,2026 Valentine Red Hat (M),Chapeau Saint-Valentin 2026 Rouge (M)
+PROPITEM_TXT_903020,2026 Valentine Red Suit (M),Tenue Saint-Valentin 2026 Rouge (M)
+PROPITEM_TXT_903021,2026 Valentine Red Shoes (M),Chaussures Saint-Valentin 2026 Rouges (M)
+PROPITEM_TXT_903022,2026 Valentine 10% Red Set (M),Set Saint-Valentin 2026 Rouge 10% (M)
+PROPITEM_TXT_903023,The 2026 Valentine 10% Red Set for male characters.,Le set Saint-Valentin 2026 Rouge 10% pour personnages masculins.
+PROPITEM_TXT_903024,2026 Valentine Red Hat (F),Chapeau Saint-Valentin 2026 Rouge (F)
+PROPITEM_TXT_903025,2026 Valentine Red Suit (F),Tenue Saint-Valentin 2026 Rouge (F)
+PROPITEM_TXT_903026,2026 Valentine Red Shoes (F),Chaussures Saint-Valentin 2026 Rouges (F)
+PROPITEM_TXT_903027,2026 Valentine 10% Red Set (F),Set Saint-Valentin 2026 Rouge 10% (F)
+PROPITEM_TXT_903028,The 2026 Valentine 10% Red Set for female characters.,Le set Saint-Valentin 2026 Rouge 10% pour personnages féminins.
+PROPITEM_TXT_903029,2026 Valentine 10% Orange Set,Set Saint-Valentin 2026 Orange 10%
+PROPITEM_TXT_903030,2026 Valentine Orange Cloak,Cape Saint-Valentin 2026 Orange
+PROPITEM_TXT_903031,2026 Valentine Orange Glasses,Lunettes Saint-Valentin 2026 Orange
+PROPITEM_TXT_903032,2026 Valentine Orange Hat (M),Chapeau Saint-Valentin 2026 Orange (M)
+PROPITEM_TXT_903033,2026 Valentine Orange Suit (M),Tenue Saint-Valentin 2026 Orange (M)
+PROPITEM_TXT_903034,2026 Valentine Orange Shoes (M),Chaussures Saint-Valentin 2026 Orange (M)
+PROPITEM_TXT_903035,2026 Valentine 10% Orange Set (M),Set Saint-Valentin 2026 Orange 10% (M)
+PROPITEM_TXT_903036,The 2026 Valentine 10% Orange Set for male characters.,Le set Saint-Valentin 2026 Orange 10% pour personnages masculins.
+PROPITEM_TXT_903037,2026 Valentine Orange Hat (F),Chapeau Saint-Valentin 2026 Orange (F)
+PROPITEM_TXT_903038,2026 Valentine Orange Suit (F),Tenue Saint-Valentin 2026 Orange (F)
+PROPITEM_TXT_903039,2026 Valentine Orange Shoes (F),Chaussures Saint-Valentin 2026 Orange (F)
+PROPITEM_TXT_903040,2026 Valentine 10% Orange Set (F),Set Saint-Valentin 2026 Orange 10% (F)
+PROPITEM_TXT_903041,The 2026 Valentine 10% Orange Set for female characters.,Le set Saint-Valentin 2026 Orange 10% pour personnages féminins.
+PROPITEM_TXT_903042,2026 Valentine 8% Yellow Set,Set Saint-Valentin 2026 Jaune 8%
+PROPITEM_TXT_903043,2026 Valentine Yellow Cloak,Cape Saint-Valentin 2026 Jaune
+PROPITEM_TXT_903044,2026 Valentine Yellow Glasses,Lunettes Saint-Valentin 2026 Jaunes
+PROPITEM_TXT_903045,2026 Valentine Yellow Hat (M),Chapeau Saint-Valentin 2026 Jaune (M)
+PROPITEM_TXT_903046,2026 Valentine Yellow Suit (M),Tenue Saint-Valentin 2026 Jaune (M)
+PROPITEM_TXT_903047,2026 Valentine Yellow Shoes (M),Chaussures Saint-Valentin 2026 Jaunes (M)
+PROPITEM_TXT_903048,2026 Valentine 8% Yellow Set (M),Set Saint-Valentin 2026 Jaune 8% (M)
+PROPITEM_TXT_903049,The 2026 Valentine 8% Yellow Set for male characters.,Le set Saint-Valentin 2026 Jaune 8% pour personnages masculins.
+PROPITEM_TXT_903050,2026 Valentine Yellow Hat (F),Chapeau Saint-Valentin 2026 Jaune (F)
+PROPITEM_TXT_903051,2026 Valentine Yellow Suit (F),Tenue Saint-Valentin 2026 Jaune (F)
+PROPITEM_TXT_903052,2026 Valentine Yellow Shoes (F),Chaussures Saint-Valentin 2026 Jaunes (F)
+PROPITEM_TXT_903053,2026 Valentine 8% Yellow Set (F),Set Saint-Valentin 2026 Jaune 8% (F)
+PROPITEM_TXT_903054,The 2026 Valentine 8% Yellow Set for female characters.,Le set Saint-Valentin 2026 Jaune 8% pour personnages féminins.
+PROPITEM_TXT_903055,2026 Valentine 8% Green Set,Set Saint-Valentin 2026 Vert 8%
+PROPITEM_TXT_903056,2026 Valentine Green Cloak,Cape Saint-Valentin 2026 Verte
+PROPITEM_TXT_903057,2026 Valentine Green Glasses,Lunettes Saint-Valentin 2026 Vertes
+PROPITEM_TXT_903058,2026 Valentine Green Hat (M),Chapeau Saint-Valentin 2026 Vert (M)
+PROPITEM_TXT_903059,2026 Valentine Green Suit (M),Tenue Saint-Valentin 2026 Verte (M)
+PROPITEM_TXT_903060,2026 Valentine Green Shoes (M),Chaussures Saint-Valentin 2026 Vertes (M)
+PROPITEM_TXT_903061,2026 Valentine 8% Green Set (M),Set Saint-Valentin 2026 Vert 8% (M)
+PROPITEM_TXT_903062,The 2026 Valentine 8% Green Set for male characters.,Le set Saint-Valentin 2026 Vert 8% pour personnages masculins.
+PROPITEM_TXT_903063,2026 Valentine Green Hat (F),Chapeau Saint-Valentin 2026 Vert (F)
+PROPITEM_TXT_903064,2026 Valentine Green Suit (F),Tenue Saint-Valentin 2026 Verte (F)
+PROPITEM_TXT_903065,2026 Valentine Green Shoes (F),Chaussures Saint-Valentin 2026 Vertes (F)
+PROPITEM_TXT_903066,2026 Valentine 8% Green Set (F),Set Saint-Valentin 2026 Vert 8% (F)
+PROPITEM_TXT_903067,The 2026 Valentine 8% Green Set for female characters.,Le set Saint-Valentin 2026 Vert 8% pour personnages féminins.
+PROPITEM_TXT_903068,2026 Valentine 6% Blue Set,Set Saint-Valentin 2026 Bleu 6%
+PROPITEM_TXT_903069,2026 Valentine Blue Cloak,Cape Saint-Valentin 2026 Bleue
+PROPITEM_TXT_903070,2026 Valentine Blue Glasses,Lunettes Saint-Valentin 2026 Bleues
+PROPITEM_TXT_903071,2026 Valentine Blue Hat (M),Chapeau Saint-Valentin 2026 Bleu (M)
+PROPITEM_TXT_903072,2026 Valentine Blue Suit (M),Tenue Saint-Valentin 2026 Bleue (M)
+PROPITEM_TXT_903073,2026 Valentine Blue Shoes (M),Chaussures Saint-Valentin 2026 Bleues (M)
+PROPITEM_TXT_903074,2026 Valentine 6% Blue Set (M),Set Saint-Valentin 2026 Bleu 6% (M)
+PROPITEM_TXT_903075,The 2026 Valentine 6% Blue Set for male characters.,Le set Saint-Valentin 2026 Bleu 6% pour personnages masculins.
+PROPITEM_TXT_903110,2026 Valentine Brown Hat (M),Chapeau Saint-Valentin 2026 Marron (M)
+PROPITEM_TXT_903111,2026 Valentine Brown Suit (M),Tenue Saint-Valentin 2026 Marron (M)
+PROPITEM_TXT_903112,2026 Valentine Brown Shoes (M),Chaussures Saint-Valentin 2026 Marron (M)
+PROPITEM_TXT_903113,2026 Valentine 2% Brown Set (M),Set Saint-Valentin 2026 Marron 2% (M)
+PROPITEM_TXT_903114,The 2026 Valentine 2% Brown Set for male characters.,Le set Saint-Valentin 2026 Marron 2% pour personnages masculins.
+PROPITEM_TXT_903115,2026 Valentine Brown Hat (F),Chapeau Saint-Valentin 2026 Marron (F)
+PROPITEM_TXT_903116,2026 Valentine Brown Suit (F),Tenue Saint-Valentin 2026 Marron (F)
+PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),Chaussures Saint-Valentin 2026 Marron (F)
+PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),Set Saint-Valentin 2026 Marron 2% (F)
+PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,Le set Saint-Valentin 2026 Marron 2% pour personnages féminins.
+PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,Boîte Chance Costume Saint-Valentin 2026
+PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Saint-Valentin 2026 avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
+PROPITEM_TXT_903122,2026 Lunar New Year Coupon,Coupon Nouvel An Lunaire 2026
+PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.","Un pack contenant 5x Cri de serveur, 5x cri de canal, 1x Transy, 1x Morphitem B, 26x Bombe Sulnal, 1x Boîte Aléatoire Trans, 1x Boîte de Sélection Volante de Flyffer (15 jours) et 1x Boîte de Sélection Soupe de Gâteau de Riz 2026. Tous les objets sont également liés."
+PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Boîte de Sélection Volante de Flyffer (15 jours)
+PROPITEM_TXT_903125,"This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!","Cette boîte mystérieuse contient 18 montures volantes uniques, chacune conçue pour les véritables aventuriers de Madrigal. Ouvrez-la et choisissez votre préférée !"
