@@ -1009,102 +1009,102 @@ UI_TOOLTIP_ABILITY,Bonus,Bonus
 UI_PET_HP,Energy: %d / %d,Enerhiya: %d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
 UI_PET_DEAD,(DEAD),(PATAY)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
-UI_TARGET_CLEAR,Clear the target,Clear the target
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled na antas:
+UI_TARGET_CLEAR,Clear the target,Alisin ang target
 UI_OPTION_TAB_UI,Interface,Interface
-UI_OPTION_AUTO_ATTACK,Auto Attack,Auto Attack
-UI_OPTION_FIXED_CAMERA,Fixed Camera,Fixed Camera
-UI_OPTION_OTHER_DAMAGES,Display all damage,Display all damage
-UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Hide other Players
+UI_OPTION_AUTO_ATTACK,Auto Attack,Awtomatikong Atake
+UI_OPTION_FIXED_CAMERA,Fixed Camera,Nakapirming Kamera
+UI_OPTION_OTHER_DAMAGES,Display all damage,Ipakita ang lahat ng pinsala
+UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Itago ang ibang manlalaro
 UI_OPTION_TRANSPARENT_CHAT,Transparent chat,Transparent chat
-UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Right Click Player Menu
-UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,MP & FP Gauges
-UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Enables FP & MP gauges above the player.
-UI_OPTION_SELECT_PETS,Select Pets,Select Pets
-UI_FACE_SHOP_TITLE,Plastic Surgery,Plastic Surgery
-UI_FACE_SHOP_BASE_FACE,Friendly Face,Friendly Face
-UI_FACE_SHOP_NEW_FACE,New Face,New Face
-UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Spell Range: %d
-UI_TOOLTIP_COMBO_TYPE,Combo: %s,Combo: %s
-UI_TOOLTIP_COMBO_STEP,Step,Step
-UI_TOOLTIP_COMBO_CIRCLE,Circle,Circle
-UI_TOOLTIP_COMBO_FINISH,Finish,Finish
-UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Base Damage: %d ~ %d
-UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Attack Scaling
-UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heal Scaling
-UI_TOOLTIP_SCALE_TIME,Time Scaling,Time Scaling
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
-UI_TOOLTIP_SCALE_PARAM,Scaling,Scaling
-UI_TOOLTIP_SCALE_PARAM_PER,per,per
-UI_TOOLTIP_SCALE_PARAM_MAX,max,max
+UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Pinduting ang Player Pakanan
+UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,Sukatan ng MP & FP
+UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Pinapagana ang FP & MP gauges sa itaas ng manlalaro.
+UI_OPTION_SELECT_PETS,Select Pets,Pumili ng Alagang Hayop
+UI_FACE_SHOP_TITLE,Plastic Surgery,Operasyong Plastik
+UI_FACE_SHOP_BASE_FACE,Friendly Face,Palakaibigang Mukha
+UI_FACE_SHOP_NEW_FACE,New Face,Bagong Mukha
+UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Range ng Spell: %d
+UI_TOOLTIP_COMBO_TYPE,Combo: %s,Kombinasyon: %s
+UI_TOOLTIP_COMBO_STEP,Step,Hakbang
+UI_TOOLTIP_COMBO_CIRCLE,Circle,Bilog
+UI_TOOLTIP_COMBO_FINISH,Finish,Tapos
+UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Pangunahing Pinsala: %d ~ %d
+UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Pagsusukat ng Atake
+UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Pagsusukat ng Pagpapagaling
+UI_TOOLTIP_SCALE_TIME,Time Scaling,Pagsusukat ng Oras
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Pagsusukat ng Pagbaba ng Oras ng Pagcha-charge
+UI_TOOLTIP_SCALE_PARAM,Scaling,Pagsusukat
+UI_TOOLTIP_SCALE_PARAM_PER,per,bawat
+UI_TOOLTIP_SCALE_PARAM_MAX,max,pinakamalaki
 UI_TOOLTIP_PVP,PVP,PVP
 UI_TOOLTIP_PVE,PVE,PVE
-UI_TOOLTIP_AROUND,Around,Around
-UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Base Heal: %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
-UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Giants)
-UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probability: %d%%
-UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Giants)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
+UI_TOOLTIP_AROUND,Around,Mga paligid
+UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Pangunahing Pagpapagaling: %d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Pangunahing MP Pagpapagaling: %d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Pangunahing FP Pagpapagaling: %d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Pangunahing Oras: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Higante)
+UI_TOOLTIP_PROBABILITY,Probability: %d%%,Posibilidad: %d%%
+UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Higante)
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Posibilidad ng Knockdown: %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Cooldown: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PVP),/ %.2d:%.2d (PVP)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Cooldown: %.2d:%.2d (PVP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
-UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Casting Time: %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
-UI_NEWCHAR_FACE,Face,Face
-UI_NEWCHAR_HAIR,Hair,Hair
-UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
-UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Press the Scroll Lock Key to toggle.
-UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
-UI_KEYBIND_MOVE_FORWARD,Move Forward,Move Forward
-UI_KEYBIND_MOVE_BACKWARD,Move Backward,Move Backward
-UI_KEYBIND_TURN_LEFT,Turn Left,Turn Left
-UI_KEYBIND_TURN_RIGHT,Turn Right,Turn Right
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(Pagkatapos ng Pag-expire)
+UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Oras ng Pag-cast: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Oras ng Pagcha-charge: %.2d:%.2d
+UI_NEWCHAR_FACE,Face,Mukha
+UI_NEWCHAR_HAIR,Hair,Buhok
+UI_NEWCHAR_HAIR_COLOR,Hair Color,Kulay ng Buhok
+UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Pindutin ang Scroll Lock Key upang i-toggle.
+UI_KEYBIND_CHAR_CONTROL,Movement Keys,Mga pindutan ng Paggalaw
+UI_KEYBIND_MOVE_FORWARD,Move Forward,Sumulong
+UI_KEYBIND_MOVE_BACKWARD,Move Backward,Umatras
+UI_KEYBIND_TURN_LEFT,Turn Left,Liko Pakaliwa
+UI_KEYBIND_TURN_RIGHT,Turn Right,Liko Pakanan
 UI_KEYBIND_JUMP,Jump,Talon
-UI_KEYBIND_WALK,Toggle Run/Walk,Toggle Run/Walk
-UI_KEYBIND_SKILL_COMBO,Action Slot,Action Slot
-UI_KEYBIND_CLEAR_TARGET,Clear Target,Clear Target
-UI_KEYBIND_TRACE_TARGET,Follow Target,Follow Target
-UI_KEYBIND_SELECT_TARGET,Select PVP Target,Select PVP Target
-UI_KEYBIND_APPLETS,Windows,Windows
-UI_KEYBIND_CAMERA,Camera Control,Camera Control
-UI_KEYBIND_CAMERA_LEFT,Rotate Left,Rotate Left
-UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Rotate Right
-UI_KEYBIND_CAMERA_UP,Rotate Up,Rotate Up
-UI_KEYBIND_CAMERA_DOWN,Rotate Down,Rotate Down
-UI_KEYBIND_ZOOM_IN,Zoom In,Zoom In
-UI_KEYBIND_ZOOM_OUT,Zoom Out,Zoom Out
-UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Toggle Zoom
-UI_KEYBIND_TASKBAR,Taskbar Functions,Taskbar Functions
-UI_KEYBIND_TASKBAR_N,Taskbar %d,Taskbar %d
-UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Taskbar Slot %d
-UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2nd Bar Slot %d
-UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3rd Bar Slot %d
-UI_KEYBIND_TASKBAR2,Additional Taskbars,Additional Taskbars
-UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,Toggle Fullscreen
-UI_KEYBIND_MAIN_MENU,Main Menu,Main Menu
-UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Hide/Show UI
-UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Screenshot Mode
-UI_KEYBIND_GAME,Game Functions,Game Functions
-UI_KEYBIND_NONE,Not Bound,Not Bound
-UI_KEYBIND_UNBIND,Unbind the key,Unbind the key
-UI_KEYBIND_TITLE,Keys,Keys
-UI_KEYBIND_RESET,Reset,Reset
-UI_UPGRADECARD_TITLE,Socket Card Upgrade,Socket Card Upgrade
-UI_UPGRADECARD_REGISTER,Register material card.,Register material card.
-UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Fuse 10 material cards to receive 1 higher-grade card.
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Register weapon material card.
-UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Fuse 3 weapon material cards to receive 1 same grade card.
-UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?"
-UI_CONVERTSOULLINK_TITLE,Convert soul link,Convert soul link
-UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,You can convert the item a soul-linked type.
-UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,The converted item cannot be returned.\nDo you want to continue?
-UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,This item cannot be converted.
-UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?
+UI_KEYBIND_WALK,Toggle Run/Walk,Isalin ang Tumakbo/Maglakad
+UI_KEYBIND_SKILL_COMBO,Action Slot,Slot ng Aksyon
+UI_KEYBIND_CLEAR_TARGET,Clear Target,Alisin ang Target
+UI_KEYBIND_TRACE_TARGET,Follow Target,Sundan ang Target
+UI_KEYBIND_SELECT_TARGET,Select PVP Target,Piliin ang PVP Target
+UI_KEYBIND_APPLETS,Windows,Mga Bintana
+UI_KEYBIND_CAMERA,Camera Control,Kontrol ng Kamera
+UI_KEYBIND_CAMERA_LEFT,Rotate Left,Ikutin Pakaliwa
+UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Ikutin Pakanan
+UI_KEYBIND_CAMERA_UP,Rotate Up,Ikutin Pataas
+UI_KEYBIND_CAMERA_DOWN,Rotate Down,Ikutin Pababa
+UI_KEYBIND_ZOOM_IN,Zoom In,Palaparin
+UI_KEYBIND_ZOOM_OUT,Zoom Out,Palihisin
+UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Isalin ang zoom
+UI_KEYBIND_TASKBAR,Taskbar Functions,Mga Gawain sa Taskbar
+UI_KEYBIND_TASKBAR_N,Taskbar %d,Bar ng gawain %d
+UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2nd Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3rd Slot ng Bar ng Gawain %d
+UI_KEYBIND_TASKBAR2,Additional Taskbars,Karagdagang Taskbars
+UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,I-toggle ang buong-screen
+UI_KEYBIND_MAIN_MENU,Main Menu,Pangunahing Menu
+UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Itago/Ipakita ang UI
+UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Modo ng Pagkuha ng Larawan ng Screen
+UI_KEYBIND_GAME,Game Functions,Mga Gawain sa Laro
+UI_KEYBIND_NONE,Not Bound,Hindi Nakatalaga
+UI_KEYBIND_UNBIND,Unbind the key,Alisin ang pagtatalaga ng pindutan
+UI_KEYBIND_TITLE,Keys,Mga Pindutan
+UI_KEYBIND_RESET,Reset,I-reset
+UI_UPGRADECARD_TITLE,Socket Card Upgrade,Pag-upgrade ng Socket Card
+UI_UPGRADECARD_REGISTER,Register material card.,Irehistro ang materyal na card.
+UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Pagsamahin ang 10 materyal na card upang makakuha ng 1 mas mataas na grado na card.
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Pag-resuffle ng Weapon Socket Card
+UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Irehistro ang materyal na card ng sandata.
+UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Pagsamahin ang 3 materyal na card ng sandata upang makakuha ng 1 card na may parehong grado.
+UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","Kung i-resuffle mo ang mga card, ang mga card na ginamit bilang materyales ay mawawala.\nGusto mo bang magpatuloy?"
+UI_CONVERTSOULLINK_TITLE,Convert soul link,I-convert ang soul link
+UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,Maaari mong i-convert ang item sa isang soul-linked na uri.
+UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,Ang na-convert na item ay hindi na maibabalik.\nGusto mo bang magpatuloy?
+UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,Ang item na ito ay hindi maaaring i-convert.
+UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,Ang scroll ay permanenteng magpapataas ng bilang ng mga miyembro na maaari mong magkaroon sa isang guild ng 5. Kung sumali ka sa ibang guild - wala itong epekto sa bagong guild. Kumpirma mo ba ang paggamit?
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
 UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bNext level %d#nb
