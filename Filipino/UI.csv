@@ -1107,257 +1107,257 @@ UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,Ang item na ito a
 UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,Ang scroll ay permanenteng magpapataas ng bilang ng mga miyembro na maaari mong magkaroon sa isang guild ng 5. Kung sumali ka sa ibang guild - wala itong epekto sa bagong guild. Kumpirma mo ba ang paggamit?
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
-UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bNext level %d#nb
-UI_CHANGECHANNEL_TITLE,Change Channel,Change Channel
-UI_CHANGECHANNEL_MSG,Select channel:,Select channel:
+UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bSusunod na Antas %d#nb
+UI_CHANGECHANNEL_TITLE,Change Channel,Palitan ang Channel
+UI_CHANGECHANNEL_MSG,Select channel:,Pumili ng channel:
 UI_REPORT_TITLE,Report,Isumbong
 UI_REPORT_PLAYER_LABEL,Player,Manlalaro
-UI_REPORT_REASON_LABEL,Reason,Reason
+UI_REPORT_REASON_LABEL,Reason,Dahilan
 UI_REPORT_MESSAGE_LABEL,Message,Mensahe
 UI_REPORT_SEND,Send,Ipadala
-UI_REPORT_REASON0,Botting,Botting
-UI_REPORT_REASON1,Real money transfer,Real money transfer
-UI_REPORT_REASON2,Cheating / hacking,Cheating / hacking
-UI_REPORT_REASON3,Bad behavior,Bad behavior
-UI_REPORT_REASON4,Insults,Insults
-UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.
-UI_APP_ACHIEVEMENTS_TIP,Displays the Achievements Menu.,Displays the Achievements Menu.
-UI_ACHIEVEMENTS_TITLE,Achievements,Achievements
-UI_ACHIEVEMENTS_GENERAL_TAB,General,General
-UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Monsters
-UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consumables
-UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
-UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
-UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Play time
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Login Streak
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Login Rewards
-UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
-UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,This achievement is bound to your account.
-UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster(s) to kill: %s.
-UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Item(s) to use: %s.
-UI_ACHIEVEMENTS_REWARD,Reward List,Reward List
+UI_REPORT_REASON0,Botting,Pagbo-bot
+UI_REPORT_REASON1,Real money transfer,Paglilipat ng totoong pera
+UI_REPORT_REASON2,Cheating / hacking,Panlilinlang / pag-hack
+UI_REPORT_REASON3,Bad behavior,Masamang pag-uugali
+UI_REPORT_REASON4,Insults,Pang-iinsulto
+UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Sigurado ka bang gusto mong i-report si %s?\n\nAng pang-aabuso sa tampok na ito ay maaaring magresulta sa pagbawal ng iyong account.
+UI_APP_ACHIEVEMENTS_TIP,Displays the Achievements Menu.,Ipinapakita ang Menu ng Mga Nakamit.
+UI_ACHIEVEMENTS_TITLE,Achievements,Mga Nakamit
+UI_ACHIEVEMENTS_GENERAL_TAB,General,Pangkalahatan
+UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Halimaw
+UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Mga Ginagamit
+UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Mga Titulo at Badge
+UI_ACHIEVEMENTS_EVENTS_TAB,Events,Mga Kaganapan
+UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Panahon ng paglalaro
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Sunod-sunod na pag-login
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Gantimpala sa Pag-login
+UI_ACHIEVEMENTS_DESCRIPTION,Description,Paglalarawan
+UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Ang nakamit na ito ay naka-bind sa iyong account.
+UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Halimaw na dapat patayin: %s.
+UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Item na dapat gamitin: %s.
+UI_ACHIEVEMENTS_REWARD,Reward List,Listahan ng Gantimpala
 UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,Title: #b%s#nb
-UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Level %d
-UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Claimed
+UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Antas %d
+UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Inaangkin
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,Penya:
 UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,Item(s): %s
-UI_ACHIEVEMENTS_REWARD_ATK,Attack rate on target(s): %d%%,Attack rate on target(s): %d%%
-UI_ACHIEVEMENTS_PROGRESSION,Progression,Progression
-UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Level %d
-UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attack +%s%%
-UI_ACHIEVEMENTS_NOTITLE,No Title,No Title
-UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Do not show any title.
-UI_ACHIEVEMENTS_PVPTITLE,PVP Title,PVP Title
-UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(Currently ""%s"")"
-UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Show your current PVP title.,Show your current PVP title.
-UI_ACHIEVEMENTS_TITLES_SELECT,Select,Select
-UI_ACHIEVEMENTS_TITLES_FROM,From,From
-UI_ACHIEVEMENTS_CLAIMBTN,Claim,Claim
-UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Receive your rewards!
-UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Spin the wheel! Will you be lucky today?
-UI_ACHIEVEMENTS_AVAILABLE,Available,Available
-UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,This achievement has been completed!
-UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,Required Party Level: %d
-UI_TOOLTIP_PARTY_POINTS,Required Points: %d,Required Points: %d
-UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?
-UI_PARTY_PERMANENT,Permanent Party,Permanent Party
-UI_SEARCHPARTY_TITLE,Search Party,Search Party
-UI_SEARCHGUILD_TITLE,Search Guild,Search Guild
+UI_ACHIEVEMENTS_REWARD_ATK,Attack rate on target(s): %d%%,Antas ng pag-atake sa target o mga target: %d%%
+UI_ACHIEVEMENTS_PROGRESSION,Progression,Pag-usad
+UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Antas %d
+UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Pag-atake +%s%%
+UI_ACHIEVEMENTS_NOTITLE,No Title,Walang Titulo
+UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Huwag ipakita ang anumang titulo.
+UI_ACHIEVEMENTS_PVPTITLE,PVP Title,PVP Titulo
+UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(Kasalukuyang ""%s"")"
+UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Show your current PVP title.,Ipakita ang iyong kasalukuyang pamagat sa PVP
+UI_ACHIEVEMENTS_TITLES_SELECT,Select,Pumili
+UI_ACHIEVEMENTS_TITLES_FROM,From,Mula
+UI_ACHIEVEMENTS_CLAIMBTN,Claim,Inaangkin
+UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Tanggapin ang iyong mga gantimpala!
+UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Paikutin ang gulong! Swertehin ka ba ngayon?
+UI_ACHIEVEMENTS_AVAILABLE,Available,Magagamit
+UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,Natapos na ang tagumpay na ito!
+UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,Kailangang Antas ng Party: %d
+UI_TOOLTIP_PARTY_POINTS,Required Points: %d,Kailangang Puntos: %d
+UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,Hindi na awtomatikong matatanggal sa party ang mga miyembro kapag offline sila. Kung gagawa ka ng bagong party o sasali sa isa pa - hindi ito makaaapekto sa bagong party. Kinukumpirma mo ba ang paggamit?
+UI_PARTY_PERMANENT,Permanent Party,Permanenteng Partido
+UI_SEARCHPARTY_TITLE,Search Party,Hanapin ang Party
+UI_SEARCHGUILD_TITLE,Search Guild,Hanapin ang Guild
 UI_GROUPSEARCH,Search,Hanapin
-UI_TOOLTIP_TRANSMUTE,Transmutation:,Transmutation:
-UI_TOOLTIP_RARITY,Rarity:,Rarity:
-UI_TOOLTIP_RARITY_NORMAL,Common,Common
-UI_TOOLTIP_RARITY_RARE,Uncommon,Uncommon
-UI_TOOLTIP_RARITY_STRONG,Rare,Rare
-UI_TOOLTIP_RARITY_UNIQUE,Unique,Unique
-UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Very Rare
-UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimate
-UI_WORLD_CASTING,Casting,Casting
-UI_WORLD_HARVESTING,Harvesting,Harvesting
-UI_WORLD_OPENING,Opening,Opening
-UI_WORLD_CHARGING,Charging,Charging
-UI_NAVIGATOR_LOCALTIME,Local Time,Local Time
-UI_NAVIGATOR_SERVERTIME,Server Time,Server Time
-UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Madrigal Time
-UI_UPGRADESAFE_STOP,Stop,Stop
-UI_UPGRADESAFE_RESET,Reset,Reset
-UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Power Dice
-UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sun Stone,Sun Stone
-UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Card
-UI_UPGRADESAFE_COST,#b%s#nb per attempt,#b%s#nb per attempt
-UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Piercing Goal
-UI_UPGRADESAFE_TARGET,Upgrade Goal,Upgrade Goal
-UI_UPGRADESAFE_CURRENT_PIERCING,~Piercings~,~Piercings~
-UI_UPGRADESAFE_CURRENT,~Current Value~,~Current Value~
-UI_SEARCHGROUP_MODE_NO,Not findable,Not findable
-UI_SEARCHGROUP_MODE_CONFIRM,Leader approval,Leader approval
-UI_SEARCHGROUP_MODE_FREE,Join freely,Join freely
-UI_GROUPSEARCH_REFRESH,Refresh,Refresh
-UI_GROUPSEARCH_FILTER,Filter:,Filter:
-UI_GROUPSEARCH_SORT,Sort:,Sort:
-UI_GROUPSEARCH_PARTYNAME,Party Name,Party Name
-UI_GROUPSEARCH_GUILDNAME,Guild Name,Guild Name
-UI_GROUPSEARCH_LEADER,Leader,Leader
-UI_GROUPSEARCH_MASTER,Master,Master
+UI_TOOLTIP_TRANSMUTE,Transmutation:,Pagbabagong-anyo:
+UI_TOOLTIP_RARITY,Rarity:,Kakaibang yaman:
+UI_TOOLTIP_RARITY_NORMAL,Common,Karaniwan
+UI_TOOLTIP_RARITY_RARE,Uncommon,Hindi Karaniwan
+UI_TOOLTIP_RARITY_STRONG,Rare,Bihira
+UI_TOOLTIP_RARITY_UNIQUE,Unique,Natatangi
+UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Napakabihira
+UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimato
+UI_WORLD_CASTING,Casting,Pag-cast
+UI_WORLD_HARVESTING,Harvesting,Pag-aani
+UI_WORLD_OPENING,Opening,Pagbubukas
+UI_WORLD_CHARGING,Charging,Pag-charge
+UI_NAVIGATOR_LOCALTIME,Local Time,Oras ng Lokal
+UI_NAVIGATOR_SERVERTIME,Server Time,Oras ng Server
+UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Oras ng Madrigal
+UI_UPGRADESAFE_STOP,Stop,Hinto
+UI_UPGRADESAFE_RESET,Reset,I-reset
+UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Makapangyarihang Dadu
+UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sun Stone,Bato ng Araw
+UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Kard
+UI_UPGRADESAFE_COST,#b%s#nb per attempt,#b%s#nb bawat pagtatangka
+UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Layuning Butas
+UI_UPGRADESAFE_TARGET,Upgrade Goal,Layuning Pag-upgrade
+UI_UPGRADESAFE_CURRENT_PIERCING,~Piercings~,~Butas~
+UI_UPGRADESAFE_CURRENT,~Current Value~,~Kasalukuyang Halaga~
+UI_SEARCHGROUP_MODE_NO,Not findable,Hindi matagpuan
+UI_SEARCHGROUP_MODE_CONFIRM,Leader approval,Pag-apruba ng Lider
+UI_SEARCHGROUP_MODE_FREE,Join freely,Malayang sumali
+UI_GROUPSEARCH_REFRESH,Refresh,I-refresh
+UI_GROUPSEARCH_FILTER,Filter:,Salain:
+UI_GROUPSEARCH_SORT,Sort:,Ayusin:
+UI_GROUPSEARCH_PARTYNAME,Party Name,Pangalan ng Party
+UI_GROUPSEARCH_GUILDNAME,Guild Name,Pangalan ng Guild
+UI_GROUPSEARCH_LEADER,Leader,Lider
+UI_GROUPSEARCH_MASTER,Master,Guro
 UI_GROUPSEARCH_LEVEL,Level,Lebel
 UI_GROUPSEARCH_MEMBERS,Members,Mga Miyembro
 UI_GROUPSEARCH_BUFFS,Buffs,Buffs
-UI_GROUPSEARCH_LEADERLEVEL,Leader Level,Leader Level
-UI_GROUPSEARCH_LEADERNAME,Leader Name,Leader Name
-UI_GROUPSEARCH_MASTERLEVEL,Master Level,Master Level
-UI_GROUPSEARCH_MASTERNAME,Master Name,Master Name
-UI_GROUPSEARCH_ALL,All,All
-UI_GROUPSEARCH_FRIENDS,Friend Leaders,Friend Leaders
-UI_GROUPSEARCH_STRANGERS,Stranger Leaders,Stranger Leaders
-UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,Friend Masters
-UI_GROUPSEARCH_MASTERSTRANGERS,Stranger Masters,Stranger Masters
+UI_GROUPSEARCH_LEADERLEVEL,Leader Level,Lebel ng Lider
+UI_GROUPSEARCH_LEADERNAME,Leader Name,Pangalan ng Lider
+UI_GROUPSEARCH_MASTERLEVEL,Master Level,Lebel ng Master
+UI_GROUPSEARCH_MASTERNAME,Master Name,Pangalan ng Master
+UI_GROUPSEARCH_ALL,All,Lahat
+UI_GROUPSEARCH_FRIENDS,Friend Leaders,Kaibigang Lider
+UI_GROUPSEARCH_STRANGERS,Stranger Leaders,Dayuhang Lider
+UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,Kaibigang Guro
+UI_GROUPSEARCH_MASTERSTRANGERS,Stranger Masters,Dayuhang Guro
 UI_GROUPSEARCH_JOIN,Join,Sumali
-UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the Leader,Your request must be approved by the Leader
-UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the Master,Your request must be approved by the Master
-UI_PARTY_JOINQUESTION,%s wants to join your party. Do you accept?,%s wants to join your party. Do you accept?
-UI_GUILD_SEARCHNOTICE,Search Notice,Search Notice
-UI_GUILD_SEARCHNOTICE_TIP,Setup the notice in Guild Search.,Setup the notice in Guild Search.
-UI_DAMAGEMETER_RESET,Reset Damage Statistics,Reset Damage Statistics
-UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,Damage Stats %d/%d
-UI_TOOLTIP_SKILL_NOFLY,Flying: No,Flying: No
-UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,Show/hide Damage Statistics
-UI_SHOP_QUICK_SELL,Quick Sell,Quick Sell
-UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Quickly sell a category of items.
-UI_SHOP_BUY_BACK,Buy Back,Buy Back
-UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,Purchase back items that you recently sold by mistake.
-UI_SHOP_QUICK_SELL_CONFIRM,Sell,Sell
-UI_SHOP_QUICK_SELL_TOTAL,Total:,Total:
-UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,Uncommon & Lower
-UI_SHOP_QUICK_SELL_RARE,Rare & Lower,Rare & Lower
-UI_SHOP_QUICK_SELL_FOOD,Food,Food
-UI_SHOP_QUICK_SELL_POTION,Potion,Potion
-UI_SHOP_BACK_TITLE,Buy back item,Buy back item
-UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Do you want to purchase back the item for %s penya?
-UI_TOOLTIP_BOWRANGE,Bow Range,Bow Range
-UI_TOOLTIP_SKILLUP,Skill Damage,Skill Damage
-UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,1v1 Skill Damage
-UI_TOOLTIP_HEALUP,Healing,Healing
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Range
+UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the Leader,Ang iyong kahilingan ay dapat aprubahan ng Lider
+UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the Master,Ang iyong kahilingan ay dapat aprubahan ng Guro
+UI_PARTY_JOINQUESTION,%s wants to join your party. Do you accept?,%s nais sumali sa iyong party. Tinatanggap mo ba?
+UI_GUILD_SEARCHNOTICE,Search Notice,Paunawa sa Paghahanap
+UI_GUILD_SEARCHNOTICE_TIP,Setup the notice in Guild Search.,I-setup ang paunawa sa Paghahanap ng Guild.
+UI_DAMAGEMETER_RESET,Reset Damage Statistics,I-reset ang Estadistika ng Pinsala
+UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,Estadistika ng Pinsala %d/%d
+UI_TOOLTIP_SKILL_NOFLY,Flying: No,Lumilipad: Hindi
+UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,Ipakita/Itago ang Estadistika ng Pinsala
+UI_SHOP_QUICK_SELL,Quick Sell,Mabilis na Pagbenta
+UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Mabilis na ibenta ang isang kategorya ng mga item.
+UI_SHOP_BUY_BACK,Buy Back,Bumili Muli
+UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,Bumili muli ng mga item na kamakailan mo lang naibenta sa pagkakamali.
+UI_SHOP_QUICK_SELL_CONFIRM,Sell,Ibenta
+UI_SHOP_QUICK_SELL_TOTAL,Total:,Kabuuan:
+UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,Hindi Karaniwan at Mas Mababa
+UI_SHOP_QUICK_SELL_RARE,Rare & Lower,Bihira at Mas Mababa
+UI_SHOP_QUICK_SELL_FOOD,Food,Pagkain
+UI_SHOP_QUICK_SELL_POTION,Potion,Inumin
+UI_SHOP_BACK_TITLE,Buy back item,Bumili Muli ng Item
+UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Gusto mo bang bilhin muli ang item para sa %s penya?
+UI_TOOLTIP_BOWRANGE,Bow Range,Saklaw ng Pana
+UI_TOOLTIP_SKILLUP,Skill Damage,Pinsala ng Kasanayan
+UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,Pinsala ng Kasanayan sa 1v1
+UI_TOOLTIP_HEALUP,Healing,Pagpapagaling
+UI_TOOLTIP_SKILLRANGE,Skill Range,Saklaw ng Kasanayan
 UI_MAP_MENU,Menu,Menu
-UI_MAP_MENU_TIP,Hide/Show the menu,Hide/Show the menu
-UI_TOOLTIP_RESTOREUP,HP Restoration,HP Restoration
+UI_MAP_MENU_TIP,Hide/Show the menu,Itago/Ipakita ang menu
+UI_TOOLTIP_RESTOREUP,HP Restoration,Pagpapanumbalik ng HP
 UI_OPTION_FRAMERATE,FPS,FPS
-UI_OPTION_FRAMERATE_TIP,Frames Per Second,Frames Per Second
+UI_OPTION_FRAMERATE_TIP,Frames Per Second,Mga kuadro bawat segundo
 UI_OPTION_FRAMERATE_SYNC,VSync,VSync
-UI_WORLD_FLY_EQUIP,Fly,Fly
-UI_WORLD_FLY_UNEQUIP,Land,Land
-UI_WORLD_PARTY,Party x%d,Party x%d
-UI_WORLD_BUFF,Buff x%d,Buff x%d
-UI_QUESTGOAL_MOBILE,Quest,Quest
-UI_INPUT_NUMBER,Input a number,Input a number
-UI_SKILL_CLOSED,Closed,Closed
-UI_SKILL_POINT_COST,Point Cost,Point Cost
-UI_SKILL_ADD_COMBO,Add to Combo,Add to Combo
-UI_SKILL_COMBO,Combo Bar,Combo Bar
-UI_CASHSHOP_PENYA_ONLY,Penya Only,Penya Only
+UI_WORLD_FLY_EQUIP,Fly,Lumipad
+UI_WORLD_FLY_UNEQUIP,Land,Lumapag
+UI_WORLD_PARTY,Party x%d,Partido x%d
+UI_WORLD_BUFF,Buff x%d,Palakasin x%d
+UI_QUESTGOAL_MOBILE,Quest,Misyon
+UI_INPUT_NUMBER,Input a number,Ipasok ang isang numero
+UI_SKILL_CLOSED,Closed,Nakasara
+UI_SKILL_POINT_COST,Point Cost,Gastos ng Punto
+UI_SKILL_ADD_COMBO,Add to Combo,Idagdag sa Combo
+UI_SKILL_COMBO,Combo Bar,Bar ng Combo
+UI_CASHSHOP_PENYA_ONLY,Penya Only,Penya Lamang
 UI_CASHSHOP_PENYA,Penya,Penya
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),Penya (VIP)
-UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,This item #bcannot be traded or sold#nb.
-UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,This purchase is #bnot an item#nb.
-UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,Critical Resist
-UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP Damage Reduction
-UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE Damage Reduction
-UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Magic Resistance
-UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvP Damage
-UI_TOOLTIP_DST_PVE_DMG,PvE Damage,PvE Damage
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
-UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Number of lives: %d
-UI_BUFF_REMOVE_TITLE,Cancel Buff,Cancel Buff
-UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.
-UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PVP),Reflected Damage: %d%% / %d%% (PVP)
-UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PVP),Stun Probability (PVP)
-UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PVE),Stun Probability (PVE)
-UI_TOOLTIP_CHANCEPOISON,Poison Probability,Poison Probability
-UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,Steal HP Probability
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Steal MP Probability
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Steal FP Probability
-UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Bleeding Probability
-UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,Party Members HP
-UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,DoT Tick: %s Seconds
-UI_TOOLTIP_MAXHIT,Max Targets: %d,Max Targets: %d
-UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Max Targets: %d / %d (PVP)
+UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,Ang item na ito #bhindi maaaring ipagpalit o ibenta#nb.
+UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,Ang pagbili na ito ay #bhindi isang item#nb.
+UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,Kritikal na Paglaban
+UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,Pagbawas ng Pinsala sa PvP
+UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,Pagbawas ng Pinsala sa PvE
+UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Paglaban sa Mahika
+UI_TOOLTIP_DST_PVP_DMG,PvP Damage,Pinsala sa PvP
+UI_TOOLTIP_DST_PVE_DMG,PvE Damage,Pinsala sa PvE
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Pinsala
+UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Bilang ng buhay: %d
+UI_BUFF_REMOVE_TITLE,Cancel Buff,I-cancel ang buff
+UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,Gusto mo bang alisin ang Buff #b%s#nb? Hindi ito maaaring bawiin.
+UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PVP),Sinalamin na pinsala: %d%% / %d%% (PVP)
+UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PVP),Probabilidad ng Pagkabigla(PVP)
+UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PVE),Probabilidad ng Pagkabigla(PVE)
+UI_TOOLTIP_CHANCEPOISON,Poison Probability,Probabilidad ng Pagkalason
+UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,Probabilidad ng Pagnanakaw ng HP
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Probabilidad ng Pagnanakaw ng MP
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Probabilidad ng Pagnanakaw ng FP
+UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Probabilidad ng Pagdurugo
+UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,HP ng Mga Miyembro ng Partido
+UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,DoT Tick: %s Segundo
+UI_TOOLTIP_MAXHIT,Max Targets: %d,Pinakamataas na Target: %d
+UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Pinakamataas na Target: %d / %d (PVP)
 UI_PRIVATE_SHOP_OK,Shop,Tindahan
-UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Open a Personal Shop
-UI_PRIVATE_SHOP_VENDOR,Vendor,Vendor
-UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Create a Vendor that will sell your items for you
-UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Will you create a vendor?
-UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
-UI_TIMEINFO_TITLE,Info,Info
-UI_TIMEINFO_SERVER,Current Server,Current Server
-UI_TIMEINFO_TIME,Current Time,Current Time
-UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
-UI_TIMEINFO_SESSION,Session Duration,Session Duration
-UI_CHAT_TITLE,Chat,Chat
-UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Your Language
-UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
-UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
-UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
-UI_INVENTORY_UNLOCK,Unmark Favorite,Unmark Favorite
-UI_APP_EXTRABAG_TIP,Opens a second view of your inventory.,Opens a second view of your inventory.
-UI_INVENTORY_TAB_ALL,All,All
-UI_INVENTORY_TAB_GENERAL,General,General
-UI_INVENTORY_TAB_PET,Pet,Pet
-UI_INVENTORY_TAB_CLOTH,Cloth,Cloth
+UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Buksan ang Personal na Tindahan
+UI_PRIVATE_SHOP_VENDOR,Vendor,Magtitinda
+UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Lumikha ng Vendor na magbebenta ng iyong mga item para sa iyo
+UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Gusto mo bang lumikha ng vendor?
+UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop ng Skin:
+UI_TIMEINFO_TITLE,Info,Impormasyon
+UI_TIMEINFO_SERVER,Current Server,Kasalukuyang Server
+UI_TIMEINFO_TIME,Current Time,Kasalukuyang Oras
+UI_TIMEINFO_CONNECTION,Connection Time,Oras ng Koneksyon
+UI_TIMEINFO_SESSION,Session Duration,Haba ng Sesyon
+UI_CHAT_TITLE,Chat,Usap
+UI_CHAT_FILTERS,Filters,Mga salaan
+UI_CHAT_VIEW_LANGUAGES,View Languages,Tingnan ang mga wika
+UI_CHAT_YOUR_LANGUAGE,Your Language,Ang Iyong Wika
+UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,I-convert ang soul link
+UI_INVENTORY_PUTCHAT,Link in Chat,Link sa Chat
+UI_INVENTORY_LOCK,Mark Favorite,I-marka ang paborito
+UI_INVENTORY_UNLOCK,Unmark Favorite,I-alis ang paborito
+UI_APP_EXTRABAG_TIP,Opens a second view of your inventory.,Nagbubukas ng pangalawang view ng iyong imbentaryo.
+UI_INVENTORY_TAB_ALL,All,Lahat
+UI_INVENTORY_TAB_GENERAL,General,Pangkalahatan
+UI_INVENTORY_TAB_PET,Pet,Alagang Hayop
+UI_INVENTORY_TAB_CLOTH,Cloth,Damit
 UI_INVENTORY_TAB_QUEST,Quest,Misyon
-UI_INVENTORY_DROP,Drop,Drop
+UI_INVENTORY_DROP,Drop,Ibagsak
 UI_INVENTORY_DELETE_BTN,Delete,Burahin
-UI_INVENTORY_ACTION_USE,Use,Use
-UI_INVENTORY_ACTION_EQUIP,Equip,Equip
-UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPC.,Cannot be sold to NPC.
-UI_UPGRADE_PROB,Success: #b%s#nb,Success: #b%s#nb
-UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Advanced Shaders
+UI_INVENTORY_ACTION_USE,Use,Gamitin
+UI_INVENTORY_ACTION_EQUIP,Equip,Isuot
+UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPC.,Hindi maaaring ibenta sa NPC.
+UI_UPGRADE_PROB,Success: #b%s#nb,Tagumpay: #b%s#nb
+UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Mga Advanced na Shader
 UI_OPTION_BLOOM,Bloom,Bloom
-UI_OPTION_DOF,Depth of Field,Depth of Field
+UI_OPTION_DOF,Depth of Field,Lalim ng Field
 UI_OPTION_SSAO,SSAO,SSAO
-UI_OPTION_VLIGHT,Volumetric Light,Volumetric Light
-UI_OPTION_WATERQUALITY,Water Quality,Water Quality
-UI_OPTION_WATERQUALITY_TIP,Changes reflection quality and resolution.,Changes reflection quality and resolution.
-UI_OPTION_BLOOMQUALITY,Bloom Quality,Bloom Quality
-UI_OPTION_BLOOMQUALITY_TIP,Changes blur size and intensity of the bloom.,Changes blur size and intensity of the bloom.
-UI_OPTION_COLORBLIND,Colorblind Mode,Colorblind Mode
-UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.,Changes the colorblind filter mode.
-UI_OPTION_CAMERAFOCUS,Camera Focus,Camera Focus
-UI_OPTION_CAMERAFOCUSINFO,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.
-UI_MESSAGE_TIME,%s Ago,%s Ago
-UI_MESSAGE_CLEAR,Clear messages,Clear messages
-UI_INSTANTMSG_TITLE_TIP,Manage your Messages,Manage your Messages
-UI_CHARINFO_PARAM_BEFORE,#b[Before Stat Changes]#nb,#b[Before Stat Changes]#nb
-UI_CHARINFO_PARAM_AFTER,#b[After Stat Changes]#nb,#b[After Stat Changes]#nb
-UI_CHARINFO_PARAM_BASE,From Stats:,From Stats:
-UI_CHARINFO_PARAM_CUSTOM,From Buffs and Equipment:,From Buffs and Equipment:
-UI_WORLD_COMBO,COMBO,COMBO
-UI_BOUNTYINPUT_TITLE,Register Bounty,Register Bounty
-UI_BOUNTYINPUT_HEADER,"Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)","Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)"
-UI_BOUNTYINPUT_CONFIRM,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.
-UI_BOUNTYINPUT_REGISTER,Register,Register
-UI_BOUNTYINPUT_FEE,+ %s%% Fee,+ %s%% Fee
+UI_OPTION_VLIGHT,Volumetric Light,Volumetric na Ilaw
+UI_OPTION_WATERQUALITY,Water Quality,Kalidad ng Tubig
+UI_OPTION_WATERQUALITY_TIP,Changes reflection quality and resolution.,Nagbabago ang kalidad at resolusyon ng repleksyon.
+UI_OPTION_BLOOMQUALITY,Bloom Quality,Kalidad ng Bloom
+UI_OPTION_BLOOMQUALITY_TIP,Changes blur size and intensity of the bloom.,Nagbabago ang laki ng blur at intensity ng bloom.
+UI_OPTION_COLORBLIND,Colorblind Mode,Mode ng Colorblind
+UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.,Nagbabago ang mode ng colorblind filter.
+UI_OPTION_CAMERAFOCUS,Camera Focus,Pokus ng kamera
+UI_OPTION_CAMERAFOCUSINFO,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.,Nagbabalik-tanaw ang awtomatikong pag-zoom at pokus ng kamera kapag nakikipag-ugnayan sa mga bagay at NPC.
+UI_MESSAGE_TIME,%s Ago,%s Tapos
+UI_MESSAGE_CLEAR,Clear messages,Linisin ang mga mensahe
+UI_INSTANTMSG_TITLE_TIP,Manage your Messages,Pamahalaan ang iyong mga Mensahe
+UI_CHARINFO_PARAM_BEFORE,#b[Before Stat Changes]#nb,#b[Bago ang Pagbabago ng Stat]#nb
+UI_CHARINFO_PARAM_AFTER,#b[After Stat Changes]#nb,#b[Pagkatapos ng Pagbabago ng Stat]#nb
+UI_CHARINFO_PARAM_BASE,From Stats:,Mula sa Stat:
+UI_CHARINFO_PARAM_CUSTOM,From Buffs and Equipment:,Mula sa Buffs at Kagamitan:
+UI_WORLD_COMBO,COMBO,KOMBINASYON
+UI_BOUNTYINPUT_TITLE,Register Bounty,Magrehistro ng Bounty
+UI_BOUNTYINPUT_HEADER,"Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)","Sigurado ka bang gusto mong magrehistro ng bounty? (Makikita ito sa listahan ng bounty, min. gantimpala %s Penya)"
+UI_BOUNTYINPUT_CONFIRM,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.,Sigurado ka bang gusto mong magrehistro ng #b%s Penya#nb bounty sa #b%s#nb? Hindi ito maibabalik.
+UI_BOUNTYINPUT_REGISTER,Register,Magrehistro
+UI_BOUNTYINPUT_FEE,+ %s%% Fee,+ %s%% Bayad
 UI_BOUNTYINPUT_TOTAL,%s Penya,%s Penya
-UI_BOUNTYINPUT_LABEL_NAME,Bounty,Bounty
-UI_BOUNTYINPUT_LABEL_DURATION,Duration,Duration
-UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
-UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
-UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
-UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
+UI_BOUNTYINPUT_LABEL_NAME,Bounty,Gantimpala
+UI_BOUNTYINPUT_LABEL_DURATION,Duration,Tagal
+UI_BOUNTYINPUT_LABEL_REWARD,Reward,Premyo
+UI_BOUNTYINPUT_LABEL_TOTAL,Total,Kabuuan
+UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Komento
+UI_BOUNTYLIST_TITLE,Bounty List,Listahan ng Gantimpala
 UI_BOUNTYLIST_HEADER_NAME,Name,Pangalan
-UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
-UI_BOUNTYLIST_HEADER_REWARD,Reward,Reward
-UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
-UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
-UI_BOUNTYPOS_TITLE,Bounty Position,Bounty Position
-UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Are you sure you want to pay %s Penya to see %s's position?
-UI_APP_GACHA_TIP,Displays the Gacha Menu.,Displays the Gacha Menu.
+UI_BOUNTYLIST_HEADER_LEVEL,Level,Antas
+UI_BOUNTYLIST_HEADER_REWARD,Reward,Gantimpala
+UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Oras na Natitira
+UI_BOUNTYLIST_HEADER_COMMENT,Comment,Komento
+UI_BOUNTYPOS_TITLE,Bounty Position,Posisyon ng Gantimpala
+UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Sigurado ka bang gusto mong magbayad ng %s Penya para makita ang posisyon ni %s?
+UI_APP_GACHA_TIP,Displays the Gacha Menu.,Ipinapakita ang menu ng Gacha.
 UI_GACHA_TITLE,Gacha,Gacha
-UI_GACHA_OPEN,Open,Open
-UI_GACHA_QUANTITY_MAX,Max,Max
-UI_GACHA_RESET,Reset,Reset
-UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot."
+UI_GACHA_OPEN,Open,Bukas
+UI_GACHA_QUANTITY_MAX,Max,Pinakamalaki
+UI_GACHA_RESET,Reset,I-reset
+UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","I-drag at i-drop ang isang item pack, isang gift box, isang gacha box o isang housing pack sa item slot."
 UI_GACHA_DESC_ITEMPACK,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.
 UI_GACHA_DESC_GIFTBOX,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.
 UI_GACHA_DESC_GACHA,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.
