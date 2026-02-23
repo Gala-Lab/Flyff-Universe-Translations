@@ -12,11 +12,11 @@ TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,That character
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster Detected!
 TEXTCLIENT_APP_MAP,World Map,World Map
 TEXTCLIENT_APP_OPTION,Options,Options
-TEXTCLIENT_APP_LOGOUT,Logout,Logout
+TEXTCLIENT_APP_LOGOUT,Logout,Utloggning
 TEXTCLIENT_APP_QUIT,Quit,Quit
-TEXTCLIENT_APP_SUPPORT,Support,Support
-TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
-TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigator
+TEXTCLIENT_APP_SUPPORT,Support,Stöd
+TEXTCLIENT_APP_PRIVACY,Privacy,Privatliv
+TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigatör
 TEXTCLIENT_APP_DEBUG,Debug,Debug
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Logging out in %d sec(s).
 TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,Changing character in %d sec(s).
@@ -74,16 +74,16 @@ TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended 
 TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,You can swap stat pages in %d seconds.
 TEXTCLIENT_ADMIN_STATE,Status,Status
 TEXTCLIENT_ADMIN_NORMAL,Normal,Normal
-TEXTCLIENT_SPEED_VERYSLOW,Very slow,Very slow
-TEXTCLIENT_SPEED_LOW,Slow,Slow
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,Väldigt långsam
+TEXTCLIENT_SPEED_LOW,Slow,Långsam
 TEXTCLIENT_SPEED_NORMAL,Normal,Normal
-TEXTCLIENT_SPEED_FAST,Fast,Fast
-TEXTCLIENT_SPEED_VERYFAST,Very fast,Very fast
-TEXTCLIENT_SPEED_FASTEST,Fastest,Fastest
+TEXTCLIENT_SPEED_FAST,Fast,Snabb
+TEXTCLIENT_SPEED_VERYFAST,Very fast,Mycket snabbt
+TEXTCLIENT_SPEED_FASTEST,Fastest,Snabbast
 TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,The %s belongs to another player at the moment. Please wait a while.
 TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Inventory is full. Please make room and try again.
-TEXTCLIENT_REAPITEM,You received %s.,You received %s.
-TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,You received %s +%d.
+TEXTCLIENT_REAPITEM,You received %s.,Du har fått %s.
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Du har fått %s +%d.
 TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s has gained %s.
 TEXTCLIENT_APP_INVENTORY,Inventory,Inventory
 TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,You received %s Penya (Total: %s Penya).
@@ -109,9 +109,9 @@ TEXTCLIENT_APP_SKILL,Skills,Skills
 TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,Character Level: %d
 TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,You are learning new attack patterns!
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,You need to equip the correct weapon or item to use that skill.
-TEXTCLIENT_REQFP,Not enough FP.,Not enough FP.
-TEXTCLIENT_REQMP,Not enough MP.,Not enough MP.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQFP,Not enough FP.,Inte tillräckligt med FP.
+TEXTCLIENT_REQMP,Not enough MP.,Inte tillräckligt med MP.
+TEXTCLIENT_REQHP,Not enough HP.,Inte tillräckligt med HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,This action has been blocked by an obstacle..
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s skill level %d is needed.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s skill level increased.
@@ -119,15 +119,15 @@ TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Private shop
 TEXTCLIENT_APP_QUEST,Quests,Quests
 TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Flyff Shop
 TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Premium Items
-TEXTCLIENT_COMMUNICATION,Communication,Communication
-TEXTCLIENT_COMMUNITY,Community,Community
-TEXTCLIENT_HELPER,Helper,Helper
+TEXTCLIENT_COMMUNICATION,Communication,Kommunikation
+TEXTCLIENT_COMMUNITY,Community,Gemenskap
+TEXTCLIENT_HELPER,Helper,Hjälpare
 TEXTCLIENT_APP_ITEM_DURATION,Duration,Duration
 TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
 TEXTCLIENT_APP_PARTY,Party,Party
 TEXTCLIENT_APP_GUILD,Guild,Guild
 TEXTCLIENT_APP_COUPLE,Couple,Couple
-TEXTCLIENT_APP_HELP,Help,Help
+TEXTCLIENT_APP_HELP,Help,Hjälp
 TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
 TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
@@ -270,7 +270,7 @@ TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in y
 TEXTCLIENT_REAPEXP,You have gained Experience.,You have gained Experience.
 TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,Congratulations! %s has been completed.
 TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.","If a member of party is over level %d, he cannot enter."
-TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,You cannot check that anymore.
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,Det kan du inte kontrollera längre.
 TEXTCLIENT_COMACCEPT,You have joined the %s guild.,You have joined the %s guild.
 TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,You are no longer a member of the %s guild.
 TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,You cannot change your guild logo during a guild duel.
@@ -748,7 +748,7 @@ TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatica
 TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,You can only attack this monster during the quest %s.
 TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,Not enough Protection Scroll.
 TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,Not enough Upgrade Material.
-TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Not enough Penya.
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Inte tillräckligt med Penya.
 TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,Wrong Upgrade Material.
 TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,You need at least #b%d#nb additional %s.
 TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,Party Experience changed to %s.
@@ -1258,7 +1258,7 @@ TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below 
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
-TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Inte tillräckligt med %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.

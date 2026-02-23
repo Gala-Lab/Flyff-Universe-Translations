@@ -3,17 +3,17 @@ PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Hand
 PROPITEM_TXT_000004,Penya,Penya
 PROPITEM_TXT_000012,P.K Reward,P.K Reward
-PROPITEM_TXT_000014,(Practice) Wooden Sword,(Practice) Wooden Sword
-PROPITEM_TXT_000016,Wooden Sword,Wooden Sword
-PROPITEM_TXT_000018,Normal Sword,Normal Sword
-PROPITEM_TXT_000020,Long Sword,Long Sword
+PROPITEM_TXT_000014,(Practice) Wooden Sword,(Öva) Träsvärd
+PROPITEM_TXT_000016,Wooden Sword,Träsvärd
+PROPITEM_TXT_000018,Normal Sword,Normalt svärd
+PROPITEM_TXT_000020,Long Sword,Långt svärd
 PROPITEM_TXT_000022,Hand Saw,Hand Saw
 PROPITEM_TXT_000024,Hand Claw,Hand Claw
 PROPITEM_TXT_000026,Leaf Sword,Leaf Sword
 PROPITEM_TXT_000028,Parmil Sword,Parmil Sword
 PROPITEM_TXT_000030,Penel Sword,Penel Sword
 PROPITEM_TXT_000032,Crimson Sword,Crimson Sword
-PROPITEM_TXT_000034,Flower Sword,Flower Sword
+PROPITEM_TXT_000034,Flower Sword,Blomsvärd
 PROPITEM_TXT_000036,Petal Sword,Petal Sword
 PROPITEM_TXT_000038,Star Sword,Star Sword
 PROPITEM_TXT_000040,Blink Sword,Blink Sword
@@ -1981,48 +1981,48 @@ PROPITEM_TXT_003960,Legendary Golden Staff,Legendary Golden Staff
 PROPITEM_TXT_003962,Legendary Golden Bow,Legendary Golden Bow
 PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Legendary Golden Yo-Yo
 PROPITEM_TXT_003966,First Refresher,First Refresher
-PROPITEM_TXT_003967,MP 65 Recovery,MP 65 Recovery
+PROPITEM_TXT_003967,MP 65 Recovery,Återställer 65 MP
 PROPITEM_TXT_003968,Second Refresher,Second Refresher
-PROPITEM_TXT_003969,MP 125 Recovery,MP 125 Recovery
+PROPITEM_TXT_003969,MP 125 Recovery,Återställer 125 MP
 PROPITEM_TXT_003970,Third Refresher,Third Refresher
-PROPITEM_TXT_003971,MP 185 Recovery,MP 185 Recovery
+PROPITEM_TXT_003971,MP 185 Recovery,Återställer 185 MP
 PROPITEM_TXT_003972,Fourth Refresher,Fourth Refresher
-PROPITEM_TXT_003973,MP 245 Recovery,MP 245 Recovery
+PROPITEM_TXT_003973,MP 245 Recovery,Återställer 245 MP
 PROPITEM_TXT_003974,Fifth Refresher,Fifth Refresher
-PROPITEM_TXT_003975,MP 315 Recovery,MP 315 Recovery
+PROPITEM_TXT_003975,MP 315 Recovery,Återställer 315 MP
 PROPITEM_TXT_003976,Sixth Refresher,Sixth Refresher
-PROPITEM_TXT_003977,MP 375 Recovery,MP 375 Recovery
+PROPITEM_TXT_003977,MP 375 Recovery,Återställer 375 MP
 PROPITEM_TXT_003978,Seventh Refresher,Seventh Refresher
-PROPITEM_TXT_003979,MP 450 Recovery,MP 450 Recovery
+PROPITEM_TXT_003979,MP 450 Recovery,Återställer 450 MP
 PROPITEM_TXT_003980,Eighth Refresher,Eighth Refresher
-PROPITEM_TXT_003981,MP 525 Recovery,MP 525 Recovery
+PROPITEM_TXT_003981,MP 525 Recovery,Återställer 525 MP
 PROPITEM_TXT_003982,Ninth Refresher,Ninth Refresher
-PROPITEM_TXT_003983,MP 600 Recovery,MP 600 Recovery
+PROPITEM_TXT_003983,MP 600 Recovery,Återställer 600 MP
 PROPITEM_TXT_003984,Tenth Refresher,Tenth Refresher
-PROPITEM_TXT_003985,MP 675 Recovery,MP 675 Recovery
+PROPITEM_TXT_003985,MP 675 Recovery,Återställer 675 MP
 PROPITEM_TXT_003986,Antidote Potion,Antidote Potion
 PROPITEM_TXT_003987,A poison antidote. This vial will instantly cure poison effects when consumed.,A poison antidote. This vial will instantly cure poison effects when consumed.
 PROPITEM_TXT_003988,Cure Disease Potion,Cure Disease Potion
 PROPITEM_TXT_003990,Water Bottle,Water Bottle
 PROPITEM_TXT_003992,Oil Bottle,Oil Bottle
 PROPITEM_TXT_003994,VitalDrink 100,VitalDrink 100
-PROPITEM_TXT_003995,FP 60 Recovery,FP 60 Recovery
+PROPITEM_TXT_003995,FP 60 Recovery,Återställer 60 FP
 PROPITEM_TXT_003996,VitalDrink 200,VitalDrink 200
-PROPITEM_TXT_003997,FP 120 Recovery,FP 120 Recovery
+PROPITEM_TXT_003997,FP 120 Recovery,Återställer 120 FP
 PROPITEM_TXT_003998,VitalDrink 300,VitalDrink 300
-PROPITEM_TXT_003999,FP 180 Recovery,FP 180 Recovery
+PROPITEM_TXT_003999,FP 180 Recovery,Återställer 180 FP
 PROPITEM_TXT_004000,VitalDrink 400,VitalDrink 400
-PROPITEM_TXT_004001,FP 240 Recovery,FP 240 Recovery
+PROPITEM_TXT_004001,FP 240 Recovery,Återställer 240 FP
 PROPITEM_TXT_004002,VitalDrink 500,VitalDrink 500
-PROPITEM_TXT_004003,FP 300 Recovery,FP 300 Recovery
+PROPITEM_TXT_004003,FP 300 Recovery,Återställer 300 FP
 PROPITEM_TXT_004004,VitalDrink 600,VitalDrink 600
-PROPITEM_TXT_004005,FP 368 Recovery,FP 368 Recovery
+PROPITEM_TXT_004005,FP 368 Recovery,Återställer 360 FP
 PROPITEM_TXT_004006,VitalDrink 700,VitalDrink 700
-PROPITEM_TXT_004007,FP 450 Recovery,FP 450 Recovery
+PROPITEM_TXT_004007,FP 450 Recovery,Återställer 450 FP
 PROPITEM_TXT_004008,VitalDrink 800,VitalDrink 800
-PROPITEM_TXT_004009,FP 520 Recovery,FP 520 Recovery
+PROPITEM_TXT_004009,FP 520 Recovery,Återställer 520 FP
 PROPITEM_TXT_004010,VitalDrink 900,VitalDrink 900
-PROPITEM_TXT_004011,FP 590 Recovery,FP 590 Recovery
+PROPITEM_TXT_004011,FP 590 Recovery,Återställer 590 FP
 PROPITEM_TXT_004012,Poison Immunity Potion,Poison Immunity Potion
 PROPITEM_TXT_004013,Short Immunity from Potion,Short Immunity from Potion
 PROPITEM_TXT_004014,Demol Earring +1,Demol Earring +1
@@ -2195,148 +2195,148 @@ PROPITEM_TXT_004190,P.K STA Penalty,P.K STA Penalty
 PROPITEM_TXT_004192,P.K INT Penalty,P.K INT Penalty
 PROPITEM_TXT_004194,P.K DEX Penalty,P.K DEX Penalty
 PROPITEM_TXT_004198,Lollipop,Lollipop
-PROPITEM_TXT_004199,Recovers 70 HP,Recovers 70 HP
+PROPITEM_TXT_004199,Recovers 70 HP,Återställer 70 HP
 PROPITEM_TXT_004200,Biscuit,Biscuit
-PROPITEM_TXT_004201,Recovers 140 HP,Recovers 140 HP
+PROPITEM_TXT_004201,Recovers 140 HP,Återställer 140 HP
 PROPITEM_TXT_004202,Chocolate Bar,Chocolate Bar
-PROPITEM_TXT_004203,Recovers 200 HP,Recovers 200 HP
+PROPITEM_TXT_004203,Recovers 200 HP,Återställer 200 HP
 PROPITEM_TXT_004204,Milk,Milk
-PROPITEM_TXT_004205,Recovers 260 HP,Recovers 260 HP
+PROPITEM_TXT_004205,Recovers 260 HP,Återställer 260 HP
 PROPITEM_TXT_004206,Roll Bread,Roll Bread
-PROPITEM_TXT_004207,Recovers 330 HP,Recovers 330 HP
+PROPITEM_TXT_004207,Recovers 330 HP,Återställer 330 HP
 PROPITEM_TXT_004208,Hot Dog,Hot Dog
-PROPITEM_TXT_004209,Recovers 429 HP,Recovers 429 HP
+PROPITEM_TXT_004209,Recovers 429 HP,Återställer 429 HP
 PROPITEM_TXT_004210,Super Hot Dog,Super Hot Dog
-PROPITEM_TXT_004211,Recovers ALL HP,Recovers ALL HP
+PROPITEM_TXT_004211,Recovers ALL HP,Återställer ALLA HP
 PROPITEM_TXT_004212,Pizza,Pizza
-PROPITEM_TXT_004213,Recovers 584 HP,Recovers 584 HP
+PROPITEM_TXT_004213,Recovers 584 HP,Återställer 584 HP
 PROPITEM_TXT_004214,Kimbap,Kimbap
-PROPITEM_TXT_004215,Recovers 724 HP,Recovers 724 HP
+PROPITEM_TXT_004215,Recovers 724 HP,Återställer 724 HP
 PROPITEM_TXT_004216,Chicken Stick,Chicken Stick
-PROPITEM_TXT_004217,Recover 970 HP,Recover 970 HP
+PROPITEM_TXT_004217,Recover 970 HP,Återställer 970 HP
 PROPITEM_TXT_004218,Star Candy,Star Candy
-PROPITEM_TXT_004219,Recover 1200 HP,Recover 1200 HP
+PROPITEM_TXT_004219,Recover 1200 HP,Återställer 1200 HP
 PROPITEM_TXT_004220,Meat Skewer,Meat Skewer
-PROPITEM_TXT_004221,Recovers 120 HP,Recovers 120 HP
+PROPITEM_TXT_004221,Recovers 120 HP,Återställer 120 HP
 PROPITEM_TXT_004222,Barbecue,Barbecue
-PROPITEM_TXT_004223,Recovers 160 HP,Recovers 160 HP
+PROPITEM_TXT_004223,Recovers 160 HP,Återställer 160 HP
 PROPITEM_TXT_004224,Seafood Pancake,Seafood Pancake
-PROPITEM_TXT_004225,Recovers 230 HP,Recovers 230 HP
+PROPITEM_TXT_004225,Recovers 230 HP,Återställer 230 HP
 PROPITEM_TXT_004226,Fish Soup,Fish Soup
-PROPITEM_TXT_004227,Recovers 300 HP,Recovers 300 HP
+PROPITEM_TXT_004227,Recovers 300 HP,Återställer 300 HP
 PROPITEM_TXT_004228,Sausage Casserole,Sausage Casserole
-PROPITEM_TXT_004229,Recovers 370 HP,Recovers 370 HP
+PROPITEM_TXT_004229,Recovers 370 HP,Återställer 370 HP
 PROPITEM_TXT_004230,Fish Stew,Fish Stew
-PROPITEM_TXT_004231,Recovers 514 HP,Recovers 514 HP
+PROPITEM_TXT_004231,Recovers 514 HP,Återställer 514 HP
 PROPITEM_TXT_004232,Steamed Seafood,Steamed Seafood
-PROPITEM_TXT_004233,Recovers 670 HP,Recovers 670 HP
+PROPITEM_TXT_004233,Recovers 670 HP,Återställer 670 HP
 PROPITEM_TXT_004234,Meat Salad,Meat Salad
-PROPITEM_TXT_004235,Recovers 1300 HP,Recovers 1300 HP
+PROPITEM_TXT_004235,Recovers 1300 HP,Återställer 1300 HP
 PROPITEM_TXT_004236,Gratin,Gratin
-PROPITEM_TXT_004237,Recovers 1750 HP,Recovers 1750 HP
+PROPITEM_TXT_004237,Recovers 1750 HP,Återställer 1750 HP
 PROPITEM_TXT_004238,Seafood Pizza,Seafood Pizza
-PROPITEM_TXT_004239,Recovers 1450 HP,Recovers 1450 HP
+PROPITEM_TXT_004239,Recovers 1450 HP,Återställer 1450 HP
 PROPITEM_TXT_004240,Orange Juice,Orange Juice
-PROPITEM_TXT_004241,Recovers 60 HP,Recovers 60 HP
+PROPITEM_TXT_004241,Recovers 60 HP,Återställer 60 HP
 PROPITEM_TXT_004242,Strawberry Shake,Strawberry Shake
-PROPITEM_TXT_004243,Recovers 110 HP,Recovers 110 HP
+PROPITEM_TXT_004243,Recovers 110 HP,Återställer 110 HP
 PROPITEM_TXT_004244,Pineapple Cone,Pineapple Cone
 PROPITEM_TXT_004246,Banana Jujubar,Banana Jujubar
-PROPITEM_TXT_004247,Recovers 210 HP,Recovers 210 HP
+PROPITEM_TXT_004247,Recovers 210 HP,Återställer 210 HP
 PROPITEM_TXT_004248,Fruit Juice,Fruit Juice
 PROPITEM_TXT_004250,Fruit Icewater,Fruit Icewater
-PROPITEM_TXT_004251,Recovers 334 HP,Recovers 334 HP
+PROPITEM_TXT_004251,Recovers 334 HP,Återställer 334 HP
 PROPITEM_TXT_004252,Fruit Parfait,Fruit Parfait
-PROPITEM_TXT_004253,Recovers 452 HP,Recovers 452 HP
+PROPITEM_TXT_004253,Recovers 452 HP,Återställer 452 HP
 PROPITEM_TXT_004254,Fruit Sherbet,Fruit Sherbet
 PROPITEM_TXT_004256,Icecream Cake,Icecream Cake
-PROPITEM_TXT_004257,Recovers 1170 HP,Recovers 1170 HP
+PROPITEM_TXT_004257,Recovers 1170 HP,Återställer 1170 HP
 PROPITEM_TXT_004258,Fruit Punch,Fruit Punch
-PROPITEM_TXT_004259,Recovers 1500 HP,Recovers 1500 HP
-PROPITEM_TXT_004260,Gray Pill,Gray Pill
-PROPITEM_TXT_004261,Recovers 1200 HP,Recovers 1200 HP
-PROPITEM_TXT_004262,Yellow Pill,Yellow Pill
-PROPITEM_TXT_004263,Recover 2000 HP,Recover 2000 HP
-PROPITEM_TXT_004264,Blue Pill,Blue Pill
-PROPITEM_TXT_004265,Recovers 4000 HP,Recovers 4000 HP
-PROPITEM_TXT_004266,Red Pill,Red Pill
-PROPITEM_TXT_004267,Recovers 8000 HP,Recovers 8000 HP
-PROPITEM_TXT_004268,Gold Pill,Gold Pill
-PROPITEM_TXT_004269,Recovers 15000 HP,Recovers 15000 HP
+PROPITEM_TXT_004259,Recovers 1500 HP,Återställer 1500 HP
+PROPITEM_TXT_004260,Gray Pill,Grå piller
+PROPITEM_TXT_004261,Recovers 1200 HP,Återställer 1200 HP
+PROPITEM_TXT_004262,Yellow Pill,Gul piller
+PROPITEM_TXT_004263,Recover 2000 HP,Återställer 2000 HP
+PROPITEM_TXT_004264,Blue Pill,Blå piller
+PROPITEM_TXT_004265,Recovers 4000 HP,Återställer 4000 HP
+PROPITEM_TXT_004266,Red Pill,Röd piller
+PROPITEM_TXT_004267,Recovers 8000 HP,Återställer 8000 HP
+PROPITEM_TXT_004268,Gold Pill,Guldpiller
+PROPITEM_TXT_004269,Recovers 15000 HP,Återställer 15000 HP
 PROPITEM_TXT_004270,Hot Ddukguk,Hot Ddukguk
-PROPITEM_TXT_004271,Recovers 9999 HP,Recovers 9999 HP
+PROPITEM_TXT_004271,Recovers 9999 HP,Återställer 9999 HP
 PROPITEM_TXT_004272,Fresh Ddukguk,Fresh Ddukguk
-PROPITEM_TXT_004273,Recovers 9999 FP,Recovers 9999 FP
+PROPITEM_TXT_004273,Recovers 9999 FP,Återställer 9999 FP
 PROPITEM_TXT_004274,Sweet Ddukguk,Sweet Ddukguk
-PROPITEM_TXT_004275,Recovers 9999 MP,Recovers 9999 MP
+PROPITEM_TXT_004275,Recovers 9999 MP,Återställer 9999 MP
 PROPITEM_TXT_004276,Mineral,Mineral
 PROPITEM_TXT_004278,Erons,Erons
 PROPITEM_TXT_004280,Krasec,Krasec
 PROPITEM_TXT_004282,Guru,Guru
-PROPITEM_TXT_004284,Torch Card,Torch Card
-PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Fire Upgrade: +1 to +5
-PROPITEM_TXT_004286,Flame Card,Flame Card
-PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Fire Element Upgrade: +6 to +10
-PROPITEM_TXT_004288,Lake Card,Lake Card
-PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Water Upgrade: +1 to +5
-PROPITEM_TXT_004290,River Card,River Card
-PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Water Element Upgrade: +6 to +10
-PROPITEM_TXT_004292,Voltage Card,Voltage Card
-PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Electric Upgrade: +1 to +5
-PROPITEM_TXT_004294,Generator Card,Generator Card
-PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Electric Element Upgrade: +6 to +10
-PROPITEM_TXT_004296,Stone Card,Stone Card
-PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Earth Upgrade: +1 to +5
-PROPITEM_TXT_004298,Desert Card,Desert Card
-PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Earth Element Upgrade: +6 to +10
-PROPITEM_TXT_004300,Gale Card,Gale Card
-PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Wind Upgrade: +1 to +5
-PROPITEM_TXT_004302,Cyclone Card,Cyclone Card
-PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Wind Element Upgrade: +6 to +10
-PROPITEM_TXT_004304,Power Dice 4,Power Dice 4
-PROPITEM_TXT_004305,General Upgrade: +1 to +5,General Upgrade: +1 to +5
-PROPITEM_TXT_004306,Power Dice 6,Power Dice 6
-PROPITEM_TXT_004307,General Upgrade: +6 to +10,General Upgrade: +6 to +10
-PROPITEM_TXT_004308,Power Dice 8,Power Dice 8
-PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),Used for Piercing and Accessory Upgrade (Medium Success Rate)
-PROPITEM_TXT_004310,Power Dice 10,Power Dice 10
-PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Used for Piercing and Accessory Upgrade (High Success Rate)
-PROPITEM_TXT_004312,Power Dice 12,Power Dice 12
-PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),General Upgrade: +1 to +10 (High Success Rate)
-PROPITEM_TXT_004314,Volcano Card (2%),Volcano Card (2%)
-PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (When placed in a pierced suit)
-PROPITEM_TXT_004316,Volcano Card (4%),Volcano Card (4%)
-PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (When placed in a pierced suit)
-PROPITEM_TXT_004318,Volcano Card (7%),Volcano Card (7%)
-PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (When placed in pierced suit)
+PROPITEM_TXT_004284,Torch Card,Facklakort
+PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Branduppgradering: +1 till +5
+PROPITEM_TXT_004286,Flame Card,Flamkort
+PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Uppgradering av eldelement: +6 till +10
+PROPITEM_TXT_004288,Lake Card,Sjökort
+PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Vattenuppgradering: +1 till +5
+PROPITEM_TXT_004290,River Card,Flodkort
+PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Uppgradering av vattenelement: +6 till +10
+PROPITEM_TXT_004292,Voltage Card,Spänningskort
+PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Elektrisk uppgradering: +1 till +5
+PROPITEM_TXT_004294,Generator Card,Generatorkort
+PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Uppgradering av elektriskt element: +6 till +10
+PROPITEM_TXT_004296,Stone Card,Stenkort
+PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Jorduppgradering: +1 till +5
+PROPITEM_TXT_004298,Desert Card,Ökenkort
+PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Uppgradering av jordelement: +6 till +10
+PROPITEM_TXT_004300,Gale Card,Gale-kort
+PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Vinduppgradering: +1 till +5
+PROPITEM_TXT_004302,Cyclone Card,Cyklonkort
+PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Uppgradering av vindelement: +6 till +10
+PROPITEM_TXT_004304,Power Dice 4,Krafttärningar 4
+PROPITEM_TXT_004305,General Upgrade: +1 to +5,Allmän uppgradering: +1 till +5
+PROPITEM_TXT_004306,Power Dice 6,Krafttärningar 6
+PROPITEM_TXT_004307,General Upgrade: +6 to +10,Allmän uppgradering: +6 till +10
+PROPITEM_TXT_004308,Power Dice 8,Krafttärningar 8
+PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),Används för piercing och accessoaruppgradering (medelhög framgångsfrekvens)
+PROPITEM_TXT_004310,Power Dice 10,Krafttärningar 10
+PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Används för piercing och accessoaruppgradering (hög framgångsfrekvens)
+PROPITEM_TXT_004312,Power Dice 12,Krafttärningar 12
+PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),Allmän uppgradering: +1 till +10 (Hög framgångsfrekvens)
+PROPITEM_TXT_004314,Volcano Card (2%),Vulkankort (2%)
+PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (När den bär en piercad dräkt)
+PROPITEM_TXT_004316,Volcano Card (4%),Vulkankort (4%)
+PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (När den bär en piercad dräkt)
+PROPITEM_TXT_004318,Volcano Card (7%),Vulkankort (7%)
+PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (När den bär en piercad dräkt)
 PROPITEM_TXT_004320,Ocean Card (2%),Ocean Card (2%)
-PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (When placed in a pierced suit)
+PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (När den bär en piercad dräkt)
 PROPITEM_TXT_004322,Ocean Card (4%),Ocean Card (4%)
-PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (When placed in a pierced suit)
+PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (När den bär en piercad dräkt)
 PROPITEM_TXT_004324,Ocean Card (7%),Ocean Card (7%)
-PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (When placed in a pierced suit)
+PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (När den bär en piercad dräkt)
 PROPITEM_TXT_004326,Vacuum Card (2%),Vacuum Card (2%)
-PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (When placed in a pierced suit)
+PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (När den bär en piercad dräkt)
 PROPITEM_TXT_004328,Vacuum Card (4%),Vacuum Card (4%)
-PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (When placed in a pierced suit)
+PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (När den bär en piercad dräkt)
 PROPITEM_TXT_004330,Vacuum Card (7%),Vacuum Card (7%)
-PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (When placed in a pierced suit)
+PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (När den bär en piercad dräkt)
 PROPITEM_TXT_004332,Lightning Card (2%),Lightning Card (2%)
-PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (When placed in a pierced suit)
+PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (När den bär en piercad dräkt)
 PROPITEM_TXT_004334,Lightning Card (4%),Lightning Card (4%)
-PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (When placed in a pierced suit)
+PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (När den bär en piercad dräkt)
 PROPITEM_TXT_004336,Lightning Card (7%),Lightning Card (7%)
-PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004338,Earthquake Card (2%),Earthquake Card (2%)
-PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004340,Earthquake Card (4%),Earthquake Card (4%)
-PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004342,Earthquake Card (7%),Earthquake Card (7%)
-PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Defense (When placed in a pierced suit)
+PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (När den bär en piercad dräkt)
+PROPITEM_TXT_004338,Earthquake Card (2%),Jordbävningskort (2%)
+PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004340,Earthquake Card (4%),Jordbävningskort (4%)
+PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004342,Earthquake Card (7%),Jordbävningskort (7%)
+PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Försvar (När den bär en piercad dräkt)
 PROPITEM_TXT_004348,Vuul Card,Vuul Card
-PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (When placed in a pierced suit)
+PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (När den bär en piercad dräkt)
 PROPITEM_TXT_004350,Vulcanus Card,Vulcanus Card
-PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% Defense (When placed in a pierced suit)
+PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% Försvar (När den bär en piercad dräkt)
 PROPITEM_TXT_004352,Vulkan Card,Vulkan Card
 PROPITEM_TXT_004353,+1% Max. HP (When placed in a pierced suit),+1% Max. HP (When placed in a pierced suit)
 PROPITEM_TXT_004354,Mountain Breeze Card,Mountain Breeze Card
@@ -2438,8 +2438,8 @@ PROPITEM_TXT_004450,Skill Poster,Skill Poster
 PROPITEM_TXT_004451,Needed to use Billposter skills,Needed to use Billposter skills
 PROPITEM_TXT_004452,Bless Poster,Bless Poster
 PROPITEM_TXT_004453,Needed to use Ringmaster skills,Needed to use Ringmaster skills
-PROPITEM_TXT_004454,Arrows,Arrows
-PROPITEM_TXT_004455,A quiver of arrows,A quiver of arrows
+PROPITEM_TXT_004454,Arrows,Pil
+PROPITEM_TXT_004455,A quiver of arrows,Ett koger av pilar
 PROPITEM_TXT_004456,Collector,Collector
 PROPITEM_TXT_004457,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials.","This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials."
 PROPITEM_TXT_004458,V3 Collector,V3 Collector
@@ -2670,36 +2670,36 @@ PROPITEM_TXT_004751,Increases Exp gain by 50% (x1.5) for 1h. This item can be st
 PROPITEM_TXT_004752,[80] Scroll of Amplification ES,[80] Scroll of Amplification ES
 PROPITEM_TXT_004753,Increases Exp gain by 50% (x1.5) for 1h. This item is not stackable.,Increases Exp gain by 50% (x1.5) for 1h. This item is not stackable.
 PROPITEM_TXT_004754,[120] Scroll of Amplification ES,[120] Scroll of Amplification ES
-PROPITEM_TXT_004772,Ball of Crown (5),Ball of Crown (5)
-PROPITEM_TXT_004773,Summons Lv.5 monsters,Summons Lv.5 monsters
-PROPITEM_TXT_004774,Ball of Crown (10),Ball of Crown (10)
-PROPITEM_TXT_004775,Summons Lv.10 monsters,Summons Lv.10 monsters
-PROPITEM_TXT_004776,Ball of Crown (15),Ball of Crown (15)
-PROPITEM_TXT_004777,Summons Lv. 15 monsters,Summons Lv. 15 monsters
-PROPITEM_TXT_004778,Ball of Crown (20),Ball of Crown (20)
-PROPITEM_TXT_004779,Summons Lv. 20 monsters,Summons Lv. 20 monsters
-PROPITEM_TXT_004780,Ball of Crown (25),Ball of Crown (25)
-PROPITEM_TXT_004781,Summons Lv. 25 monsters,Summons Lv. 25 monsters
-PROPITEM_TXT_004782,Ball of Crown (30),Ball of Crown (30)
-PROPITEM_TXT_004783,Summons Lv. 30 monsters,Summons Lv. 30 monsters
-PROPITEM_TXT_004784,Ball of Crown (35),Ball of Crown (35)
-PROPITEM_TXT_004785,Summons Lv. 35 monsters,Summons Lv. 35 monsters
-PROPITEM_TXT_004786,Ball of Crown (40),Ball of Crown (40)
-PROPITEM_TXT_004787,Summons Lv. 40 monsters,Summons Lv. 40 monsters
-PROPITEM_TXT_004788,Ball of Crown (45),Ball of Crown (45)
-PROPITEM_TXT_004789,Summons Lv. 45 monsters,Summons Lv. 45 monsters
-PROPITEM_TXT_004790,Ball of Crown (50),Ball of Crown (50)
-PROPITEM_TXT_004791,Summons Lv. 50 monsters,Summons Lv. 50 monsters
-PROPITEM_TXT_004792,Ball of Crown (55),Ball of Crown (55)
-PROPITEM_TXT_004793,Summons Lv. 55 monsters,Summons Lv. 55 monsters
-PROPITEM_TXT_004794,Ball of Crown (60),Ball of Crown (60)
-PROPITEM_TXT_004795,Summons Lv. 60 monsters,Summons Lv. 60 monsters
-PROPITEM_TXT_004796,Ball of Crown (65),Ball of Crown (65)
-PROPITEM_TXT_004797,Summons Lv. 65 monsters,Summons Lv. 65 monsters
-PROPITEM_TXT_004798,Ball of Crown (70),Ball of Crown (70)
-PROPITEM_TXT_004799,Summons Lv. 70 monsters,Summons Lv. 70 monsters
+PROPITEM_TXT_004772,Ball of Crown (5),Kronboll (5)
+PROPITEM_TXT_004773,Summons Lv.5 monsters,Kalla fram monster på nivå 5
+PROPITEM_TXT_004774,Ball of Crown (10),Kronboll (10)
+PROPITEM_TXT_004775,Summons Lv.10 monsters,Kalla fram monster på nivå 10
+PROPITEM_TXT_004776,Ball of Crown (15),Kronboll (15)
+PROPITEM_TXT_004777,Summons Lv. 15 monsters,Kalla fram monster på nivå 15
+PROPITEM_TXT_004778,Ball of Crown (20),Kronboll (20)
+PROPITEM_TXT_004779,Summons Lv. 20 monsters,Kalla fram monster på nivå 20
+PROPITEM_TXT_004780,Ball of Crown (25),Kronboll (25)
+PROPITEM_TXT_004781,Summons Lv. 25 monsters,Kalla fram monster på nivå 25
+PROPITEM_TXT_004782,Ball of Crown (30),Kronboll (30)
+PROPITEM_TXT_004783,Summons Lv. 30 monsters,Kalla fram monster på nivå 30
+PROPITEM_TXT_004784,Ball of Crown (35),Kronboll (35)
+PROPITEM_TXT_004785,Summons Lv. 35 monsters,Kalla fram monster på nivå 35
+PROPITEM_TXT_004786,Ball of Crown (40),Kronboll (40)
+PROPITEM_TXT_004787,Summons Lv. 40 monsters,Kalla fram monster på nivå 40
+PROPITEM_TXT_004788,Ball of Crown (45),Kronboll (45)
+PROPITEM_TXT_004789,Summons Lv. 45 monsters,Kalla fram monster på nivå 45
+PROPITEM_TXT_004790,Ball of Crown (50),Kronboll (50)
+PROPITEM_TXT_004791,Summons Lv. 50 monsters,Kalla fram monster på nivå 50
+PROPITEM_TXT_004792,Ball of Crown (55),Kronboll (55)
+PROPITEM_TXT_004793,Summons Lv. 55 monsters,Kalla fram monster på nivå 55
+PROPITEM_TXT_004794,Ball of Crown (60),Kronboll (60)
+PROPITEM_TXT_004795,Summons Lv. 60 monsters,Kalla fram monster på nivå 60
+PROPITEM_TXT_004796,Ball of Crown (65),Kronboll (65)
+PROPITEM_TXT_004797,Summons Lv. 65 monsters,Kalla fram monster på nivå 65
+PROPITEM_TXT_004798,Ball of Crown (70),Kronboll (70)
+PROPITEM_TXT_004799,Summons Lv. 70 monsters,Kalla fram monster på nivå 70
 PROPITEM_TXT_004800,Box of Wish,Box of Wish
-PROPITEM_TXT_004801,What on earth is in the box?,What on earth is in the box?
+PROPITEM_TXT_004801,What on earth is in the box?,Vad i all världen finns i lådan?
 PROPITEM_TXT_004802,Clothes Test,Clothes Test
 PROPITEM_TXT_004803,Item for tesing costumes,Item for tesing costumes
 PROPITEM_TXT_004804,Blue Sailor (M),Blue Sailor (M)
@@ -3195,53 +3195,53 @@ PROPITEM_TXT_005642,Sword Board,Sword Board
 PROPITEM_TXT_005643,This flying board is shaped like a sword!,This flying board is shaped like a sword!
 PROPITEM_TXT_005644,Dragon Stick,Dragon Stick
 PROPITEM_TXT_005645,Flying broom stick shaped like a dragon.,Flying broom stick shaped like a dragon.
-PROPITEM_TXT_005646,1st Card,1st Card
-PROPITEM_TXT_005648,2nd Card,2nd Card
-PROPITEM_TXT_005650,3rd Card,3rd Card
-PROPITEM_TXT_005652,4th Card,4th Card
-PROPITEM_TXT_005654,5th Card,5th Card
-PROPITEM_TXT_005656,6th Card,6th Card
-PROPITEM_TXT_005658,7th Card,7th Card
-PROPITEM_TXT_005660,8th Card,8th Card
-PROPITEM_TXT_005662,9th Card,9th Card
-PROPITEM_TXT_005664,10th Card,10th Card
-PROPITEM_TXT_005666,11th Card,11th Card
-PROPITEM_TXT_005667,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.
-PROPITEM_TXT_005668,12th Card,12th Card
-PROPITEM_TXT_005670,13th Card,13th Card
-PROPITEM_TXT_005672,14th Card,14th Card
-PROPITEM_TXT_005674,15th Card,15th Card
-PROPITEM_TXT_005676,16th Card,16th Card
-PROPITEM_TXT_005678,17th Card,17th Card
-PROPITEM_TXT_005680,18th Card,18th Card
-PROPITEM_TXT_005682,19th Card,19th Card
-PROPITEM_TXT_005684,20th Card,20th Card
-PROPITEM_TXT_005686,A Card,A Card
-PROPITEM_TXT_005688,B Card,B Card
-PROPITEM_TXT_005690,C Card,C Card
-PROPITEM_TXT_005692,D Card,D Card
-PROPITEM_TXT_005694,E Card,E Card
-PROPITEM_TXT_005696,F Card,F Card
-PROPITEM_TXT_005698,G Card,G Card
-PROPITEM_TXT_005700,H Card,H Card
-PROPITEM_TXT_005702,I Card,I Card
-PROPITEM_TXT_005704,J Card,J Card
-PROPITEM_TXT_005706,K Card,K Card
-PROPITEM_TXT_005708,L Card,L Card
-PROPITEM_TXT_005710,M Card,M Card
-PROPITEM_TXT_005712,N Card,N Card
-PROPITEM_TXT_005714,O Card,O Card
-PROPITEM_TXT_005716,P Card,P Card
-PROPITEM_TXT_005718,Q Card,Q Card
-PROPITEM_TXT_005720,R Card,R Card
-PROPITEM_TXT_005722,S Card,S Card
-PROPITEM_TXT_005724,T Card,T Card
-PROPITEM_TXT_005726,U Card,U Card
-PROPITEM_TXT_005728,V Card,V Card
-PROPITEM_TXT_005730,W Card,W Card
-PROPITEM_TXT_005732,X Card,X Card
-PROPITEM_TXT_005734,Y Card,Y Card
-PROPITEM_TXT_005736,Z Card,Z Card
+PROPITEM_TXT_005646,1st Card,1:a kortet
+PROPITEM_TXT_005648,2nd Card,2:a kortet
+PROPITEM_TXT_005650,3rd Card,3:e kortet
+PROPITEM_TXT_005652,4th Card,4:e kortet
+PROPITEM_TXT_005654,5th Card,5:e kortet
+PROPITEM_TXT_005656,6th Card,6:e kortet
+PROPITEM_TXT_005658,7th Card,7:e kortet
+PROPITEM_TXT_005660,8th Card,8:e kortet
+PROPITEM_TXT_005662,9th Card,9:e kortet
+PROPITEM_TXT_005664,10th Card,10:e kortet
+PROPITEM_TXT_005666,11th Card,11:e kortet
+PROPITEM_TXT_005667,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.,Ett specialutgåva av Flyff World Championship-kort som kan kombineras med andra kort för att skapa kraftfulla föremål under FWC-pusselevenemanget. Besök kortmästaren i östra Flarine för att byta kort.
+PROPITEM_TXT_005668,12th Card,12:e kortet
+PROPITEM_TXT_005670,13th Card,13:e kortet
+PROPITEM_TXT_005672,14th Card,14:e kortet
+PROPITEM_TXT_005674,15th Card,15:e kortet
+PROPITEM_TXT_005676,16th Card,16:e kortet
+PROPITEM_TXT_005678,17th Card,17:e kortet
+PROPITEM_TXT_005680,18th Card,18:e kortet
+PROPITEM_TXT_005682,19th Card,19:e kortet
+PROPITEM_TXT_005684,20th Card,20:e kortet
+PROPITEM_TXT_005686,A Card,A-Kort
+PROPITEM_TXT_005688,B Card,B-Kort
+PROPITEM_TXT_005690,C Card,C-Kort
+PROPITEM_TXT_005692,D Card,D-Kort
+PROPITEM_TXT_005694,E Card,E-Kort
+PROPITEM_TXT_005696,F Card,F-Kort
+PROPITEM_TXT_005698,G Card,G-Kort
+PROPITEM_TXT_005700,H Card,H-Kort
+PROPITEM_TXT_005702,I Card,I-Kort
+PROPITEM_TXT_005704,J Card,J-Kort
+PROPITEM_TXT_005706,K Card,K-Kort
+PROPITEM_TXT_005708,L Card,L-Kort
+PROPITEM_TXT_005710,M Card,M-Kort
+PROPITEM_TXT_005712,N Card,N-Kort
+PROPITEM_TXT_005714,O Card,O-Kort
+PROPITEM_TXT_005716,P Card,P-Kort
+PROPITEM_TXT_005718,Q Card,Q-Kort
+PROPITEM_TXT_005720,R Card,R-Kort
+PROPITEM_TXT_005722,S Card,S-Kort
+PROPITEM_TXT_005724,T Card,T-Kort
+PROPITEM_TXT_005726,U Card,U-Kort
+PROPITEM_TXT_005728,V Card,V-Kort
+PROPITEM_TXT_005730,W Card,W-Kort
+PROPITEM_TXT_005732,X Card,X-Kort
+PROPITEM_TXT_005734,Y Card,Y-Kort
+PROPITEM_TXT_005736,Z Card,Z-Kort
 PROPITEM_TXT_005744,Mars Dungeon Key,Mars Dungeon Key
 PROPITEM_TXT_005745,Quest Item: Opens a sealed room in the Mars Dungeon.,Quest Item: Opens a sealed room in the Mars Dungeon.
 PROPITEM_TXT_005746,Dungeon Tarin Root,Dungeon Tarin Root
@@ -17449,12 +17449,12 @@ PROPITEM_TXT_133068,Chili Powder,Chili Powder
 PROPITEM_TXT_133069,A neccessary ingredient to make spicy dishes.,A neccessary ingredient to make spicy dishes.
 PROPITEM_TXT_133070,Flour,Flour
 PROPITEM_TXT_133071,A powder made by grinding wheat.,A powder made by grinding wheat.
-PROPITEM_TXT_133072,Water,Water
-PROPITEM_TXT_133073,Clean water.,Clean water.
-PROPITEM_TXT_133074,Sausage,Sausage
-PROPITEM_TXT_133075,Sausage made from pork.,Sausage made from pork.
-PROPITEM_TXT_133076,Chicken,Chicken
-PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,A piece of chicken meat. You can use it in various dishes.
+PROPITEM_TXT_133072,Water,Vatten
+PROPITEM_TXT_133073,Clean water.,Rent vatten.
+PROPITEM_TXT_133074,Sausage,Korv
+PROPITEM_TXT_133075,Sausage made from pork.,Korv gjord av fläsk.
+PROPITEM_TXT_133076,Chicken,Tamhöna
+PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,En bit kycklingkött. Du kan använda den i olika rätter.
 PROPITEM_TXT_133078,Cooking Oil,Cooking Oil
 PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,A bottle of cooking oil. You can use it in various dishes.
 PROPITEM_TXT_133080,Black Pepper,Black Pepper
@@ -18023,135 +18023,135 @@ PROPITEM_TXT_133641,Pine Oil (B),Pine Oil (B)
 PROPITEM_TXT_133642,Pine Oil (A),Pine Oil (A)
 PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,This oil is harvested from pine trees. It has many uses.
 PROPITEM_TXT_133644,VitalDrink 100 (C),VitalDrink 100 (C)
-PROPITEM_TXT_133645,FP 72 Recovery,FP 72 Recovery
+PROPITEM_TXT_133645,FP 72 Recovery,Återställer 72 FP
 PROPITEM_TXT_133646,VitalDrink 200 (C),VitalDrink 200 (C)
-PROPITEM_TXT_133647,FP 144 Recovery,FP 144 Recovery
+PROPITEM_TXT_133647,FP 144 Recovery,Återställer 144 FP
 PROPITEM_TXT_133648,VitalDrink 200 (B),VitalDrink 200 (B)
 PROPITEM_TXT_133649,VitalDrink 200 (A),VitalDrink 200 (A)
 PROPITEM_TXT_133650,VitalDrink 200 (A+),VitalDrink 200 (A+)
-PROPITEM_TXT_133651,FP 156 Recovery,FP 156 Recovery
+PROPITEM_TXT_133651,FP 156 Recovery,Återställer 156 FP
 PROPITEM_TXT_133652,First Refresher (C),First Refresher (C)
-PROPITEM_TXT_133653,MP 78 Recovery,MP 78 Recovery
-PROPITEM_TXT_133654,Gray Pill (C),Gray Pill (C)
-PROPITEM_TXT_133655,Recovers 1320 HP,Recovers 1320 HP
-PROPITEM_TXT_133656,Gray Pill (B),Gray Pill (B)
-PROPITEM_TXT_133657,Gray Pill (A),Gray Pill (A)
-PROPITEM_TXT_133658,Gray Pill (A+),Gray Pill (A+)
-PROPITEM_TXT_133659,Recovers 1380 HP,Recovers 1380 HP
+PROPITEM_TXT_133653,MP 78 Recovery,Återställer 78 MP
+PROPITEM_TXT_133654,Gray Pill (C),Grå piller (C)
+PROPITEM_TXT_133655,Recovers 1320 HP,Återställer 1320 HP
+PROPITEM_TXT_133656,Gray Pill (B),Grå piller (B)
+PROPITEM_TXT_133657,Gray Pill (A),Grå piller (A)
+PROPITEM_TXT_133658,Gray Pill (A+),Grå piller (A+)
+PROPITEM_TXT_133659,Recovers 1380 HP,Återställer 1380 HP
 PROPITEM_TXT_133660,Second Refresher (C),Second Refresher (C)
-PROPITEM_TXT_133661,MP 150 Recovery,MP 150 Recovery
+PROPITEM_TXT_133661,MP 150 Recovery,Återställer 150 FP
 PROPITEM_TXT_133662,Second Refresher (B),Second Refresher (B)
 PROPITEM_TXT_133663,Second Refresher (A),Second Refresher (A)
 PROPITEM_TXT_133664,Second Refresher (A+),Second Refresher (A+)
-PROPITEM_TXT_133665,MP 163 Recovery,MP 163 Recovery
+PROPITEM_TXT_133665,MP 163 Recovery,Återställer 163 FP
 PROPITEM_TXT_133666,VitalDrink 300 (C),VitalDrink 300 (C)
-PROPITEM_TXT_133667,FP 216 Recovery,FP 216 Recovery
+PROPITEM_TXT_133667,FP 216 Recovery,Återställer 216 FP
 PROPITEM_TXT_133668,VitalDrink 300 (B),VitalDrink 300 (B)
 PROPITEM_TXT_133669,VitalDrink 300 (A),VitalDrink 300 (A)
 PROPITEM_TXT_133670,VitalDrink 300 (A+),VitalDrink 300 (A+)
-PROPITEM_TXT_133671,FP 234 Recovery,FP 234 Recovery
+PROPITEM_TXT_133671,FP 234 Recovery,Återställer 234 FP
 PROPITEM_TXT_133672,VitalDrink 400 (C),VitalDrink 400 (C)
-PROPITEM_TXT_133673,FP 288 Recovery,FP 288 Recovery
+PROPITEM_TXT_133673,FP 288 Recovery,Återställer 288 FP
 PROPITEM_TXT_133674,VitalDrink 400 (B),VitalDrink 400 (B)
 PROPITEM_TXT_133675,VitalDrink 400 (A),VitalDrink 400 (A)
 PROPITEM_TXT_133676,VitalDrink 400 (A+),VitalDrink 400 (A+)
-PROPITEM_TXT_133677,FP 312 Recovery,FP 312 Recovery
+PROPITEM_TXT_133677,FP 312 Recovery,Återställer 312 FP
 PROPITEM_TXT_133678,VitalDrink 500 (C),VitalDrink 500 (C)
-PROPITEM_TXT_133679,FP 360 Recovery,FP 360 Recovery
+PROPITEM_TXT_133679,FP 360 Recovery,Återställer 360 FP
 PROPITEM_TXT_133680,VitalDrink 500 (B),VitalDrink 500 (B)
 PROPITEM_TXT_133681,VitalDrink 500 (A),VitalDrink 500 (A)
 PROPITEM_TXT_133682,VitalDrink 500 (A+),VitalDrink 500 (A+)
-PROPITEM_TXT_133683,FP 390 Recovery,FP 390 Recovery
+PROPITEM_TXT_133683,FP 390 Recovery,Återställer 390 FP
 PROPITEM_TXT_133684,VitalDrink 600 (C),VitalDrink 600 (C)
-PROPITEM_TXT_133685,FP 442 Recovery,FP 442 Recovery
+PROPITEM_TXT_133685,FP 442 Recovery,Återställer 442 FP
 PROPITEM_TXT_133686,VitalDrink 600 (B),VitalDrink 600 (B)
 PROPITEM_TXT_133687,VitalDrink 600 (A),VitalDrink 600 (A)
 PROPITEM_TXT_133688,VitalDrink 600 (A+),VitalDrink 600 (A+)
-PROPITEM_TXT_133689,FP 478 Recovery,FP 478 Recovery
+PROPITEM_TXT_133689,FP 478 Recovery,Återställer 478 FP
 PROPITEM_TXT_133690,VitalDrink 700 (C),VitalDrink 700 (C)
-PROPITEM_TXT_133691,FP 540 Recovery,FP 540 Recovery
+PROPITEM_TXT_133691,FP 540 Recovery,Återställer 540 FP
 PROPITEM_TXT_133692,VitalDrink 700 (B),VitalDrink 700 (B)
 PROPITEM_TXT_133693,VitalDrink 700 (A),VitalDrink 700 (A)
 PROPITEM_TXT_133694,VitalDrink 700 (A+),VitalDrink 700 (A+)
-PROPITEM_TXT_133695,FP 585 Recovery,FP 585 Recovery
+PROPITEM_TXT_133695,FP 585 Recovery,Återställer 585 FP
 PROPITEM_TXT_133696,VitalDrink 800 (C),VitalDrink 800 (C)
-PROPITEM_TXT_133697,FP 624 Recovery,FP 624 Recovery
+PROPITEM_TXT_133697,FP 624 Recovery,Återställer 624 FP
 PROPITEM_TXT_133698,VitalDrink 800 (B),VitalDrink 800 (B)
 PROPITEM_TXT_133699,VitalDrink 800 (A),VitalDrink 800 (A)
 PROPITEM_TXT_133700,VitalDrink 800 (A+),VitalDrink 800 (A+)
-PROPITEM_TXT_133701,FP 676 Recovery,FP 676 Recovery
-PROPITEM_TXT_133702,Yellow Pill (C),Yellow Pill (C)
-PROPITEM_TXT_133703,Recovers 2200 HP,Recovers 2200 HP
-PROPITEM_TXT_133704,Yellow Pill (B),Yellow Pill (B)
-PROPITEM_TXT_133705,Yellow Pill (A),Yellow Pill (A)
-PROPITEM_TXT_133706,Yellow Pill (A+),Yellow Pill (A+)
-PROPITEM_TXT_133707,Recovers 2300 HP,Recovers 2300 HP
-PROPITEM_TXT_133708,Blue Pill (C),Blue Pill (C)
-PROPITEM_TXT_133709,Recovers 4400 HP,Recovers 4400 HP
-PROPITEM_TXT_133710,Blue Pill (B),Blue Pill (B)
-PROPITEM_TXT_133711,Blue Pill (A),Blue Pill (A)
-PROPITEM_TXT_133712,Blue Pill (A+),Blue Pill (A+)
-PROPITEM_TXT_133713,Recovers 4600 HP,Recovers 4600 HP
-PROPITEM_TXT_133714,Red Pill (C),Red Pill (C)
-PROPITEM_TXT_133715,Recovers 8800 HP,Recovers 8800 HP
-PROPITEM_TXT_133716,Red Pill (B),Red Pill (B)
-PROPITEM_TXT_133717,Red Pill (A),Red Pill (A)
-PROPITEM_TXT_133718,Red Pill (A+),Red Pill (A+)
-PROPITEM_TXT_133719,Recovers 9200 HP,Recovers 9200 HP
+PROPITEM_TXT_133701,FP 676 Recovery,Återställer 676 FP
+PROPITEM_TXT_133702,Yellow Pill (C),Gul piller (C)
+PROPITEM_TXT_133703,Recovers 2200 HP,Återställer 2200 HP
+PROPITEM_TXT_133704,Yellow Pill (B),Gul piller (B)
+PROPITEM_TXT_133705,Yellow Pill (A),Gul piller (A)
+PROPITEM_TXT_133706,Yellow Pill (A+),Gul piller (A+)
+PROPITEM_TXT_133707,Recovers 2300 HP,Återställer 2300 HP
+PROPITEM_TXT_133708,Blue Pill (C),Blå piller (C)
+PROPITEM_TXT_133709,Recovers 4400 HP,Återställer 4400 HP
+PROPITEM_TXT_133710,Blue Pill (B),Blå piller (B)
+PROPITEM_TXT_133711,Blue Pill (A),Blå piller (A)
+PROPITEM_TXT_133712,Blue Pill (A+),Blå piller (A+)
+PROPITEM_TXT_133713,Recovers 4600 HP,Återställer 4600 HP
+PROPITEM_TXT_133714,Red Pill (C),Röd piller (C)
+PROPITEM_TXT_133715,Recovers 8800 HP,Återställer 8800 FP
+PROPITEM_TXT_133716,Red Pill (B),Röd piller (B)
+PROPITEM_TXT_133717,Red Pill (A),Röd piller (A)
+PROPITEM_TXT_133718,Red Pill (A+),Röd piller (A+)
+PROPITEM_TXT_133719,Recovers 9200 HP,Återställer 9200 FP
 PROPITEM_TXT_133720,Third Refresher (C),Third Refresher (C)
-PROPITEM_TXT_133721,MP 222 Recovery,MP 222 Recovery
+PROPITEM_TXT_133721,MP 222 Recovery,Återställer 222 MP
 PROPITEM_TXT_133722,Third Refresher (B),Third Refresher (B)
 PROPITEM_TXT_133723,Third Refresher (A),Third Refresher (A)
 PROPITEM_TXT_133724,Third Refresher (A+),Third Refresher (A+)
-PROPITEM_TXT_133725,MP 241 Recovery,MP 241 Recovery
+PROPITEM_TXT_133725,MP 241 Recovery,Återställer 241 MP
 PROPITEM_TXT_133726,Fourth Refresher (C),Fourth Refresher (C)
-PROPITEM_TXT_133727,MP 294 Recovery,MP 294 Recovery
+PROPITEM_TXT_133727,MP 294 Recovery,Återställer 294 MP
 PROPITEM_TXT_133728,Fourth Refresher (B),Fourth Refresher (B)
 PROPITEM_TXT_133729,Fourth Refresher (A),Fourth Refresher (A)
 PROPITEM_TXT_133730,Fourth Refresher (A+),Fourth Refresher (A+)
-PROPITEM_TXT_133731,MP 319 Recovery,MP 319 Recovery
+PROPITEM_TXT_133731,MP 319 Recovery,Återställer 319 MP
 PROPITEM_TXT_133732,Fifth Refresher (C),Fifth Refresher (C)
-PROPITEM_TXT_133733,MP 378 Recovery,MP 378 Recovery
+PROPITEM_TXT_133733,MP 378 Recovery,Återställer 378 MP
 PROPITEM_TXT_133734,Fifth Refresher (B),Fifth Refresher (B)
 PROPITEM_TXT_133735,Fifth Refresher (A),Fifth Refresher (A)
 PROPITEM_TXT_133736,Fifth Refresher (A+),Fifth Refresher (A+)
-PROPITEM_TXT_133737,MP 410 Recovery,MP 410 Recovery
+PROPITEM_TXT_133737,MP 410 Recovery,Återställer 410 MP
 PROPITEM_TXT_133738,Sixth Refresher (C),Sixth Refresher (C)
-PROPITEM_TXT_133739,MP 450 Recovery,MP 450 Recovery
+PROPITEM_TXT_133739,MP 450 Recovery,Återställer 450 MP
 PROPITEM_TXT_133740,Sixth Refresher (B),Sixth Refresher (B)
 PROPITEM_TXT_133741,Sixth Refresher (A),Sixth Refresher (A)
 PROPITEM_TXT_133742,Sixth Refresher (A+),Sixth Refresher (A+)
-PROPITEM_TXT_133743,MP 488 Recovery,MP 488 Recovery
+PROPITEM_TXT_133743,MP 488 Recovery,Återställer 488 MP
 PROPITEM_TXT_133744,Seventh Refresher (C),Seventh Refresher (C)
-PROPITEM_TXT_133745,MP 540 Recovery,MP 540 Recovery
+PROPITEM_TXT_133745,MP 540 Recovery,Återställer 540 MP
 PROPITEM_TXT_133746,Seventh Refresher (B),Seventh Refresher (B)
 PROPITEM_TXT_133747,Seventh Refresher (A),Seventh Refresher (A)
 PROPITEM_TXT_133748,Seventh Refresher (A+),Seventh Refresher (A+)
-PROPITEM_TXT_133749,MP 585 Recovery,MP 585 Recovery
+PROPITEM_TXT_133749,MP 585 Recovery,Återställer 585 MP
 PROPITEM_TXT_133750,VitalDrink 900 (C),VitalDrink 900 (C)
-PROPITEM_TXT_133751,FP 708 Recovery,FP 708 Recovery
+PROPITEM_TXT_133751,FP 708 Recovery,Återställer 708 MP
 PROPITEM_TXT_133752,VitalDrink 900 (B),VitalDrink 900 (B)
 PROPITEM_TXT_133753,VitalDrink 900 (A),VitalDrink 900 (A)
 PROPITEM_TXT_133754,VitalDrink 900 (A+),VitalDrink 900 (A+)
-PROPITEM_TXT_133755,FP 767 Recovery,FP 767 Recovery
+PROPITEM_TXT_133755,FP 767 Recovery,Återställer 767 MP
 PROPITEM_TXT_133756,Ninth Refresher (C),Ninth Refresher (C)
-PROPITEM_TXT_133757,MP 720 Recovery,MP 720 Recovery
+PROPITEM_TXT_133757,MP 720 Recovery,Återställer 720 MP
 PROPITEM_TXT_133758,Ninth Refresher (B),Ninth Refresher (B)
 PROPITEM_TXT_133759,Ninth Refresher (A),Ninth Refresher (A)
 PROPITEM_TXT_133760,Ninth Refresher (A+),Ninth Refresher (A+)
-PROPITEM_TXT_133761,MP 780 Recovery,MP 780 Recovery
+PROPITEM_TXT_133761,MP 780 Recovery,Återställer 780 MP
 PROPITEM_TXT_133762,Tenth Refresher (C),Tenth Refresher (C)
-PROPITEM_TXT_133763,MP 810 Recovery,MP 810 Recovery
+PROPITEM_TXT_133763,MP 810 Recovery,Återställer 810 MP
 PROPITEM_TXT_133764,Tenth Refresher (B),Tenth Refresher (B)
 PROPITEM_TXT_133765,Tenth Refresher (A),Tenth Refresher (A)
 PROPITEM_TXT_133766,Tenth Refresher (A+),Tenth Refresher (A+)
-PROPITEM_TXT_133767,MP 878 Recovery,MP 878 Recovery
-PROPITEM_TXT_133768,Gold Pill (C),Gold Pill (C)
-PROPITEM_TXT_133769,Recovers 16500 HP,Recovers 16500 HP
-PROPITEM_TXT_133770,Gold Pill (B),Gold Pill (B)
-PROPITEM_TXT_133771,Gold Pill (A),Gold Pill (A)
-PROPITEM_TXT_133772,Gold Pill (A+),Gold Pill (A+)
-PROPITEM_TXT_133773,Recovers 17250 HP,Recovers 17250 HP
+PROPITEM_TXT_133767,MP 878 Recovery,Återställer 878 MP
+PROPITEM_TXT_133768,Gold Pill (C),Guldpiller (C)
+PROPITEM_TXT_133769,Recovers 16500 HP,Återställer 16500 HP
+PROPITEM_TXT_133770,Gold Pill (B),Guldpiller (B)
+PROPITEM_TXT_133771,Gold Pill (A),Guldpiller (A)
+PROPITEM_TXT_133772,Gold Pill (A+),Guldpiller (A+)
+PROPITEM_TXT_133773,Recovers 17250 HP,Återställer 17250 HP
 PROPITEM_TXT_133774,Shining Gold Pill,Shining Gold Pill
 PROPITEM_TXT_133775,A shining gold pill.,A shining gold pill.
 PROPITEM_TXT_133776,Shining Gold Pill (C),Shining Gold Pill (C)
@@ -19007,11 +19007,11 @@ PROPITEM_TXT_134626,Master's Diamond Ring,Master's Diamond Ring
 PROPITEM_TXT_134627,Cooking Egg,Cooking Egg
 PROPITEM_TXT_134628,These eggs are used for cooking.,These eggs are used for cooking.
 PROPITEM_TXT_134629,Eighth Refresher (C),Eighth Refresher (C)
-PROPITEM_TXT_134630,MP 630 Recovery,MP 630 Recovery
+PROPITEM_TXT_134630,MP 630 Recovery,Återställer 630 MP
 PROPITEM_TXT_134631,Eighth Refresher (B),Eighth Refresher (B)
 PROPITEM_TXT_134632,Eighth Refresher (A),Eighth Refresher (A)
 PROPITEM_TXT_134633,Eighth Refresher (A+),Eighth Refresher (A+)
-PROPITEM_TXT_134634,MP 683 Recovery,MP 683 Recovery
+PROPITEM_TXT_134634,MP 683 Recovery,Återställer 683 MP
 PROPITEM_TXT_134635,Enduky +4,Enduky +4
 PROPITEM_TXT_134636,Enduky +5,Enduky +5
 PROPITEM_TXT_134637,Handmade Silver Ring (C),Handmade Silver Ring (C)

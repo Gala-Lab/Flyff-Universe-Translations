@@ -1,20 +1,20 @@
 ﻿Key,English,Swedish
 LANGUAGE_CODE,EN,SW
 UI_HOME_TITLE,Home,Home
-UI_HOME_GUESTCHAR,Guest Character,Guest Character
-UI_HOME_NEWCHAR,New Character,New Character
-UI_HOME_NEWCHAR_TIP,Create a new character without account.,Create a new character without account.
-UI_HOME_LOGIN,Sign In,Sign In
+UI_HOME_GUESTCHAR,Guest Character,Gästkaraktär
+UI_HOME_NEWCHAR,New Character,Ny karaktär
+UI_HOME_NEWCHAR_TIP,Create a new character without account.,Skapa en ny karaktär utan konto.
+UI_HOME_LOGIN,Sign In,Logga in
 UI_HOME_REGISTER,Sign Up,Sign Up
-UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Enter ID & password, and press OK to connect to the game."
-UI_HOME_ALREADYACCOUNT,Already have an account?,Already have an account?
-UI_HOME_WEBSITE,Website,Website
-UI_HOME_CREDITS,Credits,Credits
+UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Ange ID och lösenord och tryck på OK för att ansluta till spelet."
+UI_HOME_ALREADYACCOUNT,Already have an account?,Har du redan ett konto?
+UI_HOME_WEBSITE,Website,Webbplats
+UI_HOME_CREDITS,Credits,Krediter
 UI_HOME_OR,Or,Or
 UI_HOME_LOGIN_DOTS,Email:,Email:
 UI_HOME_PASSWORD,Password:,Lösenord:
 UI_HOME_RECOVER,Forgot password?,Glömt lösenord?
-UI_SELECTSERVER_TITLE,Select Server,Select Server
+UI_SELECTSERVER_TITLE,Select Server,Välj server
 UI_SELECTSERVER_BACK,Back,Tillbaka
 UI_SELECTSERVER_NEXT,Next,Nästa
 UI_SELECTSERVER_FULL,full,full
@@ -23,13 +23,13 @@ UI_SELECTSERVER_BEST,best,best
 UI_SELECTSERVER_NEWNAME,Please enter another name:,Please enter another name:
 UI_SELECTSERVER_NAMETITLE,Character Name,Character Name
 UI_CHARLIST_TITLE,Characters,Characters
-UI_CHARLIST_PLAY,Play,Play
+UI_CHARLIST_PLAY,Play,Spela
 UI_CHARLIST_NEW,New,Skapa
 UI_CHARLIST_DELETE,Delete,Ta bort
 UI_DELETECHAR_TITLE,Delete Character,Delete Character
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
-UI_DELETECHAR_NOPASS,Do you confirm?,Do you confirm?
-UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","If you delete a character, you cannot use its name during a week."
+UI_DELETECHAR_NOPASS,Do you confirm?,Bekräftar du?
+UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Om du tar bort en karaktär kan du inte använda dess namn under en vecka."
 UI_NEWCHAR_NAME,Name:,Name:
 UI_NEWCHAR_GIRL,Girl,Girl
 UI_NEWCHAR_BOY,Boy,Boy
@@ -45,13 +45,13 @@ UI_OPTION_MUSIC,Music,Musik
 UI_OPTION_SOUND,Sound,Ljud
 UI_OPTION_TEXQUALITY,Textures,Textures
 UI_OPTION_TEXTOON,Cartoon,Cartoon
-UI_OPTION_TEXHIGH,High,High
+UI_OPTION_TEXHIGH,High,Hög
 UI_OPTION_TEXMID,Medium,Medium
-UI_OPTION_TEXLOW,Low,Low
+UI_OPTION_TEXLOW,Low,Låg
 UI_OPTION_WEATHER,Weather,Weather
 UI_OPTION_LANGUAGE,Language,Språk
 UI_OPTION_SAVE,Save,Save
-UI_NAVIGATOR_PLAYER,Player,Player
+UI_NAVIGATOR_PLAYER,Player,Spelare
 UI_NAVIGATOR_PARTY,Party,Party
 UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Monster
@@ -1369,8 +1369,8 @@ UI_GACHA_LASTITEM,Last item,Last item
 UI_GACHA_PREVIEW,PREVIEW,PREVIEW
 UI_GACHA_SOLDOUT,Sold out,Sold out
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Welcome to the world of		\nFlyff Online!
-UI_WELCOME_BTN,Let's go!,Let's go!
-UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
+UI_WELCOME_BTN,Let's go!,Nu kör vi!
+UI_TUTORIAL_MSG,Do you want the tutorial?,Vill du ha handledningen?
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Incoming Damage
 UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Damage Redirection
 UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Incoming Healing
@@ -1472,8 +1472,8 @@ UI_TRANSMUTE_INFO,Add more items to your wardrobe by using \na #bScroll of Trans
 UI_TRANSMUTE_OUTPUT,Output,Output
 UI_TRANSMUTE_PRIMARY_TIP,Place an item to add a visual transmutation to.,Place an item to add a visual transmutation to.
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,Place an item to sacrifice for the appearance.
-UI_TELEPORT_BTN,Let's go!,Let's go!
-UI_TELEPORT_WHERE,Where do you want to go?,Where do you want to go?
+UI_TELEPORT_BTN,Let's go!,Nu kör vi!
+UI_TELEPORT_WHERE,Where do you want to go?,Vart vill du åka?
 UI_CASHSHOP_BONUS,Bonus,Bonus
 UI_CASHSHOP_TOTAL,Total,Total
 UI_CASHSHOP_FRAME_TITLE,Top-Up,Top-Up
@@ -1496,10 +1496,10 @@ UI_PURCHASE_EVENT_COMPLETED,This purchase event has been completed!,This purchas
 UI_PURCHASE_EVENT_GUILD,#bAll Guild Members#nb receive rewards after some members spent specific #bfCoins#nb amount goals in the Cash Shop!,#bAll Guild Members#nb receive rewards after some members spent specific #bfCoins#nb amount goals in the Cash Shop!
 UI_TOOLTIP_NEW_UPGRADE_EFFECT,This weapon has alternative upgrade effects.,This weapon has alternative upgrade effects.
 UI_CAPTCHA_TITLE,Challenge,Challenge
-UI_CAPTCHA_DESC,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.
-UI_OTP_TITLE,Two Factor Auth,Two Factor Auth
-UI_OTP_MSG,Please enter the 6-digits code from your Two Factor Auth App.,Please enter the 6-digits code from your Two Factor Auth App.
-UI_OTP_CODE,Code:,Code:
+UI_CAPTCHA_DESC,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.,Fyll i följande captcha. Vi använder utmaningar för att erbjuda ett rättvist spel för alla våra spelare genom att förhindra bots och fusk.
+UI_OTP_TITLE,Two Factor Auth,Tvåfaktorsautentisering
+UI_OTP_MSG,Please enter the 6-digits code from your Two Factor Auth App.,Ange den 6-siffriga koden från din app för tvåfaktorsautentisering.
+UI_OTP_CODE,Code:,Kod:
 UI_CHARINFO_LINK,Link Account,Link Account
 UI_KEEPTIMEEQUIP_CONFIRM,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?
 UI_TOOLTIP_PICKUPSPEED,Loot Speed:,Loot Speed:
@@ -1916,14 +1916,14 @@ UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again by going to Menu > Helper >
 UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,You can view this information again if you click Info-Pang > Right Click > Check the List.
 UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb
 UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,Do you want to spectate that match? You will get teleported in the match arena.
-UI_SERVERTRANSFER_TITLE,Server Transfer,Server Transfer
-UI_SERVERTRANSFER_MSG,Select server:,Select server:
-UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your character to. Please check the website for exact transfer rules.,Select which server you want to transfer your character to. Please check the website for exact transfer rules.
-UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.
-UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Server Transfer
-UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Free Camera
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Normal Camera
+UI_SERVERTRANSFER_TITLE,Server Transfer,Serveröverföring
+UI_SERVERTRANSFER_MSG,Select server:,Välj server:
+UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your character to. Please check the website for exact transfer rules.,Välj vilken server du vill överföra din karaktär till. Kontrollera webbplatsen för exakta överföringsregler.
+UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,"Observera att överföringsbegäranden görs regelbundet, så överföringen sker inte omedelbart efter att rullningen har använts."
+UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Serveröverföring
+UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,"Överföringen kommer att ske efter FWC-periodens slut och du kan fortfarande logga in på din karaktär under tiden. Om du är osäker kan du stänga detta fönster och välja vid nästa inloggning. Du kan inte ändra ditt val efter att du har bekräftat."
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Gratis kamera
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Vanlig kamera
 UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Leave spectating
 UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,Spectating Settings
 UI_FULLSCREEN_ERROR,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.
@@ -1933,8 +1933,8 @@ UI_RPS_INFO,RPS Game\nYou can do the Global Limited Gacha only if you win.,RPS G
 UI_GACHA_DESC_GLOBAL_DAILY,"When you do the random Gacha, you can receive 1 of the items listed below.\nThe Random Gacha is global with all players on the server so please try to obtain the limited amount of prizes.\nThe quantity limit resets on 00:00 server time.","When you do the random Gacha, you can receive 1 of the items listed below.\nThe Random Gacha is global with all players on the server so please try to obtain the limited amount of prizes.\nThe quantity limit resets on 00:00 server time."
 UI_RPS_REWARD_TITLE,Result,Result
 UI_RPS_REWARD_TEXT,Would you like to accept the item?,Would you like to accept the item?
-UI_RPS_REWARD_ACCEPT,Accept,Accept
-UI_RPS_REWARD_DECLINE,Decline,Decline
+UI_RPS_REWARD_ACCEPT,Accept,Acceptera
+UI_RPS_REWARD_DECLINE,Decline,Nedgång
 UI_RPS_TITLE,Rock Paper Scissors,Rock Paper Scissors
 UI_RPS_VS,VS,VS
 UI_RPS_DEFEAT,You Lose!,You Lose!
@@ -1942,8 +1942,8 @@ UI_RPS_PAPER,Paper,Paper
 UI_RPS_ROCK,Rock,Rock
 UI_RPS_SCISSORS,Scissors,Scissors
 UI_RPS_WIN_TITLE,You Win!,You Win!
-UI_GACHA_ACCEPT,Accept,Accept
-UI_GACHA_DECLINE,Decline,Decline
+UI_GACHA_ACCEPT,Accept,Acceptera
+UI_GACHA_DECLINE,Decline,Nedgång
 UI_MSGBOX_PASTE,Paste,Paste
 UI_MSGBOX_CUT,Cut,Cut
 UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
@@ -2323,14 +2323,14 @@ UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
 UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Are you sure that you want to use the Scroll of Resurrection to resurrect?
 UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
-UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
-UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Privacy Policy
+UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Hantera aviseringar
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Hantera sekretess
+UI_OPTION_ACCOUNT_TOS,Terms of Service,Användarvillkor
+UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Integritetspolicy
 UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
-UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
+UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Kundcenter
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,Serviceavtal
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Nödvändig) Vänligen ange ditt födelsedatum
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
 UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
@@ -2339,15 +2339,15 @@ UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements
 UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
 UI_SERVICE_AGREEMENT_EMAIL,Email,Email
 UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Är du bosatt i Kalifornien?
 UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Ange ett giltigt födelsedatum.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Du måste vara minst 16 år gammal för att spela spelet.
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Du måste läsa och acceptera användarvillkoren och sekretesspolicyn för att fortsätta.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Ange ett giltigt postnummer.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
@@ -2373,9 +2373,9 @@ UI_MENU_EDIT,Edit the menu,Edit the menu
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
+UI_DELETEACCOUNT_TITLE,Delete Account,Ta bort konto
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Do you confirm?
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Bekräftar du?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
@@ -2388,7 +2388,7 @@ UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
 UI_PARTY_READY_CHECK,Ready,Ready
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
+UI_PARTY_READY_PROMPT,Are you ready?,Är du redo?
 UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
 UI_PARTY_READY_INFO2,is ready!,is ready!
 UI_PARTY_READY_INFO3,is not ready.,is not ready.
