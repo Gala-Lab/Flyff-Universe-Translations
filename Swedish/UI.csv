@@ -1922,7 +1922,7 @@ UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your charac
 UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,"Observera att överföringsbegäranden görs regelbundet, så överföringen sker inte omedelbart efter att rullningen har använts."
 UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Serveröverföring
 UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,"Överföringen kommer att ske efter FWC-periodens slut och du kan fortfarande logga in på din karaktär under tiden. Om du är osäker kan du stänga detta fönster och välja vid nästa inloggning. Du kan inte ändra ditt val efter att du har bekräftat."
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Gratis kamera
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Fri kamera
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Vanlig kamera
 UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Leave spectating
 UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,Spectating Settings
