@@ -78,7 +78,7 @@ TEXTCLIENT_SPEED_VERYSLOW,Very slow,Väldigt långsam
 TEXTCLIENT_SPEED_LOW,Slow,Långsam
 TEXTCLIENT_SPEED_NORMAL,Normal,Normal
 TEXTCLIENT_SPEED_FAST,Fast,Snabb
-TEXTCLIENT_SPEED_VERYFAST,Very fast,Mycket snabbt
+TEXTCLIENT_SPEED_VERYFAST,Very fast,Mycket snabb
 TEXTCLIENT_SPEED_FASTEST,Fastest,Snabbast
 TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,The %s belongs to another player at the moment. Please wait a while.
 TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Inventory is full. Please make room and try again.
