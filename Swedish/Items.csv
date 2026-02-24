@@ -2253,15 +2253,15 @@ PROPITEM_TXT_004256,Icecream Cake,Icecream Cake
 PROPITEM_TXT_004257,Recovers 1170 HP,Återställer 1170 HP
 PROPITEM_TXT_004258,Fruit Punch,Fruit Punch
 PROPITEM_TXT_004259,Recovers 1500 HP,Återställer 1500 HP
-PROPITEM_TXT_004260,Gray Pill,Grå piller
+PROPITEM_TXT_004260,Gray Pill,Grå Tablett
 PROPITEM_TXT_004261,Recovers 1200 HP,Återställer 1200 HP
-PROPITEM_TXT_004262,Yellow Pill,Gul piller
+PROPITEM_TXT_004262,Yellow Pill,Gul Tablett
 PROPITEM_TXT_004263,Recover 2000 HP,Återställer 2000 HP
-PROPITEM_TXT_004264,Blue Pill,Blå piller
+PROPITEM_TXT_004264,Blue Pill,Blå Tablett
 PROPITEM_TXT_004265,Recovers 4000 HP,Återställer 4000 HP
-PROPITEM_TXT_004266,Red Pill,Röd piller
+PROPITEM_TXT_004266,Red Pill,Röd Tablett
 PROPITEM_TXT_004267,Recovers 8000 HP,Återställer 8000 HP
-PROPITEM_TXT_004268,Gold Pill,Guldpiller
+PROPITEM_TXT_004268,Gold Pill,Guld Tablett
 PROPITEM_TXT_004269,Recovers 15000 HP,Återställer 15000 HP
 PROPITEM_TXT_004270,Hot Ddukguk,Hot Ddukguk
 PROPITEM_TXT_004271,Recovers 9999 HP,Återställer 9999 HP
@@ -3195,27 +3195,27 @@ PROPITEM_TXT_005642,Sword Board,Sword Board
 PROPITEM_TXT_005643,This flying board is shaped like a sword!,This flying board is shaped like a sword!
 PROPITEM_TXT_005644,Dragon Stick,Dragon Stick
 PROPITEM_TXT_005645,Flying broom stick shaped like a dragon.,Flying broom stick shaped like a dragon.
-PROPITEM_TXT_005646,1st Card,1:a kortet
-PROPITEM_TXT_005648,2nd Card,2:a kortet
-PROPITEM_TXT_005650,3rd Card,3:e kortet
-PROPITEM_TXT_005652,4th Card,4:e kortet
-PROPITEM_TXT_005654,5th Card,5:e kortet
-PROPITEM_TXT_005656,6th Card,6:e kortet
-PROPITEM_TXT_005658,7th Card,7:e kortet
-PROPITEM_TXT_005660,8th Card,8:e kortet
-PROPITEM_TXT_005662,9th Card,9:e kortet
-PROPITEM_TXT_005664,10th Card,10:e kortet
-PROPITEM_TXT_005666,11th Card,11:e kortet
-PROPITEM_TXT_005667,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.,Ett specialutgåva av Flyff World Championship-kort som kan kombineras med andra kort för att skapa kraftfulla föremål under FWC-pusselevenemanget. Besök kortmästaren i östra Flarine för att byta kort.
-PROPITEM_TXT_005668,12th Card,12:e kortet
-PROPITEM_TXT_005670,13th Card,13:e kortet
-PROPITEM_TXT_005672,14th Card,14:e kortet
-PROPITEM_TXT_005674,15th Card,15:e kortet
-PROPITEM_TXT_005676,16th Card,16:e kortet
-PROPITEM_TXT_005678,17th Card,17:e kortet
-PROPITEM_TXT_005680,18th Card,18:e kortet
-PROPITEM_TXT_005682,19th Card,19:e kortet
-PROPITEM_TXT_005684,20th Card,20:e kortet
+PROPITEM_TXT_005646,1st Card,Första kortet
+PROPITEM_TXT_005648,2nd Card,Andra kortet
+PROPITEM_TXT_005650,3rd Card,Tredje kortet
+PROPITEM_TXT_005652,4th Card,Fjärde kortet
+PROPITEM_TXT_005654,5th Card,Femte kortet
+PROPITEM_TXT_005656,6th Card,Sjätte kortet
+PROPITEM_TXT_005658,7th Card,Sjunde kortet
+PROPITEM_TXT_005660,8th Card,Åttonde kortet
+PROPITEM_TXT_005662,9th Card,Nionde kortet
+PROPITEM_TXT_005664,10th Card,Tionde kortet
+PROPITEM_TXT_005666,11th Card,Elfte kortet
+PROPITEM_TXT_005667,A Special Edition FlyFF World Championship Card that can be combined with other cards to create powerful items during the FWC Puzzle Event. Visit the Card Master in Eastern Flarine to exchange cards.,Ett specialutgåva Flyff World Championship kort som kan kombineras med andra kort för att skapa kraftfulla föremål under FWC Puzzle Event. Besök Kortmästaren i Östra Flarine för att byta kort.
+PROPITEM_TXT_005668,12th Card,Tolfte kortet
+PROPITEM_TXT_005670,13th Card,Trettonde kortet
+PROPITEM_TXT_005672,14th Card,Fjortonde kortet
+PROPITEM_TXT_005674,15th Card,Femtonde kortet
+PROPITEM_TXT_005676,16th Card,Sextonde kortet
+PROPITEM_TXT_005678,17th Card,Sjuttonde kortet
+PROPITEM_TXT_005680,18th Card,Artonde kortet
+PROPITEM_TXT_005682,19th Card,Nittonde kortet
+PROPITEM_TXT_005684,20th Card,Tjugonde kortet
 PROPITEM_TXT_005686,A Card,A-Kort
 PROPITEM_TXT_005688,B Card,B-Kort
 PROPITEM_TXT_005690,C Card,C-Kort
@@ -18032,11 +18032,11 @@ PROPITEM_TXT_133650,VitalDrink 200 (A+),VitalDrink 200 (A+)
 PROPITEM_TXT_133651,FP 156 Recovery,Återställer 156 FP
 PROPITEM_TXT_133652,First Refresher (C),First Refresher (C)
 PROPITEM_TXT_133653,MP 78 Recovery,Återställer 78 MP
-PROPITEM_TXT_133654,Gray Pill (C),Grå piller (C)
+PROPITEM_TXT_133654,Gray Pill (C),Grå Tablett (C)
 PROPITEM_TXT_133655,Recovers 1320 HP,Återställer 1320 HP
-PROPITEM_TXT_133656,Gray Pill (B),Grå piller (B)
-PROPITEM_TXT_133657,Gray Pill (A),Grå piller (A)
-PROPITEM_TXT_133658,Gray Pill (A+),Grå piller (A+)
+PROPITEM_TXT_133656,Gray Pill (B),Grå Tablett (B)
+PROPITEM_TXT_133657,Gray Pill (A),Grå Tablett (A)
+PROPITEM_TXT_133658,Gray Pill (A+),Grå Tablett (A+)
 PROPITEM_TXT_133659,Recovers 1380 HP,Återställer 1380 HP
 PROPITEM_TXT_133660,Second Refresher (C),Second Refresher (C)
 PROPITEM_TXT_133661,MP 150 Recovery,Återställer 150 MP
@@ -18080,23 +18080,23 @@ PROPITEM_TXT_133698,VitalDrink 800 (B),VitalDrink 800 (B)
 PROPITEM_TXT_133699,VitalDrink 800 (A),VitalDrink 800 (A)
 PROPITEM_TXT_133700,VitalDrink 800 (A+),VitalDrink 800 (A+)
 PROPITEM_TXT_133701,FP 676 Recovery,Återställer 676 FP
-PROPITEM_TXT_133702,Yellow Pill (C),Gul piller (C)
+PROPITEM_TXT_133702,Yellow Pill (C),Gul Tablett (C)
 PROPITEM_TXT_133703,Recovers 2200 HP,Återställer 2200 HP
-PROPITEM_TXT_133704,Yellow Pill (B),Gul piller (B)
-PROPITEM_TXT_133705,Yellow Pill (A),Gul piller (A)
-PROPITEM_TXT_133706,Yellow Pill (A+),Gul piller (A+)
+PROPITEM_TXT_133704,Yellow Pill (B),Gul Tablett (B)
+PROPITEM_TXT_133705,Yellow Pill (A),Gul Tablett (A)
+PROPITEM_TXT_133706,Yellow Pill (A+),Gul Tablett (A+)
 PROPITEM_TXT_133707,Recovers 2300 HP,Återställer 2300 HP
-PROPITEM_TXT_133708,Blue Pill (C),Blå piller (C)
+PROPITEM_TXT_133708,Blue Pill (C),Blå Tablett (C)
 PROPITEM_TXT_133709,Recovers 4400 HP,Återställer 4400 HP
-PROPITEM_TXT_133710,Blue Pill (B),Blå piller (B)
-PROPITEM_TXT_133711,Blue Pill (A),Blå piller (A)
-PROPITEM_TXT_133712,Blue Pill (A+),Blå piller (A+)
+PROPITEM_TXT_133710,Blue Pill (B),Blå Tablett (B)
+PROPITEM_TXT_133711,Blue Pill (A),Blå Tablett (A)
+PROPITEM_TXT_133712,Blue Pill (A+),Blå Tablett (A+)
 PROPITEM_TXT_133713,Recovers 4600 HP,Återställer 4600 HP
-PROPITEM_TXT_133714,Red Pill (C),Röd piller (C)
+PROPITEM_TXT_133714,Red Pill (C),Röd Tablett (C)
 PROPITEM_TXT_133715,Recovers 8800 HP,Återställer 8800 HP
-PROPITEM_TXT_133716,Red Pill (B),Röd piller (B)
-PROPITEM_TXT_133717,Red Pill (A),Röd piller (A)
-PROPITEM_TXT_133718,Red Pill (A+),Röd piller (A+)
+PROPITEM_TXT_133716,Red Pill (B),Röd Tablett (B)
+PROPITEM_TXT_133717,Red Pill (A),Röd Tablett (A)
+PROPITEM_TXT_133718,Red Pill (A+),Röd Tablett (A+)
 PROPITEM_TXT_133719,Recovers 9200 HP,Återställer 9200 HP
 PROPITEM_TXT_133720,Third Refresher (C),Third Refresher (C)
 PROPITEM_TXT_133721,MP 222 Recovery,Återställer 222 MP
@@ -18146,11 +18146,11 @@ PROPITEM_TXT_133764,Tenth Refresher (B),Tenth Refresher (B)
 PROPITEM_TXT_133765,Tenth Refresher (A),Tenth Refresher (A)
 PROPITEM_TXT_133766,Tenth Refresher (A+),Tenth Refresher (A+)
 PROPITEM_TXT_133767,MP 878 Recovery,Återställer 878 MP
-PROPITEM_TXT_133768,Gold Pill (C),Guldpiller (C)
+PROPITEM_TXT_133768,Gold Pill (C),Guld Tablett (C)
 PROPITEM_TXT_133769,Recovers 16500 HP,Återställer 16500 HP
-PROPITEM_TXT_133770,Gold Pill (B),Guldpiller (B)
-PROPITEM_TXT_133771,Gold Pill (A),Guldpiller (A)
-PROPITEM_TXT_133772,Gold Pill (A+),Guldpiller (A+)
+PROPITEM_TXT_133770,Gold Pill (B),Guld Tablett (B)
+PROPITEM_TXT_133771,Gold Pill (A),Guld Tablett (A)
+PROPITEM_TXT_133772,Gold Pill (A+),Guld Tablett (A+)
 PROPITEM_TXT_133773,Recovers 17250 HP,Återställer 17250 HP
 PROPITEM_TXT_133774,Shining Gold Pill,Shining Gold Pill
 PROPITEM_TXT_133775,A shining gold pill.,A shining gold pill.
