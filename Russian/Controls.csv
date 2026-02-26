@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,Темница метеораконов
 PROPCTRL_TXT_000014,Pink Roach Egg,Яйцо розового кукарача
 PROPCTRL_TXT_000016,Blue Roach Egg,Яйцо синего кукарача
 PROPCTRL_TXT_000028,Warp Machine,Машина порталов
-PROPCTRL_TXT_000030,Warp Board1,Портал 1
-PROPCTRL_TXT_000032,Warp Board2,Портал 2
-PROPCTRL_TXT_000034,Warp Board3,Портал 3
+PROPCTRL_TXT_000030,Warp Board 1,Портал 1
+PROPCTRL_TXT_000032,Warp Board 2,Портал 2
+PROPCTRL_TXT_000034,Warp Board 3,Портал 3
 PROPCTRL_TXT_000036,Exp Box,Опыт
 PROPCTRL_TXT_000037,Harvest Plant 01,Harvest Plant 01
 PROPCTRL_TXT_000038,Harvest Plant 02,Harvest Plant 02
@@ -77,7 +77,7 @@ PROPCTRL_TXT_000097,Metaverse Sofa,Metaverse Sofa
 PROPCTRL_TXT_000098,Metaverse Round Table,Metaverse Round Table
 PROPCTRL_TXT_000099,Metaverse Storage Table,Metaverse Storage Table
 PROPCTRL_TXT_000100,Metaverse Decorative Table,Metaverse Decorative Table
-PROPCTRL_TXT_000101,Metaverse Violon,Metaverse Violon
+PROPCTRL_TXT_000101,Metaverse Violin,Metaverse Violin
 PROPCTRL_TXT_000102,Wooden Yellow Chair,Wooden Yellow Chair
 PROPCTRL_TXT_000103,Wooden Yellow Table,Wooden Yellow Table
 PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,Wooden Yellow Dressing Table
@@ -154,7 +154,7 @@ PROPCTRL_TXT_000174,Wooden Sofa,Wooden Sofa
 PROPCTRL_TXT_000175,Flaris Ground Field,Flaris Ground Field
 PROPCTRL_TXT_000176,Flaris Anvil,Flaris Anvil
 PROPCTRL_TXT_000177,Flaris Bench,Flaris Bench
-PROPCTRL_TXT_000178,Flaris Charrette,Flaris Charrette
+PROPCTRL_TXT_000178,Flaris Chariot,Flaris Chariot
 PROPCTRL_TXT_000179,Flaris Fence 1,Flaris Fence 1
 PROPCTRL_TXT_000180,Flaris Floor Lamp,Flaris Floor Lamp
 PROPCTRL_TXT_000181,Flaris Wall Lamp,Flaris Wall Lamp
@@ -177,7 +177,7 @@ PROPCTRL_TXT_000197,Common Autumn Tree,Common Autumn Tree
 PROPCTRL_TXT_000198,Common Sakura Tree 1,Common Sakura Tree 1
 PROPCTRL_TXT_000199,Common Burned Tree,Common Burned Tree
 PROPCTRL_TXT_000200,St Morning Bench,St Morning Bench
-PROPCTRL_TXT_000201,St Morning Charrette,St Morning Charrette
+PROPCTRL_TXT_000201,St Morning Chariot,St Morning Chariot
 PROPCTRL_TXT_000202,St Morning Rock Arch 1,St Morning Rock Arch 1
 PROPCTRL_TXT_000203,St Morning Flag 1,St Morning Flag 1
 PROPCTRL_TXT_000204,St Morning Flower Bed,St Morning Flower Bed
@@ -199,7 +199,7 @@ PROPCTRL_TXT_000219,Azria Tree 1,Azria Tree 1
 PROPCTRL_TXT_000220,Azria Light 1,Azria Light 1
 PROPCTRL_TXT_000221,Azria Rock 1,Azria Rock 1
 PROPCTRL_TXT_000222,Azria Mushroom 1,Azria Mushroom 1
-PROPCTRL_TXT_000223,Azria Charrette,Azria Charrette
+PROPCTRL_TXT_000223,Azria Chariot,Azria Chariot
 PROPCTRL_TXT_000224,Azria Crystal,Azria Crystal
 PROPCTRL_TXT_000225,Azria Grass 1,Azria Grass 1
 PROPCTRL_TXT_000226,Azria Sign 1,Azria Sign 1
@@ -240,7 +240,7 @@ PROPCTRL_TXT_000260,Crate Floor,Crate Floor
 PROPCTRL_TXT_000261,Platform Floor,Platform Floor
 PROPCTRL_TXT_000262,Light Plank Floor,Light Plank Floor
 PROPCTRL_TXT_000263,Light Brick Floor,Light Brick Floor
-PROPCTRL_TXT_000264,Scrapwood Floor,Scrapwood Floor
+PROPCTRL_TXT_000264,Scrap Wood Floor,Scrap Wood Floor
 PROPCTRL_TXT_000265,Pale Wood Floor,Pale Wood Floor
 PROPCTRL_TXT_000266,Mossy Brick Floor,Mossy Brick Floor
 PROPCTRL_TXT_000267,Shipwreck Floor,Shipwreck Floor
@@ -295,7 +295,7 @@ PROPCTRL_TXT_000315,Crate Ceiling,Crate Ceiling
 PROPCTRL_TXT_000316,Platform Ceiling,Platform Ceiling
 PROPCTRL_TXT_000317,Light Plank Ceiling,Light Plank Ceiling
 PROPCTRL_TXT_000318,Light Brick Ceiling,Light Brick Ceiling
-PROPCTRL_TXT_000319,Scrapwood Ceiling,Scrapwood Ceiling
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,Scrap Wood Ceiling
 PROPCTRL_TXT_000320,Pale Wood Ceiling,Pale Wood Ceiling
 PROPCTRL_TXT_000321,Mossy Brick Ceiling,Mossy Brick Ceiling
 PROPCTRL_TXT_000322,Shipwreck Ceiling,Shipwreck Ceiling
@@ -676,7 +676,7 @@ PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
 PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
 PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
 PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Plateform,Coral Island Coral Plateform
+PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
 PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
 PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
 PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15

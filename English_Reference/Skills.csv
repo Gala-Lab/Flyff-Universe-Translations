@@ -3,15 +3,15 @@ PROPSKILL_TXT_000309,
 PROPSKILL_TXT_000000,Clean Hit
 PROPSKILL_TXT_000001,"A powerful, downward strike."
 PROPSKILL_TXT_000002,Flurry
-PROPSKILL_TXT_000003,"A rapid stabbing attack."
+PROPSKILL_TXT_000003,A rapid stabbing attack.
 PROPSKILL_TXT_000004,Over Cutter
-PROPSKILL_TXT_000005,"A powerful upward finishing move."
+PROPSKILL_TXT_000005,A powerful upward finishing move.
 PROPSKILL_TXT_000006,Slash
-PROPSKILL_TXT_000007,"Strikes the enemy twice in rapid succession."
+PROPSKILL_TXT_000007,Strikes the enemy twice in rapid succession.
 PROPSKILL_TXT_000008,Keenwheel
 PROPSKILL_TXT_000009,A continuous spinning attack.
 PROPSKILL_TXT_000010,Blindside
-PROPSKILL_TXT_000011,"A spinning finishing move that may stun the enemy."
+PROPSKILL_TXT_000011,A spinning finishing move that may stun the enemy.
 PROPSKILL_TXT_000012,Protection
 PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.
 PROPSKILL_TXT_000014,Pan Barrier
@@ -28,9 +28,9 @@ PROPSKILL_TXT_000025,Enhances the power of the wielded sword.
 PROPSKILL_TXT_000026,Axe Mastery
 PROPSKILL_TXT_000027,Enhances the power of the wielded axe.
 PROPSKILL_TXT_000028,Special Hit
-PROPSKILL_TXT_000029,"A single powerful strike that hits all enemies around you."
+PROPSKILL_TXT_000029,A single powerful strike that hits all enemies around you.
 PROPSKILL_TXT_000030,Guillotine
-PROPSKILL_TXT_000031,"A powerful ranged attack."
+PROPSKILL_TXT_000031,A powerful ranged attack.
 PROPSKILL_TXT_000032,Sneaker
 PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them."
 PROPSKILL_TXT_000034,Reflex Hit
@@ -42,13 +42,13 @@ PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy
 PROPSKILL_TXT_000040,Rage
 PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.
 PROPSKILL_TXT_000042,Power Swing
-PROPSKILL_TXT_000043,"Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon."
+PROPSKILL_TXT_000043,Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon.
 PROPSKILL_TXT_000044,Earth Divider
-PROPSKILL_TXT_000045,"A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon."
+PROPSKILL_TXT_000045,A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon.
 PROPSKILL_TXT_000046,Charge
-PROPSKILL_TXT_000047,"A powerful upward strike that stuns the enemy. Requires a two-handed weapon."
+PROPSKILL_TXT_000047,A powerful upward strike that stuns the enemy. Requires a two-handed weapon.
 PROPSKILL_TXT_000048,Pain Dealer
-PROPSKILL_TXT_000049,"A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon."
+PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon.
 PROPSKILL_TXT_000050,Power Stomp
 PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon."
 PROPSKILL_TXT_000052,Cross Strike
@@ -62,15 +62,15 @@ PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons
 PROPSKILL_TXT_000060,Spring Attack
 PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons."
 PROPSKILL_TXT_000062,Hawk Attack
-PROPSKILL_TXT_000063,"A powerful downward strike that lowers the accuracy of the target. Requires two weapons."
+PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the target. Requires two weapons.
 PROPSKILL_TXT_000064,Sonic Blade
-PROPSKILL_TXT_000065,"A powerful slashing attack that hits all surrounding enemies. Requires two weapons."
+PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.
 PROPSKILL_TXT_000066,Berserk
-PROPSKILL_TXT_000067,"Increases Attack Speed and striking power at the cost of reduced skill damage."
+PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.
 PROPSKILL_TXT_000068,Heal
 PROPSKILL_TXT_000069,Recovers the target's HP.
 PROPSKILL_TXT_000070,Temping Hole
-PROPSKILL_TXT_000071,"A powerful straight punch."
+PROPSKILL_TXT_000071,A powerful straight punch.
 PROPSKILL_TXT_000072,Resurrection
 PROPSKILL_TXT_000073,Resurrects a dead player.
 PROPSKILL_TXT_000074,Patience
@@ -175,7 +175,7 @@ PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact,
 PROPSKILL_TXT_000176,Spirit Bomb
 PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.
 PROPSKILL_TXT_000178,Crucio Spell
-PROPSKILL_TXT_000179,"Reflects damage from the enemy's basic attacks. Less effective in PvP."
+PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.
 PROPSKILL_TXT_000180,Maximum Crisis
 PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun."
 PROPSKILL_TXT_000182,Psychic Square
@@ -209,7 +209,7 @@ PROPSKILL_TXT_000211,Enhances the power of Wind spells.
 PROPSKILL_TXT_000212,Windfield
 PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed."
 PROPSKILL_TXT_000214,Meteo Shower
-PROPSKILL_TXT_000215,"Calls down a shower of meteors that strike the target enemy and surrounding enemies."
+PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.
 PROPSKILL_TXT_000216,Lightning Storm
 PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage."
 PROPSKILL_TXT_000218,Sandstorm
@@ -243,9 +243,9 @@ PROPSKILL_TXT_000245,"Fires multiple arrows at the enemy, with a chance to reduc
 PROPSKILL_TXT_000246,Snatch
 PROPSKILL_TXT_000247,Steals Penya from the target while under Dark Illusion. Must attack from behind.
 PROPSKILL_TXT_000248,Counter Attack
-PROPSKILL_TXT_000249,"Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance."
+PROPSKILL_TXT_000249,Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance.
 PROPSKILL_TXT_000250,Deadly Swing
-PROPSKILL_TXT_000251,"A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed."
+PROPSKILL_TXT_000251,A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed.
 PROPSKILL_TXT_000252,Pulling
 PROPSKILL_TXT_000253,Pulls the target toward you using the Yo-Yo.
 PROPSKILL_TXT_000254,Critical Swing
@@ -320,7 +320,7 @@ PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun
 PROPSKILL_TXT_000378,Grand Rage
 PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.
 PROPSKILL_TXT_000384,Heart of Fury
-PROPSKILL_TXT_000385,"Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon."
+PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.
 PROPSKILL_TXT_100000,Moon Beam
 PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage."
 PROPSKILL_TXT_100002,Shade's Support
@@ -352,7 +352,7 @@ PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.
 PROPSKILL_TXT_000392,Rending Entry
 PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset."
 PROPSKILL_TXT_000394,Barrier of Life
-PROPSKILL_TXT_000395,"Grants the target a barrier that causes all incoming hits to be blocked for a short duration."
+PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.
 PROPSKILL_TXT_000430,Gravity Well
 PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.
 PROPSKILL_TXT_000440,Eye of the Storm
@@ -479,7 +479,7 @@ PROPSKILL_TXT_100130,Golden Luck
 PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100132,Stamina Boost
 PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.
-PROPSKILL_TXT_100134,"Sky's Blessing"
+PROPSKILL_TXT_100134,Sky's Blessing
 PROPSKILL_TXT_100135,Increases flight speed by 3 km/h for you and your partner for 5 minutes.
 PROPSKILL_TXT_100136,Cheer of Love
 PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 5%."

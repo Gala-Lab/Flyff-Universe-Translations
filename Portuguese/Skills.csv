@@ -3,366 +3,366 @@ PROPSKILL_TXT_000309,,
 PROPSKILL_TXT_000000,Clean Hit,Golpe Direto
 PROPSKILL_TXT_000001,"A powerful, downward strike.",Um potente golpe para baixo.
 PROPSKILL_TXT_000002,Flurry,Agitação
-PROPSKILL_TXT_000003,"Rapid, stabbing attack.",Rápidos golpes perfurantes.
+PROPSKILL_TXT_000003,A rapid stabbing attack.,Rápidos golpes perfurantes.
 PROPSKILL_TXT_000004,Over Cutter,Golpe Final
-PROPSKILL_TXT_000005,"Powerful, upward, finishing move.",Potente golpe de misericórdia.
+PROPSKILL_TXT_000005,A powerful upward finishing move.,Potente golpe de misericórdia.
 PROPSKILL_TXT_000006,Slash,Golpear
-PROPSKILL_TXT_000007,"Strikes the enemy two times, in rapid succession.",Golpeia o inimigo duas vezes em sucessões rápidas.
+PROPSKILL_TXT_000007,Strikes the enemy twice in rapid succession.,Golpeia o inimigo duas vezes em sucessões rápidas.
 PROPSKILL_TXT_000008,Keenwheel,Voragem
 PROPSKILL_TXT_000009,A continuous spinning attack.,Um ataque giratório contínuo.
 PROPSKILL_TXT_000010,Blindside,Desarme
-PROPSKILL_TXT_000011,"A spinning, finishing move.",Movimento giratório fatal.
+PROPSKILL_TXT_000011,A spinning finishing move that may stun the enemy.,Movimento giratório fatal.
 PROPSKILL_TXT_000012,Protection,Proteção
-PROPSKILL_TXT_000013,Increases the defense of a Shield against melee attacks & significantly increases Ranged Block.,Aumenta a defesa de um escudo contra ataques corpo-a-corpo e aumenta significantemente o Bloqueio à Distância.
+PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.,Aumenta a defesa de um escudo contra ataques corpo-a-corpo e aumenta significantemente o Bloqueio à Distância.
 PROPSKILL_TXT_000014,Pan Barrier,Barreira
 PROPSKILL_TXT_000015,Significantly increases Ranged Block.,Aumenta consideravelmente o bloqueio contra ataques de longa distância.
 PROPSKILL_TXT_000016,Blazing Sword,Espada Ardente
-PROPSKILL_TXT_000017,Increases Accuracy and increases power of the Sword.,Aumenta a Precisão e o dano da Espada.
+PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.,Aumenta a Precisão e o dano da Espada.
 PROPSKILL_TXT_000018,Smite Axe,Machado Pesado
-PROPSKILL_TXT_000019,Increases Accuracy and increases power of the Axe.,Aumenta a Precisão e o dano do Machado.
-PROPSKILL_TXT_000020,Empower weapon,Potencializar Arma
-PROPSKILL_TXT_000021,Uses the element of a weapon to boost your attack power.,Usa o elemento da Arma para aumentar o seu dano.
+PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.,Aumenta a Precisão e o dano do Machado.
+PROPSKILL_TXT_000020,Empower Weapon,Potencializar Arma
+PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,Usa o elemento da Arma para aumentar o seu dano.
 PROPSKILL_TXT_000022,Bloody Strike,Dilacerar
 PROPSKILL_TXT_000024,Sword Mastery,Maestria da Espada
-PROPSKILL_TXT_000025,Increases the striking power of a Sword.,Aumenta o poder de ataque da espada.
+PROPSKILL_TXT_000025,Enhances the power of the wielded sword.,Aumenta o poder de ataque da espada.
 PROPSKILL_TXT_000026,Axe Mastery,Maestria do Machado
-PROPSKILL_TXT_000027,Increases the striking power of an axe.,Aumenta o poder de ataque do machado.
+PROPSKILL_TXT_000027,Enhances the power of the wielded axe.,Aumenta o poder de ataque do machado.
 PROPSKILL_TXT_000028,Special Hit,Golpe Retalhador
-PROPSKILL_TXT_000029,"A single, powerful strike that attacks all enemies around you.",Um ataque único e poderoso que ataca todos os inimigos ao redor.
+PROPSKILL_TXT_000029,A single powerful strike that hits all enemies around you.,Um ataque único e poderoso que ataca todos os inimigos ao redor.
 PROPSKILL_TXT_000030,Guillotine,Guilhotina
-PROPSKILL_TXT_000031,"A powerful, ranged attack.","Dispara uma rajada flamejante contra um alvo, causando dano."
+PROPSKILL_TXT_000031,A powerful ranged attack.,"Dispara uma rajada flamejante contra um alvo, causando dano."
 PROPSKILL_TXT_000032,Sneaker,Rede
-PROPSKILL_TXT_000033,Stops an enemy.,Prende o inimigo no lugar.
+PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them.",Prende o inimigo no lugar.
 PROPSKILL_TXT_000034,Reflex Hit,Golpe de Reflexo
-PROPSKILL_TXT_000035,This skill absorbs one attack and releases back at an enemy.,Esta habilidade absorve um ataque e libera de volta em um inimigo.
+PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.,Esta habilidade absorve um ataque e libera de volta em um inimigo.
 PROPSKILL_TXT_000036,Guard,Guarda
-PROPSKILL_TXT_000037,Decreases all incoming damage from enemies by sacrificing attack power. Requires a weapon to be equipped.,Reduz todos os danos recebidos dos inimigos ao custo de parte de seu poder de ataque. Exige uma arma equipada.
+PROPSKILL_TXT_000037,Reduces all incoming damage from enemies at the cost of attack power.,Reduz todos os danos recebidos dos inimigos ao custo de parte de seu poder de ataque. Exige uma arma equipada.
 PROPSKILL_TXT_000038,Pain Reflection,Reflexo da Dor
-PROPSKILL_TXT_000039,Reflects a part of the damage received by an enemy.,Reflete parte do dano recebido de volta para o inimigo.
+PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy.,Reflete parte do dano recebido de volta para o inimigo.
 PROPSKILL_TXT_000040,Rage,Ira
-PROPSKILL_TXT_000041,Increases striking power. Become more vulnerable to all incoming attacks.,Aumenta o poder de ataque ao custo de se tornar mais vulnerável aos ataques recebidos.
+PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.,Aumenta o poder de ataque ao custo de se tornar mais vulnerável aos ataques recebidos.
 PROPSKILL_TXT_000042,Power Swing,Balanço de Força
-PROPSKILL_TXT_000043,To strike a blow at the enemy by flourishing a weapon. Requires a two-handed weapon.,"Golpeia os inimigos brandindo a arma, causando dano e empurrando todos eles para longe. Exige uma arma de duas mãos."
+PROPSKILL_TXT_000043,Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon.,"Golpeia os inimigos brandindo a arma, causando dano e empurrando todos eles para longe. Exige uma arma de duas mãos."
 PROPSKILL_TXT_000044,Earth Divider,Divisor de Terras
-PROPSKILL_TXT_000045,"Powerful, downward strike. Has a chance to reduce Incoming Healing on target. Requires a two-handed weapon.",Golpe poderoso para baixo. Tem uma chance de reduzir a Cura Recebida pelo alvo. Requere uma arma de duas mãos.
+PROPSKILL_TXT_000045,A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon.,Golpe poderoso para baixo. Tem uma chance de reduzir a Cura Recebida pelo alvo. Requere uma arma de duas mãos.
 PROPSKILL_TXT_000046,Charge,Carregada
-PROPSKILL_TXT_000047,"Powerful, upward strike. Stuns the enemy. Requires a two-handed weapon.",Golpe poderoso para cima que atordoa o inimigo. Requere uma arma de duas mãos.
+PROPSKILL_TXT_000047,A powerful upward strike that stuns the enemy. Requires a two-handed weapon.,Golpe poderoso para cima que atordoa o inimigo. Requere uma arma de duas mãos.
 PROPSKILL_TXT_000048,Pain Dealer,Emissão de Dor
-PROPSKILL_TXT_000049,"Powerful, downward strike. Lowers the defense of the target. Requires a two-handed weapon.",Um golpe potente para baixo que diminui a defesa do alvo. Exige uma Arma de duas mãos.
+PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon.,Um golpe potente para baixo que diminui a defesa do alvo. Exige uma Arma de duas mãos.
 PROPSKILL_TXT_000050,Power Stomp,Ímpeto do Cavaleiro
-PROPSKILL_TXT_000051,"Pounds the ground, stunning nearby enemies. Requires a two-handed weapon.","Pisoteia o chão, atordoando inimigos próximos. Exige uma Arma de duas mãos."
+PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon.","Pisoteia o chão, atordoando inimigos próximos. Exige uma Arma de duas mãos."
 PROPSKILL_TXT_000052,Cross Strike,Choque Cruzado
-PROPSKILL_TXT_000053,Powerful strike using two weapons.,Um golpe poderoso usando as duas armas.
+PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,Um golpe poderoso usando as duas armas.
 PROPSKILL_TXT_000054,Armor Penetrate,Penetrar Armadura
-PROPSKILL_TXT_000055,Strikes at the enemy and lowers their Block Rate.,Um ataque que reduz a taxa de Bloqueio Corpo a Corpo do alvo.
+PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.,Um ataque que reduz a taxa de Bloqueio Corpo a Corpo do alvo.
 PROPSKILL_TXT_000056,Silent Strike,Investida Silenciosa
-PROPSKILL_TXT_000057,Pounces on the enemy from afar. Stuns the target. Requires two weapons.,"Salta em seu alvo, causando dano e atordoando. Exige duas armas."
+PROPSKILL_TXT_000057,"Pounces on the enemy from afar, stunning them. Requires two weapons.","Salta em seu alvo, causando dano e atordoando. Exige duas armas."
 PROPSKILL_TXT_000058,Blade Dance,Dança da Lâmina
-PROPSKILL_TXT_000059,Rapidly strikes the blades at multiple enemies. Requires two weapons.,Golpeia as lâminas rapidamente em vários inimigos. Exige duas Armas.
+PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons. Requires two weapons.,Golpeia as lâminas rapidamente em vários inimigos. Exige duas Armas.
 PROPSKILL_TXT_000060,Spring Attack,Sucessão da Lâmina
-PROPSKILL_TXT_000061,Strikes at an enemy multiple times. Each hit has a chance to deal double damage. Requires two weapons.,Golpeia um inimigo várias vezes. Cada golpe tem a chance de causar dano duplo. Exige duas Armas.
+PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons.",Golpeia um inimigo várias vezes. Cada golpe tem a chance de causar dano duplo. Exige duas Armas.
 PROPSKILL_TXT_000062,Hawk Attack,Ataque do Falcão
-PROPSKILL_TXT_000063,"Powerful, downward strike. Lowers targets accuracy. Requires two weapons.",Um potente golpe para baixo que diminui a precisão do alvo. Exige duas Armas.
+PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the target. Requires two weapons.,Um potente golpe para baixo que diminui a precisão do alvo. Exige duas Armas.
 PROPSKILL_TXT_000064,Sonic Blade,Lâmina Sônica
-PROPSKILL_TXT_000065,"Powerful, slashing attack. Attacks all enemies around. Requires two weapons.",Um golpe poderoso e cortante que atinge todos os inimigos ao redor. Exige duas Armas.
+PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.,Um golpe poderoso e cortante que atinge todos os inimigos ao redor. Exige duas Armas.
 PROPSKILL_TXT_000066,Berserk,Frenético
-PROPSKILL_TXT_000067,"Increases attack speed and striking power, and reduces skill damage.",Aumenta a velocidade de ataque e o poder de ataque. Não é possível utilizar outras habilidades enquanto Frenético estiver ativo.
+PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,Aumenta a velocidade de ataque e o poder de ataque. Não é possível utilizar outras habilidades enquanto Frenético estiver ativo.
 PROPSKILL_TXT_000068,Heal,Curar
-PROPSKILL_TXT_000069,Recover the HP of a target.,"Restaura a vida (HP) do alvo ou, caso nenhum alvo válido esteja selecionado, restaura a própria vida."
+PROPSKILL_TXT_000069,Recovers the target's HP.,"Restaura a vida (HP) do alvo ou, caso nenhum alvo válido esteja selecionado, restaura a própria vida."
 PROPSKILL_TXT_000070,Temping Hole,Socão
-PROPSKILL_TXT_000071,"Powerful, straight punch.",Um poderoso e certeiro soco.
+PROPSKILL_TXT_000071,A powerful straight punch.,Um poderoso e certeiro soco.
 PROPSKILL_TXT_000072,Resurrection,Ressurreição
 PROPSKILL_TXT_000073,Resurrects a dead player.,Ressuscita um jogador morto.
 PROPSKILL_TXT_000074,Patience,Perseverança
-PROPSKILL_TXT_000075,Increases maximum HP of the target.,Aumenta a quantidade de vida máxima (HP).
+PROPSKILL_TXT_000075,Increases the target's maximum HP.,Aumenta a quantidade de vida máxima (HP).
 PROPSKILL_TXT_000076,Prevention,Prevenção
-PROPSKILL_TXT_000077,Recovers your own HP when it reaches below a certain point.,Recupera sua vida (HP) quando este estiver abaixo de um determinado valor.
+PROPSKILL_TXT_000077,Automatically recovers your HP when it falls below a certain threshold.,Recupera sua vida (HP) quando este estiver abaixo de um determinado valor.
 PROPSKILL_TXT_000078,Heap Up,Rigor
-PROPSKILL_TXT_000079,Increases STA of the target.,Aumenta a resistência física e a quantidade de vida.
+PROPSKILL_TXT_000079,Increases the target's STA.,Aumenta a resistência física e a quantidade de vida.
 PROPSKILL_TXT_000080,Cannon Ball,Bala de Canhão
-PROPSKILL_TXT_000081,Increases DEX of the target.,Aumenta a destreza.
+PROPSKILL_TXT_000081,Increases the target's DEX.,Aumenta a destreza.
 PROPSKILL_TXT_000082,Circle Healing,Círculo de Cura
-PROPSKILL_TXT_000083,Heals party members close to you.,Cura membros de grupo que estão próximos de você.
+PROPSKILL_TXT_000083,Heals nearby party members.,Cura membros de grupo que estão próximos de você.
 PROPSKILL_TXT_000084,Mental Sign,Vestígio Mental
-PROPSKILL_TXT_000085,Increases INT of a target,Aumenta a inteligência.
+PROPSKILL_TXT_000085,Increases the target's INT.,Aumenta a inteligência.
 PROPSKILL_TXT_000086,Beef Up,Fortalecer
-PROPSKILL_TXT_000087,Increases striking power of a target.,Aumenta o poder dos golpes.
+PROPSKILL_TXT_000087,Increases the target's STR.,Aumenta o poder dos golpes.
 PROPSKILL_TXT_000088,Burst Crack,Ruptura
-PROPSKILL_TXT_000089,Pounds the ground and damages enemies around you.,Golpeia o chão e defere danos nos inimigos ao seu redor.
+PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you.",Golpeia o chão e defere danos nos inimigos ao seu redor.
 PROPSKILL_TXT_000090,Stonehand,Punho de Pedra
-PROPSKILL_TXT_000091,All attacks gain the chance to stun.,Todos os ataques têm a chance de atordoar o inimigo.
+PROPSKILL_TXT_000091,Grants all attacks a chance to stun.,Todos os ataques têm a chance de atordoar o inimigo.
 PROPSKILL_TXT_000092,Quick Step,Passos Rápidos
-PROPSKILL_TXT_000093,Increases the walk speed of a target.,Aumenta a velocidade de movimento.
+PROPSKILL_TXT_000093,Increases the target's movement speed.,Aumenta a velocidade de movimento.
 PROPSKILL_TXT_000094,Cat's Reflex,Reflexos de Gato
-PROPSKILL_TXT_000095,Increases the block rate of a target.,Aumenta a chance de bloquear danos de ataques físicos recebidos.
+PROPSKILL_TXT_000095,Increases the target's block rate.,Aumenta a chance de bloquear danos de ataques físicos recebidos.
 PROPSKILL_TXT_000096,Accuracy,Precisão
-PROPSKILL_TXT_000097,Increases the accuracy of a target.,Diminui a chance de errar ataques físicos causados em um alvo.
+PROPSKILL_TXT_000097,Increases the target's accuracy.,Diminui a chance de errar ataques físicos causados em um alvo.
 PROPSKILL_TXT_000098,Power Fist,Socos Poderosos
-PROPSKILL_TXT_000099,Three concentrated power strikes.,Desfere uma sequência de três socos concentrados.
+PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.,Desfere uma sequência de três socos concentrados.
 PROPSKILL_TXT_000100,Haste,Aceleração
-PROPSKILL_TXT_000101,Increases attack speed and decreases casting time of a target.,Aumenta a velocidade de ataque e diminui o tempo de conjuração de habilidades.
+PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,Aumenta a velocidade de ataque e diminui o tempo de conjuração de habilidades.
 PROPSKILL_TXT_000102,Heal Rain,Chuva de Cura
-PROPSKILL_TXT_000103,Recovers HP for party members near you.,Restaura a vida (HP) dos seus membros de grupo que estão próximos a você.
+PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.,Restaura a vida (HP) dos seus membros de grupo que estão próximos a você.
 PROPSKILL_TXT_000104,Holycross,Cruz Sagrada
-PROPSKILL_TXT_000105,Target enemy takes double damage in the next attack.,Faz o alvo receber o dobro de dano no próximo ataque.
+PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.,Faz o alvo receber o dobro de dano no próximo ataque.
 PROPSKILL_TXT_000106,Protect,Proteger
-PROPSKILL_TXT_000107,Decreases the damage from physical & magical attacks on a target.,Concede maior proteção a dano de ataques físicos e mágicos.
+PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,Concede maior proteção a dano de ataques físicos e mágicos.
 PROPSKILL_TXT_000108,Holyguard,Guarda Sagrada
-PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited amount of time.,Concede proteção máxima contra ataques críticos por um período limitado de tempo.
+PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,Concede proteção máxima contra ataques críticos por um período limitado de tempo.
 PROPSKILL_TXT_000110,Spirit Fortune,Fortuna Espiritual
 PROPSKILL_TXT_000112,Gvur Tialla,Gvur Tialla
-PROPSKILL_TXT_000113,Removes de-buffs from a target.,Remove qualquer efeito negativo do alvo.
+PROPSKILL_TXT_000113,Removes debuffs from the target.,Remove qualquer efeito negativo do alvo.
 PROPSKILL_TXT_000114,Geburah Tiphreth,Geburah Tiphreth
-PROPSKILL_TXT_000115,"This ability draws upon the inner strength of the user & nearby party members, increasing both Attack Power and Attack Speed for a limited time.","Essa habilidade se baseia na força interna do usuário e dos membros de grupo próximos, aumentando o Poder de Ataque e a Velocidade de Ataque por um tempo limitado."
+PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.","Essa habilidade se baseia na força interna do usuário e dos membros de grupo próximos, aumentando o Poder de Ataque e a Velocidade de Ataque por um tempo limitado."
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha,Merkaba Hanzelrusha
-PROPSKILL_TXT_000117,Enemies take damage over time in an area around you.,"Canaliza uma marca em uma área ao seu redor, causando danos contínuos aos inimigos que pisarem nela."
+PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,"Canaliza uma marca em uma área ao seu redor, causando danos contínuos aos inimigos que pisarem nela."
 PROPSKILL_TXT_000118,Belial Smashing,Belial Esmagador
-PROPSKILL_TXT_000119,Deals five powerful blows to the enemy.,Desfere cinco golpes poderosos no inimigo.
+PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.,Desfere cinco golpes poderosos no inimigo.
 PROPSKILL_TXT_000120,Piercing Serpent,Serpente Perfurante
-PROPSKILL_TXT_000121,Fires a piercing beam at the target.,"Dispara um raio perfurante, causando dano ao alvo."
+PROPSKILL_TXT_000121,Fires a piercing beam at the enemy.,"Dispara um raio perfurante, causando dano ao alvo."
 PROPSKILL_TXT_000122,Blood Fist,Punho de Sangue
-PROPSKILL_TXT_000123,Strikes a heavy blow to the enemy that causes bleeding to the target.,Desfere um forte golpe no inimigo que causa sangramento no alvo.
+PROPSKILL_TXT_000123,Strikes the enemy with a heavy blow that causes bleeding.,Desfere um forte golpe no inimigo que causa sangramento no alvo.
 PROPSKILL_TXT_000124,Sonichand,Soco Sônico
-PROPSKILL_TXT_000125,"Fast, straight punch.",Múltiplos socos em uma velocidade maior que a do som.
+PROPSKILL_TXT_000125,"A fast, straight punch.",Múltiplos socos em uma velocidade maior que a do som.
 PROPSKILL_TXT_000126,Asmodeus,Asmodeus
-PROPSKILL_TXT_000127,Increases striking power.,Aumenta o poder de ataque do punho.
+PROPSKILL_TXT_000127,Enhances the power of the wielded knuckle.,Aumenta o poder de ataque do punho.
 PROPSKILL_TXT_000128,Baraqijal Esna,Baraqijal Esna
-PROPSKILL_TXT_000129,"Increases damage dealt to the target, but also increases targets attack.","Dispara um projétil que aumenta o dano recebido pelo alvo, porém também aumenta o ataque do alvo."
+PROPSKILL_TXT_000129,Increases damage dealt to the target while also increasing their Attack.,"Dispara um projétil que aumenta o dano recebido pelo alvo, porém também aumenta o ataque do alvo."
 PROPSKILL_TXT_000130,Bgvur Tialbold,Bgvur Tialbold
-PROPSKILL_TXT_000131,Strikes at nearby enemies with an outward shockwave.,Libera uma onda de choque que golpeia todos os inimigos ao seu redor.
+PROPSKILL_TXT_000131,Strikes nearby enemies with an outward shockwave.,Libera uma onda de choque que golpeia todos os inimigos ao seu redor.
 PROPSKILL_TXT_000132,Asalraalaikum,Asalraalaikum
-PROPSKILL_TXT_000133,Fully concentrated strike. Always Consumes 100% MP.,Um ataque altamente concentrado que consome TODA a sua mana para causar um dano poderoso.
+PROPSKILL_TXT_000133,A fully concentrated strike. Always consumes 100% MP.,Um ataque altamente concentrado que consome TODA a sua mana para causar um dano poderoso.
 PROPSKILL_TXT_000134,Flame Ball,Bola de Fogo
-PROPSKILL_TXT_000135,Strikes at the enemy with a ball of flame. Chance to reduce the targets healing capabilities.,Lança uma bola de chamas no inimigo. Chance de reduzir as capacidades de cura dos alvos.
+PROPSKILL_TXT_000135,Strikes the enemy with a ball of flame that may reduce the target's HP Restoration.,Lança uma bola de chamas no inimigo. Chance de reduzir as capacidades de cura dos alvos.
 PROPSKILL_TXT_000136,Flame Geyser,Gêiser Flamejante
-PROPSKILL_TXT_000137,Damages the enemy continuously with a geyser of flame.,Conjura um gêiser de chamas que causa danos contínuos ao inimigo.
+PROPSKILL_TXT_000137,"Engulfs the enemy in a geyser of flame, dealing damage over time.",Conjura um gêiser de chamas que causa danos contínuos ao inimigo.
 PROPSKILL_TXT_000138,Swordwind,Sopro Espada
 PROPSKILL_TXT_000140,Strongwind,Tornado
-PROPSKILL_TXT_000141,"Ranged, wind attack that moves the enemy.",Ataque de vento a distância que empurra o inimigo.
+PROPSKILL_TXT_000141,A ranged wind attack that pushes the enemy back.,Ataque de vento a distância que empurra o inimigo.
 PROPSKILL_TXT_000142,Blinkpool,Salto Mágico
-PROPSKILL_TXT_000143,Allows you to teleport.,Permite que você teleporte uma curta distância.
+PROPSKILL_TXT_000143,Teleports you to a target point within range.,Permite que você teleporte uma curta distância.
 PROPSKILL_TXT_000144,Ice Missile,Míssil de Gelo
-PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice. Chance to reduce the speed of the target.,Atinge o inimigo com um míssil de gelo. Tem chance de reduzir a velocidade do alvo.
+PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice that may reduce the target's speed.,Atinge o inimigo com um míssil de gelo. Tem chance de reduzir a velocidade do alvo.
 PROPSKILL_TXT_000146,Lightning Ball,Bola Estática
-PROPSKILL_TXT_000147,Damages the enemy with a ball of static. Chance to reduce the targets defense.,Causa dano ao inimigo com uma bola estática. Tem chance de diminuir a defesa do alvo.
+PROPSKILL_TXT_000147,Damages the enemy with a ball of static that may reduce the target's defense.,Causa dano ao inimigo com uma bola estática. Tem chance de diminuir a defesa do alvo.
 PROPSKILL_TXT_000148,Stone Spike,Pedregulho
-PROPSKILL_TXT_000149,Damages an enemy with a stone spike. Chance to stun the enemy.,Causa dano no inimigo com uma estaca de pedra. Tem chance de atordoar o alvo.
+PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,Causa dano no inimigo com uma estaca de pedra. Tem chance de atordoar o alvo.
 PROPSKILL_TXT_000150,Mental Strike,Pancada Mental
-PROPSKILL_TXT_000151,Ranged Mental attack.,Ataque mental à distância.
+PROPSKILL_TXT_000151,A medium-ranged mental attack.,Ataque mental à distância.
 PROPSKILL_TXT_000152,Fire Strike,Incinerar
-PROPSKILL_TXT_000153,Damages an enemy with a fire ball.,Lança uma grande bola de fogo que causa dano e reduz a defesa contra água do alvo.
+PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",Lança uma grande bola de fogo que causa dano e reduz a defesa contra água do alvo.
 PROPSKILL_TXT_000154,Wind Cutter,Vento Perfurante
-PROPSKILL_TXT_000155,"Ranged, wind attack. Reduces fire resistance of the target.",Ataque de vento à distância que pode reduzir a resistência à fogo do alvo.
+PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",Ataque de vento à distância que pode reduzir a resistência à fogo do alvo.
 PROPSKILL_TXT_000156,Waterball,Bolhas De Água
-PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at your target.,Dispara várias bolhas de água que causa danos múltiplos ao alvo.
+PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,Dispara várias bolhas de água que causa danos múltiplos ao alvo.
 PROPSKILL_TXT_000158,Water Well,Poço Aquático
-PROPSKILL_TXT_000159,Splashes the enemy with a water attack.,Conjura um ataque de água em forma de poço que causa dano e reduz a defesa elétrica do alvo.
+PROPSKILL_TXT_000159,"Soaks the enemy with rushing water, making them more susceptible to electricity attacks.",Conjura um ataque de água em forma de poço que causa dano e reduz a defesa elétrica do alvo.
 PROPSKILL_TXT_000160,Lightning Ram,Bola Elétrica
-PROPSKILL_TXT_000161,Damages the enemy with an electric ball,Causa dano no inimigo com uma bola elétrica.
+PROPSKILL_TXT_000161,Damages the enemy with an electric ball.,Causa dano no inimigo com uma bola elétrica.
 PROPSKILL_TXT_000162,Lightning Shock,Choque Relâmpago
-PROPSKILL_TXT_000163,Damages the enemy with a small but fast lightning ball.,Conjura uma rápida e pequena bola elétrica que causa dano e reduz a defesa contra terra do alvo.
+PROPSKILL_TXT_000163,"Blasts the enemy with a ball of lightning, electrifying them and making them more susceptible to earth attacks.",Conjura uma rápida e pequena bola elétrica que causa dano e reduz a defesa contra terra do alvo.
 PROPSKILL_TXT_000164,Rock Crash,Colisão
-PROPSKILL_TXT_000165,Damages the enemy with a giant stone.,Atinge o inimigo com uma pedra gigante que causa dano e reduz a defesa contra vento do alvo.
+PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",Atinge o inimigo com uma pedra gigante que causa dano e reduz a defesa contra vento do alvo.
 PROPSKILL_TXT_000166,Rooting,Enraizamento
-PROPSKILL_TXT_000167,Prevents an enemy from approaching.,Previne que um inimigo se aproxime.
+PROPSKILL_TXT_000167,"Binds the enemy with roots, immobilizing them.",Previne que um inimigo se aproxime.
 PROPSKILL_TXT_000168,Demonology,Demônologia
-PROPSKILL_TXT_000169,Damages the enemy with a mental blast and reduces their attack power.,Desfere um ataque de explosão mental que causa dano e reduz o poder de ataque do inimigo.
+PROPSKILL_TXT_000169,Damages the enemy with a mental blast that reduces their Attack.,Desfere um ataque de explosão mental que causa dano e reduz o poder de ataque do inimigo.
 PROPSKILL_TXT_000170,Satanology,Satanologia
 PROPSKILL_TXT_000172,Psychic Bomb,Bomba Psíquica
 PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,Lança uma bola de energia mental que causa dano e tem chance de atordoar o alvo.
 PROPSKILL_TXT_000174,Psychic Wall,Parede Psíquica
-PROPSKILL_TXT_000175,Creates a wall that pushes an enemy back and damages them & reduces their speed if they touch it.,Cria uma parede que empurra um inimigo para trás causando dano e reduzindo sua velocidade.
+PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.",Cria uma parede que empurra um inimigo para trás causando dano e reduzindo sua velocidade.
 PROPSKILL_TXT_000176,Spirit Bomb,Bomba Espiritual
-PROPSKILL_TXT_000177,Does damage to an enemy through the power of your mind.,Does damage to an enemy through the power of your mind.
+PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,Damages the enemy through the power of your mind.
 PROPSKILL_TXT_000178,Crucio Spell,Feitiço Crucio
-PROPSKILL_TXT_000179,Deals damage to an enemy equal to 1.75x the amount the enemy deals.,Reflete o dano recebido igual a 1.75x da quantidade de dano que o inimigo causa.
+PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,Reflete o dano recebido igual a 1.75x da quantidade de dano que o inimigo causa.
 PROPSKILL_TXT_000180,Maximum Crisis,Crise Máxima
-PROPSKILL_TXT_000181,Damages surrounding enemies in a strong mental barrier. Small chance to stun targets.,Causa danos a todos os inimigos ao seu redor com uma potente barreira mental. Pequena chance de atordoar os alvos.
+PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun.",Causa danos a todos os inimigos ao seu redor com uma potente barreira mental. Pequena chance de atordoar os alvos.
 PROPSKILL_TXT_000182,Psychic Square,Explosão Psíquica
-PROPSKILL_TXT_000183,Damages the enemies around you with a psychic blast.,Conjura uma explosão psíquica que atinge todos os inimigos ao redor do alvo.
+PROPSKILL_TXT_000183,Damages the target enemy and enemies surrounding them with a psychic blast.,Conjura uma explosão psíquica que atinge todos os inimigos ao redor do alvo.
 PROPSKILL_TXT_000184,Firebird,Pássaro de Fogo
-PROPSKILL_TXT_000185,Damages the enemy with a fire blast.,Dispara um projétil no inimigo que causa dano com uma explosão de fogo.
+PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,Dispara um projétil no inimigo que causa dano com uma explosão de fogo.
 PROPSKILL_TXT_000186,Fire Mastery,Domínio do Fogo
-PROPSKILL_TXT_000187,"Increases the striking power of fire spells,",Aumenta o poder de ataque das magias de fogo.
+PROPSKILL_TXT_000187,Enhances the power of Fire spells.,Aumenta o poder de ataque das magias de fogo.
 PROPSKILL_TXT_000190,Lightning Strike,Choque do Trovão
-PROPSKILL_TXT_000191,Damages the enemy with a bolt of lightning.,Causa dano ao inimigo com um raio.
+PROPSKILL_TXT_000191,Calls down a devastating bolt of lightning upon the enemy.,Causa dano ao inimigo com um raio.
 PROPSKILL_TXT_000192,Lightning Mastery,Domínio do Relâmpago
-PROPSKILL_TXT_000193,Increases the striking power of electric spells.,Aumenta o poder de ataque das magias de eletricidade.
+PROPSKILL_TXT_000193,Enhances the power of Electric spells.,Aumenta o poder de ataque das magias de eletricidade.
 PROPSKILL_TXT_000194,Electric Shock,Choque Elétrico
-PROPSKILL_TXT_000195,Damage surrounding enemies with electricity. Magic Resistance of the enemies decreases.,Causa dano aos inimigos ao redor com eletricidade. A Resistência Mágica dos inimigos será reduzida.
+PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",Causa dano aos inimigos ao redor com eletricidade. A Resistência Mágica dos inimigos será reduzida.
 PROPSKILL_TXT_000196,Stone Spear,Lança de Pedra
-PROPSKILL_TXT_000197,Damages an enemy with a stone spear.,"Dispara uma lança de pedra, causando dano ao inimigo."
+PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.","Dispara uma lança de pedra, causando dano ao inimigo."
 PROPSKILL_TXT_000198,Earth Mastery,Domínio da Terra
-PROPSKILL_TXT_000199,Increases the striking power of earth spells.,Aumenta o poder de ataque das magias de terra.
+PROPSKILL_TXT_000199,Enhances the power of Earth spells.,Aumenta o poder de ataque das magias de terra.
 PROPSKILL_TXT_000200,Earthquake,Terremoto
-PROPSKILL_TXT_000201,Damages surrounding enemies area. Has a chance to lower the attack of the target.,Conjura um terremoto que causa danos aos inimigos ao redor do alvo. Tem chance de diminuir o dano de ataque do alvo.
+PROPSKILL_TXT_000201,"Shatters the ground beneath the target enemy and surrounding enemies, sending chunks of earth flying outward, with a chance to reduce their Attack.",Conjura um terremoto que causa danos aos inimigos ao redor do alvo. Tem chance de diminuir o dano de ataque do alvo.
 PROPSKILL_TXT_000202,Iceshark,Cristal de Gelo
-PROPSKILL_TXT_000203,Ranged attack that fires an ice projectile.,Ataque à distância que dispara um projétil de gelo que explode ao atingir o alvo.
+PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting outward in freezing shards.",Ataque à distância que dispara um projétil de gelo que explode ao atingir o alvo.
 PROPSKILL_TXT_000204,Water Mastery,Domínio da Água
-PROPSKILL_TXT_000205,Increases striking power of water spells.,Aumenta o poder de ataque das magias de água.
+PROPSKILL_TXT_000205,Enhances the power of Water spells.,Aumenta o poder de ataque das magias de água.
 PROPSKILL_TXT_000206,Poison Cloud,Névoa Venenosa
-PROPSKILL_TXT_000207,Poisons all enemies in the surrounding area.,Conjura uma névoa que envenena todos os inimigos na área ao redor do alvo.
+PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",Conjura uma névoa que envenena todos os inimigos na área ao redor do alvo.
 PROPSKILL_TXT_000208,Void,Vazio
-PROPSKILL_TXT_000209,To attack the enemy by generating a perfect vacuum.,Ataca um inimigo gerando um vácuo perfeito.
+PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,Ataca um inimigo gerando um vácuo perfeito.
 PROPSKILL_TXT_000210,Wind Mastery,Domínio do Vento
-PROPSKILL_TXT_000211,Increases the striking power of wind spells.,Aumenta o poder de ataque das magias de vento.
+PROPSKILL_TXT_000211,Enhances the power of Wind spells.,Aumenta o poder de ataque das magias de vento.
 PROPSKILL_TXT_000212,Windfield,Ventania
-PROPSKILL_TXT_000213,Damages surrounding enemies with a wind attack. The speed of the enemies will be reduced.,"Atinge os inimigos com um ataque de vento, causando dano e reduzindo a velocidade de movimento deles."
+PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed.","Atinge os inimigos com um ataque de vento, causando dano e reduzindo a velocidade de movimento deles."
 PROPSKILL_TXT_000214,Meteo Shower,Meteoro
-PROPSKILL_TXT_000215,Damages surrounding enemies with a falling meteor.,"Atinge o alvo com um meteoro, causando dano a todos os inimigos ao redor da área de explosão."
+PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,"Atinge o alvo com um meteoro, causando dano a todos os inimigos ao redor da área de explosão."
 PROPSKILL_TXT_000216,Lightning Storm,Tempestade de Raios
-PROPSKILL_TXT_000217,Damages surrounding enemies with electric blasts. Chance to reduce Critical Damage.,"Desfere explosões de eletricidade, causando danos aos inimigos ao redor. Tem chance de diminuir o dano crítico do alvo."
+PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.","Desfere explosões de eletricidade, causando danos aos inimigos ao redor. Tem chance de diminuir o dano crítico do alvo."
 PROPSKILL_TXT_000218,Sandstorm,Tempestade de Areia
-PROPSKILL_TXT_000219,Damages surrounding enemies with a sandstorm. Chance to reduce Accuracy.,"Conjura uma tempestade de areia, causando dano e tendo chance de reduzir a Precisão dos alvos."
+PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.","Conjura uma tempestade de areia, causando dano e tendo chance de reduzir a Precisão dos alvos."
 PROPSKILL_TXT_000220,Blizzard,Avalanche
-PROPSKILL_TXT_000221,Damages surrounding enemies with a snowstorm. Chance to Stun.,Conjura uma tempestade de gelo que causa dano aos inimigos ao redor e possui chance de atordoá-los.
+PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",Conjura uma tempestade de gelo que causa dano aos inimigos ao redor e possui chance de atordoá-los.
 PROPSKILL_TXT_000222,Yo-Yo Mastery,Maestria do Ioiô
-PROPSKILL_TXT_000223,Increases damage done with a Yo-yo.,Aumenta o dano causado com um Ioiô.
+PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,Aumenta o dano causado com um Ioiô.
 PROPSKILL_TXT_000224,Bow Mastery,Maestria do Arco
-PROPSKILL_TXT_000225,Increases damage done with a Bow.,Aumenta o dano causado com um Arco.
+PROPSKILL_TXT_000225,Increases damage dealt with bows.,Aumenta o dano causado com um Arco.
 PROPSKILL_TXT_000226,Dark Illusion,Ilusão Sombria
-PROPSKILL_TXT_000227,Become Invisible for a short time.,Torna-se invisível por pouco tempo.
+PROPSKILL_TXT_000227,Turns you invisible for a short time.,Torna-se invisível por pouco tempo.
 PROPSKILL_TXT_000228,Junk Arrow,Tiros Rápidos
-PROPSKILL_TXT_000229,Fire arrows wildly.,Dispara flechas ferozmente.
+PROPSKILL_TXT_000229,"Fires multiple volleys of arrows wildly at the enemy, some of which may miss.",Dispara flechas ferozmente.
 PROPSKILL_TXT_000230,Fast Walker,Passos Ligeiros
-PROPSKILL_TXT_000231,Increases walk speed for a short time,Aumenta a velocidade de movimento por pouco tempo.
+PROPSKILL_TXT_000231,Increases movement speed for a short time.,Aumenta a velocidade de movimento por pouco tempo.
 PROPSKILL_TXT_000232,Aimed Shot,Tiro Certeiro
-PROPSKILL_TXT_000233,Slow shot that has a chance to deal double damage.,Um disparo lento que tem chance de causar dano duplo.
+PROPSKILL_TXT_000233,"A slow, carefully aimed shot with a chance to deal double damage.",Um disparo lento que tem chance de causar dano duplo.
 PROPSKILL_TXT_000234,Slow Step,Quebra-Passos
-PROPSKILL_TXT_000235,Slows an enemy,Um ataque com o ioiô que causa lentidão ao inimigo.
+PROPSKILL_TXT_000235,An attack that may reduce the enemy's movement speed.,Um ataque com o ioiô que causa lentidão ao inimigo.
 PROPSKILL_TXT_000236,Silent Shot,Tiro Silencioso
-PROPSKILL_TXT_000237,A surprise attack that does more damage during Dark Illusion.,Dispara um ataque surpresa que causa mais dano durante a Ilusão Sombria.
+PROPSKILL_TXT_000237,A surprise attack that deals increased damage during Dark Illusion.,Dispara um ataque surpresa que causa mais dano durante a Ilusão Sombria.
 PROPSKILL_TXT_000238,Perfect Block,Bloqueio Perfeito
-PROPSKILL_TXT_000239,Increases block rate.,Aumenta a taxa de bloqueio.
+PROPSKILL_TXT_000239,Increases your Block.,Aumenta a taxa de bloqueio.
 PROPSKILL_TXT_000240,Arrow Rain,Chuva de Flechas
-PROPSKILL_TXT_000241,Creates a rain of arrows that does damage over time.,Cria uma chuva de flechas acima do alvo que causa dano por tempo a todos os inimigos que permanecerem nela.
+PROPSKILL_TXT_000241,"Rains down arrows on the target enemy and surrounding enemies, dealing damage over time.",Cria uma chuva de flechas acima do alvo que causa dano por tempo a todos os inimigos que permanecerem nela.
 PROPSKILL_TXT_000242,Cross Line,Linha Cruzada
-PROPSKILL_TXT_000243,A Yo-yo strike that can cause stun.,Golpe de Ioiô que pode atordoar o alvo.
+PROPSKILL_TXT_000243,A Yo-Yo strike with a chance to stun the enemy.,Golpe de Ioiô que pode atordoar o alvo.
 PROPSKILL_TXT_000244,Auto Shot,Rajada
-PROPSKILL_TXT_000245,Fires arrows multiple times. Can reduce enemies Accuracy.,Dispara flechas várias vezes. Pode reduzir a precisão do inimigo.
+PROPSKILL_TXT_000245,"Fires multiple arrows at the enemy, with a chance to reduce their accuracy.",Dispara flechas várias vezes. Pode reduzir a precisão do inimigo.
 PROPSKILL_TXT_000246,Snatch,Arrebatar
-PROPSKILL_TXT_000247,Steal penya from a target while in Dark Illusion. Attack from behind.,Um ataque que rouba Penya de um alvo durante uma Ilusão Sombria. É necessário atacar por trás do alvo.
+PROPSKILL_TXT_000247,Steals Penya from the target while under Dark Illusion. Must attack from behind.,Um ataque que rouba Penya de um alvo durante uma Ilusão Sombria. É necessário atacar por trás do alvo.
 PROPSKILL_TXT_000248,Counter Attack,Contra Ataque
-PROPSKILL_TXT_000249,Execute an attack after the enemy does.,Executa um contra ataque logo após um inimigo utilizar uma habilidade em você.
-PROPSKILL_TXT_000250,Deadly swing,Balanço Fatal
-PROPSKILL_TXT_000251,Strong Yo-yo blast. Chance to make the enemy lose health over time.,Um forte golpe de Ioiô que tem chance de fazer o inimigo perder vida por um tempo determinado.
+PROPSKILL_TXT_000249,Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance.,Executa um contra ataque logo após um inimigo utilizar uma habilidade em você.
+PROPSKILL_TXT_000250,Deadly Swing,Balanço Fatal
+PROPSKILL_TXT_000251,A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed.,Um forte golpe de Ioiô que tem chance de fazer o inimigo perder vida por um tempo determinado.
 PROPSKILL_TXT_000252,Pulling,Puxar
-PROPSKILL_TXT_000253,Brings a target to you using Yo-yo.,Puxa um alvo em sua direção usando o Ioiô.
+PROPSKILL_TXT_000253,Pulls the target toward you using the Yo-Yo.,Puxa um alvo em sua direção usando o Ioiô.
 PROPSKILL_TXT_000254,Critical Swing,Balanço Crítico
-PROPSKILL_TXT_000255,Increases chance of critical strike.,Aumenta as chances de causar um acerto crítico.
+PROPSKILL_TXT_000255,Increases your Critical Chance and Block Penetration.,Aumenta as chances de causar um acerto crítico.
 PROPSKILL_TXT_000256,Enchant Poison,Encanto Venenoso
-PROPSKILL_TXT_000257,Adds poison damage to your yo-yo and increases attack power.,Aumenta seu poder de ataque e adiciona a possibilidade de envenenar o alvo com seu Ioiô.
+PROPSKILL_TXT_000257,Imbues the Yo-Yo so attacks have a chance to inflict poison and increases Attack.,Aumenta seu poder de ataque e adiciona a possibilidade de envenenar o alvo com seu Ioiô.
 PROPSKILL_TXT_000258,Enchant Blood,Encanto Sanguinário
-PROPSKILL_TXT_000259,Adds blood damage to your yo-yo and increases attack power.,Aumenta seu poder de ataque e adiciona a possibilidade de causar sangramento ao alvo com seu Ioiô.
+PROPSKILL_TXT_000259,Imbues the Yo-Yo so attacks have a chance to inflict bleeding and increases Attack.,Aumenta seu poder de ataque e adiciona a possibilidade de causar sangramento ao alvo com seu Ioiô.
 PROPSKILL_TXT_000260,Enchant Absorb,Encanto Sedento
-PROPSKILL_TXT_000261,Adds the ability to drain HP to your yo-yo and increases attack power.,Aumenta seu poder de ataque e adiciona a habilidade de roubo de vida (Drenar HP) ao seu Ioiô.
+PROPSKILL_TXT_000261,Imbues the Yo-Yo so attacks have a chance to drain HP and increases Attack.,Aumenta seu poder de ataque e adiciona a habilidade de roubo de vida (Drenar HP) ao seu Ioiô.
 PROPSKILL_TXT_000262,Multi-Stab,Incisão Múltipla
 PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,Ataca o alvo múltiplas vezes com o Ioiô.
 PROPSKILL_TXT_000264,Hit of Penya,Impacto de Penya
-PROPSKILL_TXT_000265,Strengthens the attack of a yo-yo by consuming penya.,Um poderoso ataque com seu Ioiô que consome penya no processo.
+PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,Um poderoso ataque com seu Ioiô que consome penya no processo.
 PROPSKILL_TXT_000266,Escape,Escapar
-PROPSKILL_TXT_000267,Removes all de-buffs.,Remove todos os efeitos negativos de você.
+PROPSKILL_TXT_000267,Removes all debuffs from yourself.,Remove todos os efeitos negativos de você.
 PROPSKILL_TXT_000268,Vital Stab,Ataque Vital
-PROPSKILL_TXT_000269,Surprise attack while in Dark Illusion.,Um ataque surpresa enquanto estiver usando a Ilusão Sombria.
+PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,Um ataque surpresa enquanto estiver usando a Ilusão Sombria.
 PROPSKILL_TXT_000270,Critical Shot,Tiro Crítico
-PROPSKILL_TXT_000271,Increase Critical Hit for a limited time.,Aumenta o acerto crítico por um período de tempo limitado.
+PROPSKILL_TXT_000271,Increases Critical Chance for a limited time.,Aumenta o acerto crítico por um período de tempo limitado.
 PROPSKILL_TXT_000272,Ice Arrow,Flecha de Gelo
-PROPSKILL_TXT_000273,Slows an enemy down by shooting it with arrows covered in ice.,Dispara uma flecha de gelo que causa dano e lentidão a todos os inimigos ao redor do alvo.
+PROPSKILL_TXT_000273,"Shoots ice-covered arrows at the target enemy and surrounding enemies, reducing their movement speed.",Dispara uma flecha de gelo que causa dano e lentidão a todos os inimigos ao redor do alvo.
 PROPSKILL_TXT_000274,Flame Arrow,Flecha de Fogo
-PROPSKILL_TXT_000275,Gives the fire element to arrows and damages surrounding enemies.,"Dispara uma flecha de fogo que incendeia uma pequena área ao redor do alvo, causando danos em inimigos próximos."
+PROPSKILL_TXT_000275,"Fires a flame-imbued arrow that leaves a burning field at the impact point, dealing damage over time to enemies within it.","Dispara uma flecha de fogo que incendeia uma pequena área ao redor do alvo, causando danos em inimigos próximos."
 PROPSKILL_TXT_000276,Piercing Arrow,Flecha Perfurante
-PROPSKILL_TXT_000277,Increased arrow strike.,Um tiro perfurante de grande impacto.
+PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,Um tiro perfurante de grande impacto.
 PROPSKILL_TXT_000278,Poison Arrow,Flecha Venenosa
-PROPSKILL_TXT_000279,Shoots a deadly arrow full of poison at the target. Inflicts Poison.,Dispara uma flecha mortal que infecta o alvo com veneno.
+PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting poison damage over time.",Dispara uma flecha mortal que infecta o alvo com veneno.
 PROPSKILL_TXT_000280,Silent Arrow,Flecha Silenciadora
 PROPSKILL_TXT_000281,Attacks the enemy and prevents them from casting spells.,Dispara uma flecha silenciadora que impede o inimigo de conjurar magias.
 PROPSKILL_TXT_000282,Nature,Natureza
-PROPSKILL_TXT_000283,Heightens the users senses with nature to increase Magic Defense & Bow Range.,Aumenta os sentidos e a conexão com a natureza para aumentar a Defesa Mágica e o Alcance do Arco.
-PROPSKILL_TXT_000284,Triple shot,Tiro Triplo
-PROPSKILL_TXT_000285,Fires three arrows at once. Stuns the target.,"Dispara três flechas de uma só vez, atordoando o alvo."
+PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",Aumenta os sentidos e a conexão com a natureza para aumentar a Defesa Mágica e o Alcance do Arco.
+PROPSKILL_TXT_000284,Triple Shot,Tiro Triplo
+PROPSKILL_TXT_000285,Fires a volley of arrows that stuns the target.,"Dispara três flechas de uma só vez, atordoando o alvo."
 PROPSKILL_TXT_000286,Flash,Clarão
 PROPSKILL_TXT_000287,Blinded by the flash of light.,Luz cegante.
 PROPSKILL_TXT_000288,Single Stun,Atordoamento Único
 PROPSKILL_TXT_000290,Stun Group,Grupo de Atordoamento
-PROPSKILL_TXT_000291,You are stunned and you cannot move.,Você está atordoado(a) e não pode se mover.
+PROPSKILL_TXT_000291,You are stunned and cannot move.,Você está atordoado(a) e não pode se mover.
 PROPSKILL_TXT_000292,Damage,Dano
 PROPSKILL_TXT_000294,Atk. Counter,Contra Ataque
-PROPSKILL_TXT_000295,Attack just as an enemy attacks,Ataca logo quando um inimigo ataca
-PROPSKILL_TXT_000296,Knock back,Knock Back
+PROPSKILL_TXT_000295,Attack just as an enemy attacks.,Ataca logo quando um inimigo ataca
+PROPSKILL_TXT_000296,Knockback,Knock Back
 PROPSKILL_TXT_000297,Pushes the enemy back.,Empurra o inimigo.
 PROPSKILL_TXT_000298,Burningfield,Campo de Chamas
-PROPSKILL_TXT_000299,Does damage to the enemy over a period of time,Atinge uma área ao redor do alvo com chamas que causam danos aos inimigos ao longo de um período de tempo.
+PROPSKILL_TXT_000299,"Ignites the ground, creating a burning field that deals damage over time to enemies standing on it.",Atinge uma área ao redor do alvo com chamas que causam danos aos inimigos ao longo de um período de tempo.
 PROPSKILL_TXT_000300,Poison,Veneno
-PROPSKILL_TXT_000301,Damages an enemy over a period of time and reduces their ability to heal.,Causa dano e reduz a eficácia de efeitos de cura por um período de tempo.
+PROPSKILL_TXT_000301,"You are poisoned, suffering damage over time and reduced HP Restoration.",Causa dano e reduz a eficácia de efeitos de cura por um período de tempo.
 PROPSKILL_TXT_000302,Stun,Atordoamento
 PROPSKILL_TXT_000303,You are stunned and cannot move.,Você foi atordoado(a) e não pode se mover.
 PROPSKILL_TXT_000304,Bleeding,Sangramento
-PROPSKILL_TXT_000305,Damages an enemy over a period of time and reduces their attack speed.,Causa dano e reduz a velocidade de ataque do alvo por um período de tempo.
+PROPSKILL_TXT_000305,"You are bleeding, suffering damage over time and reduced Attack Speed and Casting Speed.",Causa dano e reduz a velocidade de ataque do alvo por um período de tempo.
 PROPSKILL_TXT_000306,Steal HP,Roubar HP
 PROPSKILL_TXT_000307,Drains life from an enemy.,Drena a vida de um inimigo.
 PROPSKILL_TXT_000308,Swordcross,Espada Cruzada
 PROPSKILL_TXT_000310,Poison Sting,Picada de Veneno
-PROPSKILL_TXT_000313,Damages an enemy over a period of time.,Causa dano por um período de tempo.
+PROPSKILL_TXT_000313,Damages an enemy over time.,Causa dano por um período de tempo.
 PROPSKILL_TXT_000314,Chill of Death,Frio da Morte
-PROPSKILL_TXT_000315,Decreases attack speed and increases the casting time.,Diminui a velocidade de ataque e aumenta o tempo de conjuração.
+PROPSKILL_TXT_000315,"You are chilled, suffering reduced Attack Speed and Casting Speed.",Diminui a velocidade de ataque e aumenta o tempo de conjuração.
 PROPSKILL_TXT_000319,You fainted.,Você desmaiou.
 PROPSKILL_TXT_000320,Krrr's Poison,Veneno de Krrr
 PROPSKILL_TXT_000324,Berserker Mushroom,Cogumelo Berserker
-PROPSKILL_TXT_000325,Increases striking power and attack speed.,Aumenta o poder de ataque e a velocidade de ataque.
+PROPSKILL_TXT_000325,Increases Attack and Attack Speed.,Aumenta o poder de ataque e a velocidade de ataque.
 PROPSKILL_TXT_000326,Protective Tree Bark,Casca de Árvore Protetora
-PROPSKILL_TXT_000327,Increases defense by wrapping the body in tree bark.,Aumenta a defesa envolvendo o corpo na casca da árvore.
+PROPSKILL_TXT_000327,Reduces incoming damage by wrapping your body in tree bark.,Aumenta a defesa envolvendo o corpo na casca da árvore.
 PROPSKILL_TXT_000328,Buff Break,Quebra Buff
 PROPSKILL_TXT_000330,Buff Break X,Quebra Buff X
 PROPSKILL_TXT_000350,Burn,Queimar
 PROPSKILL_TXT_000351,Damages the target continuously over time.,Causa dano ao alvo continuamente com o tempo.
 PROPSKILL_TXT_000380,Shield Bash,Golpe de Escudo
-PROPSKILL_TXT_000381,Attacks the target with a shield. This attack has a chance to stun your enemy. Requires a shield.,"Utiliza seu escudo para atacar o alvo, causando dano e com chance de atordoamento. Exige um escudo."
+PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.","Utiliza seu escudo para atacar o alvo, causando dano e com chance de atordoamento. Exige um escudo."
 PROPSKILL_TXT_000378,Grand Rage,Grande Ira
-PROPSKILL_TXT_000379,Strong One-Handed attack that converts 5% of the damage you deal into FP stolen from the enemy.,Um forte ataque com uma arma de Uma Mão que converte 5% do dano que você causa em FP roubado do inimigo.
+PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,Um forte ataque com uma arma de Uma Mão que converte 5% do dano que você causa em FP roubado do inimigo.
 PROPSKILL_TXT_000384,Heart of Fury,Coração de Fúria
-PROPSKILL_TXT_000385,Increases fighting cababilities at the cost of 1% of your maximum FP each strike. Damage will increase by 10% of your maximum FP. Requires a one-handed weapon.,Aumenta suas capacidades de luta ao custo de 2% do seu FP máximo para cada ataque. Concede dano de ataque adicional equivalente a 15% do seu FP total. Requere uma arma de uma mão.
+PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,Aumenta suas capacidades de luta ao custo de 2% do seu FP máximo para cada ataque. Concede dano de ataque adicional equivalente a 15% do seu FP total. Requere uma arma de uma mão.
 PROPSKILL_TXT_100000,Moon Beam,Raio Lunar
-PROPSKILL_TXT_100001,Calls upon the moon to weaken the target. All damage done to the target while this de-buff is active is increased.,Convoca a luz da lua para causar dano e enfraquecer o alvo. Todo o dano causado ao alvo enquanto este de-buff estiver ativo é aumentado.
+PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",Convoca a luz da lua para causar dano e enfraquecer o alvo. Todo o dano causado ao alvo enquanto este de-buff estiver ativo é aumentado.
 PROPSKILL_TXT_100002,Shade's Support,Apoio de Shade
-PROPSKILL_TXT_100003,Protects the monster from stun and rooting de-buffs.,Concede proteção ao monstro contra atordoamentos e enraizamentos.
+PROPSKILL_TXT_100003,Protects the monster from stun and rooting debuffs.,Concede proteção ao monstro contra atordoamentos e enraizamentos.
 PROPSKILL_TXT_100004,Shade's Boost,Impulso de Shade
-PROPSKILL_TXT_100005,Increases the monster's speed.,Aumenta a velocidade do monstro.
+PROPSKILL_TXT_100005,Increases the monster's movement speed.,Aumenta a velocidade do monstro.
 PROPSKILL_TXT_100006,Dragon's Grace,Graça do Dragão
-PROPSKILL_TXT_100007,The Dragon's grace awakens your attack power.,A graça do Dragão desperta seu poder de ataque.
+PROPSKILL_TXT_100007,"Empowered by your dragon, gaining increased Attack.",A graça do Dragão desperta seu poder de ataque.
 PROPSKILL_TXT_100008,Lion's Grace,Graça do Leão
-PROPSKILL_TXT_100009,The Lion's grace awakens your health.,A graça do Leão desperta sua vida.
+PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP.",A graça do Leão desperta sua vida.
 PROPSKILL_TXT_100010,Tiger's Grace,Graça do Tigre
-PROPSKILL_TXT_100011,The Tiger's grace awakens your critical damage.,A graça do Tigre desperta seu dano crítico.
+PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage.",A graça do Tigre desperta seu dano crítico.
 PROPSKILL_TXT_100012,Fox's Grace,Graça da Raposa
-PROPSKILL_TXT_100013,The Fox's grace awakens your skill damage and casting speed.,A graça da Raposa desperta o dano de suas habilidades e a velocidade de conjuração.
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack and Casting Speed.",A graça da Raposa desperta o dano de suas habilidades e a velocidade de conjuração.
 PROPSKILL_TXT_100014,Rabbit's Grace,Graça do Coelho
-PROPSKILL_TXT_100015,The Rabbit's grace awakens your speed.,A graça do Coelho desperta sua velocidade de movimento.
+PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed.",A graça do Coelho desperta sua velocidade de movimento.
 PROPSKILL_TXT_100016,Griffin's Grace,Graça do Grifo
-PROPSKILL_TXT_100017,The Griffin's grace awakens your incoming damage negation.,A graça do Grifo desperta sua negação de danos recebidos.
+PROPSKILL_TXT_100017,"Empowered by your griffin, taking reduced Incoming Damage.",A graça do Grifo desperta sua negação de danos recebidos.
 PROPSKILL_TXT_100018,Unicorn's Grace,Graça do Unicórnio
-PROPSKILL_TXT_100019,The Unicorn's grace awakens your block rate.,A graça do Unicórnio desperta sua taxa de bloqueio.
+PROPSKILL_TXT_100019,"Empowered by your unicorn, gaining increased Block.",A graça do Unicórnio desperta sua taxa de bloqueio.
 PROPSKILL_TXT_100020,Angel's Grace,Graça do Anjo
-PROPSKILL_TXT_100021,The Angel's grace awakens your critical damage.,A graça do Anjo desperta seu dano crítico.
+PROPSKILL_TXT_100021,"Empowered by your angel, gaining increased Critical Damage.",A graça do Anjo desperta seu dano crítico.
 PROPSKILL_TXT_100022,King Crab's Grace,Graça do Caranguejo-Real
-PROPSKILL_TXT_100023,The King Crab's grace awakes your block penetration.,A graça do Caranguejo-Real desperta sua penetração de bloqueio.
+PROPSKILL_TXT_100023,"Empowered by your king crab, gaining increased Block Penetration.",A graça do Caranguejo-Real desperta sua penetração de bloqueio.
 PROPSKILL_TXT_100024,Call of Fury,Chamado de Fúria
-PROPSKILL_TXT_100025,A loud call that disrupts the target and forces them and nearby enemies to target you.,Um grande grito de fúria que perturba e provoca o alvo e inimigos próximos para atacarem você.
+PROPSKILL_TXT_100025,Lets out a furious shout that forces the target enemy and surrounding enemies to focus their attacks on you.,Um grande grito de fúria que perturba e provoca o alvo e inimigos próximos para atacarem você.
 PROPSKILL_TXT_100026,Heart of Sacrifice,Coração de Sacrifício
-PROPSKILL_TXT_100027,Redirect damage taken from a target player to yourself.,Redireciona o dano recebido por um jogador alvo para si mesmo.
+PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,Redireciona o dano recebido por um jogador alvo para si mesmo.
 PROPSKILL_TXT_000392,Rending Entry,Entrada Dilacerante
-PROPSKILL_TXT_000393,"Teleport to your cursor click position, dealing damage to nearby enemies. Chance to slow the enemy. If an enemy dies to this attack, Rending Entry's cooldown is reset.","Teletransporta para a posição do clique do cursor, causando dano aos inimigos próximos. Se um inimigo morrer por este ataque, o tempo de recarga de Entrada Dilacerante é redefinido."
+PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.","Teletransporta para a posição do clique do cursor, causando dano aos inimigos próximos. Se um inimigo morrer por este ataque, o tempo de recarga de Entrada Dilacerante é redefinido."
 PROPSKILL_TXT_000394,Barrier of Life,Barreira de Vida
-PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.,"O alvo irá bloquear o próximo ataque que receber, sem exceções."
+PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,"O alvo irá bloquear o próximo ataque que receber, sem exceções."
 PROPSKILL_TXT_000430,Gravity Well,Poço Gravitacional
-PROPSKILL_TXT_000431,Creates a gravity well at your cursor position that considerably slows enemies in the area.,Cria um poço gravitacional na posição do cursor que consideravelmente reduz a velocidade dos inimigos na área.
+PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.,Cria um poço gravitacional na posição do cursor que consideravelmente reduz a velocidade dos inimigos na área.
 PROPSKILL_TXT_000440,Eye of the Storm,Olho da Tempestade
-PROPSKILL_TXT_000441,"Summon a tornado around yourself, pushing back nearby enemies and creating a barrier which blocks people from reaching you.","Invoca um tornado ao seu redor, empurrando inimigos próximos e criando uma barreira que impede aproximações."
+PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.","Invoca um tornado ao seu redor, empurrando inimigos próximos e criando uma barreira que impede aproximações."
 PROPSKILL_TXT_000424,Sury's Tenacity,Tenacidade de Sury
-PROPSKILL_TXT_000425,"Become immune to crowd control at the cost of losing your ability to cast skills, and increased incoming healing.","Aumenta todas as capacidades de curas recebidas e adquire imunidade a efeitos de controle de grupo, em troca da incapacidade de conjurar habilidades."
+PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.","Aumenta todas as capacidades de curas recebidas e adquire imunidade a efeitos de controle de grupo, em troca da incapacidade de conjurar habilidades."
 PROPSKILL_TXT_000400,Jester's Blast,Detonação do Jester
-PROPSKILL_TXT_000401,"Plant a time bomb on the target, exploding after a few seconds and dealing damage to nearby enemies. If Jester's Blast is recasted on the same target, it will prompt an early detonation for reduced damage and range.","Plant a time bomb on the target, exploding after a few seconds and dealing damage to nearby enemies. If Jester's Blast is recasted on the same target, it will prompt an early detonation for reduced damage and range."
+PROPSKILL_TXT_000401,"Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range.","Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range."
 PROPSKILL_TXT_000402,Boomburst,Estrondo
-PROPSKILL_TXT_000403,Long range shot that sends a shockwave in an area around the target. This attack knocks enemies around the affected target down.,Ataque de longo alcance que envia uma onda de choque em uma área ao redor do alvo. Este ataque derruba inimigos ao redor do alvo afetado.
+PROPSKILL_TXT_000403,"Fires a long-range projectile that detonates on impact, knocking down the target enemy and surrounding enemies.",Ataque de longo alcance que envia uma onda de choque em uma área ao redor do alvo. Este ataque derruba inimigos ao redor do alvo afetado.
 PROPSKILL_TXT_000404,Raon's Fire,Fogo de Raon
 PROPSKILL_TXT_000405,Reduces fire resistance by 20%.,Reduz a resistência ao fogo em 20%.
 PROPSKILL_TXT_000406,Herness' Water,Água de Herness
@@ -380,58 +380,58 @@ PROPSKILL_TXT_100031,Bolstered,Reforço
 PROPSKILL_TXT_100032,Your defenses are enhanced.,Suas defesas são aprimoradas.
 PROPSKILL_TXT_100033,Explode,Explodir
 PROPSKILL_TXT_100034,Curse of the Drowned Rangda,Maldição da Rangda Afogada.
-PROPSKILL_TXT_100035,"Monsters have increased attack, and increased incoming damage.",Os monstros têm aumento de ataque e sofrem mais dano.
+PROPSKILL_TXT_100035,"Monsters have increased attack, but take increased damage.",Os monstros têm aumento de ataque e sofrem mais dano.
 PROPSKILL_TXT_100036,Shade's Cruel Bargain,A Cruel Barganha de Shade
-PROPSKILL_TXT_100037,"All monsters explode on death, but have more drop rate.","Todos os monstros explodem ao morrer, mas têm uma taxa de drop maior."
+PROPSKILL_TXT_100037,"Monsters explode on death, but have an increased drop rate.","Todos os monstros explodem ao morrer, mas têm uma taxa de drop maior."
 PROPSKILL_TXT_100038,Iblis Touched,Toque de Iblis
-PROPSKILL_TXT_100039,"Monsters reflect damage, but have more drop rate.","Os monstros refletem dano, mas têm uma taxa de drop maior."
+PROPSKILL_TXT_100039,"Monsters reflect damage, but have an increased drop rate.","Os monstros refletem dano, mas têm uma taxa de drop maior."
 PROPSKILL_TXT_100040,Rhisis' Assistance,Apoio de Rhisis
-PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their health per second, but give more experience.","Uma porcentagem da vida dos monstros é recuperada a cada segundo, mas concedem mais experiência."
-PROPSKILL_TXT_100042,"Monsters have increased speed, but increased damage taken.","Monstros têm velocidade aumentada, mas recebem mais dano."
+PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.","Uma porcentagem da vida dos monstros é recuperada a cada segundo, mas concedem mais experiência."
+PROPSKILL_TXT_100042,"Monsters have increased movement speed, but take increased damage.","Monstros têm velocidade aumentada, mas recebem mais dano."
 PROPSKILL_TXT_100043,Dagger from Within,Adaga de Dentro
-PROPSKILL_TXT_100044,"Monsters have more critical chance, but give more experience.","Monstros têm mais acertos críticos, mas concedem mais experiência."
+PROPSKILL_TXT_100044,"Monsters have increased Critical Chance, but grant increased EXP.","Monstros têm mais acertos críticos, mas concedem mais experiência."
 PROPSKILL_TXT_100045,Phantom Pain,Dor Fantasma
-PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have more drop rate.","Os monstros têm uma chance de atacar duas vezes, mas têm uma taxa de drop maior."
+PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have an increased drop rate.","Os monstros têm uma chance de atacar duas vezes, mas têm uma taxa de drop maior."
 PROPSKILL_TXT_100047,Drain of Iblis,Dreno de Iblis
-PROPSKILL_TXT_100048,"Monsters have lifesteal, but increased incoming damage. ","Monstros possuem roubo de vida, mas recebem mais dano. "
+PROPSKILL_TXT_100048,"Monsters gain lifesteal, but take increased damage.","Monstros possuem roubo de vida, mas recebem mais dano. "
 PROPSKILL_TXT_100049,Shade's Adrenaline,Adrenalina de Shade
-PROPSKILL_TXT_100050,"Monsters attack faster, but have more drop rate. ","Monstros têm velocidade de ataque aumentada, mas têm uma taxa de drop maior. "
-PROPSKILL_TXT_100051,Life Linked,Vínculo de Vida
-PROPSKILL_TXT_100052,This entity will not die until the target life link is below a certain HP threshold.,Esta entidade não morrerá até que o vínculo de vida do alvo esteja abaixo de um certo limite de pontos de vida.
+PROPSKILL_TXT_100050,"Monsters have increased Attack Speed, but have an increased drop rate.","Monstros têm velocidade de ataque aumentada, mas têm uma taxa de drop maior. "
+PROPSKILL_TXT_100051,Life-linked,Vínculo de Vida
+PROPSKILL_TXT_100052,This entity cannot be defeated while its life-linked target remains above a certain HP threshold.,Esta entidade não morrerá até que o vínculo de vida do alvo esteja abaixo de um certo limite de pontos de vida.
 PROPSKILL_TXT_100053,Kraken's Revenge,A Vingança do Kraken
-PROPSKILL_TXT_100054,Rapidly recovering health as a consequence of rage.,Recuperação acelerada de vida como resultado da fúria.
+PROPSKILL_TXT_100054,Rapidly regenerating HP due to rage.,Recuperação acelerada de vida como resultado da fúria.
 PROPSKILL_TXT_100055,Ice Patch,Caminho Congelado
 PROPSKILL_TXT_100056,Slowed by an ice patch.,Desacelerado por um caminho de gelo.
 PROPSKILL_TXT_100057,Chill of the Ghostly Emperor,Depressão do Imperador Fantasma
-PROPSKILL_TXT_100058,Dungeon is covered in patches of ice that slow down. More drop rate.,"A masmorra fica coberta de manchas de gelo que desaceleram quem passa por cima, mas aumenta a taxa de drop."
+PROPSKILL_TXT_100058,The dungeon is covered in patches of ice that slow you down. Increased drop rate.,"A masmorra fica coberta de manchas de gelo que desaceleram quem passa por cima, mas aumenta a taxa de drop."
 PROPSKILL_TXT_100059,Webbed,Na Teia
 PROPSKILL_TXT_100060,A sticky web slows your movement.,Uma teia grudenta que diminui sua velocidade de movimento.
 PROPSKILL_TXT_100061,Battered,Espancado
 PROPSKILL_TXT_100062,A brutal strike has shattered your defenses. You take more damage than usual.,Um golpe brutal quebrou suas defesas. Você receberá mais dano do que o normal.
 PROPSKILL_TXT_100063,Poisoned,Envenenado
-PROPSKILL_TXT_100064,Reduced the amount of healing received.,A quantidade de cura recebida é reduzida.
+PROPSKILL_TXT_100064,Reduces your HP Restoration.,A quantidade de cura recebida é reduzida.
 PROPSKILL_TXT_100065,Misty Touch,Toque Místico
-PROPSKILL_TXT_100066,Reduces the chance to hit.,Reduz a precisão.
+PROPSKILL_TXT_100066,Reduces your accuracy.,Reduz a precisão.
 PROPSKILL_TXT_100067,Hardened Carapace,Carapaça Endurecida
-PROPSKILL_TXT_100068,"The enemy has predicted your movements, and is resistant to your attacks.",O inimigo previu seus movimentos e está resistente aos seus ataques.
+PROPSKILL_TXT_100068,"The enemy anticipates your movements, reducing damage taken from your attacks.",O inimigo previu seus movimentos e está resistente aos seus ataques.
 PROPSKILL_TXT_100069,Mind Shatter,Destruidor de Mentes
-PROPSKILL_TXT_100070,All concentration has halted. Your ability to rouse magic has been reduced.,Toda a concentração foi interrompida. Sua capacidade de conjurar magia foi reduzida.
+PROPSKILL_TXT_100070,"Your concentration has been shattered, reducing your magic damage.",Toda a concentração foi interrompida. Sua capacidade de conjurar magia foi reduzida.
 PROPSKILL_TXT_100071,Undying,Imortal
-PROPSKILL_TXT_100072,There is an entity life linked to this one.,Há uma entidade com vínculo de vida a esta.
+PROPSKILL_TXT_100072,Life-linked to another entity.,Há uma entidade com vínculo de vida a esta.
 PROPSKILL_TXT_100073,Reflective Shell,Casca Reflexiva
-PROPSKILL_TXT_100074,A portion of the damage dealt to this monster is reflected back to you.,Uma porção do dano causado a este monstro é refletido de volta para você.
+PROPSKILL_TXT_100074,A portion of the damage you deal to this monster is reflected back to you.,Uma porção do dano causado a este monstro é refletido de volta para você.
 PROPSKILL_TXT_100075,Siren's Call,Chamado da Sereia
-PROPSKILL_TXT_100076,The Siren draws you closer. Your pain is her pain.,A Sereia te atrai para mais perto. Sua dor é a dor dela.
+PROPSKILL_TXT_100076,"The Siren draws you closer. Her pain is your pain, redirecting a portion of any damage dealt to her to you.",A Sereia te atrai para mais perto. Sua dor é a dor dela.
 PROPSKILL_TXT_100077,Double Vision,Visão Duplicada
-PROPSKILL_TXT_100078,You're seeing double. And feeling double..,Você está sofrendo com dupla visão e sensações em dobro...
+PROPSKILL_TXT_100078,"Your perception fractures. You take double damage, but your damage against monsters is doubled.",Você está sofrendo com dupla visão e sensações em dobro...
 PROPSKILL_TXT_100079,Pack Tactics,Táticas da Matilha
-PROPSKILL_TXT_100080,This monster stays loyal to the pack.,Este monstro permanece leal à matilha.
-PROPSKILL_TXT_100081,A well of gravity considerably slows and damages you.,Um poço de gravidade diminui sua velocidade consideravelmente e causa danos a você.
+PROPSKILL_TXT_100080,This monster gains increased Attack while fighting alongside allies.,Este monstro permanece leal à matilha.
+PROPSKILL_TXT_100081,"You are caught in a gravitational well, suffering damage over time and greatly reduced movement speed.",Um poço de gravidade diminui sua velocidade consideravelmente e causa danos a você.
 PROPSKILL_TXT_100082,"This monster steals your life force, but takes 5% more damage.","Este monstro rouba a sua força vital, mas recebe 5% a mais de dano."
 PROPSKILL_TXT_100083,Curse of the Demon Lord,A Maldição do Lorde Demônio
-PROPSKILL_TXT_100084,The Demon Lord has cursed you with an overwhelming feeling of exhaustion.,O Lorde Demônio te amaldiçoou com um sentimento avassalador de exaustão.
-PROPSKILL_TXT_100085,Feeling Generous,Sentindo-se Generoso
-PROPSKILL_TXT_100086,This monster is feeling generous and will have an increased Drop & Exp bonus of 10%.,Este monstro está se sentindo generoso e terá um bônus de drop e experiência aumentado em 10%.
+PROPSKILL_TXT_100084,"The Demon Lord has cursed you with overwhelming exhaustion, greatly reducing Speed, Attack Speed, and Casting Speed, and lowering all stats.",O Lorde Demônio te amaldiçoou com um sentimento avassalador de exaustão.
+PROPSKILL_TXT_100085,Blessing of the Golden Aibatt,Sentindo-se Generoso
+PROPSKILL_TXT_100086,"Blessed by the Golden Aibatt's generosity, this monster grants 10% increased EXP and drop rates when defeated.",Este monstro está se sentindo generoso e terá um bônus de drop e experiência aumentado em 10%.
 PROPSKILL_TXT_100087,Shade's Swiftness,Rapidez de Shade
 PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.","Shade é um poderoso deus do medo e da ira, e concede este buff aos jogadores, imbuindo-os com uma rajada de vento que aprimora seus reflexos e permite que se movam mais rápido."
 PROPSKILL_TXT_100089,Iblis' Fortitude,Fortificação de Iblis
@@ -440,60 +440,60 @@ PROPSKILL_TXT_100091,Bubble's Bulwark,Escudo de Bubble
 PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.","Bubble é um lendário deus da alegria e pureza, e concede este buff aos jogadores, criando um poderoso escudo que proporciona uma camada extra de defesa contra ataques inimigos."
 PROPSKILL_TXT_100093,Guild's Enhancement,Aprimoramento de Guilda
 PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,Doe G-Tokens para sua guilda e melhore o nível deste aprimoramento!
-PROPSKILL_TXT_100095,Spiritual Overcharge Chance,Chance de Sobrecarga Espiritual
-PROPSKILL_TXT_100096,Healing Grace Chance,Chance de Graça Curativa
-PROPSKILL_TXT_100097,Prankster's Escape Chance,Chance de Fuga do Prankster
-PROPSKILL_TXT_100098,Last Stand Chance,Chance de Última Resistência
-PROPSKILL_TXT_100099,Aura Burst Chance,Chance de Explosão de Aura
+PROPSKILL_TXT_100095,Spiritual Overcharge,Chance de Sobrecarga Espiritual
+PROPSKILL_TXT_100096,Healing Grace,Chance de Graça Curativa
+PROPSKILL_TXT_100097,Prankster's Escape,Chance de Fuga do Prankster
+PROPSKILL_TXT_100098,Last Stand,Chance de Última Resistência
+PROPSKILL_TXT_100099,Aura Burst,Chance de Explosão de Aura
 PROPSKILL_TXT_100100,Supercharged,Supercarregado
 PROPSKILL_TXT_100101,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.,Energia crepitante envolve o alvo. Cada golpe tem chance de aplicar Estático.
 PROPSKILL_TXT_100102,Static,Estático
 PROPSKILL_TXT_100103,Sparks of power drain your strength. Run away to prevent it from spreading!,Faíscas de poder drenam sua força. Fuja para evitar que se espalhe!
 PROPSKILL_TXT_100104,Tethered,Atado
-PROPSKILL_TXT_100105,You are bound! Make some distance to break the tether!,Você está preso! Afaste-se para quebrar o vínculo!
+PROPSKILL_TXT_100105,You are bound by a tether! Create distance to break it!,Você está preso! Afaste-se para quebrar o vínculo!
 PROPSKILL_TXT_100106,Slowed,Lento
-PROPSKILL_TXT_100107,Waterbomb Chance,Chance de Bomba d'Água
+PROPSKILL_TXT_100107,Waterbomb,Chance de Bomba d'Água
 PROPSKILL_TXT_100108,Jungle Fever,Febre da Selva
-PROPSKILL_TXT_100109,Disease spreads through your body. Hopefully the fever breaks.,A doença se espalha pelo seu corpo. Espero que a febre passe.
+PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever breaks.",A doença se espalha pelo seu corpo. Espero que a febre passe.
 PROPSKILL_TXT_100110,PlayPark's Launch Buff,Buff de Lançamento do PlayPark
 PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,Aproveite experiência e drops aumentados até o nível 119!
 PROPSKILL_TXT_100112,Artifact Power,Poder do Artefato
-PROPSKILL_TXT_100113,My team's artifact count adds damage to Kalgas!,A contagem de artefatos da minha equipe adiciona dano a Kalgas!
+PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!",A contagem de artefatos da minha equipe adiciona dano a Kalgas!
 PROPSKILL_TXT_100114,Kalgas Poison,Toxina Kalgas
 PROPSKILL_TXT_100115,Poison spreads through your body.,A toxina se espalha pelo seu corpo.
 PROPSKILL_TXT_100116,Kalgas' Dominance,Supremacia Kalgas
-PROPSKILL_TXT_100117,Your team is being dominated! Defeat an artifact to regain power!,Sua equipe está sendo dominada! Derrote um artefato para restaurar seu poder!
+PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,Sua equipe está sendo dominada! Derrote um artefato para restaurar seu poder!
 PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,Aprimoramento da Guilda - 2º Aniversário
 PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,Doe Fichas de 2º Aniversário para sua guilda e melhore o nível deste aprimoramento!
 PROPSKILL_TXT_100120,Poison (From Weapon),Veneno (Arma)
 PROPSKILL_TXT_100121,Stun (From Weapon),Atordoamento (Arma)
 PROPSKILL_TXT_100122,Bleeding (From Weapon),Sangramento (Arma)
-PROPSKILL_TXT_100123,FP and MP recovery amount increased by 10% for 10 minutes.,FP and MP recovery amount increased by 10% for 10 minutes.
+PROPSKILL_TXT_100123,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100124,Madrigal Stroll,Madrigal Stroll
-PROPSKILL_TXT_100125,Movement speed increased by 5% for 10 minutes.,Movement speed increased by 5% for 10 minutes.
+PROPSKILL_TXT_100125,Increases movement speed by 5% for you and your partner for 10 minutes.,Increases movement speed by 5% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100126,Field Outing,Field Outing
 PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,Reload the Experience Lock Gauge by 5% of the maximum.
 PROPSKILL_TXT_100128,Party Together,Party Together
-PROPSKILL_TXT_100129,Party experience increased by 10% for 30 minutes. Can only be used and is only effective if both members are in the same party.,Party experience increased by 10% for 30 minutes. Can only be used and is only effective if both members are in the same party.
+PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.
 PROPSKILL_TXT_100130,Golden Luck,Golden Luck
-PROPSKILL_TXT_100131,Drop and Penya quantity increased by 5% for 10 minutes.,Drop and Penya quantity increased by 5% for 10 minutes.
+PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100132,Stamina Boost,Stamina Boost
-PROPSKILL_TXT_100133,All stats increased by 5 for 10 minutes.,All stats increased by 5 for 10 minutes.
-PROPSKILL_TXT_100134,Blessing from the Sky,Blessing from the Sky
-PROPSKILL_TXT_100135,Basic flight speed increased by 3 km/h for 5 minutes.,Basic flight speed increased by 3 km/h for 5 minutes.
+PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,Increases all stats by 5 for you and your partner for 10 minutes.
+PROPSKILL_TXT_100134,Sky's Blessing,Sky's Blessing
+PROPSKILL_TXT_100135,Increases flight speed by 3 km/h for you and your partner for 5 minutes.,Increases flight speed by 3 km/h for you and your partner for 5 minutes.
 PROPSKILL_TXT_100136,Cheer of Love,Cheer of Love
-PROPSKILL_TXT_100137,"+5% Experience, granted by your couple partner.","+5% Experience, granted by your couple partner."
+PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 5%.","Cheered on by your partner, your EXP rate is increased by 5%."
 PROPSKILL_TXT_100138,Happy Jump,Happy Jump
-PROPSKILL_TXT_100139,Jump height increased by 50 for 10 minutes.,Jump height increased by 50 for 10 minutes.
+PROPSKILL_TXT_100139,Increases Jump Height by 50 for you and your partner for 10 minutes.,Increases Jump Height by 50 for you and your partner for 10 minutes.
 PROPSKILL_TXT_100140,Swift Recovery,Swift Recovery
 PROPSKILL_TXT_100141,Herb Gathering,Herb Gathering
-PROPSKILL_TXT_100142,Gathering various herbs. ,Gathering various herbs. 
+PROPSKILL_TXT_100142,Gather various herbs.,Gather various herbs.
 PROPSKILL_TXT_100143,Wood Cutting,Wood Cutting
 PROPSKILL_TXT_100144,Cut down trees.,Cut down trees.
 PROPSKILL_TXT_100145,Mining,Mining
-PROPSKILL_TXT_100146,Mine various ores and gem.,Mine various ores and gem.
+PROPSKILL_TXT_100146,Mine various ores and gems.,Mine various ores and gems.
 PROPSKILL_TXT_100147,Fishing,Fishing
-PROPSKILL_TXT_100148,Fishing various fish.,Fishing various fish.
+PROPSKILL_TXT_100148,Catch various fish.,Catch various fish.
 PROPSKILL_TXT_100149,Cooking,Cooking
 PROPSKILL_TXT_100150,Cook various foods.,Cook various foods.
 PROPSKILL_TXT_100151,Alchemy,Alchemy
@@ -509,7 +509,7 @@ PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fo
 PROPSKILL_TXT_150000,Harlequin's Greeting,Harlequin's Greeting
 PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Perform a quick step, teleporting behind your target with a swift attack."
 PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
-PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
+PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
 PROPSKILL_TXT_150004,Range Increase,Range Increase
 PROPSKILL_TXT_150005,Harlequin's Charge,Harlequin's Charge
 PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Gather strength to perform a powerful charging attack against a single enemy.

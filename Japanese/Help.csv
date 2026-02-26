@@ -6,7 +6,7 @@ CLIENT_HELP_INC_000003,Mouse,マウスカーソル
 CLIENT_HELP_INC_000004,"Your mouse will be used constantly throughout game play. Left Clicking your mouse will be used most commonly for movement, targeting, and selecting menu options. The Right Click will be used predominately for controlling the camera and accessing the NPC Menu when a NPC is targeted. All of these features will be covered in the Help Menu.",休憩をするには、モーションウィンドウ(短縮キーO)を開き、座りアイコンをマウス左ボタンでクリックして下さい。(この際、座りアイコンを短縮キーウィンドウに登録しておくと便利です)立ちあがるには、再びアイコンをクリックするかモンスターを攻撃してください。
 CLIENT_HELP_INC_000005,Movement,移動
 CLIENT_HELP_INC_000006,"To move using the keyboard, press the “W” Key to go forward, the “A” Key to go left, the “S” Key to go backwards, and the “D” Key to go right. You can also use the Left Click of the Mouse to move.",キーボードを使用して移動するには、「W」キーを押して前進し、「A」キーを押して左に、「S」キーを押して後方に移動し、「D」キーを押して右に移動します。マウスの左クリックを使用して移動することもできます。
-CLIENT_HELP_INC_000007,"To jump, simply press the spacebar. You can jump either from a standing position or while moving.",ジャンプするにはスペースバーを押します。ジャンプは立ったままでも、移動しながらでも可能です。
+CLIENT_HELP_INC_000007,"To jump, simply press the space bar. You can jump either from a standing position or while moving.",ジャンプするにはスペースバーを押します。ジャンプは立ったままでも、移動しながらでも可能です。
 CLIENT_HELP_INC_000008,Camera,カメラ
 CLIENT_HELP_INC_000009,"You can control the camera view in many different ways. You can even lock the camera into place. To do this access the Start Menu, select Option and then toggle Camera Fix. This will allow you to control the Camera with the A and D keys. This overrides movement controls. If this setup does not feel comfortable to you, you can simply hold down the Right Mouse Button and move the mouse.",右クリックしたままマウスを動かすことでカメラ（視点）の変更が可能です。キーボードの方向キーでも操作可能です。画面の拡大・縮小はマウスのホイールボタンを回転させてください。（旧バージョンの設定：マウスホイールボタンを押したままマウスを動かせばカメラを回転させることができます）
 CLIENT_HELP_INC_000010,"Regardless of how you choose to manipulate the camera, the zoom functions will always be the same. You can Zoom in and out with the mouse wheel or the Page Up and Page Down keys. In order to zoom in even further, press the Scroll Lock Button.",カメラの回転はキーボードの方向キーでも操作可能です。
@@ -19,7 +19,7 @@ CLIENT_HELP_INC_000016,,
 CLIENT_HELP_INC_000017,,
 CLIENT_HELP_INC_000018,,
 CLIENT_HELP_INC_000019,How do I fly?,飛行アイテム
-CLIENT_HELP_INC_000020,"To fly, simply equip a flying board or broom and then press the Spacebar. You will automatically accelerate until your reach your maximum speed. To stop, press the Spacebar again.",飛ぶには、飛行用ボードやほうきを装備して、スペースバーを押すことで、自動的に加速し、最高速度に達します。停止するには、スペースバーをもう一度押してください。
+CLIENT_HELP_INC_000020,"To fly, simply equip a flying board or broom and then press the Space bar. You will automatically accelerate until your reach your maximum speed. To stop, press the Space bar again.",飛ぶには、飛行用ボードやほうきを装備して、スペースバーを押すことで、自動的に加速し、最高速度に達します。停止するには、スペースバーをもう一度押してください。
 CLIENT_HELP_INC_000021,"You can steer while flying with your mouse or with the W,A,S,D keys.",飛行アイテムには、レベル２０以上のキャラクターのみが乗ることができます。
 CLIENT_HELP_INC_000022,You can buy fuel to increase the speed of your broom or board. Double-click the fuel and press the X key to activate or de-activate the fuel.,飛行アイテムは、ステーションのNPCから購入することができます。
 CLIENT_HELP_INC_000023,,
@@ -38,9 +38,9 @@ CLIENT_HELP_INC_000035,"Ranged attacks are done with Yo-yos, and bows. To engage
 CLIENT_HELP_INC_000036,Magic Attack,魔法パターン攻撃
 CLIENT_HELP_INC_000037,Wands have the unique ability to shoot a charged magic attack. Do this by holding down the Right Mouse button after you have selected your target. Release the button to launch your attack.,魔法パターン攻撃とはワンドのような魔法道具を使用した攻撃で、マウスの左ボタンを押し続けることで力を溜め、ボタンを離すと発動して攻撃することができます。ダメージは相手の魔法抵抗に影響されます。
 CLIENT_HELP_INC_000038,Equipping items,装備
-CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double click on equipped item to unequip it.",武器、防具、アクセサリーような装備可能なアイテムは、そのアイテムをダブルクリックすることで装備欄に装備、装備中のアイテムがある場合は交換されます。また、装備しているアイテムをクリックすることで装備が解除されます。
+CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double-click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double-click on equipped item to unequip it.",武器、防具、アクセサリーような装備可能なアイテムは、そのアイテムをダブルクリックすることで装備欄に装備、装備中のアイテムがある場合は交換されます。また、装備しているアイテムをクリックすることで装備が解除されます。
 CLIENT_HELP_INC_000040,Using Items,アイテム使用
-CLIENT_HELP_INC_000041,You can use an item by double clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,アイテムは、インベントリウィンドウ内のアイテムをダブルクリックすることで使用できます。アイテムを移動させたい場合には、移動させたい場所にアイテムをドラッグしてください。アイテムをインベントリウィンドウの外にドラッグすると、アイテムを地面に落とすことができます。
+CLIENT_HELP_INC_000041,You can use an item by double-clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,アイテムは、インベントリウィンドウ内のアイテムをダブルクリックすることで使用できます。アイテムを移動させたい場合には、移動させたい場所にアイテムをドラッグしてください。アイテムをインベントリウィンドウの外にドラッグすると、アイテムを地面に落とすことができます。
 CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,また、アイテムはインベントリウィンドウからデスクバーのクイックスロット(画面中央下)に登録することで、短縮キーやマウスクリックで使用することができます。クイックスロットの登録を取り消すには、該当スロットで右クリックをしてください。
 CLIENT_HELP_INC_000043,,
 CLIENT_HELP_INC_000044,Chatting,チャット
@@ -82,7 +82,7 @@ CLIENT_HELP_INC_000079,"Skill points are necessary to level up your skill. Skill
 CLIENT_HELP_INC_000080,Inventory,インベントリウィンドウ
 CLIENT_HELP_INC_000081,"Your inventory shows you everything you currently have equipped and everything you are carrying. You can store weapons, armor, items, Penya and anything that isn't nailed down inside your inventory. View your inventory by Pressing the I Button.",インベントリウィンドウではキャラクターの所持している各種アイテムやペニャを確認できます。武器や防具、ファッションアイテムはダブルクリックすることで装備できます。Iキーを押すと開きます。
 CLIENT_HELP_INC_000082,Messenger Menu,メッセンジャー
-CLIENT_HELP_INC_000083,"You can talk to friends and Guildies as well as check their current connection status. It will be updated as you add friends and guild members. To add your friend, hold down ALT and left click the character, then select ‘add to my list’ or click the + icon located below the messenger window. Your Guild list will automatically update as players come and go. There is also a Tab to check you Mentor Pupil Status but that system is outlined later in the Help Guide.",メッセンジャーウィンドウでは登録したキャラクターの接続状況を確認したり、遠く離れたキャラクターにメッセージを送ることができます。メッセンジャー登録(フレンド登録)したい場合には、相手のキャラクターを[Alt]キーを押しながら左クリックで出るメニューで、[メッセンジャー登録]を選択してください。もしくはメッセンジャーウィンドウ([E]キー)の下部にある[+]ボタンで追加することができます。ギルドメンバーは、ギルドマスターが追加をすると自動的に更新されます。
+CLIENT_HELP_INC_000083,"You can talk to friends and guild mates as well as check their current connection status. It will be updated as you add friends and guild members. To add your friend, hold down ALT and left click the character, then select ‘add to my list’ or click the + icon located below the messenger window. Your Guild list will automatically update as players come and go. There is also a Tab to check you Mentor Pupil Status but that system is outlined later in the Help Guide.",メッセンジャーウィンドウでは登録したキャラクターの接続状況を確認したり、遠く離れたキャラクターにメッセージを送ることができます。メッセンジャー登録(フレンド登録)したい場合には、相手のキャラクターを[Alt]キーを押しながら左クリックで出るメニューで、[メッセンジャー登録]を選択してください。もしくはメッセンジャーウィンドウ([E]キー)の下部にある[+]ボタンで追加することができます。ギルドメンバーは、ギルドマスターが追加をすると自動的に更新されます。
 CLIENT_HELP_INC_000084,Quest Menu,クエストウィンドウ
 CLIENT_HELP_INC_000085,"By pressing the Q Button, you can check the progress of your current quests and other valuable information about your quests. This Menu is divided into tabs to better help you organize your quests. If you select a quest from the list it will be added to your on screen display to help you better track your progress quickly.",クエストダイアリーでは自分が受けたクエストの進行状況やクエストリスト、クエスト内容、報酬リスト、クエスト条件を確認できます。これまで受けたクエストを確認したい時やクエストの内容を忘れてしまった場合などに確認してみてください。
 CLIENT_HELP_INC_000086,Motion Menu,モーションウィンドウ
@@ -413,7 +413,7 @@ CLIENT_HELP_INC_000411,The strong damage and continuous poisonous damage will be
 CLIENT_HELP_INC_000412,Silent Arrow,ｻｲﾚﾝﾄｱﾛｰ
 CLIENT_HELP_INC_000413,"Deals strong damage and silences the target. While silenced, the target cannot cast spells of any kind.",強力なダメージを与えると共に、一定確率で沈黙状態(魔法が使用できない)にするスキルです。
 CLIENT_HELP_INC_000414,Nature,ﾈｲﾁｬﾘﾝｸﾞ
-CLIENT_HELP_INC_000415,This skill heightenses the users senses with nature to increase Magic Defense & Bow Range.,属性魔法に対する抵抗率を上昇させるスキルです。
+CLIENT_HELP_INC_000415,This skill heightens the users senses with nature to increase Magic Defense & Bow Range.,属性魔法に対する抵抗率を上昇させるスキルです。
 CLIENT_HELP_INC_000416,Triple shot,ﾄﾘﾌﾟﾙｼｮｯﾄ
 CLIENT_HELP_INC_000417,Triple arrows will be shot to deal strong damage.,3本の矢を発射し、敵に強力なダメージを与えるスキルです。
 CLIENT_HELP_INC_000418,Ringmaster,リングマスター

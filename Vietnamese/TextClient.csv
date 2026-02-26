@@ -47,7 +47,7 @@ TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Thông tin đăng nh�
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Quá trình xác thực thất bại. Vui lòng thử lại.
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Vị trí: x =%f, y =%f, z=%f,thiên thần =%f"
 TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,Bạn không thể gửi PM cho chính mình.
-TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s không tồn tại hoặc không trực tuyến.
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s không tồn tại hoặc không trực tuyến.
 TEXTCLIENT_APP_NOTICE,Notice,Chú ý
 TEXTCLIENT_APP_STATUS,Status,Trạng thái
 TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - Lv: %d
@@ -170,7 +170,7 @@ TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Nhó
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Không thể sử dụng kỹ năng. Không đủ kinh nghiệm nhóm
 TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,Bạn vẫn đang sử dụng %s kỹ năng nhóm. Thử lại sau
 TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,Kỹ năng nhóm %s đã được sử dụng
-TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Hiệu ứng của %s sắp kết thúc.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s has ended.,Hiệu ứng của %s sắp kết thúc.
 TEXTCLIENT_ACR_FAME01,Rogue,Giả mạo
 TEXTCLIENT_ACR_FAME02,Outlaw,Ngoài vòng pháp luật
 TEXTCLIENT_ACR_FAME03,Vigilante,Cảnh giác
@@ -219,7 +219,7 @@ TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Lời mời đã bị từ
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s đang ở trong thiết lập 'Từ chối nhận tin nhắn'.
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,Số lượng người chơi tối đa có thể đăng ký vào tin nhắn là 200.
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s đã thêm bạn vào Tin nhắn của họ.
-TEXTCLIENT_NOTLOGIN,That player is not connected.,Người chơi đó không có đang kết nối vào trò chơi
+TEXTCLIENT_NOTLOGIN,That player is offline.,Người chơi đó không có đang kết nối vào trò chơi
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Gửi tin nhắn thất bại, %s đã bị chặn"
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,Bạn đã %d tin nhắn(s)
 TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Không thể gửi tin nhắn. Hộp thư đến đã đầy
@@ -239,7 +239,7 @@ TEXTCLIENT_CONNREFUSE,Do not post connection status.,Không đăng trạng thái
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,Danh sách Bỏ qua đã đầy. Vui lòng hủy bỏ qua một số nhân vật hoặc đăng nhập lại để đặt lại Danh sách Bỏ qua của bạn.
 TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,Bạn không nên bỏ qua chính mình. Bạn có thể có một cái gì đó quan trọng để nói!
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,Nhân vật đó đã có trong Danh sách bỏ qua của bạn.
-TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s đã bị bỏ qua. Nhập/Bỏ qua <NAME> để xóa chúng khỏi Danh sách bỏ qua của bạn.
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s đã bị bỏ qua. Nhập/Bỏ qua <NAME> để xóa chúng khỏi Danh sách bỏ qua của bạn.
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s hiện không được bỏ qua.
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,Nhân vật đó không có trong Danh sách Bỏ qua của bạn.
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Xin vui lòng tháo trang bị trước.
@@ -259,7 +259,7 @@ TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Nhiệm vụ đang tiến hành
 TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,Bạn đã nhận được nhiệm vụ: %s. Mở Cửa sổ Nhiệm vụ của bạn để biết chi tiết.
 TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,Nhiệm vụ %s đã bị hủy.
 TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,Nhiệm vụ đã bị hủy.
-TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,Kênh này không khả dụng. Vui lòng nhập cái khác
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please select another.,Kênh này không khả dụng. Vui lòng nhập cái khác
 TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,Bên trong bị cấm bay.
 TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,Bạn cần %s mục để mở nó.
 TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.","Cấp sai, không thể mở hộp vật phẩm."
@@ -559,9 +559,9 @@ TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same ti
 TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,Bạn đã sử dụng cùng một vật phẩm trước đó. Hãy thử lại sau khi tác dụng của nó đã hết.
 TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,Bạn đã khắc tên '%s' trên chiếc nhẫn này. Tặng nó cho người yêu của bạn!
 TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,Bản khắc ghi là '%s'. Tặng nó cho người yêu của bạn!
-TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,Người chơi có tên được khắc trên chiếc nhẫn này không trực tuyến.
-TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,Bạn không thể truy cập %s từ đây.
-TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,Bạn không thể đi đến những người đang bay.
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is offline.,Người chơi có tên được khắc trên chiếc nhẫn này không trực tuyến.
+TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.,Bạn không thể truy cập %s từ đây.
+TEXTCLIENT_COUPLERING_ERR03,You can not teleport to a player who is flying.,Bạn không thể đi đến những người đang bay.
 TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,Vật phẩm này chỉ có thể được sử dụng trên vũ khí và áo giáp hiện hành.
 TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Bạn có muốn áp dụng nâng cấp chỉ số ngẫu nhiên cho vật phẩm sau không?\n%s
 TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,Điều này sẽ ghi đè nâng cấp chỉ số ngẫu nhiên trước đó đã được áp dụng. Bạn có muốn tiếp tục?
@@ -582,7 +582,7 @@ TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,Bởi vì người đó �
 TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,Trong khu vực sự kiện
 TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,Ở Kebaras
 TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,Bạn không thể sử dụng vật phẩm cho chính mình.
-TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s không trực tuyến
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is offline.,%s không trực tuyến
 TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,Người chơi này không phải là bạn của bạn hoặc bị chặn.
 TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,Bạn không thể triệu tập %s
 TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,Bạn không thể chấp nhận %s
@@ -942,7 +942,7 @@ TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,Không tìm thấy guild %
 TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,Bạn phải cung cấp một lý do.
 TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,Bạn đã nhận được cảnh báo từ %s: %s
 TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s đã được cảnh báo.
-TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s không trực tuyến, nhưng cảnh báo vẫn được ghi lại."
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is offline, but the warning was logged anyway.","%s không trực tuyến, nhưng cảnh báo vẫn được ghi lại."
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,Còn %d minute(s) để tiêu diệt %s
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,Còn %d minute(s) để tiêu diệt %dx %s
 TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Vé của bạn đã hết hạn! Bạn đã được dịch chuyển trở lại Madrigal!
@@ -1108,7 +1108,7 @@ TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture
 TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,Bạn cần phải ở trong nhà hoặc nhà hội để đặt đồ đạc đó.
 TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,Bạn không có nhà cũng không có hội quán.
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,Bạn đã thêm thành công %s làm khách truy cập!
-TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,Người chơi bạn đã chọn đang không trực tuyến.
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,Người chơi bạn đã chọn đang không trực tuyến.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,Bạn đã xóa thành công người chơi đó khỏi danh sách khách truy cập của mình.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,Người chơi đó không có trong danh sách khách truy cập của bạn.
 TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,Hiện tại bạn không sở hữu một ngôi nhà.
@@ -1271,7 +1271,7 @@ TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
 TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
 TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
-TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Account %d does not exist or is offline.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
 TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.

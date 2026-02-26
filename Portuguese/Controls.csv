@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,Prisão Meteonyker
 PROPCTRL_TXT_000014,Pink Roach Egg,Ovo - Barata Rosa
 PROPCTRL_TXT_000016,Blue Roach Egg,Ovo - Barata Azul
 PROPCTRL_TXT_000028,Warp Machine,Máquina de Teleporte
-PROPCTRL_TXT_000030,Warp Board1,Plataforma de Teleporte 1
-PROPCTRL_TXT_000032,Warp Board2,Plataforma de Teleporte 2
-PROPCTRL_TXT_000034,Warp Board3,Plataforma de Teleporte 3
+PROPCTRL_TXT_000030,Warp Board 1,Plataforma de Teleporte 1
+PROPCTRL_TXT_000032,Warp Board 2,Plataforma de Teleporte 2
+PROPCTRL_TXT_000034,Warp Board 3,Plataforma de Teleporte 3
 PROPCTRL_TXT_000036,Exp Box,Caixa de Experiência
 PROPCTRL_TXT_000037,Harvest Plant 01,Planta 1 - Colheita
 PROPCTRL_TXT_000038,Harvest Plant 02,Planta 2 - Colheita
@@ -77,7 +77,7 @@ PROPCTRL_TXT_000097,Metaverse Sofa,Sofá - Metaverso
 PROPCTRL_TXT_000098,Metaverse Round Table,Mesa Redonda - Metaverso
 PROPCTRL_TXT_000099,Metaverse Storage Table,Mesa Depósito - Metaverso
 PROPCTRL_TXT_000100,Metaverse Decorative Table,Mesa Decorativa - Metaverso
-PROPCTRL_TXT_000101,Metaverse Violon,Violino - Metaverso
+PROPCTRL_TXT_000101,Metaverse Violin,Violino - Metaverso
 PROPCTRL_TXT_000102,Wooden Yellow Chair,Cadeira (Amarela) - Madeira
 PROPCTRL_TXT_000103,Wooden Yellow Table,Mesa de Madeira (Amarela)
 PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,Penteadeira Madeira (Amarela)
@@ -154,7 +154,7 @@ PROPCTRL_TXT_000174,Wooden Sofa,Sofá - Madeira
 PROPCTRL_TXT_000175,Flaris Ground Field,Chão do Campo - Flaris
 PROPCTRL_TXT_000176,Flaris Anvil,Bigorna - Flaris
 PROPCTRL_TXT_000177,Flaris Bench,Banco - Flaris
-PROPCTRL_TXT_000178,Flaris Charrette,Carroça - Flaris
+PROPCTRL_TXT_000178,Flaris Chariot,Carroça - Flaris
 PROPCTRL_TXT_000179,Flaris Fence 1,Cerca 1 - Flaris
 PROPCTRL_TXT_000180,Flaris Floor Lamp,Luminária de Chão - Flaris
 PROPCTRL_TXT_000181,Flaris Wall Lamp,Luminária de Parede - Flaris
@@ -177,7 +177,7 @@ PROPCTRL_TXT_000197,Common Autumn Tree,Árvore de Outono - Simples
 PROPCTRL_TXT_000198,Common Sakura Tree 1,Árvore de Cerejeira 1 - Simples
 PROPCTRL_TXT_000199,Common Burned Tree,Árvore Queimada - Simples
 PROPCTRL_TXT_000200,St Morning Bench,Banco - Saint Morning
-PROPCTRL_TXT_000201,St Morning Charrette,Carroça - Saint Morning
+PROPCTRL_TXT_000201,St Morning Chariot,Carroça - Saint Morning
 PROPCTRL_TXT_000202,St Morning Rock Arch 1,Arco de Pedra 1 - Saint Morning
 PROPCTRL_TXT_000203,St Morning Flag 1,Bandeira 1 - Saint Morning
 PROPCTRL_TXT_000204,St Morning Flower Bed,Canteiro de Flores - Saint Morning
@@ -199,7 +199,7 @@ PROPCTRL_TXT_000219,Azria Tree 1,Árvore 1 - Azria
 PROPCTRL_TXT_000220,Azria Light 1,Luz 1 - Azria
 PROPCTRL_TXT_000221,Azria Rock 1,Pedra 1 - Azria
 PROPCTRL_TXT_000222,Azria Mushroom 1,Cogumelo 1 - Azria
-PROPCTRL_TXT_000223,Azria Charrette,Carroça - Azria
+PROPCTRL_TXT_000223,Azria Chariot,Carroça - Azria
 PROPCTRL_TXT_000224,Azria Crystal,Cristal - Azria
 PROPCTRL_TXT_000225,Azria Grass 1,Grama 1 - Azria
 PROPCTRL_TXT_000226,Azria Sign 1,Placa 1 - Azria
@@ -240,7 +240,7 @@ PROPCTRL_TXT_000260,Crate Floor,Piso de Caixote
 PROPCTRL_TXT_000261,Platform Floor,Piso de Plataforma
 PROPCTRL_TXT_000262,Light Plank Floor,Piso de Tábuas Claras
 PROPCTRL_TXT_000263,Light Brick Floor,Piso de Tijolos Claros
-PROPCTRL_TXT_000264,Scrapwood Floor,Piso de Madeira Restaurada
+PROPCTRL_TXT_000264,Scrap Wood Floor,Piso de Madeira Restaurada
 PROPCTRL_TXT_000265,Pale Wood Floor,Piso de Madeira Pálida
 PROPCTRL_TXT_000266,Mossy Brick Floor,Piso de Tijolos com Musgo
 PROPCTRL_TXT_000267,Shipwreck Floor,Piso de Naufrágio
@@ -295,7 +295,7 @@ PROPCTRL_TXT_000315,Crate Ceiling,Teto de Caixote
 PROPCTRL_TXT_000316,Platform Ceiling,Teto de Plataforma
 PROPCTRL_TXT_000317,Light Plank Ceiling,Teto de Tábuas (Claro)
 PROPCTRL_TXT_000318,Light Brick Ceiling,Teto de Tijolos (Claro)
-PROPCTRL_TXT_000319,Scrapwood Ceiling,Teto de Madeira Restaurada
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,Teto de Madeira Restaurada
 PROPCTRL_TXT_000320,Pale Wood Ceiling,Teto de Madeira (Pálida)
 PROPCTRL_TXT_000321,Mossy Brick Ceiling,Teto de Tijolos com Musgo
 PROPCTRL_TXT_000322,Shipwreck Ceiling,Teto de Naufrágio
@@ -676,7 +676,7 @@ PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
 PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
 PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
 PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Plateform,Coral Island Coral Plateform
+PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
 PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
 PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
 PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15

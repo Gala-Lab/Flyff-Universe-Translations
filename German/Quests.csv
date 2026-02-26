@@ -1990,8 +1990,8 @@ PROPQUEST_INC_132246,"Adventurer, I can’t thank you enough! This book… it wa
 PROPQUEST_INC_132247,"She has dedicated her life to preserving knowledge, and this book deserves a place in her archives. If you deliver it to her, I’m sure she’ll reward you well enough to take your next step… your first specialization. What do you say?","Sie hat ihr Leben der Bewahrung von Wissen gewidmet, und dieses Buch gehört in ihr Archiv. Wenn du es ihr bringst, wird sie dich sicher großzügig belohnen, genug für deinen nächsten Schritt… deine erste Spezialisierung. Was sagst du?"
 PROPQUEST_INC_132248,"Thank you! I knew you would understand the importance of preserving knowledge. The historian will be thrilled to receive such a rare manuscript. Go, adventurer, and take this final step toward your destiny!","Danke! Ich wusste, dass du die Bedeutung der Wissensbewahrung verstehst. Die Historikerin wird begeistert sein, ein so seltenes Manuskript zu erhalten. Geh nun, Abenteurer, und mache diesen letzten Schritt in Richtung deines Schicksals!"
 PROPQUEST_INC_132249,"Oh… I see. That’s unfortunate. This book holds so much wisdom, it would be a shame to let it go to waste. If you ever change your mind, please reconsider. This could be the final key to unlocking your future.","Oh … verstehe. Das ist bedauerlich. In diesem Buch steckt so viel Weisheit, es wäre schade, sie ungenutzt zu lassen. Wenn du deine Meinung änderst, überlege es dir bitte noch einmal. Es könnte der letzte Schlüssel zu deiner Zukunft sein."
-PROPQUEST_INC_132250,"(She carefully flips through the pages, completely fascinated.)","(Sie blättert vorsichtig durch die Seiten und ist sichtlich fasziniert.)"
-PROPQUEST_INC_132251,"I will make a faithful copy to ensure this wisdom is never lost. You have done a great service to history today."" She closes the book and looks at you with a grateful smile. ""And of course, I won’t let your efforts go unrewarded.","Ich werde eine originalgetreue Abschrift anfertigen, damit dieses Wissen niemals verloren geht. Du hast der Geschichte heute einen großen Dienst erwiesen." "Sie schließt das Buch und lächelt dich dankbar an." "Und natürlich soll deine Mühe nicht unbelohnt bleiben."
+PROPQUEST_INC_132250,"(She carefully flips through the pages, completely fascinated.)",(Sie blättert vorsichtig durch die Seiten und ist sichtlich fasziniert.)
+PROPQUEST_INC_132251,"I will make a faithful copy to ensure this wisdom is never lost. You have done a great service to history today."" She closes the book and looks at you with a grateful smile. ""And of course, I won’t let your efforts go unrewarded.","Ich werde eine originalgetreue Abschrift anfertigen, damit dieses Wissen niemals verloren geht. Du hast der Geschichte heute einen großen Dienst erwiesen. Sie schließt das Buch und lächelt dich dankbar an. Und natürlich soll deine Mühe nicht unbelohnt bleiben."
 PROPQUEST_INC_132252,"Take this, consider it a token of my gratitude. With it, you should have everything you need to take the next step in your journey. May your path be filled with knowledge and greatness!","Nimm dies als Zeichen meiner Dankbarkeit. Damit hast du alles, was du für den nächsten Schritt auf deinem Weg brauchst. Möge dein Pfad von Wissen und Größe erfüllt sein!"
 PROPQUEST_INC_132253,"The book is still with you? Hmm… I don’t mean to rush, but knowledge like this should not be kept hidden for too long. The historian is waiting, and so is your destiny. When you're ready, make sure it reaches the right hands.","Du hast das Buch noch bei dir? Hm… ich will dich nicht drängen, aber solches Wissen sollte nicht zu lange verborgen bleiben. Die Historikerin wartet und dein Schicksal ebenfalls. Wenn du bereit bist, bring es in die richtigen Hände."
 PROPQUEST_INC_132254,"Deliver the Book of Techniques to the historian so its knowledge can be preserved, and claim your reward.","Überbringe das Buch der Techniken der Historikerin, damit sein Wissen bewahrt wird, und hole dir deine Belohnung ab."
@@ -2003,10 +2003,10 @@ PROPQUEST_INC_132259,Help launch of an expedition,Bei dem Start einer Expedition
 PROPQUEST_INC_132260,"Have you heard? An expedition is being organized to discover a new continent!\n[Historian] Martinyc has found the coordinates of a possible new continent, and we are setting out to explore it.\nCan you help us in gathering supplies?","Hast du schon gehört? Eine Expedition zur Entdeckung eines neuen Kontinents wird vorbereitet!\n[Historiker] Martinyc hat die Koordinaten eines möglichen neuen Kontinents gefunden, und wir brechen auf, um ihn zu erkunden.\nKannst du uns beim Sammeln der Vorräte helfen?"
 PROPQUEST_INC_132261,How fortunate we are to have an adventurer like you! Actually... The monsters stole everything. We'll find the supplies when we've beaten them all!,"Was für ein Glück, einen Abenteurer wie dich zu haben! Leider… haben die Monster  alle Vorräte gestohlen. Wir bekommen sie zurück, sobald wir sie besiegt haben!"
 PROPQUEST_INC_132262,Too bad... Come back when you can.,"Schade… komm wieder, wenn du kannst."
-PROPQUEST_INC_132263,"Thanks to you, the expedition will set off without a hitch! Thank you!","Dank dir kann die Expedition reibungslos starten! Vielen Dank!"
+PROPQUEST_INC_132263,"Thanks to you, the expedition will set off without a hitch! Thank you!",Dank dir kann die Expedition reibungslos starten! Vielen Dank!
 PROPQUEST_INC_132264,"Uh... Are we there yet? No, no, no... I didn't mean to push you, but... I'd appreciate it if you could find them soon!","Ähm… bist du bald fertig? Nein, nein… ich will dich nicht drängen, aber… es wäre toll, wenn du die Sachen bald finden könntest!"
-PROPQUEST_INC_132265,Hunt monsters (within 10Lv range from your level) to earn [Event] Supplies,Jage Monster (im Bereich von ±10 Leveln um dein Level), um [Event]-Vorräte zu erhalten
-PROPQUEST_INC_132266,Looks like you're a new comer. Did you pick up the items one-by-one? I'll give you a newcomer's pet for you.,"Du scheinst neu hier zu sein. Hast du die Gegenstände einzeln eingesammelt? Ich gebe dir ein Einsteiger-Begleiterpet."
+PROPQUEST_INC_132265,Hunt monsters (within 10Lv range from your level) to earn [Event] Supplies,"Jage Monster (im Bereich von ±10 Leveln um dein Level), um [Event]-Vorräte zu erhalten"
+PROPQUEST_INC_132266,Looks like you're a new comer. Did you pick up the items one-by-one? I'll give you a newcomer's pet for you.,Du scheinst neu hier zu sein. Hast du die Gegenstände einzeln eingesammelt? Ich gebe dir ein Einsteiger-Begleiterpet.
 PROPQUEST_INC_132267,Find Easter Eggs,Ostereier finden
 PROPQUEST_INC_132268,What is Lifestyle?,Was ist „Lifestyle“?
 PROPQUEST_INC_132269,Welcome. There are times when you want to achieve different type of strengths. Do you wish to try something new that’s not related to hunting monsters?,"Willkommen. Manchmal möchte man andere Arten von Stärken entwickeln. Möchtest du etwas Neues ausprobieren, das nichts mit dem Jagen von Monstern zu tun hat?"
@@ -2025,10 +2025,10 @@ PROPQUEST_INC_132281,3rd Anniversary Egg Upgrade 2,3. Jubiläums-Ei-Upgrade 2
 PROPQUEST_INC_132282,Whole New Substance,Völlig neuer Stoff
 PROPQUEST_INC_132283,"Thanks to your efforts, the expedition was launched without a hitch—and now they've sent word back that they've discovered a new substance. So, I ask you—would you be willing to lend your strength to further this research?","Dank deiner Hilfe konnte die Expedition reibungslos starten und nun haben wir Nachricht erhalten, dass ein neuer Stoff entdeckt wurde. Deshalb frage ich dich: Würdest du uns bei der weiteren Erforschung unterstützen?"
 PROPQUEST_INC_132284,"A shipment of experimental materials was en route here, but the escort grew careless—and monsters struck once again. You'll likely find them as you drive those beasts back where they came from.","Eine Lieferung mit Versuchsmaterial war auf dem Weg hierher, doch die Eskorte war unachtsam und wieder haben Monster zugeschlagen. Du wirst die Kisten vermutlich finden, wenn du die Bestien dorthin zurücktreibst, wo sie hergekommen sind."
-PROPQUEST_INC_132285,Too bad... Come back when you can.,Schade… komm wieder, wenn du kannst.
+PROPQUEST_INC_132285,Too bad... Come back when you can.,"Schade… komm wieder, wenn du kannst."
 PROPQUEST_INC_132286,"With this, we can proceed with the experiments without delay. You have my deepest thanks. This may very well allow us to craft equipment superior to what you currently wear. Rest assured, I’ll make you the first to benefit from it.","Damit können wir die Experimente ohne Verzögerung fortsetzen. Ich danke dir von Herzen. Vielleicht gelingt es uns so, Ausrüstung herzustellen, die besser ist als das, was du derzeit trägst. Und keine Sorge, du wirst als Erster davon profitieren."
 PROPQUEST_INC_132287,"Hm... still gathering? No rush, of course—but I must admit, I expected someone like you to have completed it by now!","Hm… noch am Sammeln? Kein Stress, natürlich, aber ehrlich gesagt hätte ich erwartet, dass jemand wie du das längst erledigt hat!"
-PROPQUEST_INC_132288,Hunt monsters (Lv. -10) to earn 3 Experiment Material Boxes,Besiege Monster (bis zu 10 Level unter deinem Level), um 3 Kisten mit Versuchsmaterial zu erhalten
+PROPQUEST_INC_132288,Hunt monsters (Lv. -10) to earn 3 Experiment Material Boxes,"Besiege Monster (bis zu 10 Level unter deinem Level), um 3 Kisten mit Versuchsmaterial zu erhalten"
 PROPQUEST_INC_132289,Revolutionary’s Secret Journal,Geheimes Journal des Revolutionärs
 PROPQUEST_INC_132290,Ugh... C-can you do me a favor...?,Uff… k-kannst du mir einen Gefallen tun…?
 PROPQUEST_INC_132291,Thank you... I’ll stay hidden and recover. I’m counting on you.,Danke… ich bleibe hier versteckt und erhole mich. Ich zähle auf dich.
@@ -2036,9 +2036,9 @@ PROPQUEST_INC_132292,"Ugh... I see... If you're busy, I understand...","Uff… v
 PROPQUEST_INC_132293,Be careful. Many are after the Secret Journal.,Sei vorsichtig. Viele sind hinter dem geheimen Journal her.
 PROPQUEST_INC_132294,"Uncover the secrets within the Revolutionary Journal, and great rewards await you.","Lüfte die Geheimnisse des revolutionären Journals, große Belohnungen erwarten dich."
 PROPQUEST_INC_132295,Monster Hunt!,Monsterjagd!
-PROPQUEST_INC_132296,"Looking to get stronger, are you?","Du willst also stärker werden?"
+PROPQUEST_INC_132296,"Looking to get stronger, are you?",Du willst also stärker werden?
 PROPQUEST_INC_132297,Do me a favor and clear out the monsters nearby while you’re at it. I’ll see what I can do for you—just give it your all.,"Tu mir einen Gefallen und beseitige dabei die Monster in der Umgebung. Ich werde sehen, was ich für dich tun kann, gib einfach dein Bestes."
-PROPQUEST_INC_132298,Still not finished? Don’t keep me waiting past today.,"Noch nicht fertig? Lass mich nicht länger als heute warten."
+PROPQUEST_INC_132298,Still not finished? Don’t keep me waiting past today.,Noch nicht fertig? Lass mich nicht länger als heute warten.
 PROPQUEST_INC_132299,A time will come when you’ll need real strength. Come back to me if you’re desperate enough. Time’s not exactly on your side.,"Es wird der Moment kommen, in dem du wahre Stärke brauchst. Komm zu mir zurück, wenn du verzweifelt genug bist. Die Zeit spielt nicht gerade für dich."
 PROPQUEST_INC_132300,Make good use of what you gain.,Nutze deinen Gewinn sinnvoll.
 PROPQUEST_INC_132301,Gather materials for Smiths!,Sammle Materialien für die Schmiede!
@@ -2063,7 +2063,7 @@ PROPQUEST_INC_150010,The Truth of the Expedition,Die Wahrheit hinter der Expedit
 PROPQUEST_INC_150011,"Ah, I see. Did the Strange Collector send you?","Ah, verstehe. Hat dich der Seltsame Sammler geschickt?"
 PROPQUEST_INC_150012,I have nothing to tell you about that. Just go back.,Dazu habe ich dir nichts zu sagen. Geh wieder.
 PROPQUEST_INC_150013,"Hmm? If not, then why did you come to me?","Hm? Wenn nicht, was willst du dann von mir?"
-PROPQUEST_INC_150014,"Even for you, I have nothing more to say.","Selbst dir gegenüber habe ich nichts weiter zu sagen."
+PROPQUEST_INC_150014,"Even for you, I have nothing more to say.",Selbst dir gegenüber habe ich nichts weiter zu sagen.
 PROPQUEST_INC_150015,Hmm? Do I know anything about the mayor?,Hm? Ob ich etwas über den Bürgermeister weiß?
 PROPQUEST_INC_150016,Meet with Helgar,Triff Helgar
 PROPQUEST_INC_150017,Trapped in the Maze,Im Labyrinth gefangen
@@ -2081,26 +2081,26 @@ PROPQUEST_INC_150028,"He was shocked when he saw it, took it away, and told me n
 PROPQUEST_INC_150029,"As far as I know, these pieces came from the central region of the Leren Mountains. Fortunately for him, powerful masquerpets wander the area, keeping people away and stopping any rumors from spreading. But that shouldn’t be a problem for you.","Soweit ich weiß, stammen diese Teile aus dem Herzen der Leren-Berge. Zu seinem Glück treiben sich dort starke Masquerpets herum, die neugierige Leute fernhalten und Gerüchte im Keim ersticken. Für dich dürfte das jedoch kein Hindernis sein."
 PROPQUEST_INC_150030,"Hmm? You don’t need it? Well, I can’t give you this piece, but if you need another one, feel free to ask.","Hm? Du brauchst es nicht? Nun, dieses Stück kann ich dir nicht geben, aber wenn du ein anderes benötigst, sag einfach Bescheid."
 PROPQUEST_INC_150031,"I’ve already told you where it is, haven’t I? Someone like you shouldn’t have any trouble handling the monsters there and finding what you need.","Ich habe dir doch gesagt, wo du suchen musst. Jemand deines Kalibers sollte mit den Monstern dort keine Probleme haben."
-PROPQUEST_INC_150032,Wait… this is…! How did you get this?,"Warte… das ist doch…! Wo hast du das her?"
+PROPQUEST_INC_150032,Wait… this is…! How did you get this?,Warte… das ist doch…! Wo hast du das her?
 PROPQUEST_INC_150033,Find “Fragment of ???”,Finde das „Fragment von ???“
 PROPQUEST_INC_150034,His True Intention,Seine wahren Absichten
 PROPQUEST_INC_150035,"Now that you’ve come this far, I have no choice but to tell you everything. Are you ready? That fragment is from the ship the expedition used when they set sail.","Nun, da du so weit gekommen bist, bleibt mir nichts anderes übrig, als dir alles zu erzählen. Bist du bereit? Dieses Fragment stammt vom Schiff, mit dem die Expedition aufbrach."
-PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.","Woher ich das weiß? Ich war von der Planung bis zum Bau beteiligt. Doch bislang haben wir nur verstreute Bruchstücke wie dieses gefunden."
+PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.",Woher ich das weiß? Ich war von der Planung bis zum Bau beteiligt. Doch bislang haben wir nur verstreute Bruchstücke wie dieses gefunden.
 PROPQUEST_INC_150037,"I’ve done my best to stop the news from spreading, but there’s only so much I can do. At this point, I have no one left to turn to but you. Could you help find more clues about the expedition?","Ich habe versucht, die Sache unter Verschluss zu halten, aber meine Möglichkeiten sind begrenzt. Du bist meine letzte Hoffnung. Hilfst du mir, weitere Spuren der Expedition zu finden?"
-PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,"Danke dir. Die Expedition folgte dem Gebirgszug von Darkon 1. Dort solltest du mit der Suche beginnen."
+PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,Danke dir. Die Expedition folgte dem Gebirgszug von Darkon 1. Dort solltest du mit der Suche beginnen.
 PROPQUEST_INC_150039,"So even my last hope is fading. If you change your mind, please come back.","Also schwindet auch meine letzte Hoffnung… Falls du es dir anders überlegst, komm bitte zurück."
-PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,"Hast du etwas gefunden? Oh… das wird ernst."
+PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,Hast du etwas gefunden? Oh… das wird ernst.
 PROPQUEST_INC_150041,"Welcome, adventurer. Hmm? What is this?","Willkommen, Abenteurer. Hm? Was hast du da?"
 PROPQUEST_INC_150042,Bring “Fragment of a Fallen Ship” to the Darken Mayor,Bringe das „Fragment of a Fallen Ship“ zum Bürgermeister von Darken
 PROPQUEST_INC_150043,Seeking the Witness… 1,Auf der Suche nach einem Zeugen… 1
 PROPQUEST_INC_150044,"Well… I don’t know anything about this shipwreck, but there is someone who might.","Nun… über dieses Wrack weiß ich nichts, aber jemand anderes vielleicht."
-PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,"Ein High-Dwarpet namens Liekyen könnte etwas wissen. Sprich mit ihm."
+PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,Ein High-Dwarpet namens Liekyen könnte etwas wissen. Sprich mit ihm.
 PROPQUEST_INC_150046,"Of course, you can search elsewhere first if you prefer.","Natürlich kannst du auch zuerst woanders nachforschen, wenn du willst."
 PROPQUEST_INC_150047,You haven’t gone yet? That’s really all I can think of.,Du bist noch hier? Mehr fällt mir wirklich nicht ein.
 PROPQUEST_INC_150048,A shipwreck? Ah… you mean that one.,Ein Schiffswrack? Ah… du meinst dieses.
 PROPQUEST_INC_150049,Meet with Liekyen,Triff Liekyen
 PROPQUEST_INC_150050,Seeking the Witness… 2,Auf der Suche nach einem Zeugen… 2
-PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,"Tief in den Bergen geschah es. Ich sah einen Schatten und hielt ihn für ein Monster… doch dann stürzte ein Schiff vom Himmel herab."
+PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,Tief in den Bergen geschah es. Ich sah einen Schatten und hielt ihn für ein Monster… doch dann stürzte ein Schiff vom Himmel herab.
 PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?","Als ich es zum ersten Mal untersuchte, war niemand an Bord. Kein einziger Körper. Ich sah mich nach etwas Brauchbarem um, aber alles, was ich fand, war ein Buch voller seltsamer Zeichen. Neugierig, was darin steht?"
 PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.","Ich konnte absolut nichts damit anfangen, also habe ich es Inisis gegeben. Wenn es dich interessiert, sprich mit ihr."
 PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.","Nicht neugierig? Nun gut, deine Entscheidung."
@@ -2122,8 +2122,8 @@ PROPQUEST_INC_150069,"So I can keep this? Tch… the more I look at it, the more
 PROPQUEST_INC_150070,This logbook…!,Dieses Logbuch…!
 PROPQUEST_INC_150071,Find “Trace of the New Continent”,Finde „Trace of the New Continent“
 PROPQUEST_INC_150072,The Gear Begins to Turn Again,Die Zahnräder setzen sich wieder in Bewegung
-PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.","Also so war das… Was um alles in der Welt ist mit der Besatzung dieses Schiffs geschehen? Zunächst werde ich dieses seltsame Material untersuchen."
-PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?","Damit kann ich die Investoren beruhigen. Mit diesem Logbuch könnten wir vielleicht sogar eine Folgeexpedition entsenden. Hm… Würdest du das Logbuch und dieses Material dem Seltsamen Sammler zeigen?"
+PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.",Also so war das… Was um alles in der Welt ist mit der Besatzung dieses Schiffs geschehen? Zunächst werde ich dieses seltsame Material untersuchen.
+PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?",Damit kann ich die Investoren beruhigen. Mit diesem Logbuch könnten wir vielleicht sogar eine Folgeexpedition entsenden. Hm… Würdest du das Logbuch und dieses Material dem Seltsamen Sammler zeigen?
 PROPQUEST_INC_150075,He should be the first to know. Thank you.,Er sollte es als Erster erfahren. Danke dir.
 PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime.","Wenn du es dir anders überlegst, kannst du jederzeit zurückkommen."
 PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.","Hast du es ihm schon gezeigt? Keine Sorge, ich setze dich nicht unter Druck."
@@ -2157,14 +2157,14 @@ PROPQUEST_INC_150104,Gather 10 Abandoned Serial Number Chains,Sammle 10 Abandone
 PROPQUEST_INC_150105,Proficiency Test,Eignungstest
 PROPQUEST_INC_150106,"Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it.","He! Halt! Wer bist du? …Eine schöne Geschichte. Klingt verdächtig. Bist du etwa ein Lykan-Spion? Wenn nicht, dann beweise es."
 PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.","Besiege 20 Hundur Sharpfoots, dann glaube ich dir."
-PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,"Ha! Ich wusste es. Du bist ein Spion!"
-PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,"Was? Nicht einmal das schaffst du? Erbärmlich. So lasse ich dich ganz sicher nicht ins Dorf."
-PROPQUEST_INC_150110,(Hmm… seems stronger than me…),"(Hm… scheint stärker zu sein als ich…)"
+PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,Ha! Ich wusste es. Du bist ein Spion!
+PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,Was? Nicht einmal das schaffst du? Erbärmlich. So lasse ich dich ganz sicher nicht ins Dorf.
+PROPQUEST_INC_150110,(Hmm… seems stronger than me…),(Hm… scheint stärker zu sein als ich…)
 PROPQUEST_INC_150111,Kill 20 Hundur Sharpfoots,Töte 20 Hundur Sharpfoots
 PROPQUEST_INC_150112,Territorial Cats,Revierkämpfe der Katzen
 PROPQUEST_INC_150113,"That’s still not enough to convince me. I don’t even know who you really are. If you want to live alongside our village, you’ll need to prove yourself with your strength. Then at least we can rely on each other.","Das reicht noch lange nicht, um mich zu überzeugen. Ich weiß ja nicht einmal, wer du wirklich bist. Wenn du mit unserem Dorf Seite an Seite leben willst, musst du deine Stärke beweisen. Nur dann können wir einander vertrauen."
 PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.","Wenn es dir ernst ist, dann besiege Captain Hundur Sharpfoot und bring mir einen Beweis."
-PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.","Auf deinem derzeitigen Stand dürfte das schwierig sein. Ich verstehe."
+PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.",Auf deinem derzeitigen Stand dürfte das schwierig sein. Ich verstehe.
 PROPQUEST_INC_150116,Still not done? When exactly do you plan to enter the village?,"Noch immer nicht fertig? Wann gedenkst du eigentlich, das Dorf zu betreten?"
 PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.","(Im Ernst…?) Mit denen hast du schon Probleme? Hah… na gut, du hast es wenigstens versucht. Geh weiter, jemand wird dich hineinführen."
 PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,Töte 11 Captain Hundur Sharpfoots und bringe 1 Piece of Hundur Bone zurück
@@ -2173,7 +2173,7 @@ PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge
 PROPQUEST_INC_150121,"Don’t worry, I’ll give him a much harsher assignment next time. To stay in this village, you’ll need the captain’s approval. He’s strict, so expect more tests.","Keine Sorge, beim nächsten Mal bekommt er eine deutlich härtere Aufgabe. Wenn du in diesem Dorf bleiben willst, brauchst du die Zustimmung des Hauptmanns. Er ist streng, stell dich also auf weitere Prüfungen ein."
 PROPQUEST_INC_150122,You can find him over there. Go talk to him yourself.,Du findest ihn dort drüben. Sprich selbst mit ihm.
 PROPQUEST_INC_150123,What will he ask you to do? No idea.,Was er von dir verlangen wird? Keine Ahnung.
-PROPQUEST_INC_150124,"Just know that without his approval, you won’t be able to do much in this village.","Eins ist sicher: Ohne seine Zustimmung wirst du hier im Dorf nicht weit kommen."
+PROPQUEST_INC_150124,"Just know that without his approval, you won’t be able to do much in this village.",Eins ist sicher: Ohne seine Zustimmung wirst du hier im Dorf nicht weit kommen.
 PROPQUEST_INC_150125,Who are you?,Wer bist du?
 PROPQUEST_INC_150126,Meet with [Captain] Baron,Triff [Hauptmann] Baron
 PROPQUEST_INC_150127,Captain’s Test 1,Prüfung des Hauptmanns 1
@@ -2222,20 +2222,20 @@ PROPQUEST_INC_150169,"Back already? The translation’s done. Here, take it.","S
 PROPQUEST_INC_150170,Kill 25 Kyouchish,Töte 25 Kyouchish
 PROPQUEST_INC_150171,The Expedition Is…,Die Expedition ist…
 PROPQUEST_INC_150172,"Did it say anything useful? Typical wolves—attack, pillage, and so on. Still, if it helps your search, that’s something.","Stand etwas Nützliches darin? Typische Wölfe, angreifen, plündern und dergleichen. Aber wenn es dir bei deiner Suche hilft, ist das immerhin etwas."
-PROPQUEST_INC_150173,So now… you’re heading back? That’s something you’ll need to report.,"Also… du kehrst jetzt zurück? Das solltest du melden."
+PROPQUEST_INC_150173,So now… you’re heading back? That’s something you’ll need to report.,Also… du kehrst jetzt zurück? Das solltest du melden.
 PROPQUEST_INC_150174,"Well, returning can wait.","Nun, die Rückkehr kann warten."
 PROPQUEST_INC_150175,I’ll inform the villagers so you can use our village freely afterward. Safe travels.,"Ich werde die Dorfbewohner informieren, damit du unser Dorf künftig frei nutzen kannst. Gute Reise."
 PROPQUEST_INC_150176,"Oh, you’re back. How was the village?","Oh, du bist zurück. Wie war das Dorf?"
 PROPQUEST_INC_150177,The Truth,Die Wahrheit
-PROPQUEST_INC_150178,So… the others… I’m the only survivor… sniff… Are you going back to Saint City?,"Also… die anderen… ich bin der einzige Überlebende… schnief… Kehrst du nach Saint City zurück?"
+PROPQUEST_INC_150178,So… the others… I’m the only survivor… sniff… Are you going back to Saint City?,Also… die anderen… ich bin der einzige Überlebende… schnief… Kehrst du nach Saint City zurück?
 PROPQUEST_INC_150179,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?","Bitte sag ihnen, dass ich noch lebe. Wenn die zweite Expedition eintrifft, werde ich mich ihr anschließen und nach Hause zurückkehren. Ich möchte nicht länger in diesem Land bleiben. Ich weiß, das ist viel verlangt, aber… könntest du meine gefallenen Kameraden rächen, bevor du nach Madrigal aufbrichst?"
 PROPQUEST_INC_150180,"I heard a particularly loud howl. Everything went quiet afterward, so I’m sure that was their leader. Can you defeat him?","Ich hörte ein besonders lautes Heulen. Danach wurde es vollkommen still, ich bin sicher, das war ihr Anführer. Kannst du ihn besiegen?"
-PROPQUEST_INC_150181,"Oh… I see. I guess it can’t be helped. Never mind, then.","Oh… verstehe. Dann lässt es sich wohl nicht ändern. Vergiss es."
+PROPQUEST_INC_150181,"Oh… I see. I guess it can’t be helped. Never mind, then.",Oh… verstehe. Dann lässt es sich wohl nicht ändern. Vergiss es.
 PROPQUEST_INC_150182,The howl came from that direction. I doubt it went far.,"Das Heulen kam aus dieser Richtung. Ich bezweifle, dass er weit gegangen ist."
 PROPQUEST_INC_150183,"Ah, you’re back. So, was there really a new continent?","Ah, du bist zurück. Also, gab es wirklich einen neuen Kontinent?"
 PROPQUEST_INC_150184,Kill 10 Captain Kyouchish,Töte 10 Captain Kyouchish
 PROPQUEST_INC_150185,Report,Meldung erstatten
-PROPQUEST_INC_150186,"There was? Then… did you find any trace of the expedition? My gods… what a disaster. At least there’s one survivor. For now, we must keep this quiet.","Wirklich? Dann… hast du eine Spur der Expedition gefunden? Bei den Göttern… was für eine Katastrophe. Wenigstens gibt es einen Überlebenden. Vorerst müssen wir das geheim halten."
+PROPQUEST_INC_150186,"There was? Then… did you find any trace of the expedition? My gods… what a disaster. At least there’s one survivor. For now, we must keep this quiet.",Wirklich? Dann… hast du eine Spur der Expedition gefunden? Bei den Göttern… was für eine Katastrophe. Wenigstens gibt es einen Überlebenden. Vorerst müssen wir das geheim halten.
 PROPQUEST_INC_150187,"We can’t hide it forever, of course, but if we reveal it now, everything we’re planning will collapse. I’ll make an official announcement when we begin recruiting for the second expedition. Did you meet the Strange Collector?","Natürlich können wir es nicht für immer verbergen, aber wenn wir es jetzt öffentlich machen, bricht alles zusammen, was wir planen. Ich werde eine offizielle Bekanntmachung machen, sobald wir mit der Rekrutierung für die zweite Expedition beginnen. Hast du den Seltsamen Sammler getroffen?"
 PROPQUEST_INC_150188,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?","Bitte sag ihnen, dass ich noch lebe. Wenn die zweite Expedition eintrifft, werde ich mich ihr anschließen und nach Hause zurückkehren. Ich möchte nicht länger in diesem Land bleiben. Ich weiß, das ist viel verlangt, aber… könntest du meine gefallenen Kameraden rächen, bevor du nach Madrigal aufbrichst?"
 PROPQUEST_INC_150189,He’s waiting for you. You should go see him.,Er wartet auf dich. Du solltest ihn aufsuchen.
@@ -2246,7 +2246,7 @@ PROPQUEST_INC_150193,Back to the New World,Zurück in die Neue Welt
 PROPQUEST_INC_150194,"I was certain, but… to think my research really was correct. I’d love to visit that continent myself, but I need to stay here and handle preparations. Can you go ahead and investigate further?","Ich war mir sicher, aber… dass meine Forschungen tatsächlich richtig waren. Ich würde diesen Kontinent gern selbst bereisen, doch ich muss hierbleiben und die Vorbereitungen treffen. Kannst du vorausgehen und weiter ermitteln?"
 PROPQUEST_INC_150195,Thank you. I hope we meet again there soon.,"Danke dir. Ich hoffe, wir sehen uns dort bald wieder."
 PROPQUEST_INC_150196,"You know you’re the only one suited for this. If you change your mind, let me know. I’ll make it worth your while.","Du weißt, dass nur du dafür geeignet bist. Falls du es dir anders überlegst, lass es mich wissen. Ich werde dich angemessen belohnen."
-PROPQUEST_INC_150197,You’re still here… When do you think you’ll leave?,"Du bist noch hier… Wann gedenkst du aufzubrechen?"
+PROPQUEST_INC_150197,You’re still here… When do you think you’ll leave?,Du bist noch hier… Wann gedenkst du aufzubrechen?
 PROPQUEST_INC_150198,Back again? What’s going on this time?,Schon wieder zurück? Was ist diesmal los?
 PROPQUEST_INC_150199,Chapter 3 Prelude,Kapitel 3 – Vorspiel
 PROPQUEST_INC_150200,Meeting with Elders,Treffen mit den Ältesten
@@ -2279,7 +2279,7 @@ PROPQUEST_INC_150226,"You did well. Here, I’ve compiled what you were looking 
 PROPQUEST_INC_150227,Kill [Elder] Traitus,Töte [Ältester] Traitus
 PROPQUEST_INC_150228,About Muran,Über die Muran
 PROPQUEST_INC_150229,"Thinking of all the chaos that traitor caused… honestly. Anyway, it seems your name has spread. A lot of people around the village have been asking to meet you. Once you’re done with your own business, why not visit them?","Wenn ich an all das Chaos denke, das dieser Verräter verursacht hat… ehrlich. Wie dem auch sei, dein Name hat sich offenbar herumgesprochen. Viele Dorfbewohner möchten dich kennenlernen. Sobald du deine eigenen Angelegenheiten erledigt hast, warum besuchst du sie nicht?"
-PROPQUEST_INC_150230,"Of course, take care of your matters first.","Natürlich kümmere dich zuerst um deine eigenen Angelegenheiten."
+PROPQUEST_INC_150230,"Of course, take care of your matters first.",Natürlich kümmere dich zuerst um deine eigenen Angelegenheiten.
 PROPQUEST_INC_150231,Hmm… you have more admirers in the village than you realize.,"Hm… du hast mehr Bewunderer im Dorf, als dir bewusst ist."
 PROPQUEST_INC_150232,I’ve narrowed it down to three or four people for now.,Im Moment habe ich es auf drei oder vier Personen eingegrenzt.
 PROPQUEST_INC_150233,"Oh, so you’ve learned something about the natives? A book written by the village elder himself… May I see it? I see… very nice work. If you learn anything else, be sure to share it.","Oh, du hast also etwas über die Einheimischen herausgefunden? Ein Buch, verfasst vom Dorfältesten persönlich… Darf ich es sehen? Ich verstehe… sehr gute Arbeit. Wenn du noch mehr erfährst, teile es unbedingt mit mir."
@@ -2333,7 +2333,7 @@ PROPQUEST_INC_150280,"Ha, they barely know me better than some stranger, and now
 PROPQUEST_INC_150281,"Ugh, fine, whatever. Yeah, I’ve been hanging out with the wolves. The other kids here don’t get me, and this village is doomed sooner or later. What’s the point? If you want to drag me back, then deal with all my friends first.","Ach, meinetwegen. Ja, ich habe Zeit mit den Wölfen verbracht. Die anderen Kinder hier verstehen mich nicht, und dieses Dorf ist früher oder später ohnehin dem Untergang geweiht. Was bringt das alles? Wenn du mich zurückschleifen willst, dann kümmere dich erst um meine Freunde."
 PROPQUEST_INC_150282,Hah! Chickened out already?,Ha! Schon kalte Füße bekommen?
 PROPQUEST_INC_150283,"If you can’t do it, just pretend you never saw me and walk away.","Wenn du es nicht kannst, dann tu einfach so, als hättest du mich nie gesehen, und geh."
-PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,"I-Ich tut mir leid… Bitte… tu mir nichts…"
+PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,I-Ich tut mir leid… Bitte… tu mir nichts…
 PROPQUEST_INC_150285,Kill 5 Captain Kyouchish and obtain 1 “Lycan Orders”,Töte 5 Captain Kyouchish und erhalte 1 „Lycan Orders“
 PROPQUEST_INC_150286,A Good Friend Is… 3,Ein guter Freund ist… 3
 PROPQUEST_INC_150287,W-What? I said I was wrong already. What now? You want me to read this?,"W-Was? Ich habe doch schon gesagt, dass ich falsch lag. Und jetzt? Soll ich das lesen?"
@@ -2358,7 +2358,7 @@ PROPQUEST_INC_150305,Do you have someone in mind?,Hast du jemanden Bestimmten im
 PROPQUEST_INC_150306,Was something like this among the expedition supplies?,Gab es so etwas unter den Vorräten der Expedition?
 PROPQUEST_INC_150307,New Survivor of the Expedition? 3,Ein neuer Überlebender der Expedition? 3
 PROPQUEST_INC_150308,"No… I’ve never seen anything like this. Everything that was on the ship is listed here, and there’s nothing even close to this strange object.","Nein… so etwas habe ich noch nie gesehen. Alles, was sich auf dem Schiff befand, ist hier aufgelistet, und nichts kommt diesem seltsamen Objekt auch nur nahe."
-PROPQUEST_INC_150309,Hmm… this doesn’t look ordinary. You should ask a historian.,"Hm… das sieht nicht gewöhnlich aus. Du solltest einen Historiker fragen."
+PROPQUEST_INC_150309,Hmm… this doesn’t look ordinary. You should ask a historian.,Hm… das sieht nicht gewöhnlich aus. Du solltest einen Historiker fragen.
 PROPQUEST_INC_150310,Let’s see… Who might know about something like this…,Mal sehen… Wer könnte über so etwas Bescheid wissen…
 PROPQUEST_INC_150311,It looks like the expedition really was wiped out. There’s nothing left of them.,"Es sieht so aus, als wäre die Expedition tatsächlich ausgelöscht worden. Von ihnen ist nichts mehr übrig."
 PROPQUEST_INC_150312,"Where did you find this? The seal is still intact, so that’s good—but this artifact is dangerous. For now, you’re not ready to know more. Get stronger, and I’ll tell you when the time is right.","Wo hast du das gefunden? Das Siegel ist noch intakt, das ist gut.. aber dieses Artefakt ist gefährlich. Im Moment bist du noch nicht bereit, mehr darüber zu erfahren. Werde stärker, und ich werde es dir sagen, wenn der richtige Zeitpunkt gekommen ist."
@@ -2374,7 +2374,7 @@ PROPQUEST_INC_150321,Searching for Parents 2,Auf der Suche nach den Eltern 2
 PROPQUEST_INC_150322,But… was that all? He loved writing things down. There must be something more.,"Aber… war das alles? Er hat es geliebt, Dinge aufzuschreiben. Da muss noch mehr sein."
 PROPQUEST_INC_150323,Thank you so much. Anything you can find—no matter how small—would mean the world to me.,"Vielen Dank. Alles, was du finden kannst, egal wie klein, würde mir die Welt bedeuten."
 PROPQUEST_INC_150324,"It’s alright. You’ve already done a lot. But if you ever change your mind, please come back.","Es ist in Ordnung. Du hast schon viel getan. Aber wenn du deine Meinung änderst, komm bitte zurück."
-PROPQUEST_INC_150325,There’s really nothing else? Ah…,"Gibt es wirklich nichts mehr? Ah…"
+PROPQUEST_INC_150325,There’s really nothing else? Ah…,Gibt es wirklich nichts mehr? Ah…
 PROPQUEST_INC_150326,This handwriting… it’s definitely my father’s. Thank you so much. It looks like he tried to write in code. I need to decode it right away.,"Diese Handschrift… sie gehört definitiv meinem Vater. Vielen Dank. Es sieht so aus, als hätte er versucht, in Code zu schreiben. Ich muss es sofort entschlüsseln."
 PROPQUEST_INC_150327,Obtain “???’s Diary”,Erhalte „???’s Diary“
 PROPQUEST_INC_150328,To the Jarl,Zum Jarl
@@ -2389,27 +2389,27 @@ PROPQUEST_INC_150336,"Thanks to you, we were finally able to breathe. And those 
 PROPQUEST_INC_150337,"Before we start a full-scale battle, I need you to deal with the Kanonicus.","Bevor wir eine Schlacht in vollem Umfang beginnen, musst du dich um die Kanonicus kümmern."
 PROPQUEST_INC_150338,"I have to admit, your strength is impressive. We can’t afford to let you go just yet.","Ich muss zugeben, deine Stärke ist beeindruckend. Wir können dich noch nicht gehen lassen."
 PROPQUEST_INC_150339,The enemy’s gathering point is here.,Der Sammelpunkt des Feindes ist hier.
-PROPQUEST_INC_150340,Hahaha! The war against the Lycans is ours to win now. We owe you a great deal.,"Hahaha! Der Krieg gegen die Lykaner liegt nun in unserer Hand. Wir verdanken dir eine Menge."
+PROPQUEST_INC_150340,Hahaha! The war against the Lycans is ours to win now. We owe you a great deal.,Hahaha! Der Krieg gegen die Lykaner liegt nun in unserer Hand. Wir verdanken dir eine Menge.
 PROPQUEST_INC_150341,Kill 40 Kanonicus,Erledige 40 Kanonicus
 PROPQUEST_INC_150342,Pursuit,Verfolgung
 PROPQUEST_INC_150343,"Thanks to your work, we launched a surprise attack and sent them running. We even found some who couldn’t keep up. Would you finish them off and send them to their gods?","Dank deiner Arbeit haben wir einen Überraschungsangriff gestartet und sie in die Flucht geschlagen. Wir haben sogar einige gefunden, die nicht mithalten konnten. Würdest du sie erledigen und zu ihren Göttern schicken?"
 PROPQUEST_INC_150344,We’re moving to chase down the main force.,"Wir machen uns auf, die Hauptstreitkräfte zu verfolgen."
 PROPQUEST_INC_150345,But we don’t have spare troops to deal with the stragglers.,"Aber wir haben keine Reservetruppen, um uns um die Nachzügler zu kümmern."
-PROPQUEST_INC_150346,Perfect. We’ll leave them to you and continue the pursuit.,"Perfekt. Wir überlassen sie dir und setzen die Verfolgung fort."
+PROPQUEST_INC_150346,Perfect. We’ll leave them to you and continue the pursuit.,Perfekt. Wir überlassen sie dir und setzen die Verfolgung fort.
 PROPQUEST_INC_150347,"Oh, you did it?","Oh, du hast es geschafft?"
 PROPQUEST_INC_150348,Kill 10 Captain Kanonicus,Erledige 10 Captain Kanonicus
 PROPQUEST_INC_150349,Mission Failed,Mission fehlgeschlagen
 PROPQUEST_INC_150350,"It’s embarrassing to admit, but… unlike you, we failed. We tried to trap them in a tight spot and wipe them out, but a mage suddenly appeared. Those beasts shouldn’t be capable of magic.","Es ist peinlich zuzugeben, aber… im Gegensatz zu dir sind wir gescheitert. Wir haben versucht, sie in die Enge zu treiben und auszuschalten, aber plötzlich tauchte ein Magier auf. Diese Bestien sollten keine Magie beherrschen können."
 PROPQUEST_INC_150351,"We need to regroup our forces, so… could you handle them in our place?","Wir müssen unsere Kräfte neu gruppieren, also… könntest du sie an unserer Stelle erledigen?"
 PROPQUEST_INC_150352,"I understand. If you change your mind, please come back.","Ich verstehe. Wenn du deine Meinung änderst, komm bitte zurück."
-PROPQUEST_INC_150353,Thank you. We’ll wait for good news.,"Danke. Wir warten auf gute Nachrichten."
+PROPQUEST_INC_150353,Thank you. We’ll wait for good news.,Danke. Wir warten auf gute Nachrichten.
 PROPQUEST_INC_150354,Excellent work.,Ausgezeichnete Arbeit.
 PROPQUEST_INC_150355,Kill 30 Small Mage Redclouds,Erledige 30 Small Mage Redclouds
 PROPQUEST_INC_150356,Back to Town,Zurück ins Dorf
 PROPQUEST_INC_150357,"The Lycans resisted fiercely, so the jarl has returned to town for now.","Die Lycaner haben heftig Widerstand geleistet, daher ist der Jarl vorerst ins Dorf zurückgekehrt."
 PROPQUEST_INC_150358,Let’s go back as well. I was ordered to wait here and report to you when you returned.,"Lass uns ebenfalls zurückgehen. Ich wurde angewiesen, hier zu warten und dir Bericht zu erstatten, sobald du zurückkehrst."
 PROPQUEST_INC_150359,"If you have other business, feel free to handle it first. Nothing around here is a real threat to you anymore.","Wenn du andere Angelegenheiten hast, kümmere dich gerne zuerst darum. Nichts hier stellt dir jetzt noch eine echte Bedrohung dar."
-PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,"Der Jarl? Er ist wahrscheinlich wieder im Dorfquartier."
+PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,Der Jarl? Er ist wahrscheinlich wieder im Dorfquartier.
 PROPQUEST_INC_150361,I can’t thank you enough for everything.,Ich kann dir für alles nicht genug danken.
 PROPQUEST_INC_150362,Meet with the Jarl,Triff dich mit dem Jarl
 PROPQUEST_INC_150363,Covering Fire,Deckungsfeuer
@@ -2422,30 +2422,30 @@ PROPQUEST_INC_150369,Meet with [Elder] Silar,Triff dich mit [Ältester] Silar
 PROPQUEST_INC_150370,Conflicted Orders,Widersprüchliche Befehle
 PROPQUEST_INC_150371,"Ah, you must be the adventurer. What brings you here? Reinforcements? I never sent such a request. Who told you that?","Ah, du musst der Abenteurer sein. Was führt dich hierher? Verstärkung? Ich habe nie eine solche Anfrage gesendet. Wer hat dir das gesagt?"
 PROPQUEST_INC_150372,(Wolf howls) What was that? Is someone out there?,(Wolf heult) Was war das? Ist da draußen jemand?
-PROPQUEST_INC_150373,What is that man thinking…? He’s always been suspicious.,"Was denkt dieser Mann…? Er war schon immer verdächtig."
+PROPQUEST_INC_150373,What is that man thinking…? He’s always been suspicious.,Was denkt dieser Mann…? Er war schon immer verdächtig.
 PROPQUEST_INC_150374,Why aren’t you checking the situation outside? What’s going on?,Warum überprüfst du nicht die Lage draußen? Was passiert hier?
 PROPQUEST_INC_150375,"No, outside…! A whole group of Lycan mages appeared out of nowhere.","Nein, draußen…! Eine ganze Gruppe Lykan-Magier tauchte aus dem Nichts auf."
 PROPQUEST_INC_150376,Meet with [Eillun Guard] Dreon,Triff dich mit [Eillun-Wache] Dreon
 PROPQUEST_INC_150377,Chaos,Chaos
 PROPQUEST_INC_150378,"We’ve been covering our tracks while retreating. There’s no way the Lycans should’ve found us. We’ll hold as long as we can. Please, report our situation to the elder.","Wir haben unsere Spuren beim Rückzug verwischt. Die Lykaner hätten uns nicht finden dürfen. Wir werden so lange durchhalten, wie wir können. Bitte, berichte dem Ältesten von unserer Lage."
-PROPQUEST_INC_150379,Grr… Huh… Please hurry!"Grr… Huh… Bitte beeil dich!"
-PROPQUEST_INC_150380,Please! We can’t last much longer alone.,"Bitte! Wir können nicht mehr lange alleine durchhalten."
-PROPQUEST_INC_150381,We won’t hold out for long.,"Wir werden nicht mehr lange durchhalten."
-PROPQUEST_INC_150382,The Lycans… are they swarming again?,"Die Lykaner… schwärmen sie wieder aus?"
+PROPQUEST_INC_150379,Grr… Huh… Please hurry!,Grr… Huh… Bitte beeil dich!
+PROPQUEST_INC_150380,Please! We can’t last much longer alone.,Bitte! Wir können nicht mehr lange alleine durchhalten.
+PROPQUEST_INC_150381,We won’t hold out for long.,Wir werden nicht mehr lange durchhalten.
+PROPQUEST_INC_150382,The Lycans… are they swarming again?,Die Lykaner… schwärmen sie wieder aus?
 PROPQUEST_INC_150383,Trap,Falle
 PROPQUEST_INC_150384,"Something has gone terribly wrong. We’ve clearly walked into a trap. The jarl may be shady, but he wouldn’t abandon his own people… or would he? Where did the information leak?","Etwas ist schrecklich schiefgelaufen. Wir sind eindeutig in eine Falle geraten. Der Jarl mag zwielichtig sein, aber er würde sein eigenes Volk nicht im Stich lassen… oder etwa doch? Wo ist die Information durchgesickert?"
-PROPQUEST_INC_150385,"For now, we need to deal with the enemies in front of us. Can I count on you?","Fürs Erste müssen wir uns um die Feinde vor uns kümmern. Kann ich auf dich zählen?"
+PROPQUEST_INC_150385,"For now, we need to deal with the enemies in front of us. Can I count on you?",Fürs Erste müssen wir uns um die Feinde vor uns kümmern. Kann ich auf dich zählen?
 PROPQUEST_INC_150386,Thank you. We’ll talk more after this is over.,"Danke. Wir reden später, wenn das vorbei ist."
-PROPQUEST_INC_150387,Hmph… but we don’t really have another choice.,"Hmph… aber wir haben wirklich keine andere Wahl."
+PROPQUEST_INC_150387,Hmph… but we don’t really have another choice.,Hmph… aber wir haben wirklich keine andere Wahl.
 PROPQUEST_INC_150388,"If you take down a few, the rest will fall apart. Their patterns are predictable.","Wenn du ein paar ausschaltest, bricht der Rest auseinander. Ihre Muster sind vorhersehbar."
 PROPQUEST_INC_150389,Kill 20 Mage Redclouds,Schalte 20 Mage Redclouds aus
-PROPQUEST_INC_150390,"Again, the Town","Wieder die Stadt"
-PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,"Wenn man darüber nachdenkt… diese Lykaner sind Magier. Vielleicht haben sie uns mit irgendeiner Art von Magie verfolgt. Oder… vielleicht hat der Jarl uns wirklich im Stich gelassen."
+PROPQUEST_INC_150390,"Again, the Town",Wieder die Stadt
+PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,Wenn man darüber nachdenkt… diese Lykaner sind Magier. Vielleicht haben sie uns mit irgendeiner Art von Magie verfolgt. Oder… vielleicht hat der Jarl uns wirklich im Stich gelassen.
 PROPQUEST_INC_150392,One of our scouts reported a pack of Lycans heading toward the village. Please go help defend it.,"Einer unserer Späher meldete ein Rudel Lykaner, das auf das Dorf zusteuert. Bitte hilf bei der Verteidigung."
 PROPQUEST_INC_150393,I’m glad you’ve come.,"Ich bin froh, dass du gekommen bist."
 PROPQUEST_INC_150394,We might not have much time left.,Wir haben vielleicht nicht mehr viel Zeit.
 PROPQUEST_INC_150395,I’ll follow as soon as I can.,Ich werde so schnell wie möglich folgen.
-PROPQUEST_INC_150396,"You arrived just in time. Without you, the village would have been in serious danger.","Du bist gerade rechtzeitig angekommen. Ohne dich wäre das Dorf in ernsthafter Gefahr gewesen."
+PROPQUEST_INC_150396,"You arrived just in time. Without you, the village would have been in serious danger.",Du bist gerade rechtzeitig angekommen. Ohne dich wäre das Dorf in ernsthafter Gefahr gewesen.
 PROPQUEST_INC_150397,Kill 20 Captain Mage Redclouds,Schalte 20 Captain Mage Redclouds aus
 PROPQUEST_INC_150398,Reunion 1,Wiedersehen 1
 PROPQUEST_INC_150399,"If we’d tried to hold them off from inside, they probably would’ve broken through. With their forces this weakened, they shouldn’t have many left.","Wenn wir versucht hätten, sie von innen aufzuhalten, hätten sie wahrscheinlich durchgebrochen. Mit so geschwächten Kräften sollten sie nicht mehr viele haben."
@@ -2458,7 +2458,7 @@ PROPQUEST_INC_150405,Meet with [Eillun Guard] Gard,Triff dich mit [Eillun-Wache]
 PROPQUEST_INC_150406,Reunion 2,Wiedersehen 2
 PROPQUEST_INC_150407,Did you enjoy meeting [Eillun Guard] Gard? I wonder who’s waiting for you next.,"Hat dir das Treffen mit [Eillun-Wache] Gard gefallen? Ich frage mich, wer als Nächstes auf dich wartet."
 PROPQUEST_INC_150408,"This time it’s Kaela. I don’t know exactly what she’s planning, but I’d say you’re in for something interesting.","Dieses Mal ist Kaela an der Reihe. Ich weiß nicht genau, was sie plant, aber ich würde sagen, dich erwartet etwas Interessantes."
-PROPQUEST_INC_150409,No need to rush—take your time.,"Keine Eile – lass dir Zeit."
+PROPQUEST_INC_150409,No need to rush—take your time.,Keine Eile – lass dir Zeit.
 PROPQUEST_INC_150410,"Have you met her yet? Honestly, I have no idea what she’s up to.","Hast du sie schon getroffen? Ehrlich gesagt habe ich keine Ahnung, was sie vorhat."
 PROPQUEST_INC_150411,"Ugh, I’ve stopped causing trouble for Mom and Dad, so stop looking at me like that.","Ugh, ich mache Mama und Papa keinen Ärger mehr, also hör auf, mich so anzusehen."
 PROPQUEST_INC_150412,Reunion 3,Wiedersehen 3
@@ -2471,7 +2471,7 @@ PROPQUEST_INC_150418,Meet with Livia,Triff dich mit Livia
 PROPQUEST_INC_150419,Reunion 4,Wiedersehen 4
 PROPQUEST_INC_150420,"Well, I think this will be your final visitor. Any guesses who?","Nun, ich denke, das wird dein letzter Besucher sein. Hast du eine Ahnung, wer es ist?"
 PROPQUEST_INC_150421,"Taila is next. Whatever happens, I have a feeling it will be something meaningful.","Als Nächstes ist Taila dran. Was auch immer passiert, ich habe das Gefühl, es wird etwas Bedeutungsvolles sein."
-PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,"Fühl dich nicht unter Druck gesetzt. Geh in deinem eigenen Tempo."
+PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,Fühl dich nicht unter Druck gesetzt. Geh in deinem eigenen Tempo.
 PROPQUEST_INC_150423,Did you meet her? I still don’t know what she’s planning.,"Hast du sie getroffen? Ich weiß immer noch nicht, was sie plant."
 PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.","Dank dir, Abenteurer, habe ich das versteckte Testament meiner Eltern gefunden. Mein Vater deckte die Verbrechen des Jarls auf, und mein Großvater ließ ihn töten. Als Verräter gebrandmarkt, wurde er beinahe ermordet. Bitte rächt sie. Nimm das und lass es deine Rache nähren."
 PROPQUEST_INC_150425,Meet with Taila,Triff dich mit Taila
@@ -2479,7 +2479,7 @@ PROPQUEST_INC_150426,Chapter 5 The Final Chapter,Kapitel 5 Das letzte Kapitel
 PROPQUEST_INC_150427,This Is Nothing,Das ist nichts
 PROPQUEST_INC_150428,"So, you’ve met everyone now? The Lycans are moving faster than we expected. I thought they’d need more time to regroup, but they’re already organizing their forces.","Also, du hast jetzt alle getroffen? Die Lykaner bewegen sich schneller als erwartet. Ich dachte, sie würden mehr Zeit brauchen, um sich neu zu formieren, aber sie organisieren bereits ihre Streitkräfte."
 PROPQUEST_INC_150429,"If we let them gather any more, things will become much harder. Could you go ahead and disrupt their plans?","Wenn wir sie sich weiter sammeln lassen, wird alles viel schwieriger. Könntest du vorausgehen und ihre Pläne durchkreuzen?"
-PROPQUEST_INC_150430,Thank you. I couldn’t ask for a more reliable ally.,"Danke. Ich könnte mir keinen verlässlicheren Verbündeten wünschen."
+PROPQUEST_INC_150430,Thank you. I couldn’t ask for a more reliable ally.,Danke. Ich könnte mir keinen verlässlicheren Verbündeten wünschen.
 PROPQUEST_INC_150431,"If we hesitate, everything we’ve built could collapse. I’m counting on you.","Wenn wir zögern, könnte alles, was wir aufgebaut haben, zusammenbrechen. Ich zähle auf dich."
 PROPQUEST_INC_150432,Here’s where we expect them to be.,Hier vermuten wir sie.
 PROPQUEST_INC_150433,You’ve done wonderfully.,Du hast das hervorragend gemacht.
@@ -2498,16 +2498,12 @@ PROPQUEST_INC_150445,Hmm. Do you have a different suggestion?,Hm. Hast du einen 
 PROPQUEST_INC_150446,Good. I’ll be waiting for more good news.,Gut. Ich warte auf weitere gute Nachrichten.
 PROPQUEST_INC_150447,Excellent work.,Ausgezeichnete Arbeit.
 PROPQUEST_INC_150448,Kill 30 Taiahas,Töte 30 Taiahas
-
-
-
-
 PROPQUEST_INC_150449,Traitor,Verräter
 PROPQUEST_INC_150450,"Our operation was a success as well, but… some soldiers say they saw the jarl in the enemy’s camp, retreating with them. Now their morale is shaken.","Unsere Operation war ebenfalls ein Erfolg, aber… einige Soldaten sagen, sie hätten den Jarl im Lager des Feindes gesehen, wie er sich mit ihnen zurückzog. Nun ist ihre Moral erschüttert."
 PROPQUEST_INC_150451,"I knew he was scheming, but to see him betray his own people… This will be our next move.","Ich wusste, dass er etwas im Schilde führt, aber zu sehen, wie er sein eigenes Volk verrät… Das wird unser nächster Schritt sein."
 PROPQUEST_INC_150452,"The soldiers will never fight at full strength while that traitor is free. You must track him down. There will be Lycans along his escape route, including Captain Taiaha, but I doubt they’ll be a problem for you.","Die Soldaten werden niemals mit voller Kraft kämpfen, solange dieser Verräter frei ist. Du musst ihn aufspüren. Entlang seiner Fluchtroute werden Lykaner sein, darunter Captain Taiaha, aber ich bezweifle, dass sie ein Problem für dich darstellen."
 PROPQUEST_INC_150453,"Hmm… I may have to send the soldiers instead. If you change your mind, come back.","Hm… Vielleicht muss ich stattdessen die Soldaten schicken. Wenn du es dir anders überlegst, komm zurück."
-PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,"Ich zähle auf dich. Ich vertraue dir diese Mission an."
+PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,Ich zähle auf dich. Ich vertraue dir diese Mission an.
 PROPQUEST_INC_150455,"Thank you for your efforts, sir. I’m Merk, a scout ordered to track the traitor by the Elder.","Danke für Eure Bemühungen, Herr. Ich bin Merk, ein Späher, der vom Ältesten beauftragt wurde, den Verräter zu verfolgen."
 PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,Triff dich mit [Eillun-Späher] Merk
 PROPQUEST_INC_150457,Bad News,Schlechte Nachrichten
@@ -2519,28 +2515,28 @@ PROPQUEST_INC_150462,I’ll be waiting.,Ich werde warten.
 PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.","Abgesehen vom Jarl ist dieser Krieg endlich vorbei. Mit der Niederlage dieses stinkenden Riesen sind die Kämpfe wirklich beendet. Es hat viel zu lange gedauert. Danke, dass du diesem Krieg ein Ende bereitet hast."
 PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,Töte Häuptling Keokuk und erhalte „Chief Keokuk’s Notebook“
 PROPQUEST_INC_150465,The Ever-Turning Vicious Cycle of Blood,Der sich ewig drehende Teufelskreis aus Blut
-PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,"Häuptling Keokuk hatte das? Welch ein Wahnsinn. Also war dieser Krieg nur ein Spiel zwischen ihm und dem Verräter…"
+PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,Häuptling Keokuk hatte das? Welch ein Wahnsinn. Also war dieser Krieg nur ein Spiel zwischen ihm und dem Verräter…
 PROPQUEST_INC_150467,"The Lycans worship the demon Ankou as their god. The traitor must have made a deal, selling us out to fuel this war. To fully summon a demon, a great amount of blood is required.","Die Lykaner verehren den Dämon Ankou als ihren Gott. Der Verräter muss einen Pakt geschlossen und uns verkauft haben, um diesen Krieg zu nähren. Um einen Dämon vollständig zu beschwören, wird eine große Menge Blut benötigt."
 PROPQUEST_INC_150468,"According to the note you brought, they’ve already attempted the summoning, but it’s incomplete. Their final goal must be to complete that abomination.","Laut der Notiz, die du gebracht hast, haben sie die Beschwörung bereits versucht, aber sie ist unvollständig. Ihr endgültiges Ziel muss es sein, dieses Gräuel zu vollenden."
 PROPQUEST_INC_150469,"At the edge of the continent lies Ankou’s sealed asylum. If the traitor is there, it’s up to you whether to kill him or bring him back. Please, put an end to this insanity.","Am Rand des Kontinents liegt Ankou’s versiegelte Zuflucht. Falls der Verräter dort ist, liegt es an dir, ob du ihn tötest oder zurückbringst. Bitte beende diesen Wahnsinn."
 PROPQUEST_INC_150470,"You are a hero of Muran. You must finish this. If this continues, the whole continent will be soaked in blood.","Du bist ein Held von Muran. Du musst es beenden. Wenn das so weitergeht, wird der ganze Kontinent im Blut versinken."
 PROPQUEST_INC_150471,"You’ve already done so much, but if I may, I’d like to ask you once more.","Du hast bereits so viel getan, aber wenn ich darf, möchte ich dich noch einmal bitten."
 PROPQUEST_INC_150472,I pray this ends without more tragedy.,"Ich bete, dass dies ohne weitere Tragödie endet."
-PROPQUEST_INC_150473,So… you’ve come all the way here.,"Also… du bist bis hierher gekommen."
+PROPQUEST_INC_150473,So… you’ve come all the way here.,Also… du bist bis hierher gekommen.
 PROPQUEST_INC_150474,Go to Ankou’s Asylum,Gehe zu der Zuflucht von Ankou
 PROPQUEST_INC_150475,Climax,Höhepunkt
 PROPQUEST_INC_150476,"Do I look pathetic to you? A traitor, betrayed and left to die… What would an outsider like you understand? Do you have any idea how much torment I’ve endured to get this far? No, explaining is pointless. In the end, we all meet the same fate.","Sehe ich für dich erbärmlich aus? Ein Verräter, selbst verraten und zum Sterben zurückgelassen … Was würde ein Außenstehender wie du schon verstehen? Hast du eine Ahnung, wie viel Qual ich ertragen habe, um so weit zu kommen? Nein, Erklärungen sind sinnlos. Am Ende erwartet uns alle dasselbe Schicksal."
-PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted revenge? Ha. I lost my wife long ago and never had a child—how could I have a granddaughter? Kuhuhu… so even you… (dies),"Nur zu. Ankou wird dir Frieden schenken. Meine Enkelin wollte Rache? Ha. Ich habe meine Frau vor langer Zeit verloren und nie ein Kind gehabt, wie sollte ich da eine Enkelin haben? Kuhuhu… also selbst du… (stirbt)
+PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted revenge? Ha. I lost my wife long ago and never had a child—how could I have a granddaughter? Kuhuhu… so even you… (dies),"Nur zu. Ankou wird dir Frieden schenken. Meine Enkelin wollte Rache? Ha. Ich habe meine Frau vor langer Zeit verloren und nie ein Kind gehabt, wie sollte ich da eine Enkelin haben? Kuhuhu… also selbst du… (stirbt)"
 PROPQUEST_INC_150478,What’s wrong? Are you afraid now that you have to face a demon? It’s too late for that.,"Was ist los? Hast du Angst, jetzt da du einem Dämon gegenüberstehst? Dafür ist es zu spät."
 PROPQUEST_INC_150479,(He’s dead.),(Er ist tot.)
-PROPQUEST_INC_150480,What happened? Is Ankou defeated? The handwriting on this page… so the traitor is gone as well.,"Was ist geschehen? Ist Ankou besiegt? Die Handschrift auf dieser Seite… also ist auch der Verräter fort."
+PROPQUEST_INC_150480,What happened? Is Ankou defeated? The handwriting on this page… so the traitor is gone as well.,Was ist geschehen? Ist Ankou besiegt? Die Handschrift auf dieser Seite… also ist auch der Verräter fort.
 PROPQUEST_INC_150481,Defeat Ankou and obtain “Jarl’s Diary”,Besiege Ankou und erhalte „Jarl’s Diary“
 PROPQUEST_INC_150482,Peace at Last?,Endlich Frieden?
 PROPQUEST_INC_150483,"Incredible. It may not have been a fully summoned demon, but you still defeated it. The jarl had a family? He lost his wife ages ago and never had any children.","Unglaublich. Vielleicht war es kein vollständig beschworener Dämon, aber du hast ihn dennoch besiegt. Der Jarl hatte eine Familie? Er verlor vor langer Zeit seine Frau und hatte nie Kinder."
 PROPQUEST_INC_150484,"Whatever the truth, you’ve saved this land from the demon and those filthy beasts. You have my deepest thanks. Trade with your continent? Of course. I fully support it. I’ll guarantee free passage for anyone coming to our village. Take this approval token.","Wie auch immer die Wahrheit aussieht, du hast dieses Land vor dem Dämon und diesen abscheulichen Bestien gerettet. Du hast meinen tiefsten Dank. Handel mit eurem Kontinent? Natürlich. Ich unterstütze das voll und ganz. Ich garantiere freies Geleit für jeden, der in unser Dorf kommt. Nimm dieses Genehmigungssiegel."
 PROPQUEST_INC_150485,I’m looking forward to it. I wonder what kind of heroes will come next.,"Ich freue mich darauf. Ich frage mich, welche Art von Helden als Nächstes kommen wird."
 PROPQUEST_INC_150486,"Still, some formalities must be followed, don’t you think?","Dennoch sollten einige Formalitäten eingehalten werden, findest du nicht?"
-PROPQUEST_INC_150487,Haha. You’re free to use the village facilities whenever you like.,"Haha. Du kannst die Einrichtungen des Dorfes jederzeit frei nutzen."
+PROPQUEST_INC_150487,Haha. You’re free to use the village facilities whenever you like.,Haha. Du kannst die Einrichtungen des Dorfes jederzeit frei nutzen.
 PROPQUEST_INC_150488,It’s been a while. How goes your exploration of the New Continent? You’ve really been through a lot. You didn’t just chart new lands—you saved an entire town and secured official permission for trade. I’ll see that you’re properly rewarded. Well done.,"Es ist eine Weile her. Wie verläuft deine Erkundung des Neuen Kontinents? Du hast wirklich viel durchgemacht. Du hast nicht nur neue Länder kartiert, du hast eine ganze Stadt gerettet und eine offizielle Handelserlaubnis gesichert. Ich werde dafür sorgen, dass du angemessen belohnt wirst. Gut gemacht."
 PROPQUEST_INC_150489,New Beginning,Neuanfang
 PROPQUEST_INC_150490,"So, how was the New Continent? And this… what is it? Hmm… a document I’ve never seen before. This alone isn’t enough to understand it. Could you find more of these?","Also, wie war der Neue Kontinent? Und das hier… was ist das? Hm… ein Dokument, das ich noch nie zuvor gesehen habe. Das allein reicht nicht aus, um es zu verstehen. Könntest du mehr davon finden?"
@@ -2551,8 +2547,8 @@ PROPQUEST_INC_150494,Hmm…,Hmm…
 PROPQUEST_INC_150495,Obtain 4 different “Torn Scrolls”,Erhalte 4 verschiedene „Torn Scrolls“
 PROPQUEST_INC_150496,Lost in the Fog,Im Nebel verloren
 PROPQUEST_INC_150497,"I thought I could decipher it, but there are unknown characters mixed in. I’ve heard rumors of someone who might understand this sort of thing. Would you be willing to find him?","Ich dachte, ich könnte es entziffern, aber es sind unbekannte Zeichen darunter. Ich habe Gerüchte über jemanden gehört, der so etwas verstehen könnte. Wärst du bereit, ihn zu finden?"
-PROPQUEST_INC_150498,There’s a large island near Flarine. He should be somewhere around there.,"Es gibt eine große Insel nahe Flaris. Er sollte sich irgendwo dort aufhalten."
-PROPQUEST_INC_150499,"Unfortunately, I can’t think of any better option.","Leider fällt mir keine bessere Möglichkeit ein."
+PROPQUEST_INC_150498,There’s a large island near Flarine. He should be somewhere around there.,Es gibt eine große Insel nahe Flaris. Er sollte sich irgendwo dort aufhalten.
+PROPQUEST_INC_150499,"Unfortunately, I can’t think of any better option.",Leider fällt mir keine bessere Möglichkeit ein.
 PROPQUEST_INC_150500,I don’t know the exact location myself—just what I’ve heard.,"Ich kenne den genauen Ort selbst nicht, nur das, was ich gehört habe."
 PROPQUEST_INC_150501,"It’s been a while. What brings you here? You found this in Kaillun? I’m Muran as well, though I left my tribe long ago. I can’t say much, but will you hand that over? It’s about summoning a god and speeding up the tower’s completion. Take this as thanks.","Es ist eine Weile her. Was führt dich hierher? Du hast das in Kaillun gefunden? Ich stamme ebenfalls aus Muran, auch wenn ich meinen Stamm vor langer Zeit verlassen habe. Ich kann nicht viel sagen, aber würdest du mir das überlassen? Es geht um die Beschwörung eines Gottes und darum, die Vollendung des Turms zu beschleunigen. Nimm dies als Dank."
 PROPQUEST_INC_150502,Meet with “[Mysterious] ???”,Triff dich mit „[Geheimnisvoll] ???“
@@ -2573,7 +2569,7 @@ PROPQUEST_INC_150516,Now I can finally rest easy until the next ship arrives. Th
 PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,Töte 30 Captain Kyouchish
 PROPQUEST_INC_150518,Honor of a Warrior 1,Ehre eines Kriegers 1
 PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?","Wenn du dich Krieger von Kaillun nennst, sind Hundur Sharpfoots nur zum Aufwärmen. Willst du dich beweisen?"
-PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.","Gut. Kümmere dich um diese Bestien und komm zurück."
+PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.",Gut. Kümmere dich um diese Bestien und komm zurück.
 PROPQUEST_INC_150521,"If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth.","Wenn es zu viel ist, übertreib es nicht. Tollkühne Narren aufzuräumen ist mehr Arbeit, als es wert ist."
 PROPQUEST_INC_150522,Good. This shouldn’t take you long.,Gut. Das sollte nicht lange dauern.
 PROPQUEST_INC_150523,Great job. Now I can truly call you a warrior.,Großartige Arbeit. Jetzt kann ich dich wirklich einen Krieger nennen.
@@ -2589,14 +2585,11 @@ PROPQUEST_INC_150532,Guard’s Request 1,Bitte eines Wächters 1
 PROPQUEST_INC_150533,Small Samosets are pests that constantly bother our guards. Can you handle them and lighten our workload?,"Kleine Samosets sind Schädlinge, die unsere Wachen ständig belästigen. Kannst du dich um sie kümmern und unsere Arbeit erleichtern?"
 PROPQUEST_INC_150534,"Thank you. You know where they are, right?","Danke. Du weißt, wo sie sind, oder?"
 PROPQUEST_INC_150535,"If you’re busy, we’ll figure something out on our own.","Wenn du beschäftigt bist, finden wir selbst eine Lösung."
-PROPQUEST_INC_150536,"For someone like you, this should be nothing.","Für jemanden wie dich sollte das kein Problem sein."
+PROPQUEST_INC_150536,"For someone like you, this should be nothing.",Für jemanden wie dich sollte das kein Problem sein.
 PROPQUEST_INC_150537,I knew you were the right one to ask. Our work just got much easier thanks to you. I really appreciate it.,"Ich wusste, dass du der Richtige dafür bist. Dank dir ist unsere Arbeit nun viel leichter. Das weiß ich wirklich zu schätzen."
 PROPQUEST_INC_150538,Kill 50 Small Samosets,Töte 50 Small Samosets
-
-
-
 PROPQUEST_INC_150539,Guard’s Request 2,Bitte eines Wächters 2
-PROPQUEST_INC_150540,"Samosets have been swarming the grasslands lately, making patrols difficult. Could you thin them out a bit?","In letzter Zeit schwärmen Samosets über die Grasländer und erschweren unsere Patrouillen. Könntest du ihre Zahl etwas verringern?"
+PROPQUEST_INC_150540,"Samosets have been swarming the grasslands lately, making patrols difficult. Could you thin them out a bit?",In letzter Zeit schwärmen Samosets über die Grasländer und erschweren unsere Patrouillen. Könntest du ihre Zahl etwas verringern?
 PROPQUEST_INC_150541,"Thank you. You know where to find them, don’t you?","Danke. Du weißt, wo du sie finden kannst, oder?"
 PROPQUEST_INC_150542,"If you’ve got other priorities, we understand. We’ll manage.","Wenn du andere Prioritäten hast, verstehen wir das. Wir kommen zurecht."
 PROPQUEST_INC_150543,This should be an easy job for you.,Das sollte eine leichte Aufgabe für dich sein.
@@ -2606,7 +2599,7 @@ PROPQUEST_INC_150546,Guard’s Request 3,Bitte eines Wächters 3
 PROPQUEST_INC_150547,Those Captain Samosets keep slipping into the forest. Could you clear some of them out?,Diese Captain Samosets schleichen sich immer wieder in den Wald. Könntest du einige von ihnen beseitigen?
 PROPQUEST_INC_150548,"We’re grateful for your help. You know the area well enough to track them, right?","Wir sind dir für deine Hilfe dankbar. Du kennst das Gebiet gut genug, um sie aufzuspüren, oder?"
 PROPQUEST_INC_150549,"If you don’t have time, we’ll deal with it somehow.","Wenn du keine Zeit hast, werden wir uns irgendwie darum kümmern."
-PROPQUEST_INC_150550,This should be a simple task for you.,"Das sollte eine einfache Aufgabe für dich sein."
+PROPQUEST_INC_150550,This should be a simple task for you.,Das sollte eine einfache Aufgabe für dich sein.
 PROPQUEST_INC_150551,I knew I could count on you. You’ve helped us a lot. Thanks.,"Ich wusste, dass ich auf dich zählen kann. Du hast uns sehr geholfen. Danke."
 PROPQUEST_INC_150552,Kill 30 Captain Samosets,Töte 30 Captain Samosets
 PROPQUEST_INC_150553,Guard’s Request 4,Bitte eines Wächters 4

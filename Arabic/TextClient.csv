@@ -47,7 +47,7 @@ TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,تسجيل الدخو
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Authentication failed. Please try again.
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position: x = %f, y = %f, z = %f, angle = %f"
 TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,لا يمكنك إرسال رسالة خاصة إلى نفسك.
-TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s غير موجود أو غير متصل.
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s غير موجود أو غير متصل.
 TEXTCLIENT_APP_NOTICE,Notice,إشعار
 TEXTCLIENT_APP_STATUS,Status,الحالة
 TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - المستوى: %d
@@ -170,7 +170,7 @@ TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Your
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Cannot use skill. Insufficient party experience.
 TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,You are still using the %s party skill. Try again later.
 TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,The party skill %s has been used.
-TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,The effect of %s is about to end.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s has ended.,The effect of %s has ended.
 TEXTCLIENT_ACR_FAME01,Rogue,Rogue
 TEXTCLIENT_ACR_FAME02,Outlaw,Outlaw
 TEXTCLIENT_ACR_FAME03,Vigilante,Vigilante
@@ -219,7 +219,7 @@ TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Invitation has been refuse
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s is in the 'Refuse Messenger' setting.
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,The maximum number of players that can be registered into the messenger is 200.
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s has added you to their Messenger.
-TEXTCLIENT_NOTLOGIN,That player is not connected.,That player is not connected.
+TEXTCLIENT_NOTLOGIN,That player is offline.,That player is offline.
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Failure to send message, %s is blocked."
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,You have %d new message(s).
 TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Your message cannot be sent. The receiving inbox may be full.
@@ -239,7 +239,7 @@ TEXTCLIENT_CONNREFUSE,Do not post connection status.,Do not post connection stat
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.
 TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,You shouldn't ignore yourself. You might have something important to say!
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,That character is already on your Ignore List.
-TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s is now unignored.
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,That character is not on your Ignore List.
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Please unequip the item first.
@@ -259,7 +259,7 @@ TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Quests in Progress
 TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,You've received the quest: %s. Open your Quest Window for details.
 TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,%s quest has been cancelled.
 TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,Quest cancelled.
-TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,This channel is not available. Please enter another.
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please select another.,This channel is not available. Please select another.
 TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,Flying is forbidden inside.
 TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,You need %s item to open it.
 TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.","Wrong level, unable to open itembox."
@@ -559,9 +559,9 @@ TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same ti
 TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,You used the same item earlier. Try again after its effects have worn off.
 TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,You have engraved the name '%s' on this ring. Give it to your sweetheart!
 TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,An engraving reads '%s'. Give it to your sweetheart!
-TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,The player with the name engraved on this ring is not online.
-TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,You can not go to %s from here.
-TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,You can not go to who is flying.
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is offline.,The player with the name engraved on this ring is offline.
+TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.,You can not teleport to %s from here.
+TEXTCLIENT_COUPLERING_ERR03,You can not teleport to a player who is flying.,You can not teleport to a player who is flying.
 TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,This item can only be used on applicable weapons and armor.
 TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Do you want to apply a random stat upgrade to the following item?\n%s
 TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?
@@ -582,7 +582,7 @@ TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,Because the person is in 
 TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,In event area
 TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,In Kebaras
 TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,You can not use item to yourself.
-TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s is not online.
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is offline.,%s is offline.
 TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,This player is not your friend or is blocked.
 TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,You cannot summon %s
 TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,You cannot accept %s
@@ -942,7 +942,7 @@ TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,The guild %s was not found
 TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,You must provide a reason.
 TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,You have received a warning from %s: %s
 TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s has been warned.
-TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s is not online, but the warning was logged anyway."
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is offline, but the warning was logged anyway.","%s is offline, but the warning was logged anyway."
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,%d minute(s) remaining to kill %s
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,%d minute(s) remaining to kill %dx %s
 TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Your ticket has expired! You were teleported back to Madrigal!
@@ -1108,7 +1108,7 @@ TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture
 TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,You need to be in your house or guild house to place that furniture.
 TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,You have neither a house nor a guild house.
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,You successfully added %s as a visitor!
-TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,The player you selected is not online.
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,The player you selected is offline.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,You successfully removed that player from your visitor list.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,That player is not in your visitor list.
 TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,You do not currently own a house.
@@ -1271,7 +1271,7 @@ TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
 TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
 TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
-TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Account %d does not exist or is offline.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
 TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.

@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,Prisión Meteonyker
 PROPCTRL_TXT_000014,Pink Roach Egg,Huevo de Roach Rosa
 PROPCTRL_TXT_000016,Blue Roach Egg,Huevo de Roach Azul
 PROPCTRL_TXT_000028,Warp Machine,Maquina de Teletransporte
-PROPCTRL_TXT_000030,Warp Board1,Tabla de Teletransporte 1
-PROPCTRL_TXT_000032,Warp Board2,Tabla de Teletransporte 2
-PROPCTRL_TXT_000034,Warp Board3,Tabla de Teletransporte 3
+PROPCTRL_TXT_000030,Warp Board 1,Tabla de Teletransporte 1
+PROPCTRL_TXT_000032,Warp Board 2,Tabla de Teletransporte 2
+PROPCTRL_TXT_000034,Warp Board 3,Tabla de Teletransporte 3
 PROPCTRL_TXT_000036,Exp Box,Caja de Exp
 PROPCTRL_TXT_000037,Harvest Plant 01,Planta de Cosecha 01
 PROPCTRL_TXT_000038,Harvest Plant 02,Planta de Cosecha 02
@@ -77,7 +77,7 @@ PROPCTRL_TXT_000097,Metaverse Sofa,Sofá Metaverso
 PROPCTRL_TXT_000098,Metaverse Round Table,Mesa Redonda Metaverso
 PROPCTRL_TXT_000099,Metaverse Storage Table,Mesa Depósito Metaverso
 PROPCTRL_TXT_000100,Metaverse Decorative Table,Mesa Decorativa Metaverso
-PROPCTRL_TXT_000101,Metaverse Violon,Violón Metaverso
+PROPCTRL_TXT_000101,Metaverse Violin,Violón Metaverso
 PROPCTRL_TXT_000102,Wooden Yellow Chair,Silla de madera Amarilla
 PROPCTRL_TXT_000103,Wooden Yellow Table,Mesa de madera Amarilla
 PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,Tocador de madera Amarillo
@@ -154,7 +154,7 @@ PROPCTRL_TXT_000174,Wooden Sofa,Sofá de madera
 PROPCTRL_TXT_000175,Flaris Ground Field,Campo de Tierra Flaris
 PROPCTRL_TXT_000176,Flaris Anvil,Yunque Flaris
 PROPCTRL_TXT_000177,Flaris Bench,Banco Flaris
-PROPCTRL_TXT_000178,Flaris Charrette,Flaris Charrette
+PROPCTRL_TXT_000178,Flaris Chariot,Flaris Chariot
 PROPCTRL_TXT_000179,Flaris Fence 1,Flaris Fence 1
 PROPCTRL_TXT_000180,Flaris Floor Lamp,Lámpara de pie Flaris
 PROPCTRL_TXT_000181,Flaris Wall Lamp,Lámpara de pared Flaris
@@ -177,7 +177,7 @@ PROPCTRL_TXT_000197,Common Autumn Tree,Árbol de Otoño Común
 PROPCTRL_TXT_000198,Common Sakura Tree 1,Common Sakura Tree 1
 PROPCTRL_TXT_000199,Common Burned Tree,Árbol Quemado Común
 PROPCTRL_TXT_000200,St Morning Bench,Banco de Mañana Santa
-PROPCTRL_TXT_000201,St Morning Charrette,Charrette de Mañana Santa
+PROPCTRL_TXT_000201,St Morning Chariot,Charrette de Mañana Santa
 PROPCTRL_TXT_000202,St Morning Rock Arch 1,St Morning Rock Arch 1
 PROPCTRL_TXT_000203,St Morning Flag 1,St Morning Flag 1
 PROPCTRL_TXT_000204,St Morning Flower Bed,Cama Flor de Mañana Santa
@@ -199,7 +199,7 @@ PROPCTRL_TXT_000219,Azria Tree 1,Azria Tree 1
 PROPCTRL_TXT_000220,Azria Light 1,Azria Light 1
 PROPCTRL_TXT_000221,Azria Rock 1,Azria Rock 1
 PROPCTRL_TXT_000222,Azria Mushroom 1,Azria Mushroom 1
-PROPCTRL_TXT_000223,Azria Charrette,Charrette Azria
+PROPCTRL_TXT_000223,Azria Chariot,Charrette Azria
 PROPCTRL_TXT_000224,Azria Crystal,Cristal Azria
 PROPCTRL_TXT_000225,Azria Grass 1,Azria Grass 1
 PROPCTRL_TXT_000226,Azria Sign 1,Azria Sign 1
@@ -240,7 +240,7 @@ PROPCTRL_TXT_000260,Crate Floor,Piso de Caja
 PROPCTRL_TXT_000261,Platform Floor,Piso de Plataforma
 PROPCTRL_TXT_000262,Light Plank Floor,Piso de Tablones Claros
 PROPCTRL_TXT_000263,Light Brick Floor,Piso de Ladrillo Claro
-PROPCTRL_TXT_000264,Scrapwood Floor,Piso de Madera de desecho
+PROPCTRL_TXT_000264,Scrap Wood Floor,Piso de Madera de desecho
 PROPCTRL_TXT_000265,Pale Wood Floor,Piso de Madera pálida
 PROPCTRL_TXT_000266,Mossy Brick Floor,Piso de Ladrillo con musgo
 PROPCTRL_TXT_000267,Shipwreck Floor,Piso del Naufragio
@@ -295,7 +295,7 @@ PROPCTRL_TXT_000315,Crate Ceiling,Techo de Caja
 PROPCTRL_TXT_000316,Platform Ceiling,Techo de Plataforma
 PROPCTRL_TXT_000317,Light Plank Ceiling,Techo de Tablones ligeros
 PROPCTRL_TXT_000318,Light Brick Ceiling,Techo de Ladrillo claro
-PROPCTRL_TXT_000319,Scrapwood Ceiling,Techo de Madera de desecho
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,Techo de Madera de desecho
 PROPCTRL_TXT_000320,Pale Wood Ceiling,Techo de Madera pálida
 PROPCTRL_TXT_000321,Mossy Brick Ceiling,Techo de Ladrillo con musgo
 PROPCTRL_TXT_000322,Shipwreck Ceiling,Techo de Naufragio
@@ -676,7 +676,7 @@ PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
 PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
 PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
 PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Plateform,Coral Island Coral Plateform
+PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
 PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
 PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
 PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15

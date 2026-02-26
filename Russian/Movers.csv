@@ -1,6 +1,6 @@
-﻿Key,English,Russian
-PROPMOVER_TXT_000002,Male,Муж
-PROPMOVER_TXT_000004,Female,Жен
+Key,English,Russian
+PROPMOVER_TXT_000002,Male,Мужик
+PROPMOVER_TXT_000004,Female,Женщина
 PROPMOVER_TXT_000006,Small Aibatt,Слабый сглаз
 PROPMOVER_TXT_000008,Aibatt,Сглаз
 PROPMOVER_TXT_000010,Captain Aibatt,Сильный сглаз
@@ -439,31 +439,31 @@ PROPMOVER_TXT_000932,Queen Popcrank,Клоунесса
 PROPMOVER_TXT_000934,Baby Polar Bear,Белый мишка
 PROPMOVER_TXT_000936,Polar Bear,Белый медведь
 PROPMOVER_TXT_000946,Post Box,Почтовый ящик
-PROPMOVER_TXT_000950,Blue Meteonyker,Blue Meteonyker
+PROPMOVER_TXT_000950,Blue Meteonyker,Голубой Метеоникер
 PROPMOVER_TXT_000954,Baby Penguin,Пингвиненок
 PROPMOVER_TXT_000956,Baby Iguana,Крошка-игуана
 PROPMOVER_TXT_000958,Baby Cobra,Крошка-кобра
 PROPMOVER_TXT_000960,Egg,Яйцо
 PROPMOVER_TXT_000962,White Tiger,Белый тигр
-PROPMOVER_TXT_000966,Babari Lion,Babari Lion
+PROPMOVER_TXT_000966,Babari Lion,Варвар лев
 PROPMOVER_TXT_000970,Rabbit,Кролик
 PROPMOVER_TXT_000974,Dragon,Дракон
 PROPMOVER_TXT_000978,Unicorn,Единорог
-PROPMOVER_TXT_000982,Old Fox,Old Fox
+PROPMOVER_TXT_000982,Old Fox,Старый лис
 PROPMOVER_TXT_000986,Griffin,Грифон
-PROPMOVER_TXT_000987,Angel,Angel
-PROPMOVER_TXT_000988,King Crab,King Crab
+PROPMOVER_TXT_000987,Angel,Ангел
+PROPMOVER_TXT_000988,King Crab,Король крабов
 PROPMOVER_TXT_000996,Gambler,Игрок
 PROPMOVER_TXT_000998,Hair Designer,Парикмахер Эдвард Депп
 PROPMOVER_TXT_001000,Make-Up Artist,Визажист
 PROPMOVER_TXT_001002,Pet Tamer,Укротитель
-PROPMOVER_TXT_001010,Behemoth,Behemoth
-PROPMOVER_TXT_001012,Hellion,Hellion
-PROPMOVER_TXT_001014,Jackalope,Jackalope
-PROPMOVER_TXT_001016,Bahamut,Bahamut
-PROPMOVER_TXT_001018,Nightmare,Nightmare
-PROPMOVER_TXT_001020,Reinecke,Reinecke
-PROPMOVER_TXT_001022,Hippogryph,Hippogryph
+PROPMOVER_TXT_001010,Behemoth,Бегемот
+PROPMOVER_TXT_001012,Hellion,Адский лев
+PROPMOVER_TXT_001014,Jackalope,Шакалоп
+PROPMOVER_TXT_001016,Bahamut,Бахамут
+PROPMOVER_TXT_001018,Nightmare,Ночной кошмарь
+PROPMOVER_TXT_001020,Reinecke,Хокаги
+PROPMOVER_TXT_001022,Hippogryph,Гипогриф
 PROPMOVER_TXT_001024,Cute Frog,Лягушонок
 PROPMOVER_TXT_001026,Cute Hamburger,Крошка-бургер
 PROPMOVER_TXT_001028,Baby Turtle,Черепашка
@@ -526,7 +526,7 @@ PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,Злыдень
 PROPMOVER_TXT_001716,Chameleon,Хамелеон
 PROPMOVER_TXT_001804,Braaaaains,Крошка-зомби
 PROPMOVER_TXT_001814,Male Zombie,Восставший мертвец
-PROPMOVER_TXT_001816,Female Zombie ,Восставшая покойница
+PROPMOVER_TXT_001816,Female Zombie,Восставшая покойница
 PROPMOVER_TXT_001826,Big Red,Лутьеро
 PROPMOVER_TXT_002000,Buur,Лемуррик
 PROPMOVER_TXT_002002,Saphyryan,Сапфирион
@@ -543,7 +543,7 @@ PROPMOVER_TXT_002040,Mister Grizz,Плюшевый мишка
 PROPMOVER_TXT_002162,Lil' Potato,Прическа Куросаки Ичиго
 PROPMOVER_TXT_002166,Friendly Baby Kargo,Шляпка Диско (Ж)
 PROPMOVER_TXT_002170,Charming Babushka Doll,Чарующая Матрёшка
-PROPMOVER_TXT_002232,Cute Baby Cat,Cute Baby Cat
+PROPMOVER_TXT_002232,Cute Baby Cat,Миленький котенок
 PROPMOVER_TXT_002234,Little Muran,Маленькая Муран
 PROPMOVER_TXT_002236,Baby Buur,Детеныш Буура
 PROPMOVER_TXT_002238,Baby Ripper,Мини-жнец.
@@ -588,17 +588,17 @@ PROPMOVER_TXT_100020,Small Zendros,Слабый Призор
 PROPMOVER_TXT_100021,Zendros,Призор
 PROPMOVER_TXT_100022,Captain Zendros,Сильный Призор
 PROPMOVER_TXT_100023,Giant Zendros,Гиганский Призор
-PROPMOVER_TXT_100024,Small Medumet,Small Medumet
-PROPMOVER_TXT_100025,Medumet,Medumet
-PROPMOVER_TXT_100026,Captain Medumet,Captain Medumet
-PROPMOVER_TXT_100027,Giant Medumet,Giant Medumet
+PROPMOVER_TXT_100024,Small Medumet,Маленькая медуза
+PROPMOVER_TXT_100025,Medumet,Медуза
+PROPMOVER_TXT_100026,Captain Medumet,Капитан медуза
+PROPMOVER_TXT_100027,Giant Medumet,Гигантская медуза
 PROPMOVER_TXT_100028,Training Dummy,Манекен
 PROPMOVER_TXT_100029,Fire Training Dummy,Огненный манекен
 PROPMOVER_TXT_100030,Water Training Dummy,Водный манекен
 PROPMOVER_TXT_100031,Earth Training Dummy,Земляной манекен
 PROPMOVER_TXT_100032,Electric Training Dummy,Электрический манекен
 PROPMOVER_TXT_100033,Wind Training Dummy,Воздушный манекен
-PROPMOVER_TXT_100097,Violet Medumet,Violet Medumet
+PROPMOVER_TXT_100097,Violet Medumet,Лиловая Медуза
 PROPMOVER_TXT_100063,Violet Leyena,Лиловая Лиена
 PROPMOVER_TXT_100064,Violet Trangfoma,Лиловый Дезинфектор
 PROPMOVER_TXT_100065,Violet Steam Walker,Лиловый Паробот
@@ -644,887 +644,887 @@ PROPMOVER_TXT_100041,Violet Lawolf,Лиловый Волкопард
 PROPMOVER_TXT_100043,Violet Fefern,Лиловый Крыжорник
 PROPMOVER_TXT_100042,Violet Nyangnyang,Лиловая Кисандра
 PROPMOVER_TXT_100044,Violet Bang,Лиловый Гром
-PROPMOVER_TXT_100099,Violet Mothbee,Violet Mothbee
-PROPMOVER_TXT_100098,Violet Flybrigen,Violet Flybrigen
-PROPMOVER_TXT_100100,Violet Rockepeller,Violet Rockepeller
-PROPMOVER_TXT_100106,Violet Zendros,Violet Zendros
-PROPMOVER_TXT_100104,Violet Neparuba,Violet Neparuba
-PROPMOVER_TXT_100105,Violet Zenma,Violet Zenma
-PROPMOVER_TXT_100103,Violet Longwing,Violet Longwing
-PROPMOVER_TXT_100102,Violet Fafnir,Violet Fafnir
-PROPMOVER_TXT_100101,Violet Gorruda,Violet Gorruda
-PROPMOVER_TXT_100058,Violet Tombstone Bearer,Violet Tombstone Bearer
-PROPMOVER_TXT_100060,Violet Scorpicon,Violet Scorpicon
-PROPMOVER_TXT_100059,Violet Basque,Violet Basque
-PROPMOVER_TXT_100061,Violet Prankster,Violet Prankster
-PROPMOVER_TXT_100062,Violet Wheelem,Violet Wheelem
-PROPMOVER_TXT_100045,Violet Wagsaac,Violet Wagsaac
-PROPMOVER_TXT_100047,Violet Mia,Violet Mia
-PROPMOVER_TXT_100048,Violet Mr. Pumpkin,Violet Mr. Pumpkin
-PROPMOVER_TXT_100049,Violet Red Mantis,Violet Red Mantis
-PROPMOVER_TXT_100050,Violet Jack the Hammer,Violet Jack the Hammer
-PROPMOVER_TXT_100051,Violet Giggle Box,Violet Giggle Box
-PROPMOVER_TXT_100052,Violet Rock Muscle,Violet Rock Muscle
-PROPMOVER_TXT_100053,Violet Hobo,Violet Hobo
-PROPMOVER_TXT_100055,Violet Dumb Bull,Violet Dumb Bull
-PROPMOVER_TXT_100056,Violet Totemia,Violet Totemia
-PROPMOVER_TXT_100057,Violet Cardpuppet,Violet Cardpuppet
-PROPMOVER_TXT_100046,Violet Flybat,Violet Flybat
-PROPMOVER_TXT_100054,Violet Bucrow,Violet Bucrow
-PROPMOVER_TXT_100107,Baby Pink Cobra,Baby Pink Cobra
-PROPMOVER_TXT_100108,Baby Giant Aibatt,Baby Giant Aibatt
-PROPMOVER_TXT_100109,Baby Glaphan,Baby Glaphan
-PROPMOVER_TXT_100110,Baby Longwing,Baby Longwing
-PROPMOVER_TXT_100111,Baby Saphyryan,Baby Saphyryan
-PROPMOVER_TXT_100112,Baby Mushpang,Baby Mushpang
-PROPMOVER_TXT_100113,Baby Wagsaac,Baby Wagsaac
-PROPMOVER_TXT_100114,Baby Steel Knight,Baby Steel Knight
-PROPMOVER_TXT_100115,Baby Nautrepy,Baby Nautrepy
-PROPMOVER_TXT_100116,Small Meteonyker,Small Meteonyker
-PROPMOVER_TXT_100117,Berserk Meteonyker,Berserk Meteonyker
-PROPMOVER_TXT_100118,Cyclops X,Cyclops X
-PROPMOVER_TXT_100119,Giant Cyclops X,Giant Cyclops X
-PROPMOVER_TXT_100120,Katamaw,Katamaw
-PROPMOVER_TXT_100121,Zefus,Zefus
+PROPMOVER_TXT_100099,Violet Mothbee,Лиловый Мухаон
+PROPMOVER_TXT_100098,Violet Flybrigen,Лиловый Хвостокол
+PROPMOVER_TXT_100100,Violet Rockepeller,Лиловый Пропеллац
+PROPMOVER_TXT_100106,Violet Zendros,Лиловый Призор
+PROPMOVER_TXT_100104,Violet Neparuba,Лиловая Комарище
+PROPMOVER_TXT_100105,Violet Zenma,Лиловый Нетопырь
+PROPMOVER_TXT_100103,Violet Longwing,Лиловый Длиннокрыл
+PROPMOVER_TXT_100102,Violet Fafnir,Лиловый Фафнир
+PROPMOVER_TXT_100101,Violet Gorruda,Лиловый Злокрыл
+PROPMOVER_TXT_100058,Violet Tombstone Bearer,Лиловый Гробокоп
+PROPMOVER_TXT_100060,Violet Scorpicon,Лиловый Скорпион
+PROPMOVER_TXT_100059,Violet Basque,Лиловый Стрелорк
+PROPMOVER_TXT_100061,Violet Prankster,Лиловый Проказник
+PROPMOVER_TXT_100062,Violet Wheelem,Лиловый Ушатрон
+PROPMOVER_TXT_100045,Violet Wagsaac,Лиловый Злопух
+PROPMOVER_TXT_100047,Violet Mia,Лиловая  Миа
+PROPMOVER_TXT_100048,Violet Mr. Pumpkin,Лиловый  Мистер Тыквер
+PROPMOVER_TXT_100049,Violet Red Mantis,Лиловый  Красный богомол
+PROPMOVER_TXT_100050,Violet Jack the Hammer,Лиловый  Кувалда Джек
+PROPMOVER_TXT_100051,Violet Giggle Box,Лиловый Хохотун
+PROPMOVER_TXT_100052,Violet Rock Muscle,Лиловый Камнетавр
+PROPMOVER_TXT_100053,Violet Hobo,Лиловый Однорукий Бандит
+PROPMOVER_TXT_100055,Violet Dumb Bull,Лиловый Быказа-рогазов
+PROPMOVER_TXT_100056,Violet Totemia,Лиловый Истукан
+PROPMOVER_TXT_100057,Violet Cardpuppet,Лиловая Заводная кукла
+PROPMOVER_TXT_100046,Violet Flybat,Лиловый Циклопырь
+PROPMOVER_TXT_100054,Violet Bucrow,Лиловый Тавродемон
+PROPMOVER_TXT_100107,Baby Pink Cobra,Розовая змейка
+PROPMOVER_TXT_100108,Baby Giant Aibatt,Айбаченок
+PROPMOVER_TXT_100109,Baby Glaphan,Глафанчик
+PROPMOVER_TXT_100110,Baby Longwing,Длиннокрылка
+PROPMOVER_TXT_100111,Baby Saphyryan,Сапфириан
+PROPMOVER_TXT_100112,Baby Mushpang,Сыробежачка
+PROPMOVER_TXT_100113,Baby Wagsaac,Злопущенок
+PROPMOVER_TXT_100114,Baby Steel Knight,Стальной рыцарек
+PROPMOVER_TXT_100115,Baby Nautrepy,Белка летунчик
+PROPMOVER_TXT_100116,Small Meteonyker,Метеонукерчик
+PROPMOVER_TXT_100117,Berserk Meteonyker,Взбесившийся Метеоникер
+PROPMOVER_TXT_100118,Cyclops X,Циклоп X
+PROPMOVER_TXT_100119,Giant Cyclops X,Гигантский Циклоп X
+PROPMOVER_TXT_100120,Katamaw,Катамау
+PROPMOVER_TXT_100121,Zefus,Зефус
 PROPMOVER_TXT_100122,Gruntizer,Gruntizer
-PROPMOVER_TXT_100123,Obnis,Obnis
-PROPMOVER_TXT_100124,Airon,Airon
-PROPMOVER_TXT_100125,Kumah,Kumah
-PROPMOVER_TXT_100126,Haom,Haom
-PROPMOVER_TXT_100127,Scorched Meteonyker,Scorched Meteonyker
-PROPMOVER_TXT_100128,Red Meteonyker,Red Meteonyker
-PROPMOVER_TXT_100129,Baby Zendros,Baby Zendros
-PROPMOVER_TXT_100130,Baby Dumb Bull,Baby Dumb Bull
-PROPMOVER_TXT_100131,Baby Bearnerky,Baby Bearnerky
-PROPMOVER_TXT_100132,Yetti,Yetti
-PROPMOVER_TXT_100133,Mutant Yetti,Mutant Yetti
-PROPMOVER_TXT_100134,Dark Yetti,Dark Yetti
-PROPMOVER_TXT_100135,Mad Yetti,Mad Yetti
-PROPMOVER_TXT_100136,Violet Yetti,Violet Yetti
-PROPMOVER_TXT_100137,Augu,Augu
-PROPMOVER_TXT_100138,Mutant Augu,Mutant Augu
-PROPMOVER_TXT_100139,Ardent Augu,Ardent Augu
-PROPMOVER_TXT_100140,Glacial Augu,Glacial Augu
-PROPMOVER_TXT_100141,Violet Augu,Violet Augu
-PROPMOVER_TXT_100142,Ghost of the Forgotten Prince,Ghost of the Forgotten Prince
-PROPMOVER_TXT_100143,Ghost of the Forgotten King,Ghost of the Forgotten King
-PROPMOVER_TXT_100144,Ghost of the Forgotten Emperor,Ghost of the Forgotten Emperor
-PROPMOVER_TXT_100145,Ghost of the Forgotten Overlord,Ghost of the Forgotten Overlord
-PROPMOVER_TXT_100146,Violet Ghost of the Forgotten Monarch,Violet Ghost of the Forgotten Monarch
-PROPMOVER_TXT_100147,Mammoth,Mammoth
-PROPMOVER_TXT_100148,Cannibal Mammoth,Cannibal Mammoth
-PROPMOVER_TXT_100149,Ancient Mammoth,Ancient Mammoth
-PROPMOVER_TXT_100150,Predator Mammoth,Predator Mammoth
-PROPMOVER_TXT_100151,Violet Mammoth,Violet Mammoth
-PROPMOVER_TXT_100152,Gigaka,Gigaka
-PROPMOVER_TXT_100153,Mawrang,Mawrang
-PROPMOVER_TXT_100154,Miriun,Miriun
-PROPMOVER_TXT_100155,Auxilior,Auxilior
-PROPMOVER_TXT_100156,Blue Alien Octopus,Blue Alien Octopus
-PROPMOVER_TXT_100157,Yellow Alien Octopus,Yellow Alien Octopus
-PROPMOVER_TXT_100158,Red Alien Octopus,Red Alien Octopus
-PROPMOVER_TXT_100159,White Alien Octopus,White Alien Octopus
-PROPMOVER_TXT_100160,Green Alien Octopus,Green Alien Octopus
-PROPMOVER_TXT_100161,Black Alien Octopus,Black Alien Octopus
-PROPMOVER_TXT_100162,Baby Peakyturtle,Baby Peakyturtle
-PROPMOVER_TXT_100163,Baby Rock Muscle,Baby Rock Muscle
-PROPMOVER_TXT_100164,Baby Giggle Box,Baby Giggle Box
-PROPMOVER_TXT_100165,Baby Totemia,Baby Totemia
-PROPMOVER_TXT_100166,Baby Fafnir,Baby Fafnir
-PROPMOVER_TXT_100167,Baby Popcrank,Baby Popcrank
-PROPMOVER_TXT_100168,Rookie Cloudberry Carrier,Rookie Cloudberry Carrier
-PROPMOVER_TXT_100169,Cloudberry Carrier,Cloudberry Carrier
-PROPMOVER_TXT_100170,Lightberry Carrier,Lightberry Carrier
-PROPMOVER_TXT_100171,Rookie Exoberry Carrier,Rookie Exoberry Carrier
-PROPMOVER_TXT_100172,Exoberry Carrier,Exoberry Carrier
-PROPMOVER_TXT_001068,Waforu,Waforu
-PROPMOVER_TXT_001069,Mysterious Robed Girl,Mysterious Robed Girl
-PROPMOVER_TXT_001442,Lasa,Lasa
-PROPMOVER_TXT_100173,Baby Giant Bang,Baby Giant Bang
-PROPMOVER_TXT_100174,Baby Burudeng,Baby Burudeng
-PROPMOVER_TXT_100175,Baby Iren,Baby Iren
-PROPMOVER_TXT_100176,Baby Mushpoie,Baby Mushpoie
-PROPMOVER_TXT_100177,Baby Flybrigen,Baby Flybrigen
-PROPMOVER_TXT_100178,Baby Nuctuvehicle,Baby Nuctuvehicle
-PROPMOVER_TXT_100179,Criminal Medumet,Criminal Medumet
-PROPMOVER_TXT_100180,Crystal Iphrine,Crystal Iphrine
-PROPMOVER_TXT_100181,Yellow Teddy Bear,Yellow Teddy Bear
-PROPMOVER_TXT_100182,Blue Teddy Bear,Blue Teddy Bear
-PROPMOVER_TXT_100183,Brown Teddy Bear,Brown Teddy Bear
-PROPMOVER_TXT_100184,Orange Teddy Bear,Orange Teddy Bear
-PROPMOVER_TXT_100185,Black Teddy Bear,Black Teddy Bear
-PROPMOVER_TXT_100186,White Teddy Bear,White Teddy Bear
-PROPMOVER_TXT_100187,Baby Doridoma,Baby Doridoma
-PROPMOVER_TXT_100188,Baby Mothbee,Baby Mothbee
-PROPMOVER_TXT_100189,Baby Hobo,Baby Hobo
-PROPMOVER_TXT_100190,Primgon,Primgon
-PROPMOVER_TXT_100191,Blue Gummy Bear,Blue Gummy Bear
-PROPMOVER_TXT_100192,Brown Gummy Bear,Brown Gummy Bear
-PROPMOVER_TXT_100193,Pink Gummy Bear,Pink Gummy Bear
-PROPMOVER_TXT_100194,Red Gummy Bear,Red Gummy Bear
-PROPMOVER_TXT_100195,Black Gummy Bear,Black Gummy Bear
-PROPMOVER_TXT_100196,White Gummy Bear,White Gummy Bear
-PROPMOVER_TXT_100197,Baby Wild Rabbit,Baby Wild Rabbit
-PROPMOVER_TXT_100198,Puppy,Puppy
-PROPMOVER_TXT_100199,Furious Mr. Pumpkin,Furious Mr. Pumpkin
-PROPMOVER_TXT_100200,Deviant Mr. Pumpkin,Deviant Mr. Pumpkin
-PROPMOVER_TXT_100201,Baby Winged Sheep,Baby Winged Sheep
-PROPMOVER_TXT_100202,Teddy Bear,Teddy Bear
-PROPMOVER_TXT_100203,Kitty with Yellow Umbrella,Kitty with Yellow Umbrella
-PROPMOVER_TXT_100204,Kitty with Green Umbrella,Kitty with Green Umbrella
-PROPMOVER_TXT_100205,Kitty with Pink Umbrella,Kitty with Pink Umbrella
-PROPMOVER_TXT_100206,Kitty with Purple Umbrella,Kitty with Purple Umbrella
-PROPMOVER_TXT_100207,Kitty with Beige Umbrella,Kitty with Beige Umbrella
-PROPMOVER_TXT_100208,Kitty with Grey Umbrella,Kitty with Grey Umbrella
-PROPMOVER_TXT_100209,Halloween Ghost,Halloween Ghost
-PROPMOVER_TXT_100210,Lord Big Muscle,Lord Big Muscle
-PROPMOVER_TXT_100211,Lord Krrr,Lord Krrr
-PROPMOVER_TXT_100212,Lord Mushmoot,Lord Mushmoot
-PROPMOVER_TXT_100213,Lord Meteonyker,Lord Meteonyker
-PROPMOVER_TXT_100214,Lord Red Meteonyker,Lord Red Meteonyker
-PROPMOVER_TXT_100215,Lord Pumpkin,Lord Pumpkin
-PROPMOVER_TXT_100216,Lord Lykanos,Lord Lykanos
-PROPMOVER_TXT_100217,Lord Drakul,Lord Drakul
-PROPMOVER_TXT_100219,Lord Ripper,Lord Ripper
-PROPMOVER_TXT_100220,Lord Mia,Lord Mia
-PROPMOVER_TXT_100221,Lord Iblis Leanes,Lord Iblis Leanes
-PROPMOVER_TXT_100222,Violet Halloween Puppet,Violet Halloween Puppet
-PROPMOVER_TXT_100223,Orange Halloween Puppet,Orange Halloween Puppet
-PROPMOVER_TXT_100224,Beige Halloween Puppet,Beige Halloween Puppet
-PROPMOVER_TXT_100225,Pink Halloween Puppet,Pink Halloween Puppet
-PROPMOVER_TXT_100226,Grey Halloween Puppet,Grey Halloween Puppet
-PROPMOVER_TXT_100227,White Halloween Puppet,White Halloween Puppet
-PROPMOVER_TXT_100228,Sport Pop Red Tiger,Sport Pop Red Tiger
-PROPMOVER_TXT_100229,Sport Pop Blue Tiger,Sport Pop Blue Tiger
-PROPMOVER_TXT_100230,Sport Pop Green Tiger,Sport Pop Green Tiger
-PROPMOVER_TXT_100231,Sport Pop Orange Tiger,Sport Pop Orange Tiger
-PROPMOVER_TXT_100232,Sport Pop Pink Tiger,Sport Pop Pink Tiger
-PROPMOVER_TXT_100233,Sport Pop Purple Tiger,Sport Pop Purple Tiger
-PROPMOVER_TXT_100234,Purple Disco Poodle,Purple Disco Poodle
-PROPMOVER_TXT_100235,Green Disco Poodle,Green Disco Poodle
-PROPMOVER_TXT_100236,Orange Disco Poodle,Orange Disco Poodle
-PROPMOVER_TXT_100237,Pink Disco Poodle,Pink Disco Poodle
-PROPMOVER_TXT_100238,Black Disco Poodle,Black Disco Poodle
-PROPMOVER_TXT_100239,Cyan Disco Poodle,Cyan Disco Poodle
-PROPMOVER_TXT_100240,Nine Tails,Nine Tails
-PROPMOVER_TXT_100241,Nero,Nero
-PROPMOVER_TXT_100242,Thief Santa Monster,Thief Santa Monster
-PROPMOVER_TXT_100243,Grumpy elf,Grumpy elf
-PROPMOVER_TXT_100250,Blue Winter Pixie,Blue Winter Pixie
-PROPMOVER_TXT_100251,Green Winter Pixie,Green Winter Pixie
-PROPMOVER_TXT_100252,Purple Winter Pixie,Purple Winter Pixie
-PROPMOVER_TXT_100253,Cyan Winter Pixie,Cyan Winter Pixie
-PROPMOVER_TXT_100254,Black Winter Pixie,Black Winter Pixie
-PROPMOVER_TXT_100255,White Winter Pixie,White Winter Pixie
-PROPMOVER_TXT_100256,Fu Lion King,Fu Lion King
-PROPMOVER_TXT_100257,Black Winter Tiger,Black Winter Tiger
-PROPMOVER_TXT_100258,Pink Winter Tiger,Pink Winter Tiger
-PROPMOVER_TXT_100259,Green Winter Tiger ,Green Winter Tiger 
-PROPMOVER_TXT_100260,Purple Winter Tiger ,Purple Winter Tiger 
-PROPMOVER_TXT_100261,Orange Winter Tiger ,Orange Winter Tiger 
-PROPMOVER_TXT_100262,Cyan Winter Tiger ,Cyan Winter Tiger 
-PROPMOVER_TXT_100263,Tonge,Tonge
-PROPMOVER_TXT_100264,Fox,Fox
-PROPMOVER_TXT_100265,Mermaid Beauty,Mermaid Beauty
-PROPMOVER_TXT_100266,Overgrown Shark,Overgrown Shark
-PROPMOVER_TXT_100267,Grunt Gorilla,Grunt Gorilla
-PROPMOVER_TXT_100268,Overgrown Spider,Overgrown Spider
-PROPMOVER_TXT_100269,Temple Guardian,Temple Guardian
-PROPMOVER_TXT_100270,Sentient Tree Warrior,Sentient Tree Warrior
-PROPMOVER_TXT_100271,Old Rut,Old Rut
-PROPMOVER_TXT_100244,Skeletal Militant,Skeletal Militant
-PROPMOVER_TXT_100245,Crystal Demon Lord,Crystal Demon Lord
-PROPMOVER_TXT_100246,Great Kraken,Great Kraken
-PROPMOVER_TXT_100247,Siren,Siren
-PROPMOVER_TXT_100248,Lurking Merman,Lurking Merman
-PROPMOVER_TXT_100249,Cunning Merman,Cunning Merman
-PROPMOVER_TXT_001198,Great Catsy,Great Catsy
-PROPMOVER_TXT_001200,Great Harpy,Great Harpy
-PROPMOVER_TXT_001202,Great Gullah,Great Gullah
-PROPMOVER_TXT_001204,Great Abraxas,Great Abraxas
-PROPMOVER_TXT_001206,Great Hague,Great Hague
-PROPMOVER_TXT_001208,Great Tengu,Great Tengu
-PROPMOVER_TXT_001210,Great Asterius,Great Asterius
-PROPMOVER_TXT_001212,Great Dantalian,Great Dantalian
-PROPMOVER_TXT_001214,Great Gannessa,Great Gannessa
-PROPMOVER_TXT_001216,Great Asuras,Great Asuras
-PROPMOVER_TXT_001180,Small Nyx,Small Nyx
-PROPMOVER_TXT_001182,Nyx,Nyx
-PROPMOVER_TXT_001184,Captain Nyx,Captain Nyx
-PROPMOVER_TXT_001186,Asmodan,Asmodan
-PROPMOVER_TXT_001100,Small Harpy,Small Harpy
-PROPMOVER_TXT_001102,Harpy,Harpy
-PROPMOVER_TXT_001104,Captain Harpy,Captain Harpy
-PROPMOVER_TXT_001106,Giant Harpy,Giant Harpy
-PROPMOVER_TXT_001108,Small Gullah,Small Gullah
-PROPMOVER_TXT_001110,Gullah,Gullah
-PROPMOVER_TXT_001112,Captain Gullah,Captain Gullah
-PROPMOVER_TXT_001114,Giant Gullah,Giant Gullah
-PROPMOVER_TXT_001116,Small Abraxas,Small Abraxas
-PROPMOVER_TXT_001118,Abraxas,Abraxas
-PROPMOVER_TXT_001120,Captain Abraxas,Captain Abraxas
-PROPMOVER_TXT_001122,Giant Abraxas,Giant Abraxas
-PROPMOVER_TXT_001124,Small Hague,Small Hague
-PROPMOVER_TXT_001126,Hague,Hague
-PROPMOVER_TXT_001128,Captain Hague,Captain Hague
-PROPMOVER_TXT_001130,Giant Hague,Giant Hague
-PROPMOVER_TXT_001132,Small Tengu,Small Tengu
-PROPMOVER_TXT_001134,Tengu,Tengu
-PROPMOVER_TXT_001136,Captain Tengu,Captain Tengu
-PROPMOVER_TXT_001138,Giant Tengu,Giant Tengu
-PROPMOVER_TXT_001140,Small Asterius,Small Asterius
-PROPMOVER_TXT_001142,Asterius,Asterius
-PROPMOVER_TXT_001144,Captain Asterius,Captain Asterius
-PROPMOVER_TXT_001146,Giant Asterius,Giant Asterius
-PROPMOVER_TXT_001148,Small Dantalian,Small Dantalian
-PROPMOVER_TXT_001150,Dantalian,Dantalian
-PROPMOVER_TXT_001152,Captain Dantalian,Captain Dantalian
-PROPMOVER_TXT_001154,Giant Dantalian,Giant Dantalian
-PROPMOVER_TXT_001156,Small Gannessa,Small Gannessa
-PROPMOVER_TXT_001158,Gannessa,Gannessa
-PROPMOVER_TXT_001160,Captain Gannessa,Captain Gannessa
-PROPMOVER_TXT_001162,Giant Gannessa,Giant Gannessa
-PROPMOVER_TXT_001164,Small Asuras,Small Asuras
-PROPMOVER_TXT_001166,Asuras,Asuras
-PROPMOVER_TXT_001168,Captain Asuras,Captain Asuras
-PROPMOVER_TXT_001170,Giant Asuras,Giant Asuras
-PROPMOVER_TXT_001172,Small Catsy,Small Catsy
-PROPMOVER_TXT_001174,Catsy,Catsy
-PROPMOVER_TXT_001176,Giant Catsy,Giant Catsy
-PROPMOVER_TXT_001178,Captain Catsy,Captain Catsy
-PROPMOVER_TXT_001218,Knight 2,Knight 2
-PROPMOVER_TXT_001220,Knight 1,Knight 1
-PROPMOVER_TXT_001221,Queen Long Legs,Queen Long Legs
-PROPMOVER_TXT_001222,Nightmist Empress,Nightmist Empress
-PROPMOVER_TXT_001223,Bolt Otem,Bolt Otem
-PROPMOVER_TXT_001224,Overgrown Broodmother,Overgrown Broodmother
-PROPMOVER_TXT_001225,Spiderling,Spiderling
-PROPMOVER_TXT_001226,Enraged Gorilla,Enraged Gorilla
-PROPMOVER_TXT_001227,Sentient Tree Guardian,Sentient Tree Guardian
-PROPMOVER_TXT_001228,Regal Kumai,Regal Kumai
-PROPMOVER_TXT_001229,Enchanted Rider,Enchanted Rider
-PROPMOVER_TXT_001230,Enchanted Shaman,Enchanted Shaman
-PROPMOVER_TXT_001231,Enchanted AI,Enchanted AI
-PROPMOVER_TXT_001232,Pyramid Keeper,Pyramid Keeper
-PROPMOVER_TXT_001233,Pyramid Guardian,Pyramid Guardian
-PROPMOVER_TXT_001234,Defense Otem,Defense Otem
-PROPMOVER_TXT_001235,Skeleton General,Skeleton General
-PROPMOVER_TXT_230001,Enraged Yetti,Enraged Yetti
-PROPMOVER_TXT_230002,Frozen Hare Guard,Frozen Hare Guard
-PROPMOVER_TXT_230003,Saphyryan Hound,Saphyryan Hound
-PROPMOVER_TXT_230004,Deep Cave Gorilla,Deep Cave Gorilla
-PROPMOVER_TXT_230005,Caveman Chief,Caveman Chief
-PROPMOVER_TXT_230006,Cavern Larva,Cavern Larva
-PROPMOVER_TXT_230007,Radioactive Long Legs,Radioactive Long Legs
-PROPMOVER_TXT_230008,Cavern Nightmist,Cavern Nightmist
-PROPMOVER_TXT_230009,Frozen Hare Assassin,Frozen Hare Assassin
-PROPMOVER_TXT_230010,Giant Turtle,Giant Turtle
-PROPMOVER_TXT_230011,Kraken Spawn,Kraken Spawn
-PROPMOVER_TXT_010000,Orange Sleeping Fox,Orange Sleeping Fox
-PROPMOVER_TXT_010001,Black Sleeping Fox,Black Sleeping Fox
-PROPMOVER_TXT_010002,Blue Sleeping Fox,Blue Sleeping Fox
-PROPMOVER_TXT_010003,Green Sleeping Fox,Green Sleeping Fox
-PROPMOVER_TXT_010004,Pink Sleeping Fox,Pink Sleeping Fox
-PROPMOVER_TXT_010005,Purple Sleeping Fox,Purple Sleeping Fox
-PROPMOVER_TXT_010006,White Sleeping Fox,White Sleeping Fox
-PROPMOVER_TXT_110000,Pink Valentine's Bear,Pink Valentine's Bear
-PROPMOVER_TXT_110001,White Valentine's Bear,White Valentine's Bear
-PROPMOVER_TXT_110002,Dark Valentine's Bear,Dark Valentine's Bear
-PROPMOVER_TXT_110003,Orange Valentine's Bear,Orange Valentine's Bear
-PROPMOVER_TXT_110004,Green Valentine's Bear,Green Valentine's Bear
-PROPMOVER_TXT_110005,Purple Valentine's Bear,Purple Valentine's Bear
-PROPMOVER_TXT_110006,Pink Little Cacti,Pink Little Cacti
-PROPMOVER_TXT_110007,Green Little Cacti,Green Little Cacti
-PROPMOVER_TXT_110008,Purple Little Cacti,Purple Little Cacti
-PROPMOVER_TXT_110009,Orange Little Cacti,Orange Little Cacti
-PROPMOVER_TXT_110010,Red Little Cacti,Red Little Cacti
-PROPMOVER_TXT_110011,Cyan Little Cacti,Cyan Little Cacti
-PROPMOVER_TXT_110012,Phantom General,Phantom General
-PROPMOVER_TXT_110013,Golden Aibatt,Golden Aibatt
-PROPMOVER_TXT_110014,Pink Modern Sports Bear,Pink Modern Sports Bear
-PROPMOVER_TXT_110015,Blue Modern Sports Bear,Blue Modern Sports Bear
-PROPMOVER_TXT_110016,Green Modern Sports Bear,Green Modern Sports Bear
-PROPMOVER_TXT_110017,Purple Modern Sports Bear,Purple Modern Sports Bear
-PROPMOVER_TXT_110018,Dark Modern Sports Bear,Dark Modern Sports Bear
-PROPMOVER_TXT_110019,Light Modern Sports Bear,Light Modern Sports Bear
-PROPMOVER_TXT_110020,Pink Easter Bunny,Pink Easter Bunny
-PROPMOVER_TXT_110021,Pink Future Robot,Pink Future Robot
-PROPMOVER_TXT_110022,Purple Future Robot,Purple Future Robot
-PROPMOVER_TXT_110023,Cyan Future Robot,Cyan Future Robot
-PROPMOVER_TXT_110024,Dark Future Robot,Dark Future Robot
-PROPMOVER_TXT_110025,Green Future Robot,Green Future Robot
-PROPMOVER_TXT_110026,Blue Future Robot,Blue Future Robot
-PROPMOVER_TXT_110027,Flying Egg,Flying Egg
-PROPMOVER_TXT_110028,Eggcellent,Eggcellent
-PROPMOVER_TXT_110029,Blue Flying Bunny,Blue Flying Bunny
-PROPMOVER_TXT_110030,Green Flying Bunny,Green Flying Bunny
-PROPMOVER_TXT_110031,Pink Flying Bunny,Pink Flying Bunny
-PROPMOVER_TXT_110032,Purple Flying Bunny,Purple Flying Bunny
-PROPMOVER_TXT_110033,Brown Flying Bunny,Brown Flying Bunny
-PROPMOVER_TXT_110034,Black Flying Bunny,Black Flying Bunny
-PROPMOVER_TXT_110035,White Flying Bunny,White Flying Bunny
-PROPMOVER_TXT_110036,Hantiger,Hantiger
-PROPMOVER_TXT_110037,Galaxy Scout,Galaxy Scout
-PROPMOVER_TXT_110038,Blue Hat Bunny,Blue Hat Bunny
-PROPMOVER_TXT_110039,Dark Hat Bunny,Dark Hat Bunny
-PROPMOVER_TXT_110040,Green Hat Bunny,Green Hat Bunny
-PROPMOVER_TXT_110041,Orange Hat Bunny,Orange Hat Bunny
-PROPMOVER_TXT_110042,Pink Hat Bunny,Pink Hat Bunny
-PROPMOVER_TXT_110043,Purple Hat Bunny,Purple Hat Bunny
-PROPMOVER_TXT_110044,Black Hat Bunny,Black Hat Bunny
-PROPMOVER_TXT_110045,White Hat Bunny,White Hat Bunny
-PROPMOVER_TXT_110047,Gold Skeleton,Gold Skeleton
-PROPMOVER_TXT_110048,Birthday Baker,Birthday Baker
-PROPMOVER_TXT_110049,White Stripe Purple Bear,White Stripe Purple Bear
-PROPMOVER_TXT_110050,White Stripe Blue Bear,White Stripe Blue Bear
-PROPMOVER_TXT_110051,White Stripe Green Bear,White Stripe Green Bear
-PROPMOVER_TXT_110052,White Stripe Orange Bear,White Stripe Orange Bear
-PROPMOVER_TXT_110053,White Stripe Pink Bear,White Stripe Pink Bear
-PROPMOVER_TXT_110054,White Stripe Black Bear,White Stripe Black Bear
-PROPMOVER_TXT_110055,White Stripe White Bear,White Stripe White Bear
-PROPMOVER_TXT_110056,Lord Manager,Lord Manager
-PROPMOVER_TXT_110057,Black Japanese Piggy,Black Japanese Piggy
-PROPMOVER_TXT_110058,Purple Japanese Piggy,Purple Japanese Piggy
-PROPMOVER_TXT_110059,Blue Japanese Piggy,Blue Japanese Piggy
-PROPMOVER_TXT_110060,Light Red Japanese Piggy,Light Red Japanese Piggy
-PROPMOVER_TXT_110061,Orange Japanese Piggy,Orange Japanese Piggy
-PROPMOVER_TXT_110062,White Japanese Piggy,White Japanese Piggy
-PROPMOVER_TXT_110063,Light Japanese Piggy,Light Japanese Piggy
-PROPMOVER_TXT_110064,Baby Carrierbomb,Baby Carrierbomb
-PROPMOVER_TXT_110065,Baby Fefern,Baby Fefern
-PROPMOVER_TXT_110066,Baby Wheelem,Baby Wheelem
-PROPMOVER_TXT_110067,Gacha Machine,Gacha Machine
-PROPMOVER_TXT_110068,Skating Cat,Skating Cat
-PROPMOVER_TXT_110069,Bach,Bach
-PROPMOVER_TXT_110070,Neo Purple Robot,Neo Purple Robot
-PROPMOVER_TXT_110071,Neo Green Robot,Neo Green Robot
-PROPMOVER_TXT_110072,Neo Orange Robot,Neo Orange Robot
-PROPMOVER_TXT_110073,Neo Yellow Robot,Neo Yellow Robot
-PROPMOVER_TXT_110074,Neo Black Robot,Neo Black Robot
-PROPMOVER_TXT_110075,Neo White Robot,Neo White Robot
-PROPMOVER_TXT_110076,Pink Flying Froggy,Pink Flying Froggy
-PROPMOVER_TXT_110077,Green Flying Froggy,Green Flying Froggy
-PROPMOVER_TXT_110078,Purple Flying Froggy,Purple Flying Froggy
-PROPMOVER_TXT_110079,Red Flying Froggy,Red Flying Froggy
-PROPMOVER_TXT_110080,Black Flying Froggy,Black Flying Froggy
-PROPMOVER_TXT_110081,Blue Flying Froggy,Blue Flying Froggy
-PROPMOVER_TXT_002016,Rex Potato,Rex Potato
-PROPMOVER_TXT_002017,Prince Potato,Prince Potato
-PROPMOVER_TXT_002159,Private Leo,Private Leo
-PROPMOVER_TXT_002160,Noah,Noah
-PROPMOVER_TXT_110082,Draco,Draco
-PROPMOVER_TXT_110083,Pink Axolotl,Pink Axolotl
-PROPMOVER_TXT_110084,Yellow Axolotl,Yellow Axolotl
-PROPMOVER_TXT_110085,Purple Axolotl,Purple Axolotl
-PROPMOVER_TXT_110086,Blue Axolotl,Blue Axolotl
-PROPMOVER_TXT_110087,Red Axolotl,Red Axolotl
-PROPMOVER_TXT_110088,Black Axolotl,Black Axolotl
-PROPMOVER_TXT_110089,Traveling Merchant,Traveling Merchant
-PROPMOVER_TXT_110046,Red Spirit Dragon,Red Spirit Dragon
-PROPMOVER_TXT_110090,Green Spirit Dragon,Green Spirit Dragon
-PROPMOVER_TXT_110091,Yellow Spirit Dragon,Yellow Spirit Dragon
-PROPMOVER_TXT_400000,Andrew,Andrew
-PROPMOVER_TXT_110092,Molu,Molu
-PROPMOVER_TXT_110093,Blue Flying Sheep,Blue Flying Sheep
-PROPMOVER_TXT_110094,Yellow Flying Sheep,Yellow Flying Sheep
-PROPMOVER_TXT_110095,Red Flying Sheep,Red Flying Sheep
-PROPMOVER_TXT_110096,Purple Flying Sheep,Purple Flying Sheep
-PROPMOVER_TXT_110097,Pink Flying Sheep,Pink Flying Sheep
-PROPMOVER_TXT_110098,Black Flying Sheep,Black Flying Sheep
-PROPMOVER_TXT_110100,Silver Aibatt,Silver Aibatt
-PROPMOVER_TXT_110151,Purple Floating Oni,Purple Floating Oni
-PROPMOVER_TXT_110152,Blue Floating Oni,Blue Floating Oni
-PROPMOVER_TXT_110153,Green Floating Oni,Green Floating Oni
-PROPMOVER_TXT_110154,Red Floating Oni,Red Floating Oni
-PROPMOVER_TXT_110155,Ice Blue Floating Oni,Ice Blue Floating Oni
-PROPMOVER_TXT_110156,Black Floating Oni,Black Floating Oni
-PROPMOVER_TXT_110157,Orange Witch Cat,Orange Witch Cat
-PROPMOVER_TXT_110158,Purple Witch Cat,Purple Witch Cat
-PROPMOVER_TXT_110159,Green Witch Cat,Green Witch Cat
-PROPMOVER_TXT_110160,Red Witch Cat,Red Witch Cat
-PROPMOVER_TXT_110161,Blue Witch Cat,Blue Witch Cat
-PROPMOVER_TXT_110162,White Witch Cat,White Witch Cat
-PROPMOVER_TXT_110163,Purple Phantocat,Purple Phantocat
-PROPMOVER_TXT_110164,Blue Phantocat,Blue Phantocat
-PROPMOVER_TXT_110165,Green Phantocat,Green Phantocat
-PROPMOVER_TXT_110166,Black Phantocat,Black Phantocat
-PROPMOVER_TXT_110167,Red Phantocat,Red Phantocat
-PROPMOVER_TXT_110168,White Phantocat,White Phantocat
-PROPMOVER_TXT_210093,Prismatic Cobra,Prismatic Cobra
-PROPMOVER_TXT_210094,Twinstrike Cobra,Twinstrike Cobra
-PROPMOVER_TXT_210095,Tanuki Enforcer,Tanuki Enforcer
-PROPMOVER_TXT_210096,Tanuki Protector,Tanuki Protector
-PROPMOVER_TXT_210097,Wildwood Stalker,Wildwood Stalker
-PROPMOVER_TXT_210098,Wildwood Chieftain,Wildwood Chieftain
-PROPMOVER_TXT_210099,Beast King Khan,Beast King Khan
-PROPMOVER_TXT_210100,Small Kingster,Small Kingster
-PROPMOVER_TXT_110101,Kingster,Kingster
-PROPMOVER_TXT_110102,Captain Kingster,Captain Kingster
-PROPMOVER_TXT_110103,Small Kraken,Small Kraken
-PROPMOVER_TXT_110104,Kraken,Kraken
-PROPMOVER_TXT_110105,Captain Kraken,Captain Kraken
-PROPMOVER_TXT_110106,Small Creper,Small Creper
-PROPMOVER_TXT_110107,Creper,Creper
-PROPMOVER_TXT_110108,Captain Creper,Captain Creper
-PROPMOVER_TXT_110109,Small Naga,Small Naga
-PROPMOVER_TXT_110110,Naga,Naga
-PROPMOVER_TXT_110111,Captain Naga,Captain Naga
-PROPMOVER_TXT_110112,Small Atrox,Small Atrox
-PROPMOVER_TXT_110113,Atrox,Atrox
-PROPMOVER_TXT_110114,Captain Atrox,Captain Atrox
-PROPMOVER_TXT_110115,Small Okean,Small Okean
-PROPMOVER_TXT_110116,Okean,Okean
-PROPMOVER_TXT_110117,Captain Okean,Captain Okean
-PROPMOVER_TXT_110118,Small Tigar,Small Tigar
-PROPMOVER_TXT_110119,Tigar,Tigar
-PROPMOVER_TXT_110120,Captain Tigar,Captain Tigar
-PROPMOVER_TXT_110121,Small Dorian,Small Dorian
-PROPMOVER_TXT_110122,Dorian,Dorian
-PROPMOVER_TXT_110123,Captain Dorian,Captain Dorian
-PROPMOVER_TXT_110124,Small Meral,Small Meral
-PROPMOVER_TXT_110125,Meral,Meral
-PROPMOVER_TXT_110126,Captain Meral,Captain Meral
-PROPMOVER_TXT_110127,Giant Kingster,Giant Kingster
-PROPMOVER_TXT_110128,Giant Kraken,Giant Kraken
-PROPMOVER_TXT_110129,Giant Creper,Giant Creper
-PROPMOVER_TXT_110130,Giant Naga,Giant Naga
-PROPMOVER_TXT_110131,Giant Atrox,Giant Atrox
-PROPMOVER_TXT_110132,Giant Okean,Giant Okean
-PROPMOVER_TXT_110133,Giant Tigar,Giant Tigar
-PROPMOVER_TXT_110134,Giant Dorian,Giant Dorian
-PROPMOVER_TXT_110135,Giant Meral,Giant Meral
-PROPMOVER_TXT_110136,Violet Kingster,Violet Kingster
-PROPMOVER_TXT_110137,Violet Kraken,Violet Kraken
-PROPMOVER_TXT_110138,Violet Creper,Violet Creper
-PROPMOVER_TXT_110139,Violet Naga,Violet Naga
-PROPMOVER_TXT_110140,Violet Atrox,Violet Atrox
-PROPMOVER_TXT_110141,Violet Okean,Violet Okean
-PROPMOVER_TXT_110142,Violet Tigar,Violet Tigar
-PROPMOVER_TXT_110143,Violet Dorian,Violet Dorian
-PROPMOVER_TXT_110144,Violet Meral,Violet Meral
-PROPMOVER_TXT_110145,Blue Flying Sheep,Blue Flying Sheep
-PROPMOVER_TXT_110146,Yellow Flying Sheep,Yellow Flying Sheep
-PROPMOVER_TXT_110147,Red Flying Sheep,Red Flying Sheep
-PROPMOVER_TXT_110148,Purple Flying Sheep,Purple Flying Sheep
-PROPMOVER_TXT_110149,Pink Flying Sheep,Pink Flying Sheep
-PROPMOVER_TXT_110150,Black Flying Sheep,Black Flying Sheep
-PROPMOVER_TXT_210151,Rainbow Race Officer,Rainbow Race Officer
-PROPMOVER_TXT_210152,Water Totem Pole,Water Totem Pole
-PROPMOVER_TXT_210153,Wind Totem Pole,Wind Totem Pole
-PROPMOVER_TXT_210154,Earth Totem Pole,Earth Totem Pole
-PROPMOVER_TXT_210155,Fire Totem Pole,Fire Totem Pole
-PROPMOVER_TXT_210156,Electric Totem Pole,Electric Totem Pole
-PROPMOVER_TXT_210157,Twinstrike Den Mother,Twinstrike Den Mother
-PROPMOVER_TXT_210158,The Wilds Guard,The Wilds Guard
-PROPMOVER_TXT_210159,Pau Pau,Pau Pau
-PROPMOVER_TXT_210160,Kammie,Kammie
-PROPMOVER_TXT_210161,BoBu,BoBu
-PROPMOVER_TXT_210162,Talus,Talus
-PROPMOVER_TXT_210163,Inventor Remi,Inventor Remi
-PROPMOVER_TXT_210164,Sunny Pang,Sunny Pang
-PROPMOVER_TXT_210165,'s Artifact,'s Artifact
-PROPMOVER_TXT_210166,Tanuki Trainee,Tanuki Trainee
-PROPMOVER_TXT_210167,Wildwood Shaman,Wildwood Shaman
-PROPMOVER_TXT_001312,Charlie,Charlie
-PROPMOVER_TXT_210168,Red Patrol Dog,Red Patrol Dog
-PROPMOVER_TXT_210169,Purple Patrol Dog,Purple Patrol Dog
-PROPMOVER_TXT_210170,Cyan Patrol Dog,Cyan Patrol Dog
-PROPMOVER_TXT_210171,Blue Patrol Dog,Blue Patrol Dog
-PROPMOVER_TXT_210172,Black Patrol Dog,Black Patrol Dog
-PROPMOVER_TXT_210173,White Patrol Dog,White Patrol Dog
-PROPMOVER_TXT_110169,Wild Turkey,Wild Turkey
-PROPMOVER_TXT_210174,Red Rolling Clown,Red Rolling Clown
-PROPMOVER_TXT_210175,Purple Rolling Clown,Purple Rolling Clown
-PROPMOVER_TXT_210176,Green Rolling Clown,Green Rolling Clown
-PROPMOVER_TXT_210177,Pink Rolling Clown,Pink Rolling Clown
-PROPMOVER_TXT_210178,Blue Rolling Clown,Blue Rolling Clown
-PROPMOVER_TXT_210179,White Rolling Clown,White Rolling Clown
-PROPMOVER_TXT_001313,Thief Santa,Thief Santa
-PROPMOVER_TXT_001314,Santa,Santa
-PROPMOVER_TXT_400001,Red Snowman,Red Snowman
-PROPMOVER_TXT_400002,Purple Snowman,Purple Snowman
-PROPMOVER_TXT_400003,Pink Snowman,Pink Snowman
-PROPMOVER_TXT_400004,Green Snowman,Green Snowman
-PROPMOVER_TXT_400005,Blue Snowman,Blue Snowman
-PROPMOVER_TXT_400006,Black Snowman,Black Snowman
-PROPMOVER_TXT_400007,Red Snowy Cat,Red Snowy Cat
-PROPMOVER_TXT_400008,Pink Snowy Cat,Pink Snowy Cat
-PROPMOVER_TXT_400009,Green Snowy Cat,Green Snowy Cat
-PROPMOVER_TXT_400010,Blue Snowy Cat,Blue Snowy Cat
-PROPMOVER_TXT_400011,Purple Snowy Cat,Purple Snowy Cat
-PROPMOVER_TXT_400012,Black Snowy Cat,Black Snowy Cat
-PROPMOVER_TXT_400013,Blue Wonderful Dog,Blue Wonderful Dog
-PROPMOVER_TXT_400014,Pink Wonderful Dog,Pink Wonderful Dog
-PROPMOVER_TXT_400015,Green Wonderful Dog,Green Wonderful Dog
-PROPMOVER_TXT_400016,Yellow Wonderful Dog,Yellow Wonderful Dog
-PROPMOVER_TXT_400017,Purple Wonderful Dog,Purple Wonderful Dog
-PROPMOVER_TXT_400018,Red Wonderful Dog,Red Wonderful Dog
-PROPMOVER_TXT_001316,Guest Book,Guest Book
-PROPMOVER_TXT_001315,Kalgas,Kalgas
-PROPMOVER_TXT_001317,Artifact,Artifact
-PROPMOVER_TXT_400019,Brown Cub,Brown Cub
-PROPMOVER_TXT_400020,Purple Cub,Purple Cub
-PROPMOVER_TXT_400021,Blue Cub,Blue Cub
-PROPMOVER_TXT_400022,Green Cub,Green Cub
-PROPMOVER_TXT_400023,White Cub,White Cub
-PROPMOVER_TXT_400024,Black Cub,Black Cub
-PROPMOVER_TXT_400025,Event Greemong,Event Greemong
-PROPMOVER_TXT_400200,[Event] Giant Wagsaac,[Event] Giant Wagsaac
-PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[Event] Giant Jack the Hammer
-PROPMOVER_TXT_400202,[Event] Giant Bucrow,[Event] Giant Bucrow
-PROPMOVER_TXT_400203,[Event] Giant Totemia,[Event] Giant Totemia
-PROPMOVER_TXT_400204,[Event] Giant Wheelem,[Event] Giant Wheelem
-PROPMOVER_TXT_400205,[Event] Giant Hoppre,[Event] Giant Hoppre
-PROPMOVER_TXT_400206,[Event] Giant Mushpoie,[Event] Giant Mushpoie
-PROPMOVER_TXT_400207,[Event] Giant Watangka,[Event] Giant Watangka
-PROPMOVER_TXT_400208,[Event] Giant Fafnir,[Event] Giant Fafnir
-PROPMOVER_TXT_400209,[Event] Giant Gorruda,[Event] Giant Gorruda
-PROPMOVER_TXT_400210,[Event] Giant Medumet,[Event] Giant Medumet
-PROPMOVER_TXT_400211,[Event] Glacial Augu,[Event] Glacial Augu
-PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[Event] Ghost of the forgotten Overlord
-PROPMOVER_TXT_400213,[Event] Giant Asuras,[Event] Giant Asuras
-PROPMOVER_TXT_400214,[Event] Giant Tigar,[Event] Giant Tigar
-PROPMOVER_TXT_400215,[Event] Captain Flybat,[Event] Captain Flybat
-PROPMOVER_TXT_400216,[Event] Mr. Pumpkin,[Event] Mr. Pumpkin
-PROPMOVER_TXT_400217,[Event] Dumb Bull,[Event] Dumb Bull
-PROPMOVER_TXT_400218,[Event] Scorpicon,[Event] Scorpicon
-PROPMOVER_TXT_400219,[Event] Wheelem,[Event] Wheelem
-PROPMOVER_TXT_400220,[Event] Steel Knight,[Event] Steel Knight
-PROPMOVER_TXT_400221,[Event] Driller,[Event] Driller
-PROPMOVER_TXT_400222,[Event] Captian Volt,[Event] Captian Volt
-PROPMOVER_TXT_400223,[Event] Greemong,[Event] Greemong
-PROPMOVER_TXT_400224,[Event] Iren,[Event] Iren
-PROPMOVER_TXT_400225,[Event] Watangka,[Event] Watangka
-PROPMOVER_TXT_400226,[Event] Small Antiquery,[Event] Small Antiquery
-PROPMOVER_TXT_400227,[Event] Antiquery,[Event] Antiquery
-PROPMOVER_TXT_400228,[Event] Luia,[Event] Luia
-PROPMOVER_TXT_400229,[Event] Small Gongury,[Event] Small Gongury
-PROPMOVER_TXT_400230,[Event] Harpy,[Event] Harpy
-PROPMOVER_TXT_400231,[Event] Kern,[Event] Kern
-PROPMOVER_TXT_400232,[Event] Small Medumet,[Event] Small Medumet
-PROPMOVER_TXT_400233,[Event] Yetti,[Event] Yetti
-PROPMOVER_TXT_400234,[Event] Small Dantalian,[Event] Small Dantalian
-PROPMOVER_TXT_400235,[Event] Mutant Augu,[Event] Mutant Augu
-PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[Event] Ghost of the forgotten king
-PROPMOVER_TXT_400237,[Event] Small Asuras,[Event] Small Asuras
-PROPMOVER_TXT_400238,[Event] Mammoth,[Event] Mammoth
-PROPMOVER_TXT_400239,[Event] Asuras,[Event] Asuras
-PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[Event] Cannibal Mammoth
-PROPMOVER_TXT_400241,[Event] Meral,[Event] Meral
-PROPMOVER_TXT_400026,Blue Pixel Rabbit,Blue Pixel Rabbit
-PROPMOVER_TXT_400027,Red Pixel Rabbit,Red Pixel Rabbit
-PROPMOVER_TXT_400028,Green Pixel Rabbit,Green Pixel Rabbit
-PROPMOVER_TXT_400029,Pink Pixel Rabbit,Pink Pixel Rabbit
-PROPMOVER_TXT_400030,Purple Pixel Rabbit,Purple Pixel Rabbit
-PROPMOVER_TXT_400031,Yellow Pixel Rabbit,Yellow Pixel Rabbit
-PROPMOVER_TXT_001319,[Event] Leyena,[Event] Leyena
-PROPMOVER_TXT_001321,[Event] Giant Kraken,[Event] Giant Kraken
-PROPMOVER_TXT_400032,[Event] Giggle Box,[Event] Giggle Box
-PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[Event] Violet Giggle Box
-PROPMOVER_TXT_400034,Fox Spirit,Fox Spirit
-PROPMOVER_TXT_400035,Ninja Toad,Ninja Toad
-PROPMOVER_TXT_400036,Steambot,Steambot
-PROPMOVER_TXT_400037,White Lion,White Lion
-PROPMOVER_TXT_400038,Phio,Phio
-PROPMOVER_TXT_400242,Black Anniversary Cat,Black Anniversary Cat
-PROPMOVER_TXT_400243,Purple Anniversary Cat,Purple Anniversary Cat
-PROPMOVER_TXT_400244,Pink Anniversary Cat,Pink Anniversary Cat
-PROPMOVER_TXT_400245,Green Anniversary Cat,Green Anniversary Cat
-PROPMOVER_TXT_400246,Cyan Anniversary Cat,Cyan Anniversary Cat
-PROPMOVER_TXT_400247,Blue Anniversary Cat,Blue Anniversary Cat
-PROPMOVER_TXT_400248,White Anniversary Cat,White Anniversary Cat
-PROPMOVER_TXT_400249,Lord Trangfoma,Lord Trangfoma
-PROPMOVER_TXT_400250,Shadow of Clockworks,Shadow of Clockworks
-PROPMOVER_TXT_400251,Blue Magical Toad,Blue Magical Toad
-PROPMOVER_TXT_400252,Pink Magical Toad,Pink Magical Toad
-PROPMOVER_TXT_400253,Orange Magical Toad,Orange Magical Toad
-PROPMOVER_TXT_400254,Green Magical Toad,Green Magical Toad
-PROPMOVER_TXT_400255,Red Magical Toad,Red Magical Toad
-PROPMOVER_TXT_400256,Dark Magical Toad,Dark Magical Toad
-PROPMOVER_TXT_400258,[Event] Creper,[Event] Creper
-PROPMOVER_TXT_400259,[Event] Violet Creper,[Event] Violet Creper
-PROPMOVER_TXT_400260,Red Earless Seal,Red Earless Seal
-PROPMOVER_TXT_400261,Purple Earless Seal,Purple Earless Seal
-PROPMOVER_TXT_400262,Burgundy Earless Seal,Burgundy Earless Seal
-PROPMOVER_TXT_400263,Pink Earless Seal,Pink Earless Seal
-PROPMOVER_TXT_400264,Orange Earless Seal,Orange Earless Seal
-PROPMOVER_TXT_400265,Blue Earless Seal,Blue Earless Seal
-PROPMOVER_TXT_400266,White Earless Seal,White Earless Seal
-PROPMOVER_TXT_400267,Brown Butterflies,Brown Butterflies
-PROPMOVER_TXT_400268,Purple Butterflies,Purple Butterflies
-PROPMOVER_TXT_400269,Green Butterflies,Green Butterflies
-PROPMOVER_TXT_400270,Pink Butterflies,Pink Butterflies
-PROPMOVER_TXT_400271,Red Butterflies,Red Butterflies
-PROPMOVER_TXT_400272,White Butterflies,White Butterflies
-PROPMOVER_TXT_400273,Black Butterflies,Black Butterflies
-PROPMOVER_TXT_400274,Green DJ Froggy,Green DJ Froggy
-PROPMOVER_TXT_400275,Red DJ Froggy,Red DJ Froggy
-PROPMOVER_TXT_400276,Purple DJ Froggy,Purple DJ Froggy
-PROPMOVER_TXT_400277,Pink DJ Froggy,Pink DJ Froggy
-PROPMOVER_TXT_400278,Cyan DJ Froggy,Cyan DJ Froggy
-PROPMOVER_TXT_400279,Blue DJ Froggy,Blue DJ Froggy
-PROPMOVER_TXT_400280,Black DJ Froggy,Black DJ Froggy
-PROPMOVER_TXT_400281,Lord Demian,Lord Demian
-PROPMOVER_TXT_400282,Lord Mushpang,Lord Mushpang
-PROPMOVER_TXT_400283,Yellow Junior Banana Hero,Yellow Junior Banana Hero
-PROPMOVER_TXT_400284,Purple Junior Banana Hero,Purple Junior Banana Hero
-PROPMOVER_TXT_400285,Orange Junior Banana Hero,Orange Junior Banana Hero
-PROPMOVER_TXT_400286,Blue Junior Banana Hero,Blue Junior Banana Hero
-PROPMOVER_TXT_400287,Green Junior Banana Hero,Green Junior Banana Hero
-PROPMOVER_TXT_400288,Pink Junior Banana Hero,Pink Junior Banana Hero
-PROPMOVER_TXT_400289,White Junior Banana Hero,White Junior Banana Hero
-PROPMOVER_TXT_400290,Lord Zenma,Lord Zenma
-PROPMOVER_TXT_400291,[Event] Pirate ship,[Event] Pirate ship
-PROPMOVER_TXT_400292,Shadowirs,Shadowirs
-PROPMOVER_TXT_400293,Captain Shadowirs,Captain Shadowirs
-PROPMOVER_TXT_400294,Giant Shadowirs,Giant Shadowirs
-PROPMOVER_TXT_400295,Small Skelmaw,Small Skelmaw
-PROPMOVER_TXT_400296,Skelmaw,Skelmaw
-PROPMOVER_TXT_400297,Captain Skelmaw,Captain Skelmaw
-PROPMOVER_TXT_400298,Giant Skelmaw,Giant Skelmaw
-PROPMOVER_TXT_400299,Alchemy Desk,Alchemy Desk
-PROPMOVER_TXT_400300,Hearth,Hearth
-PROPMOVER_TXT_400301,Carpentry Workspace,Carpentry Workspace
-PROPMOVER_TXT_400302,Smithing Workspace,Smithing Workspace
-PROPMOVER_TXT_400303,Wandering Merchant,Wandering Merchant
-PROPMOVER_TXT_400304,Small Maleficar,Small Maleficar
-PROPMOVER_TXT_400305,Maleficar,Maleficar
-PROPMOVER_TXT_400306,Captain Maleficar,Captain Maleficar
-PROPMOVER_TXT_400307,Giant Maleficar,Giant Maleficar
-PROPMOVER_TXT_400308,Small Cursed Warden,Small Cursed Warden
-PROPMOVER_TXT_400309,Cursed Warden,Cursed Warden
-PROPMOVER_TXT_400310,Captain Cursed Warden,Captain Cursed Warden
-PROPMOVER_TXT_400311,Giant Cursed Warden,Giant Cursed Warden
-PROPMOVER_TXT_400312,Small Shadowirs,Small Shadowirs
-PROPMOVER_TXT_400313,Great Shadowirs,Great Shadowirs
-PROPMOVER_TXT_400314,Great Skelmaw,Great Skelmaw
-PROPMOVER_TXT_400315,Great Maleficar,Great Maleficar
-PROPMOVER_TXT_400316,Great Cursed Warden,Great Cursed Warden
-PROPMOVER_TXT_400317,Cyan Gloomie,Cyan Gloomie
-PROPMOVER_TXT_400318,Green Gloomie,Green Gloomie
-PROPMOVER_TXT_400319,Blue Gloomie,Blue Gloomie
-PROPMOVER_TXT_400320,Purple Gloomie,Purple Gloomie
-PROPMOVER_TXT_400321,Red Gloomie,Red Gloomie
-PROPMOVER_TXT_400322,Gray Gloomie,Gray Gloomie
-PROPMOVER_TXT_400323,Blue Medieval Horse,Blue Medieval Horse
-PROPMOVER_TXT_400324,Purple Medieval Horse,Purple Medieval Horse
-PROPMOVER_TXT_400325,Cyan Medieval Horse,Cyan Medieval Horse
-PROPMOVER_TXT_400326,Green Medieval Horse,Green Medieval Horse
-PROPMOVER_TXT_400327,Red Medieval Horse,Red Medieval Horse
-PROPMOVER_TXT_400328,Black Medieval Horse,Black Medieval Horse
-PROPMOVER_TXT_400329,Captain Luminfin,Captain Luminfin
-PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[Depths Guardian] Bunyip
-PROPMOVER_TXT_400331,[Depths Queen] Nereid,[Depths Queen] Nereid
-PROPMOVER_TXT_400332,Sovann,Sovann
-PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
-PROPMOVER_TXT_400334,Dreadfin,Dreadfin
-PROPMOVER_TXT_400335,Captain Dreadfin,Captain Dreadfin
-PROPMOVER_TXT_400336,Dreadscale,Dreadscale
-PROPMOVER_TXT_400337,Captain Dreadscale,Captain Dreadscale
-PROPMOVER_TXT_400338,Luminfin,Luminfin
-PROPMOVER_TXT_400339,Hyuna,Hyuna
-PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[Event] Christmas Aibatt
-PROPMOVER_TXT_400351,Blue Cobra,Blue Cobra
-PROPMOVER_TXT_400340,Red Christmas Gingy,Red Christmas Gingy
-PROPMOVER_TXT_400341,Green Christmas Gingy,Green Christmas Gingy
-PROPMOVER_TXT_400342,Pink Christmas Gingy,Pink Christmas Gingy
-PROPMOVER_TXT_400343,Orange Christmas Gingy,Orange Christmas Gingy
-PROPMOVER_TXT_400344,Purple Christmas Gingy,Purple Christmas Gingy
-PROPMOVER_TXT_400345,Blue Christmas Gingy,Blue Christmas Gingy
-PROPMOVER_TXT_400352,Green Little Snaky,Green Little Snaky
-PROPMOVER_TXT_400353,Purple Little Snaky,Purple Little Snaky
-PROPMOVER_TXT_400354,Pink Little Snaky,Pink Little Snaky
-PROPMOVER_TXT_400355,Blue Little Snaky,Blue Little Snaky
-PROPMOVER_TXT_400356,Red Little Snaky,Red Little Snaky
-PROPMOVER_TXT_400357,Emerald Little Snaky,Emerald Little Snaky
-PROPMOVER_TXT_400358,Black Little Snaky,Black Little Snaky
-PROPMOVER_TXT_400359,Purple Frostpaw,Purple Frostpaw
-PROPMOVER_TXT_400360,Yellow Frostpaw,Yellow Frostpaw
-PROPMOVER_TXT_400361,Blue Frostpaw,Blue Frostpaw
-PROPMOVER_TXT_400362,Green Frostpaw,Green Frostpaw
-PROPMOVER_TXT_400363,Pink Frostpaw,Pink Frostpaw
-PROPMOVER_TXT_400364,Red Frostpaw,Red Frostpaw
-PROPMOVER_TXT_400365,White Frostpaw,White Frostpaw
-PROPMOVER_TXT_400366,Black Frostpaw,Black Frostpaw
-PROPMOVER_TXT_400367,Red Roaryen,Red Roaryen
-PROPMOVER_TXT_400368,Purple Roaryen,Purple Roaryen
-PROPMOVER_TXT_400369,Blue Roaryen,Blue Roaryen
-PROPMOVER_TXT_400370,Green Roaryen,Green Roaryen
-PROPMOVER_TXT_400371,White Roaryen,White Roaryen
-PROPMOVER_TXT_400372,Black Roaryen,Black Roaryen
-PROPMOVER_TXT_001236,Mechamochi,Mechamochi
-PROPMOVER_TXT_001237,[Event] Clockworks,[Event] Clockworks
-PROPMOVER_TXT_001238,Baby Pang,Baby Pang
-PROPMOVER_TXT_400373,Lord Mothbee,Lord Mothbee
-PROPMOVER_TXT_400374,Lord Zendros,Lord Zendros
-PROPMOVER_TXT_400375,Lord Dumb Bull,Lord Dumb Bull
-PROPMOVER_TXT_400376,Lord Totemia,Lord Totemia
-PROPMOVER_TXT_400377,Lord Flybrigen,Lord Flybrigen
-PROPMOVER_TXT_400378,Lord Neparuba,Lord Neparuba
-PROPMOVER_TXT_400379,Lord Rockepeller,Lord Rockepeller
-PROPMOVER_TXT_400380,Lord Longwing,Lord Longwing
-PROPMOVER_TXT_400381,Lord Shuhamma,Lord Shuhamma
-PROPMOVER_TXT_400382,Lord Watangka,Lord Watangka
-PROPMOVER_TXT_400383,Lord Fafnir,Lord Fafnir
-PROPMOVER_TXT_400384,Lord Gorruda,Lord Gorruda
-PROPMOVER_TXT_400385,Lord Mammoth,Lord Mammoth
-PROPMOVER_TXT_400386,Ghost of the Forgotten Lord,Ghost of the Forgotten Lord
-PROPMOVER_TXT_400387,Lord Augu,Lord Augu
-PROPMOVER_TXT_400388,Overlord Kraken,Overlord Kraken
-PROPMOVER_TXT_400389,Lord Dorian,Lord Dorian
-PROPMOVER_TXT_400390,Lord Okean,Lord Okean
-PROPMOVER_TXT_400391,Lord Naga,Lord Naga
-PROPMOVER_TXT_400392,Overlord Naga,Overlord Naga
-PROPMOVER_TXT_400393,Overlord Meral,Overlord Meral
-PROPMOVER_TXT_400394,Lord Tigar,Lord Tigar
-PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,Pink Guardian Easter Bunny
-PROPMOVER_TXT_400396,Green Guardian Easter Bunny,Green Guardian Easter Bunny
-PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,Blue Guardian Easter Bunny
-PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,Orange Guardian Easter Bunny
-PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,Purple Guardian Easter Bunny
-PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,Dark Guardian Easter Bunny
-PROPMOVER_TXT_400401,Lord Yetti,Lord Yetti
-PROPMOVER_TXT_400402,Purple Pawsy,Purple Pawsy
-PROPMOVER_TXT_400403,Red Pawsy,Red Pawsy
-PROPMOVER_TXT_400404,Green Pawsy,Green Pawsy
-PROPMOVER_TXT_400405,Blue Pawsy,Blue Pawsy
-PROPMOVER_TXT_400406,Magenta Pawsy,Magenta Pawsy
-PROPMOVER_TXT_400407,Lavender Pawsy,Lavender Pawsy
-PROPMOVER_TXT_400408,Pink Pawsy,Pink Pawsy
-PROPMOVER_TXT_400409,Gray Pawsy,Gray Pawsy
-PROPMOVER_TXT_400410,Orange Flumos,Orange Flumos
-PROPMOVER_TXT_400411,Purple Flumos,Purple Flumos
-PROPMOVER_TXT_400412,Red Flumos,Red Flumos
-PROPMOVER_TXT_400413,Blue Flumos,Blue Flumos
-PROPMOVER_TXT_400414,Green Flumos,Green Flumos
-PROPMOVER_TXT_400415,Yellow Flumos,Yellow Flumos
-PROPMOVER_TXT_400416,White Flumos,White Flumos
-PROPMOVER_TXT_400417,Black Flumos,Black Flumos
-PROPMOVER_TXT_400418,Wounded Revolutionary,Wounded Revolutionary
-PROPMOVER_TXT_400419,Yellow Breezy,Yellow Breezy
-PROPMOVER_TXT_400420,Purple Breezy,Purple Breezy
-PROPMOVER_TXT_400421,Blue Breezy,Blue Breezy
-PROPMOVER_TXT_400422,Pink Breezy,Pink Breezy
-PROPMOVER_TXT_400423,White Breezy,White Breezy
-PROPMOVER_TXT_400424,Black Breezy,Black Breezy
-PROPMOVER_TXT_400425,Blue Pawsh,Blue Pawsh
-PROPMOVER_TXT_400426,Pink Pawsh,Pink Pawsh
-PROPMOVER_TXT_400427,Orange Pawsh,Orange Pawsh
-PROPMOVER_TXT_400428,Green Pawsh,Green Pawsh
-PROPMOVER_TXT_400429,Navy Pawsh,Navy Pawsh
-PROPMOVER_TXT_400430,Red Pawsh,Red Pawsh
-PROPMOVER_TXT_400431,Fortune Pang,Fortune Pang
-PROPMOVER_TXT_400432,Orange Marshall,Orange Marshall
-PROPMOVER_TXT_400433,Green Marshall,Green Marshall
-PROPMOVER_TXT_400434,Cyan Marshall,Cyan Marshall
-PROPMOVER_TXT_400435,Purple Marshall,Purple Marshall
-PROPMOVER_TXT_400436,Red Marshall,Red Marshall
-PROPMOVER_TXT_400437,Neon Marshall,Neon Marshall
-PROPMOVER_TXT_400438,Brown Strawy Jack,Brown Strawy Jack
-PROPMOVER_TXT_400439,Maroon Strawy Jack,Maroon Strawy Jack
-PROPMOVER_TXT_400440,Green Strawy Jack,Green Strawy Jack
-PROPMOVER_TXT_400441,Purple Strawy Jack,Purple Strawy Jack
-PROPMOVER_TXT_400442,Olive Strawy Jack,Olive Strawy Jack
-PROPMOVER_TXT_400443,Blue Strawy Jack,Blue Strawy Jack
-PROPMOVER_TXT_400444,Black Strawy Jack,Black Strawy Jack
-PROPMOVER_TXT_400445,White Strawy Jack,White Strawy Jack
-PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[Event] Giant Mr. Pumpkin
-PROPMOVER_TXT_400447,Green Frogzy,Green Frogzy
-PROPMOVER_TXT_400448,Yellow Frogzy,Yellow Frogzy
-PROPMOVER_TXT_400449,Pink Frogzy,Pink Frogzy
-PROPMOVER_TXT_400450,Purple Frogzy,Purple Frogzy
-PROPMOVER_TXT_400451,Cyan Frogzy,Cyan Frogzy
-PROPMOVER_TXT_400452,Mint Green Frogzy,Mint Green Frogzy
-PROPMOVER_TXT_400453,Black Frogzy,Black Frogzy
-PROPMOVER_TXT_400454,White Frogzy,White Frogzy
-PROPMOVER_TXT_400455,Orange Whispero,Orange Whispero
-PROPMOVER_TXT_400456,Yellow Whispero,Yellow Whispero
-PROPMOVER_TXT_400457,Pink Whispero,Pink Whispero
-PROPMOVER_TXT_400458,Purple Whispero,Purple Whispero
-PROPMOVER_TXT_400459,Blue Whispero,Blue Whispero
-PROPMOVER_TXT_400460,Green Whispero,Green Whispero
-PROPMOVER_TXT_400461,Black Whispero,Black Whispero
-PROPMOVER_TXT_400462,White Whispero,White Whispero
-PROPMOVER_TXT_400463,Green Mecha Rabbit,Green Mecha Rabbit
-PROPMOVER_TXT_400464,Orange Mecha Rabbi,Orange Mecha Rabbi
-PROPMOVER_TXT_400465,Red Mecha Rabbit,Red Mecha Rabbit
-PROPMOVER_TXT_400466,Pink Mecha Rabbit,Pink Mecha Rabbit
-PROPMOVER_TXT_400467,Purple Mecha Rabbi,Purple Mecha Rabbi
-PROPMOVER_TXT_400468,Blue Mecha Rabbit,Blue Mecha Rabbit
-PROPMOVER_TXT_400469,Black Mecha Rabbit,Black Mecha Rabbit
-PROPMOVER_TXT_400470,White Mecha Rabbit,White Mecha Rabbit
-PROPMOVER_TXT_400471,Hellhound,Hellhound
-PROPMOVER_TXT_500001,Kanrang,Kanrang
-PROPMOVER_TXT_500002,Mewrang,Mewrang
-PROPMOVER_TXT_500003,Relgantus,Relgantus
-PROPMOVER_TXT_500004,Huntrang,Huntrang
-PROPMOVER_TXT_500005,Mawrang,Mawrang
+PROPMOVER_TXT_100123,Obnis,Обнис
+PROPMOVER_TXT_100124,Airon,Айран
+PROPMOVER_TXT_100125,Kumah,Кумыс
+PROPMOVER_TXT_100126,Haom,Хаом
+PROPMOVER_TXT_100127,Scorched Meteonyker,Обожженный Метеоникер
+PROPMOVER_TXT_100128,Red Meteonyker,Красный Метеоникер
+PROPMOVER_TXT_100129,Baby Zendros,Призорчик
+PROPMOVER_TXT_100130,Baby Dumb Bull,Бычок
+PROPMOVER_TXT_100131,Baby Bearnerky,Грызлейчик
+PROPMOVER_TXT_100132,Yetti,Йети
+PROPMOVER_TXT_100133,Mutant Yetti,Мутант Йети
+PROPMOVER_TXT_100134,Dark Yetti,Темный Йети
+PROPMOVER_TXT_100135,Mad Yetti,Безумный Йети
+PROPMOVER_TXT_100136,Violet Yetti,Лиловый Йети
+PROPMOVER_TXT_100137,Augu,Аугу
+PROPMOVER_TXT_100138,Mutant Augu,Мутант Аугу
+PROPMOVER_TXT_100139,Ardent Augu,Пылкий Аугу
+PROPMOVER_TXT_100140,Glacial Augu,Ледниковый Аугу
+PROPMOVER_TXT_100141,Violet Augu,Лиловый Аугу
+PROPMOVER_TXT_100142,Ghost of the Forgotten Prince,Призрак забытого принца
+PROPMOVER_TXT_100143,Ghost of the Forgotten King,Призрак забытого короля
+PROPMOVER_TXT_100144,Ghost of the Forgotten Emperor,Призрак забытого императора
+PROPMOVER_TXT_100145,Ghost of the Forgotten Overlord,Призрак забытого Повелителя
+PROPMOVER_TXT_100146,Violet Ghost of the Forgotten Monarch,Лиловый Призрак забытого Монарха
+PROPMOVER_TXT_100147,Mammoth,Мамонт
+PROPMOVER_TXT_100148,Cannibal Mammoth,Мамонт Ганибал
+PROPMOVER_TXT_100149,Ancient Mammoth,Древний Мамонт
+PROPMOVER_TXT_100150,Predator Mammoth,Мамонт-хищник
+PROPMOVER_TXT_100151,Violet Mammoth,Лиловый Мамонт
+PROPMOVER_TXT_100152,Gigaka,Гигака
+PROPMOVER_TXT_100153,Mawrang,Мавроди
+PROPMOVER_TXT_100154,Miriun,Мирумирей
+PROPMOVER_TXT_100155,Auxilior,Ахульерий
+PROPMOVER_TXT_100156,Blue Alien Octopus,Синий инопланетный осьминог
+PROPMOVER_TXT_100157,Yellow Alien Octopus,Желтый инопланетный осьминог
+PROPMOVER_TXT_100158,Red Alien Octopus,Красный инопланетный осьминог
+PROPMOVER_TXT_100159,White Alien Octopus,Белый инопланетный осьминог
+PROPMOVER_TXT_100160,Green Alien Octopus,Зеленый инопланетный осьминог
+PROPMOVER_TXT_100161,Black Alien Octopus,Черный инопланетный осьминог
+PROPMOVER_TXT_100162,Baby Peakyturtle,Донателла
+PROPMOVER_TXT_100163,Baby Rock Muscle,Камчик
+PROPMOVER_TXT_100164,Baby Giggle Box,Хохотунчик
+PROPMOVER_TXT_100165,Baby Totemia,Истуканчик
+PROPMOVER_TXT_100166,Baby Fafnir,Фафнирченок
+PROPMOVER_TXT_100167,Baby Popcrank,Клоунчик
+PROPMOVER_TXT_100168,Rookie Cloudberry Carrier,Новичок-разносчик облачных ягод
+PROPMOVER_TXT_100169,Cloudberry Carrier,Перевозчик облачных ягод
+PROPMOVER_TXT_100170,Lightberry Carrier,Носитель светлых ягод
+PROPMOVER_TXT_100171,Rookie Exoberry Carrier,Перевозчик экзотических ягод-новичок
+PROPMOVER_TXT_100172,Exoberry Carrier,Перевозчик экзотических  ягод
+PROPMOVER_TXT_001068,Waforu,Вафори
+PROPMOVER_TXT_001069,Mysterious Robed Girl,Таинственная девушка в мантии
+PROPMOVER_TXT_001442,Lasa,Ласа
+PROPMOVER_TXT_100173,Baby Giant Bang,Взрывченок
+PROPMOVER_TXT_100174,Baby Burudeng,Жукченок
+PROPMOVER_TXT_100175,Baby Iren,Комарик
+PROPMOVER_TXT_100176,Baby Mushpoie,Мухоморчик
+PROPMOVER_TXT_100177,Baby Flybrigen,Хвостокольчик
+PROPMOVER_TXT_100178,Baby Nuctuvehicle,Шлакчик
+PROPMOVER_TXT_100179,Criminal Medumet,Криминальная медуза
+PROPMOVER_TXT_100180,Crystal Iphrine,Кристаллический Ифрин
+PROPMOVER_TXT_100181,Yellow Teddy Bear,Желтый плюшевый мишка
+PROPMOVER_TXT_100182,Blue Teddy Bear,Голубой плюшевый мишка
+PROPMOVER_TXT_100183,Brown Teddy Bear,Коричневый плюшевый мишка
+PROPMOVER_TXT_100184,Orange Teddy Bear,Оранжевый плюшевый мишка
+PROPMOVER_TXT_100185,Black Teddy Bear,Черный плюшевый мишка
+PROPMOVER_TXT_100186,White Teddy Bear,Белый плюшевый мишка
+PROPMOVER_TXT_100187,Baby Doridoma,Горбунок
+PROPMOVER_TXT_100188,Baby Mothbee,Мухаончик
+PROPMOVER_TXT_100189,Baby Hobo,Дрочер
+PROPMOVER_TXT_100190,Primgon,Примгон
+PROPMOVER_TXT_100191,Blue Gummy Bear,Голубой мармеладный мишка
+PROPMOVER_TXT_100192,Brown Gummy Bear,Коричневый мармеладный мишка
+PROPMOVER_TXT_100193,Pink Gummy Bear,Розовый мармеладный мишка
+PROPMOVER_TXT_100194,Red Gummy Bear,Красный мармеладный мишка
+PROPMOVER_TXT_100195,Black Gummy Bear,Черный мармеладный мишка
+PROPMOVER_TXT_100196,White Gummy Bear,Белый мармеладный мишка
+PROPMOVER_TXT_100197,Baby Wild Rabbit,Кролика Роджер
+PROPMOVER_TXT_100198,Puppy,Щенок
+PROPMOVER_TXT_100199,Furious Mr. Pumpkin,Разъяренный мистер тыквер
+PROPMOVER_TXT_100200,Deviant Mr. Pumpkin,Ненормальный мистер тыквер
+PROPMOVER_TXT_100201,Baby Winged Sheep,Крылатая овца
+PROPMOVER_TXT_100202,Teddy Bear,Медвежонок
+PROPMOVER_TXT_100203,Kitty with Yellow Umbrella,Кошечка с желтым зонтиком
+PROPMOVER_TXT_100204,Kitty with Green Umbrella,Кошечка с зеленым зонтиком
+PROPMOVER_TXT_100205,Kitty with Pink Umbrella,Кошечка с розовым зонтиком
+PROPMOVER_TXT_100206,Kitty with Purple Umbrella,Кошечка с фиолетовым зонтиком
+PROPMOVER_TXT_100207,Kitty with Beige Umbrella,Кошечка с бежевым зонтиком
+PROPMOVER_TXT_100208,Kitty with Grey Umbrella,Кошечка с серым зонтиком
+PROPMOVER_TXT_100209,Halloween Ghost,Призрак Хэллоуина
+PROPMOVER_TXT_100210,Lord Big Muscle,Лорд камнетавр
+PROPMOVER_TXT_100211,Lord Krrr,Лорд крр
+PROPMOVER_TXT_100212,Lord Mushmoot,Лорд Блуждающих грибов
+PROPMOVER_TXT_100213,Lord Meteonyker,Лорд Метеоникер
+PROPMOVER_TXT_100214,Lord Red Meteonyker,Лорд Красный Метеоникер
+PROPMOVER_TXT_100215,Lord Pumpkin,Лоррд Мистер Тыквер
+PROPMOVER_TXT_100216,Lord Lykanos,Лорд Люкан
+PROPMOVER_TXT_100217,Lord Drakul,Граф Дракула
+PROPMOVER_TXT_100219,Lord Ripper,Лорд Жнец
+PROPMOVER_TXT_100220,Lord Mia,Лорд Миа
+PROPMOVER_TXT_100221,Lord Iblis Leanes,Лорд Иблис Леанский
+PROPMOVER_TXT_100222,Violet Halloween Puppet,Фиолетовая Хэллоуинская Кукла
+PROPMOVER_TXT_100223,Orange Halloween Puppet,Оранжевая Хэллоуинская Кукла
+PROPMOVER_TXT_100224,Beige Halloween Puppet,Бежевая Хэллоуинская Кукла
+PROPMOVER_TXT_100225,Pink Halloween Puppet,Розовая Хэллоуинская Кукла
+PROPMOVER_TXT_100226,Grey Halloween Puppet,Серая Хэллоуинская Кукла
+PROPMOVER_TXT_100227,White Halloween Puppet,Белая Хэллоуинская Кукла
+PROPMOVER_TXT_100228,Sport Pop Red Tiger,Красный Тигер
+PROPMOVER_TXT_100229,Sport Pop Blue Tiger,Голубой Тигер
+PROPMOVER_TXT_100230,Sport Pop Green Tiger,Зеленый Тигер
+PROPMOVER_TXT_100231,Sport Pop Orange Tiger,Оранжевый Тигер
+PROPMOVER_TXT_100232,Sport Pop Pink Tiger,Розовый Тигер
+PROPMOVER_TXT_100233,Sport Pop Purple Tiger,Фиолетовый Тигер
+PROPMOVER_TXT_100234,Purple Disco Poodle,Фиолетовый Диско-Пудель
+PROPMOVER_TXT_100235,Green Disco Poodle,Зеленый Диско-Пудель
+PROPMOVER_TXT_100236,Orange Disco Poodle,Оранжевйы Диско-Пудель
+PROPMOVER_TXT_100237,Pink Disco Poodle,Розовый Диско-Пудель
+PROPMOVER_TXT_100238,Black Disco Poodle,Черный Диско-Пудель
+PROPMOVER_TXT_100239,Cyan Disco Poodle,Голубой Диско-Пудель
+PROPMOVER_TXT_100240,Nine Tails,Курама
+PROPMOVER_TXT_100241,Nero,Нерон
+PROPMOVER_TXT_100242,Thief Santa Monster,Вор Санто Монстров
+PROPMOVER_TXT_100243,Grumpy elf,Сварливый эльф
+PROPMOVER_TXT_100250,Blue Winter Pixie,Синея Зимняя Фея
+PROPMOVER_TXT_100251,Green Winter Pixie,Зеленая Зимняя Фея
+PROPMOVER_TXT_100252,Purple Winter Pixie,Фиолетовая Зимняя Фея
+PROPMOVER_TXT_100253,Cyan Winter Pixie,Голубая Зимняя Фея
+PROPMOVER_TXT_100254,Black Winter Pixie,Черная Зимняя Фея
+PROPMOVER_TXT_100255,White Winter Pixie,Белая Зимняя Фея
+PROPMOVER_TXT_100256,Fu Lion King,Симба
+PROPMOVER_TXT_100257,Black Winter Tiger,Черный Зимней Тигер
+PROPMOVER_TXT_100258,Pink Winter Tiger,Розовый Зимней Тигер
+PROPMOVER_TXT_100259,Green Winter Tiger,Зеленый Зимней Тигер
+PROPMOVER_TXT_100260,Purple Winter Tiger,Фиолетовый Зимней Тигер
+PROPMOVER_TXT_100261,Orange Winter Tiger,Оранжевый Зимней Тигер
+PROPMOVER_TXT_100262,Cyan Winter Tiger,Голубой Зимней Тигер
+PROPMOVER_TXT_100263,Tonge,Тонга
+PROPMOVER_TXT_100264,Fox,Лиса
+PROPMOVER_TXT_100265,Mermaid Beauty,Ведьма-глубин
+PROPMOVER_TXT_100266,Overgrown Shark,Акула-переросток
+PROPMOVER_TXT_100267,Grunt Gorilla,Хрюкающая горилла
+PROPMOVER_TXT_100268,Overgrown Spider,Спайдопс
+PROPMOVER_TXT_100269,Temple Guardian,Страж храма
+PROPMOVER_TXT_100270,Sentient Tree Warrior,Разумный древесный воин
+PROPMOVER_TXT_100271,Old Rut,Старый корень
+PROPMOVER_TXT_100244,Skeletal Militant,Воинственный скелет
+PROPMOVER_TXT_100245,Crystal Demon Lord,Хрустальный демон лорд
+PROPMOVER_TXT_100246,Great Kraken,Великий Ктулху
+PROPMOVER_TXT_100247,Siren,Сирена
+PROPMOVER_TXT_100248,Lurking Merman,Луркер
+PROPMOVER_TXT_100249,Cunning Merman,Хитрый водяной
+PROPMOVER_TXT_001198,Great Catsy,Огромная кошка-жена
+PROPMOVER_TXT_001200,Great Harpy,Огромная гарпия
+PROPMOVER_TXT_001202,Great Gullah,Огромный тини
+PROPMOVER_TXT_001204,Great Abraxas,Огромный аспид
+PROPMOVER_TXT_001206,Great Hague,Огромная ведьма
+PROPMOVER_TXT_001208,Great Tengu,Огромный тенгу
+PROPMOVER_TXT_001210,Great Asterius,Огромный астарион
+PROPMOVER_TXT_001212,Great Dantalian,Огромный колдун
+PROPMOVER_TXT_001214,Great Gannessa,Огромный ганеш
+PROPMOVER_TXT_001216,Great Asuras,Огромный асурас
+PROPMOVER_TXT_001180,Small Nyx,Маленькая никс
+PROPMOVER_TXT_001182,Nyx,Никс
+PROPMOVER_TXT_001184,Captain Nyx,Капитан еикс
+PROPMOVER_TXT_001186,Asmodan,Асмодан
+PROPMOVER_TXT_001100,Small Harpy,Маленькая гарпия
+PROPMOVER_TXT_001102,Harpy,Гарпия
+PROPMOVER_TXT_001104,Captain Harpy,Капитан гарпия
+PROPMOVER_TXT_001106,Giant Harpy,Гигантская гарпия
+PROPMOVER_TXT_001108,Small Gullah,Маленький тини
+PROPMOVER_TXT_001110,Gullah,Тини
+PROPMOVER_TXT_001112,Captain Gullah,Капитан тини
+PROPMOVER_TXT_001114,Giant Gullah,Гигантский тини
+PROPMOVER_TXT_001116,Small Abraxas,Маленький аспид
+PROPMOVER_TXT_001118,Abraxas,Аспид
+PROPMOVER_TXT_001120,Captain Abraxas,Капитан аспид
+PROPMOVER_TXT_001122,Giant Abraxas,Гигантский аспид
+PROPMOVER_TXT_001124,Маленькая ведьма,Small Hague
+PROPMOVER_TXT_001126,Hague,Ведьма
+PROPMOVER_TXT_001128,Captain Hague,Капитан ведьма
+PROPMOVER_TXT_001130,Giant Hague,Гигантская ведьма
+PROPMOVER_TXT_001132,Small Tengu,Маленький тенго
+PROPMOVER_TXT_001134,Tengu,Тенго
+PROPMOVER_TXT_001136,Captain Tengu,Капитан тенго
+PROPMOVER_TXT_001138,Giant Tengu,Гигантский тенго
+PROPMOVER_TXT_001140,Small Asterius,Маленький астарион
+PROPMOVER_TXT_001142,Asterius,Астарион
+PROPMOVER_TXT_001144,Captain Asterius,Капитан астарион
+PROPMOVER_TXT_001146,Giant Asterius,Гигантский астарион
+PROPMOVER_TXT_001148,Small Dantalian,Маленький колдун
+PROPMOVER_TXT_001150,Dantalian,Колдун
+PROPMOVER_TXT_001152,Captain Dantalian,Капитан колдун
+PROPMOVER_TXT_001154,Giant Dantalian,Гигантский колдун
+PROPMOVER_TXT_001156,Small Gannessa,Маленький ганеш
+PROPMOVER_TXT_001158,Gannessa,Ганеш
+PROPMOVER_TXT_001160,Captain Gannessa,Капитан ганеш
+PROPMOVER_TXT_001162,Giant Gannessa,Гигантский ганеш
+PROPMOVER_TXT_001164,Small Asuras,Маленький асурас
+PROPMOVER_TXT_001166,Asuras,Асурас
+PROPMOVER_TXT_001168,Captain Asuras,Капитан асурас
+PROPMOVER_TXT_001170,Giant Asuras,Гигантский асурас
+PROPMOVER_TXT_001172,Small Catsy,Маленькая кошка-жена
+PROPMOVER_TXT_001174,Catsy,Кошка-жена
+PROPMOVER_TXT_001176,Giant Catsy,Гигантская кошка-жена
+PROPMOVER_TXT_001178,Captain Catsy,Капитан кошка-жена
+PROPMOVER_TXT_001218,Knight 2,Рыцарь 2
+PROPMOVER_TXT_001220,Knight 1,Рыцарь 1
+PROPMOVER_TXT_001221,Queen Long Legs,Королева длинно-ног
+PROPMOVER_TXT_001222,Nightmist Empress,Императрица ночных туманов
+PROPMOVER_TXT_001223,Bolt Otem,Часть забора
+PROPMOVER_TXT_001224,Overgrown Broodmother,Мать выводка
+PROPMOVER_TXT_001225,Spiderling,Паучок
+PROPMOVER_TXT_001226,Enraged Gorilla,Разъяренная горилла
+PROPMOVER_TXT_001227,Sentient Tree Guardian,Разумный хранитель деревьев
+PROPMOVER_TXT_001228,Regal Kumai,Царственный странник
+PROPMOVER_TXT_001229,Enchanted Rider,Заколдованный всадник
+PROPMOVER_TXT_001230,Enchanted Shaman,Заколдованный шаман
+PROPMOVER_TXT_001231,Enchanted AI,Заколдованный искусственный интеллект
+PROPMOVER_TXT_001232,Pyramid Keeper,Хранитель пирамиды
+PROPMOVER_TXT_001233,Pyramid Guardian,Страж пирамиды
+PROPMOVER_TXT_001234,Defense Otem,Часть защитного забора
+PROPMOVER_TXT_001235,Skeleton General,Скелет генерал
+PROPMOVER_TXT_230001,Enraged Yetti,Разъяренный Йетти
+PROPMOVER_TXT_230002,Frozen Hare Guard,Охранник обмороженный заяц
+PROPMOVER_TXT_230003,Saphyryan Hound,Сапфирийская гончая
+PROPMOVER_TXT_230004,Deep Cave Gorilla,Глубинная пещерная горилла
+PROPMOVER_TXT_230005,Caveman Chief,Вождь пещерных существ
+PROPMOVER_TXT_230006,Cavern Larva,Пещерная личинка
+PROPMOVER_TXT_230007,Radioactive Long Legs,Радиоактивные длинно-ног
+PROPMOVER_TXT_230008,Cavern Nightmist,Ночное существо пещеры
+PROPMOVER_TXT_230009,Frozen Hare Assassin,Обмороженный заяц-убийца
+PROPMOVER_TXT_230010,Giant Turtle,Гигантская черепаха
+PROPMOVER_TXT_230011,Kraken Spawn,Отродье ктулху
+PROPMOVER_TXT_010000,Orange Sleeping Fox,Оранжевая спящая лиса
+PROPMOVER_TXT_010001,Black Sleeping Fox,Черная спящая лиса
+PROPMOVER_TXT_010002,Blue Sleeping Fox,Синея спящая лиса
+PROPMOVER_TXT_010003,Green Sleeping Fox,Зеленая спящая лиса
+PROPMOVER_TXT_010004,Pink Sleeping Fox,Розовая спящая лиса
+PROPMOVER_TXT_010005,Purple Sleeping Fox,Фиолетовая спящая лиса
+PROPMOVER_TXT_010006,White Sleeping Fox,Белая спящая лиса
+PROPMOVER_TXT_110000,Pink Valentine's Bear,Розовый мишка на день святого валентина
+PROPMOVER_TXT_110001,White Valentine's Bear,Белый мишка на день святого валентина
+PROPMOVER_TXT_110002,Dark Valentine's Bear,Чёрный мишка на день святого валентина
+PROPMOVER_TXT_110003,Orange Valentine's Bear,Оранжевый мишка на день святого валентина
+PROPMOVER_TXT_110004,Green Valentine's Bear,Зеленый мишка на день святого валентина
+PROPMOVER_TXT_110005,Purple Valentine's Bear,Фиолетовый мишка на день святого валентина
+PROPMOVER_TXT_110006,Pink Little Cacti,Розовый кактус
+PROPMOVER_TXT_110007,Green Little Cacti,Зеленый кактус
+PROPMOVER_TXT_110008,Purple Little Cacti,Фиолетовый кактус
+PROPMOVER_TXT_110009,Orange Little Cacti,Оранжевый кактус
+PROPMOVER_TXT_110010,Red Little Cacti,Красный кактус
+PROPMOVER_TXT_110011,Cyan Little Cacti,Голубой кактус
+PROPMOVER_TXT_110012,Phantom General,Призрачный генерал
+PROPMOVER_TXT_110013,Golden Aibatt,Золотой сглаз
+PROPMOVER_TXT_110014,Pink Modern Sports Bear,Розовый современный спортивный мишка
+PROPMOVER_TXT_110015,Blue Modern Sports Bear,Синей современный спортивный мишка
+PROPMOVER_TXT_110016,Green Modern Sports Bear,Зеленый современный спортивный мишка
+PROPMOVER_TXT_110017,Purple Modern Sports Bear,Фиолетовый современный спортивный мишка
+PROPMOVER_TXT_110018,Dark Modern Sports Bear,Черный современный спортивный мишка
+PROPMOVER_TXT_110019,Light Modern Sports Bear,Светлый современный спортивный мишка
+PROPMOVER_TXT_110020,Pink Easter Bunny,Розовый пасхальный кролик
+PROPMOVER_TXT_110021,Pink Future Robot,Розовый робот будущего
+PROPMOVER_TXT_110022,Purple Future Robot,Фиолетовый робот будущего
+PROPMOVER_TXT_110023,Cyan Future Robot,Голубой робот будущего
+PROPMOVER_TXT_110024,Dark Future Robot,Черный робот будущего
+PROPMOVER_TXT_110025,Green Future Robot,Зеленый робот будущего
+PROPMOVER_TXT_110026,Blue Future Robot,Синей робот будущего
+PROPMOVER_TXT_110027,Flying Egg,Летающая яйцо
+PROPMOVER_TXT_110028,Eggcellent,Яичный желток
+PROPMOVER_TXT_110029,Blue Flying Bunny,Синий летающий кролик
+PROPMOVER_TXT_110030,Green Flying Bunny,Зеленый летающий кролик
+PROPMOVER_TXT_110031,Pink Flying Bunny,Розовый летающий кролик
+PROPMOVER_TXT_110032,Purple Flying Bunny,Фиолетовый летающий кролик
+PROPMOVER_TXT_110033,Brown Flying Bunny,Коричневый летающий кролик
+PROPMOVER_TXT_110034,Black Flying Bunny,Черный летающий кролик
+PROPMOVER_TXT_110035,White Flying Bunny,Белый летающий кролик
+PROPMOVER_TXT_110036,Hantiger,Охотник на тигров
+PROPMOVER_TXT_110037,Galaxy Scout,Разведчик галактики
+PROPMOVER_TXT_110038,Blue Hat Bunny,Кролик в синей шляпе
+PROPMOVER_TXT_110039,Dark Hat Bunny,Кролик в черный шляпе
+PROPMOVER_TXT_110040,Green Hat Bunny,Кролик в зеленей шляпе
+PROPMOVER_TXT_110041,Orange Hat Bunny,Кролик в оранжевый шляпе
+PROPMOVER_TXT_110042,Pink Hat Bunny,Кролик в розовый шляпе
+PROPMOVER_TXT_110043,Purple Hat Bunny,Кролик в фиолетовый шляпе
+PROPMOVER_TXT_110044,Black Hat Bunny,Кролик в черный шляпе
+PROPMOVER_TXT_110045,White Hat Bunny,Кролик в белый шляпе
+PROPMOVER_TXT_110047,Gold Skeleton,Золотой скелет
+PROPMOVER_TXT_110048,Birthday Baker,Пекарь на день рождения
+PROPMOVER_TXT_110049,White Stripe Purple Bear,Фиолетовый медведь в белую полоску
+PROPMOVER_TXT_110050,White Stripe Blue Bear,Синей медведь в белую полоску
+PROPMOVER_TXT_110051,White Stripe Green Bear,Зеленый медведь в белую полоску
+PROPMOVER_TXT_110052,White Stripe Orange Bear,Оранжевый медведь в белую полоску
+PROPMOVER_TXT_110053,White Stripe Pink Bear,Розовый медведь в белую полоску
+PROPMOVER_TXT_110054,White Stripe Black Bear,Черный медведь в белую полоску
+PROPMOVER_TXT_110055,White Stripe White Bear,Белый медведь в белую полоску
+PROPMOVER_TXT_110056,Lord Manager,Лорд-управляющий
+PROPMOVER_TXT_110057,Black Japanese Piggy,Черная японская свинка
+PROPMOVER_TXT_110058,Purple Japanese Piggy,Фиолетовая японская свинка
+PROPMOVER_TXT_110059,Blue Japanese Piggy,Синея японская свинка
+PROPMOVER_TXT_110060,Light Red Japanese Piggy,Светла-красная японская свинка
+PROPMOVER_TXT_110061,Orange Japanese Piggy,Оранжевая японская свинка
+PROPMOVER_TXT_110062,White Japanese Piggy,Белая японская свинка
+PROPMOVER_TXT_110063,Light Japanese Piggy,Светлая японская свинка
+PROPMOVER_TXT_110064,Baby Carrierbomb,Бомботитушка
+PROPMOVER_TXT_110065,Baby Fefern,Крыжорничек
+PROPMOVER_TXT_110066,Baby Wheelem,Ушатроник
+PROPMOVER_TXT_110067,Gacha Machine,Гача-машин
+PROPMOVER_TXT_110068,Skating Cat,Кот в коньках
+PROPMOVER_TXT_110069,Bach,Бах
+PROPMOVER_TXT_110070,Neo Purple Robot,Нео фиолетовый робот
+PROPMOVER_TXT_110071,Neo Green Robot,Нео зеленый робот
+PROPMOVER_TXT_110072,Neo Orange Robot,Нео оранжевый робот
+PROPMOVER_TXT_110073,Neo Yellow Robot,Нео желтый робот
+PROPMOVER_TXT_110074,Neo Black Robot,Нео черный робот
+PROPMOVER_TXT_110075,Neo White Robot,Нео белый робот
+PROPMOVER_TXT_110076,Pink Flying Froggy,Розовая летающая лягушка
+PROPMOVER_TXT_110077,Green Flying Froggy,Зеленая летающая лягушка
+PROPMOVER_TXT_110078,Purple Flying Froggy,Фиолетовая летающая лягушка
+PROPMOVER_TXT_110079,Red Flying Froggy,Красная летающая лягушка
+PROPMOVER_TXT_110080,Black Flying Froggy,Черная летающая лягушка
+PROPMOVER_TXT_110081,Blue Flying Froggy,Синея летающая лягушка
+PROPMOVER_TXT_002016,Rex Potato,Картофельный Рекс
+PROPMOVER_TXT_002017,Prince Potato,Картофельный принц
+PROPMOVER_TXT_002159,Private Leo,Рядовой Лео
+PROPMOVER_TXT_002160,Noah,Ной
+PROPMOVER_TXT_110082,Draco,Драко
+PROPMOVER_TXT_110083,Pink Axolotl,Розовый аксолотль
+PROPMOVER_TXT_110084,Yellow Axolotl,Желтый аксолотль
+PROPMOVER_TXT_110085,Purple Axolotl,Фиолетовый аксолотль
+PROPMOVER_TXT_110086,Blue Axolotl,Синей аксолотль
+PROPMOVER_TXT_110087,Red Axolotl,Красный аксолотль
+PROPMOVER_TXT_110088,Black Axolotl,Черный аксолотль
+PROPMOVER_TXT_110089,Traveling Merchant,Странствующий торговец
+PROPMOVER_TXT_110046,Red Spirit Dragon,Красный дух дракона
+PROPMOVER_TXT_110090,Green Spirit Dragon,Зеленый дух дракона
+PROPMOVER_TXT_110091,Yellow Spirit Dragon,Желтый дух дракона
+PROPMOVER_TXT_400000,Andrew,Эндрю
+PROPMOVER_TXT_110092,Molu,Молу
+PROPMOVER_TXT_110093,Blue Flying Sheep,Синея летающая овца
+PROPMOVER_TXT_110094,Yellow Flying Sheep,Желтая летающая овца
+PROPMOVER_TXT_110095,Red Flying Sheep,Красная летающая овца
+PROPMOVER_TXT_110096,Purple Flying Sheep,Фиолетовая летающая овца
+PROPMOVER_TXT_110097,Pink Flying Sheep,Розовая летающая овца
+PROPMOVER_TXT_110098,Black Flying Sheep,Черная летающая овца
+PROPMOVER_TXT_110100,Silver Aibatt,Серебряный сглаз
+PROPMOVER_TXT_110151,Purple Floating Oni,Фиолетовый плавающий Они
+PROPMOVER_TXT_110152,Blue Floating Oni,Синей плавающий Они
+PROPMOVER_TXT_110153,Green Floating Oni,Зеленый плавающий Они
+PROPMOVER_TXT_110154,Red Floating Oni,Красный плавающий Они
+PROPMOVER_TXT_110155,Ice Blue Floating Oni,Ледино-синей плавающий Они
+PROPMOVER_TXT_110156,Black Floating Oni,Черный плавающий Они
+PROPMOVER_TXT_110157,Orange Witch Cat,Оранжевый плавающий Они
+PROPMOVER_TXT_110158,Purple Witch Cat,Фиолетовая кошка-ведьма
+PROPMOVER_TXT_110159,Green Witch Cat,Зеленая кошка-ведьма
+PROPMOVER_TXT_110160,Red Witch Cat,Красная кошка-ведьма
+PROPMOVER_TXT_110161,Blue Witch Cat,Синея кошка-ведьма
+PROPMOVER_TXT_110162,White Witch Cat,Белая кошка-ведьма
+PROPMOVER_TXT_110163,Purple Phantocat,Фиолетовй призрачный кот
+PROPMOVER_TXT_110164,Blue Phantocat,Синей призрачный кот
+PROPMOVER_TXT_110165,Green Phantocat,Зеленый призрачный кот
+PROPMOVER_TXT_110166,Black Phantocat,Черный призрачный кот
+PROPMOVER_TXT_110167,Red Phantocat,Красный призрачный кот
+PROPMOVER_TXT_110168,White Phantocat,Белый призрачный кот
+PROPMOVER_TXT_210093,Prismatic Cobra,Призматическая кобра
+PROPMOVER_TXT_210094,Twinstrike Cobra,Кобра с двойным ударом
+PROPMOVER_TXT_210095,Tanuki Enforcer,Воин Тануки
+PROPMOVER_TXT_210096,Tanuki Protector,Защитник Тануки
+PROPMOVER_TXT_210097,Wildwood Stalker,Сталкер из дикого леса
+PROPMOVER_TXT_210098,Wildwood Chieftain,Вождь Дикого леса
+PROPMOVER_TXT_210099,Beast King Khan,Шервала
+PROPMOVER_TXT_210100,Small Kingster,Маленький король лобстер
+PROPMOVER_TXT_110101,Kingster,Король лобстер
+PROPMOVER_TXT_110102,Captain Kingster,Капитан король лобстер
+PROPMOVER_TXT_110103,Small Kraken,Маленький ктулху 
+PROPMOVER_TXT_110104,Kraken,Ктулху 
+PROPMOVER_TXT_110105,Captain Kraken,Капитан ктулху 
+PROPMOVER_TXT_110106,Small Creper,Маленький крабик
+PROPMOVER_TXT_110107,Creper,Крабик
+PROPMOVER_TXT_110108,Captain Creper,Капитан крабик
+PROPMOVER_TXT_110109,Small Naga,Маленькая нага
+PROPMOVER_TXT_110110,Naga,Нага
+PROPMOVER_TXT_110111,Captain Naga,Капитан нага
+PROPMOVER_TXT_110112,Small Atrox,Маленький таракан
+PROPMOVER_TXT_110113,Atrox,Таракан
+PROPMOVER_TXT_110114,Captain Atrox,Капитан таракан
+PROPMOVER_TXT_110115,Small Okean,Маленькая жижа
+PROPMOVER_TXT_110116,Okean,Жижа
+PROPMOVER_TXT_110117,Captain Okean,Капитан жижа
+PROPMOVER_TXT_110118,Small Tigar,Маленький тигр
+PROPMOVER_TXT_110119,Tigar,Тигр
+PROPMOVER_TXT_110120,Captain Tigar,Капитан тигр
+PROPMOVER_TXT_110121,Small Dorian,Маленькая рыбка дориан
+PROPMOVER_TXT_110122,Dorian,Рыбка дориан
+PROPMOVER_TXT_110123,Captain Dorian,Капитан рыбка дориан
+PROPMOVER_TXT_110124,Small Meral,Маленький пират
+PROPMOVER_TXT_110125,Meral,Пират
+PROPMOVER_TXT_110126,Captain Meral,Капитан пират
+PROPMOVER_TXT_110127,Giant Kingster,Гигантский король лобстер
+PROPMOVER_TXT_110128,Giant Kraken,Гигантский ктулху
+PROPMOVER_TXT_110129,Giant Creper,Гигантский крабик
+PROPMOVER_TXT_110130,Giant Naga,Гигантская нага
+PROPMOVER_TXT_110131,Giant Atrox,Гигантский таракан
+PROPMOVER_TXT_110132,Giant Okean,Гигантская жижа
+PROPMOVER_TXT_110133,Giant Tigar,Гигантский тигр
+PROPMOVER_TXT_110134,Giant Dorian,Гигантская рыбка дориан
+PROPMOVER_TXT_110135,Giant Meral,Гигантский пират
+PROPMOVER_TXT_110136,Violet Kingster,Лиловый король лобстер
+PROPMOVER_TXT_110137,Violet Kraken,Лиловый ктулху
+PROPMOVER_TXT_110138,Violet Creper,Лиловый крабик
+PROPMOVER_TXT_110139,Violet Naga,Лиловая нага
+PROPMOVER_TXT_110140,Violet Atrox,Лиловый таракан
+PROPMOVER_TXT_110141,Violet Okean,Лиловая жижа
+PROPMOVER_TXT_110142,Violet Tigar,Лиловый тигр
+PROPMOVER_TXT_110143,Violet Dorian,Лиловая рыбка дориан
+PROPMOVER_TXT_110144,Violet Meral,Лиловый пират
+PROPMOVER_TXT_110145,Blue Flying Sheep,Синея летающая овца
+PROPMOVER_TXT_110146,Yellow Flying Sheep,Желтая летающая овца
+PROPMOVER_TXT_110147,Red Flying Sheep,Красная летающая овца
+PROPMOVER_TXT_110148,Purple Flying Sheep,Фиолетовая летающая овца
+PROPMOVER_TXT_110149,Pink Flying Sheep,Розовая летающая овца
+PROPMOVER_TXT_110150,Black Flying Sheep,Черная летающая овца
+PROPMOVER_TXT_210151,Rainbow Race Officer,Офицер по радужным гонкам
+PROPMOVER_TXT_210152,Water Totem Pole,Водяной тотемный столб
+PROPMOVER_TXT_210153,Wind Totem Pole,Тотемный столб ветра
+PROPMOVER_TXT_210154,Earth Totem Pole,Земляной тотемный столб
+PROPMOVER_TXT_210155,Fire Totem Pole,Огненный тотемный столб
+PROPMOVER_TXT_210156,Electric Totem Pole,Электрический тотемный столб
+PROPMOVER_TXT_210157,Twinstrike Den Mother,Матерь двойного удара
+PROPMOVER_TXT_210158,The Wilds Guard,Страж Дикой природы
+PROPMOVER_TXT_210159,Pau Pau,Пау-Пау
+PROPMOVER_TXT_210160,Kammie,Камми
+PROPMOVER_TXT_210161,BoBu,БоБу
+PROPMOVER_TXT_210162,Talus,Талос
+PROPMOVER_TXT_210163,Inventor Remi,Изобретатель Реми
+PROPMOVER_TXT_210164,Sunny Pang,Солнечный пингвин
+PROPMOVER_TXT_210165,'s Artifact,Этот артефакт
+PROPMOVER_TXT_210166,Tanuki Trainee,Стажер Тануки
+PROPMOVER_TXT_210167,Wildwood Shaman,Шаман дикого леса
+PROPMOVER_TXT_001312,Charlie,Чарли
+PROPMOVER_TXT_210168,Red Patrol Dog,Красная патрульная собака
+PROPMOVER_TXT_210169,Purple Patrol Dog,Фиолетвоая патрульная собака
+PROPMOVER_TXT_210170,Cyan Patrol Dog,Голубая патрульная собака
+PROPMOVER_TXT_210171,Blue Patrol Dog,Синея патрульная собака
+PROPMOVER_TXT_210172,Black Patrol Dog,Черная патрульная собака
+PROPMOVER_TXT_210173,White Patrol Dog,Белая патрульная собака
+PROPMOVER_TXT_110169,Wild Turkey,Дикая индейка
+PROPMOVER_TXT_210174,Red Rolling Clown,Красный катающийся клоун
+PROPMOVER_TXT_210175,Purple Rolling Clown,Фиолетовый катающийся клоун
+PROPMOVER_TXT_210176,Green Rolling Clown,Зеленый катающийся клоун
+PROPMOVER_TXT_210177,Pink Rolling Clown,Розовый катающийся клоун
+PROPMOVER_TXT_210178,Blue Rolling Clown,Синей катающийся клоун
+PROPMOVER_TXT_210179,White Rolling Clown,Белый катающийся клоун
+PROPMOVER_TXT_001313,Thief Santa,Крампус
+PROPMOVER_TXT_001314,Santa,Санта
+PROPMOVER_TXT_400001,Red Snowman,Красный снеговик
+PROPMOVER_TXT_400002,Purple Snowman,Фиолетовый снеговик
+PROPMOVER_TXT_400003,Pink Snowman,Розовый снеговик
+PROPMOVER_TXT_400004,Green Snowman,Зеленый снеговик
+PROPMOVER_TXT_400005,Blue Snowman,Синей снеговик
+PROPMOVER_TXT_400006,Black Snowman,Черный снеговик
+PROPMOVER_TXT_400007,Red Snowy Cat,Красный манул
+PROPMOVER_TXT_400008,Pink Snowy Cat,Розовый манул
+PROPMOVER_TXT_400009,Green Snowy Cat,Зеленый манул
+PROPMOVER_TXT_400010,Blue Snowy Cat,Синей манул
+PROPMOVER_TXT_400011,Purple Snowy Cat,Фиолетовый манул
+PROPMOVER_TXT_400012,Black Snowy Cat,Черный манул
+PROPMOVER_TXT_400013,Blue Wonderful Dog,Синея чудесная собака
+PROPMOVER_TXT_400014,Pink Wonderful Dog,Розовая чудесная собака
+PROPMOVER_TXT_400015,Green Wonderful Dog,Зеленая чудесная собака
+PROPMOVER_TXT_400016,Yellow Wonderful Dog,Желтая чудесная собака
+PROPMOVER_TXT_400017,Purple Wonderful Dog,Фиолетовая чудесная собака
+PROPMOVER_TXT_400018,Red Wonderful Dog,Красная чудесная собака
+PROPMOVER_TXT_001316,Guest Book,Гостевая книга
+PROPMOVER_TXT_001315,Kalgas,Калгас
+PROPMOVER_TXT_001317,Artifact,Артефакт
+PROPMOVER_TXT_400019,Brown Cub,Коричневый детеныш
+PROPMOVER_TXT_400020,Purple Cub,Фиолетовый детеныш
+PROPMOVER_TXT_400021,Blue Cub,Синей детеныш
+PROPMOVER_TXT_400022,Green Cub,Зеленый детеныш
+PROPMOVER_TXT_400023,White Cub,Белый детеныш
+PROPMOVER_TXT_400024,Black Cub,Черный детеныш
+PROPMOVER_TXT_400025,Event Greemong,Событие Гримонг
+PROPMOVER_TXT_400200,[Event] Giant Wagsaac,[Событие] Гигантский злопух
+PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[Событие] Гигантский Кувалда Джек
+PROPMOVER_TXT_400202,[Event] Giant Bucrow,[Событие] Гигантский Тавродемон
+PROPMOVER_TXT_400203,[Event] Giant Totemia,[Событие] Гигантский Истукан
+PROPMOVER_TXT_400204,[Event] Giant Wheelem,[Событие] Гигантский Ушатрон
+PROPMOVER_TXT_400205,[Event] Giant Hoppre,[Событие] Гигантская Саранча
+PROPMOVER_TXT_400206,[Event] Giant Mushpoie,[Событие] Гигантский блуждающий гриб
+PROPMOVER_TXT_400207,[Event] Giant Watangka,[Событие] Гигантский Ватангка
+PROPMOVER_TXT_400208,[Event] Giant Fafnir,[Событие] Гигантский Фафнир
+PROPMOVER_TXT_400209,[Event] Giant Gorruda,[Событие] Гигантский Злокрыл
+PROPMOVER_TXT_400210,[Event] Giant Medumet,[Событие] Гигантская Медуза
+PROPMOVER_TXT_400211,[Event] Glacial Augu,[Событие] Гигантская Аугу
+PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[Событие] Гигантский Призрачный забытый повелитель
+PROPMOVER_TXT_400213,[Event] Giant Asuras,[Событие] Гигантский Giant Asuras
+PROPMOVER_TXT_400214,[Event] Giant Tigar,[Событие] Гигантский Giant Tigar
+PROPMOVER_TXT_400215,[Event] Captain Flybat,[Событие] Капитан Циклопырей 
+PROPMOVER_TXT_400216,[Event] Mr. Pumpkin,[Событие] Мистер Тыквер
+PROPMOVER_TXT_400217,[Event] Dumb Bull,[Событие] Быказа-рогаза
+PROPMOVER_TXT_400218,[Event] Scorpicon,[Событие] Скорпион
+PROPMOVER_TXT_400219,[Event] Wheelem,[Событие] Ушатрон
+PROPMOVER_TXT_400220,[Event] Steel Knight,[Событие] Стальной рыцарь
+PROPMOVER_TXT_400221,[Event] Driller,[Событие] Бурильщик
+PROPMOVER_TXT_400222,[Event] Captian Volt,[Событие] Капитан Вольт
+PROPMOVER_TXT_400223,[Event] Greemong,[Событие] Илий
+PROPMOVER_TXT_400224,[Event] Iren,[Событие] Комарище
+PROPMOVER_TXT_400225,[Event] Watangka,[Событие] Ватангка
+PROPMOVER_TXT_400226,[Event] Small Antiquery,[Событие] Маленькое древо
+PROPMOVER_TXT_400227,[Event] Antiquery,[Событие] Древо
+PROPMOVER_TXT_400228,[Event] Luia,[Событие] Лавлин
+PROPMOVER_TXT_400229,[Event] Small Gongury,[Событие] Маленькая Электро Мышь
+PROPMOVER_TXT_400230,[Event] Harpy,[Событие] Гарпия
+PROPMOVER_TXT_400231,[Event] Kern,[Событие] Вогробущик
+PROPMOVER_TXT_400232,[Event] Small Medumet,[Событие] Маленькая Медуза
+PROPMOVER_TXT_400233,[Event] Yetti,[Событие] Йети
+PROPMOVER_TXT_400234,[Event] Small Dantalian,[Событие] Маленький Колдун
+PROPMOVER_TXT_400235,[Event] Mutant Augu,[Событие] Мутант Аугу
+PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[Событие] Призрачный забытый король
+PROPMOVER_TXT_400237,[Event] Small Asuras,[Событие] Маленький Асурас
+PROPMOVER_TXT_400238,[Event] Mammoth,[Событие] Мамонт
+PROPMOVER_TXT_400239,[Event] Asuras,[Событие] асурас
+PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[Событие] Мамонт Ганибал
+PROPMOVER_TXT_400241,[Event] Meral,[Событие] Пират
+PROPMOVER_TXT_400026,Blue Pixel Rabbit,Синий пиксельный кролик
+PROPMOVER_TXT_400027,Red Pixel Rabbit,Красный пиксельный кролик
+PROPMOVER_TXT_400028,Green Pixel Rabbit,Зеленый пиксельный кролик
+PROPMOVER_TXT_400029,Pink Pixel Rabbit,Розовый пиксельный кролик
+PROPMOVER_TXT_400030,Purple Pixel Rabbit,Фиолетовый пиксельный кролик
+PROPMOVER_TXT_400031,Yellow Pixel Rabbit,Желтый пиксельный кролик
+PROPMOVER_TXT_001319,[Event] Leyena,[Событие] Лиена
+PROPMOVER_TXT_001321,[Event] Giant Kraken,[Событие] Гигантский Ктулху
+PROPMOVER_TXT_400032,[Event] Giggle Box,[Событие] Хохотун
+PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[Событие] Лиловый Хохотун
+PROPMOVER_TXT_400034,Fox Spirit,Дух лисы
+PROPMOVER_TXT_400035,Ninja Toad,Жаба-ниндзя
+PROPMOVER_TXT_400036,Steambot,Паровой робот
+PROPMOVER_TXT_400037,White Lion,Белый лев
+PROPMOVER_TXT_400038,Phio,Фио
+PROPMOVER_TXT_400242,Black Anniversary Cat,Черный юбилейный кот
+PROPMOVER_TXT_400243,Purple Anniversary Cat,Фиолетовый юбилейный кот
+PROPMOVER_TXT_400244,Pink Anniversary Cat,Розовый юбилейный кот
+PROPMOVER_TXT_400245,Green Anniversary Cat,Зеленый юбилейный кот
+PROPMOVER_TXT_400246,Cyan Anniversary Cat,Голубой юбилейный кот
+PROPMOVER_TXT_400247,Blue Anniversary Cat,Синей юбилейный кот
+PROPMOVER_TXT_400248,White Anniversary Cat,Белый юбилейный кот
+PROPMOVER_TXT_400249,Lord Trangfoma,Лорд дезинфектор
+PROPMOVER_TXT_400250,Shadow of Clockworks,Тень часового механизма
+PROPMOVER_TXT_400251,Blue Magical Toad,Синяя волшебная жаба
+PROPMOVER_TXT_400252,Pink Magical Toad,Розовая волшебная жаба
+PROPMOVER_TXT_400253,Orange Magical Toad,Оранжевая волшебная жаба
+PROPMOVER_TXT_400254,Green Magical Toad,Зеленая волшебная жаба
+PROPMOVER_TXT_400255,Red Magical Toad,Красная волшебная жаба
+PROPMOVER_TXT_400256,Dark Magical Toad,Черная волшебная жаба
+PROPMOVER_TXT_400258,[Event] Creper,[События] Крабик
+PROPMOVER_TXT_400259,[Event] Violet Creper,[События] Лиловый крабик
+PROPMOVER_TXT_400260,Red Earless Seal,Красный тюлень без уха
+PROPMOVER_TXT_400261,Purple Earless Seal,Фиолетовый тюлень без уха
+PROPMOVER_TXT_400262,Burgundy Earless Seal,Бордовый тюлень без уха
+PROPMOVER_TXT_400263,Pink Earless Seal,Розовый тюлень без уха
+PROPMOVER_TXT_400264,Orange Earless Seal,Оранжевый тюлень без уха
+PROPMOVER_TXT_400265,Blue Earless Seal,Голубой тюлень без уха
+PROPMOVER_TXT_400266,White Earless Seal,Белый тюлень без уха
+PROPMOVER_TXT_400267,Brown Butterflies,Коричневые бабочки
+PROPMOVER_TXT_400268,Purple Butterflies,Фиолетовые бабочки
+PROPMOVER_TXT_400269,Green Butterflies,Зеленые бабочки
+PROPMOVER_TXT_400270,Pink Butterflies,Розовые бабочки
+PROPMOVER_TXT_400271,Red Butterflies,Красные бабочки
+PROPMOVER_TXT_400272,White Butterflies,Белые бабочки
+PROPMOVER_TXT_400273,Black Butterflies,Черные бабочки
+PROPMOVER_TXT_400274,Green DJ Froggy,Зеленый диджей Фрогги
+PROPMOVER_TXT_400275,Red DJ Froggy,Красный диджей Фрогги
+PROPMOVER_TXT_400276,Purple DJ Froggy,Фиолетовый диджей Фрогги
+PROPMOVER_TXT_400277,Pink DJ Froggy,Розовый диджей Фрогги
+PROPMOVER_TXT_400278,Cyan DJ Froggy,Голубой диджей Фрогги
+PROPMOVER_TXT_400279,Blue DJ Froggy,Синей диджей Фрогги
+PROPMOVER_TXT_400280,Black DJ Froggy,Черный диджей Фрогги
+PROPMOVER_TXT_400281,Lord Demian,Лорд Демиан
+PROPMOVER_TXT_400282,Lord Mushpang,Лорд Сыробежка
+PROPMOVER_TXT_400283,Yellow Junior Banana Hero,Желтый юный банановый герой
+PROPMOVER_TXT_400284,Purple Junior Banana Hero,Фиолетовый юный банановый герой
+PROPMOVER_TXT_400285,Orange Junior Banana Hero,Оранжевый юный банановый герой
+PROPMOVER_TXT_400286,Blue Junior Banana Hero,Синей юный банановый герой
+PROPMOVER_TXT_400287,Green Junior Banana Hero,Зеленый юный банановый герой
+PROPMOVER_TXT_400288,Pink Junior Banana Hero,Розовый юный банановый герой
+PROPMOVER_TXT_400289,White Junior Banana Hero,Белый юный банановый герой
+PROPMOVER_TXT_400290,Lord Zenma,Лорд Нетопырь
+PROPMOVER_TXT_400291,[Event] Pirate ship,[События] Пиратский корабль
+PROPMOVER_TXT_400292,Shadowirs,Теневой колдун
+PROPMOVER_TXT_400293,Captain Shadowirs,Капитан теневой колдун
+PROPMOVER_TXT_400294,Giant Shadowirs,Гигантский теневой колдун
+PROPMOVER_TXT_400295,Small Skelmaw,Маленькая скелетная пасть
+PROPMOVER_TXT_400296,Skelmaw,Скелетная пасть
+PROPMOVER_TXT_400297,Captain Skelmaw,Капитан Скелетная пасть
+PROPMOVER_TXT_400298,Giant Skelmaw,Гигантская скелетная пасть
+PROPMOVER_TXT_400299,Alchemy Desk,Алхимический стол
+PROPMOVER_TXT_400300,Hearth,Котелок
+PROPMOVER_TXT_400301,Carpentry Workspace,Рабочее место плотника
+PROPMOVER_TXT_400302,Smithing Workspace,Рабочее место кузнеца
+PROPMOVER_TXT_400303,Wandering Merchant,Бродячий торговец
+PROPMOVER_TXT_400304,Small Maleficar,Маленький злоумышленник
+PROPMOVER_TXT_400305,Maleficar,Злоумышленник
+PROPMOVER_TXT_400306,Captain Maleficar,Капитан злоумышленник
+PROPMOVER_TXT_400307,Giant Maleficar,Гигантский злоумышленник
+PROPMOVER_TXT_400308,Small Cursed Warden,Маленький проклятый страж
+PROPMOVER_TXT_400309,Cursed Warden,Проклятый страж
+PROPMOVER_TXT_400310,Captain Cursed Warden,Капитан проклятый страж
+PROPMOVER_TXT_400311,Giant Cursed Warden,Гигантский проклятый страж
+PROPMOVER_TXT_400312,Small Shadowirs,Маленький теневой колдун
+PROPMOVER_TXT_400313,Great Shadowirs,Огромный теневой колдун
+PROPMOVER_TXT_400314,Great Skelmaw,Огромная скелетная пасть
+PROPMOVER_TXT_400315,Great Maleficar,Огромный злоумышленник
+PROPMOVER_TXT_400316,Great Cursed Warden,Огромный проклятый страж
+PROPMOVER_TXT_400317,Cyan Gloomie,Голубой мрачный
+PROPMOVER_TXT_400318,Green Gloomie,Зеленый мрачный
+PROPMOVER_TXT_400319,Blue Gloomie,Синей мрачный
+PROPMOVER_TXT_400320,Purple Gloomie,Фиолетовый мрачный
+PROPMOVER_TXT_400321,Red Gloomie,Красный мрачный
+PROPMOVER_TXT_400322,Gray Gloomie,Серый мрачный
+PROPMOVER_TXT_400323,Blue Medieval Horse,Синяя средневековая лошадь
+PROPMOVER_TXT_400324,Purple Medieval Horse,Фиолетовая средневековая лошадь
+PROPMOVER_TXT_400325,Cyan Medieval Horse,Голубая средневековая лошадь
+PROPMOVER_TXT_400326,Green Medieval Horse,Зеленая средневековая лошадь
+PROPMOVER_TXT_400327,Red Medieval Horse,Красная средневековая лошадь
+PROPMOVER_TXT_400328,Black Medieval Horse,Черная средневековая лошадь
+PROPMOVER_TXT_400329,Captain Luminfin,Капитан люминеф
+PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[Хранитель глубин] Буньип
+PROPMOVER_TXT_400331,[Depths Queen] Nereid,[Королева глубин] Нереида
+PROPMOVER_TXT_400332,Sovann,Сованн
+PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[Тень лейтенанта] Критон
+PROPMOVER_TXT_400334,Dreadfin,Ужасный плавник
+PROPMOVER_TXT_400335,Captain Dreadfin,Капитан ужасный плавник
+PROPMOVER_TXT_400336,Dreadscale,Ужасная рыба
+PROPMOVER_TXT_400337,Captain Dreadscale,Капитан ужасная рыба
+PROPMOVER_TXT_400338,Luminfin,Люминеф
+PROPMOVER_TXT_400339,Hyuna,Хуйня
+PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[События] Рождествый сглаз
+PROPMOVER_TXT_400351,Blue Cobra,Голубая кобра
+PROPMOVER_TXT_400340,Red Christmas Gingy,Красный рождественский пряник
+PROPMOVER_TXT_400341,Green Christmas Gingy,Зеленый рождественский пряник
+PROPMOVER_TXT_400342,Pink Christmas Gingy,Розовый рождественский пряник
+PROPMOVER_TXT_400343,Orange Christmas Gingy,Оранжевый рождественский пряник
+PROPMOVER_TXT_400344,Purple Christmas Gingy,Фиолетовый рождественский пряник
+PROPMOVER_TXT_400345,Blue Christmas Gingy,Синей рождественский пряник
+PROPMOVER_TXT_400352,Green Little Snaky,Зеленая маленькая змейка
+PROPMOVER_TXT_400353,Purple Little Snaky,Фиолетовая маленькая змейка
+PROPMOVER_TXT_400354,Pink Little Snaky,Розовая маленькая змейка
+PROPMOVER_TXT_400355,Blue Little Snaky,Синея маленькая змейка
+PROPMOVER_TXT_400356,Red Little Snaky,Красная маленькая змейка
+PROPMOVER_TXT_400357,Emerald Little Snaky,Изумрудная маленькая змейка
+PROPMOVER_TXT_400358,Black Little Snaky,Черная маленькая змейка
+PROPMOVER_TXT_400359,Purple Frostpaw,Фиолетовая ледяная лапа
+PROPMOVER_TXT_400360,Yellow Frostpaw,Желтая ледяная лапа
+PROPMOVER_TXT_400361,Blue Frostpaw,Синея ледяная лапа
+PROPMOVER_TXT_400362,Green Frostpaw,Зеленая ледяная лапа
+PROPMOVER_TXT_400363,Pink Frostpaw,Розовая ледяная лапа
+PROPMOVER_TXT_400364,Red Frostpaw,Красная ледяная лапа
+PROPMOVER_TXT_400365,White Frostpaw,Белая ледяная лапа
+PROPMOVER_TXT_400366,Black Frostpaw,Черная ледяная лапа
+PROPMOVER_TXT_400367,Red Roaryen,Красный ревун
+PROPMOVER_TXT_400368,Purple Roaryen,Фиолетовый ревун
+PROPMOVER_TXT_400369,Blue Roaryen,Синея ревун
+PROPMOVER_TXT_400370,Green Roaryen,Зеленый ревун
+PROPMOVER_TXT_400371,White Roaryen,Белый ревун
+PROPMOVER_TXT_400372,Black Roaryen,Черный ревун
+PROPMOVER_TXT_001236,Mechamochi,Мехамочи
+PROPMOVER_TXT_001237,[Event] Clockworks,[События] Часовой механизм
+PROPMOVER_TXT_001238,Baby Pang,Крошка пингвин
+PROPMOVER_TXT_400373,Lord Mothbee,Лорд мухаон
+PROPMOVER_TXT_400374,Lord Zendros,Лорд призор
+PROPMOVER_TXT_400375,Lord Dumb Bull,Лорд быказа-рогаза
+PROPMOVER_TXT_400376,Lord Totemia,Лорд истукан
+PROPMOVER_TXT_400377,Lord Flybrigen,Лорд хвостокол
+PROPMOVER_TXT_400378,Lord Neparuba,Лорд комарищ
+PROPMOVER_TXT_400379,Lord Rockepeller,Лорд пропеллац
+PROPMOVER_TXT_400380,Lord Longwing,Лорд длиннокрыл
+PROPMOVER_TXT_400381,Lord Shuhamma,Лорд молотоход
+PROPMOVER_TXT_400382,Lord Watangka,Лорд ватангка
+PROPMOVER_TXT_400383,Lord Fafnir,Лорд фафнир
+PROPMOVER_TXT_400384,Lord Gorruda,Лорд злокрыл
+PROPMOVER_TXT_400385,Lord Mammoth,Лорд мамонт
+PROPMOVER_TXT_400386,Ghost of the Forgotten Lord,Призрак забытого лорда
+PROPMOVER_TXT_400387,Lord Augu,Лорд аугу
+PROPMOVER_TXT_400388,Overlord Kraken,Повелитель ктулху
+PROPMOVER_TXT_400389,Lord Dorian,Лорд рыбка дориана
+PROPMOVER_TXT_400390,Lord Okean,Лорд жижа
+PROPMOVER_TXT_400391,Lord Naga,Лорд нага
+PROPMOVER_TXT_400392,Overlord Naga,Повелитель нага
+PROPMOVER_TXT_400393,Overlord Meral,Повелитель пират
+PROPMOVER_TXT_400394,Lord Tigar,Лорд тигр
+PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,Розовый пасхальный кролик-хранитель
+PROPMOVER_TXT_400396,Green Guardian Easter Bunny,Зеленый пасхальный кролик-хранитель
+PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,Синей пасхальный кролик-хранитель
+PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,Оранжевый пасхальный кролик-хранитель
+PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,Фиолетовый пасхальный кролик-хранитель
+PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,Черный пасхальный кролик-хранитель
+PROPMOVER_TXT_400401,Lord Yetti,Лорд йети
+PROPMOVER_TXT_400402,Purple Pawsy,Фиолетовая лапочка
+PROPMOVER_TXT_400403,Red Pawsy,Красная лапочка
+PROPMOVER_TXT_400404,Green Pawsy,Зеленая лапочка
+PROPMOVER_TXT_400405,Blue Pawsy,Синея лапочка
+PROPMOVER_TXT_400406,Magenta Pawsy,Пурпурная лапоча
+PROPMOVER_TXT_400407,Lavender Pawsy,Лавандовая лапочка
+PROPMOVER_TXT_400408,Pink Pawsy,Розовая лапочка
+PROPMOVER_TXT_400409,Gray Pawsy,Серая лапочка
+PROPMOVER_TXT_400410,Orange Flumos,Оранжевый фалос
+PROPMOVER_TXT_400411,Purple Flumos,Фиолетовый фалос
+PROPMOVER_TXT_400412,Red Flumos,Красный фалос
+PROPMOVER_TXT_400413,Blue Flumos,Синей фалос
+PROPMOVER_TXT_400414,Green Flumos,Зеленый фалос
+PROPMOVER_TXT_400415,Yellow Flumos,Желтый фалос
+PROPMOVER_TXT_400416,White Flumos,Белый фалос
+PROPMOVER_TXT_400417,Black Flumos,Черный фалос
+PROPMOVER_TXT_400418,Wounded Revolutionary,Раненый революционер
+PROPMOVER_TXT_400419,Yellow Breezy,Желтый ветерок
+PROPMOVER_TXT_400420,Purple Breezy,Фиолетовый ветерок
+PROPMOVER_TXT_400421,Blue Breezy,Синей ветерок
+PROPMOVER_TXT_400422,Pink Breezy,Розовый ветерок
+PROPMOVER_TXT_400423,White Breezy,Белый ветерок
+PROPMOVER_TXT_400424,Black Breezy,Черный ветерок
+PROPMOVER_TXT_400425,Blue Pawsh,Синея лапка
+PROPMOVER_TXT_400426,Pink Pawsh,Розовая лапка
+PROPMOVER_TXT_400427,Orange Pawsh,Оранжевая лапка
+PROPMOVER_TXT_400428,Green Pawsh,Зеленая лапка
+PROPMOVER_TXT_400429,Navy Pawsh,Военно-морская лапка
+PROPMOVER_TXT_400430,Red Pawsh,Красная лапка
+PROPMOVER_TXT_400431,Fortune Pang,Удачливый пингвин
+PROPMOVER_TXT_400432,Orange Marshall,Оранжевый маршал
+PROPMOVER_TXT_400433,Green Marshall,Зеленый маршал
+PROPMOVER_TXT_400434,Cyan Marshall,Голубой маршал
+PROPMOVER_TXT_400435,Purple Marshall,Фиолетовый маршал
+PROPMOVER_TXT_400436,Red Marshall,Красный маршал
+PROPMOVER_TXT_400437,Neon Marshall,Неоновый маршал
+PROPMOVER_TXT_400438,Brown Strawy Jack,Коричневый соломенный джек
+PROPMOVER_TXT_400439,Maroon Strawy Jack,Темно-бордовый соломенный джек
+PROPMOVER_TXT_400440,Green Strawy Jack,Зеленый соломенный джек
+PROPMOVER_TXT_400441,Purple Strawy Jack,Фиолетовый соломенный джек
+PROPMOVER_TXT_400442,Olive Strawy Jack,Оливковый соломенный джек
+PROPMOVER_TXT_400443,Blue Strawy Jack,Синей соломенный джек
+PROPMOVER_TXT_400444,Black Strawy Jack,Черный соломенный джек
+PROPMOVER_TXT_400445,White Strawy Jack,Белый соломенный джек
+PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[События] Гигантский мистер тыквер
+PROPMOVER_TXT_400447,Green Frogzy,Зеленый лягушач
+PROPMOVER_TXT_400448,Yellow Frogzy,Желтый лягушач
+PROPMOVER_TXT_400449,Pink Frogzy,Розовый лягушач
+PROPMOVER_TXT_400450,Purple Frogzy,Фиолетовый лягушач
+PROPMOVER_TXT_400451,Cyan Frogzy,Голубой лягушач
+PROPMOVER_TXT_400452,Mint Green Frogzy,Мятно-зеленый лягушач
+PROPMOVER_TXT_400453,Black Frogzy,Черный лягушач
+PROPMOVER_TXT_400454,White Frogzy,Белый лягушач
+PROPMOVER_TXT_400455,Orange Whispero,Оранжевый шептун
+PROPMOVER_TXT_400456,Yellow Whispero,Желтый шептун
+PROPMOVER_TXT_400457,Pink Whispero,Розовый шептун
+PROPMOVER_TXT_400458,Purple Whispero,Фиолетовый шептун
+PROPMOVER_TXT_400459,Blue Whispero,Синей шептун
+PROPMOVER_TXT_400460,Green Whispero,Зеленый шептун
+PROPMOVER_TXT_400461,Black Whispero,Черный шептун
+PROPMOVER_TXT_400462,White Whispero,Белый шептун
+PROPMOVER_TXT_400463,Green Mecha Rabbit,Зеленый механический кролик
+PROPMOVER_TXT_400464,Orange Mecha Rabbi,Оранжевый механический кролик
+PROPMOVER_TXT_400465,Red Mecha Rabbit,Красный механический кролик
+PROPMOVER_TXT_400466,Pink Mecha Rabbit,Розовый механический кролик
+PROPMOVER_TXT_400467,Purple Mecha Rabbi,Фиолетовый механический кролик
+PROPMOVER_TXT_400468,Blue Mecha Rabbit,Синей механический кролик
+PROPMOVER_TXT_400469,Black Mecha Rabbit,Черный механический кролик
+PROPMOVER_TXT_400470,White Mecha Rabbit,Белый механический кролик
+PROPMOVER_TXT_400471,Hellhound,Адский пес
+PROPMOVER_TXT_500001,Kanrang,Канрак
+PROPMOVER_TXT_500002,Mewrang,Меврак
+PROPMOVER_TXT_500003,Relgantus,Реликтус
+PROPMOVER_TXT_500004,Huntrang,Хантранг
+PROPMOVER_TXT_500005,Mawrang,Маврак
 PROPMOVER_TXT_500006,Cheirang,Ширра
-PROPMOVER_TXT_500007,Bato,Bato
-PROPMOVER_TXT_500008,Ralbadan,Ralbadan
-PROPMOVER_TXT_500009,Miorang,Miorang
-PROPMOVER_TXT_500010,Ruidan,Ruidan
-PROPMOVER_TXT_500011,Weevs,Weevs
-PROPMOVER_TXT_500012,Small Hundur Sharpfoot,Small Hundur Sharpfoot
-PROPMOVER_TXT_500013,Hundur Sharpfoot,Hundur Sharpfoot
-PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,Captain Hundur Sharpfoot
-PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,Giant Hundur Sharpfoot
-PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,Violet Hundur Sharpfoot
-PROPMOVER_TXT_500017,Small Samoset,Small Samoset
-PROPMOVER_TXT_500018,Samoset,Samoset
-PROPMOVER_TXT_500019,Captain Samoset,Captain Samoset
-PROPMOVER_TXT_500020,Giant Samoset,Giant Samoset
-PROPMOVER_TXT_500021,Violet Samoset,Violet Samoset
-PROPMOVER_TXT_500022,Small Kyouchish,Small Kyouchish
-PROPMOVER_TXT_500023,Kyouchish,Kyouchish
-PROPMOVER_TXT_500024,Captain Kyouchish,Captain Kyouchish
-PROPMOVER_TXT_500025,Giant Kyouchish,Giant Kyouchish
-PROPMOVER_TXT_500026,Violet Kyouchish,Violet Kyouchish
-PROPMOVER_TXT_500027,Small Kanonicus,Small Kanonicus
-PROPMOVER_TXT_500028,Kanonicus,Kanonicus
-PROPMOVER_TXT_500029,Captain Kanonicus,Captain Kanonicus
-PROPMOVER_TXT_500030,Giant Kanonicus,Giant Kanonicus
-PROPMOVER_TXT_500031,Violet Kanonicus,Violet Kanonicus
-PROPMOVER_TXT_500032,Small Mage Redcloud,Small Mage Redcloud
-PROPMOVER_TXT_500033,Mage Redcloud,Mage Redcloud
-PROPMOVER_TXT_500034,Captain Mage Redcloud,Captain Mage Redcloud
-PROPMOVER_TXT_500035,Giant Mage Redcloud,Giant Mage Redcloud
-PROPMOVER_TXT_500036,Violet Mage Redcloud,Violet Mage Redcloud
-PROPMOVER_TXT_500037,Small Taiaha,Small Taiaha
-PROPMOVER_TXT_500038,Taiaha,Taiaha
-PROPMOVER_TXT_500039,Captain Taiaha,Captain Taiaha
-PROPMOVER_TXT_500040,Giant Taiaha,Giant Taiaha
-PROPMOVER_TXT_500041,Violet Taiaha,Violet Taiaha
-PROPMOVER_TXT_500042,Small Hellhound,Small Hellhound
-PROPMOVER_TXT_500043,Hellhound,Hellhound
-PROPMOVER_TXT_500044,Captain Hellhound,Captain Hellhound
-PROPMOVER_TXT_500045,Giant Hellhound,Giant Hellhound
-PROPMOVER_TXT_500046,Violet Hellhound,Violet Hellhound
-PROPMOVER_TXT_500047,Chief Keokuk,Chief Keokuk
+PROPMOVER_TXT_500007,Bato,Бато
+PROPMOVER_TXT_500008,Ralbadan,Ралбадан
+PROPMOVER_TXT_500009,Miorang,Миорак
+PROPMOVER_TXT_500010,Ruidan,Руидан
+PROPMOVER_TXT_500011,Weevs,Долгоносик
+PROPMOVER_TXT_500012,Small Hundur Sharpfoot,Маленький хундур остроногий
+PROPMOVER_TXT_500013,Hundur Sharpfoot,Хундур остроногий
+PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,Капитан хундур остроногий
+PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,Гигантский хундур остроногий
+PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,Лиловый хундур остроногий
+PROPMOVER_TXT_500017,Small Samoset,Маленький самосет
+PROPMOVER_TXT_500018,Samoset,Самосет
+PROPMOVER_TXT_500019,Captain Samoset,Капитан самосет
+PROPMOVER_TXT_500020,Giant Samoset,Гиганткий самосет
+PROPMOVER_TXT_500021,Violet Samoset,Лиловый самосет
+PROPMOVER_TXT_500022,Small Kyouchish,Маленький кючишек 
+PROPMOVER_TXT_500023,Kyouchish,Кючишек
+PROPMOVER_TXT_500024,Captain Kyouchish,Капитан кючишек
+PROPMOVER_TXT_500025,Giant Kyouchish,Гигантский кючишек
+PROPMOVER_TXT_500026,Violet Kyouchish,Лиловый кючишек
+PROPMOVER_TXT_500027,Small Kanonicus,Маленький каноникусов
+PROPMOVER_TXT_500028,Kanonicus,каноникусов
+PROPMOVER_TXT_500029,Captain Kanonicus,Капитан каноникусов
+PROPMOVER_TXT_500030,Giant Kanonicus,Гигантский каноникусов
+PROPMOVER_TXT_500031,Violet Kanonicus,Лиловый каноникусов
+PROPMOVER_TXT_500032,Small Mage Redcloud,Маленький маг красное-облако
+PROPMOVER_TXT_500033,Mage Redcloud,Маг красное-облако
+PROPMOVER_TXT_500034,Captain Mage Redcloud,Капитан маг красное-облако
+PROPMOVER_TXT_500035,Giant Mage Redcloud,Гигантский маг красное-облако
+PROPMOVER_TXT_500036,Violet Mage Redcloud,Лиловый маг красное-облако
+PROPMOVER_TXT_500037,Small Taiaha,Маленький тайаха
+PROPMOVER_TXT_500038,Taiaha,Тайаха
+PROPMOVER_TXT_500039,Captain Taiaha,Капитан тайаха
+PROPMOVER_TXT_500040,Giant Taiaha,Гигантский тайаха
+PROPMOVER_TXT_500041,Violet Taiaha,Лиловый тайаха
+PROPMOVER_TXT_500042,Small Hellhound,Маленький адский пес
+PROPMOVER_TXT_500043,Hellhound,Адский пес
+PROPMOVER_TXT_500044,Captain Hellhound,Капитан адский пес
+PROPMOVER_TXT_500045,Giant Hellhound,Гигантский адский пес
+PROPMOVER_TXT_500046,Violet Hellhound,Лиловый адский пес
+PROPMOVER_TXT_500047,Chief Keokuk,Вождь Кеокук
 PROPMOVER_TXT_500048,Monument of Death,Monument of Death
-PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[Twisted Soul] Orcus
-PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Tormented Soul] Nergal
-PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Demonic Soul] Hel
-PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Perverted Soul] Morrigan
-PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Anguished Soul] Mara
-PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[Violent Soul] Ghed 
-PROPMOVER_TXT_500055,[God of Death] Ankou,[God of Death] Ankou
-PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[God of Death] Blazing Ankou
-PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[God of Death] Demonic Ankou
-PROPMOVER_TXT_500058,[Elder] Traitus,[Elder] Traitus
-PROPMOVER_TXT_500059,Asylum Guard,Asylum Guard
-PROPMOVER_TXT_500060,Ankou,Ankou
-PROPMOVER_TXT_500061,Demonic Ankou,Demonic Ankou
-PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,Blue 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,Red 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,Green 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,Pink 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,Black 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,White 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500068,Red Baby Horse,Red Baby Horse
-PROPMOVER_TXT_500069,Cyan Shiki Paws,Cyan Shiki Paws
-PROPMOVER_TXT_500070,Green Shiki Paws,Green Shiki Paws
-PROPMOVER_TXT_500071,Purple Shiki Paws,Purple Shiki Paws
-PROPMOVER_TXT_500072,Blue Shiki Paws,Blue Shiki Paws
-PROPMOVER_TXT_500073,White Shiki Paws,White Shiki Paws
-PROPMOVER_TXT_500074,Black Shiki Paws,Black Shiki Paws
+PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[Скрученная душа] Оркус
+PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Истерзанная душа] Нергал
+PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Демоническая душа] Хель
+PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Извращенная душа] Morrigan
+PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Измученная душа] Mara
+PROPMOVER_TXT_500054,[Violent Soul] Ghed,[Лиловая душа] Гед
+PROPMOVER_TXT_500055,[God of Death] Ankou,[Бог смерти] Анку
+PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[Бог смерти] Пылающий Анку
+PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[Бог смерти] Демонический Анку
+PROPMOVER_TXT_500058,[Elder] Traitus,[Старший] Предатель
+PROPMOVER_TXT_500059,Asylum Guard,Охранник убежища
+PROPMOVER_TXT_500060,Ankou,Анку
+PROPMOVER_TXT_500061,Demonic Ankou,Демонический Анку
+PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,Голубая индейка на день благодарения 2025 года
+PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,Красная индейка на день благодарения 2025 года
+PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,Зеленая индейка на день благодарения 2025 года
+PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,Розовая индейка на день благодарения 2025 года
+PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,Черная индейка на день благодарения 2025 года
+PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,Белая индейка на день благодарения 2025 года
+PROPMOVER_TXT_500068,Red Baby Horse,Красный жеребенок
+PROPMOVER_TXT_500069,Cyan Shiki Paws,Голубые лапы шики
+PROPMOVER_TXT_500070,Green Shiki Paws,Зеленые лапы шики
+PROPMOVER_TXT_500071,Purple Shiki Paws,Фиолетовые лапы шики
+PROPMOVER_TXT_500072,Blue Shiki Paws,Синие лапы шики
+PROPMOVER_TXT_500073,White Shiki Paws,Белые лапы шики
+PROPMOVER_TXT_500074,Black Shiki Paws,Черные лапы шики

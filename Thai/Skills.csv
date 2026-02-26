@@ -3,366 +3,366 @@ PROPSKILL_TXT_000309,,
 PROPSKILL_TXT_000000,Clean Hit,Clean Hit
 PROPSKILL_TXT_000001,"A powerful, downward strike.",โจมตีอย่างรุนแรง
 PROPSKILL_TXT_000002,Flurry,Flurry
-PROPSKILL_TXT_000003,"Rapid, stabbing attack.",โจมตีอย่างรวดเร็ว
+PROPSKILL_TXT_000003,A rapid stabbing attack.,โจมตีอย่างรวดเร็ว
 PROPSKILL_TXT_000004,Over Cutter,Over Cutter
-PROPSKILL_TXT_000005,"Powerful, upward, finishing move.",เคลื่อนที่โจมตีอย่างรวดเร็ว
+PROPSKILL_TXT_000005,A powerful upward finishing move.,เคลื่อนที่โจมตีอย่างรวดเร็ว
 PROPSKILL_TXT_000006,Slash,Slash
-PROPSKILL_TXT_000007,"Strikes the enemy two times, in rapid succession.",โจมตีศัตรูสองครั้งอย่างต่อเนื่อง
+PROPSKILL_TXT_000007,Strikes the enemy twice in rapid succession.,โจมตีศัตรูสองครั้งอย่างต่อเนื่อง
 PROPSKILL_TXT_000008,Keenwheel,Keenwheel
 PROPSKILL_TXT_000009,A continuous spinning attack.,แกว่งอาวุธไปรอบตัวและโจมตีต่อเนื่อง 3 ครั้งติดกัน
 PROPSKILL_TXT_000010,Blindside,Blindside
-PROPSKILL_TXT_000011,"A spinning, finishing move.",สกิลปิดโจมตีไปยังจุดอ่อนของเป้าหมาย
+PROPSKILL_TXT_000011,A spinning finishing move that may stun the enemy.,สกิลปิดโจมตีไปยังจุดอ่อนของเป้าหมาย
 PROPSKILL_TXT_000012,Protection,Protection
-PROPSKILL_TXT_000013,Increases the defense of a Shield against melee attacks & significantly increases Ranged Block.,เพิ่มการป้องกันของโล่ต่อการโจมตีระยะใกล้
+PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.,เพิ่มการป้องกันของโล่ต่อการโจมตีระยะใกล้
 PROPSKILL_TXT_000014,Pan Barrier,Pan Barrier
 PROPSKILL_TXT_000015,Significantly increases Ranged Block.,เพิ่มพลังป้องกันจากการโจมตีระยะไกล
 PROPSKILL_TXT_000016,Blazing Sword,Blazing Sword
-PROPSKILL_TXT_000017,Increases Accuracy and increases power of the Sword.,เพิ่มพลังโจมตีของอาวุธประเภทดาบ และความแม่นยำ
+PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.,เพิ่มพลังโจมตีของอาวุธประเภทดาบ และความแม่นยำ
 PROPSKILL_TXT_000018,Smite Axe,Smite Axe
-PROPSKILL_TXT_000019,Increases Accuracy and increases power of the Axe.,เพิ่มพลังโจมตีของอาวุธประเภทขวาน และความแม่นยำ
-PROPSKILL_TXT_000020,Empower weapon,Empower Weapon
-PROPSKILL_TXT_000021,Uses the element of a weapon to boost your attack power.,เพิ่มพลังโจมตีธาตุให้กับอาวุธที่สวมใส่
+PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.,เพิ่มพลังโจมตีของอาวุธประเภทขวาน และความแม่นยำ
+PROPSKILL_TXT_000020,Empower Weapon,Empower Weapon
+PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,เพิ่มพลังโจมตีธาตุให้กับอาวุธที่สวมใส่
 PROPSKILL_TXT_000022,Bloody Strike,Bloody Strike
 PROPSKILL_TXT_000024,Sword Mastery,Sword Mastery
-PROPSKILL_TXT_000025,Increases the striking power of a Sword.,เพิ่มความคล่องแคล่วและพลังโจมตีเมื่อใช้อาวุธประเภทดาบต่อสู้
+PROPSKILL_TXT_000025,Enhances the power of the wielded sword.,เพิ่มความคล่องแคล่วและพลังโจมตีเมื่อใช้อาวุธประเภทดาบต่อสู้
 PROPSKILL_TXT_000026,Axe Mastery,Axe Mastery
-PROPSKILL_TXT_000027,Increases the striking power of an axe.,เพิ่มความคล่องแคล่วและพลังโจมตีเมื่อใช้อาวุธประเภทขวานต่อสู้
+PROPSKILL_TXT_000027,Enhances the power of the wielded axe.,เพิ่มความคล่องแคล่วและพลังโจมตีเมื่อใช้อาวุธประเภทขวานต่อสู้
 PROPSKILL_TXT_000028,Special Hit,Special Hit
-PROPSKILL_TXT_000029,"A single, powerful strike that attacks all enemies around you.",รวบรวมพลังไว้ที่อาวุธแล้วโจมตีศัตรูที่อยุ่ข้างหน้าอย่างรุนแรง
+PROPSKILL_TXT_000029,A single powerful strike that hits all enemies around you.,รวบรวมพลังไว้ที่อาวุธแล้วโจมตีศัตรูที่อยุ่ข้างหน้าอย่างรุนแรง
 PROPSKILL_TXT_000030,Guillotine,Guillotine
-PROPSKILL_TXT_000031,"A powerful, ranged attack.",รวบรวมกำลังทั้งหมดที่มี เพื่อทำลายศัตรู
+PROPSKILL_TXT_000031,A powerful ranged attack.,รวบรวมกำลังทั้งหมดที่มี เพื่อทำลายศัตรู
 PROPSKILL_TXT_000032,Sneaker,Sneaker
-PROPSKILL_TXT_000033,Stops an enemy.,ใช้ตาข่ายจับศุตรูไม่ให้เคลื่อนที่
+PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them.",ใช้ตาข่ายจับศุตรูไม่ให้เคลื่อนที่
 PROPSKILL_TXT_000034,Reflex Hit,Reflex Hit
-PROPSKILL_TXT_000035,This skill absorbs one attack and releases back at an enemy.,ดูดซับการโจมตีและโจมตีสวนกลับไปที่ศัตรู
+PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.,ดูดซับการโจมตีและโจมตีสวนกลับไปที่ศัตรู
 PROPSKILL_TXT_000036,Guard,Guard
-PROPSKILL_TXT_000037,Decreases all incoming damage from enemies by sacrificing attack power. Requires a weapon to be equipped.,ลดความเสียหายที่ได้รับจากศัตรูทั้งหมดโดยการสละพลังโจมตี แต่ต้องมีอาวุธสวมใส่อยู่
+PROPSKILL_TXT_000037,Reduces all incoming damage from enemies at the cost of attack power.,ลดความเสียหายที่ได้รับจากศัตรูทั้งหมดโดยการสละพลังโจมตี แต่ต้องมีอาวุธสวมใส่อยู่
 PROPSKILL_TXT_000038,Pain Reflection,Pain Reflection
-PROPSKILL_TXT_000039,Reflects a part of the damage received by an enemy.,สะท้อนการโจมตีส่วนหนึ่งที่ได้รับกลับไปยังศัตรู
+PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy.,สะท้อนการโจมตีส่วนหนึ่งที่ได้รับกลับไปยังศัตรู
 PROPSKILL_TXT_000040,Rage,Rage
-PROPSKILL_TXT_000041,Increases striking power. Become more vulnerable to all incoming attacks.,เพิ่มพลังโจมตี เสี่ยงต่อการโดนโจมตีทั้งหมดเข้ามามากขึ้น
+PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.,เพิ่มพลังโจมตี เสี่ยงต่อการโดนโจมตีทั้งหมดเข้ามามากขึ้น
 PROPSKILL_TXT_000042,Power Swing,Power Swing
-PROPSKILL_TXT_000043,To strike a blow at the enemy by flourishing a weapon. Requires a two-handed weapon.,ใช้อาวุธโจมตีศัตรูรอบๆตัว ให้ได้รับบาดเจ็บ เฉพาะอาวุธ 2 มือ
+PROPSKILL_TXT_000043,Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon.,ใช้อาวุธโจมตีศัตรูรอบๆตัว ให้ได้รับบาดเจ็บ เฉพาะอาวุธ 2 มือ
 PROPSKILL_TXT_000044,Earth Divider,Earth Divider
-PROPSKILL_TXT_000045,"Powerful, downward strike. Has a chance to reduce Incoming Healing on target. Requires a two-handed weapon.",ทรงพลัง ฟาดลงอย่างรุนแรง และมีโอกาสลดการฟื้นฟูของเป้าหมาย ต้องการอาวุธสองมือ
+PROPSKILL_TXT_000045,A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon.,ทรงพลัง ฟาดลงอย่างรุนแรง และมีโอกาสลดการฟื้นฟูของเป้าหมาย ต้องการอาวุธสองมือ
 PROPSKILL_TXT_000046,Charge,Charge
-PROPSKILL_TXT_000047,"Powerful, upward strike. Stuns the enemy. Requires a two-handed weapon.",ทรงพลัง ฟาดขึ้นอย่างรุนแรง และสามารถสตั้นศัตรูได้ ต้องการอาวุธสองมือ
+PROPSKILL_TXT_000047,A powerful upward strike that stuns the enemy. Requires a two-handed weapon.,ทรงพลัง ฟาดขึ้นอย่างรุนแรง และสามารถสตั้นศัตรูได้ ต้องการอาวุธสองมือ
 PROPSKILL_TXT_000048,Pain Dealer,Pain Dealer
-PROPSKILL_TXT_000049,"Powerful, downward strike. Lowers the defense of the target. Requires a two-handed weapon.",รวบรวมพลังไว้ที่ขวาน แล้วโจมตีอย่างรุนแรง เฉพาะขวาน 2 มือ โจมตีในครั้งเดียว
+PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon.,รวบรวมพลังไว้ที่ขวาน แล้วโจมตีอย่างรุนแรง เฉพาะขวาน 2 มือ โจมตีในครั้งเดียว
 PROPSKILL_TXT_000050,Power Stomp,Power Stomp
-PROPSKILL_TXT_000051,"Pounds the ground, stunning nearby enemies. Requires a two-handed weapon.",ใช้ขวานฟาดฟันศัตรูที่อยู่รอบตัว เฉพาะอาวุธ 2 มือ
+PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon.",ใช้ขวานฟาดฟันศัตรูที่อยู่รอบตัว เฉพาะอาวุธ 2 มือ
 PROPSKILL_TXT_000052,Cross Strike,Cross Strike
-PROPSKILL_TXT_000053,Powerful strike using two weapons.,พุ่งเข้าไปโจมตีศัตรูด้วยความรุนแรง เฉพาะอาวุธ 2 มือ
+PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,พุ่งเข้าไปโจมตีศัตรูด้วยความรุนแรง เฉพาะอาวุธ 2 มือ
 PROPSKILL_TXT_000054,Armor Penetrate,Armor Penetrate
-PROPSKILL_TXT_000055,Strikes at the enemy and lowers their Block Rate.,โจมตีศัตรูและลดอัตราการบล็อคของศัตรู
+PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.,โจมตีศัตรูและลดอัตราการบล็อคของศัตรู
 PROPSKILL_TXT_000056,Silent Strike,Silent Strike
-PROPSKILL_TXT_000057,Pounces on the enemy from afar. Stuns the target. Requires two weapons.,พุ่งเข้าหาศัตรูจากระยะไกล ทำให้เป้าหมายสตั้นเกิดความมึนงง เฉพาะอาวุธ2มือ
+PROPSKILL_TXT_000057,"Pounces on the enemy from afar, stunning them. Requires two weapons.",พุ่งเข้าหาศัตรูจากระยะไกล ทำให้เป้าหมายสตั้นเกิดความมึนงง เฉพาะอาวุธ2มือ
 PROPSKILL_TXT_000058,Blade Dance,Blade Dance
-PROPSKILL_TXT_000059,Rapidly strikes the blades at multiple enemies. Requires two weapons.,ฟาดฟันศัตรูหลายตัวอย่างรวดเร็วด้วยดาบคู่ในมือ
+PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons. Requires two weapons.,ฟาดฟันศัตรูหลายตัวอย่างรวดเร็วด้วยดาบคู่ในมือ
 PROPSKILL_TXT_000060,Spring Attack,Spring Attack
-PROPSKILL_TXT_000061,Strikes at an enemy multiple times. Each hit has a chance to deal double damage. Requires two weapons.,โจมตีศัตรูหลายครั้ง การโจมตีแต่ละครั้งมีโอกาสสร้างความเสียหายสองเท่า ด้วยอาวุธคู่ในมือ
+PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons.",โจมตีศัตรูหลายครั้ง การโจมตีแต่ละครั้งมีโอกาสสร้างความเสียหายสองเท่า ด้วยอาวุธคู่ในมือ
 PROPSKILL_TXT_000062,Hawk Attack,Hawk Attack
-PROPSKILL_TXT_000063,"Powerful, downward strike. Lowers targets accuracy. Requires two weapons.",กระโดดโจมตีอย่างรุนแรง ลดความแม่นยำของเป้าหมาย ด้วยอาวุธคู่
+PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the target. Requires two weapons.,กระโดดโจมตีอย่างรุนแรง ลดความแม่นยำของเป้าหมาย ด้วยอาวุธคู่
 PROPSKILL_TXT_000064,Sonic Blade,Sonic Blade
-PROPSKILL_TXT_000065,"Powerful, slashing attack. Attacks all enemies around. Requires two weapons.",โจมตีศัตรูโดยรอบด้วยความรวดเร็ว รุนแรง ดุจคลื่นเสียงด้วยอาวุธ 2 มือ
+PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.,โจมตีศัตรูโดยรอบด้วยความรวดเร็ว รุนแรง ดุจคลื่นเสียงด้วยอาวุธ 2 มือ
 PROPSKILL_TXT_000066,Berserk,Berserk
-PROPSKILL_TXT_000067,"Increases attack speed and striking power, and reduces skill damage.","เพิ่มความเร็วในการโจมตี, พลังโจมตี และลดความเสียหายจากสกิล"
+PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,"เพิ่มความเร็วในการโจมตี, พลังโจมตี และลดความเสียหายจากสกิล"
 PROPSKILL_TXT_000068,Heal,Heal
-PROPSKILL_TXT_000069,Recover the HP of a target.,เพิ่ม HP ให้กับเป้าหมาย
+PROPSKILL_TXT_000069,Recovers the target's HP.,เพิ่ม HP ให้กับเป้าหมาย
 PROPSKILL_TXT_000070,Temping Hole,Temping Hole
-PROPSKILL_TXT_000071,"Powerful, straight punch.",ต่อยด้วยหมัดที่รุนแรง
+PROPSKILL_TXT_000071,A powerful straight punch.,ต่อยด้วยหมัดที่รุนแรง
 PROPSKILL_TXT_000072,Resurrection,Resurrection
 PROPSKILL_TXT_000073,Resurrects a dead player.,ชุบชีวิตเป้าหมาย ให้ฟื้นคืนชีพ
 PROPSKILL_TXT_000074,Patience,Patience
-PROPSKILL_TXT_000075,Increases maximum HP of the target.,เพิ่ม HP สูงสุดให้กับเป้าหมาย ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000075,Increases the target's maximum HP.,เพิ่ม HP สูงสุดให้กับเป้าหมาย ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000076,Prevention,Prevention
-PROPSKILL_TXT_000077,Recovers your own HP when it reaches below a certain point.,ฟื้นฟู HP ของคุณเองเมื่อถึงจุดต่ำกว่าจุดหนึ่ง
+PROPSKILL_TXT_000077,Automatically recovers your HP when it falls below a certain threshold.,ฟื้นฟู HP ของคุณเองเมื่อถึงจุดต่ำกว่าจุดหนึ่ง
 PROPSKILL_TXT_000078,Heap Up,Heap Up
-PROPSKILL_TXT_000079,Increases STA of the target.,เพิ่ม STA ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000079,Increases the target's STA.,เพิ่ม STA ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000080,Cannon Ball,Cannon Ball
-PROPSKILL_TXT_000081,Increases DEX of the target.,เพิ่ม Dex ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000081,Increases the target's DEX.,เพิ่ม Dex ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000082,Circle Healing,Circle Healing
-PROPSKILL_TXT_000083,Heals party members close to you.,เพิ่ม HP ให้กับสมาชิกรอบๆ ตัวที่อยู่ปาร์ตี้
+PROPSKILL_TXT_000083,Heals nearby party members.,เพิ่ม HP ให้กับสมาชิกรอบๆ ตัวที่อยู่ปาร์ตี้
 PROPSKILL_TXT_000084,Mental Sign,Mental Sign
-PROPSKILL_TXT_000085,Increases INT of a target,เพิ่ม INT ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000085,Increases the target's INT.,เพิ่ม INT ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000086,Beef Up,Beef Up
-PROPSKILL_TXT_000087,Increases striking power of a target.,เพิ่ม STR ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000087,Increases the target's STR.,เพิ่ม STR ให้เป้าหมาย ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000088,Burst Crack,Burst Crack
-PROPSKILL_TXT_000089,Pounds the ground and damages enemies around you.,สกิลโจมตี ใช้หมัดต่อยลงพื้น สร้างความเสียหายรอบๆตัว
+PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you.",สกิลโจมตี ใช้หมัดต่อยลงพื้น สร้างความเสียหายรอบๆตัว
 PROPSKILL_TXT_000090,Stonehand,Stonehand
-PROPSKILL_TXT_000091,All attacks gain the chance to stun.,ขณะที่สกิลมีผลอยู่จะสามารถโจมตีให้ศัตรูมึนงงได้
+PROPSKILL_TXT_000091,Grants all attacks a chance to stun.,ขณะที่สกิลมีผลอยู่จะสามารถโจมตีให้ศัตรูมึนงงได้
 PROPSKILL_TXT_000092,Quick Step,Quick Step
-PROPSKILL_TXT_000093,Increases the walk speed of a target.,เพิ่มความเร็วในการเดินของเป้าหมาย
+PROPSKILL_TXT_000093,Increases the target's movement speed.,เพิ่มความเร็วในการเดินของเป้าหมาย
 PROPSKILL_TXT_000094,Cat's Reflex,Cat's Reflex
-PROPSKILL_TXT_000095,Increases the block rate of a target.,เพิ่มอัตราการหลบหลีกของเป้าหมาย
+PROPSKILL_TXT_000095,Increases the target's block rate.,เพิ่มอัตราการหลบหลีกของเป้าหมาย
 PROPSKILL_TXT_000096,Accuracy,Accuracy
-PROPSKILL_TXT_000097,Increases the accuracy of a target.,เพิ่มความแม่นยำในการโจมตี ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000097,Increases the target's accuracy.,เพิ่มความแม่นยำในการโจมตี ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000098,Power Fist,Power Fist
-PROPSKILL_TXT_000099,Three concentrated power strikes.,โจมตีศัตรูด้วยหมัด ทำให้เกิดความเสียหายอย่างรุนแรง 3 ครั้ง
+PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.,โจมตีศัตรูด้วยหมัด ทำให้เกิดความเสียหายอย่างรุนแรง 3 ครั้ง
 PROPSKILL_TXT_000100,Haste,Haste
-PROPSKILL_TXT_000101,Increases attack speed and decreases casting time of a target.,เพิ่มความเร็วในการโจมตีและลดเวลาร่ายของเป้าหมาย
+PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,เพิ่มความเร็วในการโจมตีและลดเวลาร่ายของเป้าหมาย
 PROPSKILL_TXT_000102,Heal Rain,Heal Rain
-PROPSKILL_TXT_000103,Recovers HP for party members near you.,เพิ่ม HP ให้กับทุกคนในปาร์ตี้ที่อยู่ใกล้คุณ
+PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.,เพิ่ม HP ให้กับทุกคนในปาร์ตี้ที่อยู่ใกล้คุณ
 PROPSKILL_TXT_000104,Holycross,Holycross
-PROPSKILL_TXT_000105,Target enemy takes double damage in the next attack.,เพิ่มพลังทำลายเป็น 2 เท่าในการโจมตีครั้งต่อไป
+PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.,เพิ่มพลังทำลายเป็น 2 เท่าในการโจมตีครั้งต่อไป
 PROPSKILL_TXT_000106,Protect,Protect
-PROPSKILL_TXT_000107,Decreases the damage from physical & magical attacks on a target.,เพิ่มพลังป้องกันและโจมตีเวทย์ให้กับเป้าหมาย
+PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,เพิ่มพลังป้องกันและโจมตีเวทย์ให้กับเป้าหมาย
 PROPSKILL_TXT_000108,Holyguard,Holyguard
-PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited amount of time.,ปกป้องเป้าหมายจากcritical hits ในช่วงเวลาจำกัด
+PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,ปกป้องเป้าหมายจากcritical hits ในช่วงเวลาจำกัด
 PROPSKILL_TXT_000110,Spirit Fortune,Spirit Fortune
 PROPSKILL_TXT_000112,Gvur Tialla,Gvur Tialla
-PROPSKILL_TXT_000113,Removes de-buffs from a target.,ปลดสถานะผิดปกติทุกชนิดออก
+PROPSKILL_TXT_000113,Removes debuffs from the target.,ปลดสถานะผิดปกติทุกชนิดออก
 PROPSKILL_TXT_000114,Geburah Tiphreth,Geburah Tiphreth
-PROPSKILL_TXT_000115,"This ability draws upon the inner strength of the user & nearby party members, increasing both Attack Power and Attack Speed for a limited time.",เพิ่มความรวดเร็วและแม่นยำให้กับผู้ใช้และสมาชิกที่อยู่ใกล้ๆ
+PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",เพิ่มความรวดเร็วและแม่นยำให้กับผู้ใช้และสมาชิกที่อยู่ใกล้ๆ
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha,Merkaba Hanzelrusha
-PROPSKILL_TXT_000117,Enemies take damage over time in an area around you.,สร้างเขตแดนศักดิ์สิทธิ์บนพื้น มอนสเตอร์ที่อยู่ในเขต จะสูญเสียพลังไปเรื่อยๆ
+PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,สร้างเขตแดนศักดิ์สิทธิ์บนพื้น มอนสเตอร์ที่อยู่ในเขต จะสูญเสียพลังไปเรื่อยๆ
 PROPSKILL_TXT_000118,Belial Smashing,Belial Smashing
-PROPSKILL_TXT_000119,Deals five powerful blows to the enemy.,ทำการโจมตีอันทรงพลังห้าครั้งต่อศัตรู
+PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.,ทำการโจมตีอันทรงพลังห้าครั้งต่อศัตรู
 PROPSKILL_TXT_000120,Piercing Serpent,Piercing Serpent
-PROPSKILL_TXT_000121,Fires a piercing beam at the target.,รวมพลังแล้วพุ่งตัวออกไปโจมตีศัตรูเป็นเส้นตรง
+PROPSKILL_TXT_000121,Fires a piercing beam at the enemy.,รวมพลังแล้วพุ่งตัวออกไปโจมตีศัตรูเป็นเส้นตรง
 PROPSKILL_TXT_000122,Blood Fist,Blood Fist
-PROPSKILL_TXT_000123,Strikes a heavy blow to the enemy that causes bleeding to the target.,ใช้หมัดทุบกระแทกเป้าหมายให้กระอักเลือด เป้าหมายจะสูญเสีย HP 
+PROPSKILL_TXT_000123,Strikes the enemy with a heavy blow that causes bleeding.,ใช้หมัดทุบกระแทกเป้าหมายให้กระอักเลือด เป้าหมายจะสูญเสีย HP 
 PROPSKILL_TXT_000124,Sonichand,Sonichand
-PROPSKILL_TXT_000125,"Fast, straight punch.",โจมตีเป้าหมายด้วยความเร็วสูงสุด
+PROPSKILL_TXT_000125,"A fast, straight punch.",โจมตีเป้าหมายด้วยความเร็วสูงสุด
 PROPSKILL_TXT_000126,Asmodeus,Asmodeus
-PROPSKILL_TXT_000127,Increases striking power.,เพิ่มพลังโจมตีชั่วคราวแต่พลังป้องกันลดลง
+PROPSKILL_TXT_000127,Enhances the power of the wielded knuckle.,เพิ่มพลังโจมตีชั่วคราวแต่พลังป้องกันลดลง
 PROPSKILL_TXT_000128,Baraqijal Esna,Baraqijal Esna
-PROPSKILL_TXT_000129,"Increases damage dealt to the target, but also increases targets attack.",เพิ่มพลังโจมตีแต่แต่ยังเพิ่มการโจมตีของเป้าหมาย
+PROPSKILL_TXT_000129,Increases damage dealt to the target while also increasing their Attack.,เพิ่มพลังโจมตีแต่แต่ยังเพิ่มการโจมตีของเป้าหมาย
 PROPSKILL_TXT_000130,Bgvur Tialbold,Bgvur Tialbold
-PROPSKILL_TXT_000131,Strikes at nearby enemies with an outward shockwave.,สร้างพลังคลื่นพุ่งเข้ากระแทกใส่ศัตรู
+PROPSKILL_TXT_000131,Strikes nearby enemies with an outward shockwave.,สร้างพลังคลื่นพุ่งเข้ากระแทกใส่ศัตรู
 PROPSKILL_TXT_000132,Asalraalaikum,Asalraalaikum
-PROPSKILL_TXT_000133,Fully concentrated strike. Always Consumes 100% MP.,ใช้พลัง MP ที่มีอยู่ทั้งหมดโจมตี
+PROPSKILL_TXT_000133,A fully concentrated strike. Always consumes 100% MP.,ใช้พลัง MP ที่มีอยู่ทั้งหมดโจมตี
 PROPSKILL_TXT_000134,Flame Ball,Flame Ball
-PROPSKILL_TXT_000135,Strikes at the enemy with a ball of flame. Chance to reduce the targets healing capabilities.,โจมตีศัตรูด้วยลูกบอลไฟ โอกาสในการลดความสามารถในการรักษาเป้าหมาย
+PROPSKILL_TXT_000135,Strikes the enemy with a ball of flame that may reduce the target's HP Restoration.,โจมตีศัตรูด้วยลูกบอลไฟ โอกาสในการลดความสามารถในการรักษาเป้าหมาย
 PROPSKILL_TXT_000136,Flame Geyser,Flame Geyser
-PROPSKILL_TXT_000137,Damages the enemy continuously with a geyser of flame.,สร้างความเสียหายให้กับศัตรูด้วยเปลวไฟ
+PROPSKILL_TXT_000137,"Engulfs the enemy in a geyser of flame, dealing damage over time.",สร้างความเสียหายให้กับศัตรูด้วยเปลวไฟ
 PROPSKILL_TXT_000138,Swordwind,Swordwind
 PROPSKILL_TXT_000140,Strongwind,Strongwind
-PROPSKILL_TXT_000141,"Ranged, wind attack that moves the enemy.",โจมตีเป้าหมายด้วยลมหมุน กระแทกเป้าหมายอย่างรุนแรง
+PROPSKILL_TXT_000141,A ranged wind attack that pushes the enemy back.,โจมตีเป้าหมายด้วยลมหมุน กระแทกเป้าหมายอย่างรุนแรง
 PROPSKILL_TXT_000142,Blinkpool,Blinkpool
-PROPSKILL_TXT_000143,Allows you to teleport.,เคลื่อนย้ายตัวเองอย่างฉับพลัน
+PROPSKILL_TXT_000143,Teleports you to a target point within range.,เคลื่อนย้ายตัวเองอย่างฉับพลัน
 PROPSKILL_TXT_000144,Ice Missile,Ice Missile
-PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice. Chance to reduce the speed of the target.,โจมตีศัตรูด้วยแท่งน้ำแข็งอันแหลมคม โอกาสในการลดความเร็วของเป้าหมาย
+PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice that may reduce the target's speed.,โจมตีศัตรูด้วยแท่งน้ำแข็งอันแหลมคม โอกาสในการลดความเร็วของเป้าหมาย
 PROPSKILL_TXT_000146,Lightning Ball,Lightning Ball
-PROPSKILL_TXT_000147,Damages the enemy with a ball of static. Chance to reduce the targets defense.,สร้างความเสียหายให้กับศัตรูด้วยลูกบอลไฟ โอกาสในการลดการป้องกันเป้าหมาย
+PROPSKILL_TXT_000147,Damages the enemy with a ball of static that may reduce the target's defense.,สร้างความเสียหายให้กับศัตรูด้วยลูกบอลไฟ โอกาสในการลดการป้องกันเป้าหมาย
 PROPSKILL_TXT_000148,Stone Spike,Stone Spike
-PROPSKILL_TXT_000149,Damages an enemy with a stone spike. Chance to stun the enemy.,สร้างความเสียหายโดยการขว้างหินออกไป มีผลให้ศัตรูมึนงงชั่วขณะ
+PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,สร้างความเสียหายโดยการขว้างหินออกไป มีผลให้ศัตรูมึนงงชั่วขณะ
 PROPSKILL_TXT_000150,Mental Strike,Mental Strike
-PROPSKILL_TXT_000151,Ranged Mental attack.,โจมตีศัตรูด้วยธาตุที่เป็นกลาง
+PROPSKILL_TXT_000151,A medium-ranged mental attack.,โจมตีศัตรูด้วยธาตุที่เป็นกลาง
 PROPSKILL_TXT_000152,Fire Strike,Fire Strike
-PROPSKILL_TXT_000153,Damages an enemy with a fire ball.,สร้างความเสียหายให้กับศัตรูด้วยลูกบอลไฟขนาดใหญ่
+PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",สร้างความเสียหายให้กับศัตรูด้วยลูกบอลไฟขนาดใหญ่
 PROPSKILL_TXT_000154,Wind Cutter,Wind Cutter
-PROPSKILL_TXT_000155,"Ranged, wind attack. Reduces fire resistance of the target.",โจมตีระยะไกล ลดความต้านทานไฟของเป้าหมาย
+PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",โจมตีระยะไกล ลดความต้านทานไฟของเป้าหมาย
 PROPSKILL_TXT_000156,Waterball,Waterball
-PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at your target.,โจมตีด้วยลูกบอลน้ำแรงดันสูง
+PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,โจมตีด้วยลูกบอลน้ำแรงดันสูง
 PROPSKILL_TXT_000158,Water Well,Water Well
-PROPSKILL_TXT_000159,Splashes the enemy with a water attack.,โจมตีศัตรูด้วยน้ำ 
+PROPSKILL_TXT_000159,"Soaks the enemy with rushing water, making them more susceptible to electricity attacks.",โจมตีศัตรูด้วยน้ำ 
 PROPSKILL_TXT_000160,Lightning Ram,Lighting Ram
-PROPSKILL_TXT_000161,Damages the enemy with an electric ball,โจมตีเป้าหมายด้วยพลังสายฟ้าจากฝ่ามือ
+PROPSKILL_TXT_000161,Damages the enemy with an electric ball.,โจมตีเป้าหมายด้วยพลังสายฟ้าจากฝ่ามือ
 PROPSKILL_TXT_000162,Lightning Shock,Lighting Shock
-PROPSKILL_TXT_000163,Damages the enemy with a small but fast lightning ball.,โจมตีเป้าหมายด้วยกระแสไฟฟ้าหลายหมื่นโวลต์
+PROPSKILL_TXT_000163,"Blasts the enemy with a ball of lightning, electrifying them and making them more susceptible to earth attacks.",โจมตีเป้าหมายด้วยกระแสไฟฟ้าหลายหมื่นโวลต์
 PROPSKILL_TXT_000164,Rock Crash,Rock Crash
-PROPSKILL_TXT_000165,Damages the enemy with a giant stone.,โจมตีเป้าหมายด้วยก้อนหินขนาดใหญ่
+PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",โจมตีเป้าหมายด้วยก้อนหินขนาดใหญ่
 PROPSKILL_TXT_000166,Rooting,Rooting
-PROPSKILL_TXT_000167,Prevents an enemy from approaching.,ทำให้เป้าหมายขยับไม่ได้ด้วยพลังแห่งพื้นดิน
+PROPSKILL_TXT_000167,"Binds the enemy with roots, immobilizing them.",ทำให้เป้าหมายขยับไม่ได้ด้วยพลังแห่งพื้นดิน
 PROPSKILL_TXT_000168,Demonology,Demonology
-PROPSKILL_TXT_000169,Damages the enemy with a mental blast and reduces their attack power.,สร้างภาพลวงตาปีศาลจู่โจมศักและลดพลังโจมตีของพวกมัน
+PROPSKILL_TXT_000169,Damages the enemy with a mental blast that reduces their Attack.,สร้างภาพลวงตาปีศาลจู่โจมศักและลดพลังโจมตีของพวกมัน
 PROPSKILL_TXT_000170,Satanology,Satanology
 PROPSKILL_TXT_000172,Psychic Bomb,Psychic Bomb
 PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,สร้างลูกระเบิดพลังจิตโจมตีเป้าหมาย
 PROPSKILL_TXT_000174,Psychic Wall,Psychic Wall
-PROPSKILL_TXT_000175,Creates a wall that pushes an enemy back and damages them & reduces their speed if they touch it.,สร้างกำแพงพลังจิตที่ผลักศัตรูถอยหลังและสร้างความเสียหาย และลดความเร็วของพวกมันหากสัมผัสโดน
+PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.",สร้างกำแพงพลังจิตที่ผลักศัตรูถอยหลังและสร้างความเสียหาย และลดความเร็วของพวกมันหากสัมผัสโดน
 PROPSKILL_TXT_000176,Spirit Bomb,Spirit Bomb
-PROPSKILL_TXT_000177,Does damage to an enemy through the power of your mind.,Does damage to an enemy through the power of your mind.
+PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,Damages the enemy through the power of your mind.
 PROPSKILL_TXT_000178,Crucio Spell,Crucio Spell
-PROPSKILL_TXT_000179,Deals damage to an enemy equal to 1.75x the amount the enemy deals.,สะท้อนการโจมตี สร้างความเสียหายแก่ศัตรูเท่ากับ 1.75x ของจำนวนที่ศัตรูโจมตีมา
+PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,สะท้อนการโจมตี สร้างความเสียหายแก่ศัตรูเท่ากับ 1.75x ของจำนวนที่ศัตรูโจมตีมา
 PROPSKILL_TXT_000180,Maximum Crisis,Maximum Crisis
-PROPSKILL_TXT_000181,Damages surrounding enemies in a strong mental barrier. Small chance to stun targets.,ส่งกระแสจิตออกไปทำร้ายศัตรูที่อยู่รอบๆ
+PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun.",ส่งกระแสจิตออกไปทำร้ายศัตรูที่อยู่รอบๆ
 PROPSKILL_TXT_000182,Psychic Square,Psychic Square
-PROPSKILL_TXT_000183,Damages the enemies around you with a psychic blast.,สร้างเขตแดนพลังจิตเพื่อโจมตีเป้าหมายระยะใกล้
+PROPSKILL_TXT_000183,Damages the target enemy and enemies surrounding them with a psychic blast.,สร้างเขตแดนพลังจิตเพื่อโจมตีเป้าหมายระยะใกล้
 PROPSKILL_TXT_000184,Firebird,Firebird
-PROPSKILL_TXT_000185,Damages the enemy with a fire blast.,โจมตีเป้าหมายด้วยไฟที่ลุกลาม
+PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,โจมตีเป้าหมายด้วยไฟที่ลุกลาม
 PROPSKILL_TXT_000186,Fire Mastery,Fire Mastery
-PROPSKILL_TXT_000187,"Increases the striking power of fire spells,",เพิ่มความชำนาญในการใช้สกิลธาตุไฟ
+PROPSKILL_TXT_000187,Enhances the power of Fire spells.,เพิ่มความชำนาญในการใช้สกิลธาตุไฟ
 PROPSKILL_TXT_000190,Lightning Strike,Lightning Strike
-PROPSKILL_TXT_000191,Damages the enemy with a bolt of lightning.,สร้างความเสียหายแก่ศัตรูด้วยสายฟ้า
+PROPSKILL_TXT_000191,Calls down a devastating bolt of lightning upon the enemy.,สร้างความเสียหายแก่ศัตรูด้วยสายฟ้า
 PROPSKILL_TXT_000192,Lightning Mastery,Lightning Mastery
-PROPSKILL_TXT_000193,Increases the striking power of electric spells.,เพิ่มความชำนาญในการใช้สกิลธาตุไฟฟ้า
+PROPSKILL_TXT_000193,Enhances the power of Electric spells.,เพิ่มความชำนาญในการใช้สกิลธาตุไฟฟ้า
 PROPSKILL_TXT_000194,Electric Shock,Electric Shock
-PROPSKILL_TXT_000195,Damage surrounding enemies with electricity. Magic Resistance of the enemies decreases.,สร้างความเสียหายให้ศัตรูด้วยไฟฟ้า ในขณะเดียวกันความต้านทานเวทย์มนตร์ของศัตรูลดลง
+PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",สร้างความเสียหายให้ศัตรูด้วยไฟฟ้า ในขณะเดียวกันความต้านทานเวทย์มนตร์ของศัตรูลดลง
 PROPSKILL_TXT_000196,Stone Spear,Stone Spear
-PROPSKILL_TXT_000197,Damages an enemy with a stone spear.,โจมตีเป้าหมายด้วยหอกหินอันแหลมคม
+PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.",โจมตีเป้าหมายด้วยหอกหินอันแหลมคม
 PROPSKILL_TXT_000198,Earth Mastery,Earth Master
-PROPSKILL_TXT_000199,Increases the striking power of earth spells.,เพิ่มความชำนาญในการใช้สกิลธาตุดิน
+PROPSKILL_TXT_000199,Enhances the power of Earth spells.,เพิ่มความชำนาญในการใช้สกิลธาตุดิน
 PROPSKILL_TXT_000200,Earthquake,Earthquake
-PROPSKILL_TXT_000201,Damages surrounding enemies area. Has a chance to lower the attack of the target.,สร้างความเสียหายให้กับพื้นที่ศัตรูโดยรอบ มีโอกาสลดการโจมตีของเป้าหมาย
+PROPSKILL_TXT_000201,"Shatters the ground beneath the target enemy and surrounding enemies, sending chunks of earth flying outward, with a chance to reduce their Attack.",สร้างความเสียหายให้กับพื้นที่ศัตรูโดยรอบ มีโอกาสลดการโจมตีของเป้าหมาย
 PROPSKILL_TXT_000202,Iceshark,Iceshark
-PROPSKILL_TXT_000203,Ranged attack that fires an ice projectile.,จู่โจมเป้าหมายด้วยฉลามน้ำแข็ง
+PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting outward in freezing shards.",จู่โจมเป้าหมายด้วยฉลามน้ำแข็ง
 PROPSKILL_TXT_000204,Water Mastery,Water Mastery
-PROPSKILL_TXT_000205,Increases striking power of water spells.,เพิ่มความชำนาญในการใช้สกิลธาตุน้ำ
+PROPSKILL_TXT_000205,Enhances the power of Water spells.,เพิ่มความชำนาญในการใช้สกิลธาตุน้ำ
 PROPSKILL_TXT_000206,Poison Cloud,Poison Cloud
-PROPSKILL_TXT_000207,Poisons all enemies in the surrounding area.,สร้างหมอกพิษโจมตีศัตรูที่อยู่ในบริเวณ
+PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",สร้างหมอกพิษโจมตีศัตรูที่อยู่ในบริเวณ
 PROPSKILL_TXT_000208,Void,Void
-PROPSKILL_TXT_000209,To attack the enemy by generating a perfect vacuum.,โจมตีเป้าหมายด้วยลูกบอลสูญญากาศ
+PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,โจมตีเป้าหมายด้วยลูกบอลสูญญากาศ
 PROPSKILL_TXT_000210,Wind Mastery,Wind Mastery
-PROPSKILL_TXT_000211,Increases the striking power of wind spells.,เพิ่มความชำนาญในการใช้สกิลธาตุลม
+PROPSKILL_TXT_000211,Enhances the power of Wind spells.,เพิ่มความชำนาญในการใช้สกิลธาตุลม
 PROPSKILL_TXT_000212,Windfield,Windfield
-PROPSKILL_TXT_000213,Damages surrounding enemies with a wind attack. The speed of the enemies will be reduced.,สร้างสนามลมขึ้นชั่วขณะ มอนสเตอร์ที่อยู่ในเขตของสนามพลังจะเคลื่อนที่ช้าลง
+PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed.",สร้างสนามลมขึ้นชั่วขณะ มอนสเตอร์ที่อยู่ในเขตของสนามพลังจะเคลื่อนที่ช้าลง
 PROPSKILL_TXT_000214,Meteo Shower,Meteo Shower
-PROPSKILL_TXT_000215,Damages surrounding enemies with a falling meteor.,โจมตีเป้าหมายรอบๆด้วยฝนดาวตก
+PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,โจมตีเป้าหมายรอบๆด้วยฝนดาวตก
 PROPSKILL_TXT_000216,Lightning Storm,Lightingstorm
-PROPSKILL_TXT_000217,Damages surrounding enemies with electric blasts. Chance to reduce Critical Damage.,สร้างความเสียหายแก่ศัตรูรอบข้างด้วยระเบิดไฟฟ้า โอกาสในการลดความเสียหายคริติคอล
+PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.",สร้างความเสียหายแก่ศัตรูรอบข้างด้วยระเบิดไฟฟ้า โอกาสในการลดความเสียหายคริติคอล
 PROPSKILL_TXT_000218,Sandstorm,Sandstorm
-PROPSKILL_TXT_000219,Damages surrounding enemies with a sandstorm. Chance to reduce Accuracy.,โจมตีเป้าหมายรอบๆด้วยพายุทราย โอกาสในการลดความแม่นยำ
+PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",โจมตีเป้าหมายรอบๆด้วยพายุทราย โอกาสในการลดความแม่นยำ
 PROPSKILL_TXT_000220,Blizzard,Blizzard
-PROPSKILL_TXT_000221,Damages surrounding enemies with a snowstorm. Chance to Stun.,สร้างความเสียหายให้ศัตรูด้วยพายุหิมะ โอกาศสตั้นสร้างความมึนงง
+PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",สร้างความเสียหายให้ศัตรูด้วยพายุหิมะ โอกาศสตั้นสร้างความมึนงง
 PROPSKILL_TXT_000222,Yo-Yo Mastery,Yo-Yo mastery
-PROPSKILL_TXT_000223,Increases damage done with a Yo-yo.,เพิ่มพลังโจมตีให้กับอาวุธประเภทโยโย่
+PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,เพิ่มพลังโจมตีให้กับอาวุธประเภทโยโย่
 PROPSKILL_TXT_000224,Bow Mastery,Bow Mastery
-PROPSKILL_TXT_000225,Increases damage done with a Bow.,เพิ่มพลังโจมตีให้กับอาวุธประเภทธนู
+PROPSKILL_TXT_000225,Increases damage dealt with bows.,เพิ่มพลังโจมตีให้กับอาวุธประเภทธนู
 PROPSKILL_TXT_000226,Dark Illusion,Dark Illusion
-PROPSKILL_TXT_000227,Become Invisible for a short time.,อำพรางตัวเองจากสายตาผู้อื่น
+PROPSKILL_TXT_000227,Turns you invisible for a short time.,อำพรางตัวเองจากสายตาผู้อื่น
 PROPSKILL_TXT_000228,Junk Arrow,Junk Arrow
-PROPSKILL_TXT_000229,Fire arrows wildly.,ยิงธนูไฟอย่างโหมกระหน่ำ
+PROPSKILL_TXT_000229,"Fires multiple volleys of arrows wildly at the enemy, some of which may miss.",ยิงธนูไฟอย่างโหมกระหน่ำ
 PROPSKILL_TXT_000230,Fast Walker,Fast Walker
-PROPSKILL_TXT_000231,Increases walk speed for a short time,เพิ่มความเร็วในการเคลื่อนที่แต่ใช้ได้ในระยะเวลาสั้นๆ
+PROPSKILL_TXT_000231,Increases movement speed for a short time.,เพิ่มความเร็วในการเคลื่อนที่แต่ใช้ได้ในระยะเวลาสั้นๆ
 PROPSKILL_TXT_000232,Aimed Shot,Aimed Shot
-PROPSKILL_TXT_000233,Slow shot that has a chance to deal double damage.,เล็งไปยังจุดอ่อนของเป้าหมาย เพิ่มความรุนแรงเป็น 2 เท่าของการโจมตีปกติ
+PROPSKILL_TXT_000233,"A slow, carefully aimed shot with a chance to deal double damage.",เล็งไปยังจุดอ่อนของเป้าหมาย เพิ่มความรุนแรงเป็น 2 เท่าของการโจมตีปกติ
 PROPSKILL_TXT_000234,Slow Step,Slow Step
-PROPSKILL_TXT_000235,Slows an enemy,โจมตีพร้อมเล็งที่ส่วนขาไว้ เมื่อโจมตีโดนจะทำให้เป้าหมายเคลื่อนที่ได้ช้าลง
+PROPSKILL_TXT_000235,An attack that may reduce the enemy's movement speed.,โจมตีพร้อมเล็งที่ส่วนขาไว้ เมื่อโจมตีโดนจะทำให้เป้าหมายเคลื่อนที่ได้ช้าลง
 PROPSKILL_TXT_000236,Silent Shot,Silent Shot
-PROPSKILL_TXT_000237,A surprise attack that does more damage during Dark Illusion.,ย่องเข้าไปโจมตีในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
+PROPSKILL_TXT_000237,A surprise attack that deals increased damage during Dark Illusion.,ย่องเข้าไปโจมตีในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
 PROPSKILL_TXT_000238,Perfect Block,Perfect Block
-PROPSKILL_TXT_000239,Increases block rate.,เพิ่มอัตรา Block การโจมตี
+PROPSKILL_TXT_000239,Increases your Block.,เพิ่มอัตรา Block การโจมตี
 PROPSKILL_TXT_000240,Arrow Rain,Arrow Rain
-PROPSKILL_TXT_000241,Creates a rain of arrows that does damage over time.,ระดมยิงลูกธนูจำนวนมากจากพื้นขึ้นสู่อากาศ เพื่อโจมตีเป้าหมายที่อยู่ในรัศมีที่ลูกธนูพุ่งลงพื้น
+PROPSKILL_TXT_000241,"Rains down arrows on the target enemy and surrounding enemies, dealing damage over time.",ระดมยิงลูกธนูจำนวนมากจากพื้นขึ้นสู่อากาศ เพื่อโจมตีเป้าหมายที่อยู่ในรัศมีที่ลูกธนูพุ่งลงพื้น
 PROPSKILL_TXT_000242,Cross Line,Cross Line
-PROPSKILL_TXT_000243,A Yo-yo strike that can cause stun.,โจมตีด้วยการเหวี่ยงโยโย่ไขว้กันเป้าหมายที่ถูกโจมตีจะเกิดอาการชะงักและโจมตีกลับไม่ได้
+PROPSKILL_TXT_000243,A Yo-Yo strike with a chance to stun the enemy.,โจมตีด้วยการเหวี่ยงโยโย่ไขว้กันเป้าหมายที่ถูกโจมตีจะเกิดอาการชะงักและโจมตีกลับไม่ได้
 PROPSKILL_TXT_000244,Auto Shot,Auto Shot
-PROPSKILL_TXT_000245,Fires arrows multiple times. Can reduce enemies Accuracy.,โจมตีด้วยการยิงธนูหลายครั้ง สามารถลดความแม่นยำของศัตรูได้
+PROPSKILL_TXT_000245,"Fires multiple arrows at the enemy, with a chance to reduce their accuracy.",โจมตีด้วยการยิงธนูหลายครั้ง สามารถลดความแม่นยำของศัตรูได้
 PROPSKILL_TXT_000246,Snatch,Snatch
-PROPSKILL_TXT_000247,Steal penya from a target while in Dark Illusion. Attack from behind.,ขโมยเงินจากเป้าหมายพร้อมโจมตีอย่างรุนแรงในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
+PROPSKILL_TXT_000247,Steals Penya from the target while under Dark Illusion. Must attack from behind.,ขโมยเงินจากเป้าหมายพร้อมโจมตีอย่างรุนแรงในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
 PROPSKILL_TXT_000248,Counter Attack,Counter Attack
-PROPSKILL_TXT_000249,Execute an attack after the enemy does.,เมื่อหลบการโจมตีได้จะทำการสวนการโจมตีกลับไปทำให้เกิดสถานะมึนงง
-PROPSKILL_TXT_000250,Deadly swing,Deadly swing
-PROPSKILL_TXT_000251,Strong Yo-yo blast. Chance to make the enemy lose health over time.,โจมตีไปยังจุดอ่อนของเป้าหมายทำให้ HP เป้าหมายค่อยๆลดลงเรื่อยๆ
+PROPSKILL_TXT_000249,Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance.,เมื่อหลบการโจมตีได้จะทำการสวนการโจมตีกลับไปทำให้เกิดสถานะมึนงง
+PROPSKILL_TXT_000250,Deadly Swing,Deadly Swing
+PROPSKILL_TXT_000251,A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed.,โจมตีไปยังจุดอ่อนของเป้าหมายทำให้ HP เป้าหมายค่อยๆลดลงเรื่อยๆ
 PROPSKILL_TXT_000252,Pulling,Pulling
-PROPSKILL_TXT_000253,Brings a target to you using Yo-yo.,ใช้สายโยโย่พันร่างเป้าหมายแล้วดึงเข้ามาหาตัวเอง
+PROPSKILL_TXT_000253,Pulls the target toward you using the Yo-Yo.,ใช้สายโยโย่พันร่างเป้าหมายแล้วดึงเข้ามาหาตัวเอง
 PROPSKILL_TXT_000254,Critical Swing,Critical Swing
-PROPSKILL_TXT_000255,Increases chance of critical strike.,เพิ่มอัตราโจมตีคริติคอลเมื่อใช้อาวุธประเภทโยโย่
+PROPSKILL_TXT_000255,Increases your Critical Chance and Block Penetration.,เพิ่มอัตราโจมตีคริติคอลเมื่อใช้อาวุธประเภทโยโย่
 PROPSKILL_TXT_000256,Enchant Poison,Enchant Poison
-PROPSKILL_TXT_000257,Adds poison damage to your yo-yo and increases attack power.,เพิ่มธาตุพิษเข้าไปในโยโย่ เพื่อเพิ่มพลังโจมตีและทำให้เป้าหมายมีโอกาสติดพิษ
+PROPSKILL_TXT_000257,Imbues the Yo-Yo so attacks have a chance to inflict poison and increases Attack.,เพิ่มธาตุพิษเข้าไปในโยโย่ เพื่อเพิ่มพลังโจมตีและทำให้เป้าหมายมีโอกาสติดพิษ
 PROPSKILL_TXT_000258,Enchant Blood,Enchant Blood
-PROPSKILL_TXT_000259,Adds blood damage to your yo-yo and increases attack power.,โจมตีไปยังจุดอ่อนของเป้าหมายด้วยโยโย่ เพิ่มพลังโจมตีและทำให้เป้าหมายเลือดไหล
+PROPSKILL_TXT_000259,Imbues the Yo-Yo so attacks have a chance to inflict bleeding and increases Attack.,โจมตีไปยังจุดอ่อนของเป้าหมายด้วยโยโย่ เพิ่มพลังโจมตีและทำให้เป้าหมายเลือดไหล
 PROPSKILL_TXT_000260,Enchant Absorb,Enchant Absorb
-PROPSKILL_TXT_000261,Adds the ability to drain HP to your yo-yo and increases attack power.,โจมตีอย่างรุนแรงด้วยโยโย่ เพิ่มพลังโจมตีและดูดเลือดของเป้าหมาย 
+PROPSKILL_TXT_000261,Imbues the Yo-Yo so attacks have a chance to drain HP and increases Attack.,โจมตีอย่างรุนแรงด้วยโยโย่ เพิ่มพลังโจมตีและดูดเลือดของเป้าหมาย 
 PROPSKILL_TXT_000262,Multi-Stab,Multi-Stab
 PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,โจมตีศัตรูหลายครั้งด้วย Yo-Yo
 PROPSKILL_TXT_000264,Hit of Penya,Hit of Penya
-PROPSKILL_TXT_000265,Strengthens the attack of a yo-yo by consuming penya.,โจมตีโดยไม่สนพลังป้องกันของเป้าหมายและขโมยเงินพร้อมกัน
+PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,โจมตีโดยไม่สนพลังป้องกันของเป้าหมายและขโมยเงินพร้อมกัน
 PROPSKILL_TXT_000266,Escape,Escape
-PROPSKILL_TXT_000267,Removes all de-buffs.,ลบ de-buff ทั้งหมด
+PROPSKILL_TXT_000267,Removes all debuffs from yourself.,ลบ de-buff ทั้งหมด
 PROPSKILL_TXT_000268,Vital Stab,Vital stab
-PROPSKILL_TXT_000269,Surprise attack while in Dark Illusion.,ค่าโจมตีและคริติคอลจะเพิ่มขึ้นเป็น 2 เท่า ในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
+PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,ค่าโจมตีและคริติคอลจะเพิ่มขึ้นเป็น 2 เท่า ในขณะที่สกิล Dark ILLUSION ยังมีผลอยู่
 PROPSKILL_TXT_000270,Critical Shot,Critical Shot
-PROPSKILL_TXT_000271,Increase Critical Hit for a limited time.,เพิ่มโอกาศโจมตีคริติคอล ณ ช่วงเวลาหนึ่ง
+PROPSKILL_TXT_000271,Increases Critical Chance for a limited time.,เพิ่มโอกาศโจมตีคริติคอล ณ ช่วงเวลาหนึ่ง
 PROPSKILL_TXT_000272,Ice Arrow,Ice Arrow
-PROPSKILL_TXT_000273,Slows an enemy down by shooting it with arrows covered in ice.,เพิ่มธาตุน้ำแข็งในลูกธนู โจมตีเป้าหมายรอบๆและทำให้เคลื่อนไหวช้าลง
+PROPSKILL_TXT_000273,"Shoots ice-covered arrows at the target enemy and surrounding enemies, reducing their movement speed.",เพิ่มธาตุน้ำแข็งในลูกธนู โจมตีเป้าหมายรอบๆและทำให้เคลื่อนไหวช้าลง
 PROPSKILL_TXT_000274,Flame Arrow,Flame Arrow
-PROPSKILL_TXT_000275,Gives the fire element to arrows and damages surrounding enemies.,เพิ่มธาตุไฟเข้าไปในลูกธนู ลูกธนูจะระเบิดเมื่อโดนเป้าหมาย ทำให้เกิดไฟลุกท่วมตัว
+PROPSKILL_TXT_000275,"Fires a flame-imbued arrow that leaves a burning field at the impact point, dealing damage over time to enemies within it.",เพิ่มธาตุไฟเข้าไปในลูกธนู ลูกธนูจะระเบิดเมื่อโดนเป้าหมาย ทำให้เกิดไฟลุกท่วมตัว
 PROPSKILL_TXT_000276,Piercing Arrow,Piercing Arrow
-PROPSKILL_TXT_000277,Increased arrow strike.,ง้างธนูสุดแรงและยิงออกไป ทะลุทะลวงร่างเป้าหมายทุกเป้าที่อยู่ในแนวยิงเป็นเส้นตรง
+PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,ง้างธนูสุดแรงและยิงออกไป ทะลุทะลวงร่างเป้าหมายทุกเป้าที่อยู่ในแนวยิงเป็นเส้นตรง
 PROPSKILL_TXT_000278,Poison Arrow,Poison Arrow
-PROPSKILL_TXT_000279,Shoots a deadly arrow full of poison at the target. Inflicts Poison.,ยิงธนูพิษที่เต็มไปด้วยพิษไปที่เป้าหมาย สถานะติดพิษ
+PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting poison damage over time.",ยิงธนูพิษที่เต็มไปด้วยพิษไปที่เป้าหมาย สถานะติดพิษ
 PROPSKILL_TXT_000280,Silent Arrow,Silent Arrow
 PROPSKILL_TXT_000281,Attacks the enemy and prevents them from casting spells.,เล็งธนูไปยังลำคอของเป้าหมาย เป้าหมายจะมีโอกาสติดสถานเป็นใบ้
 PROPSKILL_TXT_000282,Nature,Nature
-PROPSKILL_TXT_000283,Heightens the users senses with nature to increase Magic Defense & Bow Range.,เพิ่มความรู้สึกของผู้ใช้โดยธรรมชาติเพื่อเพิ่ม Magic Defense และ Bow Range
-PROPSKILL_TXT_000284,Triple shot,Triple shot
-PROPSKILL_TXT_000285,Fires three arrows at once. Stuns the target.,ยิงธนูออกไป 3 นัดซ้อน สร้างความมึนงงให้เป้าหมาย
+PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",เพิ่มความรู้สึกของผู้ใช้โดยธรรมชาติเพื่อเพิ่ม Magic Defense และ Bow Range
+PROPSKILL_TXT_000284,Triple Shot,Triple Shot
+PROPSKILL_TXT_000285,Fires a volley of arrows that stuns the target.,ยิงธนูออกไป 3 นัดซ้อน สร้างความมึนงงให้เป้าหมาย
 PROPSKILL_TXT_000286,Flash,Flash
 PROPSKILL_TXT_000287,Blinded by the flash of light.,โดนแฟลชและทำให้ตาบอด
 PROPSKILL_TXT_000288,Single Stun,Single Stun
 PROPSKILL_TXT_000290,Stun Group,Stun Group
-PROPSKILL_TXT_000291,You are stunned and you cannot move.,ติดสถานมึนงงแบบหมู่ และเคลื่อนที่ไม่ได้
+PROPSKILL_TXT_000291,You are stunned and cannot move.,ติดสถานมึนงงแบบหมู่ และเคลื่อนที่ไม่ได้
 PROPSKILL_TXT_000292,Damage,Damage
 PROPSKILL_TXT_000294,Atk. Counter,Atk. Counter
-PROPSKILL_TXT_000295,Attack just as an enemy attacks,โจมตีเช่นเดียวกับการโจมตีของศัตรู
-PROPSKILL_TXT_000296,Knock back,Knock back
+PROPSKILL_TXT_000295,Attack just as an enemy attacks.,โจมตีเช่นเดียวกับการโจมตีของศัตรู
+PROPSKILL_TXT_000296,Knockback,Knockback
 PROPSKILL_TXT_000297,Pushes the enemy back.,ผลักศัตรูให้กระเด็น
 PROPSKILL_TXT_000298,Burningfield,Burningfield
-PROPSKILL_TXT_000299,Does damage to the enemy over a period of time,สร้างความเสียหายแก่ศัตรูในระยะเวลาหนึ่ง
+PROPSKILL_TXT_000299,"Ignites the ground, creating a burning field that deals damage over time to enemies standing on it.",สร้างความเสียหายแก่ศัตรูในระยะเวลาหนึ่ง
 PROPSKILL_TXT_000300,Poison,Poison
-PROPSKILL_TXT_000301,Damages an enemy over a period of time and reduces their ability to heal.,สร้างความเสียหายติดพิษแก่ศัตรูในระยะเวลาหนึ่งและลดความสามารถในการรักษา
+PROPSKILL_TXT_000301,"You are poisoned, suffering damage over time and reduced HP Restoration.",สร้างความเสียหายติดพิษแก่ศัตรูในระยะเวลาหนึ่งและลดความสามารถในการรักษา
 PROPSKILL_TXT_000302,Stun,Stun
 PROPSKILL_TXT_000303,You are stunned and cannot move.,ติดสถานมึนงง และเคลื่อนที่ไม่ได้
 PROPSKILL_TXT_000304,Bleeding,Bleeding
-PROPSKILL_TXT_000305,Damages an enemy over a period of time and reduces their attack speed.,สร้างความเสียหายเลือดไหลแก่ศัตรูในระยะเวลาหนึ่งและลดความเร็วในการโจมตี
+PROPSKILL_TXT_000305,"You are bleeding, suffering damage over time and reduced Attack Speed and Casting Speed.",สร้างความเสียหายเลือดไหลแก่ศัตรูในระยะเวลาหนึ่งและลดความเร็วในการโจมตี
 PROPSKILL_TXT_000306,Steal HP,Steal HP
 PROPSKILL_TXT_000307,Drains life from an enemy.,ดูดเลือดมาจากศัตรู
 PROPSKILL_TXT_000308,Swordcross,Swordcross
 PROPSKILL_TXT_000310,Poison Sting,Poison sting
-PROPSKILL_TXT_000313,Damages an enemy over a period of time.,สร้างความเสียหายติดพิษแก่ศัตรูในระยะเวลาหนึ่ง
+PROPSKILL_TXT_000313,Damages an enemy over time.,สร้างความเสียหายติดพิษแก่ศัตรูในระยะเวลาหนึ่ง
 PROPSKILL_TXT_000314,Chill of Death,Chill of Death
-PROPSKILL_TXT_000315,Decreases attack speed and increases the casting time.,ลดความเร็วในการโจมตีและเพิ่มเวลาร่าย
+PROPSKILL_TXT_000315,"You are chilled, suffering reduced Attack Speed and Casting Speed.",ลดความเร็วในการโจมตีและเพิ่มเวลาร่าย
 PROPSKILL_TXT_000319,You fainted.,ล้มลง
 PROPSKILL_TXT_000320,Krrr's Poison,Krrr's poison
 PROPSKILL_TXT_000324,Berserker Mushroom,Berserker Mushroom
-PROPSKILL_TXT_000325,Increases striking power and attack speed.,เพิ่มพลังโจมตีและความเร็วในการโจมตี
+PROPSKILL_TXT_000325,Increases Attack and Attack Speed.,เพิ่มพลังโจมตีและความเร็วในการโจมตี
 PROPSKILL_TXT_000326,Protective Tree Bark,Protective Tree Bark
-PROPSKILL_TXT_000327,Increases defense by wrapping the body in tree bark.,เพิ่มการป้องกันโดยการใช้เปลือกไม้ห่อหุ้มตัว
+PROPSKILL_TXT_000327,Reduces incoming damage by wrapping your body in tree bark.,เพิ่มการป้องกันโดยการใช้เปลือกไม้ห่อหุ้มตัว
 PROPSKILL_TXT_000328,Buff Break,Buff Break
 PROPSKILL_TXT_000330,Buff Break X,Buff Break X
 PROPSKILL_TXT_000350,Burn,Burn
 PROPSKILL_TXT_000351,Damages the target continuously over time.,ทำให้เป้าหมายพลังลดลงเรื่อยๆ
 PROPSKILL_TXT_000380,Shield Bash,Shield Bash
-PROPSKILL_TXT_000381,Attacks the target with a shield. This attack has a chance to stun your enemy. Requires a shield.,โจมตีด้วยโล่ มีโอกาสที่ศัตรูจะติดสถานะมึนงง
+PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.",โจมตีด้วยโล่ มีโอกาสที่ศัตรูจะติดสถานะมึนงง
 PROPSKILL_TXT_000378,Grand Rage,Grand Rage
-PROPSKILL_TXT_000379,Strong One-Handed attack that converts 5% of the damage you deal into FP stolen from the enemy.,การโจมตีด้วยมือเดียวที่แข็งแกร่งซึ่งจะเปลี่ยน 5% ของความเสียหายที่คุณสร้างเป็น FP ที่ขโมยมาจากศัตรู
+PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,การโจมตีด้วยมือเดียวที่แข็งแกร่งซึ่งจะเปลี่ยน 5% ของความเสียหายที่คุณสร้างเป็น FP ที่ขโมยมาจากศัตรู
 PROPSKILL_TXT_000384,Heart of Fury,Heart of Fury
-PROPSKILL_TXT_000385,Increases fighting cababilities at the cost of 1% of your maximum FP each strike. Damage will increase by 10% of your maximum FP. Requires a one-handed weapon.,เพิ่มความสามารถในการต่อสู้ด้วยค่า 1% ของ FP สูงสุดของคุณในแต่ละครั้ง ความเสียหายจะเพิ่มขึ้น 10% ของ FP สูงสุดของคุณ ต้องการอาวุธมือเดียว
+PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,เพิ่มความสามารถในการต่อสู้ด้วยค่า 1% ของ FP สูงสุดของคุณในแต่ละครั้ง ความเสียหายจะเพิ่มขึ้น 10% ของ FP สูงสุดของคุณ ต้องการอาวุธมือเดียว
 PROPSKILL_TXT_100000,Moon Beam,Moon Beam
-PROPSKILL_TXT_100001,Calls upon the moon to weaken the target. All damage done to the target while this de-buff is active is increased.,เรียกหาดวงจันทร์เพื่อทำให้เป้าหมายอ่อนแอลง ความเสียหายทั้งหมดที่ทำกับเป้าหมายในขณะที่de-buffนี้ทำงานจะเพิ่มขึ้น
+PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",เรียกหาดวงจันทร์เพื่อทำให้เป้าหมายอ่อนแอลง ความเสียหายทั้งหมดที่ทำกับเป้าหมายในขณะที่de-buffนี้ทำงานจะเพิ่มขึ้น
 PROPSKILL_TXT_100002,Shade's Support,Shade's Support
-PROPSKILL_TXT_100003,Protects the monster from stun and rooting de-buffs.,ปกป้องมอนสเตอร์จากการติดสถานะมึนงงและde-buffs
+PROPSKILL_TXT_100003,Protects the monster from stun and rooting debuffs.,ปกป้องมอนสเตอร์จากการติดสถานะมึนงงและde-buffs
 PROPSKILL_TXT_100004,Shade's Boost,Shade's Boost
-PROPSKILL_TXT_100005,Increases the monster's speed.,เพิ่มความเร็วของมอนสเตอร์
+PROPSKILL_TXT_100005,Increases the monster's movement speed.,เพิ่มความเร็วของมอนสเตอร์
 PROPSKILL_TXT_100006,Dragon's Grace,Dragon's Grace
-PROPSKILL_TXT_100007,The Dragon's grace awakens your attack power.,Dragon's graceปลุกพลังโจมตีของคุณ
+PROPSKILL_TXT_100007,"Empowered by your dragon, gaining increased Attack.",Dragon's graceปลุกพลังโจมตีของคุณ
 PROPSKILL_TXT_100008,Lion's Grace,Lion's Grace
-PROPSKILL_TXT_100009,The Lion's grace awakens your health.,Lion's grace ปลุกhealthของคุณ
+PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP.",Lion's grace ปลุกhealthของคุณ
 PROPSKILL_TXT_100010,Tiger's Grace,Tiger's Grace
-PROPSKILL_TXT_100011,The Tiger's grace awakens your critical damage.,Tiger's graceปลุกcritical damageของคุณ
+PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage.",Tiger's graceปลุกcritical damageของคุณ
 PROPSKILL_TXT_100012,Fox's Grace,Fox's Grace
-PROPSKILL_TXT_100013,The Fox's grace awakens your skill damage and casting speed.,Fox's graceจะปลุกพลังโจมตีและความเร็วในการร่ายของคุณ
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack and Casting Speed.",Fox's graceจะปลุกพลังโจมตีและความเร็วในการร่ายของคุณ
 PROPSKILL_TXT_100014,Rabbit's Grace,Rabbit's Grace
-PROPSKILL_TXT_100015,The Rabbit's grace awakens your speed.,Rabbit's grace ปลุกความเร็วของคุณ
+PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed.",Rabbit's grace ปลุกความเร็วของคุณ
 PROPSKILL_TXT_100016,Griffin's Grace,Griffin's Grace
-PROPSKILL_TXT_100017,The Griffin's grace awakens your incoming damage negation.,Griffin's graceปลุกการป้องกันความเสียหายที่เข้ามาของคุณ
+PROPSKILL_TXT_100017,"Empowered by your griffin, taking reduced Incoming Damage.",Griffin's graceปลุกการป้องกันความเสียหายที่เข้ามาของคุณ
 PROPSKILL_TXT_100018,Unicorn's Grace,Unicorn's Grace
-PROPSKILL_TXT_100019,The Unicorn's grace awakens your block rate.,Unicorn's grace ปลุก อัตราการบล็อคของคุณ
+PROPSKILL_TXT_100019,"Empowered by your unicorn, gaining increased Block.",Unicorn's grace ปลุก อัตราการบล็อคของคุณ
 PROPSKILL_TXT_100020,Angel's Grace,Angel's Grace
-PROPSKILL_TXT_100021,The Angel's grace awakens your critical damage.,Angel's grace ปลุก critical damage ของคุณ
+PROPSKILL_TXT_100021,"Empowered by your angel, gaining increased Critical Damage.",Angel's grace ปลุก critical damage ของคุณ
 PROPSKILL_TXT_100022,King Crab's Grace,King Crab's Grace
-PROPSKILL_TXT_100023,The King Crab's grace awakes your block penetration.,King Crab's grace ปลุก การเจาะบล็อกของคุณ
+PROPSKILL_TXT_100023,"Empowered by your king crab, gaining increased Block Penetration.",King Crab's grace ปลุก การเจาะบล็อกของคุณ
 PROPSKILL_TXT_100024,Call of Fury,Call of Fury
-PROPSKILL_TXT_100025,A loud call that disrupts the target and forces them and nearby enemies to target you.,เสียงเรียกที่รบกวนเป้าหมายและบังคับให้พวกเขาและศัตรูที่อยู่ใกล้เคียงกำหนดเป้าหมายคุณ
+PROPSKILL_TXT_100025,Lets out a furious shout that forces the target enemy and surrounding enemies to focus their attacks on you.,เสียงเรียกที่รบกวนเป้าหมายและบังคับให้พวกเขาและศัตรูที่อยู่ใกล้เคียงกำหนดเป้าหมายคุณ
 PROPSKILL_TXT_100026,Heart of Sacrifice,Heart of Sacrifice
-PROPSKILL_TXT_100027,Redirect damage taken from a target player to yourself.,ย้ายความเสียหายที่ผู้เล่นเป้าหมายได้รับมาสู่ตัวคุณเอง
+PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,ย้ายความเสียหายที่ผู้เล่นเป้าหมายได้รับมาสู่ตัวคุณเอง
 PROPSKILL_TXT_000392,Rending Entry,Rending Entry
-PROPSKILL_TXT_000393,"Teleport to your cursor click position, dealing damage to nearby enemies. Chance to slow the enemy. If an enemy dies to this attack, Rending Entry's cooldown is reset.",เทเลพอร์ตตัวคุณไปยังตำแหน่งที่เลือก สร้างความเสียหายให้กับศัตรูรอบ ๆ มีโอกาสที่จะ Slow ศัตรู ถ้าศัตรูตายเพราะการจู่โจมนี้ Rending Entry คูลดาวน์จะถูกรีเซ็ต
+PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",เทเลพอร์ตตัวคุณไปยังตำแหน่งที่เลือก สร้างความเสียหายให้กับศัตรูรอบ ๆ มีโอกาสที่จะ Slow ศัตรู ถ้าศัตรูตายเพราะการจู่โจมนี้ Rending Entry คูลดาวน์จะถูกรีเซ็ต
 PROPSKILL_TXT_000394,Barrier of Life,Barrier of Life
-PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.,เป้าหมายจะบล็อคการโจมตีครั้งต่อไปไม่ว่าจะเกิดอะไรขึ้น
+PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,เป้าหมายจะบล็อคการโจมตีครั้งต่อไปไม่ว่าจะเกิดอะไรขึ้น
 PROPSKILL_TXT_000430,Gravity Well,Gravity Well
-PROPSKILL_TXT_000431,Creates a gravity well at your cursor position that considerably slows enemies in the area.,สร้าง Gravity Well ที่ตำแหน่งของเคอเซอร์ และลดความเร็วของศัตรูในบริเวณนั้นอย่างมาก
+PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.,สร้าง Gravity Well ที่ตำแหน่งของเคอเซอร์ และลดความเร็วของศัตรูในบริเวณนั้นอย่างมาก
 PROPSKILL_TXT_000440,Eye of the Storm,Eye of the Storm
-PROPSKILL_TXT_000441,"Summon a tornado around yourself, pushing back nearby enemies and creating a barrier which blocks people from reaching you.",เรียกพายุหมุนมารอบตัวเอง ผลักศัตรูท่อยู่ใกล้ ๆ ออกไป และสร้างบาเรียเพื่อไม่ให้คนอื่นเข้ามาถึงตัวคุณได้
+PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.",เรียกพายุหมุนมารอบตัวเอง ผลักศัตรูท่อยู่ใกล้ ๆ ออกไป และสร้างบาเรียเพื่อไม่ให้คนอื่นเข้ามาถึงตัวคุณได้
 PROPSKILL_TXT_000424,Sury's Tenacity,Sury's Tenacity
-PROPSKILL_TXT_000425,"Become immune to crowd control at the cost of losing your ability to cast skills, and increased incoming healing.",ไม่ได้รับผลจาก crowd control แต่แลกมาด้วยที่ไม่สามารถใช้ Skill อะไรได้ และเพิ่มผลของการฮีลที่เข้ามา
+PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.",ไม่ได้รับผลจาก crowd control แต่แลกมาด้วยที่ไม่สามารถใช้ Skill อะไรได้ และเพิ่มผลของการฮีลที่เข้ามา
 PROPSKILL_TXT_000400,Jester's Blast,Jester's Blast
-PROPSKILL_TXT_000401,"Plant a time bomb on the target, exploding after a few seconds and dealing damage to nearby enemies. If Jester's Blast is recasted on the same target, it will prompt an early detonation for reduced damage and range.","Plant a time bomb on the target, exploding after a few seconds and dealing damage to nearby enemies. If Jester's Blast is recasted on the same target, it will prompt an early detonation for reduced damage and range."
+PROPSKILL_TXT_000401,"Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range.","Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range."
 PROPSKILL_TXT_000402,Boomburst,Boomburst
-PROPSKILL_TXT_000403,Long range shot that sends a shockwave in an area around the target. This attack knocks enemies around the affected target down.,การยิงระยะไกลที่ส่งคลื่นกระแทกไปในบริเวณเป้าหมาย การโจมตีนี้ทำให้ศัตรูรอบ ๆ เป้าหมายล้มลง
+PROPSKILL_TXT_000403,"Fires a long-range projectile that detonates on impact, knocking down the target enemy and surrounding enemies.",การยิงระยะไกลที่ส่งคลื่นกระแทกไปในบริเวณเป้าหมาย การโจมตีนี้ทำให้ศัตรูรอบ ๆ เป้าหมายล้มลง
 PROPSKILL_TXT_000404,Raon's Fire,Raon's Fire
 PROPSKILL_TXT_000405,Reduces fire resistance by 20%.,ลดการป้องกันไฟลง 20%
 PROPSKILL_TXT_000406,Herness' Water,Herness' Water
@@ -380,58 +380,58 @@ PROPSKILL_TXT_100031,Bolstered,Bolstered
 PROPSKILL_TXT_100032,Your defenses are enhanced.,พลังป้องกันของคุณเพิ่มขึ้น
 PROPSKILL_TXT_100033,Explode,Explode
 PROPSKILL_TXT_100034,Curse of the Drowned Rangda,Curse of the Drowned Rangda
-PROPSKILL_TXT_100035,"Monsters have increased attack, and increased incoming damage.",มอนสเอตร์พลังโจมตีเพิ่มขึ้น และพลังความเสียทีเข้ามาเพิ่มขึ้น
+PROPSKILL_TXT_100035,"Monsters have increased attack, but take increased damage.",มอนสเอตร์พลังโจมตีเพิ่มขึ้น และพลังความเสียทีเข้ามาเพิ่มขึ้น
 PROPSKILL_TXT_100036,Shade's Cruel Bargain,Shade's Cruel Bargain
-PROPSKILL_TXT_100037,"All monsters explode on death, but have more drop rate.",มอนสเตอร์ทั้งหมดระเบิดตอนตาย แต่จะได้อัตราดรอปเพิ่มขึ้น
+PROPSKILL_TXT_100037,"Monsters explode on death, but have an increased drop rate.",มอนสเตอร์ทั้งหมดระเบิดตอนตาย แต่จะได้อัตราดรอปเพิ่มขึ้น
 PROPSKILL_TXT_100038,Iblis Touched,Iblis Touched
-PROPSKILL_TXT_100039,"Monsters reflect damage, but have more drop rate.",มอนสเตอร์สะท้อนความเสียหาย แต่เพิ่มอัตราดรอป
+PROPSKILL_TXT_100039,"Monsters reflect damage, but have an increased drop rate.",มอนสเตอร์สะท้อนความเสียหาย แต่เพิ่มอัตราดรอป
 PROPSKILL_TXT_100040,Rhisis' Assistance,Rhisis' Assistance
-PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their health per second, but give more experience.",มอนสเตอร์ฟื้นพลังเป็นเปอร์เซ็นต์ของพลังพวกมันต่อวินาที แต่ให้ค่าประสบการณ์มากขึ้น
-PROPSKILL_TXT_100042,"Monsters have increased speed, but increased damage taken.",มอนสเตอร์มีความเร็วเพิ่มขึ้น แต่ก็ได้รับความเสียหายเพิ่มขึ้นด้วย
+PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.",มอนสเตอร์ฟื้นพลังเป็นเปอร์เซ็นต์ของพลังพวกมันต่อวินาที แต่ให้ค่าประสบการณ์มากขึ้น
+PROPSKILL_TXT_100042,"Monsters have increased movement speed, but take increased damage.",มอนสเตอร์มีความเร็วเพิ่มขึ้น แต่ก็ได้รับความเสียหายเพิ่มขึ้นด้วย
 PROPSKILL_TXT_100043,Dagger from Within,Dagger from Within
-PROPSKILL_TXT_100044,"Monsters have more critical chance, but give more experience.",มอนสเตอร์มีโอกาสติดคริติคอลเเพิ่มขึ้น แต่ให้ค่าประสบการณ์มากขึ้น
+PROPSKILL_TXT_100044,"Monsters have increased Critical Chance, but grant increased EXP.",มอนสเตอร์มีโอกาสติดคริติคอลเเพิ่มขึ้น แต่ให้ค่าประสบการณ์มากขึ้น
 PROPSKILL_TXT_100045,Phantom Pain,Phantom Pain
-PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have more drop rate.",มอนสเตอร์มีโอกาสจู่โจมสองครั้ง แต่เพิ่มอัตราการดรอป
+PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have an increased drop rate.",มอนสเตอร์มีโอกาสจู่โจมสองครั้ง แต่เพิ่มอัตราการดรอป
 PROPSKILL_TXT_100047,Drain of Iblis,Drain of Iblis
-PROPSKILL_TXT_100048,"Monsters have lifesteal, but increased incoming damage. ",มอนสเตอร์มี lifesteal แต่ได้รับความเสียหายเพิ่มขึ้น
+PROPSKILL_TXT_100048,"Monsters gain lifesteal, but take increased damage.",มอนสเตอร์มี lifesteal แต่ได้รับความเสียหายเพิ่มขึ้น
 PROPSKILL_TXT_100049,Shade's Adrenaline,Shade's Adrenaline
-PROPSKILL_TXT_100050,"Monsters attack faster, but have more drop rate. ",มอนสเตอร์โจมตีเร็วขึ้น แต่เพิ่มอัตราการดรอป
-PROPSKILL_TXT_100051,Life Linked,Life Linked
-PROPSKILL_TXT_100052,This entity will not die until the target life link is below a certain HP threshold.,สิ่งนี้จะไม่ตายจนกว่าเป้าหมายของ life link จะมี HP ต่ำกว่าระดับนึง
+PROPSKILL_TXT_100050,"Monsters have increased Attack Speed, but have an increased drop rate.",มอนสเตอร์โจมตีเร็วขึ้น แต่เพิ่มอัตราการดรอป
+PROPSKILL_TXT_100051,Life-linked,Life-linked
+PROPSKILL_TXT_100052,This entity cannot be defeated while its life-linked target remains above a certain HP threshold.,สิ่งนี้จะไม่ตายจนกว่าเป้าหมายของ life link จะมี HP ต่ำกว่าระดับนึง
 PROPSKILL_TXT_100053,Kraken's Revenge,Kraken's Revenge
-PROPSKILL_TXT_100054,Rapidly recovering health as a consequence of rage.,ฟื้นฟูพลังอย่างรวดเร็วแต่ว่าจะติดบ้าคลั่ง
+PROPSKILL_TXT_100054,Rapidly regenerating HP due to rage.,ฟื้นฟูพลังอย่างรวดเร็วแต่ว่าจะติดบ้าคลั่ง
 PROPSKILL_TXT_100055,Ice Patch,Ice Patch
 PROPSKILL_TXT_100056,Slowed by an ice patch.,ทำให้ช้าลงโดยเส้นทางน้ำแข็ง
 PROPSKILL_TXT_100057,Chill of the Ghostly Emperor,Chill of the Ghostly Emperor
-PROPSKILL_TXT_100058,Dungeon is covered in patches of ice that slow down. More drop rate.,ดันเจี้ยนจะปกคลุมไปด้วยน้ำแข็งและทำให้ช้าลง อัตราการดรอปเพิ่มขึ้น
+PROPSKILL_TXT_100058,The dungeon is covered in patches of ice that slow you down. Increased drop rate.,ดันเจี้ยนจะปกคลุมไปด้วยน้ำแข็งและทำให้ช้าลง อัตราการดรอปเพิ่มขึ้น
 PROPSKILL_TXT_100059,Webbed,Webbed
 PROPSKILL_TXT_100060,A sticky web slows your movement.,ใยแมงมุมเหนียว ๆ ที่ทำให้คุณเคลื่อนที่ช้าลง
 PROPSKILL_TXT_100061,Battered,Battered
 PROPSKILL_TXT_100062,A brutal strike has shattered your defenses. You take more damage than usual.,การโจมตีรุนแรงที่ทำให้การป้องกันแตกเป็นเสี่ยง ๆ ทำให้คุณได้รับความเสียหายมากกว่าปรกติ
 PROPSKILL_TXT_100063,Poisoned,Poisoned
-PROPSKILL_TXT_100064,Reduced the amount of healing received.,ลดการฮีลที่ได้รับ
+PROPSKILL_TXT_100064,Reduces your HP Restoration.,ลดการฮีลที่ได้รับ
 PROPSKILL_TXT_100065,Misty Touch,Misty Touch
-PROPSKILL_TXT_100066,Reduces the chance to hit.,ลดโอกาสการโจมตีโดน
+PROPSKILL_TXT_100066,Reduces your accuracy.,ลดโอกาสการโจมตีโดน
 PROPSKILL_TXT_100067,Hardened Carapace,Hardened Carapace
-PROPSKILL_TXT_100068,"The enemy has predicted your movements, and is resistant to your attacks.",ศัตรูได้คาดการ์ณการเคลื่อนไหวของคุณไว้แล้ว และทนทานต่อการโจมตีของคุณมากขึ้น
+PROPSKILL_TXT_100068,"The enemy anticipates your movements, reducing damage taken from your attacks.",ศัตรูได้คาดการ์ณการเคลื่อนไหวของคุณไว้แล้ว และทนทานต่อการโจมตีของคุณมากขึ้น
 PROPSKILL_TXT_100069,Mind Shatter,Mind Shatter
-PROPSKILL_TXT_100070,All concentration has halted. Your ability to rouse magic has been reduced.,สมาธิทั้งหมดหยุดลง ความสามารถในการปลุกเวทย์มนต์ของคุณลดลง
+PROPSKILL_TXT_100070,"Your concentration has been shattered, reducing your magic damage.",สมาธิทั้งหมดหยุดลง ความสามารถในการปลุกเวทย์มนต์ของคุณลดลง
 PROPSKILL_TXT_100071,Undying,Undying
-PROPSKILL_TXT_100072,There is an entity life linked to this one.,มี life linked กับติดกับสิ่งนี้แล้ว
+PROPSKILL_TXT_100072,Life-linked to another entity.,มี life linked กับติดกับสิ่งนี้แล้ว
 PROPSKILL_TXT_100073,Reflective Shell,Reflective Shell
-PROPSKILL_TXT_100074,A portion of the damage dealt to this monster is reflected back to you.,ความเสียหายบางส่วนที่มีกับมอนสเตอร์นี้ได้สะท้อนกลับไปยังคุณ
+PROPSKILL_TXT_100074,A portion of the damage you deal to this monster is reflected back to you.,ความเสียหายบางส่วนที่มีกับมอนสเตอร์นี้ได้สะท้อนกลับไปยังคุณ
 PROPSKILL_TXT_100075,Siren's Call,Siren's Call
-PROPSKILL_TXT_100076,The Siren draws you closer. Your pain is her pain.,Siren ได้เข้าใกล้คุณมาแล้ว คุณเจ็บปวดของคุณคือความเจ็บปวดของเธอ
+PROPSKILL_TXT_100076,"The Siren draws you closer. Her pain is your pain, redirecting a portion of any damage dealt to her to you.",Siren ได้เข้าใกล้คุณมาแล้ว คุณเจ็บปวดของคุณคือความเจ็บปวดของเธอ
 PROPSKILL_TXT_100077,Double Vision,Double Vision
-PROPSKILL_TXT_100078,You're seeing double. And feeling double..,คุณเห็นเป็นสองเท่าและรู้สึกเป็นสองเท่า
+PROPSKILL_TXT_100078,"Your perception fractures. You take double damage, but your damage against monsters is doubled.",คุณเห็นเป็นสองเท่าและรู้สึกเป็นสองเท่า
 PROPSKILL_TXT_100079,Pack Tactics,Pack Tactics
-PROPSKILL_TXT_100080,This monster stays loyal to the pack.,มอนสเตอร์ตัวนี้ยังคงภักดีกับฝูง
-PROPSKILL_TXT_100081,A well of gravity considerably slows and damages you.,well of gravity จะลดความเร็วคุณอย่างมาก และทำให้คุณบาดเจ็บ
+PROPSKILL_TXT_100080,This monster gains increased Attack while fighting alongside allies.,มอนสเตอร์ตัวนี้ยังคงภักดีกับฝูง
+PROPSKILL_TXT_100081,"You are caught in a gravitational well, suffering damage over time and greatly reduced movement speed.",well of gravity จะลดความเร็วคุณอย่างมาก และทำให้คุณบาดเจ็บ
 PROPSKILL_TXT_100082,"This monster steals your life force, but takes 5% more damage.",มอนสเตอร์ตัวนี้ขโมยเลือดของคุณ แต่ได้รับความเสียหายเพิ่มขึ้น 5%
 PROPSKILL_TXT_100083,Curse of the Demon Lord,Curse of the Demon Lord
-PROPSKILL_TXT_100084,The Demon Lord has cursed you with an overwhelming feeling of exhaustion.,Demon Lord ได้สาปคุณให้รู้สึกเหนื่อยอย่าท่วมท้น
-PROPSKILL_TXT_100085,Feeling Generous,Feeling Generous
-PROPSKILL_TXT_100086,This monster is feeling generous and will have an increased Drop & Exp bonus of 10%.,มอนสเตอร์รู้สึกใจกว้าง และเพิ่ม ดรอปและEXP ให้อีก 10%
+PROPSKILL_TXT_100084,"The Demon Lord has cursed you with overwhelming exhaustion, greatly reducing Speed, Attack Speed, and Casting Speed, and lowering all stats.",Demon Lord ได้สาปคุณให้รู้สึกเหนื่อยอย่าท่วมท้น
+PROPSKILL_TXT_100085,Blessing of the Golden Aibatt,Blessing of the Golden Aibatt
+PROPSKILL_TXT_100086,"Blessed by the Golden Aibatt's generosity, this monster grants 10% increased EXP and drop rates when defeated.",มอนสเตอร์รู้สึกใจกว้าง และเพิ่ม ดรอปและEXP ให้อีก 10%
 PROPSKILL_TXT_100087,Shade's Swiftness,Shade's Swiftness
 PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.",Shade เป็นเทพแห่งความกลัวและความโกรธ และพวกมันจะมอบบัฟนี้ให้กับผู้เล่นด้วยการมอบลมพัดพาซึ่งจะช่วยเพิ่มการตอบสนองของผู้เล่นและทำให้พวกเขาเคลื่อนไหวได้เร็วขึ้น
 PROPSKILL_TXT_100089,Iblis' Fortitude,Iblis' Fortitude
@@ -440,60 +440,60 @@ PROPSKILL_TXT_100091,Bubble's Bulwark,Bubble's Bulwark
 PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",Bubble เป็นเทพเจ้าแห่งความสุขและความบริสุทธิ์ เขาจะมอบบัฟนี้ให้กับผู้เล่นด้วยการสร้างโล่อันแข็งแกร่งที่ให้การป้องกันชั้นพิเศษต่อการโจมตีของศัตรู
 PROPSKILL_TXT_100093,Guild's Enhancement,Guild's Enhancement
 PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,บริจาค G-Token ให้กับกิลด์ของคุณและอัพเกรดระดับให้สูงขึ้น!
-PROPSKILL_TXT_100095,Spiritual Overcharge Chance,Spiritual Overcharge Chance
-PROPSKILL_TXT_100096,Healing Grace Chance,Healing Grace Chance
-PROPSKILL_TXT_100097,Prankster's Escape Chance,Prankster's Escape Chance
-PROPSKILL_TXT_100098,Last Stand Chance,Last Stand Chance
-PROPSKILL_TXT_100099,Aura Burst Chance,Aura Burst Chance
+PROPSKILL_TXT_100095,Spiritual Overcharge,Spiritual Overcharge
+PROPSKILL_TXT_100096,Healing Grace,Healing Grace
+PROPSKILL_TXT_100097,Prankster's Escape,Prankster's Escape
+PROPSKILL_TXT_100098,Last Stand,Last Stand
+PROPSKILL_TXT_100099,Aura Burst,Aura Burst
 PROPSKILL_TXT_100100,Supercharged,Supercharged
 PROPSKILL_TXT_100101,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.
 PROPSKILL_TXT_100102,Static,Static
 PROPSKILL_TXT_100103,Sparks of power drain your strength. Run away to prevent it from spreading!,ประกายไฟกำลังดูดพลังของคุณ รีบอยู่ห่างไว้เพื่อป้องกันจากการแพร่กระจาย!
 PROPSKILL_TXT_100104,Tethered,Tethered
-PROPSKILL_TXT_100105,You are bound! Make some distance to break the tether!,คุณถูกผนึกติดไว้แล้ว! รีบสร้างระยะห่างเพื่อตัดการผนึก!
+PROPSKILL_TXT_100105,You are bound by a tether! Create distance to break it!,คุณถูกผนึกติดไว้แล้ว! รีบสร้างระยะห่างเพื่อตัดการผนึก!
 PROPSKILL_TXT_100106,Slowed,Slowed
-PROPSKILL_TXT_100107,Waterbomb Chance,Waterbomb Chance
+PROPSKILL_TXT_100107,Waterbomb,Waterbomb
 PROPSKILL_TXT_100108,Jungle Fever,Jungle Fever
-PROPSKILL_TXT_100109,Disease spreads through your body. Hopefully the fever breaks.,โรคแพร่กระจายไปทั่วร่างกายคุณ หวังว่าอาการจะดีขึ้น
+PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever breaks.",โรคแพร่กระจายไปทั่วร่างกายคุณ หวังว่าอาการจะดีขึ้น
 PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark's Launch Buff
 PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,เพลิดเพลินไปกับ Exp ที่เพิ่มขึ้นและ อัตราการดรอปไอเท็ม จนถึงเลเวล 119!
 PROPSKILL_TXT_100112,Artifact Power,Artifact Power
-PROPSKILL_TXT_100113,My team's artifact count adds damage to Kalgas!,My team's artifact count adds damage to Kalgas!
+PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!","Your team's control over artifacts empowers you, increasing your damage against Kalgas!"
 PROPSKILL_TXT_100114,Kalgas Poison,Kalgas Poison
 PROPSKILL_TXT_100115,Poison spreads through your body.,Poison spreads through your body.
 PROPSKILL_TXT_100116,Kalgas' Dominance,Kalgas' Dominance
-PROPSKILL_TXT_100117,Your team is being dominated! Defeat an artifact to regain power!,Your team is being dominated! Defeat an artifact to regain power!
+PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.
 PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,2nd Anniversary Guild's Enhancement
 PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!
 PROPSKILL_TXT_100120,Poison (From Weapon),Poison (From Weapon)
 PROPSKILL_TXT_100121,Stun (From Weapon),Stun (From Weapon)
 PROPSKILL_TXT_100122,Bleeding (From Weapon),Bleeding (From Weapon)
-PROPSKILL_TXT_100123,FP and MP recovery amount increased by 10% for 10 minutes.,FP and MP recovery amount increased by 10% for 10 minutes.
+PROPSKILL_TXT_100123,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100124,Madrigal Stroll,Madrigal Stroll
-PROPSKILL_TXT_100125,Movement speed increased by 5% for 10 minutes.,Movement speed increased by 5% for 10 minutes.
+PROPSKILL_TXT_100125,Increases movement speed by 5% for you and your partner for 10 minutes.,Increases movement speed by 5% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100126,Field Outing,Field Outing
 PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,Reload the Experience Lock Gauge by 5% of the maximum.
 PROPSKILL_TXT_100128,Party Together,Party Together
-PROPSKILL_TXT_100129,Party experience increased by 10% for 30 minutes. Can only be used and is only effective if both members are in the same party.,Party experience increased by 10% for 30 minutes. Can only be used and is only effective if both members are in the same party.
+PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.
 PROPSKILL_TXT_100130,Golden Luck,Golden Luck
-PROPSKILL_TXT_100131,Drop and Penya quantity increased by 5% for 10 minutes.,Drop and Penya quantity increased by 5% for 10 minutes.
+PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.
 PROPSKILL_TXT_100132,Stamina Boost,Stamina Boost
-PROPSKILL_TXT_100133,All stats increased by 5 for 10 minutes.,All stats increased by 5 for 10 minutes.
-PROPSKILL_TXT_100134,Blessing from the Sky,Blessing from the Sky
-PROPSKILL_TXT_100135,Basic flight speed increased by 3 km/h for 5 minutes.,Basic flight speed increased by 3 km/h for 5 minutes.
+PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,Increases all stats by 5 for you and your partner for 10 minutes.
+PROPSKILL_TXT_100134,Sky's Blessing,Sky's Blessing
+PROPSKILL_TXT_100135,Increases flight speed by 3 km/h for you and your partner for 5 minutes.,Increases flight speed by 3 km/h for you and your partner for 5 minutes.
 PROPSKILL_TXT_100136,Cheer of Love,Cheer of Love
-PROPSKILL_TXT_100137,"+5% Experience, granted by your couple partner.","+5% Experience, granted by your couple partner."
+PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 5%.","Cheered on by your partner, your EXP rate is increased by 5%."
 PROPSKILL_TXT_100138,Happy Jump,Happy Jump
-PROPSKILL_TXT_100139,Jump height increased by 50 for 10 minutes.,Jump height increased by 50 for 10 minutes.
+PROPSKILL_TXT_100139,Increases Jump Height by 50 for you and your partner for 10 minutes.,Increases Jump Height by 50 for you and your partner for 10 minutes.
 PROPSKILL_TXT_100140,Swift Recovery,Swift Recovery
 PROPSKILL_TXT_100141,Herb Gathering,Herb Gathering
-PROPSKILL_TXT_100142,Gathering various herbs. ,Gathering various herbs. 
+PROPSKILL_TXT_100142,Gather various herbs.,Gather various herbs.
 PROPSKILL_TXT_100143,Wood Cutting,Wood Cutting
 PROPSKILL_TXT_100144,Cut down trees.,Cut down trees.
 PROPSKILL_TXT_100145,Mining,Mining
-PROPSKILL_TXT_100146,Mine various ores and gem.,Mine various ores and gem.
+PROPSKILL_TXT_100146,Mine various ores and gems.,Mine various ores and gems.
 PROPSKILL_TXT_100147,Fishing,Fishing
-PROPSKILL_TXT_100148,Fishing various fish.,Fishing various fish.
+PROPSKILL_TXT_100148,Catch various fish.,Catch various fish.
 PROPSKILL_TXT_100149,Cooking,Cooking
 PROPSKILL_TXT_100150,Cook various foods.,Cook various foods.
 PROPSKILL_TXT_100151,Alchemy,Alchemy
@@ -509,7 +509,7 @@ PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fo
 PROPSKILL_TXT_150000,Harlequin's Greeting,Harlequin's Greeting
 PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Perform a quick step, teleporting behind your target with a swift attack."
 PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
-PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
+PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
 PROPSKILL_TXT_150004,Range Increase,Range Increase
 PROPSKILL_TXT_150005,Harlequin's Charge,Harlequin's Charge
 PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Gather strength to perform a powerful charging attack against a single enemy.

@@ -47,7 +47,7 @@ TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,您的帳號或密碼
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,驗證失敗，請再試一次。 
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f",位置：x = %f，y = %f，z = %f，角度 = %f
 TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,您不能發送私訊給自己。
-TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s 不存在或未上線。
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s 不存在或未上線。
 TEXTCLIENT_APP_NOTICE,Notice,公告設定
 TEXTCLIENT_APP_STATUS,Status,狀態
 TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s Lv %d
@@ -170,7 +170,7 @@ TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,你�
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,無法使用技能，劇團經驗不足。
 TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,正在使用%s劇團技能，請稍後再使用
 TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,使用了%s劇團技能
-TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,%s劇團技能的持續時間已到，效果即將消失
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s has ended.,%s劇團技能的持續時間已到，效果即將消失
 TEXTCLIENT_ACR_FAME01,Rogue,死跑龍套
 TEXTCLIENT_ACR_FAME02,Outlaw,雜耍員
 TEXTCLIENT_ACR_FAME03,Vigilante,紅牌小丑
@@ -219,7 +219,7 @@ TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,對方拒絕將您加入�
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s目前是關閉即時通功能的狀態
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,即時通可登錄的好友名單為200人
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s將您登錄到即時通名單了
-TEXTCLIENT_NOTLOGIN,That player is not connected.,目前不在線上
+TEXTCLIENT_NOTLOGIN,That player is offline.,目前不在線上
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.",%s已經離線，所以無法對他發送即時訊息，請利用即時通中的留言功能
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,收到%d個新留言
 TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,對方的留言箱已滿，無法再接收留言
@@ -239,7 +239,7 @@ TEXTCLIENT_CONNREFUSE,Do not post connection status.,關閉上線通知功能
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,可封鎖的玩家數超過了，請整理封鎖目錄後再使用。
 TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,無法封鎖自己的角色，請確認ID。
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,已經是封鎖聊天的對象。
-TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,封鎖了%s的聊天。打 /Unignore <NAME> 將它們從您的封鎖列表中刪除。
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,封鎖了%s的聊天。打 /Unignore <NAME> 將它們從您的封鎖列表中刪除。
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,解除了封鎖%s的聊天。
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,是封鎖聊天目錄中沒有的對象。
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,請先卸除裝備上的物品。
@@ -259,7 +259,7 @@ TEXTCLIENT_CURRENT_QUEST,Quests in Progress,進行中的任務
 TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,%s任務已經開始進行了，請確認任務的目的之後進行
 TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,%s任務已經被取消了
 TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,無法完成任務，任務被取消
-TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,此伺服器無法進入，請進入其他伺服器。
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please select another.,此伺服器無法進入，請進入其他伺服器。
 TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,無法騎著飛行器進入
 TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,想要開啟，必須要有%s
 TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.",您沒有適當的鑰匙可以開啟
@@ -559,9 +559,9 @@ TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same ti
 TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,正在使用同樣的物品，目前使用的物品使用完畢後再使用
 TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,已經擁有 %s的名字了，請送給心愛的人吧！
 TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,已經刻好 %s的名字了，請送給心愛的人吧！
-TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,這枚刻有名字戒指的玩家不在線。
-TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,在這裡無法移動到 %s身邊
-TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,無法移動到飛行中的人身邊
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is offline.,這枚刻有名字戒指的玩家不在線。
+TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.,在這裡無法移動到 %s身邊
+TEXTCLIENT_COUPLERING_ERR03,You can not teleport to a player who is flying.,無法移動到飛行中的人身邊
 TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,這虛寶只能使用在武器和防具
 TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,您想對以下道具使用隨機屬性升級嗎？\n%s
 TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,之前使用的隨機屬性升級將被覆蓋，你想繼續嗎？
@@ -582,7 +582,7 @@ TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,因為這角色在對戰�
 TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,在活動地區時
 TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,在卡巴拉斯
 TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,無法使用在自己身上
-TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s不在線上
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is offline.,%s不在線上
 TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,這玩家不是您的朋友或已被屏蔽。
 TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,%s 無法召喚
 TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,%s 無法確認
@@ -942,7 +942,7 @@ TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,未找到公會 %s。
 TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,你必須提供一個理由。
 TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,您收到來自 %s 的警告：%s
 TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s 已被警告。
-TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.",%s 不在線，但無論如何都會記錄警告。
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is offline, but the warning was logged anyway.",%s 不在線，但無論如何都會記錄警告。
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,還剩 %d 分鐘殺死 %s
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,還剩 %d 分鐘殺死 %dx %s
 TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,你的票已過期！你被傳送回瑪德利賈！
@@ -1108,7 +1108,7 @@ TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture
 TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,You need to be in your house or guild house to place that furniture.
 TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,You have neither a house nor a guild house.
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,You successfully added %s as a visitor!
-TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,The player you selected is not online.
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,The player you selected is offline.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,You successfully removed that player from your visitor list.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,That player is not in your visitor list.
 TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,You do not currently own a house.
@@ -1271,7 +1271,7 @@ TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
 TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
 TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
-TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Account %d does not exist or is offline.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
 TEXTCLIENT_APP_SEARCHSHOP,Search Shop,搜尋商店
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.

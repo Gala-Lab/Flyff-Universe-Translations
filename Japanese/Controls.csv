@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,メテオニカの監獄
 PROPCTRL_TXT_000014,Pink Roach Egg,ピンクローチの卵
 PROPCTRL_TXT_000016,Blue Roach Egg,ブルーローチの卵
 PROPCTRL_TXT_000028,Warp Machine,ワープマシン
-PROPCTRL_TXT_000030,Warp Board1,ワープボード
-PROPCTRL_TXT_000032,Warp Board2,ワープボード
-PROPCTRL_TXT_000034,Warp Board3,ワープボード
+PROPCTRL_TXT_000030,Warp Board 1,ワープボード
+PROPCTRL_TXT_000032,Warp Board 2,ワープボード
+PROPCTRL_TXT_000034,Warp Board 3,ワープボード
 PROPCTRL_TXT_000036,Exp Box,経験値ボックス
 PROPCTRL_TXT_000037,Harvest Plant 01,収穫植物 01
 PROPCTRL_TXT_000038,Harvest Plant 02,収穫植物 02
@@ -77,7 +77,7 @@ PROPCTRL_TXT_000097,Metaverse Sofa,メタバースソファ
 PROPCTRL_TXT_000098,Metaverse Round Table,メタバース円卓会議
 PROPCTRL_TXT_000099,Metaverse Storage Table,メタバース ストレージ テーブル
 PROPCTRL_TXT_000100,Metaverse Decorative Table,メタバースデコラティブテーブル
-PROPCTRL_TXT_000101,Metaverse Violon,メタバースバイオロン
+PROPCTRL_TXT_000101,Metaverse Violin,メタバースバイオロン
 PROPCTRL_TXT_000102,Wooden Yellow Chair,木製の黄色い椅子
 PROPCTRL_TXT_000103,Wooden Yellow Table,木製の黄色いテーブル
 PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,木製の黄色のドレッシングテーブル
@@ -154,7 +154,7 @@ PROPCTRL_TXT_000174,Wooden Sofa,木製ソファ
 PROPCTRL_TXT_000175,Flaris Ground Field,フラリスグラウンドフィールド
 PROPCTRL_TXT_000176,Flaris Anvil,フラリスアンビル
 PROPCTRL_TXT_000177,Flaris Bench,フラリスベンチ
-PROPCTRL_TXT_000178,Flaris Charrette,フラリスシャーレット
+PROPCTRL_TXT_000178,Flaris Chariot,フラリスシャーレット
 PROPCTRL_TXT_000179,Flaris Fence 1,フラリスフェンス1
 PROPCTRL_TXT_000180,Flaris Floor Lamp,フラリスフロアランプ
 PROPCTRL_TXT_000181,Flaris Wall Lamp,フラリスウォールランプ
@@ -177,7 +177,7 @@ PROPCTRL_TXT_000197,Common Autumn Tree,一般的な秋の木
 PROPCTRL_TXT_000198,Common Sakura Tree 1,一般的な桜の木1
 PROPCTRL_TXT_000199,Common Burned Tree,一般的な焼けた木
 PROPCTRL_TXT_000200,St Morning Bench,セントモーニングベンチ
-PROPCTRL_TXT_000201,St Morning Charrette,セント モーニング シャーレット
+PROPCTRL_TXT_000201,St Morning Chariot,セント モーニング シャーレット
 PROPCTRL_TXT_000202,St Morning Rock Arch 1,セントモーニングロックアーチ1
 PROPCTRL_TXT_000203,St Morning Flag 1,セントモーニングフラッグ1
 PROPCTRL_TXT_000204,St Morning Flower Bed,セントモーニングフラワーベッド
@@ -199,7 +199,7 @@ PROPCTRL_TXT_000219,Azria Tree 1,アズリアの木1
 PROPCTRL_TXT_000220,Azria Light 1,アズリアライト1
 PROPCTRL_TXT_000221,Azria Rock 1,アズリアロック1
 PROPCTRL_TXT_000222,Azria Mushroom 1,アズリアマッシュルーム1
-PROPCTRL_TXT_000223,Azria Charrette,アズリアカート
+PROPCTRL_TXT_000223,Azria Chariot,アズリアカート
 PROPCTRL_TXT_000224,Azria Crystal,アズリアクリスタル
 PROPCTRL_TXT_000225,Azria Grass 1,アズリアグラス1
 PROPCTRL_TXT_000226,Azria Sign 1,アズリアサイン1
@@ -240,7 +240,7 @@ PROPCTRL_TXT_000260,Crate Floor,クレートフロア
 PROPCTRL_TXT_000261,Platform Floor,プラットホームフロア
 PROPCTRL_TXT_000262,Light Plank Floor,ライトプランクフロア
 PROPCTRL_TXT_000263,Light Brick Floor,ライトレンガフロア
-PROPCTRL_TXT_000264,Scrapwood Floor,スクラップウッドフロア
+PROPCTRL_TXT_000264,Scrap Wood Floor,スクラップウッドフロア
 PROPCTRL_TXT_000265,Pale Wood Floor,淡いウッドフロア
 PROPCTRL_TXT_000266,Mossy Brick Floor,苔むしたレンガフロア
 PROPCTRL_TXT_000267,Shipwreck Floor,難破船の床
@@ -295,7 +295,7 @@ PROPCTRL_TXT_000315,Crate Ceiling,クレート天井
 PROPCTRL_TXT_000316,Platform Ceiling,プラットホームの天井
 PROPCTRL_TXT_000317,Light Plank Ceiling,ライトプランク天井
 PROPCTRL_TXT_000318,Light Brick Ceiling,ライトレンガの天井
-PROPCTRL_TXT_000319,Scrapwood Ceiling,スクラップウッド天井
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,スクラップウッド天井
 PROPCTRL_TXT_000320,Pale Wood Ceiling,淡い木の天井
 PROPCTRL_TXT_000321,Mossy Brick Ceiling,苔むしたレンガの天井
 PROPCTRL_TXT_000322,Shipwreck Ceiling,難破船の天井
@@ -676,7 +676,7 @@ PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
 PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
 PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
 PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Plateform,Coral Island Coral Plateform
+PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
 PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
 PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
 PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15

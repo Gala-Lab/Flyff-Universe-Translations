@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,地炎飛龍監獄
 PROPCTRL_TXT_000014,Pink Roach Egg,粉紅蟑螂蛋
 PROPCTRL_TXT_000016,Blue Roach Egg,藍蟑螂蛋
 PROPCTRL_TXT_000028,Warp Machine,傳送器
-PROPCTRL_TXT_000030,Warp Board1,傳送滑板
-PROPCTRL_TXT_000032,Warp Board2,傳送滑板
-PROPCTRL_TXT_000034,Warp Board3,傳送滑板
+PROPCTRL_TXT_000030,Warp Board 1,傳送滑板
+PROPCTRL_TXT_000032,Warp Board 2,傳送滑板
+PROPCTRL_TXT_000034,Warp Board 3,傳送滑板
 PROPCTRL_TXT_000036,Exp Box,經驗箱
 PROPCTRL_TXT_000037,Harvest Plant 01,收成植物 01
 PROPCTRL_TXT_000038,Harvest Plant 02,收成植物 02
@@ -77,7 +77,7 @@ PROPCTRL_TXT_000097,Metaverse Sofa,元宇宙沙發
 PROPCTRL_TXT_000098,Metaverse Round Table,元宇宙圓桌
 PROPCTRL_TXT_000099,Metaverse Storage Table,元宇宙儲存桌
 PROPCTRL_TXT_000100,Metaverse Decorative Table,元宇宙裝飾桌
-PROPCTRL_TXT_000101,Metaverse Violon,元宇宙小提琴
+PROPCTRL_TXT_000101,Metaverse Violin,元宇宙小提琴
 PROPCTRL_TXT_000102,Wooden Yellow Chair,木黃色椅子
 PROPCTRL_TXT_000103,Wooden Yellow Table,木黃色桌子
 PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,木製黃色梳妝台
@@ -154,7 +154,7 @@ PROPCTRL_TXT_000174,Wooden Sofa,木沙發
 PROPCTRL_TXT_000175,Flaris Ground Field,弗拉里斯地面
 PROPCTRL_TXT_000176,Flaris Anvil,弗拉里斯砧
 PROPCTRL_TXT_000177,Flaris Bench,弗拉里斯長椅
-PROPCTRL_TXT_000178,Flaris Charrette,弗拉里斯大車
+PROPCTRL_TXT_000178,Flaris Chariot,弗拉里斯大車
 PROPCTRL_TXT_000179,Flaris Fence 1,弗拉里斯柵欄1
 PROPCTRL_TXT_000180,Flaris Floor Lamp,弗拉里斯落地燈 
 PROPCTRL_TXT_000181,Flaris Wall Lamp,弗拉里斯壁燈
@@ -177,7 +177,7 @@ PROPCTRL_TXT_000197,Common Autumn Tree,常見的秋季樹
 PROPCTRL_TXT_000198,Common Sakura Tree 1,一般櫻花樹 1
 PROPCTRL_TXT_000199,Common Burned Tree,普通燒毀的樹
 PROPCTRL_TXT_000200,St Morning Bench,聖晨長椅
-PROPCTRL_TXT_000201,St Morning Charrette,聖晨大車
+PROPCTRL_TXT_000201,St Morning Chariot,聖晨大車
 PROPCTRL_TXT_000202,St Morning Rock Arch 1,聖晨岩拱門 1
 PROPCTRL_TXT_000203,St Morning Flag 1,聖晨旗 1
 PROPCTRL_TXT_000204,St Morning Flower Bed,聖晨花床
@@ -199,7 +199,7 @@ PROPCTRL_TXT_000219,Azria Tree 1,阿茲里亞樹 1
 PROPCTRL_TXT_000220,Azria Light 1,阿茲里亞燈 1
 PROPCTRL_TXT_000221,Azria Rock 1,阿茲里亞岩 1
 PROPCTRL_TXT_000222,Azria Mushroom 1,阿茲里亞蘑菇 1
-PROPCTRL_TXT_000223,Azria Charrette,阿茲里亞大車
+PROPCTRL_TXT_000223,Azria Chariot,阿茲里亞大車
 PROPCTRL_TXT_000224,Azria Crystal,阿茲里亞水晶
 PROPCTRL_TXT_000225,Azria Grass 1,阿茲里亞草地 1
 PROPCTRL_TXT_000226,Azria Sign 1,阿茲里亞標誌 1
@@ -240,7 +240,7 @@ PROPCTRL_TXT_000260,Crate Floor,板條箱地板
 PROPCTRL_TXT_000261,Platform Floor,平台地板
 PROPCTRL_TXT_000262,Light Plank Floor,輕質木質地板
 PROPCTRL_TXT_000263,Light Brick Floor,輕磚地板
-PROPCTRL_TXT_000264,Scrapwood Floor,廢木地板
+PROPCTRL_TXT_000264,Scrap Wood Floor,廢木地板
 PROPCTRL_TXT_000265,Pale Wood Floor,淺木地板
 PROPCTRL_TXT_000266,Mossy Brick Floor,青苔磚地板
 PROPCTRL_TXT_000267,Shipwreck Floor,沉船地板
@@ -295,7 +295,7 @@ PROPCTRL_TXT_000315,Crate Ceiling,板條箱天花板
 PROPCTRL_TXT_000316,Platform Ceiling,平台天花板
 PROPCTRL_TXT_000317,Light Plank Ceiling,輕質木板天花板
 PROPCTRL_TXT_000318,Light Brick Ceiling,輕磚天花板
-PROPCTRL_TXT_000319,Scrapwood Ceiling,廢木天花板
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,廢木天花板
 PROPCTRL_TXT_000320,Pale Wood Ceiling,淺木天花板
 PROPCTRL_TXT_000321,Mossy Brick Ceiling,長滿青苔的磚天花板
 PROPCTRL_TXT_000322,Shipwreck Ceiling,沉船天花板
@@ -676,7 +676,7 @@ PROPCTRL_TXT_000699,Coral Island Wrecked Ship,珊瑚島沉船
 PROPCTRL_TXT_000700,Coral Island Sea Weed 1,珊瑚島海藻 1
 PROPCTRL_TXT_000701,Coral Island Sea Weed 2,珊瑚島海藻 2
 PROPCTRL_TXT_000702,Coral Island Sea Weed 3,珊瑚島海藻 3
-PROPCTRL_TXT_000703,Coral Island Coral Plateform,珊瑚島珊瑚平台
+PROPCTRL_TXT_000703,Coral Island Coral Platform,珊瑚島珊瑚平台
 PROPCTRL_TXT_000704,Coral Island Coral 13,珊瑚島珊瑚 13
 PROPCTRL_TXT_000705,Coral Island Coral 14,珊瑚島珊瑚 14
 PROPCTRL_TXT_000706,Coral Island Coral 15,珊瑚島珊瑚 15

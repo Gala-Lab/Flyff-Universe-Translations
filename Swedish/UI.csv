@@ -6,7 +6,7 @@ UI_HOME_NEWCHAR,New Character,Ny karaktär
 UI_HOME_NEWCHAR_TIP,Create a new character without account.,Skapa en ny karaktär utan konto.
 UI_HOME_LOGIN,Sign In,Logga in
 UI_HOME_REGISTER,Sign Up,Sign Up
-UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Ange ID och lösenord och tryck på OK för att ansluta till spelet."
+UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.",Ange ID och lösenord och tryck på OK för att ansluta till spelet.
 UI_HOME_ALREADYACCOUNT,Already have an account?,Har du redan ett konto?
 UI_HOME_WEBSITE,Website,Webbplats
 UI_HOME_CREDITS,Credits,Krediter
@@ -29,7 +29,7 @@ UI_CHARLIST_DELETE,Delete,Ta bort
 UI_DELETECHAR_TITLE,Delete Character,Delete Character
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
 UI_DELETECHAR_NOPASS,Do you confirm?,Bekräftar du?
-UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Om du tar bort en karaktär kan du inte använda dess namn under en vecka."
+UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.",Om du tar bort en karaktär kan du inte använda dess namn under en vecka.
 UI_NEWCHAR_NAME,Name:,Name:
 UI_NEWCHAR_GIRL,Girl,Girl
 UI_NEWCHAR_BOY,Boy,Boy
@@ -1921,7 +1921,7 @@ UI_SERVERTRANSFER_MSG,Select server:,Välj server:
 UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your character to. Please check the website for exact transfer rules.,Välj vilken server du vill överföra din karaktär till. Kontrollera webbplatsen för exakta överföringsregler.
 UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,"Observera att överföringsbegäranden görs regelbundet, så överföringen sker inte omedelbart efter att rullningen har använts."
 UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Serveröverföring
-UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,"Överföringen kommer att ske efter FWC-periodens slut och du kan fortfarande logga in på din karaktär under tiden. Om du är osäker kan du stänga detta fönster och välja vid nästa inloggning. Du kan inte ändra ditt val efter att du har bekräftat."
+UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,Överföringen kommer att ske efter FWC-periodens slut och du kan fortfarande logga in på din karaktär under tiden. Om du är osäker kan du stänga detta fönster och välja vid nästa inloggning. Du kan inte ändra ditt val efter att du har bekräftat.
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Fri kamera
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Vanlig kamera
 UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Leave spectating
@@ -2440,7 +2440,7 @@ UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
+UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Tredje plats
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
