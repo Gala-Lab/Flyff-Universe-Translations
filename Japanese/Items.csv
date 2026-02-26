@@ -17439,29 +17439,29 @@ PROPITEM_TXT_133058,Scroll of Production Reduction (1 Hour),Scroll of Production
 PROPITEM_TXT_133059,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.
 PROPITEM_TXT_133060,Wandering Merchant Refresh Ticket,Wandering Merchant Refresh Ticket
 PROPITEM_TXT_133061,Refresh the item list of the Wandering Merchant upon use.,Refresh the item list of the Wandering Merchant upon use.
-PROPITEM_TXT_133062,Salt,Salt
+PROPITEM_TXT_133062,Salt,塩
 PROPITEM_TXT_133063,A necessary ingredient to make savoury dishes.,A necessary ingredient to make savoury dishes.
-PROPITEM_TXT_133064,Sugar,Sugar
+PROPITEM_TXT_133064,Sugar,砂糖
 PROPITEM_TXT_133065,A necessary ingredient to make sweet dishes.,A necessary ingredient to make sweet dishes.
-PROPITEM_TXT_133066,Vinegar,Vinegar
+PROPITEM_TXT_133066,Vinegar,酢
 PROPITEM_TXT_133067,A necessary ingredient to make sour dishes.,A necessary ingredient to make sour dishes.
 PROPITEM_TXT_133068,Chili Powder,Chili Powder
 PROPITEM_TXT_133069,A necessary ingredient to make spicy dishes.,A necessary ingredient to make spicy dishes.
-PROPITEM_TXT_133070,Flour,Flour
+PROPITEM_TXT_133070,Flour,穀粉
 PROPITEM_TXT_133071,A powder made by grinding wheat.,A powder made by grinding wheat.
 PROPITEM_TXT_133072,Water,水の属性
 PROPITEM_TXT_133073,Clean water.,Clean water.
-PROPITEM_TXT_133074,Sausage,Sausage
+PROPITEM_TXT_133074,Sausage,ソーセージ
 PROPITEM_TXT_133075,Sausage made from pork.,Sausage made from pork.
-PROPITEM_TXT_133076,Chicken,Chicken
+PROPITEM_TXT_133076,Chicken,ニワトリ
 PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,A piece of chicken meat. You can use it in various dishes.
 PROPITEM_TXT_133078,Cooking Oil,Cooking Oil
 PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,A bottle of cooking oil. You can use it in various dishes.
 PROPITEM_TXT_133080,Black Pepper,Black Pepper
 PROPITEM_TXT_133081,A spice that gives a spicy taste.,A spice that gives a spicy taste.
-PROPITEM_TXT_133082,Tomato,Tomato
+PROPITEM_TXT_133082,Tomato,トマト
 PROPITEM_TXT_133083,A red vegetable with a savory taste.,A red vegetable with a savory taste.
-PROPITEM_TXT_133084,Rice,Rice
+PROPITEM_TXT_133084,Rice,米
 PROPITEM_TXT_133085,A white and round grain.,A white and round grain.
 PROPITEM_TXT_133086,Assorted vegetables,Assorted vegetables
 PROPITEM_TXT_133087,A dish of assorted vegetables.,A dish of assorted vegetables.
@@ -17776,11 +17776,11 @@ PROPITEM_TXT_133395,Sauce made from tomato. You can use it in various dishes.,Sa
 PROPITEM_TXT_133396,Bread Dough (D),Bread Dough (D)
 PROPITEM_TXT_133397,Bread Dough (C),Bread Dough (C)
 PROPITEM_TXT_133398,Dough that is used to make bread.,Dough that is used to make bread.
-PROPITEM_TXT_133399,Butter (D),Butter (D)
-PROPITEM_TXT_133400,Butter (C),Butter (C)
+PROPITEM_TXT_133399,Butter (D),バター (D)
+PROPITEM_TXT_133400,Butter (C),バター (C)
 PROPITEM_TXT_133401,A solid oil made from fresh cream.,A solid oil made from fresh cream.
-PROPITEM_TXT_133402,Mayonnaise (D),Mayonnaise (D)
-PROPITEM_TXT_133403,Mayonnaise (C),Mayonnaise (C)
+PROPITEM_TXT_133402,Mayonnaise (D),マヨネーズ (D)
+PROPITEM_TXT_133403,Mayonnaise (C),マヨネーズ (C)
 PROPITEM_TXT_133404,Sauce made from egg. You can use it in various dishes.,Sauce made from egg. You can use it in various dishes.
 PROPITEM_TXT_133405,Cooked Rice (D),Cooked Rice (D)
 PROPITEM_TXT_133406,Cooked Rice (C),Cooked Rice (C)
@@ -17788,12 +17788,12 @@ PROPITEM_TXT_133407,A dish made by boiling rice in water.,A dish made by boiling
 PROPITEM_TXT_133408,Fish Sauce (D),Fish Sauce (D)
 PROPITEM_TXT_133409,Fish Sauce (C),Fish Sauce (C)
 PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,Sauce made from fish. You can use it in various dishes.
-PROPITEM_TXT_133411,Lollipop (C),Lollipop (C)
-PROPITEM_TXT_133412,Recovers 84 HP,Recovers 84 HP
-PROPITEM_TXT_133413,Meat Skewer (C),Meat Skewer (C)
-PROPITEM_TXT_133414,Recovers 144 HP,Recovers 144 HP
-PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
-PROPITEM_TXT_133416,Recovers 144 HP,Recovers 144 HP
+PROPITEM_TXT_133411,Lollipop (C),ペロペロキャンディ (C)
+PROPITEM_TXT_133412,Recovers 84 HP,HPが84回復する食べ物
+PROPITEM_TXT_133413,Meat Skewer (C),串肉 (C)
+PROPITEM_TXT_133414,Recovers 144 HP,HPが144回復する食べ物
+PROPITEM_TXT_133415,Biscuit (C),ビスケット (C)
+PROPITEM_TXT_133416,Recovers 144 HP,HPが144回復する食べ物
 PROPITEM_TXT_133417,Fish Ball (D),Fish Ball (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
 PROPITEM_TXT_133419,Fish Ball (C),Fish Ball (C)
@@ -17802,38 +17802,38 @@ PROPITEM_TXT_133421,Fish Ball (B),Fish Ball (B)
 PROPITEM_TXT_133422,Fish Ball (A),Fish Ball (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Fish Ball (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133425,Seafood Pancake (C),Seafood Pancake (C)
-PROPITEM_TXT_133426,Recovers 276 HP,Recovers 276 HP
-PROPITEM_TXT_133427,Seafood Pancake (B),Seafood Pancake (B)
-PROPITEM_TXT_133428,Seafood Pancake (A),Seafood Pancake (A)
-PROPITEM_TXT_133429,Seafood Pancake (A+),Seafood Pancake (A+)
-PROPITEM_TXT_133430,Recovers 299 HP,Recovers 299 HP
-PROPITEM_TXT_133431,Fish Soup (C),Fish Soup (C)
-PROPITEM_TXT_133432,Recovers 360 HP,Recovers 360 HP
-PROPITEM_TXT_133433,Fish Soup (B),Fish Soup (B)
-PROPITEM_TXT_133434,Fish Soup (A),Fish Soup (A)
-PROPITEM_TXT_133435,Fish Soup (A+),Fish Soup (A+)
-PROPITEM_TXT_133436,Recovers 390 HP,Recovers 390 HP
-PROPITEM_TXT_133437,Roll Bread (C),Roll Bread (C)
-PROPITEM_TXT_133438,Recovers 396 HP,Recovers 396 HP
-PROPITEM_TXT_133439,Sausage Casserole (C),Sausage Casserole (C)
-PROPITEM_TXT_133440,Recovers 444 HP,Recovers 444 HP
-PROPITEM_TXT_133441,Hot Dog (C),Hot Dog (C)
-PROPITEM_TXT_133442,Recovers 515 HP,Recovers 515 HP
-PROPITEM_TXT_133443,Fish Stew (C),Fish Stew (C)
-PROPITEM_TXT_133444,Recovers 617 HP,Recovers 617 HP
-PROPITEM_TXT_133445,Fish Stew (B),Fish Stew (B)
-PROPITEM_TXT_133446,Fish Stew (A),Fish Stew (A)
-PROPITEM_TXT_133447,Fish Stew (A+),Fish Stew (A+)
-PROPITEM_TXT_133448,Recovers 668 HP,Recovers 668 HP
+PROPITEM_TXT_133425,Seafood Pancake (C),シーフードサンド (C)
+PROPITEM_TXT_133426,Recovers 276 HP,HPが276回復する食べ物
+PROPITEM_TXT_133427,Seafood Pancake (B),シーフードサンド (B)
+PROPITEM_TXT_133428,Seafood Pancake (A),シーフードサンド (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+),シーフードサンド (A+)
+PROPITEM_TXT_133430,Recovers 299 HP,HPが299回復する食べ物
+PROPITEM_TXT_133431,Fish Soup (C),魚のスープ (C)
+PROPITEM_TXT_133432,Recovers 360 HP,HPが360回復する食べ物
+PROPITEM_TXT_133433,Fish Soup (B),魚のスープ (B)
+PROPITEM_TXT_133434,Fish Soup (A),魚のスープ (A)
+PROPITEM_TXT_133435,Fish Soup (A+),魚のスープ (A+)
+PROPITEM_TXT_133436,Recovers 390 HP,HPが390回復する食べ物
+PROPITEM_TXT_133437,Roll Bread (C),食パン (C)
+PROPITEM_TXT_133438,Recovers 396 HP,HPが396回復する食べ物
+PROPITEM_TXT_133439,Sausage Casserole (C),ソーセージロール (C)
+PROPITEM_TXT_133440,Recovers 444 HP,HPが444回復する食べ物
+PROPITEM_TXT_133441,Hot Dog (C),ホットドッグ (C)
+PROPITEM_TXT_133442,Recovers 515 HP,HPが515回復する食べ物
+PROPITEM_TXT_133443,Fish Stew (C),魚のソテー (C)
+PROPITEM_TXT_133444,Recovers 617 HP,HPが617回復する食べ物
+PROPITEM_TXT_133445,Fish Stew (B),魚のソテー (B)
+PROPITEM_TXT_133446,Fish Stew (A),魚のソテー (A)
+PROPITEM_TXT_133447,Fish Stew (A+),魚のソテー (A+)
+PROPITEM_TXT_133448,Recovers 668 HP,HPが668回復する食べ物
 PROPITEM_TXT_133449,Pizza (C),Pizza (C)
-PROPITEM_TXT_133450,Recovers 701 HP,Recovers 701 HP
-PROPITEM_TXT_133451,Steamed Seafood (C),Steamed Seafood (C)
-PROPITEM_TXT_133452,Recovers 804 HP,Recovers 804 HP
-PROPITEM_TXT_134671,Steamed Seafood (B),Steamed Seafood (B)
-PROPITEM_TXT_133453,Steamed Seafood (A),Steamed Seafood (A)
-PROPITEM_TXT_133454,Steamed Seafood (A+),Steamed Seafood (A+)
-PROPITEM_TXT_133455,Recovers 871 HP,Recovers 871 HP
+PROPITEM_TXT_133450,Recovers 701 HP,HPが701回復する食べ物
+PROPITEM_TXT_133451,Steamed Seafood (C),ボイルドシーフード (C)
+PROPITEM_TXT_133452,Recovers 804 HP,HPが804回復する食べ物
+PROPITEM_TXT_134671,Steamed Seafood (B),ボイルドシーフード (B)
+PROPITEM_TXT_133453,Steamed Seafood (A),ボイルドシーフード (A)
+PROPITEM_TXT_133454,Steamed Seafood (A+),ボイルドシーフード (A+)
+PROPITEM_TXT_133455,Recovers 871 HP,HPが871回復する食べ物
 PROPITEM_TXT_133456,Grilled Mackerel (D),Grilled Mackerel (D)
 PROPITEM_TXT_133457,A nicely grilled mackerel.,A nicely grilled mackerel.
 PROPITEM_TXT_133458,Grilled Mackerel (C),Grilled Mackerel (C)
@@ -17842,8 +17842,8 @@ PROPITEM_TXT_133460,Grilled Mackerel (B),Grilled Mackerel (B)
 PROPITEM_TXT_133461,Grilled Mackerel (A),Grilled Mackerel (A)
 PROPITEM_TXT_133462,Grilled Mackerel (A+),Grilled Mackerel (A+)
 PROPITEM_TXT_133463,A nicely grilled mackerel.,A nicely grilled mackerel.
-PROPITEM_TXT_133464,Chicken Stick (C),Chicken Stick (C)
-PROPITEM_TXT_133465,Recovers 1164 HP,Recovers 1164 HP
+PROPITEM_TXT_133464,Chicken Stick (C),骨付き肉 (C)
+PROPITEM_TXT_133465,Recovers 1164 HP,HPが1164回復する食べ物
 PROPITEM_TXT_133466,Fried Squid (D),Fried Squid (D)
 PROPITEM_TXT_133467,A dish made from fried squid.,A dish made from fried squid.
 PROPITEM_TXT_133468,Fried Squid (C),Fried Squid (C)
@@ -17852,8 +17852,8 @@ PROPITEM_TXT_133470,Fried Squid (B),Fried Squid (B)
 PROPITEM_TXT_133471,Fried Squid (A),Fried Squid (A)
 PROPITEM_TXT_133472,Fried Squid (A+),Fried Squid (A+)
 PROPITEM_TXT_133473,A dish made from fried squid.,A dish made from fried squid.
-PROPITEM_TXT_133474,Star Candy (C),Star Candy (C)
-PROPITEM_TXT_133475,Recovers 1440 HP,Recovers 1440 HP
+PROPITEM_TXT_133474,Star Candy (C),スターキャンディー (C)
+PROPITEM_TXT_133475,Recovers 1440 HP,HPが1440回復する食べ物
 PROPITEM_TXT_133476,Fish Cutlet (D),Fish Cutlet (D)
 PROPITEM_TXT_133477,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
 PROPITEM_TXT_133478,Fish Cutlet (C),Fish Cutlet (C)
@@ -17862,14 +17862,14 @@ PROPITEM_TXT_133480,Fish Cutlet (B),Fish Cutlet (B)
 PROPITEM_TXT_133481,Fish Cutlet (A),Fish Cutlet (A)
 PROPITEM_TXT_133482,Fish Cutlet (A+),Fish Cutlet (A+)
 PROPITEM_TXT_133483,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
-PROPITEM_TXT_133484,Meat Salad (C),Meat Salad (C)
-PROPITEM_TXT_133485,Recovers 1560 HP,Recovers 1560 HP
-PROPITEM_TXT_133486,Seafood Pizza (C),Seafood Pizza (C)
-PROPITEM_TXT_133487,Recovers 1740 HP,Recovers 1740 HP
-PROPITEM_TXT_133488,Seafood Pizza (B),Seafood Pizza (B)
-PROPITEM_TXT_133489,Seafood Pizza (A),Seafood Pizza (A)
-PROPITEM_TXT_133490,Seafood Pizza (A+),Seafood Pizza (A+)
-PROPITEM_TXT_133491,Recovers 1885 HP,Recovers 1885 HP
+PROPITEM_TXT_133484,Meat Salad (C),ミートサラダ (C)
+PROPITEM_TXT_133485,Recovers 1560 HP,HPが1560回復する食べ物
+PROPITEM_TXT_133486,Seafood Pizza (C),シーフードピザ (C)
+PROPITEM_TXT_133487,Recovers 1740 HP,HPが1740回復する食べ物
+PROPITEM_TXT_133488,Seafood Pizza (B),シーフードピザ (B)
+PROPITEM_TXT_133489,Seafood Pizza (A),シーフードピザ (A)
+PROPITEM_TXT_133490,Seafood Pizza (A+),シーフードピザ (A+)
+PROPITEM_TXT_133491,Recovers 1885 HP,HPが1885回復する食べ物
 PROPITEM_TXT_133492,Fried Shrimp (D),Fried Shrimp (D)
 PROPITEM_TXT_133493,A dish made from fried shrimp.,A dish made from fried shrimp.
 PROPITEM_TXT_133494,Fried Shrimp (C),Fried Shrimp (C)
@@ -17886,14 +17886,14 @@ PROPITEM_TXT_133504,Shrimp Fried Rice (B),Shrimp Fried Rice (B)
 PROPITEM_TXT_133505,Shrimp Fried Rice (A),Shrimp Fried Rice (A)
 PROPITEM_TXT_133506,Shrimp Fried Rice (A+),Shrimp Fried Rice (A+)
 PROPITEM_TXT_133507,Fried rice with shrimp inside.,Fried rice with shrimp inside.
-PROPITEM_TXT_133508,Gratin (C),Gratin (C)
-PROPITEM_TXT_133509,Recovers 2100 HP,Recovers 2100 HP
-PROPITEM_TXT_133510,Coral Island Curry (C),Coral Island Curry (C)
-PROPITEM_TXT_133511,Recovers 2400 HP,Recovers 2400 HP
-PROPITEM_TXT_133512,Coral Island Curry (B),Coral Island Curry (B)
-PROPITEM_TXT_133513,Coral Island Curry (A),Coral Island Curry (A)
-PROPITEM_TXT_133514,Coral Island Curry (A+),Coral Island Curry (A+)
-PROPITEM_TXT_133515,Recovers 2600 HP,Recovers 2600 HP
+PROPITEM_TXT_133508,Gratin (C),グラタン (C)
+PROPITEM_TXT_133509,Recovers 2100 HP,HPが2100回復する食べ物
+PROPITEM_TXT_133510,Coral Island Curry (C),コーラルアイランドカレー (C)
+PROPITEM_TXT_133511,Recovers 2400 HP,HPが2400回復する食べ物
+PROPITEM_TXT_133512,Coral Island Curry (B),コーラルアイランドカレー (B)
+PROPITEM_TXT_133513,Coral Island Curry (A),コーラルアイランドカレー (A)
+PROPITEM_TXT_133514,Coral Island Curry (A+),コーラルアイランドカレー (A+)
+PROPITEM_TXT_133515,Recovers 2600 HP,HPが2600回復する食べ物
 PROPITEM_TXT_133516,Tuna Sushi (D),Tuna Sushi (D)
 PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi made with tuna on top.
 PROPITEM_TXT_133518,Tuna Sushi (C),Tuna Sushi (C)
@@ -18022,136 +18022,136 @@ PROPITEM_TXT_133640,Pine Oil (C),Pine Oil (C)
 PROPITEM_TXT_133641,Pine Oil (B),Pine Oil (B)
 PROPITEM_TXT_133642,Pine Oil (A),Pine Oil (A)
 PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,This oil is harvested from pine trees. It has many uses.
-PROPITEM_TXT_133644,VitalDrink 100 (C),VitalDrink 100 (C)
-PROPITEM_TXT_133645,FP 72 Recovery,FP 72 Recovery
-PROPITEM_TXT_133646,VitalDrink 200 (C),VitalDrink 200 (C)
-PROPITEM_TXT_133647,FP 144 Recovery,FP 144 Recovery
-PROPITEM_TXT_133648,VitalDrink 200 (B),VitalDrink 200 (B)
-PROPITEM_TXT_133649,VitalDrink 200 (A),VitalDrink 200 (A)
-PROPITEM_TXT_133650,VitalDrink 200 (A+),VitalDrink 200 (A+)
-PROPITEM_TXT_133651,FP 156 Recovery,FP 156 Recovery
-PROPITEM_TXT_133652,First Refresher (C),First Refresher (C)
-PROPITEM_TXT_133653,MP 78 Recovery,MP 78 Recovery
-PROPITEM_TXT_133654,Gray Pill (C),Gray Pill (C)
-PROPITEM_TXT_133655,Recovers 1320 HP,Recovers 1320 HP
-PROPITEM_TXT_133656,Gray Pill (B),Gray Pill (B)
-PROPITEM_TXT_133657,Gray Pill (A),Gray Pill (A)
-PROPITEM_TXT_133658,Gray Pill (A+),Gray Pill (A+)
-PROPITEM_TXT_133659,Recovers 1380 HP,Recovers 1380 HP
-PROPITEM_TXT_133660,Second Refresher (C),Second Refresher (C)
-PROPITEM_TXT_133661,MP 150 Recovery,MP 150 Recovery
-PROPITEM_TXT_133662,Second Refresher (B),Second Refresher (B)
-PROPITEM_TXT_133663,Second Refresher (A),Second Refresher (A)
-PROPITEM_TXT_133664,Second Refresher (A+),Second Refresher (A+)
-PROPITEM_TXT_133665,MP 163 Recovery,MP 163 Recovery
-PROPITEM_TXT_133666,VitalDrink 300 (C),VitalDrink 300 (C)
-PROPITEM_TXT_133667,FP 216 Recovery,FP 216 Recovery
-PROPITEM_TXT_133668,VitalDrink 300 (B),VitalDrink 300 (B)
-PROPITEM_TXT_133669,VitalDrink 300 (A),VitalDrink 300 (A)
-PROPITEM_TXT_133670,VitalDrink 300 (A+),VitalDrink 300 (A+)
-PROPITEM_TXT_133671,FP 234 Recovery,FP 234 Recovery
-PROPITEM_TXT_133672,VitalDrink 400 (C),VitalDrink 400 (C)
-PROPITEM_TXT_133673,FP 288 Recovery,FP 288 Recovery
-PROPITEM_TXT_133674,VitalDrink 400 (B),VitalDrink 400 (B)
-PROPITEM_TXT_133675,VitalDrink 400 (A),VitalDrink 400 (A)
-PROPITEM_TXT_133676,VitalDrink 400 (A+),VitalDrink 400 (A+)
-PROPITEM_TXT_133677,FP 312 Recovery,FP 312 Recovery
-PROPITEM_TXT_133678,VitalDrink 500 (C),VitalDrink 500 (C)
-PROPITEM_TXT_133679,FP 360 Recovery,FP 360 Recovery
-PROPITEM_TXT_133680,VitalDrink 500 (B),VitalDrink 500 (B)
-PROPITEM_TXT_133681,VitalDrink 500 (A),VitalDrink 500 (A)
-PROPITEM_TXT_133682,VitalDrink 500 (A+),VitalDrink 500 (A+)
-PROPITEM_TXT_133683,FP 390 Recovery,FP 390 Recovery
-PROPITEM_TXT_133684,VitalDrink 600 (C),VitalDrink 600 (C)
-PROPITEM_TXT_133685,FP 442 Recovery,FP 442 Recovery
-PROPITEM_TXT_133686,VitalDrink 600 (B),VitalDrink 600 (B)
-PROPITEM_TXT_133687,VitalDrink 600 (A),VitalDrink 600 (A)
-PROPITEM_TXT_133688,VitalDrink 600 (A+),VitalDrink 600 (A+)
-PROPITEM_TXT_133689,FP 478 Recovery,FP 478 Recovery
-PROPITEM_TXT_133690,VitalDrink 700 (C),VitalDrink 700 (C)
-PROPITEM_TXT_133691,FP 540 Recovery,FP 540 Recovery
-PROPITEM_TXT_133692,VitalDrink 700 (B),VitalDrink 700 (B)
-PROPITEM_TXT_133693,VitalDrink 700 (A),VitalDrink 700 (A)
-PROPITEM_TXT_133694,VitalDrink 700 (A+),VitalDrink 700 (A+)
-PROPITEM_TXT_133695,FP 585 Recovery,FP 585 Recovery
-PROPITEM_TXT_133696,VitalDrink 800 (C),VitalDrink 800 (C)
-PROPITEM_TXT_133697,FP 624 Recovery,FP 624 Recovery
-PROPITEM_TXT_133698,VitalDrink 800 (B),VitalDrink 800 (B)
-PROPITEM_TXT_133699,VitalDrink 800 (A),VitalDrink 800 (A)
-PROPITEM_TXT_133700,VitalDrink 800 (A+),VitalDrink 800 (A+)
-PROPITEM_TXT_133701,FP 676 Recovery,FP 676 Recovery
-PROPITEM_TXT_133702,Yellow Pill (C),Yellow Pill (C)
-PROPITEM_TXT_133703,Recovers 2200 HP,Recovers 2200 HP
-PROPITEM_TXT_133704,Yellow Pill (B),Yellow Pill (B)
-PROPITEM_TXT_133705,Yellow Pill (A),Yellow Pill (A)
-PROPITEM_TXT_133706,Yellow Pill (A+),Yellow Pill (A+)
-PROPITEM_TXT_133707,Recovers 2300 HP,Recovers 2300 HP
-PROPITEM_TXT_133708,Blue Pill (C),Blue Pill (C)
-PROPITEM_TXT_133709,Recovers 4400 HP,Recovers 4400 HP
-PROPITEM_TXT_133710,Blue Pill (B),Blue Pill (B)
-PROPITEM_TXT_133711,Blue Pill (A),Blue Pill (A)
-PROPITEM_TXT_133712,Blue Pill (A+),Blue Pill (A+)
-PROPITEM_TXT_133713,Recovers 4600 HP,Recovers 4600 HP
-PROPITEM_TXT_133714,Red Pill (C),Red Pill (C)
-PROPITEM_TXT_133715,Recovers 8800 HP,Recovers 8800 HP
-PROPITEM_TXT_133716,Red Pill (B),Red Pill (B)
-PROPITEM_TXT_133717,Red Pill (A),Red Pill (A)
-PROPITEM_TXT_133718,Red Pill (A+),Red Pill (A+)
-PROPITEM_TXT_133719,Recovers 9200 HP,Recovers 9200 HP
-PROPITEM_TXT_133720,Third Refresher (C),Third Refresher (C)
-PROPITEM_TXT_133721,MP 222 Recovery,MP 222 Recovery
-PROPITEM_TXT_133722,Third Refresher (B),Third Refresher (B)
-PROPITEM_TXT_133723,Third Refresher (A),Third Refresher (A)
-PROPITEM_TXT_133724,Third Refresher (A+),Third Refresher (A+)
-PROPITEM_TXT_133725,MP 241 Recovery,MP 241 Recovery
-PROPITEM_TXT_133726,Fourth Refresher (C),Fourth Refresher (C)
-PROPITEM_TXT_133727,MP 294 Recovery,MP 294 Recovery
-PROPITEM_TXT_133728,Fourth Refresher (B),Fourth Refresher (B)
-PROPITEM_TXT_133729,Fourth Refresher (A),Fourth Refresher (A)
-PROPITEM_TXT_133730,Fourth Refresher (A+),Fourth Refresher (A+)
-PROPITEM_TXT_133731,MP 319 Recovery,MP 319 Recovery
-PROPITEM_TXT_133732,Fifth Refresher (C),Fifth Refresher (C)
-PROPITEM_TXT_133733,MP 378 Recovery,MP 378 Recovery
-PROPITEM_TXT_133734,Fifth Refresher (B),Fifth Refresher (B)
-PROPITEM_TXT_133735,Fifth Refresher (A),Fifth Refresher (A)
-PROPITEM_TXT_133736,Fifth Refresher (A+),Fifth Refresher (A+)
-PROPITEM_TXT_133737,MP 410 Recovery,MP 410 Recovery
-PROPITEM_TXT_133738,Sixth Refresher (C),Sixth Refresher (C)
+PROPITEM_TXT_133644,VitalDrink 100 (C),スタミナドリンク 100 (C)
+PROPITEM_TXT_133645,FP 72 Recovery,FPを72回復
+PROPITEM_TXT_133646,VitalDrink 200 (C),スタミナドリンク 200 (C)
+PROPITEM_TXT_133647,FP 144 Recovery,FPを144回復
+PROPITEM_TXT_133648,VitalDrink 200 (B),スタミナドリンク 200 (B)
+PROPITEM_TXT_133649,VitalDrink 200 (A),スタミナドリンク 200 (A)
+PROPITEM_TXT_133650,VitalDrink 200 (A+),スタミナドリンク 200 (A+)
+PROPITEM_TXT_133651,FP 156 Recovery,FPを156回復
+PROPITEM_TXT_133652,First Refresher (C),魔力ドリンク 1 (C)
+PROPITEM_TXT_133653,MP 78 Recovery,MPを78回復
+PROPITEM_TXT_133654,Gray Pill (C),緑の秘薬 (C)
+PROPITEM_TXT_133655,Recovers 1320 HP,HPが1320回復する食べ物
+PROPITEM_TXT_133656,Gray Pill (B),緑の秘薬 (B)
+PROPITEM_TXT_133657,Gray Pill (A),緑の秘薬 (A)
+PROPITEM_TXT_133658,Gray Pill (A+),緑の秘薬 (A+)
+PROPITEM_TXT_133659,Recovers 1380 HP,HPが1380回復する食べ物
+PROPITEM_TXT_133660,Second Refresher (C),魔力ドリンク 2 (C)
+PROPITEM_TXT_133661,MP 150 Recovery,MPを150回復
+PROPITEM_TXT_133662,Second Refresher (B),魔力ドリンク 2 (B)
+PROPITEM_TXT_133663,Second Refresher (A),魔力ドリンク 2 (A)
+PROPITEM_TXT_133664,Second Refresher (A+),魔力ドリンク 2 (A+)
+PROPITEM_TXT_133665,MP 163 Recovery,MPを163回復
+PROPITEM_TXT_133666,VitalDrink 300 (C),スタミナドリンク 300 (C)
+PROPITEM_TXT_133667,FP 216 Recovery,FPを216回復
+PROPITEM_TXT_133668,VitalDrink 300 (B),スタミナドリンク 300 (B)
+PROPITEM_TXT_133669,VitalDrink 300 (A),スタミナドリンク 300 (A)
+PROPITEM_TXT_133670,VitalDrink 300 (A+),スタミナドリンク 300 (A+)
+PROPITEM_TXT_133671,FP 234 Recovery,FPを234回復
+PROPITEM_TXT_133672,VitalDrink 400 (C),スタミナドリンク 400 (C)
+PROPITEM_TXT_133673,FP 288 Recovery,FPを288回復
+PROPITEM_TXT_133674,VitalDrink 400 (B),スタミナドリンク 400 (B)
+PROPITEM_TXT_133675,VitalDrink 400 (A),スタミナドリンク 400 (A)
+PROPITEM_TXT_133676,VitalDrink 400 (A+),スタミナドリンク 400 (A+)
+PROPITEM_TXT_133677,FP 312 Recovery,FPを312回復
+PROPITEM_TXT_133678,VitalDrink 500 (C),スタミナドリンク 500 (C)
+PROPITEM_TXT_133679,FP 360 Recovery,FPを360回復
+PROPITEM_TXT_133680,VitalDrink 500 (B),スタミナドリンク 500 (B)
+PROPITEM_TXT_133681,VitalDrink 500 (A),スタミナドリンク 500 (A)
+PROPITEM_TXT_133682,VitalDrink 500 (A+),スタミナドリンク 500 (A+)
+PROPITEM_TXT_133683,FP 390 Recovery,FPを390回復
+PROPITEM_TXT_133684,VitalDrink 600 (C),スタミナドリンク 600 (C)
+PROPITEM_TXT_133685,FP 442 Recovery,FPを442回復
+PROPITEM_TXT_133686,VitalDrink 600 (B),スタミナドリンク 600 (B)
+PROPITEM_TXT_133687,VitalDrink 600 (A),スタミナドリンク 600 (A)
+PROPITEM_TXT_133688,VitalDrink 600 (A+),スタミナドリンク 600 (A+)
+PROPITEM_TXT_133689,FP 478 Recovery,FPを478回復
+PROPITEM_TXT_133690,VitalDrink 700 (C),スタミナドリンク 700 (C)
+PROPITEM_TXT_133691,FP 540 Recovery,FPを540回復
+PROPITEM_TXT_133692,VitalDrink 700 (B),スタミナドリンク 700 (B)
+PROPITEM_TXT_133693,VitalDrink 700 (A),スタミナドリンク 700 (A)
+PROPITEM_TXT_133694,VitalDrink 700 (A+),スタミナドリンク 700 (A+)
+PROPITEM_TXT_133695,FP 585 Recovery,FPを885回復
+PROPITEM_TXT_133696,VitalDrink 800 (C),スタミナドリンク 800 (C)
+PROPITEM_TXT_133697,FP 624 Recovery,FPを624回復
+PROPITEM_TXT_133698,VitalDrink 800 (B),スタミナドリンク 800 (B)
+PROPITEM_TXT_133699,VitalDrink 800 (A),スタミナドリンク 800 (A)
+PROPITEM_TXT_133700,VitalDrink 800 (A+),スタミナドリンク 800 (A+)
+PROPITEM_TXT_133701,FP 676 Recovery,FPを676回復
+PROPITEM_TXT_133702,Yellow Pill (C),黄色い秘薬 (C)
+PROPITEM_TXT_133703,Recovers 2200 HP,HPが2200回復する食べ物
+PROPITEM_TXT_133704,Yellow Pill (B),黄色い秘薬 (B)
+PROPITEM_TXT_133705,Yellow Pill (A),黄色い秘薬 (A)
+PROPITEM_TXT_133706,Yellow Pill (A+),黄色い秘薬 (A+)
+PROPITEM_TXT_133707,Recovers 2300 HP,HPが2300回復する食べ物
+PROPITEM_TXT_133708,Blue Pill (C),青い秘薬 (C)
+PROPITEM_TXT_133709,Recovers 4400 HP,HPが4400回復する食べ物
+PROPITEM_TXT_133710,Blue Pill (B),青い秘薬 (B)
+PROPITEM_TXT_133711,Blue Pill (A),青い秘薬 (A)
+PROPITEM_TXT_133712,Blue Pill (A+),青い秘薬 (A+)
+PROPITEM_TXT_133713,Recovers 4600 HP,HPが4600回復する食べ物
+PROPITEM_TXT_133714,Red Pill (C),赤い秘薬 (C)
+PROPITEM_TXT_133715,Recovers 8800 HP,HPが8800回復する食べ物
+PROPITEM_TXT_133716,Red Pill (B),赤い秘薬 (B)
+PROPITEM_TXT_133717,Red Pill (A),赤い秘薬 (A)
+PROPITEM_TXT_133718,Red Pill (A+),赤い秘薬 (A+)
+PROPITEM_TXT_133719,Recovers 9200 HP,HPが9200回復する食べ物
+PROPITEM_TXT_133720,Third Refresher (C),魔力ドリンク 3 (C)
+PROPITEM_TXT_133721,MP 222 Recovery,MPを222回復
+PROPITEM_TXT_133722,Third Refresher (B),魔力ドリンク 3 (B)
+PROPITEM_TXT_133723,Third Refresher (A),魔力ドリンク 3 (A)
+PROPITEM_TXT_133724,Third Refresher (A+),魔力ドリンク 3 (A+)
+PROPITEM_TXT_133725,MP 241 Recovery,MPを241回復
+PROPITEM_TXT_133726,Fourth Refresher (C),魔力ドリンク 4 (C)
+PROPITEM_TXT_133727,MP 294 Recovery,MPを294回復
+PROPITEM_TXT_133728,Fourth Refresher (B),魔力ドリンク 4 (B)
+PROPITEM_TXT_133729,Fourth Refresher (A),魔力ドリンク 4 (A)
+PROPITEM_TXT_133730,Fourth Refresher (A+),魔力ドリンク 4 (A+)
+PROPITEM_TXT_133731,MP 319 Recovery,MPを319回復
+PROPITEM_TXT_133732,Fifth Refresher (C),魔力ドリンク 5 (C)
+PROPITEM_TXT_133733,MP 378 Recovery,MPを378回復
+PROPITEM_TXT_133734,Fifth Refresher (B),魔力ドリンク 5 (B)
+PROPITEM_TXT_133735,Fifth Refresher (A),魔力ドリンク 5 (A)
+PROPITEM_TXT_133736,Fifth Refresher (A+),魔力ドリンク 5 (A+)
+PROPITEM_TXT_133737,MP 410 Recovery,MPを410回復
+PROPITEM_TXT_133738,Sixth Refresher (C),魔力ドリンク 6 (C)
 PROPITEM_TXT_133739,MP 450 Recovery,MPを450回復
-PROPITEM_TXT_133740,Sixth Refresher (B),Sixth Refresher (B)
-PROPITEM_TXT_133741,Sixth Refresher (A),Sixth Refresher (A)
-PROPITEM_TXT_133742,Sixth Refresher (A+),Sixth Refresher (A+)
-PROPITEM_TXT_133743,MP 488 Recovery,MP 488 Recovery
-PROPITEM_TXT_133744,Seventh Refresher (C),Seventh Refresher (C)
-PROPITEM_TXT_133745,MP 540 Recovery,MP 540 Recovery
-PROPITEM_TXT_133746,Seventh Refresher (B),Seventh Refresher (B)
-PROPITEM_TXT_133747,Seventh Refresher (A),Seventh Refresher (A)
-PROPITEM_TXT_133748,Seventh Refresher (A+),Seventh Refresher (A+)
-PROPITEM_TXT_133749,MP 585 Recovery,MP 585 Recovery
-PROPITEM_TXT_133750,VitalDrink 900 (C),VitalDrink 900 (C)
-PROPITEM_TXT_133751,FP 708 Recovery,FP 708 Recovery
-PROPITEM_TXT_133752,VitalDrink 900 (B),VitalDrink 900 (B)
-PROPITEM_TXT_133753,VitalDrink 900 (A),VitalDrink 900 (A)
-PROPITEM_TXT_133754,VitalDrink 900 (A+),VitalDrink 900 (A+)
-PROPITEM_TXT_133755,FP 767 Recovery,FP 767 Recovery
-PROPITEM_TXT_133756,Ninth Refresher (C),Ninth Refresher (C)
-PROPITEM_TXT_133757,MP 720 Recovery,MP 720 Recovery
-PROPITEM_TXT_133758,Ninth Refresher (B),Ninth Refresher (B)
-PROPITEM_TXT_133759,Ninth Refresher (A),Ninth Refresher (A)
-PROPITEM_TXT_133760,Ninth Refresher (A+),Ninth Refresher (A+)
-PROPITEM_TXT_133761,MP 780 Recovery,MP 780 Recovery
-PROPITEM_TXT_133762,Tenth Refresher (C),Tenth Refresher (C)
-PROPITEM_TXT_133763,MP 810 Recovery,MP 810 Recovery
-PROPITEM_TXT_133764,Tenth Refresher (B),Tenth Refresher (B)
-PROPITEM_TXT_133765,Tenth Refresher (A),Tenth Refresher (A)
-PROPITEM_TXT_133766,Tenth Refresher (A+),Tenth Refresher (A+)
-PROPITEM_TXT_133767,MP 878 Recovery,MP 878 Recovery
-PROPITEM_TXT_133768,Gold Pill (C),Gold Pill (C)
-PROPITEM_TXT_133769,Recovers 16500 HP,Recovers 16500 HP
-PROPITEM_TXT_133770,Gold Pill (B),Gold Pill (B)
-PROPITEM_TXT_133771,Gold Pill (A),Gold Pill (A)
-PROPITEM_TXT_133772,Gold Pill (A+),Gold Pill (A+)
-PROPITEM_TXT_133773,Recovers 17250 HP,Recovers 17250 HP
+PROPITEM_TXT_133740,Sixth Refresher (B),魔力ドリンク 6 (B)
+PROPITEM_TXT_133741,Sixth Refresher (A),魔力ドリンク 6 (A)
+PROPITEM_TXT_133742,Sixth Refresher (A+),魔力ドリンク 6 (A+)
+PROPITEM_TXT_133743,MP 488 Recovery,MPを488回復
+PROPITEM_TXT_133744,Seventh Refresher (C),魔力ドリンク 7 (C)
+PROPITEM_TXT_133745,MP 540 Recovery,MPを540回復
+PROPITEM_TXT_133746,Seventh Refresher (B),魔力ドリンク 7 (B)
+PROPITEM_TXT_133747,Seventh Refresher (A),魔力ドリンク 7 (A)
+PROPITEM_TXT_133748,Seventh Refresher (A+),魔力ドリンク 7 (A+)
+PROPITEM_TXT_133749,MP 585 Recovery,MPを585回復
+PROPITEM_TXT_133750,VitalDrink 900 (C),スタミナドリンク 900 (C)
+PROPITEM_TXT_133751,FP 708 Recovery,FPを708回復
+PROPITEM_TXT_133752,VitalDrink 900 (B),スタミナドリンク 900 (B)
+PROPITEM_TXT_133753,VitalDrink 900 (A),スタミナドリンク 900 (A)
+PROPITEM_TXT_133754,VitalDrink 900 (A+),スタミナドリンク 900 (A+)
+PROPITEM_TXT_133755,FP 767 Recovery,FPを767回復
+PROPITEM_TXT_133756,Ninth Refresher (C),魔力ドリンク 9 (C)
+PROPITEM_TXT_133757,MP 720 Recovery,MPを720回復
+PROPITEM_TXT_133758,Ninth Refresher (B),魔力ドリンク 9 (B)
+PROPITEM_TXT_133759,Ninth Refresher (A),魔力ドリンク 9 (A)
+PROPITEM_TXT_133760,Ninth Refresher (A+),魔力ドリンク 9 (A+)
+PROPITEM_TXT_133761,MP 780 Recovery,MPを780回復
+PROPITEM_TXT_133762,Tenth Refresher (C),魔力ドリンク 10 (C)
+PROPITEM_TXT_133763,MP 810 Recovery,MPを810回復
+PROPITEM_TXT_133764,Tenth Refresher (B),魔力ドリンク 10 (B)
+PROPITEM_TXT_133765,Tenth Refresher (A),魔力ドリンク 10 (A)
+PROPITEM_TXT_133766,Tenth Refresher (A+),魔力ドリンク 10 (A+)
+PROPITEM_TXT_133767,MP 878 Recovery,MPを878回復
+PROPITEM_TXT_133768,Gold Pill (C),金の秘薬 (C)
+PROPITEM_TXT_133769,Recovers 16500 HP,HPが16500回復する食べ物
+PROPITEM_TXT_133770,Gold Pill (B),金の秘薬 (B)
+PROPITEM_TXT_133771,Gold Pill (A),金の秘薬 (A)
+PROPITEM_TXT_133772,Gold Pill (A+),金の秘薬 (A+)
+PROPITEM_TXT_133773,Recovers 17250 HP,HPが17250回復する食べ物
 PROPITEM_TXT_133774,Shining Gold Pill,Shining Gold Pill
 PROPITEM_TXT_133775,A shining gold pill.,A shining gold pill.
 PROPITEM_TXT_133776,Shining Gold Pill (C),Shining Gold Pill (C)
@@ -18976,7 +18976,7 @@ PROPITEM_TXT_134594,+460 Damage Earring,+460 Damage Earring
 PROPITEM_TXT_134595,Penzeru +4,Penzeru +4
 PROPITEM_TXT_134596,+225 Defense Earring,+225 Defense Earring
 PROPITEM_TXT_134597,Penzeru +5,Penzeru +5
-PROPITEM_TXT_134598,#ERROR!,#ERROR!
+PROPITEM_TXT_134598,+250 Defense Earring,+250 Defense Earring
 PROPITEM_TXT_134599,Speedo +4,Speedo +4
 PROPITEM_TXT_134600,+15% Block Earring,+15% Block Earring
 PROPITEM_TXT_134601,Speedo +5,Speedo +5
@@ -19006,12 +19006,12 @@ PROPITEM_TXT_134625,Handcrafted Diamond Ring,Handcrafted Diamond Ring
 PROPITEM_TXT_134626,Master's Diamond Ring,Master's Diamond Ring
 PROPITEM_TXT_134627,Cooking Egg,Cooking Egg
 PROPITEM_TXT_134628,These eggs are used for cooking.,These eggs are used for cooking.
-PROPITEM_TXT_134629,Eighth Refresher (C),Eighth Refresher (C)
-PROPITEM_TXT_134630,MP 630 Recovery,MP 630 Recovery
-PROPITEM_TXT_134631,Eighth Refresher (B),Eighth Refresher (B)
-PROPITEM_TXT_134632,Eighth Refresher (A),Eighth Refresher (A)
-PROPITEM_TXT_134633,Eighth Refresher (A+),Eighth Refresher (A+)
-PROPITEM_TXT_134634,MP 683 Recovery,MP 683 Recovery
+PROPITEM_TXT_134629,Eighth Refresher (C),魔力ドリンク 8 (C)
+PROPITEM_TXT_134630,MP 630 Recovery,MPを630回復
+PROPITEM_TXT_134631,Eighth Refresher (B),魔力ドリンク 8 (B)
+PROPITEM_TXT_134632,Eighth Refresher (A),魔力ドリンク 8 (A)
+PROPITEM_TXT_134633,Eighth Refresher (A+),魔力ドリンク 8 (A+)
+PROPITEM_TXT_134634,MP 683 Recovery,MPを683回復
 PROPITEM_TXT_134635,Enduky +4,Enduky +4
 PROPITEM_TXT_134636,Enduky +5,Enduky +5
 PROPITEM_TXT_134637,Handmade Silver Ring (C),Handmade Silver Ring (C)
@@ -19053,10 +19053,10 @@ PROPITEM_TXT_134668,This cute Violet Mia manages a Personal Shop for you! Double
 PROPITEM_TXT_134669,Violet Nautrepy Vendor Shop (7 Days),Violet Nautrepy Vendor Shop (7 Days)
 PROPITEM_TXT_134670,This cute Violet Nautrepy manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),This cute Violet Nautrepy manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days)
 PROPITEM_TXT_134672,Brilliant Amethyst,Brilliant Amethyst
-PROPITEM_TXT_134673,Sausage Casserole (B),Sausage Casserole (B)
-PROPITEM_TXT_134674,Sausage Casserole (A),Sausage Casserole (A)
-PROPITEM_TXT_134675,Sausage Casserole (A+),Sausage Casserole (A+)
-PROPITEM_TXT_134676,Recovers 481 HP,Recovers 481 HP
+PROPITEM_TXT_134673,Sausage Casserole (B),ソーセージロール (B)
+PROPITEM_TXT_134674,Sausage Casserole (A),ソーセージロール (A)
+PROPITEM_TXT_134675,Sausage Casserole (A+),ソーセージロール (A+)
+PROPITEM_TXT_134676,Recovers 481 HP,HPが481回復する食べ物
 PROPITEM_TXT_726143,[Event] Pumpkin Ball,[Event] Pumpkin Ball
 PROPITEM_TXT_726144,"The Pumpkin Ball contains a mysterious substance, and when thrown at a pumpkin, it will neutralize the pumpkin.","The Pumpkin Ball contains a mysterious substance, and when thrown at a pumpkin, it will neutralize the pumpkin."
 PROPITEM_TXT_726145,[Event] Pumpkin Treat Box,[Event] Pumpkin Treat Box

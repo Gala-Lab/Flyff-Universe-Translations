@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,攻撃パターンが
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,スキルを使用するために必要なアイテムを装備していません。
 TEXTCLIENT_REQFP,Not enough FP.,FP不足により、スキルが使えません。
 TEXTCLIENT_REQMP,Not enough MP.,MP不足により、スキルが使えません。
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,HP不足により、スキルが使えません。
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,障害物があるため、攻撃できません。
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s のスキルレベルが %d 以上必要です。
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s のスキルレベルが上がりました。
@@ -239,7 +239,7 @@ TEXTCLIENT_CONNREFUSE,Do not post connection status.,接続を知らせない設
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,無視リストがいっぱいです。無視リストを減らすか、再ログインしてリセットしてください。
 TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,自分を無視してはダメです。大事なことを言うかもしれないじゃん！
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,そのキャラクターのチャットは既に遮断されています。
-TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s を無視リストに追加しました。解除する場合は、 /Unignore <名前> を入力してください。
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s を無視リストに追加しました。解除する場合は、 /unignore <名前> を入力してください。
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s を無視リストから解除しました。
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,そのキャラクターのチャットは遮断されていません。
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,装備を解除してから行ってください。
