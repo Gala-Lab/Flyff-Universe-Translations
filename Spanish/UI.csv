@@ -3251,7 +3251,7 @@ UI_DUNGEONTIMERECAP_TIME,Time:,Tiempo:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Cerrar
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","Te conviertes en Nivel Oro si llegas a la sala del jefe en menos de %d minutos. En el Nivel Oro, aparece el jefe más fuerte."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","Te conviertes en Nivel Plata si llegas a la sala del jefe entre %d y %d minutos. En el Nivel Plata, aparece una versión más fuerte del jefe normal."
-UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","Te conviertes en Nivel Bronce si llegas a la sala del jefe después de 30 minutos. En el Nivel Bronce, aparece el jefe normal."
+UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","Te conviertes en Nivel Bronce si llegas a la sala del jefe después de %d minutos. En el Nivel Bronce, aparece el jefe normal."
 UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage from Poisoned Enemies
 UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage against Poisoned Enemies
 UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance to Cleanse Toxins on Stealth
