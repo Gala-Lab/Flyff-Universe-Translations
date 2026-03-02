@@ -2120,113 +2120,113 @@ UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieved Ultimate Upgrade +2,Nakamit ang Pinakam
 UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieved Ultimate Upgrade +3,Nakamit ang Pinakamahusay na Pag-upgrade +3
 UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieved Ultimate Upgrade +4,Nakamit ang Pinakamahusay na Pag-upgrade +4
 UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieved Ultimate Upgrade +5,Nakamit ang Pinakamahusay na Pag-upgrade +5
-UI_RAINBOWRACE_RANKING,Leaderboard,Leaderboard
-UI_EXCHANGE_ACCOUNTLINK,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc
-UI_EXCHANGE_SOULLINK,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc
-UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,Rainbow Race
-UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.
-UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
-UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in with Email
-UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Login with Flyff Universe Email or Username
-UI_SESSION_TITLE,Saved Sessions,Saved Sessions
-UI_SESSION_REMOVE,Remove,Remove
-UI_SESSION_REMOVEALL,Remove All,Remove All
-UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
-UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Client performance is low.\nPlease check for 2 items below.
-UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Change in-game video/graphic setting adjusted to your PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Make sure your browser has hardware acceleration turned on.
-UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Go to Game Setting
-UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Finish Rainbow Race
-UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Unlock through quests, achievements, or an Extra Bag from the Cash Shop."
-UI_LOCKED_SLOT_TIP_COUPLE,You can expand slots through couple level-ups and better couple rings.,You can expand slots through couple level-ups and better couple rings.
-UI_QUEST_SLOTS_COMMAND,Unfinished quests which unlock inventory slots:,Unfinished quests which unlock inventory slots:
-UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or unfinished achievements which unlock inventory slots:,Unclaimed or unfinished achievements which unlock inventory slots:
-UI_QUEST_KILL_MONSTER_COUNT,Defeat monsters #cffc32f07#b%d/%d#nb#nc,Defeat monsters #cffc32f07#b%d/%d#nb#nc
-UI_STORAGE_EXPIRED,(Expired),(Expired)
-UI_STORAGE_GETALL,Retrieve All,Retrieve All
-UI_STORAGE_GETALL_TIP,Retrieve all items to your inventory.,Retrieve all items to your inventory.
-UI_STORAGE_LIST,Contains %d items:,Contains %d items:
-UI_STORAGE_MORE,And %d more,And %d more
-UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click or Right Click to view content.
-UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click to view content.
-UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
-UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
-UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
-UI_STATBOARD_TITLE,Statboard,Statboard
-UI_STATBOARD_RAW,Raw Stats,Raw Stats
-UI_STATBOARD_GRAPHS,Graphs,Graphs
-UI_STATBOARD_RANK,Rank,Rank
-UI_STATBOARD_TIME,Time,Time
-UI_STATBOARD_ITEMS,Items,Items
-UI_STATBOARD_SPEED,Avg Speed,Avg Speed
-UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
-UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Displays the Upgradable Item Pack Menu.
-UI_UPGRADE_ITEMPACK,Upgrade,Upgrade
-UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item Pack Upgrade
-UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed.","When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed."
-UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack in the item slot.,Drag and drop an upgradable item pack in the item slot.
-UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?","Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?"
-UI_TAB_EGG_USE_NAME,Egg Use Achievements event,Egg Use Achievements event
-UI_EGG_USE_EVENT,Egg Use,Egg Use
-UI_EGG_USE_EVENT_DESC,"Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!","Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!"
-UI_EGG_USE_RED_EGG,Red Egg,Red Egg
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Orange Egg
-UI_EGG_USE_YELLOW_EGG,Yellow Egg,Yellow Egg
-UI_EGG_USE_GREEN_EGG,Green Egg,Green Egg
-UI_EGG_USE_BLUE_EGG,Blue Egg,Blue Egg
-UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in: ,Expires in: 
-UI_HOUSINGSETUP_KEEPTIME,Expires in: ,Expires in: 
-UI_GUILD_TAB_HOUSING_JOINBATTLE,Join Artifact Battle,Join Artifact Battle
-UI_GUILD_TAB_HOUSING_CANCELBATTLE,Cancel Artifact Battle,Cancel Artifact Battle
-UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc"
-UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.
+UI_RAINBOWRACE_RANKING,Leaderboard,Listahan ng mga nangunguna
+UI_EXCHANGE_ACCOUNTLINK,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc,#cffff0000Makakakuha ka ng isang Account-Linked na item dahil ang ilan sa iyong mga isinusukli na item ay Account-Linked.#nc
+UI_EXCHANGE_SOULLINK,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc,#cffff0000Makakakuha ka ng isang Soul-Linked na item dahil ang ilan sa iyong mga isinusukli na item ay Soul-Linked.#nc
+UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,Karera ng Bahaghari
+UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,Ang Karera ng Bahaghari ay magsisimula sa lalong madaling panahon. Gusto mo bang mag-teleport sa panimulang punto? Ang pagtanggi ay magreresulta sa diskwalipikasyon mula sa karera nang walang refund.
+UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Pasko Pass 2023
+UI_HOME_LOGIN_EMAIL,Sign in with Email,Mag-sign in gamit ang Email
+UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Mag-login gamit ang Flyff Universe Email o Username
+UI_SESSION_TITLE,Saved Sessions,Nai-save na Mga Session
+UI_SESSION_REMOVE,Remove,Alisin
+UI_SESSION_REMOVEALL,Remove All,Alisin Lahat
+UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Pag-iingat
+UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Mababa ang performance ng kliyente.\nPakisuri ang 2 item sa ibaba.
+UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) I-adjust ang mga setting ng video/graphic sa laro ayon sa iyong PC.
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Siguraduhin na ang iyong browser ay may hardware acceleration na naka-on.
+UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Pumunta sa Mga Setting ng Laro
+UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Tapusin ang Karera ng Bahaghari
+UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","I-unlock sa pamamagitan ng mga quest, achievement, o isang Extra Bag mula sa Cash Shop."
+UI_LOCKED_SLOT_TIP_COUPLE,You can expand slots through couple level-ups and better couple rings.,Maaari mong palawakin ang mga slot sa pamamagitan ng couple level-ups at mas magagandang couple rings.
+UI_QUEST_SLOTS_COMMAND,Unfinished quests which unlock inventory slots:,Hindi pa natapos na mga quest na nagbubukas ng mga slot sa imbentaryo:
+UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or unfinished achievements which unlock inventory slots:,Hindi pa nakukuha o hindi pa natatapos na mga achievement na nagbubukas ng mga slot sa imbentaryo:
+UI_QUEST_KILL_MONSTER_COUNT,Defeat monsters #cffc32f07#b%d/%d#nb#nc,Patayin ang mga halimaw #cffc32f07#b%d/%d#nb#nc
+UI_STORAGE_EXPIRED,(Expired),(Nag-expire)
+UI_STORAGE_GETALL,Retrieve All,Kunin Lahat
+UI_STORAGE_GETALL_TIP,Retrieve all items to your inventory.,Kunin lahat ng item sa iyong imbentaryo.
+UI_STORAGE_LIST,Contains %d items:,Naglalaman ng %d item:
+UI_STORAGE_MORE,And %d more,At %d pa
+UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click o Right Click upang tingnan ang nilalaman.
+UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click upang tingnan ang nilalaman.
+UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Pindutin nang matagal upang tingnan ang nilalaman.
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium na Gantimpala sa Pag-login
+UI_ACHIEVEMENTS_PROBABILITY,Probability,Posibilidad
+UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Impormasyon sa posibilidad ng premium na gantimpala
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Bumili ng Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Bumili ng Login Coupon
+UI_STATBOARD_TITLE,Statboard,Patalastas ng estadistika
+UI_STATBOARD_RAW,Raw Stats,Hilaw na estadistika
+UI_STATBOARD_GRAPHS,Graphs,Mga grap
+UI_STATBOARD_RANK,Rank,Ranggo
+UI_STATBOARD_TIME,Time,Oras
+UI_STATBOARD_ITEMS,Items,Mga item
+UI_STATBOARD_SPEED,Avg Speed,Karaniwang Bilis
+UI_STATBOARD_HIDDEN,Hidden zero values: %d,Nakatagong zero na halaga: %d
+UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Ipinapakita ang Menu ng Upgradable Item Pack.
+UI_UPGRADE_ITEMPACK,Upgrade,Pag-upgrade
+UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Pag-upgrade ng Item Pack
+UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed.","Kapag binuksan mo ang isang itlog, maaari mong makuha ang lahat ng mga item na nakalista sa ibaba.\nKung magtagumpay ka sa pag-upgrade ng itlog, makakatanggap ka ng mga item na may mas mataas na ranggo, ngunit kung mabigo, ang itlog ay maaaring ma-downgrade o masira."
+UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack in the item slot.,I-drag at i-drop ang isang upgradable na item pack sa item slot.
+UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?","Ang matagumpay na pag-upgrade ay nagpapataas ng gantimpala, ngunit ang kabiguan ay maaaring mag-downgrade o sirain ang item.\nTalaga bang gusto mong mag-upgrade?"
+UI_TAB_EGG_USE_NAME,Egg Use Achievements event,Mga Natamo sa Paggamit ng Itlog event
+UI_EGG_USE_EVENT,Egg Use,Paggamit ng Itlog
+UI_EGG_USE_EVENT_DESC,"Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!","Makakatanggap ng gantimpala kapag naabot ang tiyak na bilang ng mga itlog na ginamit sa panahon ng kaganapan.\nAng bilang ng mga gantimpala ay limitado sa bawat kulay ng itlog kaya magmadali.\nUnang dumating, unang makakakuha!"
+UI_EGG_USE_RED_EGG,Red Egg,Pulang Itlog
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Kahel na Itlog
+UI_EGG_USE_YELLOW_EGG,Yellow Egg,Dilaw na Itlog
+UI_EGG_USE_GREEN_EGG,Green Egg,Berde na Itlog
+UI_EGG_USE_BLUE_EGG,Blue Egg,Asul na Itlog
+UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in: ,Mag-e-expire sa: 
+UI_HOUSINGSETUP_KEEPTIME,Expires in: ,Mag-e-expire sa: 
+UI_GUILD_TAB_HOUSING_JOINBATTLE,Join Artifact Battle,Sumali sa Labanan ng Artifact
+UI_GUILD_TAB_HOUSING_CANCELBATTLE,Cancel Artifact Battle,Kanselahin ang Labanan ng Artifact
+UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Gusto mo bang sumali sa susunod na Labanan ng Artifact ng Guild?\n#cffff0000#bBABALA: Sa pagsali sa Labanan ng Artifact, isang bayad na %s penyas ang ibabawas sa iyong guild bank!#nb#nc"
+UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Gusto mo bang kanselahin ang pagsali sa Labanan ng Artifact ng Guild? Makakatanggap ka ng lahat ng penyas na ginamit mo sa pagsali sa laban.
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTBATTLEHDR,Next artifact battle in:,Next artifact battle in:
-UI_CHARINFO_HOUSING,Housing,Housing
-UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Current Template
-UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Expires in
-UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Current bonuses
-UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,No house yet.
-UI_CHARINFO_HOUSING_EXPIRED,Expired.,Expired.
-UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc
-UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends in ,Artifact Battle Ends in 
-UI_GUILD_LOG_BTN,Log,Log
-UI_GUILDLOG_TITLE,Guild Log,Guild Log
-UI_GUILDLOG_JOINED,Joined,Joined
-UI_GUILDLOG_LEFT,Left,Left
-UI_GUILDLOG_EJECTED,Ejected,Ejected
-UI_GACHA_OPEN_ALL,Open All,Open All
-UI_GACHA_OPEN_ONE,Open 1,Open 1
-UI_GACHA_OPEN_ALL_CONFIRM,Will you open all the select boxes?,Will you open all the select boxes?
-UI_BATTLEPASS_MISSION_USEITEM,Use %s,Use %s
-UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Total Likes
-UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
-UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,The message has to be between 4 and %d characters. 
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Delete guest message?
-UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,Are you sure you want to delete that guest message?
+UI_CHARINFO_HOUSING,Housing,Pabahay
+UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Kasalukuyang Template
+UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Mag-e-expire sa
+UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Kasalukuyang mga bonus
+UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,Wala pang bahay.
+UI_CHARINFO_HOUSING_EXPIRED,Expired.,Nag-expire na.
+UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,Sinusubukan mong ilapat ang isang preset na naglalaman ng mga bagay o NPC na hindi permanente. Sigurado ka bang gusto mo pa rin itong ilapat? \n#b#cff78e12fPaalala: Ang mga bagay at NPC na may pinakamaikling oras ng pag-expire ang bibigyan ng prayoridad.#nb#nc
+UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends in ,Natapos ang Labanan ng Artifact sa
+UI_GUILD_LOG_BTN,Log,Tala
+UI_GUILDLOG_TITLE,Guild Log,Tala ng Guild
+UI_GUILDLOG_JOINED,Joined,Sumali
+UI_GUILDLOG_LEFT,Left,Umalis
+UI_GUILDLOG_EJECTED,Ejected,Inalis
+UI_GACHA_OPEN_ALL,Open All,Buksan Lahat
+UI_GACHA_OPEN_ONE,Open 1,Buksan 1
+UI_GACHA_OPEN_ALL_CONFIRM,Will you open all the select boxes?,Bubuksan mo ba ang lahat ng mga napiling kahon?
+UI_BATTLEPASS_MISSION_USEITEM,Use %s,Gamitin %s
+UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Kabuuang Likes
+UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Mensaheng Maligayang Pagdating
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Mensaheng Maligayang Pagdating
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Mag-post ng Mensahe
+UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,Ang mensahe ay dapat nasa pagitan ng 4 at %d na mga karakter.
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Tanggalin ang mensahe ng bisita?
+UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,Sigurado ka bang gusto mong tanggalin ang mensahe ng bisita na iyon?
 UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
-UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
-UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Ceiling
-UI_HOUSINGSETUP_FILTER_WALL,Wall,Wall
+UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Sahig
+UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Kisame
+UI_HOUSINGSETUP_FILTER_WALL,Wall,Pader
 UI_PARTY_CHANGE_NAME,Name,Pangalan
-UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
-UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,There are no Kalgas Assault scheduled.
-UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Can't enter Kalgas Assault.
-UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s
-UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
-UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
-UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Baguhin ang pangalan ng Partido.
+UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,Walang nakatakdang Kalgas Assault.
+UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Hindi makapasok sa Kalgas Assault.
+UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s,Gusto mo bang sumali sa Kalgas Assault?\n\nOras ng pagpasok: %s
+UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Hindi pa maaaring pumasok sa Kalgas Assault. Bituin ng Pagpasok: %02d:%02d:%02d
+UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Nagsimula na ngayong araw ang Kalgas Assault.
+UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.",#cff00000ffPagpaparehistro#nc\nOras hanggang pagpaparehistro:\n %s \nOras hanggang pagpasok:\n %s \nPinakamababang Antas: %d\n\nKasalukuyang bilang ng mga nakarehistrong manlalaro: %d\n\n※ Tanging ang mga gumagamit na nakarehistro para sa Kalgas Assault lamang ang maaaring lumahok.\n※ Hindi ka makakapasok paglipas ng takdang oras. ※ Maximum na 200 manlalaro bawat instance (100 vs 100) ※ Ang pinakamababang bilang ng mga manlalaro para sa mga gantimpalang pang-ranggo ay 20 o higit pa - at kung mas mababa sa 20 ang mga manlalaro - tanging ang gantimpala ng nagwagi lamang ang ibibigay. ※ Ang mga koponan ay pipiliin nang random."
+UI_SUN,Sunday,Linggo
+UI_MON,Monday,Lunes
+UI_TUE,Tuesday,Martes
+UI_WED,Wednesday,Myerkules
+UI_THU,Thursday,Huwebes
+UI_FRI,Friday,Biyernes
+UI_SAT,Saturday,Sabado
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
