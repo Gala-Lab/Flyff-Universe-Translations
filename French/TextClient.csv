@@ -346,7 +346,7 @@ TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,Vous ne pouvez pas ut
 TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
 TEXTCLIENT_SKILLWAITTIME,Please wait.,Cette technique n'est pas encore disponible.
 TEXTCLIENT_SKILL_SELF,You use %s.,Vous utilisez : %s.
-TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,Vous utilisez %s (%s).
 TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s utilise : %s.
 TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s lance %s (%s) sur vous.
 TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Vous n'êtes pas autorisé à consulter cet équipement.
