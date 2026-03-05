@@ -1,35 +1,35 @@
 ﻿Key,English,Finnish
 LANGUAGE_CODE,EN,FI
 UI_HOME_TITLE,Home,Home
-UI_HOME_GUESTCHAR,Guest Character,Guest Character
-UI_HOME_NEWCHAR,New Character,New Character
-UI_HOME_NEWCHAR_TIP,Create a new character without account.,Create a new character without account.
-UI_HOME_LOGIN,Sign In,Sign In
+UI_HOME_GUESTCHAR,Guest Character,Vieraileva hahmo
+UI_HOME_NEWCHAR,New Character,Uusi hahmo
+UI_HOME_NEWCHAR_TIP,Create a new character without account.,Luo uusi hahmo ilman tiliä.
+UI_HOME_LOGIN,Sign In,Kirjaudu sisään
 UI_HOME_REGISTER,Sign Up,Sign Up
-UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Enter ID & password, and press OK to connect to the game."
-UI_HOME_ALREADYACCOUNT,Already have an account?,Already have an account?
+UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Syötä käyttäjätunnus ja salasana ja paina OK muodostaaksesi yhteyden peliin."
+UI_HOME_ALREADYACCOUNT,Already have an account?,Onko sinulla jo tili?
 UI_HOME_WEBSITE,Website,Website
 UI_HOME_CREDITS,Credits,Credits
 UI_HOME_OR,Or,Or
 UI_HOME_LOGIN_DOTS,Email:,Email:
-UI_HOME_PASSWORD,Password:,Password:
-UI_HOME_RECOVER,Forgot password?,Forgot password?
-UI_SELECTSERVER_TITLE,Select Server,Select Server
-UI_SELECTSERVER_BACK,Back,Back
-UI_SELECTSERVER_NEXT,Next,Next
+UI_HOME_PASSWORD,Password:,Salasana:
+UI_HOME_RECOVER,Forgot password?,Unohtuiko salasana?
+UI_SELECTSERVER_TITLE,Select Server,Valitse palvelin
+UI_SELECTSERVER_BACK,Back,Takaisin
+UI_SELECTSERVER_NEXT,Next,Seuraava
 UI_SELECTSERVER_FULL,full,full
 UI_SELECTSERVER_BUSY,busy,busy
 UI_SELECTSERVER_BEST,best,best
-UI_SELECTSERVER_NEWNAME,Please enter another name:,Please enter another name:
-UI_SELECTSERVER_NAMETITLE,Character Name,Character Name
-UI_CHARLIST_TITLE,Characters,Characters
-UI_CHARLIST_PLAY,Play,Play
-UI_CHARLIST_NEW,New,New
-UI_CHARLIST_DELETE,Delete,Delete
-UI_DELETECHAR_TITLE,Delete Character,Delete Character
+UI_SELECTSERVER_NEWNAME,Please enter another name:,Anna toinen nimi:
+UI_SELECTSERVER_NAMETITLE,Character Name,Hahmon nimi
+UI_CHARLIST_TITLE,Characters,Hahmot
+UI_CHARLIST_PLAY,Play,Pelaa
+UI_CHARLIST_NEW,New,Uusi
+UI_CHARLIST_DELETE,Delete,Poista
+UI_DELETECHAR_TITLE,Delete Character,Poista hahmo
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
-UI_DELETECHAR_NOPASS,Do you confirm?,Do you confirm?
-UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","If you delete a character, you cannot use its name during a week."
+UI_DELETECHAR_NOPASS,Do you confirm?,Vahvistatko?
+UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Jos poistat hahmon, et voi käyttää sen nimeä viikon ajan."
 UI_NEWCHAR_NAME,Name:,Name:
 UI_NEWCHAR_GIRL,Girl,Girl
 UI_NEWCHAR_BOY,Boy,Boy
@@ -2375,8 +2375,8 @@ UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
 UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Do you confirm?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Vahvistatko?
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Kun peruutat jäsenyytesi, kaikki tiedot poistetaan, etkä voi käyttää palvelua, palauttaa tiliäsi tai saada hyvitystä mistään jäljellä olevista maksetuista tuotteista tai valuutoista."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:

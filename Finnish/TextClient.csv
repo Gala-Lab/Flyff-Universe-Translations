@@ -1,17 +1,17 @@
 ﻿Key,English,Finnish
 TEXTCLIENT_CONNECTING,Connecting. Please wait.,Yhdistetään. Odota hetki.
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Yhteyttä peliin ei voitu muodostaa. Tarkistathan nettiyhteytesi.
-TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,The game has been updated. Please close the page and open it again.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Peli on päivitetty. Sulje sivu ja avaa se uudelleen.
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Väärä serveritunniste.
 TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Tuntematon virhe, yritäthän uudelleen."
-TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Your account is already connected.
-TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Do you want to disconnect the other device?
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Tilisi on jo yhdistetty.
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Haluatko irrottaa toisen laitteen?
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,The device is being disconnected. Please login again in 10 seconds.
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Tämä kanava on toistaiseksi täynnä, odota hetki tai valitse toinen kanava."
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Hahmon nimi on jo käytössä.
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster Detected!
 TEXTCLIENT_APP_MAP,World Map,Maailmankartta
-TEXTCLIENT_APP_OPTION,Options,Options
+TEXTCLIENT_APP_OPTION,Options,Asetukset
 TEXTCLIENT_APP_LOGOUT,Logout,Uloskirjautuminen
 TEXTCLIENT_APP_QUIT,Quit,Lopeta
 TEXTCLIENT_APP_SUPPORT,Support,Support
