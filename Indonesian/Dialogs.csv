@@ -1132,9 +1132,9 @@ NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been d
 NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.","Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me."
 NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.","Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it."
 NPC_100188,We reuse our food - of course joking!,Kami menggunakan kembali makanan kami - tentu saja ini hanya bercanda!
-NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,Hello there! I may have something useful for you. Would you mind taking a look in my bag?
-NPC_100190,I'm just walking around and selling stuff.,I'm just walking around and selling stuff.
-NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","I don't know what items will be available when, so come back whenever you have time. Hehe"
+NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,Halo! Mungkin saya punya sesuatu yang berguna untuk Anda. Apakah Anda keberatan melihat isi tas saya?
+NPC_100190,I'm just walking around and selling stuff.,Saya hanya berjalan-jalan dan menjual barang.
+NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","Saya tidak tahu barang-barang apa yang akan tersedia kapan, jadi silakan datang kapan saja Anda punya waktu. Hehe"
 NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.","Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes."
 NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!","Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!"
 NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!","As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!"
@@ -1150,11 +1150,11 @@ NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than gu
 NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?","This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?"
 NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.","I'm Karr. If you drop your guard during wartime, that moment might be your last."
 NPC_150009,…Do you need something?,…Do you need something?
-NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,My name’s Zerke. Keep your questions short. I’ll help if I can.
+NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,Nama saya Zerke. Jaga agar pertanyaan Anda singkat. Saya akan membantu jika bisa.
 NPC_150011,"It feels good to protect something, doesn’t it?","It feels good to protect something, doesn’t it?"
-NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,I'm Elin. My job is to make sure everyone coming through here stays safe.
-NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Protecting a village isn’t simple. All those lives rest on us.
-NPC_150014,I am Gard. I’m one of the guardians who protect this place.,I am Gard. I’m one of the guardians who protect this place.
+NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,Saya Elin. Tugas saya adalah memastikan semua orang yang melewati sini tetap aman.
+NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Melindungi sebuah desa bukanlah hal yang mudah. Semua nyawa itu bergantung pada kita.
+NPC_150014,I am Gard. I’m one of the guardians who protect this place.,Saya Gard. Saya salah satu penjaga yang melindungi tempat ini.
 NPC_150015,"Hello! Beautiful morning, isn’t it? I’m Gard.","Hello! Beautiful morning, isn’t it? I’m Gard."
 NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.","Even cats need a break sometimes. Still, patrol never stops."
 NPC_150017,"I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.","I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe."
@@ -1167,21 +1167,21 @@ NPC_150023,Call me Kras. I protect this village.,Call me Kras. I protect this vi
 NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,I used to be an adventurer like you… until I took an arrow to the knee.
 NPC_150025,A new face. I hope we stay on friendly terms.,A new face. I hope we stay on friendly terms.
 NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.","I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win."
-NPC_150027,You’re not ready.,You’re not ready.
-NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Great day for patrol. Is there even such a thing as bad weather? Not for me.
-NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.
+NPC_150027,You’re not ready.,Kamu belum siap.
+NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Hari yang bagus untuk patroli. Apakah ada cuaca buruk? Tidak bagi saya.
+NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,Nama saya Kerion. Saya sedang patroli—beri tahu saya jika Anda melihat sesuatu yang mencurigakan.
 NPC_150030,"Go, adventurer… go.","Go, adventurer… go."
 NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?","It’s wonderful seeing everyone living in peace, isn’t it?"
-NPC_150032,I’m Raon! No one loves this village more than me.,I’m Raon! No one loves this village more than me.
-NPC_150033,You can’t pass.,You can’t pass.
+NPC_150032,I’m Raon! No one loves this village more than me.,Aku Raon! Tidak ada yang lebih mencintai desa ini daripada aku.
+NPC_150033,You can’t pass.,Kamu tidak bisa lewat.
 NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","Stay calm. If the soldiers panic, who will the villagers rely on?"
 NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village."
-NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?
+NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,Orang di sebelahku? Dia terhubung. Katanya dia berteman dengan seseorang bernama Waldo.\nApakah kamu tahu siapa itu?
 NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","You’ve made it this far… but from here on, things might get dangerous."
 NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","I’m Merk, head of scouting. Seen any Lycan activity?"
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Quiet. Scouting only works if we stay hidden.
+NPC_150039,Quiet. Scouting only works if we stay hidden.,Diam. Pengintaian hanya berhasil jika kita tetap bersembunyi.
 NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs."
-NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off."
+NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","Saya Baron, kapten pengawal Eillun. Sebagai perisai dan pedang tempat ini, saya tidak akan membiarkan ancaman apa pun mendekati rakyat kita. Di bawah komando saya, tidak ada yang bermalas-malasan."
 NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,The Lycans are growing bolder. Keep your weapon ready.
 NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.
 NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?","I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?"
@@ -1189,48 +1189,48 @@ NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Welcome to Eil
 NPC_150046,A new visitor… Let’s hope that’s a good sign.,A new visitor… Let’s hope that’s a good sign.
 NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.","I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change."
 NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.
-NPC_150049,Do you always trust what you see? Think it through.,Do you always trust what you see? Think it through.
+NPC_150049,Do you always trust what you see? Think it through.,Apakah kamu selalu percaya pada apa yang kamu lihat? Pikirkan baik-baik.
 NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?","I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?"
 NPC_150051,We’re not like the Khajiit… not like them at all.,We’re not like the Khajiit… not like them at all.
 NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.","Sometimes protecting the village requires sacrifice. It’s harsh, but true."
-NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.","I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you."
+NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.","Saya Melak, bertanggung jawab atas keamanan di Baron. Situasi semakin memburuk setiap hari. Tolong jangan beri saya alasan lain untuk khawatir. Saya akan terus memantau Anda."
 NPC_150054,It’s dangerous to go alone.,It’s dangerous to go alone.
-NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,How long are we going to sit around? We need to strike back and show them who we are.
-NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.
+NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,Seberapa lama lagi kita akan diam saja? Kita harus membalas dan menunjukkan kepada mereka siapa kita sebenarnya.
+NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,Saya Silar. Ada satu cara untuk melindungi desa ini: buat musuh-musuh kita takut pada kita lebih dari kita takut pada mereka.
 NPC_150057,We have a great communicator here… want to guess who?,We have a great communicator here… want to guess who?
 NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.","Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you."
-NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.","I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t."
+NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.","Saya Ebron, hanya seorang pria tua dengan terlalu banyak waktu luang. Hidup cukup lama, dan Anda mulai memperhatikan hal-hal yang tidak diperhatikan orang lain."
 NPC_150060,"Time is a strange thing, isn’t it?","Time is a strange thing, isn’t it?"
-NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Stock up on supplies before you leave. Better to have too much than too little.
-NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.","I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need."
-NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.","Hand over the Penya peacefully, and no one gets hurt."
+NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Persiapkan persediaan sebelum berangkat. Lebih baik berlebihan daripada kurang.
+NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.","Saya Liana, pemilik toko serba ada. Baik Anda seorang pelancong maupun penduduk desa, saya akan memastikan Anda mendapatkan apa yang Anda butuhkan."
+NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.","Serahkan Penya dengan damai, dan tidak ada yang terluka."
 NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,Look at this gemstone! It’s not just jewelry—it’s art.
 NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.","I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you."
 NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.
 NPC_150067,Good armor is like having a second life.,Good armor is like having a second life.
-NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.
+NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,Saya Haret. Memilih armor bukan soal selera—ini soal bertahan hidup. Pikir kamu bisa menemukan kualitas yang lebih baik di tempat lain? Saya ragu.
 NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.
 NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,A good weapon never betrays its wielder. Find one that suits you.
 NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.","Name’s Domir. Swords, axes, bows—whatever you need, I can forge it."
-NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.
+NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,Apakah kamu yakin puas dengan senjata itu? Kamu pantas mendapatkan yang lebih baik. Biarkan aku menunjukkan sesuatu yang bagus padamu.
 NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.","Attacking is important, but if you can’t defend yourself, you won’t last a battle."
 NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.","I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy."
 NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.","That shield won’t last long out here. Lucky for you, I’ve got a sturdier one."
 NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?
 NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.","I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere."
-NPC_150078,Fresh goods from the forest! Stock up before you travel.,Fresh goods from the forest! Stock up before you travel.
+NPC_150078,Fresh goods from the forest! Stock up before you travel.,Barang segar dari hutan! Siapkan persediaan sebelum berangkat.
 NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,A staff or wand is just a tool. The real magic depends on the person holding it.
 NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.","I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power."
 NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.","Interested in magic? I’ve got wands, staves, robes—take a look."
-NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Color carries emotion. The flowers around here create shades no dye can match.
-NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.
+NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Warna mengandung emosi. Bunga-bunga di sekitar sini menciptakan nuansa yang tidak dapat ditandingi oleh pewarna apa pun.
+NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,Saya Sena. Saya mewarnai kain dengan bunga dan tanaman. Pakaian Anda akan terlihat indah dengan warna-warna saya.
 NPC_150084,Take a look.,Take a look.
 NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Wounds heal with time… but the right treatment helps a lot.
-NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.","I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting."
+NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.","Saya Rohan. Saya merawat orang-orang yang terluka. Dulu pekerjaan ini tenang, tapi belakangan ini sangat melelahkan."
 NPC_150087,"Time is money, friend.","Time is money, friend."
-NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit."
+NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","Pengetahuan adalah senjata terkuat. Binatang-binatang itu bertarung dengan gigi, tetapi kita mengalahkan mereka dengan kecerdasan."
 NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.
-NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.","If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly."
+NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.","Jika Anda ingin berbagi pengetahuan dengan kami, sebaiknya Anda mempelajari sistem satuan kami. Undang-Undang YP sebenarnya cukup bagus, jujur saja."
 NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,The stars reveal many things. Tonight’s constellations hint at change.
 NPC_150092,"I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.","I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say."
 NPC_150093,But I do believe you’re strong enough to face whatever comes.,But I do believe you’re strong enough to face whatever comes.
@@ -1239,14 +1239,14 @@ NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs m
 NPC_150096,Wanna communicate with mother Nature? Follow me!,Wanna communicate with mother Nature? Follow me!
 NPC_150097,Trees are alive. I just help shape their lives into new forms.,Trees are alive. I just help shape their lives into new forms.
 NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.
-NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.","To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael."
+NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.","Untuk berbicara dengan pohon-pohon yang hidup, kamu harus menggunakan nama asli kamu dan melakukannya dengan sepenuh hati. Aku adalah Pael. Aku adalah Pael."
 NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Dreams send messages from within. Understanding them can reveal the truth.
 NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?
 NPC_150102,Let me show you… a world of dreams and imagination.,Let me show you… a world of dreams and imagination.
 NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,The stars hold the stories of our ancestors. Their wisdom still guides us.
 NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.","I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack."
-NPC_150105,May the ancestors watch over you.,May the ancestors watch over you.
-NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.
+NPC_150105,May the ancestors watch over you.,Semoga para leluhur melindungi kamu.
+NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,Sebuah aroma dapat menyimpan kenangan. Satu tetes parfumku mungkin dapat mengembalikan kenangan yang sudah lama terlupakan.
 NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.","I’m Selin, a maker of perfumes. I wonder which scent suits you best."
 NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,The same fragrance smells different on everyone. That’s the magic of it.
 NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,Hey! Don’t tell the adults you saw me here. Seriously—don’t.
@@ -1316,9 +1316,9 @@ NPC_150169,"I've got fresh food ready, but I need help delivering it to some peo
 NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Hey, don't tell anyone you saw me, but I could use your help with something."
 NPC_150171,This village has secrets. I might share one if you help me with a task.,This village has secrets. I might share one if you help me with a task.
 NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.","I've been watching the constellations. Something's coming, and I need help preparing."
-NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,I've got injured soldiers who need better armor. Can you help me gather materials?
-NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","I thought I could handle it alone, but I was wrong. Can you help me finish what I started?"
-NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","The stars have shown me something about you. Help me, and I'll tell you what I saw."
+NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,Saya memiliki prajurit yang terluka yang membutuhkan perlengkapan pelindung yang lebih baik. Bisakah kamu membantu saya mengumpulkan bahan-bahannya?
+NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","Saya pikir saya bisa mengatasinya sendiri, tapi saya salah. Bisakah kamu membantu saya menyelesaikan apa yang sudah saya mulai?"
+NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","Bintang-bintang telah memberitahuku sesuatu tentang dirimu. Bantu aku, dan aku akan memberitahumu apa yang aku lihat."
 NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Good armor saves lives. I need help getting materials to make more. Can you assist?
 NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?","I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?"
 NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.","I've lived too long in one place. Help me with this, and maybe I can finally move on."
@@ -1326,7 +1326,7 @@ NPC_150179,"I've been teaching the young ones, but there's something I need to l
 NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","I forge weapons, but I need rare materials. Think you can help me find them?"
 NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?","The village needs protection, and I need someone I can trust. Are you that person?"
 NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.","I'm an elder, and I've seen many things. Help me with this, and I'll share what I know."
-NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,The nightmares are getting stronger. I need someone brave enough to help me contain them.
+NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,Mimpi buruknya semakin kuat. Aku butuh seseorang yang cukup berani untuk membantuku mengendalikannya.
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Hunting's been tough lately. I could use help tracking down some prey.
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Security is getting worse every day. I need someone to help me investigate a threat.
 NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...
@@ -1337,11 +1337,11 @@ NPC_150190,Farewell!,Selamat tinggal!
 NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
 NPC_150192,"So what can you do for me, huh?",Jadi apa yang bisa kamu lakukan untukku?
 NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,Nama saya Cheirang dan saya mengelola Kantor Eillun. Ada yang bisa saya bantu hari ini?
 NPC_150195,Farewell!,Selamat tinggal!
 NPC_150196,"Welcome to Eillun! Please, enjoy your stay!","Welcome to Eillun! Please, enjoy your stay!"
 NPC_150197,"Hello, traveler. I have some missions for you!","Halo, pelancong. Saya punya beberapa misi untuk kamu!"
 NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,Saya adalah walikota Eillun. Harmoni antara bunga-bunga kami dan masyarakat kami adalah hal yang paling saya hargai. Bagaimana saya dapat membantu Anda hari ini di bawah pohon-pohon besar kami?
 NPC_150200,Farewell!,Selamat tinggal!
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,Saya telah menemukan masalah keamanan yang memerlukan perhatian segera. Apakah kamu dapat menangani hal ini?

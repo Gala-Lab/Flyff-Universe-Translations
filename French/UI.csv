@@ -2185,7 +2185,7 @@ UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next 
 UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Souhaitez-vous vous désinscrire de la prochaine Guerre des Artefacts ? Vous récupérerez tous les Penyas utilisés lors de votre inscription.
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTBATTLEHDR,Next artifact battle in:,Prochaine Guerre des Artefacts dans :
 UI_CHARINFO_HOUSING,Housing,Maison
-UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Current Template
+UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Modèle actuel
 UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Expire dans
 UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Bonus actuels
 UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,Pas encore de maison
@@ -2523,7 +2523,7 @@ UI_COUPLE_BREAKUP_FORCE,Break Up(F),Rupture(F)
 UI_COUPLE_TELEPORT,Teleport,Téléportation
 UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Téléporter à l’emplacement de votre partenaire ? Impossible si votre partenaire est dans une zone inaccessible
 UI_COUPLE_CHEER,Cheer,Encourager
-UI_COUPLE_FORM_DATE,Formation Date,Date de formation
+UI_COUPLE_FORM_DATE,Formation Date,Date d'union
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Emplacements disponibles
 UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Téléportations max par jour
 UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Encouragements max par jour

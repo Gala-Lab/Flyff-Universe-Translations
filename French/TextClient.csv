@@ -326,7 +326,7 @@ TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
 TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Augmentation des points de compétence
 TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Vous avez appris %s. Vous pouvez désormais attribuer des points de compétence à cette capacité.
 TEXTCLIENT_FLYLVLUP,Flying level up!,Votre expérience de vol a augmenté.
-TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des Flèches ou le piège ou la Fiole approprié(e) pour utiliser cette compétence.
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Qui ose me défier ?!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Tu ne sembles pas connaître la peur !!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Prépare toi à souffrir !
@@ -343,12 +343,12 @@ TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,Vous n'êtes pas sous l'e
 TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,Vous ne pouvez pas utiliser cette compétence.
 TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,Vous ne pouvez effectuer cette action. Une amélioration est nécessaire.
 TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,Vous ne pouvez pas utiliser cette compétence.
-TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des Flèches ou le piège ou la Fiole approprié(e) pour utiliser cette compétence.
 TEXTCLIENT_SKILLWAITTIME,Please wait.,Cette technique n'est pas encore disponible.
 TEXTCLIENT_SKILL_SELF,You use %s.,Vous utilisez : %s.
-TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,Vous utilisez %s (%s).
 TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s utilise : %s.
-TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s lance %s (%s) sur vous.
 TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Vous n'êtes pas autorisé à consulter cet équipement.
 TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,Vous devez redémarrer le jeu pour que toutes les modifications prennent effet.
 TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,Vous êtes déjà en train d'utiliser cet objet. Réessayez quand les effets se seront dissipés. 
@@ -710,7 +710,7 @@ TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Votre m
 TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Info] C'est un test! Le serveur fermera dans %s et les personnages seront supprimés.
 TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Attention] Le jeu est en accès anticipé ! Des instabilités serveur et bugs peuvent survenir.
 TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Un MJ (Maître du Jeu) ne vous demandera jamais votre mot de passe de compte ou de banque.
-TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Ne prêtez pas et ne laissez pas un joueur emprunter vos items. S'ils ne rendent pas l'item, il est perdu à jamais."
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Ne prêtez pas vos objets à d’autres joueurs. Si un joueur ne vous les rend pas, ils seront perdus définitivement."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Vous êtes trop éloigné de la cible.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s est sur une lancée meurtrière !
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s est déchaîné !
@@ -881,7 +881,7 @@ TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,Mission de %s %s 
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Vous avez reçu %d points de %s.
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,La saison de %s a été remise à zéro !
 TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Vous avez atteint le niveau de %s %d !
-TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,Vous avez atteint le rang bonus %s %d+%d !
 TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,La saison du Passe de combat est terminée.
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Merci d'avoir acheté le %s étendu !
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Achetez le %s étendu pour recevoir plus de récompenses !
@@ -889,8 +889,8 @@ TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to 
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Seuls les personnages n'ayant pas terminé leur deuxième avancement de classe peuvent participer à la Guerre de Guildes niv. 60.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,La Guerre de Guildes niv. 80 aura lieu cette semaine.
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,La Guerre de Guildes niv. 60 aura lieu cette semaine.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Le siège de guilde de niveau 80 d'aujourd'hui n'aura pas lieu faute de participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Le siège de guilde de niveau 60 d'aujourd'hui n'aura pas lieu faute de participants.
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,La Guerre de Guildes niv. 80 est terminée.
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,La Guerre de Guildes niv. 60 est terminée.
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s ont été envoyés dans votre inventaire ou boîte aux lettres.
@@ -1018,7 +1018,7 @@ TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP 
 TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,Match terminé ! Le vainqueur est %s !
 TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Match terminé ! Il n'y a pas de vainqueur.
 TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,En attente de l'advesaire.
-TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Phase de préparation. Le match commencera dans : 
 TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,Terminer le combat 
 TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,Match terminé ! Vous serez téléporté sur Madrigal dans 
 TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,Seul le Maître de Guilde peut sélectionner les horaires des matchs !
@@ -1028,8 +1028,8 @@ TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there 
 TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",Aucun adversaire n'a rejoint le combat ! Le match se terminera et la victoire vous sera donnée !
 TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Aucun adversaire n'a été trouvé pour votre match ! Votre match est donc considéré comme gagné !
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s a tué [%s] %s !
-TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
-TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s a tué [%s] %s et a mis fin à leur série de victimes !
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s est en série de victimes !
 TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,Vous ne pouvez plus changer les participants. Les matchs commencent bientôt !
 TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Un joueur n'a pas rejoint ou quitté le match. Le nombre total de vie restantes de la guilde a été réduit de %d !
 TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,Les matchs préliminaires du concours JcJ FWC de %d:%d UTC sont terminés ! Les prochains matchs commencent à %d:%d UTC !
@@ -1176,11 +1176,11 @@ TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,Vous n
 TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,Vous avez été disqualifié de la course.
 TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,La Course Arc-En-Ciel commence dans 10 minutes. Inscrivez-vous à Darken.
 TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,Votre banque est désormais agrandie.
-TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
-TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Direct sign in is not available. Please sign in from the website.
-TEXTCLIENT_EVENTBUFF,%s is active!,%s is active!
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,Vous ne pouvez pas entrer dans la Course Arc-en-ciel car l’équipement de l’objet volant a échoué.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,La connexion directe n’est pas disponible. Veuillez vous connecter depuis le site web.
+TEXTCLIENT_EVENTBUFF,%s is active!,%s est actif !
 TEXTCLIENT_STORAGEFULL,The bag is full.,Le sac est plein.
-TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),Pack d’armure %s (%d/%d)
 TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Vous ne pouvez utiliser qu'un seul sac à la fois.
 TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Vous ne pouvez pas effectuer cette action dans une zone JcJ.
 TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,L'amélioration a réussi.
@@ -1250,7 +1250,7 @@ TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,%dx %s reçu(s)
 TEXTCLIENT_TELEPORTMENU,Teleport menu,Menu de téléportation
 TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Le temps de recharge pour retourner dans %s a été réduit de %d minutes.
 TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,Il n’y a aucun donjon pour lequel une réduction du temps de recharge est possible.
-TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,Vous avez déjà utilisé le nombre maximum de Magic Clock.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,Vous avez déjà utilisé le nombre maximum d'horloge magique.
 TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Le temps de recharge restant du donjon instancié est inférieur à l’effet de l’objet. Êtes-vous sûr de vouloir l’utiliser ?
 TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,Vous devez atteindre le niveau %d pour accéder à cette zone.
 TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,Vous ne pouvez pas invoquer un joueur en dessous du niveau %d.

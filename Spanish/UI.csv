@@ -348,7 +348,7 @@ UI_POST_TITLE,Post,Correo
 UI_POST_TAB_SEND,Send Mail,Enviar Correo
 UI_POST_TAB_RECEIVE,Inbox,Correo Recibido
 UI_OPTION_UISCALE,Scale,Escala
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,Tamaño de Fuente
 UI_IGNORELIST_TITLE,Ignore List,Lista de Ignorados
 UI_IGNORELIST_COUNT,Ignored list: %d,Lista de ignorados: %d
 UI_CHATFILTER_TITLE,Chatting Filter,Filtro de Chat
@@ -1265,7 +1265,7 @@ UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,Reducción de Daño PvE
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Resistencia Mágica
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,Daño PvP
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,Daño PvE
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Daño Asalraalaikum
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Cantidad de vidas: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,Cancelar Buff
 UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,¿Seguro que quieres eliminar el Buff #b%s#nb? No podrás deshacer esta acción.
@@ -2227,7 +2227,7 @@ UI_WED,Wednesday,miércoles
 UI_THU,Thursday,jueves
 UI_FRI,Friday,viernes
 UI_SAT,Saturday,sábado
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Información de Kalgas Assault
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
 UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
@@ -2237,7 +2237,7 @@ UI_KALGAS_ASSAULT_RANK_WINNER,Winner : %s,Winner : %s
 UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking : %s,My Ranking : %s
 UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,No record
 UI_KALGAS_ASSAULT_RANK_KALGAS,Kalgas,Kalgas
-UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
+UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artefacto
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
 UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,Equipo
@@ -2262,7 +2262,7 @@ UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
 UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault will start in %d minutes.
-UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully."
+UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","Puedes formar un equipo con tu amigo para competir en una carrera.\n\nSin embargo, una vez que elijas un equipo, no podrás cambiarlo o cancelarlo, así que elige con cuidado."
 UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invitar Amigos
@@ -2307,22 +2307,22 @@ UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Allies DE
 UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Allies Attack Speed near house artifact
 UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Allies Casting Speed near house artifact
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
-UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
-UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
+UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,Daño Crítico en PvP
+UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,Probabilidad de Crítico en PvP
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
 UI_OPTION_UNDERWATER,Underwater Effect,Efecto submarino
-UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
+UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,¿Estás seguro de que quieres resucitar a Lodelight?
+UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,¿Estás seguro de que quieres resucitar a Lodestar?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Write friend's house guestbook
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
 UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,An error occured and purchase was not completed.
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Number of uses today: %d
+UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,Se produjo un error y la compra no se completó.
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Número de usos hoy: %d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Reach gear or accessory upgrade +%s or above
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
-UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Are you sure that you want to use the Scroll of Resurrection to resurrect?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
+UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,¿Estás seguro de que deseas utilizar el Pergamino de Resurrección para resucitar?
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalizador
 UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Administrar Notificaciones
 UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Administrar de Privacidad
 UI_OPTION_ACCOUNT_TOS,Terms of Service,Términos de Servicio
@@ -2374,9 +2374,9 @@ UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can
 UI_MENU_UNSPECIFIED,Unspecified,No especificado
 UI_OPTION_KEYREPEAT,Holding Keys,Sosteniendo teclas
 UI_DELETEACCOUNT_TITLE,Delete Account,Eliminar Cuenta
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Contraseña para eliminar la cuenta\nIntroduce la contraseña
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,¿Deseas continuar?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Cuando retires tu membresía, todos los datos se eliminarán y no podrás usar el servicio, restaurar tu cuenta ni recibir un reembolso por cualquier artículo o moneda pagada restante."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
@@ -2384,7 +2384,7 @@ UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Incluir palabra clave
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Palabra clave exacta
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
-UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
+UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No hay ninguna tienda que coincida con tu búsqueda.
 UI_PARTY_READY_CHECK,Ready,Listo
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
@@ -2439,15 +2439,15 @@ UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Nombre de Equipo
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminar
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
-UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Octavos de final
+UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Cuartos de final
+UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semifinal
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Tercer Puesto
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Ganado
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Perdido
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Saca
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,No tienes un registro para este día.
 UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Tipo : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Otros Equipos : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Tiempos Juego : %s
@@ -2481,9 +2481,9 @@ UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendario
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rango
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Recompensa
-UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
-UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
+UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Cuartos de final
+UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Octavos de final
+UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participación
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
 UI_MSGBOX_RECIEVE,Receive,Recibir
@@ -2574,11 +2574,11 @@ UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
 UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
 UI_COUPLE_RING_SLOTS,Storage slots: %d,Storage slots: %d
 UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
-UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
-UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
+UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Tu pareja está solicitando el %s movimiento. ¿Aceptas?
+UI_APP_LIFE_TIP,Opens life contents window.,Abre la ventana de contenido de vida.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
 UI_LIFE_PRODUCTION_TAB,Production,Producción
-UI_LIFE_TITLE,Life,Life
+UI_LIFE_TITLE,Life,Vida
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
 UI_LIFE_HARVESTING_INFORMATION,Harvesting Information,Harvesting Information
@@ -2724,7 +2724,7 @@ UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou c
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Would you like to enter the Rainbow Race?
 UI_CREATENPC_TITLE,Create NPC,Crear NPC
-UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
+UI_CREATENPC_AGRESSIVE,Aggressive,Agresivo
 UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Banderas
@@ -3124,9 +3124,9 @@ UI_PVPMATCHRECAP_LOSER,Loser,Loser
 UI_PVPMATCHRECAP_TOTAL,Total,Total
 UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Revolutionary's Secret Journal
 UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded.","The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded."
-UI_BTN_ADD_ALL,Add all,Add all
+UI_BTN_ADD_ALL,Add all,Agregar todo
 UI_FULL_COLLECTION_REWARD,Full collection Reward,Full collection Reward
-UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,The letters will be automatically registered in top-down order. Continue?
+UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,Las letras se registrarán automáticamente en orden de arriba hacia abajo. ¿Continuar?
 UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Item or Penya has been removed. Wait %d sec(s).
 UI_OPTION_MAIL_MODE,Allow Mails From,Permitir correos de
 UI_OPTION_MAIL_EVERYONE,Everyone,Todas
@@ -3144,8 +3144,8 @@ UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,You ran out of materials.
 UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,Upgrade Item?
 UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Do you wish to continue?,Upgrading this item will make the item soul-bound. Do you wish to continue?
 UI_OPTION_PVPMATCH_CAPTION,PVP Match/Contest Captions,PVP Match/Contest Captions
-UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website.","You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website."
-UI_PTS_POPUP_TITLE,Public Test Server Form,Public Test Server Form
+UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website.","Eres elegible para postularte como tester para el Servidor de Pruebas Público utilizando el formulario a continuación. Este es un servidor que se utilizará para probar funciones próximas, para más información, por favor visita nuestro sitio web."
+UI_PTS_POPUP_TITLE,Public Test Server Form,Formulario del Servidor de Prueba Pública
 UI_PTS_POPUP_HIDE,Do not show this again,No volver a mostrar esto
 UI_TAB_FWC_PREDICTION_RULE,Rule,Rule
 UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,Prediction
@@ -3202,7 +3202,7 @@ UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nCurrent bonuses:
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,Auto Attack Stack Chance
 UI_TOOLTIP_YOYORANGE,Yo-Yo Range,Yo-Yo Range
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
-UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,HP Consumption Decrease
+UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,Reducción de consumo de HP
 UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,Recover HP on Bleeding Kill
 UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,Left Hand Damage
 UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,Damage Reduction by HP
@@ -3216,15 +3216,15 @@ UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel is already equipped. If you try to equ
 UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Register ultimate jewel.
 UI_JEWELCONVERSION_INFO,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Tier %d Jewel
-UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?
-UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory","Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory"
+UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?,La joya se convertirá aleatoriamente en una joya del mismo nivel. ¿Quieres continuar?
+UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory","Sintetizar 3 joyas del mismo nivel, sin importar el tipo, tiene un 100% de probabilidad de obtener una joya de nivel superior al azar, las joyas usadas se destruyen y la joya resultante se mueve automáticamente a tu inventario"
 UI_JEWELSYNTHESIS_TIER,Tier %d,Tier %d
 UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthesis target tier
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
 UI_TOOLTIP_SWD,Sword,Espada
-UI_TOOLTIP_AXE,Axe,Axe
+UI_TOOLTIP_AXE,Axe,Hacha
 UI_TOOLTIP_CHE,Stick,Stick
 UI_TOOLTIP_KNU,Knuckle,Knuckle
 UI_TOOLTIP_WAN,Wand,Varitas
@@ -3244,14 +3244,14 @@ UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Half Nen Consumption Chance
 UI_TOOLTIP_DST_STEALMP,MP Steal,MP Steal
 UI_TOOLTIP_DST_STEALFP,FP Steal,FP Steal
 UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
-UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
+UI_OPTION_QUICKCAST,Quick Cast,Lanzamiento rápido
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
 UI_DUNGEONTIMERECAP_TIME,Time:,Tiempo:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Cerrar
-UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
-UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
-UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears."
+UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","Te conviertes en Nivel Oro si llegas a la sala del jefe en menos de %d minutos. En el Nivel Oro, aparece el jefe más fuerte."
+UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","Te conviertes en Nivel Plata si llegas a la sala del jefe entre %d y %d minutos. En el Nivel Plata, aparece una versión más fuerte del jefe normal."
+UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","Te conviertes en Nivel Bronce si llegas a la sala del jefe después de %d minutos. En el Nivel Bronce, aparece el jefe normal."
 UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage from Poisoned Enemies
 UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage against Poisoned Enemies
 UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance to Cleanse Toxins on Stealth
@@ -3260,7 +3260,7 @@ UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage from Burned Enemies
 UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage from Watered Enemies
 UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage from Suffocated Enemies
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
-UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
+UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Máx. Escudo de Salud
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
 UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
 UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
@@ -3272,6 +3272,6 @@ UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
 UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
 UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to equip the same ultimate jewel
 UI_NEWYEARPASS_2026,2026 New Year Pass,Año Nuevo 2026 Pass
-UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
-UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_TOOLTIP_WARDROBE_YES,In your wardrobe,En tu armario
+UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,No está en tu armario
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
