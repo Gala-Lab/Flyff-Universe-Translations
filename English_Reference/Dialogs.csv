@@ -130,7 +130,7 @@ NPC_000137,"Fine, leave if you want to! I don't need your help, fool! "
 NPC_000138,"Have you ever heard the name Neverant? Few know it now, but long ago it was the top-ranking mining guild in Darkon. I used to be a member of that guild."
 NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart by a terrible curse that emanated from the mine itself. Ironic, isn't it?"
 NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.
-NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted nomad shields penya can buy!
+NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted nomad shields Penya can buy!
 NPC_000142,"Well, what are you gonna do for me? Hmmm?"
 NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? "
 NPC_000144,"I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal."
@@ -534,7 +534,7 @@ NPC_000607,Steer clear of the other Dwarpets. They may not be as nice as I am.
 NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.
 NPC_000609,Need a moment? Grab a chocolate bar from Losha's Premium Foods Shop!
 NPC_000610,"I wonder, can you do something for me? I could really use your help."
-NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats penya can buy! So whaddya say, are ya' hungry?"
+NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?"
 NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?"
 NPC_000613,"Thank you, come again!"
 NPC_000614,Hungry? Visit my sister Losha's Food Shop! *YUM*
@@ -593,7 +593,7 @@ NPC_000666,"We must find new Heroes, Kimel. It's our only hope."
 NPC_000667,Ancients texts speak of 8 meteors that will fall from the sky the day the world comes to an end. These ancient texts say nothing of what will become of us after this event. Will we be saved? Destroyed? 
 NPC_000668,"The Great Wise Man, Radion, has decreed that we preserve the memory of the Heroes, and work towards defending ourselves against Shade once more. I am Sage Radyon, Radion's humble servant."
 NPC_000669,"Goodbye, brave one."
-NPC_000670,I love my money. Can anyone else out there bathe themselves in penya? Ha! I didn't think so!
+NPC_000670,I love my money. Can anyone else out there bathe themselves in Penya? Ha! I didn't think so!
 NPC_000671,"Psha! I have no desire to talk to the poor. Leave my property now before I call the authorities! What, are you deaf? I said LEAVE! I have esteemed guests LibraX and Condulus coming over! "
 NPC_000672,"I told you to leave. *Sigh* Very well, if it'll get you to leave me alone I'll tell you. My name is Rudvilhil Tailerz and my passion is collecting. Collecting rare artifacts is my obsession! Well, aside from money, of course. "
 NPC_000673,What? Who doesn't like money?
@@ -620,7 +620,7 @@ NPC_000693,"My name is Teshar Testarotsa and I'm the leader of this rag-tag bunc
 NPC_000694,"Farewell, champion! See you on the battlefield!"
 NPC_000695,"All I need is my hammer, Tesh! I require no training."
 NPC_000696,"This hammer was forged from the steel of a thousand Shuhammas! No one else is skilled or strong enough to wield it, except for me of course. You don't believe me? Try it! Hahaha!"
-NPC_000697,"My name is Tomba Hammer and I am a soldier of Kion. This hammer goes everywhere with me. Everywhere. I live for battle, and a little extra penya doesn't hurt either."
+NPC_000697,"My name is Tomba Hammer and I am a soldier of Kion. This hammer goes everywhere with me. Everywhere. I live for battle, and a little extra Penya doesn't hurt either."
 NPC_000698,Glory to Kion
 NPC_000699,"~*I've, been working on the dirt pile, all the live long day!*~"
 NPC_000700,"It's rough out there, here, take this!"
@@ -974,7 +974,7 @@ NPC_100028,It's true that defeating a dragon is not an easy task for an adventur
 NPC_100029,See you bye bye!
 NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane]."
 NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine."
-NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penyas, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc"
+NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc"
 NPC_100033,Would you like to take up the challenge again?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc
 NPC_100034,Sorry but you are not rich enough.
 NPC_100035,"It's alright, young successor. Only the bravest of souls can hope to stand against the strong Meteonyker. We'll keep him imprisoned here until the right person is ready to face him."

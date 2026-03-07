@@ -70,7 +70,7 @@ TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character windo
 TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!
 TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?
 TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.
-TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Flyff Pass or Hero Quest.
 TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.
 TEXTCLIENT_ADMIN_STATE,Status
 TEXTCLIENT_ADMIN_NORMAL,Normal
@@ -614,8 +614,8 @@ TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 
 TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege
-TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d Penya to apply to the siege
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d Penya to apply to the siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.
 TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.
@@ -882,7 +882,7 @@ TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!
 TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!
 TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!
-TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Flyff Pass.
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.
@@ -994,7 +994,7 @@ TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating p
 TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.
 TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!
 TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!
-TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s Penya to register to the FWC PVP Contest!
 TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! 
 TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!
 TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!
@@ -1134,23 +1134,23 @@ TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. Yo
 TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.
 TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!
-TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.
 TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.
-TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your guild bank to set the artifact spawn position.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information."
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya has been deposited into the guild bank. Congratulations!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!
@@ -1189,10 +1189,10 @@ TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d Penya to register to the artifact battle.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d Penya fee has been taken off your guild bank.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d Penya fee has been deposited back into your guild bank.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!"
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!
 TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.
@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!
@@ -1337,10 +1337,10 @@ TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing sp
 TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.
-TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s Penya to %s.
 TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.
-TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no Penya to collect.
 TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.
 TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.
 TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.
@@ -1466,7 +1466,7 @@ TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.
 TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!
 TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!
-TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.
 TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.
 TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d
@@ -1531,7 +1531,7 @@ TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.
 TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.
 TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.
 TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.
-TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or Penya for synthesis.
 TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!
 TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.
 TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.
