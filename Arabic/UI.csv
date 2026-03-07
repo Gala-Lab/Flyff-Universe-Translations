@@ -7,13 +7,13 @@ UI_HOME_NEWCHAR_TIP,Create a new character without account.,Create a new charact
 UI_HOME_LOGIN,Sign In,Sign In
 UI_HOME_REGISTER,Sign Up,Sign Up
 UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Enter ID & password, and press OK to connect to the game."
-UI_HOME_ALREADYACCOUNT,Already have an account?,Already have an account?
+UI_HOME_ALREADYACCOUNT,Already have an account?,هل لديك حساب بالفعل؟
 UI_HOME_WEBSITE,Website,Website
 UI_HOME_CREDITS,Credits,Credits
 UI_HOME_OR,Or,Or
 UI_HOME_LOGIN_DOTS,Email:,Email:
 UI_HOME_PASSWORD,Password:,Password:
-UI_HOME_RECOVER,Forgot password?,Forgot password?
+UI_HOME_RECOVER,Forgot password?,هل نسيت كلمة السر؟
 UI_SELECTSERVER_TITLE,Select Server,Select Server
 UI_SELECTSERVER_BACK,Back,Back
 UI_SELECTSERVER_NEXT,Next,Next
@@ -348,7 +348,7 @@ UI_POST_TITLE,Post,Post
 UI_POST_TAB_SEND,Send Mail,Send Mail
 UI_POST_TAB_RECEIVE,Inbox,Inbox
 UI_OPTION_UISCALE,Scale,Scale
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,حجم الخط
 UI_IGNORELIST_TITLE,Ignore List,Ignore List
 UI_IGNORELIST_COUNT,Ignored list: %d,Ignored list: %d
 UI_CHATFILTER_TITLE,Chatting Filter,Chatting Filter
