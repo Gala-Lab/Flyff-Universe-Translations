@@ -117,7 +117,7 @@ UI_TOOLTIP_DEF_A,Defense:,Défense :
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Vitesse d'attaque : %s
 UI_TOOLTIP_REQ_JOB,Req Job:,Classe :
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Niveau requis : %d
-UI_TOOLTIP_REQ,Requires %s,Requires %s
+UI_TOOLTIP_REQ,Requires %s,Nécessite %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,PM restaurés : %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,PM : %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,PF : %d
@@ -394,7 +394,7 @@ UI_QUEST_GOLD2,Penya: %d~%d,Penyas : %d~%d
 UI_QUEST_GOLD3,Penya: ????,Penyas : ????
 UI_QUEST_EXP1,Experience Gained.,Gain d'expérience
 UI_QUEST_EXP2,Experience: %.2f%%,Expérience : %.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Expérience de couple : %.2f%%
 UI_QUEST_SKILLPOINT,Skill points,Points de compétences
 UI_QUEST_INVENTORYSLOT1,Inventory Space,Espace de l'inventaire
 UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Espace dans l'inventaire : %d
@@ -479,7 +479,7 @@ UI_GUILD_POWER_RANK,Rank,Rang
 UI_GUILD_POWER_JOIN,Join,Rejoindre
 UI_GUILD_POWER_ITEM,Item,Objet
 UI_GUILD_POWER_PENYA,Penya,Penya
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
+UI_GUILD_POWER_SPECTATE,Spectate,Observer
 UI_GUILD_POWER_TIP,Apply Settings,Appliquer les paramètres
 UI_GUILD_POWER_SAVE,Save,Enregistrer
 UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Fixez le salaire pour %s .(Il sera payé à 00:00 automatiquement)
@@ -548,7 +548,7 @@ UI_GUILD_WAR_TIMELEFT,Time Left:,Temps restant
 UI_OPTION_THEME,Theme,Thème
 UI_HOME_PROLOGUE,Prologue,Prologue
 UI_SKILL_PLUS_TIP,Upgrade Skill Level,Augmenter le niveau de compétence
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
+UI_SKILL_MAX_TIP,Maximize Skill Level,Niveau de compétence maximum
 UI_SKILL_MINUS_TIP,Downgrade Skill Level,Diminuer le niveau de compétence
 UI_SKILL_RESET,Reset,R. A. Z.
 UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),Redistribuer les compétences
@@ -564,7 +564,7 @@ UI_ITEM_DURATION_TIME_LEFT,Time Left,Temps restant
 UI_QUERY_EQUIP_TITLE,View,Vision
 UI_OPTION_EQUIP_VIEW,Equipment View,Voir l'équipement
 UI_OPTION_DUEL_REQUESTS,Duel Requests,Duels
-UI_OPTION_DUEL_BETS,Duel Bets,Duel Bets
+UI_OPTION_DUEL_BETS,Duel Bets,Mises du duel
 UI_TRADE_TITLE,Trade,Échanger
 UI_TRADE_PENYA,Penya,Penya
 UI_DROP_FILTER_TITLE,Pick Up Pet,Bébé ramasseur
@@ -669,7 +669,7 @@ UI_TRADE_PUT_ITEM_QTY,Number:,Quantité :
 UI_TRADE_CONFIRM_TITLE,Confirm Trade,Confirmer l'échange
 UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Accepter l'échange ?
 UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,En attente de confirmation...
-UI_OPTION_MOBILE_DIR,Directional Pad,Directional Pad
+UI_OPTION_MOBILE_DIR,Directional Pad,Pad directionnel
 UI_PIERCING_TITLE,Piercing,Percer
 UI_PIERCING_PIERCE_ITEM,Pierce Item,Percer
 UI_PIERCING_ITEM,Item,Objet
@@ -860,7 +860,7 @@ UI_APP_TIPS_TIP,Tips,Astuces
 UI_APP_HELP_TIP,Help,Aide
 UI_APP_GUILD_TIP,Manage your Guild.,Afficher la fenêtre de guilde
 UI_APP_PARTY_TIP,Manage your Party.,Afficher la fenêtre de groupe
-UI_APP_COUPLE_TIP,Manage your Couple.,Manage your Couple.
+UI_APP_COUPLE_TIP,Manage your Couple.,Gérer votre couple.
 UI_APP_MESSENGER_TIP,Manage your Friends List,Afficher la liste d'amis
 UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,Afficher la durabilité des objets premiums
 UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,Ouvrir la boutique Flyff
@@ -1033,7 +1033,7 @@ UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Dégâts de base : %d ~ %d
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Augmentation des dégâts
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Augmentation des soins
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Augmentation de la durée
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Réduction du temps de charge
 UI_TOOLTIP_SCALE_PARAM,Scaling,Augmentation
 UI_TOOLTIP_SCALE_PARAM_PER,per,par
 UI_TOOLTIP_SCALE_PARAM_MAX,max,max
@@ -1041,9 +1041,9 @@ UI_TOOLTIP_PVP,PVP,JcJ
 UI_TOOLTIP_PVE,PVE,JcE
 UI_TOOLTIP_AROUND,Around,Autour
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Soins de base : %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Soins de base en PM : %d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Soins de base en PF : %d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Temps de base : %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (JcJ et Géants)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probabilité : %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (JcJ et Géants)
@@ -1051,7 +1051,7 @@ UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Probabilité de renve
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Temps de recharge : %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PVP),/ %.2d:%.2d (JcJ)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Temps de Recharge : %.2d:%.2d (JcJ)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(Après expiration)
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Durée d'incantation : %.2d:%.2d
 UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Temps de charge : %.2d:%.2d
 UI_NEWCHAR_FACE,Face,Visage
@@ -1123,7 +1123,7 @@ UI_REPORT_REASON4,Insults,Insultes
 UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Voulez-vous vraiment signaler %s ?\n\nAbuser de cette fonction peut entraîner la suspension de votre compte.
 UI_APP_ACHIEVEMENTS_TIP,Displays the Achievements Menu.,Affiche le Menu des Succès.
 UI_ACHIEVEMENTS_TITLE,Achievements,Succès
-UI_ACHIEVEMENTS_GENERAL_TAB,General,General
+UI_ACHIEVEMENTS_GENERAL_TAB,General,Général
 UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Monstres
 UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consommables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titres & Badges
@@ -1174,8 +1174,8 @@ UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Très rare
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultime
 UI_WORLD_CASTING,Casting,Incant.
 UI_WORLD_HARVESTING,Harvesting,Récolte
-UI_WORLD_OPENING,Opening,Opening
-UI_WORLD_CHARGING,Charging,Charging
+UI_WORLD_OPENING,Opening,Ouverture
+UI_WORLD_CHARGING,Charging,En chargement
 UI_NAVIGATOR_LOCALTIME,Local Time,Heure locale :
 UI_NAVIGATOR_SERVERTIME,Server Time,Heure du serveur :
 UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Heure de Madrigal
@@ -1197,7 +1197,7 @@ UI_GROUPSEARCH_FILTER,Filter:,Filtrer :
 UI_GROUPSEARCH_SORT,Sort:,Trier :
 UI_GROUPSEARCH_PARTYNAME,Party Name,Nom de groupe
 UI_GROUPSEARCH_GUILDNAME,Guild Name,Nom
-UI_GROUPSEARCH_LEADER,Leader,Leader
+UI_GROUPSEARCH_LEADER,Leader,Chef
 UI_GROUPSEARCH_MASTER,Master,Maître
 UI_GROUPSEARCH_LEVEL,Level,Niveau
 UI_GROUPSEARCH_MEMBERS,Members,Membres
@@ -1237,7 +1237,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,Portée de l'arc
 UI_TOOLTIP_SKILLUP,Skill Damage,Dégât du sort
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,Dégâts de compétences 1v1
 UI_TOOLTIP_HEALUP,Healing,Soin
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Range
+UI_TOOLTIP_SKILLRANGE,Skill Range,Portée de la compétence
 UI_MAP_MENU,Menu,Menu
 UI_MAP_MENU_TIP,Hide/Show the menu,Afficher/cacher le menu
 UI_TOOLTIP_RESTOREUP,HP Restoration,Regain des PV
@@ -1265,7 +1265,7 @@ UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,Réduction des dégâts jcE
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Résistance magique
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,Dégâts JcJ
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,Dégâts JcE
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Dégâts d’Asalraalaikum
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Vies restantes : %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,Annuler le buff
 UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,Voulez vous vraiment annuler le buff #b%s#nb ? Cette action est irréversible.
@@ -1279,8 +1279,8 @@ UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Probabilité de voler des FP
 UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Chance de saignement
 UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,PV des membres du groupe
 UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,Dégats sur la durée : %s secondes
-UI_TOOLTIP_MAXHIT,Max Targets: %d,Max Targets: %d
-UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Max Targets: %d / %d (PVP)
+UI_TOOLTIP_MAXHIT,Max Targets: %d,Cibles maximales : %d
+UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Cibles maximales : %d / %d (JcJ)
 UI_PRIVATE_SHOP_OK,Shop,Boutique
 UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Boutique privée
 UI_PRIVATE_SHOP_VENDOR,Vendor,Marchand
@@ -1292,7 +1292,7 @@ UI_TIMEINFO_SERVER,Current Server,Serveur actuel
 UI_TIMEINFO_TIME,Current Time,Heure actuelle
 UI_TIMEINFO_CONNECTION,Connection Time,Heure de connexion
 UI_TIMEINFO_SESSION,Session Duration,Durée de la session
-UI_CHAT_TITLE,Chat,Chat
+UI_CHAT_TITLE,Chat,Discussion
 UI_CHAT_FILTERS,Filters,Filtres
 UI_CHAT_VIEW_LANGUAGES,View Languages,Voir les langues
 UI_CHAT_YOUR_LANGUAGE,Your Language,Votre langue
@@ -1316,7 +1316,7 @@ UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Shaders avancés
 UI_OPTION_BLOOM,Bloom,Flou Lumineux
 UI_OPTION_DOF,Depth of Field,Profondeur de Champ
 UI_OPTION_SSAO,SSAO,SSAO
-UI_OPTION_VLIGHT,Volumetric Light,Volumetric Light
+UI_OPTION_VLIGHT,Volumetric Light,Lumière volumétrique
 UI_OPTION_WATERQUALITY,Water Quality,Qualité de l'Eau
 UI_OPTION_WATERQUALITY_TIP,Changes reflection quality and resolution.,Change la qualité et résolution des reflets.
 UI_OPTION_BLOOMQUALITY,Bloom Quality,Qualité du Flou Lumineux
@@ -1341,7 +1341,7 @@ UI_BOUNTYINPUT_FEE,+ %s%% Fee,+ %s%% de taxe
 UI_BOUNTYINPUT_TOTAL,%s Penya,%s Penyas
 UI_BOUNTYINPUT_LABEL_NAME,Bounty,Prime
 UI_BOUNTYINPUT_LABEL_DURATION,Duration,Durabilité
-UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
+UI_BOUNTYINPUT_LABEL_REWARD,Reward,Récompense
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Commentaire
 UI_BOUNTYLIST_TITLE,Bounty List,Liste des primes
@@ -1370,7 +1370,7 @@ UI_GACHA_PREVIEW,PREVIEW,PRÉVIS.
 UI_GACHA_SOLDOUT,Sold out,Épuisé
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Bienvenue dans le monde de		\nFlyff !
 UI_WELCOME_BTN,Let's go!,C'est parti !
-UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
+UI_TUTORIAL_MSG,Do you want the tutorial?,Voulez-vous le tutoriel ?
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Dégâts subis
 UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Renvoi des Dégâts
 UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Soins Reçus
@@ -1435,12 +1435,12 @@ UI_ARENA_REWARD_PRIZEHDR,Prize Details,Récompenses
 UI_ARENA_REWARD_RESETHDR,Next reset,Prochaine RAZ
 UI_PARTY_MINLEVEL,Min Level,Niv. min
 UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.,Niveau minimum pour qu'un membre du groupe reçoive de l'expérience.
-UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Affected by master player)#ni
+UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Influencé par le joueur maître)#ni
 UI_PARTY_EXPBONUS,Exp Bonus,Bonus d'Exp
 UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.","Expérience bonus reçue dans le groupe. Les membres actifs sont ceux qui participent au combat en cours, que ce soit en attaquant, soignant ou en subissant des dégâts."
 UI_PARTY_EXPBONUS_ACTIVE,x Active,x Actif
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Les objets bénis ne peuvent pas être laissés tomber ou échangés.
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
+UI_TOOLTIP_BLESSING,Goddess Blessing,Bénédiction de la déesse
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,Attaque en un clic
 UI_GEM_CREATE,Extract,Extraire
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,Classement de puissance de combat
@@ -1526,13 +1526,13 @@ UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want 
 UI_PET_TIER,Tier,Classe
 UI_PET_USE_SKILL,Grace,Grâce
 UI_PET_SKILL_TOOLTIP,Use your pet's grace skill. Consumes energy and depletes the progress bar. There is a draggable key in the Motion window.,Utilise la compétence de Grâce de votre familier. Consomme de l'énergie et vide la barre de progression. La fenêtre Émotions contient une touche associée que vous pouvez placer dans votre barre d'action.
-UI_PET_RESTAT_TITLE,Pet Reroll,Pet Reroll
-UI_PET_RESTAT_BUTTON,Reroll,Reroll
-UI_PET_RESTAT_DISCARD,Discard,Discard
-UI_PET_RESTAT_KEEP,Keep,Keep
-UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.
-UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Are you sure you want to discard this result?
-UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you sure you want to keep this result?
+UI_PET_RESTAT_TITLE,Pet Reroll,Relance du familier
+UI_PET_RESTAT_BUTTON,Reroll,Relance
+UI_PET_RESTAT_DISCARD,Discard,Jeter
+UI_PET_RESTAT_KEEP,Keep,Garder
+UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Êtes-vous sûr de vouloir relancer ce palier ? Le niveau obtenu pourrait être plus élevé ou plus bas que le niveau actuel.
+UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Êtes-vous sûr de vouloir jeter ce résultat ?
+UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Êtes-vous sûr de vouloir garder ce résultat ?
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,Pénétration de Blocage
 UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,Combien de Bonbons pour Familier voulez-vous utiliser ?
 UI_NAMEMISSING_TITLE,Name Missing,Nom Manquant
@@ -1987,16 +1987,16 @@ UI_REMOTE_SHOP_TITLE,Remote Shop,Boutique générale à distance
 UI_HALLOWEENPASS,Halloween Pass,Pass d'Halloween
 UI_PURCHASE_BANK_EXTRA_BAG,Add Slot,Ajouter un emplacement
 UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,Sac d'inventaire de banque
-UI_EXTRA_BAG_FMT,Add Slot %s,Add Slot %s
+UI_EXTRA_BAG_FMT,Add Slot %s,Ajouter l’emplacement %s
 UI_RAINBOWRACE_ITEMS,Rainbow Items,Objets Arc-En-Ciel
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,Volez à travers les objets tout au long de la course pour les utiliser contre les autres !
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Rang %d / %d (%d points)
 UI_RAINBOWRACE_FARWARNING,"Speed decreased, fly near the race track to avoid disqualification!","Vitesse réduite, volez près de la piste de course pour éviter la disqualification !"
-UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Current speed multiplier: %d
+UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Multiplicateur de vitesse actuel : %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Inscription à la Course Arc-En-Ciel
 UI_RAINBOWRACE_APP_CONFIRM,This will deduct %lld penya. Would you like to continue?,Cela déduira %lld penya. Voulez-vous continuer ?
 UI_RAINBOWRACE_APP_CURRENT,Current Applicants: %d,Liste des concurrents inscrits : %d
-UI_RAINBOWRACE_APP_FEE,Application Fee: %lld,Application Fee: %lld
+UI_RAINBOWRACE_APP_FEE,Application Fee: %lld,Frais d’inscription : %lld
 UI_RAINBOWRACE_APP_TIP,Apply for the Rainbow Race.,Inscription à la Course Arc-En-Ciel
 UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,Voir les classements de la course précédente.
 UI_RAINBOWRACE_APP_DISABLE_TIP,It is not currently the application period.,Les inscriptions ne sont pas encore ouvertes.
@@ -2034,7 +2034,7 @@ UI_PLAYERHOUSINGBUY_TITLE,Select house template,Sélectionner un Modèle de Mais
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house. \n\n#b#cffff0000Changing your house template will remove all decorations from your current house! Make sure it is saved in a preset if you wish to keep it for the future.#nc#nb,Sélectionnez un modèle pour votre maison. \n\n#b#cffff0000Changer le modèle de votre maison supprimera toutes les décorations de votre maison actuelle ! Assurez-vous qu'il est enregistré dans un préréglage si vous souhaitez le conserver pour l'avenir.#nc#nb
 UI_PLAYERHOUSINGBUY_CONFIRM,Select template,Sélectionnez un Pré-réglage
 UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Are you sure you want to select this template? \n\n#bNote:#nb If you already own a house, it will change the template, but all the decorative models you had placed will be removed!","Êtes-vous sûr de vouloir sélectionner ce modèle ? \n\n#bNote:#nb Si vous possédez déjà une maison, cela changera le modèle, et toutes les décorations que vous aviez placées seront rangées !"
-UI_PLAYERHOUSINGVISIT_TITLE,Visit houses,Visit houses
+UI_PLAYERHOUSINGVISIT_TITLE,Visit houses,Visiter les maisons
 UI_PLAYERHOUSINGVISIT_INFO,"In this window, you can select a friend to visit. Only friends who have allowed visits from you will be listed here.","Dans cette fenêtre, vous pouvez sélectionner un ami à visiter. Seuls les amis qui vous ont autorisé à leur rendre visite seront listés ici."
 UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow to visit your house,Autoriser la visite de votre maison.
 UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny visit to your house,Refuser la visite de votre maison.
@@ -2085,7 +2085,7 @@ UI_UPGRADE_ELEMENTTAB,Element Upgrade,Amélioration Elémentaire
 UI_UPGRADE_PIERCINGTAB,Piercing,Percer
 UI_GUILD_TAB_HOUSING_VISITS,Allow external visitors,Autoriser les visiteurs externes
 UI_HOUSINGSETUP_FILTER_CHAIR,Chair,Chaise
-UI_HOUSINGSETUP_FILTER_SOFA,Sofa,Sofa
+UI_HOUSINGSETUP_FILTER_SOFA,Sofa,Canapé
 UI_HOUSINGSETUP_FILTER_LIGHT,Light,Lumière
 UI_HOUSINGSETUP_FILTER_DESK,Desk,Bureau
 UI_HOUSINGSETUP_FILTER_TABLE,Table,Table
@@ -2103,7 +2103,7 @@ UI_HOUSINGSETUP_FILTER_FENCE,Fence,Clotûre
 UI_HOUSINGSETUP_FILTER_GRASS,Grass,Herbe
 UI_HOUSINGSETUP_FILTER_ROCK,Rock,Pierre
 UI_REPORT_DISCORD,Please send a message through our Discord Modmail with valid evidence to report a player. Do you want to open Discord now?,Veuillez envoyer un message via notre Modmail Discord avec des preuves valables pour signaler un joueur. Voulez-vous ouvrir le Discord maintenant ?
-UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unknown Guild
+UI_GUILDSHIP_UNKNOWN,Unknown Guild,Guilde inconnue
 UI_GUILDSHIP_VACANT,Vacant Ship,Navire Libre
 UI_OPTION_WINDOWS_FONT,PC Flyff Font,Police Flyff PC
 UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,Forge d'Arme Ultime
@@ -2124,8 +2124,8 @@ UI_RAINBOWRACE_RANKING,Leaderboard,Classement
 UI_EXCHANGE_ACCOUNTLINK,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc,#cffff0000Vous obtiendrez un objet lié au compte parce que certains de vos objets sacrifiés sont liés au compte.#nc
 UI_EXCHANGE_SOULLINK,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc,#cffff0000Vous obtiendrez un objet lié à votre personnage car certains de vos objets sacrifiés sont liés à votre personnage. #nc
 UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,Course Arc-en-Ciel
-UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.
-UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
+UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,La course Arc-en-ciel va commencer bientôt. Voulez-vous vous téléporter au point de départ ? Refuser vous disqualifiera de la course sans remboursement.
+UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Pass de Noël 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email,S'identifier avec l'email
 UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Se connecter avec l'email ou le nom d'utilisateur Flyff Universe
 UI_SESSION_TITLE,Saved Sessions,Sessions sauvegardées
@@ -2162,10 +2162,10 @@ UI_STATBOARD_RANK,Rank,Rang
 UI_STATBOARD_TIME,Time,Temps
 UI_STATBOARD_ITEMS,Items,Objets
 UI_STATBOARD_SPEED,Avg Speed,Vitesse moyenne
-UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
+UI_STATBOARD_HIDDEN,Hidden zero values: %d,Zéros cachés : %d
 UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Affiche le menu du Pack d’objets améliorables
 UI_UPGRADE_ITEMPACK,Upgrade,Améliorer
-UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item Pack Upgrade
+UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Amélioration du pack d’objets
 UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed.","Lorsque vous ouvrez un œuf, vous pouvez obtenir tous les objets listés ci-dessous.\nSi vous réussissez à améliorer l’œuf, vous recevrez des objets de rang supérieur, mais en cas d’échec, l’œuf peut être rétrogradé ou détruit"
 UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack in the item slot.,Glissez-déposez un pack d’objets améliorable dans l’emplacement prévu
 UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?","Une amélioration réussie augmente la récompense, mais un échec peut rétrograder ou détruire l’objet.\nVoulez-vous vraiment améliorer ?"
