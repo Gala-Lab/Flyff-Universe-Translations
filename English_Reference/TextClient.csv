@@ -12,7 +12,7 @@ TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!
 TEXTCLIENT_APP_MAP,World Map
 TEXTCLIENT_APP_OPTION,Options
-TEXTCLIENT_APP_LOGOUT,Logout
+TEXTCLIENT_APP_LOGOUT,Log Out
 TEXTCLIENT_APP_QUIT,Quit
 TEXTCLIENT_APP_SUPPORT,Support
 TEXTCLIENT_APP_PRIVACY,Privacy
@@ -42,7 +42,7 @@ TEXTCLIENT_DEVELOPER,Dev
 TEXTCLIENT_GAMEMASTER,Game Master
 TEXTCLIENT_MODERATOR,MOD
 TEXTCLIENT_VENDOR_NPC,[Vendor]
-TEXTCLIENT_APP_CHAT,Chatting
+TEXTCLIENT_APP_CHAT,Chat Window
 TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f"
@@ -58,7 +58,7 @@ TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.
 TEXTCLIENT_ERROR_NOFLY,You cannot fly here.
 TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.
 TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.
-TEXTCLIENT_APP_MOTION,Motion
+TEXTCLIENT_APP_MOTION,Emotes
 TEXTCLIENT_APP_CHARINFO,Character
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.
@@ -115,7 +115,7 @@ TEXTCLIENT_REQHP,Not enough HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.
-TEXTCLIENT_APP_PRIVATE_SHOP,Private shop
+TEXTCLIENT_APP_PRIVATE_SHOP,Private Shop
 TEXTCLIENT_APP_QUEST,Quests
 TEXTCLIENT_APP_CASH_SHOP,Flyff Shop
 TEXTCLIENT_PREMIUM_ITEMS,Premium Items
@@ -976,7 +976,7 @@ TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s"""
 TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.
-TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this emote.
 TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!
@@ -1182,7 +1182,7 @@ TEXTCLIENT_EVENTBUFF,%s is active!
 TEXTCLIENT_STORAGEFULL,The bag is full.
 TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d)
 TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.
-TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.
+TEXTCLIENT_MOTIONNOPVP,You cannot use this emote in a PvP area.
 TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.
 TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.
 TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.
@@ -1405,11 +1405,11 @@ TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!
 TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
-TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.
-TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.
-TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.
-TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.
-TEXTCLIENT_APP_LIFE,Life
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this emote.
+TEXTCLIENT_APP_LIFE,Life Skills
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.
@@ -1461,10 +1461,10 @@ TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.
 TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
 TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.
 TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.
-TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.
 TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.
-TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!
-TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!
+TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!
 TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.
