@@ -3,7 +3,7 @@ DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Asylum
 DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Cell
 DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Leren Chasm (Instance Dungeon)
 DUHERNEOS_WLD_000000,Herneos (Dungeon),Herneos (Dungeon)
-DUDADK_WLD_000000,Dekane Mine (Dungeon),Dekane Mine (Dungeon)
+DUDADK_WLD_000000,Dekane Mine (Dungeon),Tambang Dekane (Dungeon)
 WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),Mars Mine (Dungeon)
 DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),Guardiane Sanctuary (Instance Dungeon)
 DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),Rhisis Catacombs (Instance Dungeon)
@@ -46,7 +46,7 @@ WDKEBARAS_WLD_000000,Lodelight,Lodelight
 WDKEBARAS_WLD_000001,This is a safe place.,Ini adalah tempat yang aman.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",Selamat datang di kota Kebaras!\nTempat ini dulunya adalah penjara bagi para penjahat...
-WDMADRIGAL_WLD_000000,Mysterious Castle,Mysterious Castle
+WDMADRIGAL_WLD_000000,Mysterious Castle,Istana Misterius
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Tempat ini tidak ada di peta. Tidak ada yang tahu bagaimana cara masuk ke dalam...
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge of Middle Leren Mountains
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Line Flarine ↔ Saint City
@@ -76,9 +76,9 @@ WDMADRIGAL_WLD_000030,Red Sea,Red Sea
 WDMADRIGAL_WLD_000032,Deep Sea,Deep Sea
 WDMADRIGAL_WLD_000034,Swamp,Swamp
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,Tempat ini terkenal sejak lama...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
-WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
+WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Selamat datang di Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
 WDMADRIGAL_WLD_000040,This is a safe place.,Ini adalah tempat yang aman.
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
@@ -130,7 +130,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,Fountain of Dead Person
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.","Diketahui bahwa jiwa berkumpul bersama di tempat ini.\nMenurut tradisi, air di tempat ini memberikan awet muda dan umur panjang."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,Northern Leren Mountains
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,Bagian utara Leren Mountains.\nThe Mars Mine dan Fountain of Dead Person ada disini.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,Bagian utara Gunung Leren.\nMars Mine dan Fountain of Dead Person ada di sini.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,Mars Mine
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.","Tambang ini ditemukan dan dikembangkan oleh pedagang pertambangan sejak lama.\nNamun, tempat itu dibanjiri oleh Masquerpets sekarang."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,The residence of Ludviehill
@@ -232,9 +232,9 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,Darkon 2\nCave of 
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,Goa buatan.\nArea di sekitar Darken menjadi penuh dengan Masquerpet\nsetelah Clockworks War.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,Darkon 1\nKhipra
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,Kehidupan liar di sekitar area ini dihancurkan oleh pengembang\nsaat membangun Erons Factory.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,Darkon 1\nGouthan Mountains
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,Darkon 1\nGunung Gouthan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,Gunung terbesar di Darkon.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,Darkon 1\nGouthan Mountains
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,Darkon 1\nGunung Gouthan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,Gunung terbesar di Darkon.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,Darkon 1\nKhipra
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,Kehidupan liar di sekitar area ini dihancurkan oleh pengembang\nsaat membangun Erons Factory.

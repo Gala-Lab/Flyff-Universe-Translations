@@ -173,7 +173,7 @@ PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,Lance une p
 PROPSKILL_TXT_000174,Psychic Wall,Barrière psychique
 PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.","Invoque une barrière psychique entre le Sorcier et l'ennemi, qui est repoussé, ralenti et reçoit des dommages s'il tente de la traverser."
 PROPSKILL_TXT_000176,Spirit Bomb,Explosion de mana
-PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,Damages the enemy through the power of your mind.
+PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,Inflige des dégâts à l’ennemi grâce à la puissance de votre esprit.
 PROPSKILL_TXT_000178,Crucio Spell,Affliction
 PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,"Enveloppe le Sorcier d'une aura magique qui répercute sur l'ennemi 1,75x les dégâts reçus."
 PROPSKILL_TXT_000180,Maximum Crisis,Nova psychique
@@ -446,7 +446,7 @@ PROPSKILL_TXT_100097,Prankster's Escape,Chance d'Evasion du Farceur
 PROPSKILL_TXT_100098,Last Stand,Chance du Dernier Recours
 PROPSKILL_TXT_100099,Aura Burst,Chance d'Eclatement d'Aura
 PROPSKILL_TXT_100100,Supercharged,Superchargé
-PROPSKILL_TXT_100101,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.
+PROPSKILL_TXT_100101,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%,Une énergie crépitante enveloppe la cible. Augmente de 10 % la chance de loot et l’expérience de ce monstre.
 PROPSKILL_TXT_100102,Static,Statique
 PROPSKILL_TXT_100103,Sparks of power drain your strength. Run away to prevent it from spreading!,Des étincelles de puissance drainent vos forces. Fuyez pour éviter qu'elles ne se propagent !
 PROPSKILL_TXT_100104,Tethered,Lié
@@ -471,12 +471,12 @@ PROPSKILL_TXT_100122,Bleeding (From Weapon),Saignement (Arme)
 PROPSKILL_TXT_100123,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.,Récupération de FP et MP augmentée de 10 % pendant 10 minutes.
 PROPSKILL_TXT_100124,Madrigal Stroll,Balade à Madrigal
 PROPSKILL_TXT_100125,Increases movement speed by 5% for you and your partner for 10 minutes.,Vitesse de déplacement augmentée de 5 % pendant 10 minutes.
-PROPSKILL_TXT_100126,Field Outing,Sortie sur le terrain
+PROPSKILL_TXT_100126,Field Outing,Escapade en duo
 PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,Réinitialise la jauge de verrouillage d'expérience de 5 % de son maximum.
 PROPSKILL_TXT_100128,Party Together,Ensemble en groupe
-PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Expérience de groupe augmentée de 10 % pendant 30 minutes. Ne fonctionne que si les deux membres sont dans le même groupe.
+PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Bonus d'expérience de groupe de 10 % pendant 30 minutes si vous et votre partenaire êtes réunis dans le même groupe.
 PROPSKILL_TXT_100130,Golden Luck,Chance dorée
-PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Quantité de drops et de Penya augmentée de 5 % pendant 10 minutes.
+PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Bonus de 5 % sur les drops et les Penya obtenus pour vous et votre partenaire pendant 10 minutes.
 PROPSKILL_TXT_100132,Stamina Boost,Boost de stamina
 PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,Toutes les statistiques augmentés de 5 pendant 10 minutes.
 PROPSKILL_TXT_100134,Sky's Blessing,Bénédiction du ciel
@@ -844,7 +844,7 @@ PROPSKILL_TXT_150280,Staggering Strike,Frappe déstabilisante
 PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,Attaque une seule cible avec une chance de la renverser. \n\n[Amélioration Nen] : Augmente ton taux de blocage à l’utilisation.
 PROPSKILL_TXT_150282,Increased Knockdown Chance,Chance de renversement augmentée
 PROPSKILL_TXT_150283,Leg Attack,Frappe de jambe
-PROPSKILL_TXT_150285,Force Grip,Force Grip
+PROPSKILL_TXT_150285,Force Grip,Force de préhension
 PROPSKILL_TXT_150286,"Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target.","Saisis la cible, immobilisant tous les deux et empêchant de bouger, attaquer ou utiliser des compétences. \n\n[Amélioration Nen] : Permet d’utiliser des compétences tout en retenant la cible."
 PROPSKILL_TXT_150287,Diamond Body,Corps de diamant
 PROPSKILL_TXT_150288,Group Binding,Lien de groupe
@@ -899,7 +899,7 @@ PROPSKILL_TXT_150349,Master of Toxins,Maitre des toxines
 PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,Augmente tes dégâts contre les ennemis empoisonnés.
 PROPSKILL_TXT_150351,Risk Management,Gestion du risque
 PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,Devenir invisible a une chance de supprimer votre propre poison.
-PROPSKILL_TXT_150353,Dual Ego,Dual Ego
+PROPSKILL_TXT_150353,Dual Ego,Double ego
 PROPSKILL_TXT_150354,CC Attack,Attaque de contrôle
 PROPSKILL_TXT_150355,Far Shot,Tir lointain
 PROPSKILL_TXT_150356,Party Buff,Buff de groupe
@@ -1131,7 +1131,7 @@ PROPSKILL_TXT_150594,The God of Death gazes upon you.,Le Dieu de la Mort vous ob
 PROPSKILL_TXT_150595,Infusion,Infusion
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Infuse toutes les compétences élémentaires que vous utilisez avec l’élément appliqué par votre arme, remplaçant l’élément de la compétence."
 PROPSKILL_TXT_150597,Intelligent Scaling,Évolution Intelligente
-PROPSKILL_TXT_150598,Skill scales with INT instead of STA.,La compétence évolue avec l’INT au lieu de la STA.
+PROPSKILL_TXT_150598,Skill scales with INT instead of STA.,La compétence évolue avec l’INT au lieu de l'END.
 PROPSKILL_TXT_150599,Reduced Penalty,Pénalité Réduite
 PROPSKILL_TXT_150600,Attack penalty is reduced.,La pénalité d’attaque est réduite.
 PROPSKILL_TXT_150601,Reduced Duration,Durée Réduite

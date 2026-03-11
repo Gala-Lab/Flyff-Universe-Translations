@@ -1,29 +1,29 @@
 ﻿#b#cffe4b100Flyff Universe#nb#nc
 
-Based on the original game #bFlyff Online#nb by Gala Lab Corp.
+Perustuu alkuperäiseen #bFlyff Online#nb -peliin, jonka on tehnyt Gala Lab Corp.
 
-#bProgram#nb
+#bOhjelma#nb
 Loïc Saos
 Marc Bassiere
 Ibrahim Ennara
 Alexandre Piot
 Jean-Alexandre Valentin
 
-#bLevel Design#nb
+#bTasosuunnittelu#nb
 Dimitri
 Cameron Calvert
 Baptiste Bochet-Cadet
 
-#bCharacter Design#nb
+#bHahmosuunnittelu#nb
 Ankou
 Pau Pagtalunan
 IdSayBucketsOfArt
 
-#bSound#nb
+#bÄäni#nb
 Alan Saos
 Thelostrune
 
-#bModeration#nb
+#bModerointi#nb
 Amenofus
 Amizer
 Annyse
@@ -44,9 +44,9 @@ Toffee
 Xerion
 Yonu
 
-#bThird-party libraries#nb
+#bKolmannen osapuolen kirjastot#nb
 cpp-cryptlite
 OpenGL Mathematics (GLM)
 miniz-cpp
 
-Copyright 2019-2026 © Gala Lab Corp. & Sniegu Technologies SAS. All rights reserved.
+Copyright 2019-2026 © Gala Lab Corp. & Sniegu Technologies SAS. Kaikki oikeudet pidätetään.

@@ -3,934 +3,934 @@ LANGUAGE_CODE,EN,IT
 UI_HOME_TITLE,Home,Home
 UI_HOME_GUESTCHAR,Guest Character,Personaggio Ospite
 UI_HOME_NEWCHAR,New Character,Nuovo Personaggio
-UI_HOME_NEWCHAR_TIP,Create a new character without account.,Create a new character without account.
-UI_HOME_LOGIN,Sign In,Sign In
-UI_HOME_REGISTER,Sign Up,Sign Up
-UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Enter ID & password, and press OK to connect to the game."
-UI_HOME_ALREADYACCOUNT,Already have an account?,Already have an account?
+UI_HOME_NEWCHAR_TIP,Create a new character without account.,Crea un nuovo personaggio senza un account
+UI_HOME_LOGIN,Sign In,Connetti
+UI_HOME_REGISTER,Sign Up,Istriviti
+UI_HOME_LOGIN_TIP,"Enter ID & password, and press OK to connect to the game.","Inserisci il tuo ID e la password, quindi premi OK per collegarti al gioco."
+UI_HOME_ALREADYACCOUNT,Already have an account?,Hai già un account?
 UI_HOME_WEBSITE,Website,Website
-UI_HOME_CREDITS,Credits,Credits
-UI_HOME_OR,Or,Or
+UI_HOME_CREDITS,Credits,Crediti
+UI_HOME_OR,Or,O
 UI_HOME_LOGIN_DOTS,Email:,Email:
 UI_HOME_PASSWORD,Password:,Password:
 UI_HOME_RECOVER,Forgot password?,Hai dimenticato la password?
-UI_SELECTSERVER_TITLE,Select Server,Select Server
+UI_SELECTSERVER_TITLE,Select Server,Seleziona Server
 UI_SELECTSERVER_BACK,Back,Indietro
 UI_SELECTSERVER_NEXT,Next,Avanti
 UI_SELECTSERVER_FULL,full,pieno
-UI_SELECTSERVER_BUSY,busy,busy
-UI_SELECTSERVER_BEST,best,best
+UI_SELECTSERVER_BUSY,busy,impegnato
+UI_SELECTSERVER_BEST,best,migliore
 UI_SELECTSERVER_NEWNAME,Please enter another name:,Inserisci un altro nome:
-UI_SELECTSERVER_NAMETITLE,Character Name,Nome del personaggio
-UI_CHARLIST_TITLE,Characters,Characters
-UI_CHARLIST_PLAY,Play,Play
+UI_SELECTSERVER_NAMETITLE,Character Name,Nome del Personaggio
+UI_CHARLIST_TITLE,Characters,Personaggi
+UI_CHARLIST_PLAY,Play,Gioca
 UI_CHARLIST_NEW,New,Nuovo
 UI_CHARLIST_DELETE,Delete,Elimina
-UI_DELETECHAR_TITLE,Delete Character,Delete Character
-UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
+UI_DELETECHAR_TITLE,Delete Character,Elimina Personaggio
+UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password per eliminare il personaggio\nInserisci la password
 UI_DELETECHAR_NOPASS,Do you confirm?,Confermi?
-UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","If you delete a character, you cannot use its name during a week."
+UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Se elimini un personaggio, non potrai utilizzare il suo nome per una settimana."
 UI_NEWCHAR_NAME,Name:,Nome:
-UI_NEWCHAR_GIRL,Girl,Girl
-UI_NEWCHAR_BOY,Boy,Boy
-UI_MSGBOX_START,Start,Start
+UI_NEWCHAR_GIRL,Girl,Ragazza
+UI_NEWCHAR_BOY,Boy,Ragazzo
+UI_MSGBOX_START,Start,Inizia
 UI_MSGBOX_OK,Ok,Ok
-UI_MSGBOX_RETRY,Retry,Retry
+UI_MSGBOX_RETRY,Retry,Riprova
 UI_MSGBOX_CANCEL,Cancel,Annulla
 UI_MSGBOX_YES,Yes,Sì
 UI_MSGBOX_NO,No,No
-UI_LOADINGSCREEN,"Loading, please wait...","Caricamento, aspetta..."
+UI_LOADINGSCREEN,"Loading, please wait...",Caricamento...
 UI_OPTION_TITLE,Options,Opzioni
 UI_OPTION_MUSIC,Music,Musica
 UI_OPTION_SOUND,Sound,Suono
-UI_OPTION_TEXQUALITY,Textures,Textures
+UI_OPTION_TEXQUALITY,Textures,Texture
 UI_OPTION_TEXTOON,Cartoon,Cartoon
-UI_OPTION_TEXHIGH,High,High
-UI_OPTION_TEXMID,Medium,Medium
-UI_OPTION_TEXLOW,Low,Low
-UI_OPTION_WEATHER,Weather,Weather
-UI_OPTION_LANGUAGE,Language,Lingua
-UI_OPTION_SAVE,Save,Save
-UI_NAVIGATOR_PLAYER,Player,Player
+UI_OPTION_TEXHIGH,High,Alta
+UI_OPTION_TEXMID,Medium,Media
+UI_OPTION_TEXLOW,Low,Bassa
+UI_OPTION_WEATHER,Weather,Tempo
+UI_OPTION_LANGUAGE,Language,Lingue
+UI_OPTION_SAVE,Save,Salva
+UI_NAVIGATOR_PLAYER,Player,Giocatore
 UI_NAVIGATOR_PARTY,Party,Gruppo
 UI_NAVIGATOR_NPC,NPC,NPC
-UI_NAVIGATOR_MONSTER,Monster,Monster
-UI_PRIVACY_NOTICE,Privacy Policy,Privacy Policy
+UI_NAVIGATOR_MONSTER,Monster,Mostro
+UI_PRIVACY_NOTICE,Privacy Policy,Informativa sulla Privacy
 UI_MSGBOX_ACCEPT,Accept,Accetta
-UI_MSGBOX_DECLINE,Decline,Rifiuta
-UI_MSGBOX_CLOSE,Close,Close
-UI_OPTION_SHADOWS,Shadows,Shadows
-UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Maximum Distance
-UI_OPTION_SHADOWS_MAXQUALITY,Maximum Quality,Maximum Quality
-UI_OPTION_FULLSCREEN,Fullscreen,Fullscreen
-UI_MOTION_TAB_MOT,Motion,Motion
+UI_MSGBOX_DECLINE,Decline,Rifuita
+UI_MSGBOX_CLOSE,Close,Chiude
+UI_OPTION_SHADOWS,Shadows,Ombre
+UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Distanza Massima
+UI_OPTION_SHADOWS_MAXQUALITY,Maximum Quality,Qualità Massima
+UI_OPTION_FULLSCREEN,Fullscreen,Schermo intorno
+UI_MOTION_TAB_MOT,Motion,Mozione
 UI_MOTION_TAB_EMO,Emoticon,Emoticon
-UI_REVIVAL_TITLE,Resurrection,Resurrection
+UI_REVIVAL_TITLE,Resurrection,Resurrezione
 UI_REVIVAL_LODESTAR,Lodestar,Lodestar
-UI_REVIVAL_LODESTAR_TIP,Revive to Lodestar,Revive to Lodestar
+UI_REVIVAL_LODESTAR_TIP,Revive to Lodestar,Ritorna al Lodestar
 UI_REVIVAL_LODELIGHT,Lodelight,Lodelight
-UI_REVIVAL_LODELIGHT_TIP,Revive to Lodelight,Revive to Lodelight
+UI_REVIVAL_LODELIGHT_TIP,Revive to Lodelight,Ritorna al Lodelight
 UI_CHARINFO_BASE,Base,Base
 UI_CHARINFO_NAME,Name,Nome
-UI_CHARINFO_LOGIN,Login,Login
-UI_CHARINFO_JOB,Job,Job
-UI_CHARINFO_LEVEL,Level,Level
+UI_CHARINFO_LOGIN,Login,Accedi
+UI_CHARINFO_JOB,Job,Lavoro
+UI_CHARINFO_LEVEL,Level,Livello
 UI_CHARINFO_SERVER,Server,Server
-UI_CHARINFO_CHANNEL,Channel,Channel
-UI_CHARINFO_DETAIL,Detail,Detail
+UI_CHARINFO_CHANNEL,Channel,Canale
+UI_CHARINFO_DETAIL,Detail,Dettaglio
 UI_CHARINFO_STR,STR,STR
 UI_CHARINFO_STA,STA,STA
 UI_CHARINFO_DEX,DEX,DEX
 UI_CHARINFO_INT,INT,INT
-UI_CHARINFO_STATPOINTS,Stat Points,Stat Points
+UI_CHARINFO_STATPOINTS,Stat Points,Punti Stat
 UI_CHARINFO_APPLY,Apply,Applica
-UI_CHARINFO_RESET,Reset,Reset
-UI_CHARINFO_CHANGESTATE,Change State,Change State
-UI_CHARINFO_CURRENTPAGE,Current Stat Page: %d,Current Stat Page: %d
-UI_CHARINFO_CHANGEPAGE_TITLE,Changing Stat Page,Changing Stat Page
-UI_CHARINFO_APPLY_TOOLTIP,Apply new Stats.,Apply new Stats.
-UI_CHARINFO_RESET_TOOLTIP,Return to Previous Stats.,Return to Previous Stats.
-UI_CHARINFO_CHANGEPAGE_TOOLTIP,Swap stat pages.,Swap stat pages.
-UI_CHARINFO_PLUSMINUS_TOOLTIP,Select Apply after you change your Stat points.,Select Apply after you change your Stat points.
-UI_CHARINFO_STR_TOOLTIP,Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc),Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc)
-UI_CHARINFO_STA_TOOLTIP,"Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased","Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased"
-UI_CHARINFO_DEX_TOOLTIP,"Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc","Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc"
-UI_CHARINFO_INT_TOOLTIP,Amount of Max. MP is increased.\nMagic Attack Power,Amount of Max. MP is increased.\nMagic Attack Power
-UI_CHARINFO_GP_TOOLTIP,Select Apply after you change your Stat points.,Select Apply after you change your Stat points.
-UI_CHARINFO_PVP_DUELFAME,Duel Fame,Duel Fame
-UI_CHARINFO_PVP_DUELPOINT,Duel Point,Duel Point
-UI_CHARINFO_PVP_KILLPOINT,Killing Point,Killing Point
-UI_CHARINFO_PVP_KARMALEVEL,Karma Level,Karma Level
-UI_CHARINFO_PVP_KARMAPOINT,Karma Point,Karma Point
+UI_CHARINFO_RESET,Reset,Reimposta
+UI_CHARINFO_CHANGESTATE,Change State,Cambia Stato
+UI_CHARINFO_CURRENTPAGE,Current Stat Page: %d,Pagina Stat Attuali: %d
+UI_CHARINFO_CHANGEPAGE_TITLE,Changing Stat Page,Modifica Pagina Stat
+UI_CHARINFO_APPLY_TOOLTIP,Apply new Stats.,Applica nuove stat.
+UI_CHARINFO_RESET_TOOLTIP,Return to Previous Stats.,Torna alle Stat precedenti.
+UI_CHARINFO_CHANGEPAGE_TOOLTIP,Swap stat pages.,Scambia le pagine delle stat.
+UI_CHARINFO_PLUSMINUS_TOOLTIP,Select Apply after you change your Stat points.,Seleziona Applica dopo aver modificato i tuoi punti Stat.
+UI_CHARINFO_STR_TOOLTIP,Strengthens Attack Power of Weapon (#cffb40000Except for wand#nc),Aumenta la potenza d'attacco dell'arma (#cffb40000Ad eccezione della bacchetta#nc)
+UI_CHARINFO_STA_TOOLTIP,"Strengthens Defense, Max. HP, Max. FP\nHP, FP recovery rate increased","Rafforza la difesa, HP max, FP max\nAumento del tasso di recupero HP e FP"
+UI_CHARINFO_DEX_TOOLTIP,"Attack speed increased\nEvasion Rate, Blocking Rate increased\nIncreases Critical Hit Chance.\n#cffb40000Striking power of bow is increased.#nc",Velocità d'attacco aumentata\nTasso di evasione e tasso di blocco aumentati\nAumenta la probabilità di colpo critico.\n#cffb40000La potenza d'urto dell'arco è aumentata.#nc
+UI_CHARINFO_INT_TOOLTIP,Amount of Max. MP is increased.\nMagic Attack Power,La quantità di MP max è aumentata.\nPotere di attacco magico
+UI_CHARINFO_GP_TOOLTIP,Select Apply after you change your Stat points.,Seleziona Applica dopo aver modificato i tuoi punti Stat.
+UI_CHARINFO_PVP_DUELFAME,Duel Fame,Fama Duellante
+UI_CHARINFO_PVP_DUELPOINT,Duel Point,Punti Duellante
+UI_CHARINFO_PVP_KILLPOINT,Killing Point,Punti Uccisione
+UI_CHARINFO_PVP_KARMALEVEL,Karma Level,Livello Karma
+UI_CHARINFO_PVP_KARMAPOINT,Karma Point,Punti Karma
 UI_CHARINFO_PVPPK,PVP/PK,PVP/PK
-UI_TOOLTIP_SEX_MALE,Sex: Male,Sex: Male
-UI_TOOLTIP_SEX_FEMALE,Sex: Female,Sex: Female
-UI_TOOLTIP_HARVEST_TIMEREDUC,Time Reduction Level,Time Reduction Level
-UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,Yield Bonus Level
-UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Carrier Chance Bonus Level
-UI_TOOLTIP_ONEHAND,One-handed weapon.,One-handed weapon.
-UI_TOOLTIP_TWOHAND,Two-handed weapon.,Two-handed weapon.
-UI_TOOLTIP_ATTACK_BASE,Base Attack:,Base Attack:
-UI_TOOLTIP_DEF_BASE,Base Defense:,Base Defense:
-UI_TOOLTIP_ATTACK,Attack:,Attack:
-UI_TOOLTIP_DEF_A,Defense:,Defense:
-UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Attack speed: %s
-UI_TOOLTIP_REQ_JOB,Req Job:,Req Job:
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Required Level: %d
-UI_TOOLTIP_REQ,Requires %s,Requires %s
-UI_TOOLTIP_RESTORE_MP,Restore MP: %d,Restore MP: %d
+UI_TOOLTIP_SEX_MALE,Sex: Male,Sesso: Maschio
+UI_TOOLTIP_SEX_FEMALE,Sex: Female,Sesso: Femminile
+UI_TOOLTIP_HARVEST_TIMEREDUC,Time Reduction Level,Livello di Riduzione del Tempo
+UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,Livello di Bonus Rendimento
+UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Livello di Bonus Probabilità Carrier
+UI_TOOLTIP_ONEHAND,One-handed weapon.,Arma a una mano.
+UI_TOOLTIP_TWOHAND,Two-handed weapon.,Arma a due mani.
+UI_TOOLTIP_ATTACK_BASE,Base Attack:,Attacco Base:
+UI_TOOLTIP_DEF_BASE,Base Defense:,Difesa Base:
+UI_TOOLTIP_ATTACK,Attack:,Attacco:
+UI_TOOLTIP_DEF_A,Defense:,Difesa:
+UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Velocità d'attacco: %s
+UI_TOOLTIP_REQ_JOB,Req Job:,Lavoro Richiesto:
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Livello Richiesto: %d
+UI_TOOLTIP_REQ,Requires %s,Richiesta %s
+UI_TOOLTIP_RESTORE_MP,Restore MP: %d,Ripristina MP: %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,FP: %d
-UI_TOOLTIP_RESTORE_HP,Restore HP: %d,Restore HP: %d
-UI_TOOLTIP_RESTORE_FP,Restore FP: %d,Restore FP: %d
-UI_TOOLTIP_MAX_RESTORE,Effective up to %d,Effective up to %d
-UI_TOOLTIP_INV_SUIT,Suit,Suit
-UI_TOOLTIP_INV_GAUNTLET,Gauntlet,Gauntlet
-UI_TOOLTIP_INV_BOOTS,Boots,Boots
-UI_TOOLTIP_INV_HELMET,Helmet,Helmet
-UI_TOOLTIP_INV_CLO,Cloak,Cloak
+UI_TOOLTIP_RESTORE_HP,Restore HP: %d,Ripristina HP: %d
+UI_TOOLTIP_RESTORE_FP,Restore FP: %d,Ripristina FP: %d
+UI_TOOLTIP_MAX_RESTORE,Effective up to %d,Efficace fino al %d
+UI_TOOLTIP_INV_SUIT,Suit,Corazza
+UI_TOOLTIP_INV_GAUNTLET,Gauntlet,Guanti
+UI_TOOLTIP_INV_BOOTS,Boots,Stivali
+UI_TOOLTIP_INV_HELMET,Helmet,Elmo
+UI_TOOLTIP_INV_CLO,Cloak,Mantello
 UI_TOOLTIP_INV_WEAPON,Weapon,Armi
-UI_TOOLTIP_INV_GUARD,Shield,Shield
-UI_TOOLTIP_INV_MASK,Mask,Mask
-UI_TOOLTIP_INV_RID,Flying Item,Flying Item
-UI_TOOLTIP_INV_NECKLACE,Necklace,Necklace
-UI_TOOLTIP_INV_RING,Ring,Ring
-UI_TOOLTIP_INV_EARRING,Earring,Earring
-UI_TOOLTIP_INV_BULLET,"Sub Weapon (Arrows, Posters)","Sub Weapon (Arrows, Posters)"
-UI_TOOLTIP_INV_CLOTHES_1,Fashion hat,Fashion hat
-UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,Fashion costume
-UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,Fashion gloves
-UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,Fashion shoes
+UI_TOOLTIP_INV_GUARD,Shield,Scudo
+UI_TOOLTIP_INV_MASK,Mask,Maschera
+UI_TOOLTIP_INV_RID,Flying Item,Oggetto Volante
+UI_TOOLTIP_INV_NECKLACE,Necklace,Collana
+UI_TOOLTIP_INV_RING,Ring,Anello
+UI_TOOLTIP_INV_EARRING,Earring,Orecchino
+UI_TOOLTIP_INV_BULLET,"Sub Weapon (Arrows, Posters)","Armi Secondarie (Frecce, Poster)"
+UI_TOOLTIP_INV_CLOTHES_1,Fashion hat,Cappello alla Moda
+UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,Costume alla Moda
+UI_TOOLTIP_INV_CLOTHES_3,Fashion gloves,Guanti alla Moda
+UI_TOOLTIP_INV_CLOTHES_4,Fashion shoes,Scarpe alla Moda
 UI_TOOLTIP_MON_LVL,Lv.,Lv.
-UI_TOOLTIP_MON_DROP,Booty:,Booty:
-UI_TOOLTIP_MON_NO_DROP,None,Nessuno
-UI_MAP_MONINFO,Show monsters informations.,Show monsters informations.
-UI_TOOLTIP_DELETE_ITEM,The item dragged here is removed.,The item dragged here is removed.
-UI_INVENTORY_DELETE,Drop confirmation,Drop confirmation
-UI_INVENTORY_DELETE_CONFIRM,Really delete this item?,Really delete this item?
-UI_INVENTORY_DELETE_CNT,Qty,Qty
-UI_DIALOG,Dialog,Dialog
-UI_DIALOG_TITLE,Conversation,Conversation
-UI_DIALOG_ABOUT,Ask about %s,Ask about %s
-UI_OPTION_TAB_GAME,Game,Game
-UI_OPTION_TAB_CONTROLS,Controls,Controls
-UI_OPTION_TAB_VIDEO,Graphics,Graphics
+UI_TOOLTIP_MON_DROP,Booty:,Bottino:
+UI_TOOLTIP_MON_NO_DROP,None,Niente
+UI_MAP_MONINFO,Show monsters informations.,Mostra informazioni sui mostri.
+UI_TOOLTIP_DELETE_ITEM,The item dragged here is removed.,L'oggetto trascinato qui viene rimosso.
+UI_INVENTORY_DELETE,Drop confirmation,Conferma della rinuncia
+UI_INVENTORY_DELETE_CONFIRM,Really delete this item?,Eliminare definitivamente questo oggetto?
+UI_INVENTORY_DELETE_CNT,Qty,Quantità
+UI_DIALOG,Dialog,Dialogo
+UI_DIALOG_TITLE,Conversation,Conversazione
+UI_DIALOG_ABOUT,Ask about %s,Chiedi informazioni su %s
+UI_OPTION_TAB_GAME,Game,Gioco
+UI_OPTION_TAB_CONTROLS,Controls,Controlli
+UI_OPTION_TAB_VIDEO,Graphics,Grafica
 UI_OPTION_TAB_GRAPHICS,Video,Video
 UI_OPTION_TAB_AUDIO,Audio,Audio
-UI_OPTION_PM,Whispers and Messages,Whispers and Messages
-UI_OPTION_PARTY,Party and guild invites,Party and guild invites
-UI_OPTION_FRIEND,Friend Invites,Friend Invites
-UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Guild Siege Captions
-UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Disable Tutorial Pang
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
-UI_INSTANTMSG_TITLE,Message,Message
-UI_MESSAGE_SEND,Send,Send
-UI_SHOP_TITLE,Shop,Shop
-UI_SHOP_ITEMSLIST,Item List,Item List
-UI_TOOLTIP_PRICE,Price: %s,Price: %s
-UI_TOOLTIP_SELLPRICE,Selling Price: %s,Selling Price: %s
+UI_OPTION_PM,Whispers and Messages,Sussurri e Messaggi
+UI_OPTION_PARTY,Party and guild invites,Inviti a gruppi e gilde
+UI_OPTION_FRIEND,Friend Invites,Inviti degli amici
+UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Didascalie dell'assedio della gilda
+UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Disattiva Tutorial Pang
+UI_OPTION_COUPLE,Couple Proposals,Proposte di Coppia
+UI_INSTANTMSG_TITLE,Message,Messaggio
+UI_MESSAGE_SEND,Send,Invia
+UI_SHOP_TITLE,Shop,Negozio
+UI_SHOP_ITEMSLIST,Item List,Elenco oggetti
+UI_TOOLTIP_PRICE,Price: %s,Prezzo: %s
+UI_TOOLTIP_SELLPRICE,Selling Price: %s,Prezzo di Vendita: %s
 UI_SHOP_FILTER,Search,Ricerca
-UI_SHOP_LEVEL,By Level,Per livello
-UI_SHOP_GENDER,By Gender,Per genere
-UI_SHOP_ITEMPRICE,Item Price,Item Price
-UI_SELLITEM_TITLE,Selling Confirm,Selling Confirm
-UI_SELLITEM_CONFIRM,Really sell this item?,Really sell this item?
-UI_SELLITEM_QTY,Quantity,Quantity
-UI_SELLITEM_PRICE,Selling Price:,Selling Price:
+UI_SHOP_LEVEL,By Level,Per Livello
+UI_SHOP_GENDER,By Gender,Per Sesso
+UI_SHOP_ITEMPRICE,Item Price,Prezzo dell'oggetto
+UI_SELLITEM_TITLE,Selling Confirm,Conferma Vendita
+UI_SELLITEM_CONFIRM,Really sell this item?,Vuoi davvero vendere questo oggetto?
+UI_SELLITEM_QTY,Quantity,Quantità
+UI_SELLITEM_PRICE,Selling Price:,Prezzo di Vendita:
 UI_MSGBOX_VALID,Ok,Ok
-UI_BUYITEM_TITLE,Confirm Item Purchase,Confirm Item Purchase
-UI_BUYITEM_CONFIRM,Do you want to buy?,Do you want to buy?
-UI_BUYITEM_PRICE,Cost,Cost
-UI_OPTION_GRASS,Grass,Grass
+UI_BUYITEM_TITLE,Confirm Item Purchase,Conferma acquisto oggetto
+UI_BUYITEM_CONFIRM,Do you want to buy?,Desideri acquistare?
+UI_BUYITEM_PRICE,Cost,Costo
+UI_OPTION_GRASS,Grass,Erba
 UI_TOOLTIP_MAX_HP,Max. HP,Max. HP
 UI_TOOLTIP_MAX_MP,Max. MP,Max. MP
 UI_TOOLTIP_MAX_FP,Max. FP,Max. FP
-UI_TOOLTIP_SPEED,Speed,Speed
-UI_TOOLTIP_ATKSPEED,Attack Speed,Attack Speed
-UI_TOOLTIP_BLOCKMELEE,Melee Block,Melee Block
-UI_TOOLTIP_HITRATE,Hit Rate,Hit Rate
-UI_TOOLTIP_ABILITYMIN,Min. Ability,Min. Ability
-UI_TOOLTIP_ABILITYMAX,Max. Ability,Max. Ability
-UI_TOOLTIP_DEFENSE,Defense,Defense
-UI_TOOLTIP_DEFMAGIC,Magic Defense,Magic Defense
-UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,Electricity Resistance
-UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,All Elements Resistance
-UI_TOOLTIP_DEFFIRE,Fire Resistance,Fire Resistance
-UI_TOOLTIP_DEFWIND,Wind Resistance,Wind Resistance
-UI_TOOLTIP_DEFWATER,Water Resistance,Water Resistance
-UI_TOOLTIP_DEFEARTH,Earth Resistance,Earth Resistance
-UI_CHARINFO_ELEMENTDEF,Resistance,Resistance
-UI_CHARINFO_ELEMENTMASTRY,Mastery,Mastery
+UI_TOOLTIP_SPEED,Speed,Velocità
+UI_TOOLTIP_ATKSPEED,Attack Speed,Velocità d'Attacco
+UI_TOOLTIP_BLOCKMELEE,Melee Block,Blocco in Mischia
+UI_TOOLTIP_HITRATE,Hit Rate,Probabilità di Colpo
+UI_TOOLTIP_ABILITYMIN,Min. Ability,Min. Abilità
+UI_TOOLTIP_ABILITYMAX,Max. Ability,Max. Abilità
+UI_TOOLTIP_DEFENSE,Defense,Difesa
+UI_TOOLTIP_DEFMAGIC,Magic Defense,Difesa Magica
+UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,Resistenza all'Elettrica
+UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,Resistenza di Tutti gli Elementi
+UI_TOOLTIP_DEFFIRE,Fire Resistance,Resistenza al Fuoco
+UI_TOOLTIP_DEFWIND,Wind Resistance,Resistenza al Vento
+UI_TOOLTIP_DEFWATER,Water Resistance,Resistenza all'Acqua
+UI_TOOLTIP_DEFEARTH,Earth Resistance,Resistenza alla Terra
+UI_CHARINFO_ELEMENTDEF,Resistance,Resistenza
+UI_CHARINFO_ELEMENTMASTRY,Mastery,Maestria
 UI_TOOLTIP_HP,HP,HP
 UI_TOOLTIP_MP,MP,MP
 UI_TOOLTIP_FP,FP,FP
-UI_TOOLTIP_HPRECOVERY,HP Recovery,HP Recovery
-UI_TOOLTIP_MPRECOVERY,MP Recovery,MP Recovery
-UI_TOOLTIP_FPRECOVERY,FP Recovery,FP Recovery
-UI_TOOLTIP_ALL_RECOVERY,"HP, MP & FP Recovery","HP, MP & FP Recovery"
-UI_TOOLTIP_ALL_RECOVERY_RATE,"HP, MP & FP Recovery Rate","HP, MP & FP Recovery Rate"
-UI_TOOLTIP_KILL_HP,HP Recovery on kill,HP Recovery on kill
-UI_TOOLTIP_KILL_MP,MP Recovery on kill,MP Recovery on kill
-UI_TOOLTIP_KILL_FP,FP Recovery on kill,FP Recovery on kill
-UI_TOOLTIP_KILL_ALL,"HP, MP & FP Recovery on kill","HP, MP & FP Recovery on kill"
-UI_TOOLTIP_KILL_HP_RATE,HP Recovery Rate on kill,HP Recovery Rate on kill
-UI_TOOLTIP_KILL_MP_RATE,MP Recovery Rate on kill,MP Recovery Rate on kill
-UI_TOOLTIP_KILL_FP_RATE,FP Recovery Rate on kill,FP Recovery Rate on kill
-UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on kill","HP, MP & FP Recovery Rate on kill"
-UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Decreased Rate of MP & FP Consumption
-UI_TOOLTIP_CHRDMG,Additional Damage,Additional Damage
-UI_TOOLTIP_PARRY,Parry,Parry
-UI_TOOLTIP_ATKPOWER,Increased Attack,Increased Attack
-UI_TOOLTIP_JUMPING,Jump Height,Jump Height
-UI_TOOLTIP_BLOCKRANGE,Ranged Block,Ranged Block
-UI_TOOLTIP_ALLSTAT,All Stats,All Stats
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Increased HP
-UI_TOOLTIP_CONDITIONRATE,Magical Power,Magical Power
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Increased Defense
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Increased MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,Increased FP
-UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Critical Chance
-UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Attribute Attack
-UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Mastery: Earth
-UI_TOOLTIP_DST_MASTRY_FIRE,Mastery: Fire,Mastery: Fire
-UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,Mastery: Water
-UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,Mastery: Electricity
-UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,Mastery: Wind
-UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,All Elements Mastery
-UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Reflect Damage
-UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,MP Consumption Decrease
-UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP Consumption Decrease
-UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Casting Speed
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
-UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Critical Damage
-UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Attack Power (Yo-Yo)
-UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Attack Power (Bow)
-UI_TOOLTIP_DST_KNUCKLE_DMG,Attack Power (Knuckle),Attack Power (Knuckle)
-UI_TOOLTIP_DST_SWD_DMG,Attack Power (Sword),Attack Power (Sword)
-UI_TOOLTIP_DST_AXE_DMG,Attack Power (Axe),Attack Power (Axe)
-UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Attack Speed Rate
-UI_TOOLTIP_DST_DMG_GET,Lifesteal,Lifesteal
-UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,Attack power and HP
-UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Defense power and accuracy decrease
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
+UI_TOOLTIP_HPRECOVERY,HP Recovery,Recupero HP
+UI_TOOLTIP_MPRECOVERY,MP Recovery,Recupero MP
+UI_TOOLTIP_FPRECOVERY,FP Recovery,Recupero FP
+UI_TOOLTIP_ALL_RECOVERY,"HP, MP & FP Recovery","Recupero HP, MP e FP"
+UI_TOOLTIP_ALL_RECOVERY_RATE,"HP, MP & FP Recovery Rate","Tasso di Recupero HP, MP e FP"
+UI_TOOLTIP_KILL_HP,HP Recovery on kill,Recupero HP all'uccisione
+UI_TOOLTIP_KILL_MP,MP Recovery on kill,Recupero MP all'uccisione
+UI_TOOLTIP_KILL_FP,FP Recovery on kill,Recupero FP all'uccisione
+UI_TOOLTIP_KILL_ALL,"HP, MP & FP Recovery on kill","Recupero HP, MP e FP all'uccisione"
+UI_TOOLTIP_KILL_HP_RATE,HP Recovery Rate on kill,Tasso di Recupero HP all'uccisione
+UI_TOOLTIP_KILL_MP_RATE,MP Recovery Rate on kill,Tasso di Recupero MP all'uccisione
+UI_TOOLTIP_KILL_FP_RATE,FP Recovery Rate on kill,Tasso di Recupero FP all'uccisione
+UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on kill","Tasso di Recupero HP, MP e FP all'uccisione"
+UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Diminuzione del Tasso di Consumo di MP e FP
+UI_TOOLTIP_CHRDMG,Additional Damage,Danni aggiuntivi
+UI_TOOLTIP_PARRY,Parry,Parata
+UI_TOOLTIP_ATKPOWER,Increased Attack,Aumento dell'Attacco
+UI_TOOLTIP_JUMPING,Jump Height,Altezza del Salto
+UI_TOOLTIP_BLOCKRANGE,Ranged Block,Blocco a Distanza
+UI_TOOLTIP_ALLSTAT,All Stats,Tutte le Statistiche
+UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Aumento HP
+UI_TOOLTIP_CONDITIONRATE,Magical Power,Potere Magico
+UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Aumento della Difesa
+UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Aumento MP
+UI_TOOLTIP_DST_FP_RATE,Increased FP,Aumento FP
+UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Probabilità Critica
+UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Attacco Attributo
+UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Maestria: Terra
+UI_TOOLTIP_DST_MASTRY_FIRE,Mastery: Fire,Maestria: Fuoco
+UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,Maestria: Acqua
+UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,Maestria: Elettricità
+UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,Maestria: Vento
+UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,Padronanza di Tutti gli Elementi
+UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Riflessione del Danno
+UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,Riduzione del Consumo di MP
+UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,Riduzione del Consumo di FP
+UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Velocità di Lancio
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Velocità d'Azione
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Velocità del Proiettile
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Effetto di Disabilitazione
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Effetto di Indebolimento
+UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Danno Critico
+UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Potere d'Attacco(Yo-Yo)
+UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Potere d'Attacco(Arco)
+UI_TOOLTIP_DST_KNUCKLE_DMG,Attack Power (Knuckle),Potere d'Attacco(Pugno)
+UI_TOOLTIP_DST_SWD_DMG,Attack Power (Sword),Potere d'Attacco(Spada)
+UI_TOOLTIP_DST_AXE_DMG,Attack Power (Axe),Potere d'Attacco(Ascia)
+UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Velocità Attacco
+UI_TOOLTIP_DST_DMG_GET,Lifesteal,Furto di Vita
+UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,Potere d'Attacco e HP
+UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Potenza e Precisione della Difesa Diminuiscono
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Corsa della Morte Probabilità
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Il Raccolto di Ankou
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,L'Ira di Muran
 UI_TOOLTIP_LOCOMOTION,Movement,Movimento
-UI_TOOLTIP_RETURN_USE,Return to your former position.,Return to your former position.
-UI_DISPLAY_BUFFS,Show/hide buffs,Show/hide buffs
-UI_SELECTJOB_TITLE,Select new job,Select new job
-UI_NOTICE_DISCORD,Join our Discord server,Join our Discord server
-UI_TOOLTIP_COMBO,Use skills in the Action Slot,Use skills in the Action Slot
+UI_TOOLTIP_RETURN_USE,Return to your former position.,Torna alla tua posizione precedente.
+UI_DISPLAY_BUFFS,Show/hide buffs,Mostra/nascondi potenziamenti
+UI_SELECTJOB_TITLE,Select new job,Seleziona nuovo lavoro
+UI_NOTICE_DISCORD,Join our Discord server,Entra nel nostro server Discord
+UI_TOOLTIP_COMBO,Use skills in the Action Slot,Usa le abilità nello Slot Azione
 UI_OPTION_ANTIALIAS,Antialiasing,Antialiasing
-UI_OPTION_LIGHTS,Lights,Lights
+UI_OPTION_LIGHTS,Lights,Luce
 UI_TOOLTIP_HOTKEY,[Hotkey %s],[Hotkey %s]
 UI_STATUS_HP,HP,HP
 UI_STATUS_FP,FP,FP
 UI_STATUS_MP,MP,MP
 UI_STATUS_EXP,Exp,Exp
-UI_HELPTIPS_TITLE,Todays Tips,Todays Tips
-UI_HELPTIPS_DOYOUKNOW,Do you know?,Do you know?
+UI_HELPTIPS_TITLE,Todays Tips,Consigli del Giorno
+UI_HELPTIPS_DOYOUKNOW,Do you know?,Lo Sai?
 UI_HELPFAQ_QUESTION,Q.,Q.
-UI_HIDE,Hide,Hide
-UI_PARTY_INFO,Members,Members
+UI_HIDE,Hide,Nascondi
+UI_PARTY_INFO,Members,Membri
 UI_PARTY_SKILL,Skills,Abilità
-UI_PARTY_SETTINGS,Settings,Settings
+UI_PARTY_SETTINGS,Settings,Opzioni
 UI_PARTY_NAME,Name:,Nome:
-UI_PARTY_LEVEL,Level:,Level:
-UI_PARTY_POINT,Points:,Points:
-UI_PARTY_EXPSHARE,Exp Share,Exp Share
-UI_PARTY_EXPMODE_LEVEL,Level,Level
-UI_PARTY_EXPMODE_LEVEL_TIP,Exp is distributed to the Party members according to their levels.,Exp is distributed to the Party members according to their levels.
-UI_PARTY_EXPMODE_CONTRIB,Contribution,Contribution
-UI_PARTY_EXPMODE_CONTRIB_TIP,"Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking.","Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking."
-UI_PARTY_LOOT,Distribute Item,Distribute Item
-UI_PARTY_LOOTMODE_IND,Individually,Individually
-UI_PARTY_LOOTMODE_IND_TIP,This is a Free-For-All Loot type. Players are able to keep whatever they can pick up.,This is a Free-For-All Loot type. Players are able to keep whatever they can pick up.
-UI_PARTY_LOOTMODE_SEQ,Sequentially,Sequentially
-UI_PARTY_LOOTMODE_SEQ_TIP,Items are distributed to the characters in order.,Items are distributed to the characters in order.
-UI_PARTY_LOOTMODE_MAN,Manually,Manually
-UI_PARTY_LOOTMODE_MAN_TIP,All items are given to the Party Leader. The Party Leader will them be able to distribute the items as they see fit.,All items are given to the Party Leader. The Party Leader will them be able to distribute the items as they see fit.
-UI_PARTY_LOOTMODE_RAND,Randomly,Randomly
-UI_PARTY_LOOTMODE_RAND_TIP,Items are distributed randomly.,Items are distributed randomly.
-UI_PARTY_LOOTMODE_KILL,Killer,Killer
-UI_PARTY_LOOTMODE_KILL_TIP,Items are distributed to the player who damaged the most the monster.,Items are distributed to the player who damaged the most the monster.
-UI_PARTY_SEARCHMODE,Search Mode,Search Mode
-UI_PARTY_TRANSFER,Transfer,Transfer
-UI_PARTY_LEAVE,Leave,Leave
-UI_PARTY_KICK,Kick,Kick
-UI_PARTY_CHANGE,Change,Change
-UI_PARTY_CONFIRM,Confirm Party,Confirm Party
-UI_PARTY_INVITEQUESTION,%s invites you to join the party. Do you accept?,%s invites you to join the party. Do you accept?
-UI_PARTY_LEAVE_TIP,"This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button.","This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button."
-UI_PARTY_TRANSFER_TIP,Transfer the party to another player. Select a new leader and the press the transfer button.,Transfer the party to another player. Select a new leader and the press the transfer button.
-UI_PARTY_CONFIRM_TIP,Change the Party to Advanced Party.,Change the Party to Advanced Party.
-UI_PARTY_LEAVE_CONFIRM,Confirm leaving party.,Confirm leaving party.
-UI_PARTY_LEAVE_QUESTION,Are you going to leave the party?,Are you going to leave the party?
-UI_PARTY_LEAVE_OTHER,Are you sure you want to remove this player from the party?,Are you sure you want to remove this player from the party?
-UI_PARTY_QUICK_TIP,Please click the button to display basic party information.,Please click the button to display basic party information.
-UI_PARTY_DETAIL_TIP,Please click the button for detailed party information.,Please click the button for detailed party information.
-UI_PARTY_CHANGETROUP,Do you want change to Advanced party?,Do you want change to Advanced party?
-UI_PARTY_CHANGEPARTY,Change Party,Change Party
-UI_PARTYNAME_ENTER,Enter Party Name,Enter Party Name
-UI_PARTYNAME_TITLE,Change Party Name,Change Party Name
-UI_FRIEND_CONFIRM,Add Friend Confirmation,Add Friend Confirmation
-UI_FRIEND_INVITEQUESTION,%s wants to be your friend. Do you accept?,%s wants to be your friend. Do you accept?
+UI_PARTY_LEVEL,Level:,Livello:
+UI_PARTY_POINT,Points:,Punti:
+UI_PARTY_EXPSHARE,Exp Share,Condivisione EXP
+UI_PARTY_EXPMODE_LEVEL,Level,Livello
+UI_PARTY_EXPMODE_LEVEL_TIP,Exp is distributed to the Party members according to their levels.,L'Exp viene distribuita ai membri del Gruppo in base al loro livello.
+UI_PARTY_EXPMODE_CONTRIB,Contribution,Contributo
+UI_PARTY_EXPMODE_CONTRIB_TIP,"Exp is distributed to the Party members according to their contribution to the combat. Contribution includes attacking, healing and tanking.","L'Exp viene distribuita ai membri del Gruppo in base al loro contributo al combattimento. Il contributo include attacchi, cure e tanking."
+UI_PARTY_LOOT,Distribute Item,Distribuisci Oggetti
+UI_PARTY_LOOTMODE_IND,Individually,Singolarmente
+UI_PARTY_LOOTMODE_IND_TIP,This is a Free-For-All Loot type. Players are able to keep whatever they can pick up.,Questo è un tipo di bottino “Free-For-All”. I giocatori possono tenere tutto ciò che riescono a raccogliere.
+UI_PARTY_LOOTMODE_SEQ,Sequentially,In Sequenza
+UI_PARTY_LOOTMODE_SEQ_TIP,Items are distributed to the characters in order.,Gli oggetti vengono distribuiti ai personaggi in ordine.
+UI_PARTY_LOOTMODE_MAN,Manually,Manualmente
+UI_PARTY_LOOTMODE_MAN_TIP,All items are given to the Party Leader. The Party Leader will them be able to distribute the items as they see fit.,Tutti gli oggetti vengono consegnati al capo del gruppo. Il capo del gruppo potrà quindi distribuire gli oggetti come ritiene opportuno.
+UI_PARTY_LOOTMODE_RAND,Randomly,A caso
+UI_PARTY_LOOTMODE_RAND_TIP,Items are distributed randomly.,Gli Oggetti vengono distribuiti a caso.
+UI_PARTY_LOOTMODE_KILL,Killer,Assassino
+UI_PARTY_LOOTMODE_KILL_TIP,Items are distributed to the player who damaged the most the monster.,Gli oggetti vengono distribuiti al giocatore che ha inflitto più danni al mostro.
+UI_PARTY_SEARCHMODE,Search Mode,Modalità Ricerca
+UI_PARTY_TRANSFER,Transfer,Trasferimento
+UI_PARTY_LEAVE,Leave,Congedo
+UI_PARTY_KICK,Kick,Espella
+UI_PARTY_CHANGE,Change,Cambia
+UI_PARTY_CONFIRM,Confirm Party,Conferma Gruppo
+UI_PARTY_INVITEQUESTION,%s invites you to join the party. Do you accept?,%s ti invita al gruppo. Accetti?
+UI_PARTY_LEAVE_TIP,"This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button.","Questa opzione consentirà ai membri di lasciare il gruppo o darà al capo del gruppo la possibilità di rimuovere un membro. Per rimuovere un giocatore, dovrai prima selezionarlo, quindi premere il pulsante “Lascia”."
+UI_PARTY_TRANSFER_TIP,Transfer the party to another player. Select a new leader and the press the transfer button.,Trasferisci il gruppo a un altro giocatore. Seleziona un nuovo capo e premi il pulsante di trasferimento.
+UI_PARTY_CONFIRM_TIP,Change the Party to Advanced Party.,Cambia il Gruppo in Gruppo Avanzato.
+UI_PARTY_LEAVE_CONFIRM,Confirm leaving party.,Conferma l'uscita del gruppo.
+UI_PARTY_LEAVE_QUESTION,Are you going to leave the party?,Hai intenzione di lasciare il gruppo?
+UI_PARTY_LEAVE_OTHER,Are you sure you want to remove this player from the party?,Sei sicuro di voler rimuovere questo giocatore dal gruppo?
+UI_PARTY_QUICK_TIP,Please click the button to display basic party information.,Clicca sul pulsante per visualizzare le informazioni di base sul partito.
+UI_PARTY_DETAIL_TIP,Please click the button for detailed party information.,Clicca sul pulsante per visualizzare le informazioni dettagliate sul partito.
+UI_PARTY_CHANGETROUP,Do you want change to Advanced party?,Vuoi cambiare al Gruppo Avanzato?
+UI_PARTY_CHANGEPARTY,Change Party,Cambia Gruppo
+UI_PARTYNAME_ENTER,Enter Party Name,Inserisci il Nome del Gruppo
+UI_PARTYNAME_TITLE,Change Party Name,Cambia il Nome del Gruppo
+UI_FRIEND_CONFIRM,Add Friend Confirmation,Conferma Aggiungi Amico
+UI_FRIEND_INVITEQUESTION,%s wants to be your friend. Do you accept?,%s vuole essere tuo amico. Accetti?
 UI_MESSENGER_ONLINE,Online,Online
 UI_MESSENGER_OFFLINE,Offline,Offline
 UI_MESSENGER_ABSENT,AFK,AFK
-UI_MESSENGER_HARDPLAY,Addict Mode,Addict Mode
-UI_MESSENGER_REST,Resting / Vending,Resting / Vending
-UI_MESSENGER_EAT,Eating,Eating
-UI_MESSENGER_MOVE,Moving,Moving
-UI_MESSENGER_FRIEND,Friend,Friend
+UI_MESSENGER_HARDPLAY,Addict Mode,Modalità Addict
+UI_MESSENGER_REST,Resting / Vending,Riposo / Vendita
+UI_MESSENGER_EAT,Eating,Mangiare
+UI_MESSENGER_MOVE,Moving,Muoversi
+UI_MESSENGER_FRIEND,Friend,Amico
 UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
-UI_MESSENGER_SORT_STATE,State,State
-UI_MESSENGER_SORT_LEVEL,Level,Level
-UI_MESSENGER_SORT_NAME,Name,Name
-UI_MESSENGER_SORT_JOB,Job,Job
-UI_INSTANTMSG_JOIN,has logged into the game.,has logged into the game.
-UI_OPTION_JOIN_NOTIFICATION,Message alarm,Message alarm
-UI_MESSENGER_MENU_MESSAGE,Message,Message
-UI_MESSENGER_MENU_UNBLOCK,Unblock,Unblock
-UI_MESSENGER_MENU_BLOCK,Block,Block
+UI_MESSENGER_SORT_STATE,State,Stato
+UI_MESSENGER_SORT_LEVEL,Level,Livello
+UI_MESSENGER_SORT_NAME,Name,Nome
+UI_MESSENGER_SORT_JOB,Job,Lavoro
+UI_INSTANTMSG_JOIN,has logged into the game.,ha effettuato l'accesso al gioco.
+UI_OPTION_JOIN_NOTIFICATION,Message alarm,Allarme Messaggio
+UI_MESSENGER_MENU_MESSAGE,Message,Messaggio
+UI_MESSENGER_MENU_UNBLOCK,Unblock,Sblocca
+UI_MESSENGER_MENU_BLOCK,Block,Blocca
 UI_MESSENGER_MENU_DELETE,Delete,Elimina
-UI_MESSENGER_MENU_MOVE,Move,Move
-UI_MESSENGER_MENU_TAGSEND,Send a memo,Send a memo
-UI_MESSENGER_ADD_FRIEND,Add a new friend,Add a new friend
-UI_ADDFRIEND_TITLE,Add friend,Add friend
-UI_ADDFRIEND_NAME,Enter Player Name,Enter Player Name
-UI_READMEMO_TITLE,Message Window,Message Window
-UI_SENDMEMO_TITLE,Message Sending Window,Message Sending Window
-UI_POST_TITLE,Post,Post
-UI_POST_TAB_SEND,Send Mail,Send Mail
-UI_POST_TAB_RECEIVE,Inbox,Inbox
-UI_OPTION_UISCALE,Scale,Scale
-UI_OPTION_TEXTSCALE,Font Size,Font Size
-UI_IGNORELIST_TITLE,Ignore List,Ignore List
-UI_IGNORELIST_COUNT,Ignored list: %d,Ignored list: %d
-UI_CHATFILTER_TITLE,Chatting Filter,Chatting Filter
-UI_CHATFILTER_GENERAL,General,General
-UI_CHATFILTER_WHISPER,Whisper,Whisper
-UI_CHATFILTER_SHOUT,Shout,Shout
-UI_CHATFILTER_PARTY,Party,Party
+UI_MESSENGER_MENU_MOVE,Move,Muovi
+UI_MESSENGER_MENU_TAGSEND,Send a memo,Invia una nota
+UI_MESSENGER_ADD_FRIEND,Add a new friend,Aggiungi un nuovo amicio
+UI_ADDFRIEND_TITLE,Add friend,Aggiungi amico
+UI_ADDFRIEND_NAME,Enter Player Name,Inserisci il Nome del Giocatore
+UI_READMEMO_TITLE,Message Window,Finestra dei Messagi
+UI_SENDMEMO_TITLE,Message Sending Window,Finestra dei Invio Messagi
+UI_POST_TITLE,Post,Pubblica
+UI_POST_TAB_SEND,Send Mail,Invia posta
+UI_POST_TAB_RECEIVE,Inbox,Posta in Arrivo
+UI_OPTION_UISCALE,Scale,Scala
+UI_OPTION_TEXTSCALE,Font Size,Dimensione Font
+UI_IGNORELIST_TITLE,Ignore List,Elenco ignorati
+UI_IGNORELIST_COUNT,Ignored list: %d,Elenco ignorati: %d
+UI_CHATFILTER_TITLE,Chatting Filter,Filtro Chat
+UI_CHATFILTER_GENERAL,General,Generale
+UI_CHATFILTER_WHISPER,Whisper,Sussorro
+UI_CHATFILTER_SHOUT,Shout,Urla
+UI_CHATFILTER_PARTY,Party,Gruppo
 UI_CHATFILTER_GUILD,Guild,Gilda
-UI_CHATFILTER_RESET_COLORS,Reset Defaults,Reset Defaults
-UI_POSTSEND_TO,Receiver,Receiver
-UI_POSTSEND_TITLE,Title,Title
+UI_CHATFILTER_RESET_COLORS,Reset Defaults,Ripristina Impostazioni Predefinite
+UI_POSTSEND_TO,Receiver,Ricevitore
+UI_POSTSEND_TITLE,Title,Titolo
 UI_POSTSEND_GOLD,Penya,Penya
-UI_POSTSEND_PRICE,Rental Fee: %d Penya,Rental Fee: %d Penya
-UI_POSTSEND_SEND,Send,Send
-UI_ITEMSLOT_TITLE,Item confirmation,Item confirmation
-UI_ITEMSLOT_QUESTION,How many items?,How many items?
-UI_ITEMSLOT_COUNT,Count:,Count:
-UI_POSTSEND_CONFIRM,Are you sure you want to send?\nMail expires after %d days,Are you sure you want to send?\nMail expires after %d days
-UI_POST_NO_MAIL,You don't have any mail,You don't have any mail
-UI_POST_UNKNOWN,Unknown,Unknown
-UI_POST_RECEIVE_DATE,Date Received: %s,Date Received: %s
-UI_POSTREAD_TITLE,Check Post Box,Check Post Box
-UI_POSTREAD_FROM,Sender,Sender
+UI_POSTSEND_PRICE,Rental Fee: %d Penya,Costo del Noleggio: %d Penya
+UI_POSTSEND_SEND,Send,Invia
+UI_ITEMSLOT_TITLE,Item confirmation,Conferma Oggetti
+UI_ITEMSLOT_QUESTION,How many items?,Quanti Oggetti?
+UI_ITEMSLOT_COUNT,Count:,Conte:
+UI_POSTSEND_CONFIRM,Are you sure you want to send?\nMail expires after %d days,Sei sicuro di voler inviare?\nLa posta scadrà dopo %d giorni
+UI_POST_NO_MAIL,You don't have any mail,Non hai posta :(
+UI_POST_UNKNOWN,Unknown,Sconosciuto
+UI_POST_RECEIVE_DATE,Date Received: %s,Data di Ricezione: %s
+UI_POSTREAD_TITLE,Check Post Box,Controllare la Casella Postale
+UI_POSTREAD_FROM,Sender,Mittente
 UI_POSTREAD_DELETE,Delete,Elimina
-UI_POSTREAD_DELETE_ALL,Delete all read mails,Delete all read mails
-UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Delete selected mails? Items and penya will be deleted as well.
-UI_POSTREAD_REPLY,Reply,Reply
-UI_POSTREAD_DELETETITLE,Delete Mail,Delete Mail
-UI_POSTREAD_DELETECONFIRM,Delete this mail? Items and penya will be deleted as well.,Delete this mail? Items and penya will be deleted as well.
-UI_POSTREAD_MAILEXPIRED,Mail Expired,Mail Expired
-UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s penya to recover it.,This mail expired %d days ago. You must pay %s penya to recover it.
-UI_QUEST_CANCEL,Remove quest,Remove quest
-UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Cancel Quest in Progress
-UI_QUEST_ALLQUESTS,All Quests,All Quests
-UI_QUEST_INPROGRESS,In Progress,In corso
+UI_POSTREAD_DELETE_ALL,Delete all read mails,Elimina tutte le poste lette
+UI_POSTREAD_DELETEALL_CONFIRM,Delete selected mails? Items and penya will be deleted as well.,Eliminare le poste selezionate? Verranno eliminati anche gli oggetti e i penya.
+UI_POSTREAD_REPLY,Reply,Rispondi
+UI_POSTREAD_DELETETITLE,Delete Mail,Elimina posta
+UI_POSTREAD_DELETECONFIRM,Delete this mail? Items and penya will be deleted as well.,Eliminare questa posta? Anche gli oggetti e la penya verranno eliminati.
+UI_POSTREAD_MAILEXPIRED,Mail Expired,Posta Scaduta
+UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s penya to recover it.,Questa posta è scaduta %d giorni fa. Devi pagare %s penya per recuperarla.
+UI_QUEST_CANCEL,Remove quest,Rimuovi Missione
+UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Annulla Missione in Corso
+UI_QUEST_ALLQUESTS,All Quests,Tutti Missioni
+UI_QUEST_INPROGRESS,In Progress,In Corso
 UI_QUEST_COMPLETED,Completed,Completato
-UI_QUEST_LIST,Quest List,Quest List
-UI_QUEST_DETAIL,Quest Details,Quest Details
-UI_QUEST_REWARDS,Reward List,Reward List
-UI_QUEST_CONDITIONS,Quest Condition,Quest Condition
+UI_QUEST_LIST,Quest List,Elenco Missioni
+UI_QUEST_DETAIL,Quest Details,Dettagli Missione
+UI_QUEST_REWARDS,Reward List,Elenco Ricompense
+UI_QUEST_CONDITIONS,Quest Condition,Condizione della Missione
 UI_QUEST_GOLD1,Penya: %d,Penya: %d
 UI_QUEST_GOLD2,Penya: %d~%d,Penya: %d~%d
 UI_QUEST_GOLD3,Penya: ????,Penya: ????
-UI_QUEST_EXP1,Experience Gained.,Experience Gained.
-UI_QUEST_EXP2,Experience: %.2f%%,Experience: %.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
-UI_QUEST_SKILLPOINT,Skill points,Skill points
-UI_QUEST_INVENTORYSLOT1,Inventory Space,Inventory Space
-UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Inventory Space: %d
-UI_QUEST_MODIFY_KARMA1,Collected Karma Point: %d,Collected Karma Point: %d
-UI_QUEST_MODIFY_KARMA2,Collected Karma Point: ????,Collected Karma Point: ????
-UI_QUEST_ADD_KARMA1,Added Karma Point: %d,Added Karma Point: %d
-UI_QUEST_ADD_KARMA2,Added Karma Point: ????,Added Karma Point: ????
-UI_QUEST_ITEM1,Item: %s(%d),Item: %s(%d)
-UI_QUEST_ITEM2,Item: ????,Item: ????
-UI_QUEST_COND_COMPLETED,Quest completed.,Quest completed.
-UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,Time Left: #b%d minutes#nb
-UI_QUEST_LIMIT_TIMEOUT,#bYou exceeded the time limit#nb,#bYou exceeded the time limit#nb
-UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,Defeat %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_EXP1,Experience Gained.,Esperienza acquisita.
+UI_QUEST_EXP2,Experience: %.2f%%,Esperienza: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Esperienza di Coppia: %.2f%%
+UI_QUEST_SKILLPOINT,Skill points,Punti Abilità
+UI_QUEST_INVENTORYSLOT1,Inventory Space,Spazio nell'Inventario
+UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Spazio nell'Inventario: %d
+UI_QUEST_MODIFY_KARMA1,Collected Karma Point: %d,Punti Karma Raccolti: %d
+UI_QUEST_MODIFY_KARMA2,Collected Karma Point: ????,Punti Karma Raccolti: ????
+UI_QUEST_ADD_KARMA1,Added Karma Point: %d,Punti Karma Aggiunti: %d
+UI_QUEST_ADD_KARMA2,Added Karma Point: ????,Punti Karma Aggiunti: ????
+UI_QUEST_ITEM1,Item: %s(%d),Oggetto: %s(%d)
+UI_QUEST_ITEM2,Item: ????,Oggetto: ????
+UI_QUEST_COND_COMPLETED,Quest completed.,Missione completato.
+UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,Tempo rimanente: #b%d minuti#nb
+UI_QUEST_LIMIT_TIMEOUT,#bYou exceeded the time limit#nb,#bHai superato il limite di tempo#nb
+UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,Sconfiggi %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_ITEM,%s #cffc32f07#b%d/%d#nb#nc,%s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PATROL,%s Search,%s Search
-UI_QUEST_COMPLETE_TEXT,[Complete],[Complete]
-UI_QUEST_NODISGUISE,Transformed into a human,Transformed into a human
-UI_QUEST_DISGUISE,Transformed into %s,Transformed into %s
-UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,%s Skill Level #b(%d/%d)#nb
+UI_QUEST_PATROL,%s Search,%s Cerca
+UI_QUEST_COMPLETE_TEXT,[Complete],[Completato]
+UI_QUEST_NODISGUISE,Transformed into a human,Trasformato in un essere umano
+UI_QUEST_DISGUISE,Transformed into %s,Trasformato in %s
+UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,Livello di Abilità %s #b(%d/%d)#nb
 UI_QUEST_KARMA_POINT,Karma Point #b(%d %s %d)#nb,Karma Point #b(%d %s %d)#nb
-UI_QUEST_PARTY_SOLO,Going solo,Going solo
-UI_QUEST_PARTY,Create party,Create party
-UI_QUEST_PARTY_LEADER,Party Leader,Party Leader
-UI_QUEST_PARTY_MEMBER,Non-Party Leader,Non-Party Leader
+UI_QUEST_PARTY_SOLO,Going solo,Andare da solo
+UI_QUEST_PARTY,Create party,Crea Gruppo
+UI_QUEST_PARTY_LEADER,Party Leader,Capo di Gruppo
+UI_QUEST_PARTY_MEMBER,Non-Party Leader,Capo non Appartenente al Gruppo
 UI_QUEST_PARTY_NUM,Number of Party Members #b(%d %s %d)#nb,Number of Party Members #b(%d %s %d)#nb
-UI_QUEST_PARTY_LEADER_NUM,"Party Leader, Number of Party Members #b(%d %s %d)#nb","Party Leader, Number of Party Members #b(%d %s %d)#nb"
-UI_QUEST_PARTY_MEMBER_NUM,"Non-Party Leader, Number of Party Members #b(%d %s %d)#nb","Non-Party Leader, Number of Party Members #b(%d %s %d)#nb"
-UI_QUEST_GUILD_SOLO,Non-Guild Mode,Non-Guild Mode
-UI_QUEST_GUILD,Create Guild,Create Guild
-UI_QUEST_GUILD_LEADER,Guild Leader,Guild Leader
-UI_QUEST_GUILD_MEMBER,Non-Guild Leader,Non-Guild Leader
-UI_QUEST_GUILD_NUM,Number of Guild Members #b(%d %s %d)#nb,Number of Guild Members #b(%d %s %d)#nb
-UI_QUEST_GUILD_LEADER_NUM,"Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Guild Leader, Number of Guild Members #b(%d %s %d)#nb"
-UI_QUEST_GUILD_MEMBER_NUM,"Non-Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Non-Guild Leader, Number of Guild Members #b(%d %s %d)#nb"
-UI_QUEST_CHAOTIC1,You became a criminal.,You became a criminal.
-UI_QUEST_CHAOTIC2,You have been acquitted of your crimes.,You have been acquitted of your crimes.
-UI_QUEST_DIALOG,Chat with #cff78e12f%s#nc,Chat with #cff78e12f%s#nc
-UI_QUEST_DESTINATION,#bMeet #cff78e12f%s#nc#nb,#bMeet #cff78e12f%s#nc#nb
-UI_QUEST_CANCEL_CONFIRM,Are you going to cancel the quest?,Are you going to cancel the quest?
-UI_CONFIRMATION,Confirmation,Confirmation
-UI_QUEST_DESTINATION_TITLE,Destination,Destination
-UI_MSGBOX_INFO,Information,Information
-UI_OPTION_UIALPHA,Opacity,Opacity
-UI_QUESTGOAL,Quest Goal,Quest Goal
+UI_QUEST_PARTY_LEADER_NUM,"Party Leader, Number of Party Members #b(%d %s %d)#nb","Leader del partito, numero di membri del partito #b(%d %s %d)#nb"
+UI_QUEST_PARTY_MEMBER_NUM,"Non-Party Leader, Number of Party Members #b(%d %s %d)#nb","Leader non appartenente al partito, numero di membri del partito #b(%d %s %d)#nb"
+UI_QUEST_GUILD_SOLO,Non-Guild Mode,Modalità Non Gilda
+UI_QUEST_GUILD,Create Guild,Crea Gilda
+UI_QUEST_GUILD_LEADER,Guild Leader,Capo gilda
+UI_QUEST_GUILD_MEMBER,Non-Guild Leader,Capo non Appartenente alla Gilda
+UI_QUEST_GUILD_NUM,Number of Guild Members #b(%d %s %d)#nb,Numero di membri della gilda #b(%d %s %d)#nb
+UI_QUEST_GUILD_LEADER_NUM,"Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Capo gilda, numero di membri della gilda #b(%d %s %d)#nb"
+UI_QUEST_GUILD_MEMBER_NUM,"Non-Guild Leader, Number of Guild Members #b(%d %s %d)#nb","Non capo della gilda, numero di membri della gilda #b(%d %s %d)#nb"
+UI_QUEST_CHAOTIC1,You became a criminal.,Sei diventato un criminale.
+UI_QUEST_CHAOTIC2,You have been acquitted of your crimes.,Sei stato assolto dai tuoi crimini.
+UI_QUEST_DIALOG,Chat with #cff78e12f%s#nc,Chat con #cff78e12f%s#nc
+UI_QUEST_DESTINATION,#bMeet #cff78e12f%s#nc#nb,#bContra #cff78e12f%s#nc#nb
+UI_QUEST_CANCEL_CONFIRM,Are you going to cancel the quest?,Hai intenzione di annullare la missione?
+UI_CONFIRMATION,Confirmation,Conferma
+UI_QUEST_DESTINATION_TITLE,Destination,Destinazione
+UI_MSGBOX_INFO,Information,Informazioni
+UI_OPTION_UIALPHA,Opacity,Opacità
+UI_QUESTGOAL,Quest Goal,Obiettivo della Missione
 UI_GUILD_TAB_INFO,Info,Info
-UI_GUILD_TAB_MEMBER,Members,Members
-UI_GUILD_TAB_GRADE,Titles,Titles
-UI_GUILD_TAB_WAR,Guild Duel,Guild Duel
+UI_GUILD_TAB_MEMBER,Members,Membri
+UI_GUILD_TAB_GRADE,Titles,Titoli
+UI_GUILD_TAB_WAR,Guild Duel,Duello tra Gilde
 UI_GUILD_NAME,Name:,Nome:
 UI_GUILD_NAME_BUTTON,Name,Nome
-UI_GUILD_MASTER,Master:,Master:
+UI_GUILD_MASTER,Master:,Maestro:
 UI_GUILD_EXP,Exp:,Exp:
 UI_GUILD_PENYA,Penya:,Penya:
-UI_GUILD_LEVEL,Level:,Level:
-UI_GUILD_MEMBER,Members:,Members:
-UI_GUILD_DISCORD_TIP,Join the Guild Discord.,Join the Guild Discord.
+UI_GUILD_LEVEL,Level:,Livello:
+UI_GUILD_MEMBER,Members:,Membri:
+UI_GUILD_DISCORD_TIP,Join the Guild Discord.,Entra nel Discord della Gilda.
 UI_GUILD_LOGO,Logo:,Logo:
 UI_GUILD_LOGO_BUTTON,Logo,Logo
 UI_GUILD_NOTICE,Notice,Avviso
-UI_GUILD_DISMISS,Dismiss,Dismiss
-UI_GUILD_NOTICE_TIP,Set your guild's notice.,Set your guild's notice.
-UI_GUILD_LOGO_TIP,Change your guild's logo.,Change your guild's logo.
-UI_GUILD_NAME_TIP,This establishes your guild's name. It can be done only once.,This establishes your guild's name. It can be done only once.
-UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","Disband your guild. Be careful, there's no going back!"
-UI_GUILDNAME_ENTER,Enter Guild Name,Enter Guild Name
-UI_GUILDNAME_TITLE,Guild Name Setup,Guild Name Setup
-UI_GUILDNOTICE_TITLE,Guild Notice Setup,Guild Notice Setup
-UI_GUILDNOTICESEARCH_TITLE,Guild Search Notice Setup,Guild Search Notice Setup
-UI_GUILDNOTICE_NEW,New,New
-UI_GUILDNOTICE_SAVE,Save,Save
-UI_GUILDNOTICE_NEW_TIP,Write new Guild Notice.,Write new Guild Notice.
-UI_GUILDNOTICE_SAVE_TIP,"Open the Notice, and send it to other characters.","Open the Notice, and send it to other characters."
-UI_GUILDLOGO_TITLE,Guild Logo Setup,Guild Logo Setup
-UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,Disband Guild Confirmation
-UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well."
-UI_GUILD_PAY,Salary,Salary
-UI_GUILD_PAY_SETUP,Setup,Setup
-UI_GUILD_GRADE_MEMBER,Members,Members
-UI_GUILD_POWERS,Powers,Powers
-UI_GUILD_POWER_TITLE,Title,Title
-UI_GUILD_POWER_RANK,Rank,Rank
+UI_GUILD_DISMISS,Dismiss,Ignora
+UI_GUILD_NOTICE_TIP,Set your guild's notice.,Imposta l'avviso della tua gilda.
+UI_GUILD_LOGO_TIP,Change your guild's logo.,Cambia il logo della tua gilda.
+UI_GUILD_NAME_TIP,This establishes your guild's name. It can be done only once.,Questo stabilisce il nome della tua gilda. Può essere fatto solo una volta.
+UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","Sciogli la tua gilda. Attenzione, non si può tornare indietro!"
+UI_GUILDNAME_ENTER,Enter Guild Name,Inserisci il nome della gilda
+UI_GUILDNAME_TITLE,Guild Name Setup,Impostazione del nome della gilda
+UI_GUILDNOTICE_TITLE,Guild Notice Setup,Impostazione degli avvisi della gilda
+UI_GUILDNOTICESEARCH_TITLE,Guild Search Notice Setup,Impostazione degli avvisi di ricerca della gilda
+UI_GUILDNOTICE_NEW,New,Nuovo
+UI_GUILDNOTICE_SAVE,Save,Salvav
+UI_GUILDNOTICE_NEW_TIP,Write new Guild Notice.,Scrivi nuovo Avvisso della Gilda
+UI_GUILDNOTICE_SAVE_TIP,"Open the Notice, and send it to other characters.",Apri l'avviso e invialo agli altri personaggi.
+UI_GUILDLOGO_TITLE,Guild Logo Setup,Configurazione logo gilda
+UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,Conferma dello Scioglimento della Gilda
+UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Vuoi sciogliere la gilda? Tieni presente che se la tua gilda possiede una casa, perderai anche la proprietà della casa della gilda."
+UI_GUILD_PAY,Salary,Stipendio
+UI_GUILD_PAY_SETUP,Setup,Configurazione
+UI_GUILD_GRADE_MEMBER,Members,Membri
+UI_GUILD_POWERS,Powers,Poteri
+UI_GUILD_POWER_TITLE,Title,Titolo
+UI_GUILD_POWER_RANK,Rank,Grado
 UI_GUILD_POWER_JOIN,Join,Unisciti
-UI_GUILD_POWER_ITEM,Item,Item
+UI_GUILD_POWER_ITEM,Item,Oggetto
 UI_GUILD_POWER_PENYA,Penya,Penya
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
-UI_GUILD_POWER_TIP,Apply Settings,Apply Settings
-UI_GUILD_POWER_SAVE,Save,Save
-UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Set %s pay.(It will be paid at 00:00 automatically)
-UI_GUILDPAY_TITLE,Setup Pay per Title,Setup Pay per Title
-UI_GUILDPAY_MESSAGE,What amount will you set for payment?,What amount will you set for payment?
-UI_GUILDPAY_AMOUNT,Amount,Amount
-UI_GUILD_GRADE,Title,Title
-UI_GUILD_ALIAS,Nickname,Nickname
-UI_GUILD_APPELATION_UP,Promote Member,Promote Member
-UI_GUILD_APPELATION_DOWN,Demote Member,Demote Member
-UI_GUILD_CLASS_UP,Class Up,Class Up
-UI_GUILD_CLASS_DOWN,Class Down,Class Down
-UI_GUILD_CREATE_ALIAS,Create Nickname,Create Nickname
-UI_GUILD_LEAVE,Leave Guild,Leave Guild
-UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,Promote to Guild Master
-UI_GUILDALIAS_TITLE,Setup Guild Title,Setup Guild Title
-UI_GUILDALIAS_ENTER,Enter Title,Enter Title
-UI_GUILDINVITE_TITLE,Invite to Guild,Invite to Guild
-UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s invites you to join the guild %s. Do you accept?
-UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s wants to join your guild. Do you accept?
-UI_GUILDBANK_TITLE,Guild Safebox,Guild Safebox
+UI_GUILD_POWER_SPECTATE,Spectate,Spettatore
+UI_GUILD_POWER_TIP,Apply Settings,Applica impostazioni
+UI_GUILD_POWER_SAVE,Save,Salva
+UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Imposta %s paga. (Verrà pagato automaticamente alle 00:00)
+UI_GUILDPAY_TITLE,Setup Pay per Title,Impostazione Pagamento per titolo
+UI_GUILDPAY_MESSAGE,What amount will you set for payment?,Quale importo desideri impostare per il pagamento?
+UI_GUILDPAY_AMOUNT,Amount,Importo
+UI_GUILD_GRADE,Title,Titolo
+UI_GUILD_ALIAS,Nickname,Soprannome
+UI_GUILD_APPELATION_UP,Promote Member,Promuovi membro
+UI_GUILD_APPELATION_DOWN,Demote Member,Retrocedi membro
+UI_GUILD_CLASS_UP,Class Up,Promuovi di classe
+UI_GUILD_CLASS_DOWN,Class Down,Retrocedi di classe
+UI_GUILD_CREATE_ALIAS,Create Nickname,Crea soprannome
+UI_GUILD_LEAVE,Leave Guild,Lascia gilda
+UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,Promuovi a Maestro della Gilda
+UI_GUILDALIAS_TITLE,Setup Guild Title,Imposta titolo della Gilda
+UI_GUILDALIAS_ENTER,Enter Title,Inserisci titolo
+UI_GUILDINVITE_TITLE,Invite to Guild,Invita nella Gilda
+UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s ti invita a entrare nella gilda %s. Accetti?
+UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s vuole entrare nella tua gilda. Accetti?
+UI_GUILDBANK_TITLE,Guild Safebox,Cassaforte della Gilda
 UI_GUILDBANK_SUPPORT,Support,Supporto
-UI_GUILDBANK_CLOAK,Cloak,Cloak
-UI_GUILDBANK_ITEM,Item,Item
-UI_GUILDMERIT_TITLE,Guild Contributing,Guild Contributing
-UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest Items
+UI_GUILDBANK_CLOAK,Cloak,Mantello
+UI_GUILDBANK_ITEM,Item,Oggetto
+UI_GUILDMERIT_TITLE,Guild Contributing,Contributo della gilda
+UI_GUILDMERIT_QUESTITEMS,Quest Items,Oggetti Missioni
 UI_GUILDMERIT_PENYA,Penya,Penya
-UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Guild Siege Information
-UI_GUILDBANKLOG_TITLE,Guild Bank Log,Guild Bank Log
-UI_GUILDBANKLOG_ADDITEM,Add Item,Add Item
-UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Remove Item
-UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Deposit Penya
-UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Withdraw Penya
-UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Add
-UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,Remove
-UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,Deposit Penya
-UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,Withdraw Penya
-UI_MOVEPENYA_TITLE,Transfer Penya,Transfer Penya
-UI_MOVEPENYA_QUESTION,How many do you want to move?,How many do you want to move?
+UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Informazioni sull'assedio della gilda
+UI_GUILDBANKLOG_TITLE,Guild Bank Log,Registro della banca della gilda
+UI_GUILDBANKLOG_ADDITEM,Add Item,Aggiungi oggetto
+UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Rimuovi oggetto
+UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Deposita Penya
+UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Preleva Penya
+UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Aggiungi
+UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,Rimuovi
+UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,Deposita Penya
+UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,Preleva Penya
+UI_MOVEPENYA_TITLE,Transfer Penya,Trasferisci Penya
+UI_MOVEPENYA_QUESTION,How many do you want to move?,Quanti ne vuoi spostare?
 UI_MOVEPENYA_INPUT,Penya:,Penya:
-UI_GUILDRANK_TITLE_GUILD,Guild Ranking,Guild Ranking
-UI_GUILDRANK_TITLE_INFO,Other Ranking,Other Ranking
-UI_GUILDRANK_TITLE_WAR,Guild Duel Ranking,Guild Duel Ranking
-UI_GUILDRANK_TAB_WAR_WIN,Most Wins,Most Wins
-UI_GUILDRANK_TAB_WAR_LOSE,Most Losses,Most Losses
-UI_GUILDRANK_TAB_WAR_GIVEUP,Most Surrenders,Most Surrenders
-UI_GUILDRANK_TAB_INFO_LEVEL,Highest Guild Level,Highest Guild Level
-UI_GUILDRANK_TAB_INFO_PLAYTIME,Longest Playtime,Longest Playtime
-UI_GUILDRANK_TAB_GUILD_BEST,Best Guild,Best Guild
-UI_GUILDRANK_TAB_GUILD_UNITED,Best Guild of Unity,Best Guild of Unity
-UI_GUILDRANK_TAB_GUILD_PENYA,Richest Guild,Richest Guild
-UI_GUILDRANK_RANKING,Ranking,Ranking
-UI_GUILDRANK_GUILDNAME,Guild Name,Guild Name
-UI_GUILDRANK_LEADERNAME,Master Name,Master Name
-UI_GUILDRANK_WINLOSE,Win / Lose,Win / Lose
-UI_GUILDRANK_AVGLEVEL,Average Level,Average Level
-UI_GUILD_WAR_DECLARE,Duel,Duel
-UI_GUILD_WAR_PEACE,Peace,Peace
-UI_GUILD_WAR_GIVEUP,Give Up,Give Up
-UI_GUILD_WAR_NAME,Guild Name:,Guild Name:
-UI_GUILD_WAR_LOGO,Guild Logo:,Guild Logo:
-UI_GUILD_WAR_WON,Won:,Won:
-UI_GUILD_WAR_LOST,Lost:,Lost:
-UI_GUILD_WAR_GAVEUP,Gave Up:,Gave Up:
-UI_GUILD_WAR_TIMELEFT,Time Left:,Time Left:
-UI_OPTION_THEME,Theme,Theme
-UI_HOME_PROLOGUE,Prologue,Prologue
-UI_SKILL_PLUS_TIP,Upgrade Skill Level,Upgrade Skill Level
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
-UI_SKILL_MINUS_TIP,Downgrade Skill Level,Downgrade Skill Level
-UI_SKILL_RESET,Reset,Reset
-UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),Redistribute skill point (Skill Point used is unavailable.)
-UI_SKILL_SAVE,Finish,Finish
-UI_SKILL_SAVE_TIP,Skill Point is distributed by pressing + or – button.,Skill Point is distributed by pressing + or – button.
-UI_SKILL_POINTS,Skill Points,Skill Points
-UI_WARNING,Warning,Warning
-UI_SKILL_CONFIRM_QUESTION,Confirm changes to skill points?,Confirm changes to skill points?
-UI_OPTION_VIBRATIONS,Vibrations,Vibrations
-UI_INVENTORY_SORT,Sort Item,Sort Item
-UI_ITEM_DURATION_TITLE,Item Duration,Item Duration
-UI_ITEM_DURATION_TIME_LEFT,Time Left,Time Left
-UI_QUERY_EQUIP_TITLE,View,View
-UI_OPTION_EQUIP_VIEW,Equipment View,Equipment View
-UI_OPTION_DUEL_REQUESTS,Duel Requests,Duel Requests
-UI_OPTION_DUEL_BETS,Duel Bets,Duel Bets
-UI_TRADE_TITLE,Trade,Trade
+UI_GUILDRANK_TITLE_GUILD,Guild Ranking,Classifica delle Gilde
+UI_GUILDRANK_TITLE_INFO,Other Ranking,Altre Classifiche
+UI_GUILDRANK_TITLE_WAR,Guild Duel Ranking,Classifica dei duelli tra gilde
+UI_GUILDRANK_TAB_WAR_WIN,Most Wins,Maggior numero di vittorie
+UI_GUILDRANK_TAB_WAR_LOSE,Most Losses,Maggior numero di sconfitte
+UI_GUILDRANK_TAB_WAR_GIVEUP,Most Surrenders,Maggior numero di arrendimenti
+UI_GUILDRANK_TAB_INFO_LEVEL,Highest Guild Level,Livello più alto della gilda
+UI_GUILDRANK_TAB_INFO_PLAYTIME,Longest Playtime,Tempo di gioco più lungo
+UI_GUILDRANK_TAB_GUILD_BEST,Best Guild,Migliore gilda
+UI_GUILDRANK_TAB_GUILD_UNITED,Best Guild of Unity,Migliore gilda di unità
+UI_GUILDRANK_TAB_GUILD_PENYA,Richest Guild,Gilda più ricca
+UI_GUILDRANK_RANKING,Ranking,Classifica
+UI_GUILDRANK_GUILDNAME,Guild Name,Nome della gilda
+UI_GUILDRANK_LEADERNAME,Master Name,Nome del maestro
+UI_GUILDRANK_WINLOSE,Win / Lose,Vittorie / Sconfitte
+UI_GUILDRANK_AVGLEVEL,Average Level,Livello medio
+UI_GUILD_WAR_DECLARE,Duel,Duello
+UI_GUILD_WAR_PEACE,Peace,Pace
+UI_GUILD_WAR_GIVEUP,Give Up,Rinuncia
+UI_GUILD_WAR_NAME,Guild Name:,Nome della gilda:
+UI_GUILD_WAR_LOGO,Guild Logo:,Logo della gilda:
+UI_GUILD_WAR_WON,Won:,Vittorie: Gilda più ricca
+UI_GUILD_WAR_LOST,Lost:,Perso:
+UI_GUILD_WAR_GAVEUP,Gave Up:,Abbandonato:
+UI_GUILD_WAR_TIMELEFT,Time Left:,Tempo rimanente:
+UI_OPTION_THEME,Theme,Tema
+UI_HOME_PROLOGUE,Prologue,Prologo
+UI_SKILL_PLUS_TIP,Upgrade Skill Level,Aumenta il livello abilità
+UI_SKILL_MAX_TIP,Maximize Skill Level,Massimizza il livello abilità
+UI_SKILL_MINUS_TIP,Downgrade Skill Level,Riduci il livello abilità
+UI_SKILL_RESET,Reset,Reimposta
+UI_SKILL_RESET_TIP,Redistribute skill point (Skill Point used is unavailable.),Ridistribuisci punti abilità (i punti abilità utilizzati non sono disponibili).
+UI_SKILL_SAVE,Finish,Fine
+UI_SKILL_SAVE_TIP,Skill Point is distributed by pressing + or – button.,I punti abilità vengono distribuiti premendo il pulsante + o -.
+UI_SKILL_POINTS,Skill Points,Punti abilità
+UI_WARNING,Warning,Avviso
+UI_SKILL_CONFIRM_QUESTION,Confirm changes to skill points?,Confermare le modifiche ai punti abilità?
+UI_OPTION_VIBRATIONS,Vibrations,Vibrazioni
+UI_INVENTORY_SORT,Sort Item,Ordina oggetto
+UI_ITEM_DURATION_TITLE,Item Duration,Durata oggetto
+UI_ITEM_DURATION_TIME_LEFT,Time Left,Tempo rimanente
+UI_QUERY_EQUIP_TITLE,View,Visualizza
+UI_OPTION_EQUIP_VIEW,Equipment View,Visualizza equipaggiamento
+UI_OPTION_DUEL_REQUESTS,Duel Requests,Richieste duello
+UI_OPTION_DUEL_BETS,Duel Bets,Scommesse duello
+UI_TRADE_TITLE,Trade,Scambio
 UI_TRADE_PENYA,Penya,Penya
-UI_DROP_FILTER_TITLE,Pick Up Pet,Pick Up Pet
-UI_DROP_FILTER_SETTINGS,Pick Up item settings,Pick Up item settings
-UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
+UI_DROP_FILTER_TITLE,Pick Up Pet,Compagno Raccoglitore
+UI_DROP_FILTER_SETTINGS,Pick Up item settings,Raccogli Oggetto Impostazioni
+UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipaggiamento
 UI_DROP_FILTER_0,Weapons,Armi
-UI_DROP_FILTER_1,Armor,Armor
-UI_DROP_FILTER_2,Accessory,Accessory
-UI_DROP_FILTER_3,Power Dice,Power Dice
-UI_DROP_FILTER_4,Mineral,Mineral
-UI_DROP_FILTER_5,Element Card,Element Card
-UI_DROP_FILTER_6,Socket Card,Socket Card
-UI_DROP_FILTER_7,Quest,Quest
-UI_DROP_FILTER_8,Booty,Booty
-UI_DROP_FILTER_CAT_MATERIAL,Material ,Material 
+UI_DROP_FILTER_1,Armor,Armatura
+UI_DROP_FILTER_2,Accessory,Accessorio
+UI_DROP_FILTER_3,Power Dice,Dadi Potere
+UI_DROP_FILTER_4,Mineral,Minerale
+UI_DROP_FILTER_5,Element Card,Carta Elemento
+UI_DROP_FILTER_6,Socket Card,Carta Presa
+UI_DROP_FILTER_7,Quest,Missione
+UI_DROP_FILTER_8,Booty,Bottino
+UI_DROP_FILTER_CAT_MATERIAL,Material ,Materiale 
 UI_DROP_FILTER_9,Food,Cibo
-UI_DROP_FILTER_10,FP Potion,FP Potion
+UI_DROP_FILTER_10,FP Potion,Pozione FP
 UI_DROP_FILTER_11,Buff,Buff
-UI_DROP_FILTER_12,Pet,Pet
+UI_DROP_FILTER_12,Pet,Compagno
 UI_DROP_FILTER_13,Etc...,Etc...
 UI_DROP_FILTER_CAT_ETC,Etc,Etc
-UI_DROP_FILTER_14,Common,Common
-UI_DROP_FILTER_15,Uncommon,Uncommon
-UI_DROP_FILTER_16,Rare & Higher,Rare & Higher
-UI_DROP_FILTER_17,Uncommon & Higher,Uncommon & Higher
-UI_DROP_FILTER_19,MP Potion,MP Potion
+UI_DROP_FILTER_14,Common,Comune
+UI_DROP_FILTER_15,Uncommon,Non comune
+UI_DROP_FILTER_16,Rare & Higher,Raro e superiore
+UI_DROP_FILTER_17,Uncommon & Higher,Non comune e superiore
+UI_DROP_FILTER_19,MP Potion,Pozione MP
 UI_DROP_FILTER_APPLY,Apply,Applica
-UI_TOOLTIP_ITEMTIME,Time Left:,Time Left:
-UI_TOOLTIP_USE,Use: %s,Use: %s
-UI_TOOLTIP_PERMANENTTIME,No Time Limit,No Time Limit
-UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Waiting Time for reuse: %.2d:%.2d
-UI_RESURRECTION_TITLE,Resurrection Confirm,Resurrection Confirm
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
-UI_TOOLTIP_EQUIPSET,Set Effect,Set Effect
-UI_TOOLTIP_BLOCKRATE,Block,Block
+UI_TOOLTIP_ITEMTIME,Time Left:,Tempo rimanente:
+UI_TOOLTIP_USE,Use: %s,Usa: %s
+UI_TOOLTIP_PERMANENTTIME,No Time Limit,Nessun Limite del Tempo
+UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Tempo di attesa per il riutilizzo: %.2d:%.2d
+UI_RESURRECTION_TITLE,Resurrection Confirm,Confirma Resurezzione
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Un altro giocatore sta cercando di resuscitarvi (livello di abilità %d). Volete essere resuscitati?
+UI_TOOLTIP_EQUIPSET,Set Effect,Effetto Set
+UI_TOOLTIP_BLOCKRATE,Block,Blocco
 UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
-UI_OPTION_FIELDVIEW_HIGH,High,High
-UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Very High
-UI_OPTION_FIELDVIEW_MEDIUM,Medium,Medium
-UI_OPTION_FIELDVIEW_LOW,Low,Low
-UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Very Low
-UI_OPTION_FIELDVIEW,View,View
-UI_OPTION_FIELDVIEW_EXTREME,Extreme,Extreme
+UI_OPTION_FIELDVIEW_HIGH,High,Alto
+UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Molto Alto
+UI_OPTION_FIELDVIEW_MEDIUM,Medium,Medio
+UI_OPTION_FIELDVIEW_LOW,Low,Bassa
+UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Molta Bassa
+UI_OPTION_FIELDVIEW,View,Visualizza
+UI_OPTION_FIELDVIEW_EXTREME,Extreme,Estrema
 UI_OPTION_COLORBLIND_1,Protanopia,Protanopia
 UI_OPTION_COLORBLIND_2,Deutranopia,Deutranopia
 UI_OPTION_COLORBLIND_3,Tritanopia,Tritanopia
-UI_OPTION_RENDERSCALE,Resolution,Resolution
+UI_OPTION_RENDERSCALE,Resolution,Risoluzione
 UI_OPTION_FOV,FoV,FoV
-UI_OPTION_FOV_TIP,Field of View,Field of View
-UI_OPTION_ADVANCEDSFX,Special Effects,Special Effects
+UI_OPTION_FOV_TIP,Field of View,Campi visivo
+UI_OPTION_ADVANCEDSFX,Special Effects,Effetti Speciali
 UI_INFO_PANG_TUTORIAL,Tutorial,Tutorial
-UI_INFO_PANG_NEXT,Next,Avanti
+UI_INFO_PANG_NEXT,Next,Successivo
 UI_INFO_PANG_DONE,Done,Fatto
-UI_INFO_PANG_GOTIT,Got it,Got it
-UI_INFO_PANG_CHECKTHELIST,Check the List,Check the List
+UI_INFO_PANG_GOTIT,Got it,Va bene
+UI_INFO_PANG_CHECKTHELIST,Check the List,Verifica l'Elenco
 UI_TUTORIAL_LIST_TITLE,Tutorial,Tutorial
-UI_DROP_ITEM_CONFIRM,Really drop this item?,Really drop this item?
-UI_PRIVATE_SHOP_NAME,Shop Name,Shop Name
-UI_PRIVATE_SHOP_LIST,Sale List,Sale List
-UI_PRIVATE_SHOP_RESET,Reset,Reset
+UI_DROP_ITEM_CONFIRM,Really drop this item?,Vuoi davvero abbandonare questo oggetto?
+UI_PRIVATE_SHOP_NAME,Shop Name,Nome del Negozio
+UI_PRIVATE_SHOP_LIST,Sale List,Elenco delle Vendite
+UI_PRIVATE_SHOP_RESET,Reset,Reimposta
 UI_PRIVATE_SHOP_CHAT,Chat,Chat
-UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Sell Item Registration
-UI_PRIVATE_SHOP_QUANTITY,Quantity,Quantity
-UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Unit price
-UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Will you open your shop?
-UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Will you close your shop?
-UI_PERSONAL_SHOP_TITLE,%s's Private Shop,%s's Private Shop
-UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Buy Item
-UI_PRIVATE_SHOP_BUY,Purchase,Purchase
-UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Total Cost
+UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Registrazione Oggetto in Vendita
+UI_PRIVATE_SHOP_QUANTITY,Quantity,Quantità
+UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Prezzo Unitario
+UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Aprirai il tuo negozio?
+UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Chiuderai il tuo negozio?
+UI_PERSONAL_SHOP_TITLE,%s's Private Shop,Negozio Privato di %s
+UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Compra Oggetto
+UI_PRIVATE_SHOP_BUY,Purchase,Compra
+UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Costo Totale
 UI_PERSONAL_SHOP_CHAT_TITLE,Chatting,Chat
-UI_PERSONAL_SHOP_CHAT_USER,User,User
-UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Message
+UI_PERSONAL_SHOP_CHAT_USER,User,Utente
+UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Messaggio
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Input
-UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Dialog
-UI_PERSONAL_SHOP_CHAT_INFO,Information,Informazioni
-UI_PERSONAL_SHOP_CHAT_SEND,Send,Send
-UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s has just logged in.
-UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s has disconnected.
-UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,Character: %s has purchased %s(%d) for %lld penya.
-UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Confirm Selling Premium Item
-UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered."
-UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Soul-Linked]
-UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Linked]
-UI_BEAUTY_SHOP_TITLE,Hair Shop,Hair Shop
-UI_BEAUTY_SHOP_RESET,Reset,Reset
-UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Hair Color
-UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Hair Style
-UI_BEAUTY_SHOP_PREVIEW,Preview,Preview
-UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Style Price:
-UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Color Price:
-UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,Total:
-UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Confirm Purchase
-UI_OPTION_TRADE,Trade Requests,Trade Requests
-UI_TRADE_REQUEST_TITLE,Trade,Trade
-UI_TRADE_REQUEST_QUESTION,%s wants to trade. Would you like to trade?,%s wants to trade. Would you like to trade?
-UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,How many do you want to move?
+UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Dialogo
+UI_PERSONAL_SHOP_CHAT_INFO,Information,Informazione
+UI_PERSONAL_SHOP_CHAT_SEND,Send,Invia
+UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s si è appena collegato.
+UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s si è disconnesso.
+UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,Personaggio: %s ha acquistato %s(%d) per %lld penya.
+UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Conferma Vendita del Oggetto Premium
+UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","Questo è un oggetto premium. Sei sicuro?\nUna volta venduto, non potrà essere recuperato."
+UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Legato all'Anima]
+UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Legato al account]
+UI_BEAUTY_SHOP_TITLE,Hair Shop,Barbiere
+UI_BEAUTY_SHOP_RESET,Reset,Reimposta
+UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Colore dei Capelli
+UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Acconciatura
+UI_BEAUTY_SHOP_PREVIEW,Preview,Anteprima
+UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Prezzo del'Acconciatura:
+UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Prezzo del Colore:
+UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,Totale:
+UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Conferma Acquisto
+UI_OPTION_TRADE,Trade Requests,Richieste di Scambio
+UI_TRADE_REQUEST_TITLE,Trade,Scambio
+UI_TRADE_REQUEST_QUESTION,%s wants to trade. Would you like to trade?,%s vuole scambiare. Vuoi scambiare?
+UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,Quanti ne vuoi spostare?
 UI_TRADE_PUT_GOLD_QTY,Penya:,Penya:
-UI_TRADE_ITEM,Item,Item
-UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Move how many items?
-UI_TRADE_PUT_ITEM_QTY,Number:,Number:
-UI_TRADE_CONFIRM_TITLE,Confirm Trade,Confirm Trade
-UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Do you accept the trade?
-UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,You need to wait for approval.
-UI_OPTION_MOBILE_DIR,Directional Pad,Directional Pad
-UI_PIERCING_TITLE,Piercing,Piercing
-UI_PIERCING_PIERCE_ITEM,Pierce Item,Pierce Item
-UI_PIERCING_ITEM,Item,Item
-UI_PIERCING_MATERIAL,Power Dice,Power Dice
-UI_PIERCING_PROTECTSCROLL,GProtect,GProtect
-UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Do you want to pierce this item?
-UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,Without Scroll of GProtect you will lose the item in case of failure.
-UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Remove Piercing Card
-UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb
-UI_PIERCING_REMOVE_OK,Remove,Remove
-UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,The success rate increases with each failed attempt.
-UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Upgrade attempts: %d
-UI_ELEMENT_ATTEMPTS,Element upgrade attempts: %d,Element upgrade attempts: %d
-UI_PIERCING_ATTEMPTS,Piercing attempts: %d,Piercing attempts: %d
-UI_ACCESSORY_TITLE,Accessory Upgrade,Migliorare Accessori
-UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,Upgrade Item
-UI_ACCESSORY_PROTECTSCROLL,AProtect,AProtect
-UI_ACCESSORY_UNSAFE,Without Scroll of AProtect you will lose the item in case of failure.,Without Scroll of AProtect you will lose the item in case of failure.
-UI_UPGRADE_TITLE,Upgrade,Upgrade
-UI_UPGRADE_ITEM,Item,Item
-UI_UPGRADE_MATERIAL,Power Dice/Card,Power Dice/Card
-UI_UPGRADE_PROTECTSCROLL,SProtect,SProtect
-UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,XProtect
-UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Sunstone
-UI_UPGRADE_CHANCESCROLL,SFusion,SFusion
-UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Attribute level will decrease in case of failure. You will not lose the item.
-UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Without Scroll of SProtect you will lose the item in case of failure.
-UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Do you want to upgrade this item?
-UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Rimuovi migliorie Elementali
-UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirm Removal
-UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb
-UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,You can use a Premium item.
-UI_REVIVAL_REVIVAL,Original Place,Original Place
-UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,You will be revived where you died.
-UI_COMMITEM_DIALOG_TITLE,Use Item,Use Item
-UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Confirm Re-Stat
-UI_RESTATE_CONFIRM_ALL,All character stats will be reset. Continue?,All character stats will be reset. Continue?
-UI_RESTATE_CONFIRM_STR,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_STA,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_DEX,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_INT,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?
-UI_RESTATE_CONFIRM_STR_LOW,50 Strength (STR) points will be refunded to you. Do you want to continue?,50 Strength (STR) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be refunded to you. Do you want to continue?,50 Stamina (STA) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?
-UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be refunded to you. Do you want to continue?,50 Intelligence (INT) points will be refunded to you. Do you want to continue?
-UI_OPTION_BATTLEBGM,Battle Music,Battle Music
-UI_OPTION_VOICES,Japanese Voices,Japanese Voices
+UI_TRADE_ITEM,Item,Oggetto
+UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Quanti oggetti spostare?
+UI_TRADE_PUT_ITEM_QTY,Number:,Numero:
+UI_TRADE_CONFIRM_TITLE,Confirm Trade,Conferma Scambio
+UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Accetti lo Scambio?
+UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,Devi attendere l'approvazione.
+UI_OPTION_MOBILE_DIR,Directional Pad,Tastierino Direzionale
+UI_PIERCING_TITLE,Piercing,Percia
+UI_PIERCING_PIERCE_ITEM,Pierce Item,Percio oggetto
+UI_PIERCING_ITEM,Item,Oggetto
+UI_PIERCING_MATERIAL,Power Dice,Dado di Potenza
+UI_PIERCING_PROTECTSCROLL,GProtect,G-Protezione
+UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Vuoi percire questo oggetto?
+UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,"Senza una Pergamena di G-Protezione, perderai l'oggetto in caso di fallimento."
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Rimuova Scheda Percio
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Rimuovere la scheda percio selezionata da questo oggetto? #b#cffff0000La scheda rimossa verrà distrutta.#nc#nb
+UI_PIERCING_REMOVE_OK,Remove,Rimuova
+UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,Il tasso di successo aumenta con ogni tentativo fallito.
+UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Tentativi di Potenziamento: %d
+UI_ELEMENT_ATTEMPTS,Element upgrade attempts: %d,Tentativi di Potenziamento Elemento: %d
+UI_PIERCING_ATTEMPTS,Piercing attempts: %d,Tentativi di Perciamento: %d
+UI_ACCESSORY_TITLE,Accessory Upgrade,Potenziamento Accessori
+UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,Potenziamento Oggetto
+UI_ACCESSORY_PROTECTSCROLL,AProtect,A-Protezione
+UI_ACCESSORY_UNSAFE,Without Scroll of AProtect you will lose the item in case of failure.,"Senza una Pergamena di A-Protezione, perderai l'oggetto in caso di fallimento."
+UI_UPGRADE_TITLE,Upgrade,Potenziamento
+UI_UPGRADE_ITEM,Item,Oggetto
+UI_UPGRADE_MATERIAL,Power Dice/Card,Dado di Potenza/Scheda
+UI_UPGRADE_PROTECTSCROLL,SProtect,S-Protezione
+UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,X-Protezione
+UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Pietrasola
+UI_UPGRADE_CHANCESCROLL,SFusion,S-Fusione
+UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Il livello dell'attributo diminuirà in caso di fallimento. Non perderai l'oggetto.
+UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,"Senza una Pergamena di S-Protezione, perderai l'oggetto in caso di fallimento."
+UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Vuoi potenziare questo oggetto?
+UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Rimuovi Potenziamento Elementalo
+UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Conferma Rimozione
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Rimuovere il potenziamento dell'elemento da questo oggetto? #b#cffff0000Questa azione non può essere annullata.#nc#nb
+UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Puoi usare un'oggetto Premium.
+UI_REVIVAL_REVIVAL,Original Place,Luogo Originale
+UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,Rivivrai nel luogo in cui sei morto.
+UI_COMMITEM_DIALOG_TITLE,Use Item,Usa Oggetto
+UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Conferma Re-Stat
+UI_RESTATE_CONFIRM_ALL,All character stats will be reset. Continue?,Tutte le stat dei personaggi verranno azzerate. Continuare?
+UI_RESTATE_CONFIRM_STR,Your Strength (STR) stat will be reset and the points will be refunded to you. Continue?,La tua statistica Forza (FOR) verrà azzerata e i punti ti saranno rimborsati. Vuoi continuare?
+UI_RESTATE_CONFIRM_STA,Your Stamina (STA) stat will be reset and the points will be refunded to you. Continue?,La tua statistica Resistenza (RES) verrà azzerata e i punti ti saranno rimborsati. Vuoi continuare?
+UI_RESTATE_CONFIRM_DEX,Your Dexterity (DEX) stat will be reset and the points will be refunded to you. Continue?,La tua statistica Abilità (AGI) verrà azzerata e i punti ti saranno rimborsati. Vuoi continuare?
+UI_RESTATE_CONFIRM_INT,Your Intellect (INT) stat will be reset and the points will be refunded to you. Continue?,La tua statistica Intelligenza (INT) verrà azzerata e i punti ti saranno rimborsati. Vuoi continuare?
+UI_RESTATE_CONFIRM_STR_LOW,50 Strength (STR) points will be refunded to you. Do you want to continue?,Ti saranno rimborsati 50 punti Forza (FOR). Vuoi continuare?
+UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be refunded to you. Do you want to continue?,Ti saranno rimborsati 50 punti Resistenza (RES). Vuoi continuare?
+UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?,Ti saranno rimborsati 50 punti Agilità (AGI). Vuoi continuare?
+UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be refunded to you. Do you want to continue?,Ti saranno rimborsati 50 punti Intelligenza (INT). Vuoi continuare?
+UI_OPTION_BATTLEBGM,Battle Music,Musica di Battaglia
+UI_OPTION_VOICES,Japanese Voices,Voce Japanese
 UI_PK_CONFIRM_TITLE,P.K,P.K
-UI_PK_CONFIRM,You are about to commit a crime. Do you attack?,You are about to commit a crime. Do you attack?
-UI_BANK_ENTERPASS_TITLE,Bank Password,Bank Password
-UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 Digits),Enter Bank PIN (4 Digits)
+UI_PK_CONFIRM,You are about to commit a crime. Do you attack?,Stai per commettere un crimine. Attacchi?
+UI_BANK_ENTERPASS_TITLE,Bank Password,Password Banca
+UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 Digits),Inserisci il PIN della Banca (4 Cifre)
 UI_BANK_ENTERPASS_PIN,PIN,PIN
-UI_BANK_ENTERPASS_CHANGE,Change,Change
-UI_BANK_CHANGEPASS_TITLE,Bank PIN,Bank PIN
-UI_BANK_CHANGEPASS_MSG,Set/Change Bank PIN (4 Digits),Set/Change Bank PIN (4 Digits)
-UI_BANK_CHANGEPASS_OLD,Old PIN:,Old PIN:
-UI_BANK_CHANGEPASS_NEW,New PIN:,New PIN:
-UI_BANK_CHANGEPASS_CONFIRM,Confirm PIN:,Confirm PIN:
-UI_BANK_TITLE,Bank,Bank
-UI_DUELREQUEST_TITLE,Duel Request,Duel Request
-UI_DUELREQUEST_BETMSG,How much do you want to bet for this duel?,How much do you want to bet for this duel?
+UI_BANK_ENTERPASS_CHANGE,Change,Cambia
+UI_BANK_CHANGEPASS_TITLE,Bank PIN,PIN della Banca
+UI_BANK_CHANGEPASS_MSG,Set/Change Bank PIN (4 Digits),Imposta/Modifica PIN banca (4 cifre)
+UI_BANK_CHANGEPASS_OLD,Old PIN:,PIN Vecchio:
+UI_BANK_CHANGEPASS_NEW,New PIN:,PIN Nuovo:
+UI_BANK_CHANGEPASS_CONFIRM,Confirm PIN:,Conferma PIN:
+UI_BANK_TITLE,Bank,Banca
+UI_DUELREQUEST_TITLE,Duel Request,Richiesta del Duello
+UI_DUELREQUEST_BETMSG,How much do you want to bet for this duel?,Quanto vuoi scommettere su questo duello?
 UI_DUELREQUEST_BETLBL,Penya:,Penya:
-UI_DUELREQUEST_MSG,%s challenges you to a duel %s. Do you accept?,%s challenges you to a duel %s. Do you accept?
-UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Do you accept?,%s challenges your party to a duel %s. Do you accept?
-UI_DUELREQUEST_NOBET,(no bet),(no bet)
-UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,with a %s Penya bet
-UI_DUELRESULT_TITLE,Duel Result,Duel Result
-UI_DUELRESULT_WIN,%s wins the Duel!,%s wins the Duel!
-UI_DUELRESULT_LOSE,%s loses the Duel!,%s loses the Duel!
-UI_CASHSHOP_RELOAD,TOP-UP,TOP-UP
-UI_CASHSHOP_LEGALINFO,Legal Information,Legal Information
-UI_CASHSHOP_GSC,General Sales Conditions,General Sales Conditions
-UI_CASHSHOP_SHOWALL,Show All,Mostra tutto
-UI_CASHSHOP_SEARCH,Search:,Search:
-UI_CASHSHOP_SORT_DEFAULT,Default,Default
-UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Nome (A - Z)
-UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Nome (Z - A)
-UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Price (Low > High)
-UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Price (High > Low)
-UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb items in the category.
-UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items matching search.,#b%d#nb items matching search.
-UI_CASHSHOP_EMPTY,No items found.,No items found.
-UI_CASHSHOP_CONFIRM_TITLE,Confirm purchase,Confirm purchase
-UI_CASHSHOP_CONFIRM_MSG,Do you want to purchase %dx %s for %s?,Do you want to purchase %dx %s for %s?
-UI_CASHSHOP_ORIGINAL_PRICE,Original price:,Original price:
-UI_CASHSHOP_PURCHASE,PURCHASE,PURCHASE
-UI_CASHSHOP_QUANTITY,Quantity:,Quantity:
-UI_CASHSHOP_UNIT_PRICE,Unit price:,Unit price:
-UI_CASHSHOP_TOTAL_PRICE,Total price:,Total price:
-UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,Limited Offer! Expires in #b%s#nb
-UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,Get %d additional item(s) per unit purchase!
-UI_CASHSHOP_PRODUCT_ID,Product ID:,Product ID:
-UI_OPTION_POSTPROCESSING,Post-processing,Post-processing
-UI_CASHSHOP_PURCHASEPROCESSING,"Processing the purchase, please wait...","Processing the purchase, please wait..."
-UI_GUILD_WAR_DECLARE_TITLE,Declare Guild Duel,Declare Guild Duel
-UI_GUILD_WAR_DECLARE_INPUT,Target Guild,Target Guild
-UI_GUILD_WAR_REQUEST_TITLE,Guild Duel Request,Guild Duel Request
-UI_GUILD_WAR_REQUEST_MSG,"The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?","The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?"
-UI_INDIRECTTALK_TITLE,Indirect conversation,Indirect conversation
-UI_INDIRECTTALK_MOVER,Mover ID,Mover ID
-UI_CREATEITEM_TITLE,Create Item,Create Item
-UI_CREATEITEM_TYPE,Type,Type
-UI_CREATEITEM_SEX,Sex,Sex
-UI_CREATEITEM_JOB,Job,Job
-UI_CREATEITEM_LEVEL,Level,Level
-UI_CREATEITEM_QTY,Qty,Qty
-UI_CREATEITEM_ITEM,Item,Item
-UI_CREATEITEM_CREATE,Create,Create
-UI_GUILD_WAR_GIVEUP_TITLE,Give Up,Give Up
-UI_GUILD_WAR_GIVEUP_MSG,Do you give up the Guild Duel?,Do you give up the Guild Duel?
-UI_GUILD_WAR_PEACE_TITLE,Truce,Truce
-UI_GUILD_WAR_PEACE_MSG,Do you propose a truce to the opposing Guild?,Do you propose a truce to the opposing Guild?
-UI_GUILD_WAR_PEACE_CONFIRM_TITLE,Truce Approval,Truce Approval
-UI_GUILD_WAR_PEACE_CONFIRM_MSG,The opposing guild has proposed a truce. Do you approve the truce?,The opposing guild has proposed a truce. Do you approve the truce?
-UI_TOOLTIP_ATKPOWER_VALUE,Attack,Attack
-UI_RANDOM_SCROLL_TITLE,Random Option,Random Option
-UI_SUMMON_FRIEND_TITLE,Summon,Summon
-UI_SUMMON_FRIEND_MSG,Select friend to summon,Select friend to summon
-UI_SUMMON_FRIEND_INPUT,Name:,Name:
-UI_SUMMON_FRIEND_CONFIRM,%s asked to summon you. Would you like to accept?,%s asked to summon you. Would you like to accept?
-UI_FONT_EDIT_TITLE,Modify Letter Type,Modify Letter Type
-UI_FONT_EDIT_BOLD,Bold,Bold
-UI_FONT_EDIT_LINE,Line,Line
-UI_FONT_EDIT_COLOR,Color,Color
-UI_FONT_EDIT_CANCELLINE,Cancel Line,Cancel Line
-UI_FONT_EDIT,Letter Edit,Letter Edit
-UI_SUMMON_PARTY_TITLE,Summon Party,Summon Party
-UI_SUMMON_PARTY_MSG,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?
-UI_SUMMON_PARTY_CONFIRM_TITLE,Summon P. Members,Summon P. Members
-UI_SUMMON_PARTY_CONFIRM_MSG,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.
-UI_SUMMON_PARTY_CONFIRM_HOW,How to Use,How to Use
-UI_SUMMON_PARTY_CONFIRM_TIP,If you click the icon (%s) on the upper of the right you will be teleported to the leader.,If you click the icon (%s) on the upper of the right you will be teleported to the leader.
-UI_SUMMON_PARTY_USE,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?
-UI_SUMMON_BUFF_ICON,You can go to the Party leader once you click double.,You can go to the Party leader once you click double.
-UI_CHANGE_SEX_TITLE,Change Sex,Change Sex
-UI_CHANGE_SEX_FACE,Change Face,Change Face
-UI_ITEM_TRANSY_TITLE,Transy for Item,Transy for Item
-UI_ITEM_TRANSY_SEX,Change Sex of Item,Change Sex of Item
-UI_ITEM_TRANSY_PUT,Please input an item which you want to change.,Please input an item which you want to change.
-UI_ITEM_TRANSY_PUT1,Please input an item on the left column.,Please input an item on the left column.
-UI_CHANGE_NAME_TITLE,Change Name,Change Name
-UI_CHANGE_NAME_INPUT,Enter your new name,Enter your new name
-UI_CHANGE_NAME_PET_TITLE,Change Pet Name,Change Pet Name
-UI_CHANGE_NAME_PET_INPUT,Leave empty to reset to the default name,Leave empty to reset to the default name
-UI_CHANGE_NAME_PET_LABEL,Pet Name:,Pet Name:
-UI_NAVIGATOR_MARK,Mark:,Mark:
-UI_MAP_MARK_ADD,Add Mark,Add Mark
+UI_DUELREQUEST_MSG,%s challenges you to a duel %s. Do you accept?,%s ti sfida a duello %s. Accetti?
+UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Do you accept?,%s sfida il tuo gruppo a duello %s. Accetti?
+UI_DUELREQUEST_NOBET,(no bet),(nessuna scommessa)
+UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,con una scommessa %s Penya
+UI_DUELRESULT_TITLE,Duel Result,Risoltato del Duello
+UI_DUELRESULT_WIN,%s wins the Duel!,%s vince il duello!
+UI_DUELRESULT_LOSE,%s loses the Duel!,%s perde il duello!
+UI_CASHSHOP_RELOAD,TOP-UP,RICARICA
+UI_CASHSHOP_LEGALINFO,Legal Information,Informazione Legale
+UI_CASHSHOP_GSC,General Sales Conditions,Condizioni Generali di Vendita
+UI_CASHSHOP_SHOWALL,Show All,Mostra Tutto
+UI_CASHSHOP_SEARCH,Search:,Cerca:
+UI_CASHSHOP_SORT_DEFAULT,Default,Predefinito
+UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Nome (A-Z)
+UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Nome (Z-A)
+UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Prezzo (Bassa > Alto)
+UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Prezzo (Alto > Bassa)
+UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb oggetti nella categoria.
+UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items matching search.,#b%d#nb oggetti corrispondenti alla ricerca.
+UI_CASHSHOP_EMPTY,No items found.,Nessun oggetti trovato.
+UI_CASHSHOP_CONFIRM_TITLE,Confirm purchase,Conferma acquisito
+UI_CASHSHOP_CONFIRM_MSG,Do you want to purchase %dx %s for %s?,Vuoi acquistare %dx %s per %s?
+UI_CASHSHOP_ORIGINAL_PRICE,Original price:,Prezzo originale:
+UI_CASHSHOP_PURCHASE,PURCHASE,ACQUISTA
+UI_CASHSHOP_QUANTITY,Quantity:,Quantità:
+UI_CASHSHOP_UNIT_PRICE,Unit price:,Prezzo unitario:
+UI_CASHSHOP_TOTAL_PRICE,Total price:,Prezzo totale:
+UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,Offerta limitata! Scade tra #b%s#nb
+UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,Ottieni %d oggetti aggiuntivi per ogni unità acquistata!
+UI_CASHSHOP_PRODUCT_ID,Product ID:,ID Prodotto:
+UI_OPTION_POSTPROCESSING,Post-processing,Post-elaborazione
+UI_CASHSHOP_PURCHASEPROCESSING,"Processing the purchase, please wait...","Elaborazione dell'acquisto, attendere..."
+UI_GUILD_WAR_DECLARE_TITLE,Declare Guild Duel,Dichiarare Duello della Gilda
+UI_GUILD_WAR_DECLARE_INPUT,Target Guild,Gilda Bersaglio
+UI_GUILD_WAR_REQUEST_TITLE,Guild Duel Request,Richietta di Duello della Gilda
+UI_GUILD_WAR_REQUEST_MSG,"The Guild Leader of %s, %s, declares a Guild duel. Do you Accept?","Il capo della gilda %s, %s, dichiara un Duello della Gilda. Accetti?"
+UI_INDIRECTTALK_TITLE,Indirect conversation,Conversazione indiretta
+UI_INDIRECTTALK_MOVER,Mover ID,ID traslocatore
+UI_CREATEITEM_TITLE,Create Item,Crea Oggetto
+UI_CREATEITEM_TYPE,Type,Tipo
+UI_CREATEITEM_SEX,Sex,Sesso
+UI_CREATEITEM_JOB,Job,Lavoro
+UI_CREATEITEM_LEVEL,Level,Livello
+UI_CREATEITEM_QTY,Qty,Qtà
+UI_CREATEITEM_ITEM,Item,Oggetto
+UI_CREATEITEM_CREATE,Create,Crea
+UI_GUILD_WAR_GIVEUP_TITLE,Give Up,Arrenditi
+UI_GUILD_WAR_GIVEUP_MSG,Do you give up the Guild Duel?,Ti arrendi al Duello della Gilda?
+UI_GUILD_WAR_PEACE_TITLE,Truce,Tregua
+UI_GUILD_WAR_PEACE_MSG,Do you propose a truce to the opposing Guild?,Proponi una tregua alla Gilda avversaria?
+UI_GUILD_WAR_PEACE_CONFIRM_TITLE,Truce Approval,Approvazione della Tregua
+UI_GUILD_WAR_PEACE_CONFIRM_MSG,The opposing guild has proposed a truce. Do you approve the truce?,La gilda avversaria ha proposto una tregua. Approvi la tregua?
+UI_TOOLTIP_ATKPOWER_VALUE,Attack,Attacchi
+UI_RANDOM_SCROLL_TITLE,Random Option,Opzione Casuale
+UI_SUMMON_FRIEND_TITLE,Summon,Evoca
+UI_SUMMON_FRIEND_MSG,Select friend to summon,Seleziona l'amico da evocare
+UI_SUMMON_FRIEND_INPUT,Name:,Nome:
+UI_SUMMON_FRIEND_CONFIRM,%s asked to summon you. Would you like to accept?,%s ha chiesto di evocarti. Vuoi accettare?
+UI_FONT_EDIT_TITLE,Modify Letter Type,Modifica Tipo di Lettera
+UI_FONT_EDIT_BOLD,Bold,Audace
+UI_FONT_EDIT_LINE,Line,Linea
+UI_FONT_EDIT_COLOR,Color,Colore
+UI_FONT_EDIT_CANCELLINE,Cancel Line,Annulla linea
+UI_FONT_EDIT,Letter Edit,Modifica Lettera
+UI_SUMMON_PARTY_TITLE,Summon Party,Evoca gruppo
+UI_SUMMON_PARTY_MSG,You can summon party members. Unable to use in an event area (e.g. Clockworks). It will be activated for a minute. Summon party members?,Puoi evocare i membri del gruppo. Non utilizzabile in un'area evento (ad es. Clockworks). Rimarrà attivo per un minuto. Evocare i membri del gruppo?
+UI_SUMMON_PARTY_CONFIRM_TITLE,Summon P. Members,Evoca Membri del Gruppo
+UI_SUMMON_PARTY_CONFIRM_MSG,%s Party has asked to summon you. You will be summoned to the Party Leader. You have one minute to decide.,Il partito %s ha chiesto di evocarti. Sarai evocato dal leader del partito. Hai un minuto per decidere.
+UI_SUMMON_PARTY_CONFIRM_HOW,How to Use,Come Usare
+UI_SUMMON_PARTY_CONFIRM_TIP,If you click the icon (%s) on the upper of the right you will be teleported to the leader.,Cliccando sull'icona (%s) in alto a destra verrai teletrasportato dal leader.
+UI_SUMMON_PARTY_USE,You should be close for the summon to work. Make sure you are not in an Event arena. Do you want to be teleported?,Devi essere vicino affinché l'evocazione funzioni. Assicurati di non trovarti in un'arena evento. Vuoi essere teletrasportato?
+UI_SUMMON_BUFF_ICON,You can go to the Party leader once you click double.,Puoi andare dal leader del partito dopo aver cliccato due volte.
+UI_CHANGE_SEX_TITLE,Change Sex,Cambia Sesso
+UI_CHANGE_SEX_FACE,Change Face,Cambia Volto
+UI_ITEM_TRANSY_TITLE,Transy for Item,Transy per Oggetto
+UI_ITEM_TRANSY_SEX,Change Sex of Item,Cambia Sesso d'Oggetto
+UI_ITEM_TRANSY_PUT,Please input an item which you want to change.,Inserisci un'oggetto desidiri cambiare.
+UI_ITEM_TRANSY_PUT1,Please input an item on the left column.,Inserisci un oggetto nella colonna di sinistra.
+UI_CHANGE_NAME_TITLE,Change Name,Cambia Nome
+UI_CHANGE_NAME_INPUT,Enter your new name,Inserisci il tuo nuovo nome
+UI_CHANGE_NAME_PET_TITLE,Change Pet Name,Cambia Nome del Animale Domestico
+UI_CHANGE_NAME_PET_INPUT,Leave empty to reset to the default name,Lasciare vuoto per ripristinare il nome predefinito
+UI_CHANGE_NAME_PET_LABEL,Pet Name:,Nome Animale Domestico:
+UI_NAVIGATOR_MARK,Mark:,Segno:
+UI_MAP_MARK_ADD,Add Mark,Aggiungi Segno
 UI_MAP_MARK_DELETE,Delete,Elimina
-UI_MAP_MARK_DELETE_ALL,Delete All,Elimina tutto
-UI_MAP_MARK_PUT_CHAT,Put it in the chat,Put it in the chat
-UI_MAP_MARK_CHANGE_NAME,Name Change,Cambio di nome
-UI_MAP_MARK,Position,Position
-UI_MAP_MARK_NAME_TITLE,Position Name Change,Position Name Change
-UI_MAP_MARK_NAME_INPUT,Please put new name,Per favore inserisci il nuovo nome
-UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Equipped ]
-UI_TOOLTIP_ACTIVESELF,Also Casted on You,Also Casted on You
-UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Also Casted on Target
-UI_TOOLTIP_CHANGEIFHAS,If you have %s,If you have %s
-UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,If the target has %s
-UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stacks Gained: %d
-UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stacks Gained: %d / %d (PvP)
-UI_ITEM_LINK_TITLE,Linked Item Info.,Linked Item Info.
-UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Use Coupon
-UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Do you want to use it now?,You have a Free Coupon. Do you want to use it now?
-UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,Using the Free Coupon.
-UI_GUILD_MEMBER_TIP,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d
-UI_REMOVE_ELEM_TITLE,Apply Attribute,Apply Attribute
-UI_REMOVE_ELEM_MSG,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?
-UI_HOME_LOGIN_ENTER_TIP,Enter Account ID,Enter Account ID
-UI_HOME_PASSWORD_TIP,Enter Password,Enter Password
-UI_CHAT_NORMAL_TIP,Send normal messages.,Send normal messages.
-UI_CHAT_WHISPER_TIP,Send whispering messages.,Send whispering messages.
-UI_CHAT_SHOUT_TIP,Send shouting messages.,Send shouting messages.
-UI_CHAT_PARTY_TIP,Send messages to party members.,Send messages to party members.
-UI_CHAT_GUILD_TIP,Sending messages to guild members.,Sending messages to guild members.
-UI_CHAT_SYSTEM_TIP,Open System Message Window,Open System Message Window
-UI_CHAT_FILTER_TIP,Filter function which allows you to filter the chatting.,Filter function which allows you to filter the chatting.
-UI_MESSENGER_MEMO_TIP,Able to check received messages when you are disconnected.,Able to check received messages when you are disconnected.
-UI_GUILD_WAR_DECLARE_TIP,Request a Guild Duel,Request a Guild Duel
-UI_GUILD_WAR_PEACE_TIP,Propose a truce to the senseless violence and fighting.,Propose a truce to the senseless violence and fighting.
-UI_GUILDBANK_SUPPORT_TIP,Make a Contribution to your Guild.,Make a Contribution to your Guild.
-UI_GUILDBANK_CLOAK_TIP,Create a Guild Cloak with the logo you selected. (Guild Level 4),Create a Guild Cloak with the logo you selected. (Guild Level 4)
-UI_GUILDBANK_LOG_TIP,Open Guild Bank Log window.,Open Guild Bank Log window.
-UI_APP_DEBUG_TIP,Debug Window,Debug Window
-UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Summon Info-Pang.
+UI_MAP_MARK_DELETE_ALL,Delete All,Elimina Tutti
+UI_MAP_MARK_PUT_CHAT,Put it in the chat,Mettilo nella chat
+UI_MAP_MARK_CHANGE_NAME,Name Change,Cambio di Nome
+UI_MAP_MARK,Position,Posizione
+UI_MAP_MARK_NAME_TITLE,Position Name Change,Cambio di Nome Posizione
+UI_MAP_MARK_NAME_INPUT,Please put new name,Inserisci nuovo nome
+UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Equipaggiato ]
+UI_TOOLTIP_ACTIVESELF,Also Casted on You,Anche lanciato su di te
+UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Anche lanciato sul bersaglio
+UI_TOOLTIP_CHANGEIFHAS,If you have %s,Se hai %s
+UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,Se il bersaglio ha %s
+UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stack Ottenuti: %d
+UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stack Ottenuti: %d / %d (PvP)
+UI_ITEM_LINK_TITLE,Linked Item Info.,Info del Oggetto Legato
+UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Usa Coupon
+UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Do you want to use it now?,Hai un coupon gratuito. Vuoi utilizzarlo adesso?
+UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,Usando il coupon gratuito.
+UI_GUILD_MEMBER_TIP,#b%s#nb\nContribution: %s\nPenya Contribution: %s\nNumber of times surrendered: %d,#b%s#nb\nContributo: %s\nContributo Penya: %s\nNumero di volte ceduto: %d
+UI_REMOVE_ELEM_TITLE,Apply Attribute,Applica Attributo
+UI_REMOVE_ELEM_MSG,You can only trade or unequip the item after removing its elemental attributes. Will you remove them?,Puoi scambiare o rimuovere l'equipaggiamento solo dopo aver rimosso i suoi attributi elementali. Vuoi rimuoverli?
+UI_HOME_LOGIN_ENTER_TIP,Enter Account ID,Inserisci Account ID
+UI_HOME_PASSWORD_TIP,Enter Password,Inserisci Password
+UI_CHAT_NORMAL_TIP,Send normal messages.,Invia messaggi normali.
+UI_CHAT_WHISPER_TIP,Send whispering messages.,Invia messaggi sussurrati.
+UI_CHAT_SHOUT_TIP,Send shouting messages.,Invia messaggi urlati.
+UI_CHAT_PARTY_TIP,Send messages to party members.,Invia messaggi ai membri del gruppo.
+UI_CHAT_GUILD_TIP,Sending messages to guild members.,Invia messaggi ai membri della gilda.
+UI_CHAT_SYSTEM_TIP,Open System Message Window,Apri Finestra Messaggi Sistema
+UI_CHAT_FILTER_TIP,Filter function which allows you to filter the chatting.,Funzione filtro che consente di filtrare le chat.
+UI_MESSENGER_MEMO_TIP,Able to check received messages when you are disconnected.,Possibilità di controllare i messaggi ricevuti quando si è disconnessi.
+UI_GUILD_WAR_DECLARE_TIP,Request a Guild Duel,Richiedi un Duello tra Gilde
+UI_GUILD_WAR_PEACE_TIP,Propose a truce to the senseless violence and fighting.,Proponi una tregua alla violenza e ai combattimenti insensati.
+UI_GUILDBANK_SUPPORT_TIP,Make a Contribution to your Guild.,Contribuisci alla tua gilda.
+UI_GUILDBANK_CLOAK_TIP,Create a Guild Cloak with the logo you selected. (Guild Level 4),Crea un mantello della gilda con il logo che hai selezionato. (Livello gilda 4)
+UI_GUILDBANK_LOG_TIP,Open Guild Bank Log window.,Apri la finestra Registro Banca della Gilda.
+UI_APP_DEBUG_TIP,Debug Window,Finestra Debug
+UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Evoca Info-Pang.
 UI_APP_FAQ_TIP,FAQ,FAQ
 UI_APP_TIPS_TIP,Tips,Suggerimenti
 UI_APP_HELP_TIP,Help,Aiuta
-UI_APP_GUILD_TIP,Manage your Guild.,Manage your Guild.
-UI_APP_PARTY_TIP,Manage your Party.,Manage your Party.
-UI_APP_COUPLE_TIP,Manage your Couple.,Manage your Couple.
-UI_APP_MESSENGER_TIP,Manage your Friends List,Manage your Friends List
-UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,Displays the duration of Cash Shop items.
-UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,Opens the Premium Item Shop.
-UI_APP_QUEST_TIP,Shows the Quest Diary.,Shows the Quest Diary.
-UI_APP_PRIVATESHOP_TIP,Allows you to open a Private Shop.,Allows you to open a Private Shop.
-UI_APP_SKILL_TIP,Displays the Skills Menu.,Displays the Skills Menu.
-UI_APP_INVENTORY_TIP,Opens your inventory.,Opens your inventory.
-UI_APP_CHARINFO_TIP,Shows detailed information about your character.,Shows detailed information about your character.
-UI_APP_MOTION_TIP,Use emoticons and motions to express yourself.,Use emoticons and motions to express yourself.
-UI_APP_STATUS_TIP,Character Status,Character Status
-UI_APP_CHAT_TIP,Open a chat window.,Open a chat window.
-UI_APP_QUIT_TIP,Exit Program,Exit Program
-UI_APP_SUPPORT_TIP,Open the Customer Support.,Open the Customer Support.
-UI_APP_PRIVACY_TIP,Open the privacy tab.,Open the privacy tab.
+UI_APP_GUILD_TIP,Manage your Guild.,Gestisci la tua Gilda.
+UI_APP_PARTY_TIP,Manage your Party.,Gestisci il tuo Gruppo.
+UI_APP_COUPLE_TIP,Manage your Couple.,Gestisci la tua Coppia.
+UI_APP_MESSENGER_TIP,Manage your Friends List,Gestisci la tua Lista di Amici.
+UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,Visualizza la durata degli oggetti del negozio Cash Shop.
+UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,Apre il Negozio di Oggetti Premium.
+UI_APP_QUEST_TIP,Shows the Quest Diary.,Mostra il Diario delle Missioni.
+UI_APP_PRIVATESHOP_TIP,Allows you to open a Private Shop.,Consente di aprire un Negozio Privato.
+UI_APP_SKILL_TIP,Displays the Skills Menu.,Visualizza il menu delle abilità.
+UI_APP_INVENTORY_TIP,Opens your inventory.,Apre il tuo inventario.
+UI_APP_CHARINFO_TIP,Shows detailed information about your character.,Mostra informazioni dettagliate sul tuo personaggio.
+UI_APP_MOTION_TIP,Use emoticons and motions to express yourself.,Usa emoticon e movimenti per esprimerti.
+UI_APP_STATUS_TIP,Character Status,Stato del personaggio
+UI_APP_CHAT_TIP,Open a chat window.,Apri una finestra chat.
+UI_APP_QUIT_TIP,Exit Program,Esci dal Programma
+UI_APP_SUPPORT_TIP,Open the Customer Support.,Apri il Servizio Clienti.
+UI_APP_PRIVACY_TIP,Open the privacy tab.,Apri la scheda Privacy.
 UI_APP_LOGOUT_TIP,Logout,Disconnettersi
-UI_APP_OPTION_TIP,Option,Opzioni
-UI_APP_MAP_TIP,A Map of the World,A Map of the World
-UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,A mini-map to help you find your way.
-UI_APP_NOTICE_TIP,Notice,Notice
-UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Basic Keyboard Mode
-UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Apply for Guild Siege
-UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Application Fee,Total Application Fee
-UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION_TIP,"Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild."
-UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION,Current Application Fee,Current Application Fee
-UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION_TIP,Select a blank space and input the application fee,Select a blank space and input the application fee
-UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Prize Details,Prize Details
-UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero
-UI_GUILDCOMBAT_OFFER_CONFIRM,You have paid %d penya. Do you want to pay additional %d penya?,You have paid %d penya. Do you want to pay additional %d penya?
-UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Apply for Guild Siege.,Apply for Guild Siege.
-UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For prize details, please ask the Guild Manager, Donaris.","For prize details, please ask the Guild Manager, Donaris."
-UI_GUILDCOMBAT_STATE_TITLE,Present Guild Siege Application Requirements,Present Guild Siege Application Requirements
-UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,Time Left
-UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time left until next Guild Siege,Time left until next Guild Siege
-UI_GUILDCOMBAT_STATE_TOTALBID,Total Bid:,Total Bid:
-UI_GUILDCOMBAT_STATE_TOTALBID_TIP,"From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.","From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild."
-UI_GUILDCOMBAT_STATE_BIDRANKING,Bid Ranking,Bid Ranking
-UI_GUILDCOMBAT_STATE_BIDRANKING_TIP,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.
-UI_GUILDCOMBAT_STATE_CURRENTMINIMUM,Current Minimum Bid,Current Minimum Bid
-UI_GUILDCOMBAT_STATE_CURRENTMINIMUM_TIP,Current Guild Bid:,Current Guild Bid:
+UI_APP_OPTION_TIP,Option,Opzione
+UI_APP_MAP_TIP,A Map of the World,Una Mappa del Mondo
+UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,Una mini-mappa per aiutarti a orientarti.
+UI_APP_NOTICE_TIP,Notice,Avviso
+UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Modalità Tastiera di Base
+UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Richiedi l'Assedio della Gilda
+UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Application Fee,Totale delle quote di iscrizione
+UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION_TIP,"Of the total application fees paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.",Il 35% delle quote di iscrizione totali versate dalle 10 gilde che hanno pagato di più viene corrisposto alla gilda vincitrice.
+UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION,Current Application Fee,Quota di iscrizione attuale
+UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION_TIP,Select a blank space and input the application fee,Seleziona uno spazio vuoto e inserisci la quota di iscrizione
+UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Prize Details,Dettagli del Premio
+UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Wins Straight: Dragon Cloak of the Adept\n3 Wins Straight: Dragon Cloak of the Master\n4 Wins Straight: Dragon Cloak of the Hero,1 vittoria: Mantello del Drago dell'Iniziato\n2 vittorie consecutive: Mantello del Drago dell'Adepto\n3 vittorie consecutive: Mantello del Drago del Maestro\n4 vittorie consecutive: Mantello del Drago dell'Eroe
+UI_GUILDCOMBAT_OFFER_CONFIRM,You have paid %d penya. Do you want to pay additional %d penya?,Hai pagato %d penya. Vuoi pagare altri %d penya?
+UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Apply for Guild Siege.,Richiedi l'Assedio della Gilda
+UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For prize details, please ask the Guild Manager, Donaris.","Per i dettagli sui premi, rivolgersi al Manager della Gilda, Donaris."
+UI_GUILDCOMBAT_STATE_TITLE,Present Guild Siege Application Requirements,Requisiti per presentare la richiesta di Assedio della Gilda
+UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,Tempo rimanente
+UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time left until next Guild Siege,Tempo rimanente fino al prossimo Assedio della Gilda
+UI_GUILDCOMBAT_STATE_TOTALBID,Total Bid:,Offerta totale:
+UI_GUILDCOMBAT_STATE_TOTALBID_TIP,"From the combined bids paid by the 10 highest paying Guilds, 35% is paid to the winning Guild.",Il 35% delle offerte combinate pagate dalle 10 Gilde che hanno offerto di più viene versato alla Gilda vincitrice.
+UI_GUILDCOMBAT_STATE_BIDRANKING,Bid Ranking,Classifica delle Offerte
+UI_GUILDCOMBAT_STATE_BIDRANKING_TIP,Your Guild cannot join a Guild Siege if your Guild Bid is ranked below 10th place. Please try again.,La tua Gilda non può partecipare all'Assedio della Gilda se la sua offerta è inferiore al 10° posto in classifica. Riprova.
+UI_GUILDCOMBAT_STATE_CURRENTMINIMUM,Current Minimum Bid,Offerta Minima Attuale
+UI_GUILDCOMBAT_STATE_CURRENTMINIMUM_TIP,Current Guild Bid:,Offerta Attuale della Gilda:
 UI_GUILDCOMBAT_STATE_APPLY,Apply,Applica
-UI_GUILDCOMBAT_STATE_APPLY_TIP,Show Guild Siege Application Menu.,Show Guild Siege Application Menu.
-UI_GUILDCOMBAT_STATE_REFRESH,Refresh,Refresh
-UI_GUILDCOMBAT_STATE_REFRESH_TIP,Review present Guild Siege Application Requirements.,Review present Guild Siege Application Requirements.
-UI_GUILDCOMBAT_STATE_LIST_TIP,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.
-UI_GUILDCOMBAT_CANCEL_TITLE,Guild Siege - Cancel Application,Guild Siege - Cancel Application
-UI_GUILDCOMBAT_CANCEL_MSG,Do you want to withdraw from the Guild Siege?,Do you want to withdraw from the Guild Siege?
-UI_GUILDCOMBAT_SELECT_TITLE,Set Entry List for Guild Siege,Set Entry List for Guild Siege
-UI_GUILDCOMBAT_SELECT_CONNECTED,Connected Guild Members,Connected Guild Members
-UI_GUILDCOMBAT_SELECT_ENTRANT,Entrant List,Entrant List
-UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Add a connected Guild Member to the entrant list.
-UI_GUILDCOMBAT_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Delete a Guild Member from the entrant list.
-UI_GUILDCOMBAT_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Arrange the selected Guild member to the upper side.
-UI_GUILDCOMBAT_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Arrange the selected Guild member to the lower side.
-UI_GUILDCOMBAT_SELECT_COMPLETE,Complete,Complete
-UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Complete the entry list.,Complete the entry list.
-UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,Defender
-UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Selecting the defender,Selecting the defender
-UI_GUILDCOMBAT_SELECT_REMAKE,Remake,Remake
-UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Remake the entry list.,Remake the entry list.
-UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents will get bonus point when your Guild Defender is killed.,Opponents will get bonus point when your Guild Defender is killed.
-UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting %d members (Maximum %d),Register your team. Starting %d members (Maximum %d)
-UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,5 selected members will join the Guild Siege first. Please make an entrant list.,5 selected members will join the Guild Siege first. Please make an entrant list.
-UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Would like to organize line up for guild siege again?,Would like to organize line up for guild siege again?
-UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Introduction,Guild Siege Introduction
-UI_GUILDCOMBAT_TELE_MSG,Entrance has started. Would you like to teleport to the Guild Siege arena?,Entrance has started. Would you like to teleport to the Guild Siege arena?
-UI_GUILDCOMBAT_JOIN_TITLE,Entering Guild Siege Arena,Entering Guild Siege Arena
-UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Do you join the Guild Siege?
-UI_NETWORK_ERROR_TITLE,Network Error,Errore di rete
-UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","A network error happened, please check your connection and login again."
-UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
+UI_GUILDCOMBAT_STATE_APPLY_TIP,Show Guild Siege Application Menu.,Mostra il Menu di Richiesta d'Assedio della Gilda.
+UI_GUILDCOMBAT_STATE_REFRESH,Refresh,Aggiorna
+UI_GUILDCOMBAT_STATE_REFRESH_TIP,Review present Guild Siege Application Requirements.,Rivedi i requisiti per partecipare all'Assedio della Gilda.
+UI_GUILDCOMBAT_STATE_LIST_TIP,The 10 Guilds that bid the highest amount of penya can join the Guild Siege.,Le 10 gilde che hanno offerto la somma più alta di penya possono partecipare all'Assedio della Gilda.
+UI_GUILDCOMBAT_CANCEL_TITLE,Guild Siege - Cancel Application,Assedio della Gilda - Annulla Richiesta
+UI_GUILDCOMBAT_CANCEL_MSG,Do you want to withdraw from the Guild Siege?,Vuoi ritirarti dall'Assedio della Gilda?
+UI_GUILDCOMBAT_SELECT_TITLE,Set Entry List for Guild Siege,Imposta l'Elenco dei Partecipanti all'Assedio della Gilda
+UI_GUILDCOMBAT_SELECT_CONNECTED,Connected Guild Members,Membri della Gilda Collegati
+UI_GUILDCOMBAT_SELECT_ENTRANT,Entrant List,Elenco dei Partecipanti
+UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Aggiungi un Membro della Gilda collegato all'elenco dei partecipanti.
+UI_GUILDCOMBAT_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Elimina un Membro della Gilda dall'elenco dei partecipanti.
+UI_GUILDCOMBAT_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Sposta il Membro della Gilda selezionato nella parte superiore.
+UI_GUILDCOMBAT_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Sposta il Membro della Gilda selezionato nella parte inferiore.
+UI_GUILDCOMBAT_SELECT_COMPLETE,Complete,Completa
+UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Complete the entry list.,Completa l'elenco delle iscrizioni.
+UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,Difensore
+UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Selecting the defender,Seleziona il difensore
+UI_GUILDCOMBAT_SELECT_REMAKE,Remake,Rifare
+UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Remake the entry list.,Rifare l'elenco delle iscrizioni.
+UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents will get bonus point when your Guild Defender is killed.,Gli avversari otterranno punti bonus quando il tuo Difensore della Gilda verrà ucciso.
+UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting %d members (Maximum %d),Registra la tua squadra. Inizio %d membri (massimo %d)
+UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,5 selected members will join the Guild Siege first. Please make an entrant list.,5 membri selezionati parteciperanno per primi all'Assedio della Gilda. Crea una lista dei partecipanti.
+UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Would like to organize line up for guild siege again?,Desideri organizzare nuovamente la formazione per l'Assedio della Gilda?
+UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Introduction,Introduzione all'Assedio della Gilda
+UI_GUILDCOMBAT_TELE_MSG,Entrance has started. Would you like to teleport to the Guild Siege arena?,L'ingresso è iniziato. Vuoi teletrasportarti nell'arena dell'Assedio della Gilda?
+UI_GUILDCOMBAT_JOIN_TITLE,Entering Guild Siege Arena,Entrando nell'arena dell'Assedio della Gilda
+UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Vuoi partecipare all'Assedio della Gilda?
+UI_NETWORK_ERROR_TITLE,Network Error,Errore di Rete
+UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","Si è verificato un errore di rete, si prega di controllare la connessione e di effettuare nuovamente il login."
+UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Luogo della Resurrezione
 UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Sei entrato nella prima zona.
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Sei entrato nella seconda zona.
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Sei entrato nella terza zona.
@@ -938,524 +938,524 @@ UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Sei entrato nella qu
 UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Sei entrato nella quinta zona.
 UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Sei entrato nella sesta zona.
 UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Sei entrato nella settima zona.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Sei entrato nell’ottava zona.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Select the zone you wish to enter.
-UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
-UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Random
-UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
-UI_GUILDCOMBAT_RATE,Current rank:,Current rank:
-UI_GUILDCOMBAT_PERSON_RATE,Individual rank:,Individual rank:
-UI_TOOLTIP_EXPBOX,#b%s's exp box#nb\nThe time left: %s,#b%s's exp box#nb\nThe time left: %s
-UI_GUILDCOMBAT_JOIN_READY,Gain entrance when one of your guild mates dies.,Gain entrance when one of your guild mates dies.
-UI_GUILDCOMBAT_JOIN_READY2,Be ready!,Be ready!
-UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.
-UI_GUILDCOMBAT_LOG_MASTER,Guild Master,Guild Master
-UI_GUILDCOMBAT_LOG_DEFENDER,Defender,Defender
-UI_GUILDCOMBAT_RESULT_TITLE,Guild & Member Ranking,Guild & Member Ranking
-UI_GUILDCOMBAT_RESULT_GUILD,Guild Ranking,Guild Ranking
-UI_GUILDCOMBAT_RESULT_MEMBER,Member Ranking,Member Ranking
-UI_GUILDCOMBAT_RESULT_RANK,United Rank,United Rank
-UI_GUILDCOMBAT_RESULT_LOG,Battle Log,Battle Log
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Sei entrato nell'ottava zona.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Seleziona la zona in cui desideri entrare.
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",Tra %d secondi entrerai nella zona %s.
+UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Casuale
+UI_CHAT_ADMIN,[Admin] %s,[Amministratore] %s
+UI_GUILDCOMBAT_RATE,Current rank:,Classifica attuale:
+UI_GUILDCOMBAT_PERSON_RATE,Individual rank:,Classifica individuale:
+UI_TOOLTIP_EXPBOX,#b%s's exp box#nb\nThe time left: %s,#b%s's scatola exp#nb\nTempo rimanente: %s
+UI_GUILDCOMBAT_JOIN_READY,Gain entrance when one of your guild mates dies.,Ottieni l'accesso quando uno dei tuoi compagni di gilda muore.
+UI_GUILDCOMBAT_JOIN_READY2,Be ready!,Tieniti pronto!
+UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] has killed [%s]%s [%s] and has gained %d points.,[%s]%s [%s] ha ucciso [%s]%s [%s] e ha guadagnato %d punti.
+UI_GUILDCOMBAT_LOG_MASTER,Guild Master,Maestro della Gilda
+UI_GUILDCOMBAT_LOG_DEFENDER,Defender,Difensore
+UI_GUILDCOMBAT_RESULT_TITLE,Guild & Member Ranking,Classifica delle Gilde e dei Membri
+UI_GUILDCOMBAT_RESULT_GUILD,Guild Ranking,Classifica delle Gilde
+UI_GUILDCOMBAT_RESULT_MEMBER,Member Ranking,Classifica dei Membri
+UI_GUILDCOMBAT_RESULT_RANK,United Rank,Classifica Unificata
+UI_GUILDCOMBAT_RESULT_LOG,Battle Log,Registro delle Battaglie
 UI_GUILDCOMBAT_LOG_GUILD,[%s],[%s]
-UI_GUILDCOMBAT_LOG1,Basic Point +2,Basic Point +2
-UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,Guild Master Bonus +1
-UI_GUILDCOMBAT_LOG3,Defender Bonus +1,Defender Bonus +1
-UI_GUILDCOMBAT_LOG4,Kill bonus +1,Kill bonus +1
-UI_GUILDCOMBAT_LOG5,Resurrecting Bonus +1,Resurrecting Bonus +1
-UI_GUILDCOMBAT_LOG6,Killing streak Bonus +%d,Killing streak Bonus +%d
-UI_GUILDCOMBAT_LOG_POINT,(%d grade),(%d grade)
-UI_GUILDCOMBAT_LOG_ATTACK,Attack,Attack
-UI_GUILDBANK_GUILDCOMBAT_CLOAK_TIP,Creating Dragon Cloak (The condition: For the guild which wins the guild war).,Creating Dragon Cloak (The condition: For the guild which wins the guild war).
-UI_GUILDBANK_GUILDCOMBAT_CREATE_CLOAK,"It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?","It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?"
-UI_GUILDCOMBAT_RANKING_TITLE,Guild Member Ranking,Guild Member Ranking
-UI_GUILDCOMBAT_RANKING_RANK,Rank,Rank
-UI_GUILDCOMBAT_RANKING_POINT,Grade,Grade
+UI_GUILDCOMBAT_LOG1,Basic Point +2,Punto base +2
+UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,Bonus Maestro di Gilda +1
+UI_GUILDCOMBAT_LOG3,Defender Bonus +1,Bonus Difensore +1
+UI_GUILDCOMBAT_LOG4,Kill bonus +1,Bonus Uccisione +1
+UI_GUILDCOMBAT_LOG5,Resurrecting Bonus +1,Bonus Resurrezione +1
+UI_GUILDCOMBAT_LOG6,Killing streak Bonus +%d,Bonus Serie di uccisioni +%d
+UI_GUILDCOMBAT_LOG_POINT,(%d grade),(%d grado)
+UI_GUILDCOMBAT_LOG_ATTACK,Attack,Attacco
+UI_GUILDBANK_GUILDCOMBAT_CLOAK_TIP,Creating Dragon Cloak (The condition: For the guild which wins the guild war).,Creazione del Mantello del Drago (Condizione: per la gilda vincitrice della guerra tra gilde).
+UI_GUILDBANK_GUILDCOMBAT_CREATE_CLOAK,"It takes 10,000 penya to create a Dragon Cloak. Would you like to create it?",Per creare un Mantello del Drago occorrono 10.000 penya. Desideri crearlo?
+UI_GUILDCOMBAT_RANKING_TITLE,Guild Member Ranking,Classifica dei Membri della Gilda
+UI_GUILDCOMBAT_RANKING_RANK,Rank,Rango
+UI_GUILDCOMBAT_RANKING_POINT,Grade,Grado
 UI_WORLD_DEVICEMOTION_TIP,Motion,Movimento
-UI_WORLD_TURBO_TIP,Fuel,Fuel
-UI_NAVIGATOR_SHIP,Ship,Ship
-UI_OPTION_TOON_STYLE,Outline,Outline
-UI_OPTION_RIM_OUTLINE,Rim Outlines,Rim Outlines
-UI_APP_WIKI_TIP,Get help from Wiki,Get help from Wiki
-UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,I challenge you to a game of Rock-Paper-Scissors!
+UI_WORLD_TURBO_TIP,Fuel,Carburante
+UI_NAVIGATOR_SHIP,Ship,Nave
+UI_OPTION_TOON_STYLE,Outline,Contorno
+UI_OPTION_RIM_OUTLINE,Rim Outlines,Contorni del Bordo
+UI_APP_WIKI_TIP,Get help from Wiki,Ottieni aiuto da Wiki
+UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,Ti sfido a una partita a Sasso-Carta-Forbice!
 UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,Sasso-Carta-Forbici
 UI_ROSHAMBO_VS,VS,VS
-UI_ROSHAMBO_SCISSOR,Scissors,Scissors
-UI_ROSHAMBO_ROCK,Rock,Rock
-UI_ROSHAMBO_PAPER,Paper,Paper
-UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d win(s)
-UI_ROSHAMBO_DEFEAT,You Lose!,You Lose!
-UI_ROSHAMBO_WIN_TITLE,You Win!,You Win!
-UI_ROSHAMBO_WIN_END,End,End
+UI_ROSHAMBO_SCISSOR,Scissors,Forbici
+UI_ROSHAMBO_ROCK,Rock,Sasso
+UI_ROSHAMBO_PAPER,Paper,Carta
+UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d vittorie
+UI_ROSHAMBO_DEFEAT,You Lose!,Hai Perso!
+UI_ROSHAMBO_WIN_TITLE,You Win!,Hai Vinto!
+UI_ROSHAMBO_WIN_END,End,Fine
 UI_ROSHAMBO_WIN_NEXT,Next,Avanti
-UI_ROSHAMBO_WIN_MSG,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -
-UI_ROSHAMBO_WIN_MSG2,Please Note: You will not receive your current prize if you choose to continue playing.,Please Note: You will not receive your current prize if you choose to continue playing.
-UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Congratulations, you won %d time(s)! You receive %s x%d."
-UI_EXCHANGE_COUNT_TITLE,Input item quantity,Input item quantity
-UI_EXCHANGE_COUNT_MSG,How many?,How many?
-UI_EXCHANGE_COUNT_LABEL,Number:,Number:
-UI_TOOLTIP_PET_REAR,[Raised Pet],[Raised Pet]
-UI_TOOLTIP_PET_PICKUP,[Pick-Up Pet],[Pick-Up Pet]
-UI_PET_GRADE_0,Egg,Egg
-UI_PET_GRADE_1,F Tier,F Tier
-UI_PET_GRADE_2,E Tier,E Tier
-UI_PET_GRADE_3,D Tier,D Tier
-UI_PET_GRADE_4,C Tier,C Tier
-UI_PET_GRADE_5,B Tier,B Tier
-UI_PET_GRADE_6,A Tier,A Tier
-UI_PET_GRADE_7,S Tier,S Tier
+UI_ROSHAMBO_WIN_MSG,Press END if you want to claim your current prize and stop playing or press NEXT to continue playing for more prizes -,Premi FINE se desideri richiedere il tuo premio attuale e smettere di giocare oppure premi AVANTI per continuare a giocare e vincere altri premi-
+UI_ROSHAMBO_WIN_MSG2,Please Note: You will not receive your current prize if you choose to continue playing.,"Nota Bene: Se decidi di continuare a giocare, non riceverai il premio attuale."
+UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Congratulazioni, hai vinto %d volte! Ricevi %s x%d."
+UI_EXCHANGE_COUNT_TITLE,Input item quantity,Quantità articolo immessa
+UI_EXCHANGE_COUNT_MSG,How many?,Quanti?
+UI_EXCHANGE_COUNT_LABEL,Number:,Numero:
+UI_TOOLTIP_PET_REAR,[Raised Pet],[Animale Domestico]
+UI_TOOLTIP_PET_PICKUP,[Pick-Up Pet],[Compagno Raccoglitore]
+UI_PET_GRADE_0,Egg,Uovo
+UI_PET_GRADE_1,F Tier,Livello F
+UI_PET_GRADE_2,E Tier,Livello E
+UI_PET_GRADE_3,D Tier,Livello D
+UI_PET_GRADE_4,C Tier,Livello C
+UI_PET_GRADE_5,B Tier,Livello B
+UI_PET_GRADE_6,A Tier,Livello A
+UI_PET_GRADE_7,S Tier,Livello S
 UI_PET_EXP_MAX,Exp: 99.99%,Exp: 99.99%
 UI_PET_EXP,Exp: %.2f%%,Exp: %.2f%%
 UI_TOOLTIP_ABILITY,Bonus,Bonus
-UI_PET_HP,Energy: %d / %d,Energy: %d / %d
+UI_PET_HP,Energy: %d / %d,Energia: %d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
-UI_PET_DEAD,(DEAD),(DEAD)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
-UI_TARGET_CLEAR,Clear the target,Clear the target
+UI_PET_DEAD,(DEAD),(MORTO)
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,Livello ricalcolato con pergamena:
+UI_TARGET_CLEAR,Clear the target,Cancella il bersaglio
 UI_OPTION_TAB_UI,Interface,Interfaccia
-UI_OPTION_AUTO_ATTACK,Auto Attack,Auto Attack
-UI_OPTION_FIXED_CAMERA,Fixed Camera,Fixed Camera
-UI_OPTION_OTHER_DAMAGES,Display all damage,Display all damage
-UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Hide other Players
-UI_OPTION_TRANSPARENT_CHAT,Transparent chat,Transparent chat
-UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Right Click Player Menu
-UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,MP & FP Gauges
-UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Enables FP & MP gauges above the player.
-UI_OPTION_SELECT_PETS,Select Pets,Select Pets
-UI_FACE_SHOP_TITLE,Plastic Surgery,Plastic Surgery
-UI_FACE_SHOP_BASE_FACE,Friendly Face,Friendly Face
-UI_FACE_SHOP_NEW_FACE,New Face,New Face
-UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Spell Range: %d
+UI_OPTION_AUTO_ATTACK,Auto Attack,Attacco Automatico
+UI_OPTION_FIXED_CAMERA,Fixed Camera,Camera Fissa
+UI_OPTION_OTHER_DAMAGES,Display all damage,Mostra tutti i danni
+UI_OPTION_HIDE_OTHER_PLAYERS,Hide other Players,Nascondi altri Giocatori
+UI_OPTION_TRANSPARENT_CHAT,Transparent chat,Chat trasparente
+UI_OPTION_RIGHT_CLICK_MENU,Right Click Player Menu,Menu Player con Click Destro
+UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,Misuratori MP e FP
+UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,Abilita gli misuratori FP e MP sopra il giocatore.
+UI_OPTION_SELECT_PETS,Select Pets,Seleziona animali domestici
+UI_FACE_SHOP_TITLE,Plastic Surgery,Chirurgia plastica
+UI_FACE_SHOP_BASE_FACE,Friendly Face,Volto amichevole
+UI_FACE_SHOP_NEW_FACE,New Face,Volto nuovo
+UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Portata dell'incantesimo: %d
 UI_TOOLTIP_COMBO_TYPE,Combo: %s,Combo: %s
-UI_TOOLTIP_COMBO_STEP,Step,Step
-UI_TOOLTIP_COMBO_CIRCLE,Circle,Circle
-UI_TOOLTIP_COMBO_FINISH,Finish,Finish
-UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Base Damage: %d ~ %d
-UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Attack Scaling
-UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heal Scaling
-UI_TOOLTIP_SCALE_TIME,Time Scaling,Time Scaling
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
-UI_TOOLTIP_SCALE_PARAM,Scaling,Scaling
+UI_TOOLTIP_COMBO_STEP,Step,Passo
+UI_TOOLTIP_COMBO_CIRCLE,Circle,Cerchio
+UI_TOOLTIP_COMBO_FINISH,Finish,Fine
+UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Danno base: %d ~ %d
+UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Scalabilità Attacco
+UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Scalabilità Cura
+UI_TOOLTIP_SCALE_TIME,Time Scaling,Scalabilità Tempo
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dic. Scala dei tempi di ricarica
+UI_TOOLTIP_SCALE_PARAM,Scaling,Scalabilità
 UI_TOOLTIP_SCALE_PARAM_PER,per,per
 UI_TOOLTIP_SCALE_PARAM_MAX,max,max
 UI_TOOLTIP_PVP,PVP,PVP
 UI_TOOLTIP_PVE,PVE,PVE
-UI_TOOLTIP_AROUND,Around,Around
-UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Base Heal: %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
-UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP & Giants)
-UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probability: %d%%
-UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Giants)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
-UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Cooldown: %.2d:%.2d
+UI_TOOLTIP_AROUND,Around,Intorno
+UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Guarigione base: %d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Guarigione MP base: %d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Guarigione FP base: %d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Ora di base: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (PVP e Giganti)
+UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probabilità: %d%%
+UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (PVP & Giganti)
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Probabilità di Abbattimento: %d%%
+UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Tempo di ricarica: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PVP),/ %.2d:%.2d (PVP)
-UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Cooldown: %.2d:%.2d (PVP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
-UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Casting Time: %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
-UI_NEWCHAR_FACE,Face,Face
-UI_NEWCHAR_HAIR,Hair,Hair
-UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
-UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Press the Scroll Lock Key to toggle.
-UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
-UI_KEYBIND_MOVE_FORWARD,Move Forward,Move Forward
-UI_KEYBIND_MOVE_BACKWARD,Move Backward,Move Backward
-UI_KEYBIND_TURN_LEFT,Turn Left,Turn Left
-UI_KEYBIND_TURN_RIGHT,Turn Right,Turn Right
-UI_KEYBIND_JUMP,Jump,Jump
-UI_KEYBIND_WALK,Toggle Run/Walk,Toggle Run/Walk
+UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Tempo di ricarica: %.2d:%.2d (PVP)
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(Dopo la scadenza)
+UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Tempo di lancio: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Tempo di ricarica: %.2d:%.2d
+UI_NEWCHAR_FACE,Face,Volto
+UI_NEWCHAR_HAIR,Hair,Capelli
+UI_NEWCHAR_HAIR_COLOR,Hair Color,Colore dei capelli
+UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,Zoom %dX. Premere il tasto Bloc Scorr per attivare/disattivare.
+UI_KEYBIND_CHAR_CONTROL,Movement Keys,Tasti di movimento
+UI_KEYBIND_MOVE_FORWARD,Move Forward,Avanti
+UI_KEYBIND_MOVE_BACKWARD,Move Backward,Indietro
+UI_KEYBIND_TURN_LEFT,Turn Left,Girare a sinistra
+UI_KEYBIND_TURN_RIGHT,Turn Right,Girare a destra
+UI_KEYBIND_JUMP,Jump,Saltare
+UI_KEYBIND_WALK,Toggle Run/Walk,Attiva/Disattiva corsa/camminata
 UI_KEYBIND_SKILL_COMBO,Action Slot,Slot Azione
-UI_KEYBIND_CLEAR_TARGET,Clear Target,Clear Target
-UI_KEYBIND_TRACE_TARGET,Follow Target,Follow Target
-UI_KEYBIND_SELECT_TARGET,Select PVP Target,Select PVP Target
-UI_KEYBIND_APPLETS,Windows,Windows
-UI_KEYBIND_CAMERA,Camera Control,Camera Control
-UI_KEYBIND_CAMERA_LEFT,Rotate Left,Rotate Left
-UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Rotate Right
-UI_KEYBIND_CAMERA_UP,Rotate Up,Rotate Up
-UI_KEYBIND_CAMERA_DOWN,Rotate Down,Rotate Down
-UI_KEYBIND_ZOOM_IN,Zoom In,Zoom In
-UI_KEYBIND_ZOOM_OUT,Zoom Out,Zoom Out
-UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Toggle Zoom
-UI_KEYBIND_TASKBAR,Taskbar Functions,Taskbar Functions
-UI_KEYBIND_TASKBAR_N,Taskbar %d,Taskbar %d
-UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Taskbar Slot %d
-UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2nd Bar Slot %d
-UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3rd Bar Slot %d
-UI_KEYBIND_TASKBAR2,Additional Taskbars,Additional Taskbars
-UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,Toggle Fullscreen
-UI_KEYBIND_MAIN_MENU,Main Menu,Main Menu
-UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Hide/Show UI
-UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Screenshot Mode
-UI_KEYBIND_GAME,Game Functions,Game Functions
-UI_KEYBIND_NONE,Not Bound,Not Bound
-UI_KEYBIND_UNBIND,Unbind the key,Unbind the key
-UI_KEYBIND_TITLE,Keys,Keys
-UI_KEYBIND_RESET,Reset,Reset
-UI_UPGRADECARD_TITLE,Socket Card Upgrade,Socket Card Upgrade
-UI_UPGRADECARD_REGISTER,Register material card.,Register material card.
-UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Fuse 10 material cards to receive 1 higher-grade card.
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Register weapon material card.
-UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Fuse 3 weapon material cards to receive 1 same grade card.
-UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?"
-UI_CONVERTSOULLINK_TITLE,Convert soul link,Convert soul link
-UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,You can convert the item a soul-linked type.
-UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,The converted item cannot be returned.\nDo you want to continue?
-UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,This item cannot be converted.
-UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?
+UI_KEYBIND_CLEAR_TARGET,Clear Target,Bersaglio chiaro
+UI_KEYBIND_TRACE_TARGET,Follow Target,Segui bersaglio
+UI_KEYBIND_SELECT_TARGET,Select PVP Target,Seleziona bersaglio PVP
+UI_KEYBIND_APPLETS,Windows,Finestre
+UI_KEYBIND_CAMERA,Camera Control,Controllo Camera
+UI_KEYBIND_CAMERA_LEFT,Rotate Left,Ruota a sinistra
+UI_KEYBIND_CAMERA_RIGHT,Rotate Right,Ruota a destra
+UI_KEYBIND_CAMERA_UP,Rotate Up,Ruota verso l'alto
+UI_KEYBIND_CAMERA_DOWN,Rotate Down,Ruota verso il basso
+UI_KEYBIND_ZOOM_IN,Zoom In,Avvicina
+UI_KEYBIND_ZOOM_OUT,Zoom Out,Allontana
+UI_KEYBIND_ZOOM_LEVEL,Toggle Zoom,Attiva/disattiva zoom
+UI_KEYBIND_TASKBAR,Taskbar Functions,Funzioni della Barra delle Applicazioni
+UI_KEYBIND_TASKBAR_N,Taskbar %d,Barra delle Applicazioni %d
+UI_KEYBIND_TASKBAR_SLOT,Taskbar Slot %d,Slot della Barra delle Applicazioni %d
+UI_KEYBIND_TASKBAR2_SLOT,2nd Bar Slot %d,2° Slot della Barra %d
+UI_KEYBIND_TASKBAR3_SLOT,3rd Bar Slot %d,3° Slot della Barra %d
+UI_KEYBIND_TASKBAR2,Additional Taskbars,Barre delle Applicazioni Aggiuntive
+UI_KEYBIND_FULLSCREEN,Toggle Fullscreen,Attiva/disattiva schermo intero
+UI_KEYBIND_MAIN_MENU,Main Menu,Menu principale
+UI_KEYBIND_TOGGLE_UI,Hide/Show UI,Nascondi/Mostra interfaccia utente
+UI_KEYBIND_TOGGLE_SCREENSHOT,Screenshot Mode,Modalità screenshot
+UI_KEYBIND_GAME,Game Functions,Funzioni di Gioco
+UI_KEYBIND_NONE,Not Bound,Non vincolato
+UI_KEYBIND_UNBIND,Unbind the key,Sblocca la chiave
+UI_KEYBIND_TITLE,Keys,Chiavi
+UI_KEYBIND_RESET,Reset,Reimposta
+UI_UPGRADECARD_TITLE,Socket Card Upgrade,Potenziamento Scheda Slot
+UI_UPGRADECARD_REGISTER,Register material card.,Registra scheda materiale.
+UI_UPGRADECARD_INFO,Fuse 10 material cards to receive 1 higher-grade card.,Fusione di 10 schede materiale per ottenere 1 scheda di grado superiore.
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Rimescolamento Scheda Slot Arma
+UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Registra Scheda Materiale Arma.
+UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Fusione di 3 schede materiale arma per ottenere 1 scheda dello stesso grado.
+UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","Se rimescoli le schede, quelle usate come materiale scompariranno. \nVuoi continuare?"
+UI_CONVERTSOULLINK_TITLE,Convert soul link,Converti Legato all'Anima
+UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,È possibile convertire l'oggetto in un tipo legato all'Anima.
+UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,L'oggetto convertito non può essere restituito. Vuoi continuare?
+UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,Questo oggetto non può essere convertito.
+UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,"La pergamena aumenterà in modo permanente di 5 il numero di membri che puoi avere in una gilda. Se ti unisci a un'altra gilda, non avrà alcun effetto sulla nuova gilda. Confermi l'uso?"
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
-UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bNext level %d#nb
-UI_CHANGECHANNEL_TITLE,Change Channel,Cambia canale
+UI_GUILD_TOOLTIP_LEVEL,#bNext level %d#nb,#bLivello successivo %d#nb
+UI_CHANGECHANNEL_TITLE,Change Channel,Cambia Canale
 UI_CHANGECHANNEL_MSG,Select channel:,Seleziona canale:
-UI_REPORT_TITLE,Report,Report
-UI_REPORT_PLAYER_LABEL,Player,Player
-UI_REPORT_REASON_LABEL,Reason,Reason
-UI_REPORT_MESSAGE_LABEL,Message,Message
-UI_REPORT_SEND,Send,Send
+UI_REPORT_TITLE,Report,Segnalazione
+UI_REPORT_PLAYER_LABEL,Player,Giocatore
+UI_REPORT_REASON_LABEL,Reason,Motivo
+UI_REPORT_MESSAGE_LABEL,Message,Messaggio
+UI_REPORT_SEND,Send,Invia
 UI_REPORT_REASON0,Botting,Botting
-UI_REPORT_REASON1,Real money transfer,Real money transfer
-UI_REPORT_REASON2,Cheating / hacking,Cheating / hacking
-UI_REPORT_REASON3,Bad behavior,Bad behavior
-UI_REPORT_REASON4,Insults,Insults
-UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.
-UI_APP_ACHIEVEMENTS_TIP,Displays the Achievements Menu.,Displays the Achievements Menu.
+UI_REPORT_REASON1,Real money transfer,Trasferimento di denaro reale
+UI_REPORT_REASON2,Cheating / hacking,Barare / hackerare
+UI_REPORT_REASON3,Bad behavior,Cattivo comportamento
+UI_REPORT_REASON4,Insults,Insulti
+UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Sei sicuro di voler segnalare %s?\n\nL'uso improprio di questa funzione potrebbe comportare il blocco del tuo account.
+UI_APP_ACHIEVEMENTS_TIP,Displays the Achievements Menu.,Visualizza il menu Obiettivi.
 UI_ACHIEVEMENTS_TITLE,Achievements,Obiettivi
-UI_ACHIEVEMENTS_GENERAL_TAB,General,General
-UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Monsters
-UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consumables
-UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
-UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
-UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Play time
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Login Streak
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Login Rewards
-UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
-UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,This achievement is bound to your account.
-UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster(s) to kill: %s.
-UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Item(s) to use: %s.
-UI_ACHIEVEMENTS_REWARD,Reward List,Reward List
-UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,Title: #b%s#nb
-UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Level %d
-UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Claimed
+UI_ACHIEVEMENTS_GENERAL_TAB,General,Generale
+UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Mostri
+UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Materiali di Consumo
+UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titoli e Distintivi
+UI_ACHIEVEMENTS_EVENTS_TAB,Events,Eventi
+UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Tempo di gioco
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Serie di Accessi
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Premi Accessi
+UI_ACHIEVEMENTS_DESCRIPTION,Description,Descrizione
+UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Questo obiettivo è legato al tuo account.
+UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Mostro/i da uccidere: %s.
+UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Oggetto/i da usare: %s.
+UI_ACHIEVEMENTS_REWARD,Reward List,Elenco dei Premi
+UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,Titolo: #b%s#nb
+UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Livello %d
+UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Rivendicato
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,Penya:
-UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,Item(s): %s
-UI_ACHIEVEMENTS_REWARD_ATK,Attack rate on target(s): %d%%,Attack rate on target(s): %d%%
-UI_ACHIEVEMENTS_PROGRESSION,Progression,Progression
-UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Level %d
-UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attack +%s%%
-UI_ACHIEVEMENTS_NOTITLE,No Title,No Title
-UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Do not show any title.
-UI_ACHIEVEMENTS_PVPTITLE,PVP Title,PVP Title
-UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(Currently ""%s"")"
-UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Show your current PVP title.,Show your current PVP title.
-UI_ACHIEVEMENTS_TITLES_SELECT,Select,Select
-UI_ACHIEVEMENTS_TITLES_FROM,From,From
-UI_ACHIEVEMENTS_CLAIMBTN,Claim,Claim
-UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Receive your rewards!
-UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Spin the wheel! Will you be lucky today?
-UI_ACHIEVEMENTS_AVAILABLE,Available,Available
-UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,This achievement has been completed!
-UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,Required Party Level: %d
-UI_TOOLTIP_PARTY_POINTS,Required Points: %d,Required Points: %d
-UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?
-UI_PARTY_PERMANENT,Permanent Party,Permanent Party
-UI_SEARCHPARTY_TITLE,Search Party,Search Party
-UI_SEARCHGUILD_TITLE,Search Guild,Search Guild
-UI_GROUPSEARCH,Search,Search
-UI_TOOLTIP_TRANSMUTE,Transmutation:,Transmutation:
-UI_TOOLTIP_RARITY,Rarity:,Rarity:
-UI_TOOLTIP_RARITY_NORMAL,Common,Common
-UI_TOOLTIP_RARITY_RARE,Uncommon,Uncommon
-UI_TOOLTIP_RARITY_STRONG,Rare,Rare
-UI_TOOLTIP_RARITY_UNIQUE,Unique,Unique
-UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Very Rare
-UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimate
-UI_WORLD_CASTING,Casting,Casting
-UI_WORLD_HARVESTING,Harvesting,Harvesting
-UI_WORLD_OPENING,Opening,Opening
-UI_WORLD_CHARGING,Charging,Charging
-UI_NAVIGATOR_LOCALTIME,Local Time,Local Time
-UI_NAVIGATOR_SERVERTIME,Server Time,Server Time
-UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Madrigal Time
-UI_UPGRADESAFE_STOP,Stop,Stop
-UI_UPGRADESAFE_RESET,Reset,Reset
-UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Power Dice
-UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sun Stone,Sun Stone
-UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Card
-UI_UPGRADESAFE_COST,#b%s#nb per attempt,#b%s#nb per attempt
-UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Piercing Goal
-UI_UPGRADESAFE_TARGET,Upgrade Goal,Upgrade Goal
-UI_UPGRADESAFE_CURRENT_PIERCING,~Piercings~,~Piercings~
-UI_UPGRADESAFE_CURRENT,~Current Value~,~Current Value~
-UI_SEARCHGROUP_MODE_NO,Not findable,Not findable
-UI_SEARCHGROUP_MODE_CONFIRM,Leader approval,Leader approval
-UI_SEARCHGROUP_MODE_FREE,Join freely,Join freely
-UI_GROUPSEARCH_REFRESH,Refresh,Refresh
-UI_GROUPSEARCH_FILTER,Filter:,Filter:
-UI_GROUPSEARCH_SORT,Sort:,Sort:
-UI_GROUPSEARCH_PARTYNAME,Party Name,Party Name
-UI_GROUPSEARCH_GUILDNAME,Guild Name,Guild Name
-UI_GROUPSEARCH_LEADER,Leader,Leader
-UI_GROUPSEARCH_MASTER,Master,Master
-UI_GROUPSEARCH_LEVEL,Level,Level
-UI_GROUPSEARCH_MEMBERS,Members,Members
-UI_GROUPSEARCH_BUFFS,Buffs,Buffs
-UI_GROUPSEARCH_LEADERLEVEL,Leader Level,Leader Level
-UI_GROUPSEARCH_LEADERNAME,Leader Name,Leader Name
-UI_GROUPSEARCH_MASTERLEVEL,Master Level,Master Level
-UI_GROUPSEARCH_MASTERNAME,Master Name,Master Name
-UI_GROUPSEARCH_ALL,All,All
-UI_GROUPSEARCH_FRIENDS,Friend Leaders,Friend Leaders
-UI_GROUPSEARCH_STRANGERS,Stranger Leaders,Stranger Leaders
-UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,Friend Masters
-UI_GROUPSEARCH_MASTERSTRANGERS,Stranger Masters,Stranger Masters
+UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,Oggetti: %s
+UI_ACHIEVEMENTS_REWARD_ATK,Attack rate on target(s): %d%%,Tasso di attacco sul bersaglio/i: %d%%
+UI_ACHIEVEMENTS_PROGRESSION,Progression,Progressione
+UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Livello %d
+UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attacco +%s%%
+UI_ACHIEVEMENTS_NOTITLE,No Title,Nessun Titolo
+UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Non mostrare alcun titolo.
+UI_ACHIEVEMENTS_PVPTITLE,PVP Title,Titolo PVP
+UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")",(Attualmente “%s”)
+UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Show your current PVP title.,Mostra il tuo titolo PVP attuale.
+UI_ACHIEVEMENTS_TITLES_SELECT,Select,Seleziona
+UI_ACHIEVEMENTS_TITLES_FROM,From,Da
+UI_ACHIEVEMENTS_CLAIMBTN,Claim,Richiedi
+UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Ricevi i tuoi premi!
+UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Gira la ruota! Sarai fortunato oggi?
+UI_ACHIEVEMENTS_AVAILABLE,Available,Disponibile
+UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,Questo obiettivo è stato completato!
+UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,Livello di Gruppo Richiesto: %d
+UI_TOOLTIP_PARTY_POINTS,Required Points: %d,Punti Richiesti: %d
+UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,"I membri del tuo gruppo non verranno più espulsi automaticamente quando sono offline. Se crei o ti unisci a un altro gruppo, ciò non avrà alcun effetto sul nuovo gruppo. Confermi l'uso?"
+UI_PARTY_PERMANENT,Permanent Party,Gruppo Permanente
+UI_SEARCHPARTY_TITLE,Search Party,Cerca Gruppi
+UI_SEARCHGUILD_TITLE,Search Guild,Cerca Gilda
+UI_GROUPSEARCH,Search,Cerca
+UI_TOOLTIP_TRANSMUTE,Transmutation:,Trasmutazione:
+UI_TOOLTIP_RARITY,Rarity:,Rarità:
+UI_TOOLTIP_RARITY_NORMAL,Common,Comune
+UI_TOOLTIP_RARITY_RARE,Uncommon,Non comune
+UI_TOOLTIP_RARITY_STRONG,Rare,Raro
+UI_TOOLTIP_RARITY_UNIQUE,Unique,Unico
+UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Molto Raro
+UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimo
+UI_WORLD_CASTING,Casting,Lancio
+UI_WORLD_HARVESTING,Harvesting,Raccolta
+UI_WORLD_OPENING,Opening,Apertura
+UI_WORLD_CHARGING,Charging,Ricarica
+UI_NAVIGATOR_LOCALTIME,Local Time,Ora Locale
+UI_NAVIGATOR_SERVERTIME,Server Time,Ora Server
+UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Ora Madrigal
+UI_UPGRADESAFE_STOP,Stop,Ferma
+UI_UPGRADESAFE_RESET,Reset,Reimposta
+UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Dado di Potenza
+UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sun Stone,Pietrasola
+UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Scheda
+UI_UPGRADESAFE_COST,#b%s#nb per attempt,#b%s#nb per tentativo
+UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Obiettivo di Perciamento
+UI_UPGRADESAFE_TARGET,Upgrade Goal,Obiettivo di Potenziamento
+UI_UPGRADESAFE_CURRENT_PIERCING,~Piercings~,~Percia~
+UI_UPGRADESAFE_CURRENT,~Current Value~,~Valore Attuale~
+UI_SEARCHGROUP_MODE_NO,Not findable,Non reperibile
+UI_SEARCHGROUP_MODE_CONFIRM,Leader approval,Approvazione del leader
+UI_SEARCHGROUP_MODE_FREE,Join freely,Partecipa liberamente
+UI_GROUPSEARCH_REFRESH,Refresh,Aggiorna
+UI_GROUPSEARCH_FILTER,Filter:,Filtro:
+UI_GROUPSEARCH_SORT,Sort:,Ordina:
+UI_GROUPSEARCH_PARTYNAME,Party Name,Nome del Gruppo
+UI_GROUPSEARCH_GUILDNAME,Guild Name,Nome della Gilda
+UI_GROUPSEARCH_LEADER,Leader,Capo
+UI_GROUPSEARCH_MASTER,Master,Maestro
+UI_GROUPSEARCH_LEVEL,Level,Livello
+UI_GROUPSEARCH_MEMBERS,Members,Membri
+UI_GROUPSEARCH_BUFFS,Buffs,Buff
+UI_GROUPSEARCH_LEADERLEVEL,Leader Level,Livello Capo
+UI_GROUPSEARCH_LEADERNAME,Leader Name,Nome Capo
+UI_GROUPSEARCH_MASTERLEVEL,Master Level,Livello Maestro
+UI_GROUPSEARCH_MASTERNAME,Master Name,Nome Maestro
+UI_GROUPSEARCH_ALL,All,Tutti
+UI_GROUPSEARCH_FRIENDS,Friend Leaders,Amici Capi
+UI_GROUPSEARCH_STRANGERS,Stranger Leaders,Sconosciuti Capi
+UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,Amici Maestri
+UI_GROUPSEARCH_MASTERSTRANGERS,Stranger Masters,Sconosciuti Maestri
 UI_GROUPSEARCH_JOIN,Join,Unisciti
-UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the Leader,Your request must be approved by the Leader
-UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the Master,Your request must be approved by the Master
-UI_PARTY_JOINQUESTION,%s wants to join your party. Do you accept?,%s wants to join your party. Do you accept?
-UI_GUILD_SEARCHNOTICE,Search Notice,Search Notice
-UI_GUILD_SEARCHNOTICE_TIP,Setup the notice in Guild Search.,Setup the notice in Guild Search.
-UI_DAMAGEMETER_RESET,Reset Damage Statistics,Reset Damage Statistics
-UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,Damage Stats %d/%d
-UI_TOOLTIP_SKILL_NOFLY,Flying: No,Flying: No
-UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,Show/hide Damage Statistics
-UI_SHOP_QUICK_SELL,Quick Sell,Quick Sell
-UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Quickly sell a category of items.
-UI_SHOP_BUY_BACK,Buy Back,Buy Back
-UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,Purchase back items that you recently sold by mistake.
-UI_SHOP_QUICK_SELL_CONFIRM,Sell,Sell
-UI_SHOP_QUICK_SELL_TOTAL,Total:,Total:
-UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,Uncommon & Lower
-UI_SHOP_QUICK_SELL_RARE,Rare & Lower,Rare & Lower
-UI_SHOP_QUICK_SELL_FOOD,Food,Food
-UI_SHOP_QUICK_SELL_POTION,Potion,Potion
-UI_SHOP_BACK_TITLE,Buy back item,Buy back item
-UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Do you want to purchase back the item for %s penya?
-UI_TOOLTIP_BOWRANGE,Bow Range,Bow Range
-UI_TOOLTIP_SKILLUP,Skill Damage,Skill Damage
-UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,1v1 Skill Damage
-UI_TOOLTIP_HEALUP,Healing,Healing
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Range
+UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the Leader,La tua richiesta deve essere approvata dal Capo
+UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the Master,La tua richiesta deve essere approvata dal Maestro
+UI_PARTY_JOINQUESTION,%s wants to join your party. Do you accept?,%s vuole unirsi al tuo gruppo. Accetti?
+UI_GUILD_SEARCHNOTICE,Search Notice,Avviso di Cerca
+UI_GUILD_SEARCHNOTICE_TIP,Setup the notice in Guild Search.,Imposta l'avviso nella Cerca della Gilda.
+UI_DAMAGEMETER_RESET,Reset Damage Statistics,Reimposta Statistiche Danni
+UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,Statistiche Danni %d/%d
+UI_TOOLTIP_SKILL_NOFLY,Flying: No,Volo: No
+UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,Mostra/nascondi Statistiche Danni
+UI_SHOP_QUICK_SELL,Quick Sell,Vendita Rapida
+UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Vendi rapidamente una categoria di oggetti.
+UI_SHOP_BUY_BACK,Buy Back,Riacquisto
+UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,Riacquista gli oggetti che hai venduto per errore di recente.
+UI_SHOP_QUICK_SELL_CONFIRM,Sell,Vendi
+UI_SHOP_QUICK_SELL_TOTAL,Total:,Totale:
+UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,Non Comune e Inferiore
+UI_SHOP_QUICK_SELL_RARE,Rare & Lower,Raro e Inferiore
+UI_SHOP_QUICK_SELL_FOOD,Food,Cibo
+UI_SHOP_QUICK_SELL_POTION,Potion,Pozione
+UI_SHOP_BACK_TITLE,Buy back item,Riacquista oggetto
+UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Vuoi riacquistare l'oggetto per %s penya?
+UI_TOOLTIP_BOWRANGE,Bow Range,Gamma di Arco
+UI_TOOLTIP_SKILLUP,Skill Damage,Danno Abilità
+UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,Danno Abilità 1v1
+UI_TOOLTIP_HEALUP,Healing,Guarigione
+UI_TOOLTIP_SKILLRANGE,Skill Range,Gamma di Abilità
 UI_MAP_MENU,Menu,Menu
-UI_MAP_MENU_TIP,Hide/Show the menu,Hide/Show the menu
-UI_TOOLTIP_RESTOREUP,HP Restoration,HP Restoration
+UI_MAP_MENU_TIP,Hide/Show the menu,Nascondi/Mostra il menu
+UI_TOOLTIP_RESTOREUP,HP Restoration,HP Ripristino
 UI_OPTION_FRAMERATE,FPS,FPS
-UI_OPTION_FRAMERATE_TIP,Frames Per Second,Frames Per Second
+UI_OPTION_FRAMERATE_TIP,Frames Per Second,Fotogrammi per Secondo
 UI_OPTION_FRAMERATE_SYNC,VSync,VSync
-UI_WORLD_FLY_EQUIP,Fly,Fly
-UI_WORLD_FLY_UNEQUIP,Land,Land
-UI_WORLD_PARTY,Party x%d,Party x%d
+UI_WORLD_FLY_EQUIP,Fly,Vola
+UI_WORLD_FLY_UNEQUIP,Land,Atterra
+UI_WORLD_PARTY,Party x%d,Gruppo x%d
 UI_WORLD_BUFF,Buff x%d,Buff x%d
-UI_QUESTGOAL_MOBILE,Quest,Quest
-UI_INPUT_NUMBER,Input a number,Input a number
-UI_SKILL_CLOSED,Closed,Closed
-UI_SKILL_POINT_COST,Point Cost,Point Cost
-UI_SKILL_ADD_COMBO,Add to Combo,Add to Combo
-UI_SKILL_COMBO,Combo Bar,Combo Bar
-UI_CASHSHOP_PENYA_ONLY,Penya Only,Penya Only
+UI_QUESTGOAL_MOBILE,Quest,Missione
+UI_INPUT_NUMBER,Input a number,Inserisci un numero
+UI_SKILL_CLOSED,Closed,Chiuso
+UI_SKILL_POINT_COST,Point Cost,Costo in punti
+UI_SKILL_ADD_COMBO,Add to Combo,Aggiungi alla combo
+UI_SKILL_COMBO,Combo Bar,Barra Combo
+UI_CASHSHOP_PENYA_ONLY,Penya Only,Solo Penya
 UI_CASHSHOP_PENYA,Penya,Penya
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),Penya (VIP)
-UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,This item #bcannot be traded or sold#nb.
-UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,This purchase is #bnot an item#nb.
-UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,Critical Resist
-UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP Damage Reduction
-UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE Damage Reduction
-UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Magic Resistance
-UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvP Damage
-UI_TOOLTIP_DST_PVE_DMG,PvE Damage,PvE Damage
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
-UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Number of lives: %d
-UI_BUFF_REMOVE_TITLE,Cancel Buff,Cancel Buff
-UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.
-UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PVP),Reflected Damage: %d%% / %d%% (PVP)
-UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PVP),Stun Probability (PVP)
-UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PVE),Stun Probability (PVE)
-UI_TOOLTIP_CHANCEPOISON,Poison Probability,Poison Probability
-UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,Steal HP Probability
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Steal MP Probability
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Steal FP Probability
-UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Bleeding Probability
-UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,Party Members HP
-UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,DoT Tick: %s Seconds
-UI_TOOLTIP_MAXHIT,Max Targets: %d,Max Targets: %d
-UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Max Targets: %d / %d (PVP)
-UI_PRIVATE_SHOP_OK,Shop,Shop
-UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Open a Personal Shop
-UI_PRIVATE_SHOP_VENDOR,Vendor,Vendor
-UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Create a Vendor that will sell your items for you
-UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Will you create a vendor?
-UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
+UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,Questo oggetto #bnon può essere scambiato o venduto#nb.
+UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,Questo acquisto #bnon è un oggetto#nb.
+UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,Resistenza Critica
+UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,Riduzione Danni PvP
+UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,Riduzione Danni PvE
+UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Resistenza Magica
+UI_TOOLTIP_DST_PVP_DMG,PvP Damage,Danni PvP
+UI_TOOLTIP_DST_PVE_DMG,PvE Damage,Danni PvE
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Danni Asalraalaikum
+UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Numero di vite: %d
+UI_BUFF_REMOVE_TITLE,Cancel Buff,Annulla Buff
+UI_BUFF_REMOVE_QUESTION,Do you confirm the removal of the Buff #b%s#nb? It is not possible to undo this action.,Confermi la rimozione del Buff #b%s#nb? Non è possibile annullare questa azione.
+UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PVP),Danno Riflesso: %d%% / %d%% (PVP)
+UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PVP),Probabilità di Stordimento (PVP)
+UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PVE),Probabilità di Stordimento (PVE)
+UI_TOOLTIP_CHANCEPOISON,Poison Probability,Probabilità di Avvelenamento
+UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,Probabilità di Rubare HP
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Probabilità di Rubare MP
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Probabilità di Rubare FP
+UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Probabilità di Sanguinamento
+UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,Membri del Gruppo HP
+UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,DoT Tick: %s Secondi
+UI_TOOLTIP_MAXHIT,Max Targets: %d,Bersagli massimi: %d
+UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PVP),Bersagli massimi: %d / %d (PVP)
+UI_PRIVATE_SHOP_OK,Shop,Negozio
+UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Apri un Negozio Personale
+UI_PRIVATE_SHOP_VENDOR,Vendor,Venditore
+UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Crea un venditore che venderà i tuoi oggetti per te
+UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Vuoi creare un venditore?
+UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Skin negozio venditore:
 UI_TIMEINFO_TITLE,Info,Info
-UI_TIMEINFO_SERVER,Current Server,Current Server
-UI_TIMEINFO_TIME,Current Time,Ora corrente
-UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
-UI_TIMEINFO_SESSION,Session Duration,Session Duration
+UI_TIMEINFO_SERVER,Current Server,Server Attuale
+UI_TIMEINFO_TIME,Current Time,Ora Attuale
+UI_TIMEINFO_CONNECTION,Connection Time,Ora di Connessione
+UI_TIMEINFO_SESSION,Session Duration,Durata della Sessione
 UI_CHAT_TITLE,Chat,Chat
-UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,Visualizza lingue
-UI_CHAT_YOUR_LANGUAGE,Your Language,La tua lingua
-UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
-UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
-UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
-UI_INVENTORY_UNLOCK,Unmark Favorite,Unmark Favorite
-UI_APP_EXTRABAG_TIP,Opens a second view of your inventory.,Opens a second view of your inventory.
-UI_INVENTORY_TAB_ALL,All,Tutti
+UI_CHAT_FILTERS,Filters,Filtri
+UI_CHAT_VIEW_LANGUAGES,View Languages,Visualizza Lingue
+UI_CHAT_YOUR_LANGUAGE,Your Language,La tua Lingua
+UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Converti Legato all'Anima
+UI_INVENTORY_PUTCHAT,Link in Chat,Link nella chat
+UI_INVENTORY_LOCK,Mark Favorite,Aggiungi ai Preferiti
+UI_INVENTORY_UNLOCK,Unmark Favorite,Rimuovi dai Preferiti
+UI_APP_EXTRABAG_TIP,Opens a second view of your inventory.,Apre una seconda vista del tuo inventario.
+UI_INVENTORY_TAB_ALL,All,Tutto
 UI_INVENTORY_TAB_GENERAL,General,Generale
-UI_INVENTORY_TAB_PET,Pet,Pet
-UI_INVENTORY_TAB_CLOTH,Cloth,Cloth
-UI_INVENTORY_TAB_QUEST,Quest,Quest
-UI_INVENTORY_DROP,Drop,Drop
+UI_INVENTORY_TAB_PET,Pet,Animale Domestico
+UI_INVENTORY_TAB_CLOTH,Cloth,Tessuto
+UI_INVENTORY_TAB_QUEST,Quest,Missione
+UI_INVENTORY_DROP,Drop,Rilascia
 UI_INVENTORY_DELETE_BTN,Delete,Elimina
-UI_INVENTORY_ACTION_USE,Use,Use
-UI_INVENTORY_ACTION_EQUIP,Equip,Equip
-UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPC.,Cannot be sold to NPC.
-UI_UPGRADE_PROB,Success: #b%s#nb,Success: #b%s#nb
-UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Advanced Shaders
+UI_INVENTORY_ACTION_USE,Use,Usa
+UI_INVENTORY_ACTION_EQUIP,Equip,Equipaggia
+UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPC.,Non vendibile agli NPC.
+UI_UPGRADE_PROB,Success: #b%s#nb,Successo: #b%s#nb
+UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Shader Avanzati
 UI_OPTION_BLOOM,Bloom,Bloom
-UI_OPTION_DOF,Depth of Field,Depth of Field
+UI_OPTION_DOF,Depth of Field,Profondità di Campo
 UI_OPTION_SSAO,SSAO,SSAO
-UI_OPTION_VLIGHT,Volumetric Light,Volumetric Light
-UI_OPTION_WATERQUALITY,Water Quality,Water Quality
-UI_OPTION_WATERQUALITY_TIP,Changes reflection quality and resolution.,Changes reflection quality and resolution.
-UI_OPTION_BLOOMQUALITY,Bloom Quality,Bloom Quality
-UI_OPTION_BLOOMQUALITY_TIP,Changes blur size and intensity of the bloom.,Changes blur size and intensity of the bloom.
-UI_OPTION_COLORBLIND,Colorblind Mode,Colorblind Mode
-UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.,Changes the colorblind filter mode.
-UI_OPTION_CAMERAFOCUS,Camera Focus,Camera Focus
-UI_OPTION_CAMERAFOCUSINFO,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.
-UI_MESSAGE_TIME,%s Ago,%s Ago
-UI_MESSAGE_CLEAR,Clear messages,Clear messages
-UI_INSTANTMSG_TITLE_TIP,Manage your Messages,Manage your Messages
-UI_CHARINFO_PARAM_BEFORE,#b[Before Stat Changes]#nb,#b[Before Stat Changes]#nb
-UI_CHARINFO_PARAM_AFTER,#b[After Stat Changes]#nb,#b[After Stat Changes]#nb
-UI_CHARINFO_PARAM_BASE,From Stats:,From Stats:
-UI_CHARINFO_PARAM_CUSTOM,From Buffs and Equipment:,From Buffs and Equipment:
+UI_OPTION_VLIGHT,Volumetric Light,Luce Volumetrica
+UI_OPTION_WATERQUALITY,Water Quality,Qualità dell'Acqua
+UI_OPTION_WATERQUALITY_TIP,Changes reflection quality and resolution.,Modifica la qualità e la risoluzione del riflesso.
+UI_OPTION_BLOOMQUALITY,Bloom Quality,Qualità dell'Effetto Bloom
+UI_OPTION_BLOOMQUALITY_TIP,Changes blur size and intensity of the bloom.,Modifica la dimensione e l'intensità dell'effetto bloom.
+UI_OPTION_COLORBLIND,Colorblind Mode,Modalità Daltonismo
+UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.,Modifica la modalità del filtro per il daltonismo.
+UI_OPTION_CAMERAFOCUS,Camera Focus,Messa a Fuoco della Camera
+UI_OPTION_CAMERAFOCUSINFO,Toggles the automatic camera zoom and focus when interacting with objects and NPCs.,Attiva/disattiva lo zoom automatico e la messa a fuoco della telecamera quando si interagisce con oggetti e NPC.
+UI_MESSAGE_TIME,%s Ago,%s fa
+UI_MESSAGE_CLEAR,Clear messages,Messaggi chiari
+UI_INSTANTMSG_TITLE_TIP,Manage your Messages,Gestisci i tuoi messaggi
+UI_CHARINFO_PARAM_BEFORE,#b[Before Stat Changes]#nb,#b[Prima delle modifiche alle statistiche]#nb
+UI_CHARINFO_PARAM_AFTER,#b[After Stat Changes]#nb,#b[Dopo le modifiche alle statistiche]#nb
+UI_CHARINFO_PARAM_BASE,From Stats:,Da Statistiche:
+UI_CHARINFO_PARAM_CUSTOM,From Buffs and Equipment:,Da Buff e Equipaggiamento:
 UI_WORLD_COMBO,COMBO,COMBO
-UI_BOUNTYINPUT_TITLE,Register Bounty,Register Bounty
-UI_BOUNTYINPUT_HEADER,"Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)","Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)"
-UI_BOUNTYINPUT_CONFIRM,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.
-UI_BOUNTYINPUT_REGISTER,Register,Register
-UI_BOUNTYINPUT_FEE,+ %s%% Fee,+ %s%% Fee
+UI_BOUNTYINPUT_TITLE,Register Bounty,Registra Taglia
+UI_BOUNTYINPUT_HEADER,"Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)","Sei sicuro di voler registrare una taglia? (Sarà visibile nell'elenco delle taglie, ricompensa minima %s Penya)"
+UI_BOUNTYINPUT_CONFIRM,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.,Sei sicuro di voler registrare una taglia di #b%s Penya#nb su #b%s#nb? Questa operazione non può essere annullata.
+UI_BOUNTYINPUT_REGISTER,Register,Registra
+UI_BOUNTYINPUT_FEE,+ %s%% Fee,+ %s%% Commissione
 UI_BOUNTYINPUT_TOTAL,%s Penya,%s Penya
-UI_BOUNTYINPUT_LABEL_NAME,Bounty,Bounty
+UI_BOUNTYINPUT_LABEL_NAME,Bounty,Taglia
 UI_BOUNTYINPUT_LABEL_DURATION,Duration,Durata
-UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
-UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
-UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
-UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
+UI_BOUNTYINPUT_LABEL_REWARD,Reward,Premio
+UI_BOUNTYINPUT_LABEL_TOTAL,Total,Totale
+UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Commento
+UI_BOUNTYLIST_TITLE,Bounty List,Elenco Taglie
 UI_BOUNTYLIST_HEADER_NAME,Name,Nome
-UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
-UI_BOUNTYLIST_HEADER_REWARD,Reward,Reward
-UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
-UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
-UI_BOUNTYPOS_TITLE,Bounty Position,Bounty Position
-UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Are you sure you want to pay %s Penya to see %s's position?
-UI_APP_GACHA_TIP,Displays the Gacha Menu.,Displays the Gacha Menu.
+UI_BOUNTYLIST_HEADER_LEVEL,Level,Livello
+UI_BOUNTYLIST_HEADER_REWARD,Reward,Premio
+UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Tempo rimanente
+UI_BOUNTYLIST_HEADER_COMMENT,Comment,Commento
+UI_BOUNTYPOS_TITLE,Bounty Position,Posizione della Taglia
+UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Sei sicuro di voler pagare %s Penya per vedere la posizione di %s?
+UI_APP_GACHA_TIP,Displays the Gacha Menu.,Visualizza il Menu Gacha.
 UI_GACHA_TITLE,Gacha,Gacha
 UI_GACHA_OPEN,Open,Apri
 UI_GACHA_QUANTITY_MAX,Max,Max
-UI_GACHA_RESET,Reset,Reset
-UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot."
-UI_GACHA_DESC_ITEMPACK,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.
-UI_GACHA_DESC_GIFTBOX,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.
-UI_GACHA_DESC_GACHA,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.
-UI_GACHA_DESC_RESET,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.
-UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.","If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d."
-UI_GACHA_DESC_GLOBAL,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.
-UI_GACHA_DESC_INFO,For more information please check our General Sales Conditions in the Cash Shop.,For more information please check our General Sales Conditions in the Cash Shop.
-UI_GACHA_LASTITEM,Last item,Last item
-UI_GACHA_PREVIEW,PREVIEW,PREVIEW
-UI_GACHA_SOLDOUT,Sold out,Sold out
-UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Welcome to the world of		\nFlyff Online!
+UI_GACHA_RESET,Reset,Reimposta
+UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","Trascina e rilascia un pacchetto oggetti, una confezione regalo, una confezione gacha o un pacchetto alloggiamento nello slot oggetti."
+UI_GACHA_DESC_ITEMPACK,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.,All'apertura del pacchetto riceverai #btutti#nb gli oggetti elencati di seguito. Puoi aprire più pacchetti di seguito.
+UI_GACHA_DESC_GIFTBOX,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.,Quando apri la scatola riceverai #buno#nb degli oggetti elencati di seguito in base alle probabilità. Puoi aprire più scatole di seguito.
+UI_GACHA_DESC_GACHA,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.,"Quando apri il gacha riceverai #buno#nb degli oggetti elencati di seguito. Una volta ricevuto un oggetto, questo verrà rimosso dal gacha. Puoi aprire diversi gacha di fila. Se apri un numero sufficiente di gacha, avrai la #bgaranzia#nb di ottenere #btutti#nb gli oggetti elencati di seguito. Il gacha verrà quindi reinizializzato."
+UI_GACHA_DESC_RESET,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.,"Se lo desideri, puoi anche #bripristinare volontariamente il gacha#nb a partire da %d aperture."
+UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.","Se lo desideri, puoi anche #bripristinare volontariamente il gacha#nb a partire da %d aperture, per un tempo massimo di %d."
+UI_GACHA_DESC_GLOBAL,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.,"Quando apri il gacha riceverai #buno#nb degli oggetti elencati di seguito. Una volta ricevuto un oggetto, questo verrà rimosso dal gacha. Puoi aprire diversi gacha di fila. Questa scatola è condivisa tra #btutti i giocatori#nb e l'ultimo ad aprirla riceverà l'oggetto sottostante. Il gacha verrà quindi reinizializzato."
+UI_GACHA_DESC_INFO,For more information please check our General Sales Conditions in the Cash Shop.,"Per ulteriori informazioni, consulta le nostre Condizioni Generali di Vendita nel Cash Shop."
+UI_GACHA_LASTITEM,Last item,Ultimo oggetto
+UI_GACHA_PREVIEW,PREVIEW,ANTEPRIMA
+UI_GACHA_SOLDOUT,Sold out,Esaurito
+UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Benvenuto nel mondo di		\nFlyff Online!
 UI_WELCOME_BTN,Let's go!,Andiamo!
-UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
-UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Incoming Damage
-UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Damage Redirection
-UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Incoming Healing
-UI_TOOLTIP_ELEMENT,Element: %s,Element: %s
-UI_APP_BOT_TIP,Bot Simulation,Bot Simulation
-UI_TOOLTIP_DST_EXP,Monster Exp,Monster Exp
-UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,Item Drop Rate
-UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Auto Attack FP Recovery
-UI_TOOLTIP_DST_AUTOHP,HP Recovery %d%% Below %d%%,HP Recovery %d%% Below %d%%
-UI_OPTION_MYNAME,My Name,My Name
-UI_OPTION_OTHERNAME,Others Name,Others Name
-UI_OPTION_NPCNAME,NPCs Name,NPCs Name
-UI_TOOLTIP_DST_RECOVERY_EXP,Exp Lost,Exp Lost
-UI_GUILD_NAME_COLOR,Guild Name Color,Guild Name Color
-UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Spirit Strike
-UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Steal FP
-UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,HP Bar Damage History
-UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Damage+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Remove Level Reduction
-UI_MSGBOX_CONFIRM,Confirm,Confirm
-UI_CHANGECHAR_TITLE,Change Character,Change Character
-UI_CHANGECHAR_MSG,Select character and channel:,Select character and channel:
-UI_CHARINFO_EXPRATE,Exp Rate,Exp Rate
-UI_CHARINFO_EXPRATE_TIP,Your personal Exp rate. Does not include server and event rates.,Your personal Exp rate. Does not include server and event rates.
-UI_TOOLTIP_ITEM_BINDING,Binding,Binding
-UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,This material makes the target item Soul-Bound.
-UI_BINDING_NOTICE,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc
-UI_BINDING_MESSAGE,This item is now bound to your character.,This item is now bound to your character.
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Soul-Bound]
-UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Can be unbound.
-UI_BINDING_TITLE,Binding,Binding
+UI_TUTORIAL_MSG,Do you want the tutorial?,Vuoi il tutorial?
+UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Danni In Arrivo
+UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Ridirezione Danni
+UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Guarigione In Arrivo
+UI_TOOLTIP_ELEMENT,Element: %s,Elemento: %s
+UI_APP_BOT_TIP,Bot Simulation,Simulazione Bot
+UI_TOOLTIP_DST_EXP,Monster Exp,Exp del Mostro
+UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,Tasso Rilascio Oggetti
+UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Recupero FP Attacco Automatico
+UI_TOOLTIP_DST_AUTOHP,HP Recovery %d%% Below %d%%,Recupero HP %d%% inferiore a %d%%
+UI_OPTION_MYNAME,My Name,Mio Nome
+UI_OPTION_OTHERNAME,Others Name,Altri Nome
+UI_OPTION_NPCNAME,NPCs Name,Nome NPC
+UI_TOOLTIP_DST_RECOVERY_EXP,Exp Lost,Exp Persa
+UI_GUILD_NAME_COLOR,Guild Name Color,Colore Nome Gilda
+UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Colpo Spirito
+UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Ruba FP
+UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,Cronologia Danni Barra HP
+UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Danni+%d%%
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Rimuovi Riduzione Livello
+UI_MSGBOX_CONFIRM,Confirm,Conferma
+UI_CHANGECHAR_TITLE,Change Character,Cambia Personaggio
+UI_CHANGECHAR_MSG,Select character and channel:,Seleziona personaggio e canale:
+UI_CHARINFO_EXPRATE,Exp Rate,Tasso Exp
+UI_CHARINFO_EXPRATE_TIP,Your personal Exp rate. Does not include server and event rates.,Il tuo tasso Exp personale. Non include i tassi del server e degli eventi.
+UI_TOOLTIP_ITEM_BINDING,Binding,Legame
+UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,Questo materiale rende l'oggetto bersaglio Legato all'Anima.
+UI_BINDING_NOTICE,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc,#cffff0000Questa operazione legherà l'oggetto al tuo personaggio. Puoi annullarla con una Pergamena di Scioglimento.#nc
+UI_BINDING_MESSAGE,This item is now bound to your character.,Questo oggetto è ora legato al tuo personaggio.
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Legato all'Anima]
+UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Può essere slegato.
+UI_BINDING_TITLE,Binding,Legame
 UI_BINDING_CONFIRM,Do you want to continue?,Vuoi continuare?
-UI_UNBINDING_TITLE,Unbinding,Unbinding
-UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Confirm Unbinding
-UI_UNBINDING_MSG,Do you confirm the removal of #ball item improvements#nb to unbind the item?,Do you confirm the removal of #ball item improvements#nb to unbind the item?
-UI_UNBINDING_LABEL,Place an item in the slot below:,Place an item in the slot below:
-UI_ELEMENT_CHANGE_SLOT,Place an item here to change it's elemental attribute.,Place an item here to change it's elemental attribute.
-UI_ELEMENT_CHANGE_TIP,Change to %s Element,Change to %s Element
-UI_EXPSTOP_RELOAD,Reload,Reload
-UI_EXPSTOP_BTN,Lock Exp,Lock Exp
-UI_EXPSTOP_BTN_TIP,Stop gaining experience from killed monsters. You still get experience from quests.,Stop gaining experience from killed monsters. You still get experience from quests.
-UI_EXPSTOP_RELOAD_TITLE,Exp Lock Reload,Exp Lock Reload
-UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?","You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?"
-UI_EXPSTOP_RELOAD_LABEL,Monsters:,Monsters:
-UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Will you pay %s Penya to reload the Exp Lock gauge?
-UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Ranking
+UI_UNBINDING_TITLE,Unbinding,Scioglimento
+UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Conferma Scioglimento
+UI_UNBINDING_MSG,Do you confirm the removal of #ball item improvements#nb to unbind the item?,Confermi rimozione #btutti potenziamenti#nb per slegamento?
+UI_UNBINDING_LABEL,Place an item in the slot below:,Inserisci un oggetto nello slot sottostante:
+UI_ELEMENT_CHANGE_SLOT,Place an item here to change it's elemental attribute.,Inserisci qui un oggetto per modificarne l'attributo elementale.
+UI_ELEMENT_CHANGE_TIP,Change to %s Element,Cambia in elemento %s
+UI_EXPSTOP_RELOAD,Reload,Ricarica
+UI_EXPSTOP_BTN,Lock Exp,Blocco Exp
+UI_EXPSTOP_BTN_TIP,Stop gaining experience from killed monsters. You still get experience from quests.,Smetti di guadagnare esperienza dai mostri uccisi. Continuerai comunque a guadagnare esperienza dalle missioni.
+UI_EXPSTOP_RELOAD_TITLE,Exp Lock Reload,Ricarica Blocco Exp
+UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?","Puoi smettere di guadagnare esperienza, il prezzo è #b%d Penya#nb per ogni mostro ucciso per ricaricare l'indicatore. Quanti mostri vuoi uccidere?"
+UI_EXPSTOP_RELOAD_LABEL,Monsters:,Mostri:
+UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Pagherai %s Penya per ricaricare l'indicatore Blocco Exp?
+UI_ARENA_RANKING_TITLE,Arena Ranking,Classifica Arena
 UI_ARENA_RANKING_NAME,Name,Nome
-UI_ARENA_RANKING_LEVEL,Level,Level
-UI_ARENA_RANKING_JOB,Job,Job
-UI_ARENA_RANKING_KILLS,Kills,Kills
-UI_ARENA_RANKING_DEATHS,Deaths,Deaths
-UI_ARENA_RANKING_RATIO,Ratio,Ratio
-UI_ARENA_RANKING_DIFF,Difference,Difference
-UI_ARENA_RANKING_PERFECT,Perfect,Perfect
-UI_ARENA_RANKING_LASTUPDATE,Last update:,Last update:
-UI_ARENA_RANKING_RANK,Your rank:,Your rank:
-UI_ARENA_RANKING_NORANK,not ranked,not ranked
-UI_ARENA_REWARD_TITLE,Arena Reward,Arena Reward
-UI_ARENA_REWARD_DESCHDR,Description,Description
-UI_ARENA_REWARD_DESC,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.
-UI_ARENA_REWARD_PRIZEHDR,Prize Details,Prize Details
-UI_ARENA_REWARD_RESETHDR,Next reset,Next reset
-UI_PARTY_MINLEVEL,Min Level,Min Level
-UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.,Minimum party member level required to receive experience.
-UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Affected by master player)#ni
+UI_ARENA_RANKING_LEVEL,Level,Livello
+UI_ARENA_RANKING_JOB,Job,Lavoro
+UI_ARENA_RANKING_KILLS,Kills,Uccisioni
+UI_ARENA_RANKING_DEATHS,Deaths,Morti
+UI_ARENA_RANKING_RATIO,Ratio,Rapporto
+UI_ARENA_RANKING_DIFF,Difference,Differenza
+UI_ARENA_RANKING_PERFECT,Perfect,Perfetto
+UI_ARENA_RANKING_LASTUPDATE,Last update:,Ultimo aggiornamento:
+UI_ARENA_RANKING_RANK,Your rank:,Il tuo grado:
+UI_ARENA_RANKING_NORANK,not ranked,non classificato
+UI_ARENA_REWARD_TITLE,Arena Reward,Ricompensa Arena
+UI_ARENA_REWARD_DESCHDR,Description,Descrizione
+UI_ARENA_REWARD_DESC,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.,Combatti contro altri giocatori nell'arena e vinci per scalare la classifica.\nLa classifica verrà azzerata ogni settimana e i giocatori ai primi posti riceveranno dei premi.
+UI_ARENA_REWARD_PRIZEHDR,Prize Details,Dettagli del Premio
+UI_ARENA_REWARD_RESETHDR,Next reset,Prossimo ripristino
+UI_PARTY_MINLEVEL,Min Level,Livello Min
+UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.,Livello minimo richiesto ai membri del gruppo per ricevere esperienza.
+UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Influenzato dal giocatore maestro) #ni
 UI_PARTY_EXPBONUS,Exp Bonus,Exp Bonus
-UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.","Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking."
-UI_PARTY_EXPBONUS_ACTIVE,x Active,x Active
-UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Blessed items cannot be dropped or traded.
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
-UI_OPTION_ONECLICKATTACK,Single Click to Attack,Single Click to Attack
-UI_GEM_CREATE,Extract,Extract
+UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.","BonusEsperienza che ottieni con il gruppo. I membri attivi sono quelli che partecipano al combattimento in corso. Il contributo include attacchi, cure e tanking."
+UI_PARTY_EXPBONUS_ACTIVE,x Active,x Attivo
+UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Gli oggetti benedetti non possono essere lasciati cadere né scambiati.
+UI_TOOLTIP_BLESSING,Goddess Blessing,Benedizione della Dea
+UI_OPTION_ONECLICKATTACK,Single Click to Attack,Attacco con un Solo Clic
+UI_GEM_CREATE,Extract,Estratto
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,Classifica Potenza di Combattimento
-UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,Remaining: %d / %d
-UI_ACHIEVEMENT_SOLDOUT,Sold out,Sold out
-UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,Power Dice 4/6/12
-UI_SHININGDICE_PIERCING,Power Dice 8/10,Power Dice 8/10
-UI_CRAFTPETCANDY_MAT,Harvested Berry,Harvested Berry
-UI_CRAFTPETCANDY_CANDY,Pet Candy,Pet Candy
-UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc
-UI_TOOLTIP_DURATION,Duration:,Duration:
+UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,Rimanente: %d / %d
+UI_ACHIEVEMENT_SOLDOUT,Sold out,Esaurito
+UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,Dado di Potenza 4/6/12
+UI_SHININGDICE_PIERCING,Power Dice 8/10,Dado di Potenza 8/10
+UI_CRAFTPETCANDY_MAT,Harvested Berry,Bacche Raccolte
+UI_CRAFTPETCANDY_CANDY,Pet Candy,Caramelle per Animali Domestici
+UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000I Dadi del Potere Splendente risultanti saranno anch'essi Legati.#nc
+UI_TOOLTIP_DURATION,Duration:,Durata:
 UI_TOOLTIP_DURATION_ONLINE,(Online),(Online)
-UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(Offline counted)
-UI_TOOLTIP_DURATION_EQUIP,(After first use),(After first use)
-UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Time:
+UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(Offline conteggiato)
+UI_TOOLTIP_DURATION_EQUIP,(After first use),(Dopo il primo utilizzo)
+UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Tempo Negozio:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Can be worn over another cloak.
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,Only Game Masters can login. Please use the public client to play.
 UI_CONVERTWEAP_WEAPON,Weapon,Weapon
@@ -1472,10 +1472,10 @@ UI_TRANSMUTE_INFO,Add more items to your wardrobe by using \na #bScroll of Trans
 UI_TRANSMUTE_OUTPUT,Output,Output
 UI_TRANSMUTE_PRIMARY_TIP,Place an item to add a visual transmutation to.,Place an item to add a visual transmutation to.
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,Place an item to sacrifice for the appearance.
-UI_TELEPORT_BTN,Let's go!,Let's go!
-UI_TELEPORT_WHERE,Where do you want to go?,Where do you want to go?
+UI_TELEPORT_BTN,Let's go!,Andiamo!
+UI_TELEPORT_WHERE,Where do you want to go?,Dove vuoi andar?
 UI_CASHSHOP_BONUS,Bonus,Bonus
-UI_CASHSHOP_TOTAL,Total,Total
+UI_CASHSHOP_TOTAL,Total,Totale
 UI_CASHSHOP_FRAME_TITLE,Top-Up,Top-Up
 UI_CASHSHOP_MINIMIZE,Minimize,Minimize
 UI_GACHA_DESC_SELECT,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.
@@ -3224,16 +3224,16 @@ UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesi
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
 UI_TOOLTIP_SWD,Sword,Spada
-UI_TOOLTIP_AXE,Axe,Axe
-UI_TOOLTIP_CHE,Stick,Stick
-UI_TOOLTIP_KNU,Knuckle,Knuckle
-UI_TOOLTIP_WAN,Wand,Wand
-UI_TOOLTIP_STA,Staff,Staff
+UI_TOOLTIP_AXE,Axe,Ascia
+UI_TOOLTIP_CHE,Stick,Bastone
+UI_TOOLTIP_KNU,Knuckle,Pugno
+UI_TOOLTIP_WAN,Wand,Bacchetta
+UI_TOOLTIP_STA,Staff,Cetro
 UI_TOOLTIP_YOY,Yo-Yo,Yo-Yo
-UI_TOOLTIP_BOW,Bow,Bow
-UI_TOOLTIP_MAGICBOTH,Wand or Staff,Wand or Staff
-UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo or Bow
-UI_TOOLTIP_SWAXE,Sword or Axe,Sword or Axe
+UI_TOOLTIP_BOW,Bow,Arco
+UI_TOOLTIP_MAGICBOTH,Wand or Staff,Bacchetta o Cetro
+UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo o Arco
+UI_TOOLTIP_SWAXE,Sword or Axe,Spada o Ascia
 UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,Armi
 UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
 UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Additional Skill Page
@@ -3247,7 +3247,7 @@ UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
 UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,Tempo:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Close
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."

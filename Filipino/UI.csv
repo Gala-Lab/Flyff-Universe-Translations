@@ -2018,7 +2018,7 @@ UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,This item cannot be used
 UI_ULTIMATE_UPGRADE_UNSAFE,Without Scroll of XProtect you will lose the item in case of failure.,Without Scroll of XProtect you will lose the item in case of failure.
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,Materyales
-UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,Protection Scroll
+UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,Scroll ng Proteksyon
 UI_ULTIMATE_PREFIX,[Ultimate],[Ultimate]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,Last Stand Chance
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,Riposte Reflex Chance
@@ -2029,785 +2029,785 @@ UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,Aura Burst Chance
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb,Waterbomb
 UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,Dmg Slow Rate
 UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,Arcane Insight Chance
-UI_MSGBOX_DISMANTLE,Dismantle,Dismantle
-UI_PLAYERHOUSINGBUY_TITLE,Select house template,Select house template
-UI_PLAYERHOUSINGBUY_INFO,Select a template for your house. \n\n#b#cffff0000Changing your house template will remove all decorations from your current house! Make sure it is saved in a preset if you wish to keep it for the future.#nc#nb,Select a template for your house. \n\n#b#cffff0000Changing your house template will remove all decorations from your current house! Make sure it is saved in a preset if you wish to keep it for the future.#nc#nb
-UI_PLAYERHOUSINGBUY_CONFIRM,Select template,Select template
-UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Are you sure you want to select this template? \n\n#bNote:#nb If you already own a house, it will change the template, but all the decorative models you had placed will be removed!","Are you sure you want to select this template? \n\n#bNote:#nb If you already own a house, it will change the template, but all the decorative models you had placed will be removed!"
-UI_PLAYERHOUSINGVISIT_TITLE,Visit houses,Visit houses
-UI_PLAYERHOUSINGVISIT_INFO,"In this window, you can select a friend to visit. Only friends who have allowed visits from you will be listed here.","In this window, you can select a friend to visit. Only friends who have allowed visits from you will be listed here."
-UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow to visit your house,Allow to visit your house
-UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny visit to your house,Deny visit to your house
-UI_GACHA_DESC_HOUSING,You will unlock all the models below to decorate your house.,You will unlock all the models below to decorate your house.
-UI_PLAYERHOUSINGVISIT_CONFIRM,Visit house,Visit house
-UI_HOUSINGSETUP_OBJECTSLIST,Objects list,Objects list
-UI_HOUSINGSETUP_EDITIONMODE,Toggle editing,Toggle editing
-UI_HOUSINGSETUP_RESET,Remove all objects,Remove all objects
-UI_HOUSINGSETUP_RESET_MSGBOX_INFO,Are you sure you want to reset your house objects? #bYou will still be able to place your objects back#nb,Are you sure you want to reset your house objects? #bYou will still be able to place your objects back#nb
-UI_HOUSINGSETUP_PLACE_CONFIRM,Place item,Place item
-UI_HOUSINGSETUP_PLACE_INFO,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.
-UI_TOOLTIP_HOUSENPC,Place that house NPC to get the following bonuses:,Place that house NPC to get the following bonuses:
-UI_HOUSINGSETUP_OBJECTS,Objects,Objects
+UI_MSGBOX_DISMANTLE,Dismantle,I-dismantle
+UI_PLAYERHOUSINGBUY_TITLE,Select house template,Pumili ng template ng bahay
+UI_PLAYERHOUSINGBUY_INFO,Select a template for your house. \n\n#b#cffff0000Changing your house template will remove all decorations from your current house! Make sure it is saved in a preset if you wish to keep it for the future.#nc#nb,Pumili ng template para sa iyong bahay. \n\n#b#cffff0000Ang pagbabago ng template ng iyong bahay ay magtatanggal ng lahat ng dekorasyon mula sa iyong kasalukuyang bahay! Siguraduhing ito ay naka-save sa isang preset kung nais mong panatilihin ito para sa hinaharap.#nc#nb
+UI_PLAYERHOUSINGBUY_CONFIRM,Select template,Pumili ng template
+UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Are you sure you want to select this template? \n\n#bNote:#nb If you already own a house, it will change the template, but all the decorative models you had placed will be removed!","Sigurado ka bang gusto mong piliin ang template na ito? \n\n#bTandaan:#nb Kung mayroon ka nang bahay, babaguhin nito ang template, ngunit lahat ng dekoratibong modelo na iyong inilagay ay matatanggal!"
+UI_PLAYERHOUSINGVISIT_TITLE,Visit houses,Bisita sa mga bahay
+UI_PLAYERHOUSINGVISIT_INFO,"In this window, you can select a friend to visit. Only friends who have allowed visits from you will be listed here.","Sa window na ito, maaari kang pumili ng kaibigan na bibisitahin. Tanging ang mga kaibigan na pinayagan ang mga pagbisita mula sa iyo ang ililista dito."
+UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow to visit your house,Pahintulutan ang pagbisita sa iyong bahay
+UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny visit to your house,Huwag pahintulutan ang pagbisita sa iyong bahay
+UI_GACHA_DESC_HOUSING,You will unlock all the models below to decorate your house.,Bubuksan mo ang lahat ng mga modelo sa ibaba upang palamutian ang iyong bahay.
+UI_PLAYERHOUSINGVISIT_CONFIRM,Visit house,Bisita sa bahay
+UI_HOUSINGSETUP_OBJECTSLIST,Objects list,Listahan ng mga bagay
+UI_HOUSINGSETUP_EDITIONMODE,Toggle editing,Palitan ang pag-edit
+UI_HOUSINGSETUP_RESET,Remove all objects,Tanggalin ang lahat ng bagay
+UI_HOUSINGSETUP_RESET_MSGBOX_INFO,Are you sure you want to reset your house objects? #bYou will still be able to place your objects back#nb,Sigurado ka bang gusto mong i-reset ang mga bagay sa iyong bahay? #bMaaari mo pa ring ilagay muli ang iyong mga bagay#nb
+UI_HOUSINGSETUP_PLACE_CONFIRM,Place item,Ilagay ang bagay
+UI_HOUSINGSETUP_PLACE_INFO,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Pumili ng modelo ng dekorasyon na nais mong gamitin at i-click ang ilagay. Pagkatapos sundin ang mga tagubilin: \n\n- I-left click upang ilagay\n- Mouse wheel upang i-rotate\n- Pindutin ang mouse wheel at mouse left/right upang baguhin ang laki
+UI_TOOLTIP_HOUSENPC,Place that house NPC to get the following bonuses:,Ilagay ang house NPC na iyon upang makuha ang mga sumusunod na bonus:
+UI_HOUSINGSETUP_OBJECTS,Objects,Bagay
 UI_HOUSINGSETUP_NPCS,NPCs,NPCs
 UI_HOUSINGSETUP_FILTER_HDR,Filter,Filter
-UI_HOUSINGSETUP_FILTER_HDR_ALL,All,All
-UI_HOUSINGSETUP_FILTER_TREE,Trees,Trees
-UI_HOUSINGSETUP_FILTER_OTHER,Other,Other
-UI_GUILDHOUSINGBIDS_INFO,You can place a bid on this guild house. In #b#u%s#nb#nu the guild with the highest bid will gain ownership of the guild house. \n\n#b#uNote:#nu#nb \n-You can only bid on one guild house at a time. \n-The penyas spent for placing a bid must be available in your guild's bank. \n-You can always increase your bid before the end.,You can place a bid on this guild house. In #b#u%s#nb#nu the guild with the highest bid will gain ownership of the guild house. \n\n#b#uNote:#nu#nb \n-You can only bid on one guild house at a time. \n-The penyas spent for placing a bid must be available in your guild's bank. \n-You can always increase your bid before the end.
-UI_GUILDHOUSINGBIDS_HDR,Guilds' bids,Guilds' bids
-UI_GUILDHOUSINGBIDS_PLACE,Place Bid,Place Bid
-UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uYour guild bank must have enough penya to cover the bid.#nu#nb,Enter the amount you wish to bid. #b#uYour guild bank must have enough penya to cover the bid.#nu#nb
-UI_GUILDHOUSINGBIDS_EMPTY,There's currently no bids for that house.,There's currently no bids for that house.
-UI_MAP_SHIP_TELEPORT,Teleport to ship,Teleport to ship
-UI_MAP_SHIP_TOOLTIP_OWNED,Ship owned by guild [%s],Ship owned by guild [%s]
-UI_GUILD_TAB_HOUSING,Housing,Housing
-UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next artifact placement in:,Next artifact placement in:
-UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time left to select artifact position:,Time left to select artifact position:
-UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to ship,Teleport to ship
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current House Bonuses,Current House Bonuses
-UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s penya fee will be taken from your guild's bank.#nc#nb,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s penya fee will be taken from your guild's bank.#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild House Management,Guild House Management
-UI_MAP_GHARTIFACT_TOOLTIP,A Guild House artifact is somewhere here...,A Guild House artifact is somewhere here...
-UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own an house.,Your guild does not own an house.
-UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a guild house, every other Saturday, your guild will need to place an Artifact, which costs #b#u%s penyas#nu#nb, at a selected position from a defined list. \n\nIf your guild doesn't have a guild house, you can register for the next artifact battle for #b#u%s penyas#nu#nb and have a chance to obtain a guild house!\nYou can only apply/cancel an hour before the battle start.\n\n\nOnce placed, your guild will be required to defend it on the PK channel from other players, or you will lose ownership of the house. \n\nIf you successfully defend it, you will receive #bspecial rewards and a percentage of the fee#nb will be refunded.","If your guild owns a guild house, every other Saturday, your guild will need to place an Artifact, which costs #b#u%s penyas#nu#nb, at a selected position from a defined list. \n\nIf your guild doesn't have a guild house, you can register for the next artifact battle for #b#u%s penyas#nu#nb and have a chance to obtain a guild house!\nYou can only apply/cancel an hour before the battle start.\n\n\nOnce placed, your guild will be required to defend it on the PK channel from other players, or you will lose ownership of the house. \n\nIf you successfully defend it, you will receive #bspecial rewards and a percentage of the fee#nb will be refunded."
-UI_HOUSINGSETUP_PRESETS,Presets,Presets
-UI_HOUSINGSETUP_MANAGE,Management,Management
-UI_HOUSINGPRESET_INFO,You can manage housing presets for this world on this page. Click on a preset to preview object/NPC placements. \n\n#b#uNote:#nb#nu Applying a preset will remove all current decorations/NPCs. Only the NPCs you placed will be added to the preset list. Some models/NPCs that were part of an expired pack may not be placed when applying the preset.,You can manage housing presets for this world on this page. Click on a preset to preview object/NPC placements. \n\n#b#uNote:#nb#nu Applying a preset will remove all current decorations/NPCs. Only the NPCs you placed will be added to the preset list. Some models/NPCs that were part of an expired pack may not be placed when applying the preset.
-UI_HOUSINGPRESET_HDR,Preset List,Preset List
+UI_HOUSINGSETUP_FILTER_HDR_ALL,All,Lahat
+UI_HOUSINGSETUP_FILTER_TREE,Trees,Puno
+UI_HOUSINGSETUP_FILTER_OTHER,Other,Iba pa
+UI_GUILDHOUSINGBIDS_INFO,You can place a bid on this guild house. In #b#u%s#nb#nu the guild with the highest bid will gain ownership of the guild house. \n\n#b#uNote:#nu#nb \n-You can only bid on one guild house at a time. \n-The penyas spent for placing a bid must be available in your guild's bank. \n-You can always increase your bid before the end.,Maaari kang maglagay ng bid sa guild house na ito. Sa #b#u%s#nb#nu ang guild na may pinakamataas na bid ay magkakaroon ng pagmamay-ari ng guild house. \n\n#b#uTandaan:#nu#nb \n-Maaari ka lamang mag-bid sa isang guild house sa isang pagkakataon. \n-Ang mga penyas na ginastos para sa paglagay ng bid ay dapat na available sa bangko ng iyong guild. \n-Maaari mo palaging dagdagan ang iyong bid bago matapos ang oras.
+UI_GUILDHOUSINGBIDS_HDR,Guilds' bids,Mga bid ng mga gilda
+UI_GUILDHOUSINGBIDS_PLACE,Place Bid,Maglagay ng Bid
+UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uYour guild bank must have enough penya to cover the bid.#nu#nb,Ilagay ang halaga na nais mong i-bid. #b#uAng bangko ng iyong guild ay dapat may sapat na penya upang masakop ang bid.#nu#nb
+UI_GUILDHOUSINGBIDS_EMPTY,There's currently no bids for that house.,Walang kasalukuyang bid para sa bahay na iyon.
+UI_MAP_SHIP_TELEPORT,Teleport to ship,Mag-teleport sa barko
+UI_MAP_SHIP_TOOLTIP_OWNED,Ship owned by guild [%s],Barko na pag-aari ng guild [%s]
+UI_GUILD_TAB_HOUSING,Housing,Pabahay
+UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next artifact placement in:,Susunod na paglalagay ng artifact sa:
+UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time left to select artifact position:,Oras na natitira upang piliin ang posisyon ng artifact:
+UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to ship,Mag-teleport sa barko
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current House Bonuses,Kasalukuyang Mga Bonus sa Bahay
+UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s penya fee will be taken from your guild's bank.#nc#nb,Sigurado ka bang gusto mong lumitaw dito ang artepakto ng iyong guild? #b#cffff0000Tandaan: Isang %s na bayad sa penya ang kukunin mula sa bangko ng iyong guild.#nc#nb
+UI_GUILD_POWER_GUILDHOUSE,Guild House Management,Pamamahala ng Guild House
+UI_MAP_GHARTIFACT_TOOLTIP,A Guild House artifact is somewhere here...,May isang artepakto ng Guild House dito...
+UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own an house.,Ang iyong guild ay walang pag-aari ng bahay.
+UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a guild house, every other Saturday, your guild will need to place an Artifact, which costs #b#u%s penyas#nu#nb, at a selected position from a defined list. \n\nIf your guild doesn't have a guild house, you can register for the next artifact battle for #b#u%s penyas#nu#nb and have a chance to obtain a guild house!\nYou can only apply/cancel an hour before the battle start.\n\n\nOnce placed, your guild will be required to defend it on the PK channel from other players, or you will lose ownership of the house. \n\nIf you successfully defend it, you will receive #bspecial rewards and a percentage of the fee#nb will be refunded.","Kung ang guild ninyo ay may guild house, tuwing ikalawang Sabado, kailangan ninyong maglagay ng Artifact na nagkakahalaga ng #b#u%s penyas#nu#nb sa isang napiling posisyon mula sa itinakdang listahan. \n\nKung ang inyong guild ay walang guild house, maaari kayong magparehistro para sa susunod na labanan ng Artifact sa halagang #b#u%s penyas#nu#nb at magkaroon ng pagkakataong makakuha ng guild house! Maaari lamang kayong mag-apply o mag-cancel isang oras bago magsimula ang labanan. n\n\nKapag naipuwesto na, kinakailangan ng inyong guild na ipagtanggol ito sa PK channel laban sa ibang manlalaro, o mawawala sa inyo ang pagmamay-ari ng bahay. \n\nKung matagumpay ninyo itong ipagtanggol, makakatanggap kayo ng #bspecial na gantimpala at ibabalik ang isang porsyento ng bayad#nb."
+UI_HOUSINGSETUP_PRESETS,Presets,Mga paunang setting
+UI_HOUSINGSETUP_MANAGE,Management,Pamamahala
+UI_HOUSINGPRESET_INFO,You can manage housing presets for this world on this page. Click on a preset to preview object/NPC placements. \n\n#b#uNote:#nb#nu Applying a preset will remove all current decorations/NPCs. Only the NPCs you placed will be added to the preset list. Some models/NPCs that were part of an expired pack may not be placed when applying the preset.,Maaari mong pamahalaan ang mga paunang setting ng pabahay para sa mundong ito sa pahinang ito. I-click ang isang preset upang i-preview ang mga paglalagay ng bagay/NPC. \n\n#b#uTandaan:#nb#nu Ang pag-aaplay ng isang preset ay magtatanggal ng lahat ng kasalukuyang dekorasyon/NPC. Tanging ang mga NPC na inilagay mo lamang ang idaragdag sa listahan ng preset. Ang ilang mga modelo/NPC na bahagi ng isang nag-expire na pakete ay maaaring hindi mailagay kapag inaaplay ang preset.
+UI_HOUSINGPRESET_HDR,Preset List,Listahan ng Preset
 UI_HOUSINGPRESET_NEW,New,Bago
 UI_HOUSINGPRESET_DELETE,Delete,Burahin
-UI_HOUSINGPRESET_APPLY,Apply,Apply
-UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,Preset Name
-UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,You have to set a name.
-UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,The name you set for the preset is incorrect!
-UI_UPGRADE_GENERALTAB,General Upgrade,General Upgrade
-UI_UPGRADE_ELEMENTTAB,Element Upgrade,Element Upgrade
+UI_HOUSINGPRESET_APPLY,Apply,I-ppply
+UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,Pangalan ng Preset
+UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,Kailangan mong magtakda ng pangalan.
+UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,Ang pangalan na itinakda mo para sa preset ay hindi tama!
+UI_UPGRADE_GENERALTAB,General Upgrade,Pangkalahatang Pag-upgrade
+UI_UPGRADE_ELEMENTTAB,Element Upgrade,Pag-upgrade ng Elemento
 UI_UPGRADE_PIERCINGTAB,Piercing,Butasan
-UI_GUILD_TAB_HOUSING_VISITS,Allow external visitors,Allow external visitors
-UI_HOUSINGSETUP_FILTER_CHAIR,Chair,Chair
+UI_GUILD_TAB_HOUSING_VISITS,Allow external visitors,Pahintulutan ang mga panlabas na bisita
+UI_HOUSINGSETUP_FILTER_CHAIR,Chair,Silya
 UI_HOUSINGSETUP_FILTER_SOFA,Sofa,Sofa
-UI_HOUSINGSETUP_FILTER_LIGHT,Light,Light
+UI_HOUSINGSETUP_FILTER_LIGHT,Light,Ilaw
 UI_HOUSINGSETUP_FILTER_DESK,Desk,Desk
-UI_HOUSINGSETUP_FILTER_TABLE,Table,Table
+UI_HOUSINGSETUP_FILTER_TABLE,Table,Lamesa
 UI_HOUSINGSETUP_FILTER_DRAWER,Drawer,Drawer
-UI_HOUSINGSETUP_FILTER_BED,Bed,Bed
-UI_HOUSINGSETUP_FILTER_PLANT,Plant,Plant
-UI_HOUSINGSETUP_FILTER_CLOSET,Closet,Closet
-UI_HOUSINGSETUP_FILTER_BATH,Bath,Bath
+UI_HOUSINGSETUP_FILTER_BED,Bed,Kama
+UI_HOUSINGSETUP_FILTER_PLANT,Plant,Halaman
+UI_HOUSINGSETUP_FILTER_CLOSET,Closet,Kabinet
+UI_HOUSINGSETUP_FILTER_BATH,Bath,Banyo
 UI_PLAYERHOUSINGBUY_SIZE_SMALL,S,S
 UI_PLAYERHOUSINGBUY_SIZE_MEDIUM,M,M
 UI_PLAYERHOUSINGBUY_SIZE_LARGE,L,L
-UI_ACHIEVEMENTS_STAT_PAGE,Additional Stat Page,Additional Stat Page
-UI_STAT_PAGE_SELECT,Select your stat page:,Select your stat page:
-UI_HOUSINGSETUP_FILTER_FENCE,Fence,Fence
+UI_ACHIEVEMENTS_STAT_PAGE,Additional Stat Page,Karagdagang pahina ng estadistika
+UI_STAT_PAGE_SELECT,Select your stat page:,Piliin ang iyong pahina ng estadistika:
+UI_HOUSINGSETUP_FILTER_FENCE,Fence,Bakod
 UI_HOUSINGSETUP_FILTER_GRASS,Grass,Damo
 UI_HOUSINGSETUP_FILTER_ROCK,Rock,Bato
-UI_REPORT_DISCORD,Please send a message through our Discord Modmail with valid evidence to report a player. Do you want to open Discord now?,Please send a message through our Discord Modmail with valid evidence to report a player. Do you want to open Discord now?
-UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unknown Guild
-UI_GUILDSHIP_VACANT,Vacant Ship,Vacant Ship
+UI_REPORT_DISCORD,Please send a message through our Discord Modmail with valid evidence to report a player. Do you want to open Discord now?,Mangyaring magpadala ng mensahe sa aming Discord Modmail na may wastong ebidensya upang iulat ang isang manlalaro. Gusto mo bang buksan ang Discord ngayon?
+UI_GUILDSHIP_UNKNOWN,Unknown Guild,Hindi Kilalang Guild
+UI_GUILDSHIP_VACANT,Vacant Ship,Walang Laman na Barko
 UI_OPTION_WINDOWS_FONT,PC Flyff Font,PC Flyff Font
-UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,Create Ultimate Weapon
-UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate Weapons during event period and get rewards!\nYou can earn more rewards based on the number of times you create.,Create Ultimate Weapons during event period and get rewards!\nYou can earn more rewards based on the number of times you create.
-UI_CREATE_ULTIMATE_WEAPON_LVL1,1 time,1 time
-UI_CREATE_ULTIMATE_WEAPON_LVL2,2 times,2 times
-UI_CREATE_ULTIMATE_WEAPON_LVL3,3 times,3 times
-UI_CREATE_ULTIMATE_WEAPON_LVL4,4 times,4 times
-UI_CREATE_ULTIMATE_WEAPON_LVL5,5 times,5 times
-UI_UPGRADE_ULTIMATE_WEAPON,Upgrade Ultimate Weapon,Upgrade Ultimate Weapon
-UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate Weapon during the event period and get Rewards!\nYou can earn more rewards based on the upgrade level.,Upgrade Ultimate Weapon during the event period and get Rewards!\nYou can earn more rewards based on the upgrade level.
-UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieved Ultimate Upgrade +1,Achieved Ultimate Upgrade +1
-UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieved Ultimate Upgrade +2,Achieved Ultimate Upgrade +2
-UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieved Ultimate Upgrade +3,Achieved Ultimate Upgrade +3
-UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieved Ultimate Upgrade +4,Achieved Ultimate Upgrade +4
-UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieved Ultimate Upgrade +5,Achieved Ultimate Upgrade +5
-UI_RAINBOWRACE_RANKING,Leaderboard,Leaderboard
-UI_EXCHANGE_ACCOUNTLINK,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc
-UI_EXCHANGE_SOULLINK,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc
-UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,Rainbow Race
-UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.
-UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
-UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in with Email
-UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Login with Flyff Universe Email or Username
-UI_SESSION_TITLE,Saved Sessions,Saved Sessions
-UI_SESSION_REMOVE,Remove,Remove
-UI_SESSION_REMOVEALL,Remove All,Remove All
-UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
-UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Client performance is low.\nPlease check for 2 items below.
-UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Change in-game video/graphic setting adjusted to your PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Make sure your browser has hardware acceleration turned on.
-UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Go to Game Setting
-UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Finish Rainbow Race
-UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Unlock through quests, achievements, or an Extra Bag from the Cash Shop."
-UI_LOCKED_SLOT_TIP_COUPLE,You can expand slots through couple level-ups and better couple rings.,You can expand slots through couple level-ups and better couple rings.
-UI_QUEST_SLOTS_COMMAND,Unfinished quests which unlock inventory slots:,Unfinished quests which unlock inventory slots:
-UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or unfinished achievements which unlock inventory slots:,Unclaimed or unfinished achievements which unlock inventory slots:
-UI_QUEST_KILL_MONSTER_COUNT,Defeat monsters #cffc32f07#b%d/%d#nb#nc,Defeat monsters #cffc32f07#b%d/%d#nb#nc
-UI_STORAGE_EXPIRED,(Expired),(Expired)
-UI_STORAGE_GETALL,Retrieve All,Retrieve All
-UI_STORAGE_GETALL_TIP,Retrieve all items to your inventory.,Retrieve all items to your inventory.
-UI_STORAGE_LIST,Contains %d items:,Contains %d items:
-UI_STORAGE_MORE,And %d more,And %d more
-UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click or Right Click to view content.
-UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click to view content.
-UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
-UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
-UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
-UI_STATBOARD_TITLE,Statboard,Statboard
-UI_STATBOARD_RAW,Raw Stats,Raw Stats
-UI_STATBOARD_GRAPHS,Graphs,Graphs
-UI_STATBOARD_RANK,Rank,Rank
-UI_STATBOARD_TIME,Time,Time
-UI_STATBOARD_ITEMS,Items,Items
-UI_STATBOARD_SPEED,Avg Speed,Avg Speed
-UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
-UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Displays the Upgradable Item Pack Menu.
-UI_UPGRADE_ITEMPACK,Upgrade,Upgrade
-UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item Pack Upgrade
-UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed.","When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed."
-UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack in the item slot.,Drag and drop an upgradable item pack in the item slot.
-UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?","Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?"
-UI_TAB_EGG_USE_NAME,Egg Use Achievements event,Egg Use Achievements event
-UI_EGG_USE_EVENT,Egg Use,Egg Use
-UI_EGG_USE_EVENT_DESC,"Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!","Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!"
-UI_EGG_USE_RED_EGG,Red Egg,Red Egg
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Orange Egg
-UI_EGG_USE_YELLOW_EGG,Yellow Egg,Yellow Egg
-UI_EGG_USE_GREEN_EGG,Green Egg,Green Egg
-UI_EGG_USE_BLUE_EGG,Blue Egg,Blue Egg
-UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in: ,Expires in: 
-UI_HOUSINGSETUP_KEEPTIME,Expires in: ,Expires in: 
-UI_GUILD_TAB_HOUSING_JOINBATTLE,Join Artifact Battle,Join Artifact Battle
-UI_GUILD_TAB_HOUSING_CANCELBATTLE,Cancel Artifact Battle,Cancel Artifact Battle
-UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc"
-UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.
+UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,Lumikha ng Pinakamahusay na Sandata
+UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate Weapons during event period and get rewards!\nYou can earn more rewards based on the number of times you create.,Lumikha ng Pinakamahusay na Sandata sa panahon ng kaganapan at makakuha ng mga gantimpala!\nMaaari kang kumita ng mas maraming gantimpala batay sa bilang ng beses na lumikha ka.
+UI_CREATE_ULTIMATE_WEAPON_LVL1,1 time,1 beses
+UI_CREATE_ULTIMATE_WEAPON_LVL2,2 times,2 beses
+UI_CREATE_ULTIMATE_WEAPON_LVL3,3 times,3 beses
+UI_CREATE_ULTIMATE_WEAPON_LVL4,4 times,4 beses
+UI_CREATE_ULTIMATE_WEAPON_LVL5,5 times,5 beses
+UI_UPGRADE_ULTIMATE_WEAPON,Upgrade Ultimate Weapon,Pag-upgrade ng Pinakamahusay na Sandata
+UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate Weapon during the event period and get Rewards!\nYou can earn more rewards based on the upgrade level.,I-upgrade ang Pinakamahusay na Sandata sa panahon ng kaganapan at makakuha ng mga gantimpala!\nMaaari kang kumita ng mas maraming gantimpala batay sa antas ng pag-upgrade.
+UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieved Ultimate Upgrade +1,Nakamit ang Pinakamahusay na Pag-upgrade +1
+UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieved Ultimate Upgrade +2,Nakamit ang Pinakamahusay na Pag-upgrade +2
+UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieved Ultimate Upgrade +3,Nakamit ang Pinakamahusay na Pag-upgrade +3
+UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieved Ultimate Upgrade +4,Nakamit ang Pinakamahusay na Pag-upgrade +4
+UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieved Ultimate Upgrade +5,Nakamit ang Pinakamahusay na Pag-upgrade +5
+UI_RAINBOWRACE_RANKING,Leaderboard,Listahan ng mga nangunguna
+UI_EXCHANGE_ACCOUNTLINK,#cffff0000You will obtain an Account-Linked item because some of your sacrifice items are Account-Linked.#nc,#cffff0000Makakakuha ka ng isang Account-Linked na item dahil ang ilan sa iyong mga isinusukli na item ay Account-Linked.#nc
+UI_EXCHANGE_SOULLINK,#cffff0000You will obtain a Soul-Linked item because some of your sacrifice items are Soul-Linked.#nc,#cffff0000Makakakuha ka ng isang Soul-Linked na item dahil ang ilan sa iyong mga isinusukli na item ay Soul-Linked.#nc
+UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,Karera ng Bahaghari
+UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like to teleport to the starting point? Declining will disqualify you from the race with no refund.,Ang Karera ng Bahaghari ay magsisimula sa lalong madaling panahon. Gusto mo bang mag-teleport sa panimulang punto? Ang pagtanggi ay magreresulta sa diskwalipikasyon mula sa karera nang walang refund.
+UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Pasko Pass 2023
+UI_HOME_LOGIN_EMAIL,Sign in with Email,Mag-sign in gamit ang Email
+UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Mag-login gamit ang Flyff Universe Email o Username
+UI_SESSION_TITLE,Saved Sessions,Nai-save na Mga Session
+UI_SESSION_REMOVE,Remove,Alisin
+UI_SESSION_REMOVEALL,Remove All,Alisin Lahat
+UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Pag-iingat
+UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Mababa ang performance ng kliyente.\nPakisuri ang 2 item sa ibaba.
+UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) I-adjust ang mga setting ng video/graphic sa laro ayon sa iyong PC.
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Siguraduhin na ang iyong browser ay may hardware acceleration na naka-on.
+UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Pumunta sa Mga Setting ng Laro
+UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Tapusin ang Karera ng Bahaghari
+UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","I-unlock sa pamamagitan ng mga quest, achievement, o isang Extra Bag mula sa Cash Shop."
+UI_LOCKED_SLOT_TIP_COUPLE,You can expand slots through couple level-ups and better couple rings.,Maaari mong palawakin ang mga slot sa pamamagitan ng couple level-ups at mas magagandang couple rings.
+UI_QUEST_SLOTS_COMMAND,Unfinished quests which unlock inventory slots:,Hindi pa natapos na mga quest na nagbubukas ng mga slot sa imbentaryo:
+UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or unfinished achievements which unlock inventory slots:,Hindi pa nakukuha o hindi pa natatapos na mga achievement na nagbubukas ng mga slot sa imbentaryo:
+UI_QUEST_KILL_MONSTER_COUNT,Defeat monsters #cffc32f07#b%d/%d#nb#nc,Patayin ang mga halimaw #cffc32f07#b%d/%d#nb#nc
+UI_STORAGE_EXPIRED,(Expired),(Nag-expire)
+UI_STORAGE_GETALL,Retrieve All,Kunin Lahat
+UI_STORAGE_GETALL_TIP,Retrieve all items to your inventory.,Kunin lahat ng item sa iyong imbentaryo.
+UI_STORAGE_LIST,Contains %d items:,Naglalaman ng %d item:
+UI_STORAGE_MORE,And %d more,At %d pa
+UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click o Right Click upang tingnan ang nilalaman.
+UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click upang tingnan ang nilalaman.
+UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Pindutin nang matagal upang tingnan ang nilalaman.
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium na Gantimpala sa Pag-login
+UI_ACHIEVEMENTS_PROBABILITY,Probability,Posibilidad
+UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Impormasyon sa posibilidad ng premium na gantimpala
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Bumili ng Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Bumili ng Login Coupon
+UI_STATBOARD_TITLE,Statboard,Patalastas ng estadistika
+UI_STATBOARD_RAW,Raw Stats,Hilaw na estadistika
+UI_STATBOARD_GRAPHS,Graphs,Mga grap
+UI_STATBOARD_RANK,Rank,Ranggo
+UI_STATBOARD_TIME,Time,Oras
+UI_STATBOARD_ITEMS,Items,Mga item
+UI_STATBOARD_SPEED,Avg Speed,Karaniwang Bilis
+UI_STATBOARD_HIDDEN,Hidden zero values: %d,Nakatagong zero na halaga: %d
+UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Ipinapakita ang Menu ng Upgradable Item Pack.
+UI_UPGRADE_ITEMPACK,Upgrade,Pag-upgrade
+UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Pag-upgrade ng Item Pack
+UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can get all the items listed below.\nIf you succeed in upgrading the egg, you will receive items that are higher ranked, but if you fail, the egg may be downgraded or destroyed.","Kapag binuksan mo ang isang itlog, maaari mong makuha ang lahat ng mga item na nakalista sa ibaba.\nKung magtagumpay ka sa pag-upgrade ng itlog, makakatanggap ka ng mga item na may mas mataas na ranggo, ngunit kung mabigo, ang itlog ay maaaring ma-downgrade o masira."
+UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack in the item slot.,I-drag at i-drop ang isang upgradable na item pack sa item slot.
+UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failure may downgrade or destroy the item.\nDo you really want to upgrade?","Ang matagumpay na pag-upgrade ay nagpapataas ng gantimpala, ngunit ang kabiguan ay maaaring mag-downgrade o sirain ang item.\nTalaga bang gusto mong mag-upgrade?"
+UI_TAB_EGG_USE_NAME,Egg Use Achievements event,Mga Natamo sa Paggamit ng Itlog event
+UI_EGG_USE_EVENT,Egg Use,Paggamit ng Itlog
+UI_EGG_USE_EVENT_DESC,"Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!","Makakatanggap ng gantimpala kapag naabot ang tiyak na bilang ng mga itlog na ginamit sa panahon ng kaganapan.\nAng bilang ng mga gantimpala ay limitado sa bawat kulay ng itlog kaya magmadali.\nUnang dumating, unang makakakuha!"
+UI_EGG_USE_RED_EGG,Red Egg,Pulang Itlog
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Kahel na Itlog
+UI_EGG_USE_YELLOW_EGG,Yellow Egg,Dilaw na Itlog
+UI_EGG_USE_GREEN_EGG,Green Egg,Berde na Itlog
+UI_EGG_USE_BLUE_EGG,Blue Egg,Asul na Itlog
+UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in: ,Mag-e-expire sa: 
+UI_HOUSINGSETUP_KEEPTIME,Expires in: ,Mag-e-expire sa: 
+UI_GUILD_TAB_HOUSING_JOINBATTLE,Join Artifact Battle,Sumali sa Labanan ng Artifact
+UI_GUILD_TAB_HOUSING_CANCELBATTLE,Cancel Artifact Battle,Kanselahin ang Labanan ng Artifact
+UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Gusto mo bang sumali sa susunod na Labanan ng Artifact ng Guild?\n#cffff0000#bBABALA: Sa pagsali sa Labanan ng Artifact, isang bayad na %s penyas ang ibabawas sa iyong guild bank!#nb#nc"
+UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Gusto mo bang kanselahin ang pagsali sa Labanan ng Artifact ng Guild? Makakatanggap ka ng lahat ng penyas na ginamit mo sa pagsali sa laban.
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTBATTLEHDR,Next artifact battle in:,Next artifact battle in:
-UI_CHARINFO_HOUSING,Housing,Housing
-UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Current Template
-UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Expires in
-UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Current bonuses
-UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,No house yet.
-UI_CHARINFO_HOUSING_EXPIRED,Expired.,Expired.
-UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc
-UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends in ,Artifact Battle Ends in 
-UI_GUILD_LOG_BTN,Log,Log
-UI_GUILDLOG_TITLE,Guild Log,Guild Log
-UI_GUILDLOG_JOINED,Joined,Joined
-UI_GUILDLOG_LEFT,Left,Left
-UI_GUILDLOG_EJECTED,Ejected,Ejected
-UI_GACHA_OPEN_ALL,Open All,Open All
-UI_GACHA_OPEN_ONE,Open 1,Open 1
-UI_GACHA_OPEN_ALL_CONFIRM,Will you open all the select boxes?,Will you open all the select boxes?
-UI_BATTLEPASS_MISSION_USEITEM,Use %s,Use %s
-UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Total Likes
-UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
-UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,The message has to be between 4 and %d characters. 
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Delete guest message?
-UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,Are you sure you want to delete that guest message?
+UI_CHARINFO_HOUSING,Housing,Pabahay
+UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Kasalukuyang Template
+UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Mag-e-expire sa
+UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Kasalukuyang mga bonus
+UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,Wala pang bahay.
+UI_CHARINFO_HOUSING_EXPIRED,Expired.,Nag-expire na.
+UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,Sinusubukan mong ilapat ang isang preset na naglalaman ng mga bagay o NPC na hindi permanente. Sigurado ka bang gusto mo pa rin itong ilapat? \n#b#cff78e12fPaalala: Ang mga bagay at NPC na may pinakamaikling oras ng pag-expire ang bibigyan ng prayoridad.#nb#nc
+UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends in ,Natapos ang Labanan ng Artifact sa
+UI_GUILD_LOG_BTN,Log,Tala
+UI_GUILDLOG_TITLE,Guild Log,Tala ng Guild
+UI_GUILDLOG_JOINED,Joined,Sumali
+UI_GUILDLOG_LEFT,Left,Umalis
+UI_GUILDLOG_EJECTED,Ejected,Inalis
+UI_GACHA_OPEN_ALL,Open All,Buksan Lahat
+UI_GACHA_OPEN_ONE,Open 1,Buksan 1
+UI_GACHA_OPEN_ALL_CONFIRM,Will you open all the select boxes?,Bubuksan mo ba ang lahat ng mga napiling kahon?
+UI_BATTLEPASS_MISSION_USEITEM,Use %s,Gamitin %s
+UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Kabuuang Likes
+UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Mensaheng Maligayang Pagdating
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Mensaheng Maligayang Pagdating
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Mag-post ng Mensahe
+UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,Ang mensahe ay dapat nasa pagitan ng 4 at %d na mga karakter.
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Tanggalin ang mensahe ng bisita?
+UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,Sigurado ka bang gusto mong tanggalin ang mensahe ng bisita na iyon?
 UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
-UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
-UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Ceiling
-UI_HOUSINGSETUP_FILTER_WALL,Wall,Wall
+UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Sahig
+UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Kisame
+UI_HOUSINGSETUP_FILTER_WALL,Wall,Pader
 UI_PARTY_CHANGE_NAME,Name,Pangalan
-UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
-UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,There are no Kalgas Assault scheduled.
-UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Can't enter Kalgas Assault.
-UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s
-UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
-UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
-UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
-UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
-UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
-UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
-UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Rank
-UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,Transport to Town
-UI_KALGAS_ASSAULT_RANK_WINNER,Winner : %s,Winner : %s
-UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking : %s,My Ranking : %s
-UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,No record
+UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Baguhin ang pangalan ng Partido.
+UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,Walang nakatakdang Kalgas Assault.
+UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Hindi makapasok sa Kalgas Assault.
+UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s,Gusto mo bang sumali sa Kalgas Assault?\n\nOras ng pagpasok: %s
+UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Hindi pa maaaring pumasok sa Kalgas Assault. Bituin ng Pagpasok: %02d:%02d:%02d
+UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Nagsimula na ngayong araw ang Kalgas Assault.
+UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.",#cff00000ffPagpaparehistro#nc\nOras hanggang pagpaparehistro:\n %s \nOras hanggang pagpasok:\n %s \nPinakamababang Antas: %d\n\nKasalukuyang bilang ng mga nakarehistrong manlalaro: %d\n\n※ Tanging ang mga gumagamit na nakarehistro para sa Kalgas Assault lamang ang maaaring lumahok.\n※ Hindi ka makakapasok paglipas ng takdang oras. ※ Maximum na 200 manlalaro bawat instance (100 vs 100) ※ Ang pinakamababang bilang ng mga manlalaro para sa mga gantimpalang pang-ranggo ay 20 o higit pa - at kung mas mababa sa 20 ang mga manlalaro - tanging ang gantimpala ng nagwagi lamang ang ibibigay. ※ Ang mga koponan ay pipiliin nang random."
+UI_SUN,Sunday,Linggo
+UI_MON,Monday,Lunes
+UI_TUE,Tuesday,Martes
+UI_WED,Wednesday,Myerkules
+UI_THU,Thursday,Huwebes
+UI_FRI,Friday,Biyernes
+UI_SAT,Saturday,Sabado
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Impormasyon sa Pag-atake ng Kalgas
+UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Pagpaparehistro para sa Kalgas Assault
+UI_KALGAS_ASSAULT_REGISTER,Registration,Pagpaparehistro
+UI_KALGAS_ASSAULT_REGISTERED,Registered,Narehistro
+UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Ranggo
+UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,Paglalakbay papuntang bayan
+UI_KALGAS_ASSAULT_RANK_WINNER,Winner : %s,Nanalo : %s
+UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking : %s,Ang Aking Ranggo : %s
+UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,Walang tala
 UI_KALGAS_ASSAULT_RANK_KALGAS,Kalgas,Kalgas
-UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
-UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
-UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
-UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
-UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
-UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
-UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
-UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Revival
-UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,After : %d
-UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Starting Point
-UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Use gold coin x%d
-UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Use silver coin
-UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Time until Kalgas appears
-UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Time until the Kalgas Assault end
-UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","Due to insufficient participation time, you will be excluded from rewards and rankings."
-UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
-UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
-UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
-UI_DRAW,Draw,Draw
-UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
-UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
-UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault will start in %d minutes.
-UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully."
-UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
-UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
-UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
+UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artefakto
+UI_KALGAS_ASSAULT_RANK_KILL,Kill,Pumatay
+UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranngo
+UI_KALGAS_ASSAULT_RANK_TEAM,Team,Koponan
+UI_KALGAS_ASSAULT_RANK_NAME,Name,Pangalan
+UI_KALGAS_ASSAULT_RANK_POINT,Point,Punto
+UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Damag ng Boss Monster
+UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Bilang ng Pagpatay : %d
+UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Pagbangon sa Kalgas Assault
+UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,Pagkatapos ng : %d
+UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Puntong Panimula
+UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Gumamit ng gintong barya x%d
+UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Gumamit ng pilak na barya
+UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Oras bago lumitaw si Kalgas
+UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Oras bago matapos ang Kalgas Assault
+UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","Dahil sa kakulangan ng oras ng pakikilahok, ikaw ay hindi makakakuha ng gantimpala at ranggo."
+UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Binabati kita. Ang koponan ng %s ay nanalo!
+UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Sa kasamaang palad, hindi pa napagpasyahan ang nanalo.
+UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","Pagkatapos ng %d segundo, ikaw ay awtomatikong ililipat sa bayan."
+UI_BLACK,Black,Itim
+UI_WHITE,White,Puti
+UI_DRAW,Draw,Tabla
+UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Malapit nang magsimula ang Kalgas Assault!
+UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Magsasara ang pag-entry para sa Kalgas Assault sa loob ng %d minuto.
+UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Magsisimula ang Kalgas Assault sa %d minuto.
+UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","Maaari kang makipagtulungan sa iyong kaibigan upang makipagkumpitensya sa isang karera. \n\nGayunpaman, kapag napili mo na ang isang koponan, hindi mo na ito mababago o ma-cancel, kaya pumili nang maingat."
+UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Pagsasamang Hindi Pinili
+UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Makipagtulungan sa isang kaibigan
+UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Imbitahan ang isang kaibigan
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Lebel
 UI_RAINBOWRACE_FRIEND_NAME,Name,Pangalan
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
-UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Aplikasyon
+UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Gusto mo bang lumahok sa Rainbow Race Duo (%s) kasama si '%s'?\n\nAng bayad sa aplikasyon ay %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
 UI_RAINBOWRACE_SPEED,SPEED,SPEED
-UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.
-UI_RAINBOWRACE_INDIV_REGISTERED,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TEAM_REGISTERED,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.
-UI_RAINBOWRACE_TITLE,Rainbow Race,Rainbow Race
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Equip (L)
-UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Reset Equipment
-UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,No participation information
-UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Playtime Minutes #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Housing Entry Count #cffc32f07#b%d/%d#nb#nc
-UI_CHATFILTER_TEAM,Team,Team
-UI_CHAT_TEAM_TIP,Sending messages to team member.,Sending messages to team member.
-UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Visit friend's house
-UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Enter instance dungeon
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Visit Friend's House and press heart
-UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Fly Speed
-UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Experience Loss Reduction
-UI_TOOLTIP_REVIVEHP,HP Restored on revive,HP Restored on revive
-UI_TOOLTIP_REVIVEMP,MP Restored on revive,MP Restored on revive
-UI_TOOLTIP_REVIVEFP,FP Restored on revive,FP Restored on revive
-UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor upgrade chance,Weapon/Armor upgrade chance
-UI_TOOLTIP_UPGRADEACCESSORY,Accessory upgrade chance,Accessory upgrade chance
-UI_TOOLTIP_UPGRADEPIERCING,Piercing upgrade chance,Piercing upgrade chance
-UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Battle Artifact HP
-UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Battle Artifact DEF
-UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Battle Artifact Recovery
-UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP Block Penetration
-UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Added Vendor Shop Day(s)
-UI_TOOLTIP_PARTYEXP_RATE,Party Exp,Party Exp
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Allies HP near house artifact,Allies HP near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Allies ATK near house artifact,Allies ATK near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Allies DEF near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Allies Attack Speed near house artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Allies Casting Speed near house artifact
-UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
-UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
-UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
-UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
-UI_OPTION_UNDERWATER,Underwater Effect,Underwater Effect
-UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
-UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Write friend's house guestbook
-UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
-UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,An error occured and purchase was not completed.
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Number of uses today: %d
-UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Reach gear or accessory upgrade +%s or above
-UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
-UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Are you sure that you want to use the Scroll of Resurrection to resurrect?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
-UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
+UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race Duo(%s). Do you accept?\n\nThe application fee is %lld penya.,%s ay nag-anyaya sa iyo na lumahok sa Rainbow Race Duo(%s). Tinatanggap mo ba?\n\nAng bayad sa aplikasyon ay %lld penya.
+UI_RAINBOWRACE_INDIV_REGISTERED,You have signed up to participate in the Rainbow Race Individual Race (%s).\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Individual Race (%s).\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have signed up to participate in the Rainbow Race Duo Team Race (%s).\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Duo Team Race (%s).\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TEAM_REGISTERED,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.,Nakapag-sign up ka na upang lumahok sa Rainbow Race Duo Team Race (%s) kasama si '%s'.\n\nNagastos mo ang %lld penya.
+UI_RAINBOWRACE_TITLE,Rainbow Race,Karera ng Bahaghari
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Ilagay (L)
+UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,I-reset ang Kagamitan
+UI_KALGAS_ASSAULT_RANK_NODATA,Walang impormasyon sa pakikilahok,Walang impormasyon sa pakikilahok
+UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Oras ng Paglalaro #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Bilang ng Pagpasok sa Bahay #cffc32f07#b%d/%d#nb#nc
+UI_CHATFILTER_TEAM,Koponan,Koponan
+UI_CHAT_TEAM_TIP,Sending messages to team member.,Pagpapadala ng mga mensahe sa kasapi ng koponan.
+UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Bisita sa bahay ng kaibigan
+UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Pumasok sa instance dungeon
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Bisita sa bahay ng kaibigan at pindutin ang puso
+UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Bilis ng Paglipad
+UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Bawasan ang Pagkawala ng Karanasan
+UI_TOOLTIP_REVIVEHP,HP Restored on revive,HP Naibalik sa Pagbangon
+UI_TOOLTIP_REVIVEMP,MP Restored on revive,MP Naibalik sa Pagbangon
+UI_TOOLTIP_REVIVEFP,FP Restored on revive,FP Naibalik sa Pagbangon
+UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor upgrade chance,Tsansa ng pag-upgrade ng sandata/baluti
+UI_TOOLTIP_UPGRADEACCESSORY,Accessory upgrade chance,Tsansa ng pag-upgrade ng aksesorya
+UI_TOOLTIP_UPGRADEPIERCING,Piercing upgrade chance,Tsansa ng pag-upgrade ng panaksak
+UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Laban sa Artifact na HP
+UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Laban sa Artifact na DEF
+UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Laban sa Artifact na Pagbawi
+UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP Bloke ng Penetrasyon
+UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Idinagdag na Araw ng Vendor Shop
+UI_TOOLTIP_PARTYEXP_RATE,Party Exp,Partido Exp
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Allies HP near house artifact,Mga kaalyado HP malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Allies ATK near house artifact,Mga kaalyado ATK malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Mga kaalyado DEF malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Mga kaalyado Bilis ng Atake malapit sa bahay na artepakto
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Mga kaalyado Bilis ng Pagsasagawa ng Spell malapit sa bahay na artepakto
+UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Malapitan/Malayuan Block
+UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Kritikal na Pinsala
+UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Kritikal na Tsansa
+UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Bonus na Pagbagsak
+UI_OPTION_UNDERWATER,Underwater Effect,Epekto sa ilalim ng tubig
+UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Sigurado ka bang gusto mong muling mabuhay sa Lodelight?
+UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Sigurado ka bang gusto mong muling mabuhay sa Lodestar?
+UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Nais mo bang bilhin ang %dx %s (x%d) para sa %s?
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Sumulat sa aklat-bisita ng bahay ng kaibigan.
+UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Matagumpay ang pagbili!
+UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Nakansela ang pagbili.
+UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,Nagkaroon ng error at hindi natapos ang pagbili.
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Bilang ng mga paggamit ngayon: %d
+UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Pag-upgrade ng gear o aksesorya sa +%s o higit pa
+UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Mga halimaw na papatayin
+UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Sigurado ka bang gusto mong gamitin ang Scroll of Resurrection upang muling mabuhay?
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Katalista
+UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Pamahalaan ang mga abiso
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Pamahalaan ang privacy
+UI_OPTION_ACCOUNT_TOS,Terms of Service,Mga Tuntunin ng Serbisyo
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Patakaran sa privacy
-UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
-UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
-UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
-UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe
-UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
+UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Pag-withdraw ng Membership
+UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Sentro ng Customer  
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,Kasunduan sa Serbisyo
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Mangyaring ipasok ang iyong petsa ng kapanganakan
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,Sang-ayon ako sa Mga Tuntunin ng Serbisyo at kinikilala na aking nabasa at naunawaan ang Patakaran sa Privacy
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) Sang-ayon ako
+UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Suriin ang Mga Tuntunin ng Serbisyo
+UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Suriin ang Patakaran sa Privacy
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) Sang-ayon ako na makatanggap ng mga patalastas at mga update tungkol sa Flyff Universe at mga kaugnay na serbisyo na inilathala sa Flyff Universe
+UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,Mga abiso sa loob ng app
 UI_SERVICE_AGREEMENT_EMAIL,Email,Email
 UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Ikaw ba ay residente ng California?
 UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
-UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
-UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
-UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
-UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
-UI_TRADE_LOG_PUT,Added,Added
-UI_TRADE_LOG_PULL,Removed,Removed
-UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
-UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
-UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
-UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
-UI_COUPON_CODE,Coupon Code,Coupon Code
-UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
-UI_COUPON_CLAIM,Claim,Claim
-UI_COUPON_CODE_PAGE,Claim code ,Claim code 
-UI_COUPON_LOGS_PAGE,Used coupons ,Used coupons 
-UI_COUPON_LOGS_CODE,Code ,Code 
-UI_COUPON_LOGS_USETIME,Used at,Used at
-UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
-UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
-UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
-UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Sumasang-ayon kaba?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
-UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
-UI_SEARCHSHOP_RARITY,Rarity,Rarity
-UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
-UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
-UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
-UI_PARTY_READY_CHECK,Ready,Ready
-UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
-UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
-UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
-UI_PARTY_READY_INFO2,is ready!,is ready!
-UI_PARTY_READY_INFO3,is not ready.,is not ready.
-UI_PARTY_EDIT_NAME,Edit the party's name.,Edit the party's name.
-UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
-UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
-UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
-UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
-UI_SEARCHSHOP_SELLER,Seller,Seller
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
-UI_SEARCHSHOP_LOCATION,Show Location,Show Location
-UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
-UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
+UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Suriin ang Pahayag sa Privacy ng California
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Sang-ayon sa Lahat
+UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Error sa Kasunduan
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Mangyaring ipasok ang wastong petsa ng kapanganakan.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Dapat ay hindi bababa sa 16 taong gulang upang maglaro ng laro.
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Dapat mong basahin at tanggapin ang mga tuntunin ng serbisyo at patakaran sa privacy upang magpatuloy.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Mangyaring ipasok ang wastong zip code.
+UI_ROLL_AND_MOVE_START,START,SIMULA
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,I-roll ang dice
+UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Gantimpala sa Pagkumpleto
+UI_TRADE_LOG_PUT,Added,Idinagdag
+UI_TRADE_LOG_PULL,Removed,Inalis
+UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Nakumpirma ang kalakalan.
+UI_TRADE_LOG_ACCEPT,Accepted the trade.,Tinanggap ang kalakalan.
+UI_TRADE_LIST_VIEW,Toggle the list view.,I-toggle ang list view.
+UI_COUPON_TITLE,Coupon,Kupon
+UI_COUPON_ENTER,Please enter your coupon code.,Mangyaring ipasok ang iyong kodigo ng kupon.
+UI_COUPON_CODE,Coupon Code,Kodigo ng Kupon
+UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Ang mga susi ay mukhang ganito:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_CLAIM,Claim,Pag-angkin
+UI_COUPON_CODE_PAGE,Claim code ,Kodigo ng Pag-angkin
+UI_COUPON_LOGS_PAGE,Used coupons ,Ginamit na mga kupon
+UI_COUPON_LOGS_CODE,Code ,Kodigo
+UI_COUPON_LOGS_USETIME,Used at,Ginamit sa
+UI_COUPONGIFT_TITLE,Coupon Gift,Regalo ng Kupon
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000Mayroon kaming something para sa iyo!#nc\n\nSalamat sa paglalaro ng #b%s#nb na bersyon ng Flyff Universe.\n\nBilang isang regalo, ipinadala namin sa iyo ang isang kodigo ng kupon sa iyong post box.\nMaaari mo itong gamitin mula sa #bEvents#nb menu kahit kailan mo gusto, sa anumang server o karakter.\n\nMag-enjoy!"
+UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Alisin ang shortcut na ito
+UI_MENU_SAVE,Save changes,Isave ang mga pagbabago
+UI_MENU_EDIT,Edit the menu,I-edit ang menu
+UI_MENU_FULL,No more highlighted menus can be set.,Wala nang higit pang naka-highlight na menu na maaaring itakda.
+UI_MENU_UNSPECIFIED,Unspecified,Hindi tinukoy
+UI_OPTION_KEYREPEAT,Holding Keys,Hawak ang mga susi
+UI_DELETEACCOUNT_TITLE,Delete Account,Burahin ang Account
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password para sa pag-alis ng account\nIpasok ang password
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Sumasang-ayon ka ba?
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Kapag inalis mo ang iyong pagiging miyembro, lahat ng data ay mabubura at hindi mo magagamit ang serbisyo, maibabalik ang iyong account, o makatanggap ng refund para sa anumang natitirang bayad na item o pera."
+UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Hanapin ang mga item sa Personal at Vendor na tindahan.
+UI_SEARCHSHOP_RARITY,Rarity,Pagkapambihira
+UI_SEARCHSHOP_UPGRADE,Upgrade:,Pag-upgrade:
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Isama ang Keyword
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Tiyak na Keyword
+UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distansya sa Tindahan
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Kabuuang # ng mga item: %d
+UI_SEARCHSHOP_NOSHOP,No shop matching your search.,Walang tindahan na tumutugma sa iyong paghahanap.
+UI_PARTY_READY_CHECK,Ready,Handa na
+UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Simulan ang isang ready check para sa lahat ng miyembro ng party.
+UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Sigurado ka bang nais mong simulan ang isang ready check para sa lahat ng miyembro ng party?
+UI_PARTY_READY_PROMPT,Are you ready?,Handa ka na ba?
+UI_PARTY_READY_INFO1,has not responded yet.,hindi pa sumasagot.
+UI_PARTY_READY_INFO2,is ready!,handa na!
+UI_PARTY_READY_INFO3,is not ready.,hindi pa handa.
+UI_PARTY_EDIT_NAME,Edit the party's name.,I-edit ang pangalan ng party.
+UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Antas ng Item (1 - %d)
+UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Antas ng Item (%d - 1)
+UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Antas ng Pag-upgrade (0 - 20)
+UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Antas ng Pag-upgrade (20 - 0)
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Pangalan ng Nagbebenta (A - Z)
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Pangalan ng Nagbebenta (Z - A)
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Pangalan ng Tindahan (A - Z)
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Pangalan ng Tindahan (Z - A)
+UI_SEARCHSHOP_SELLER,Seller,Nagbebenta
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Pangalan ng Item (A - Z)
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Pangalan ng Item (Z - A)
+UI_SEARCHSHOP_LOCATION,Show Location,Ipakita ang Lokasyon
+UI_SEARCHSHOP_MESSAGE,Message Seller,Magpadala ng Mensahe sa Nagbebenta
+UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleporte %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Paunawa
-UI_PURCHASE_INAPP_PURCHASE,Purchase,Purchase
-UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Please select the offer to purchase
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,There are currently no offers available
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free","Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free","Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free","Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free"
-UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
-UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
-UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
+UI_PURCHASE_INAPP_PURCHASE,Purchase,Bumili
+UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Piliin ang alok na bibilhin
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,Walang magagamit na alok sa kasalukuyan
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Buod ng alok:\n    #cffc32f07#b500 fCoins#nb#nc
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Bumili ng alok na ito at makakuha ng #b#u50 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Bumili ng alok na ito at makakuha ng #b#u150 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Buy this offer and get #b#u300 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Free","Bumili ng alok na ito at makakuha ng #b#u300 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Buy this offer and get #b#u625 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Free","Bumili ng alok na ito at makakuha ng #b#u625 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 Libre"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Buy this offer and get #b#u1500 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Free","Bumili ng alok na ito at makakuha ng #b#u1500 fCoins#nu#nb nang libre!\n\nBuod ng alok:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 Libre"
+UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Paghahanap ng Kalabasa sa Halloween
+UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Paghahanap ng Kalabasa sa Halloween
+UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Gantimpala sa Pagtatapos
+UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Nasirang mga Kalabasa
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Pangalan ng Manlalaro
+UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manwal na Laban
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Pangalan
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
-UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Invite to Observers
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
-UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
-UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Imbitahin sa Koponan 1
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Imbitahin sa Koponan 2
+UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Imbitahin sa mga Tagamasid
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,Simulan ang Laban
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Koponan 1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Koponan 2
+UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Tagamasid
+UI_PVPCONTEST_MANUALMATCH_READY,Ready,Handa
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Points
-UI_MATOURNAMENT_RANKING_RANK,Rank,Rank
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
-UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
-UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
-UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
+UI_MATOURNAMENT_RANKING_RANK,Rank,Ranggo
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Pangalan ng Koponan
+UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Buhay
+UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Panimulang Laban
+UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Pangunahing Laban
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round ng 16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
-UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
-UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
-UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
-UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
-UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
-UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Panalo
+UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Talo
+UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Tabla
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,Wala kang rekord para sa araw na ito.
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Uri : %s
+UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Ibang Koponan : %s
+UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Oras ng Laro : %s
+UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Resulta : %s
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Ngayon)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,WALA
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
 UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINAL 8
-UI_MATOURNAMENT_TITLE,Madrigal Tournament Registrations Board,Madrigal Tournament Registrations Board
-UI_MATOURNAMENT_REGISTRATIONCOST,Registration cost:,Registration cost:
-UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Max participating players: ,Max participating players: 
-UI_MATOURNAMENT_REGISTEREDGUILDS,Registered Guilds (Count: %d),Registered Guilds (Count: %d)
-UI_MATOURNAMENT_REGISTER,Register,Register
-UI_MATOURNAMENT_INFO,"Get a chance to win great riches in a Madrigal Tournament!\nJoin the tournament as an individual or as a party. For party battles, you can apply as a party of up to 3 players.Available registration time is every Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in a Madrigal Tournament!\nJoin the tournament as an individual or as a party. For party battles, you can apply as a party of up to 3 players.Available registration time is every Monday through %s from 00:00:00 to %s."
-UI_MATOURNAMENT_REGISTEREDTEAMS,Registered Teams: (Count: %d),Registered Teams: (Count: %d)
-UI_MATOURNAMENT_JOINWAR_RANDOM,Random,Random
-UI_MATOURNAMENT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered the 1st area.,You have entered the 1st area.
-UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered the 2nd area.,You have entered the 2nd area.
-UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered the 3rd area.,You have entered the 3rd area.
-UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,You have entered the 4th area.
-UI_MATOURNAMENT_JOINWAR_SELECT,Select the area you wish to enter.,Select the area you wish to enter.
-UI_MATOURNAMENT_JOINWAR_MSG,"After % d, you enter% s.","After % d, you enter% s."
-UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
-UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
-UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
-UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
-UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
-UI_MATOURNAMENT_REWARD_RANK,Rank,Rank
-UI_MATOURNAMENT_REWARD_REWARD,Reward,Reward
+UI_MATOURNAMENT_TITLE,Madrigal Tournament Registrations Board,Lupon ng Pagpaparehistro para sa Torneo ng Madrigal
+  UI_MATOURNAMENT_REGISTRATIONCOST,Registration cost:,Gastos sa Pagpaparehistro:
+  UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Max participating players: ,Pinakamataas na bilang ng mga manlalaro:
+UI_MATOURNAMENT_REGISTEREDGUILDS,Registered Guilds (Count: %d),Mga Rehistradong Guild (Bilang: %d)
+UI_MATOURNAMENT_REGISTER,Register,Magparehistro
+UI_MATOURNAMENT_INFO,"Get a chance to win great riches in a Madrigal Tournament!\nJoin the tournament as an individual or as a party. For party battles, you can apply as a party of up to 3 players.Available registration time is every Monday through %s from 00:00:00 to %s.","Magkaroon ng pagkakataon na manalo ng malaking kayamanan sa isang Madrigal Tournament!\nSumali sa torneo bilang indibidwal o bilang isang partido. Para sa mga laban ng partido, maaari kang mag-aplay bilang isang partido ng hanggang 3 manlalaro. Ang magagamit na oras ng pagpaparehistro ay bawat Lunes hanggang %s mula 00:00:00 hanggang %s."
+UI_MATOURNAMENT_REGISTEREDTEAMS,Registered Teams: (Count: %d),Mga Rehistradong Koponan: (Bilang: %d)
+UI_MATOURNAMENT_JOINWAR_RANDOM,Random,Panghula
+UI_MATOURNAMENT_JOINWAR_TITLE,Resurrection Location,Lokasyon ng Muling Pagkabuhay
+UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered the 1st area.,Pumasok ka sa unang lugar.
+UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered the 2nd area.,Pumasok ka sa ikalawang lugar.
+UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered the 3rd area.,Pumasok ka sa ikatlong lugar.
+UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered the 4th area.,Pumasok ka sa ikaapat na lugar.
+UI_MATOURNAMENT_JOINWAR_SELECT,Select the area you wish to enter.,Piliin ang lugar na nais mong pasukin.
+UI_MATOURNAMENT_JOINWAR_MSG,"After % d, you enter% s.","Pagkatapos ng % d, ipinasok mo ang % s."
+UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Pangkat ng Paligsahan sa Torneo ng Madrigal
+UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Nangungunang 50 Ranggo
+UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Huling Paligsahan
+UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Reserbang Laro
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalendaryo
+UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","Naglalaman ito ng lahat ng datos ng ranggo para sa kasalukuyang Torneyo ng Madrigal.\nKung isang koponan lamang ang lumitaw sa paunang ranggo, nangangahulugan ito na wala silang kalaban!"
+UI_MATOURNAMENT_REWARD_RANK,Rank,Ranggo
+UI_MATOURNAMENT_REWARD_REWARD,Reward,Gantimpala
 UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
 UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
-UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
-UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
-UI_MSGBOX_RECIEVE,Receive,Receive
-UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles."
-UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
-UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
-UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
-UI_MATOURNAMENT_BETTING_RANK,Rank,Rank
+UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Pakikilahok
+UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Gantimpala sa Torneo ng Madrigal
+UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Minimong Antas ng Manlalaro
+UI_MSGBOX_RECIEVE,Receive,Tumanggap
+UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","Ang bintanang ito ay naglalaman ng impormasyon tungkol sa iyong mga laban sa Madrigal Tournament at kasaysayan ng iyong paglahok. Makikita mo ang impormasyon para sa nakaraang apat na linggo, kabilang ang kasalukuyang linggo.\nMaaari mong i-click ang isang petsa upang makita ang mga detalye tungkol sa mga laban sa araw na iyon."
+UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Ang bintanang ito ay naglalaman ng impormasyon tungkol sa mga laban at ranggo sa Madrigal Tournament.\nKung isang koponan lamang ang nakalista sa mga kwalipikasyon, nangangahulugan ito na sila ay mawawalan ng laban dahil sa kakulangan ng kalaban."
+UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Ang bintanang ito ay naglalaman ng impormasyon tungkol sa mga laban at ranggo sa Madrigal Tournament. Kung isang koponan lamang ang nakalista sa mga kwalipikasyon, nangangahulugan ito na sila ay mawawalan ng laban dahil sa kakulangan ng kalaban."
+UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Pagtataya para sa Torneo ng Madrigal
+UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","Maaari kang mag-bid at tingnan ang ranggo ng bidding para sa Torneo ng Madrigal.\nMaaari ka lamang mag-bid sa isang koponan ngunit maaari kang magdagdag ng karagdagang Penyas upang mag-bid kung nais mo.\nMagtatapos ang bidding sa %s %s, at ipapakita ang halaga na matatanggap mo kapag matagumpay ang iyong bidding."
+UI_MATOURNAMENT_BETTING_RANK,Rank,Ranggo
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
-UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
-UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Huling Petsa
+UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Sigurado ka bang gusto mong tumaya sa koponang ito?
+UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Tumataya ng Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Wala
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
-UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Remove
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fuse Ultimate Jewel
-UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Register ultimate jewel material gem.
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.
-UI_ULTIMATE_JEWEL_CONFIRM,"If you fuse the gems, the gems used as materials disappear.\nDo you want to continue?","If you fuse the gems, the gems used as materials disappear.\nDo you want to continue?"
-UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,Success: #b%s#nb
-UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Jewel,Create Ultimate Jewel
-UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Register material jewel,Register material jewel
-UI_UPGRADE_ULTIMATE_JEWEL_INFO,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Alisin ang Ultimate Jewel
+UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Alisin
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Alisin ang napiling ultimate jewel mula sa item na ito? #b#cffff0000Kung walang Jewel Tweezers, ang jewel ay masisira.#nc#nb"
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Pagsamahin ang Ultimate Jewel
+UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Irehistro ang materyal na jewel
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Pagsamahin ang 3 - 6 ultimate jewels upang makakuha ng 1 mas mataas na grado ng ultimate jewel.
+UI_ULTIMATE_JEWEL_CONFIRM,"If you fuse the gems, the gems used as materials disappear.\nDo you want to continue?","Kung pagsasamahin mo ang mga jewel, ang mga jewel na ginamit bilang materyales ay mawawala.\nGusto mo bang magpatuloy?"
+UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,Tagumpay: #b%s#nb
+UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Jewel,Lumikha ng Ultimate Jewel
+UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Register material jewel,Irehistro ang materyal na jewel
+UI_UPGRADE_ULTIMATE_JEWEL_INFO,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.,Lumikha ng 10 piraso ng jewel o 1 gemstone upang makakuha ng isang first-grade na kumpletong jewel.
 UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
-UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Would you like to accept their proposal request and become a couple?,%s is proposing to you! Would you like to accept their proposal request and become a couple?
-UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
-UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Do you accept?,Your partner is proposing to change the ring to the following ring. Do you accept?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be online.
-UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
-UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
-UI_COUPLE_NEXTEXP_TIME,Time until passive experience: %s,Time until passive experience: %s
-UI_COUPLE_NEXTEXP_OFFLINE,No passive experience (offline),No passive experience (offline)
-UI_COUPLE_BREAKUP,Break Up,Break Up
-UI_COUPLE_BREAKUP_FORCE,Break Up(F),Break Up(F)
-UI_COUPLE_TELEPORT,Teleport,Teleport
-UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.
+UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Would you like to accept their proposal request and become a couple?,%s inaalok ka niya ng pakikipag-relasyon! Gusto mo bang tanggapin ang kanilang panukala at maging magkasintahan kayo?
+UI_COUPLE_RING_REPLACE,Ring Replacement,Pagpapalit ng Singsing
+UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Do you accept?,Iminumungkahi ng iyong kapareha na palitan ang singsing ng sumusunod na singsing. Tatanggap ka ba?
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Dapat online ang iyong kapareha.
+UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Huling petsa ng tugon sa paghihiwalay: %s
+UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Oras ng abiso ng paghihiwalay: %s
+UI_COUPLE_NEXTEXP_TIME,Time until passive experience: %s,Oras hanggang sa passive experience: %s
+UI_COUPLE_NEXTEXP_OFFLINE,No passive experience (offline),Walang passive experience (offline)
+UI_COUPLE_BREAKUP,Break Up,Paghihiwalay
+UI_COUPLE_BREAKUP_FORCE,Break Up(F),Paghihiwalay(F)
+UI_COUPLE_TELEPORT,Teleport,Teleporte
+UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Mag-teleport sa lokasyon ng iyong kapareha? Hindi posible ang teleportasyon kung ang iyong kapareha ay nasa isang lugar na hindi maaabot.
 UI_COUPLE_CHEER,Cheer,Aluin
-UI_COUPLE_FORM_DATE,Formation Date,Formation Date
-UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
-UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
-UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
-UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximum Skill Points
-UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Total Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
-UI_COUPLE_TABPARTNER,Partner,Partner
-UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?"
-UI_COUPLE_PROPOSE,Propose,Propose
-UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Request to form a couple with the recipient using the inserted couple ring.
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Required Couple Points: %d
-UI_COUPLEBANK_TITLE,Couple Storage,Couple Storage
-UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topaz
-UI_ULTIMATE_JEWEL_RUBY,Ruby,Ruby
-UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Sapphire
-UI_ULTIMATE_JEWEL_EMERALD,Emerald,Emerald
-UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamond
-UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,Amethyst
-UI_ULTIMATE_JEWEL_ONYX,Onyx,Onyx
-UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Compose Rainbow Ultimate Jewel,Compose Rainbow Ultimate Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_INFO,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.
-UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,You can dismantle the Rainbow Jewel to get Ultimate Jewel.
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
-UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Your wardrobe items can only be worn by #bone#nb NPC at a time.
-UI_HOUSINGWARDROBE_CONFIRM,Equip,Equip
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?
-UI_HOUSINGWARDROBE_USEDBY,Used by %s,Used by %s
-UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
-UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Unequip that item?
-UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Are you sure you want to unequip that item from your NPC?,Are you sure you want to unequip that item from your NPC?
-UI_HOUSINGSETUP_PETS,Pets,Pets
-UI_HOUSING_PETTRAINING_INFO,"You can train a Raised Pet that you've placed in 'Housing' by entrusting it to a specialized Caretaker. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset. Furthermore, if the contract with the caretaker expires, the training for the Raised Pet will also come to an end.#nc","You can train a Raised Pet that you've placed in 'Housing' by entrusting it to a specialized Caretaker. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset. Furthermore, if the contract with the caretaker expires, the training for the Raised Pet will also come to an end.#nc"
-UI_PETTRAINING_PET,Pet to train,Pet to train
-UI_PETTRAINING_CANDY,Pet Candy,Pet Candy
-UI_PETTRAINING_INTERVALS,Feeding Intervals,Feeding Intervals
-UI_PETTRAINING_CONFIRM,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc
-UI_PETTRAINING_TOTALTRAINING,Total Training Time,Total Training Time
-UI_PETTRAINING_CLAIM,Claim,Claim
-UI_PETTRAINING_NEXTCANDY,Next Candy in,Next Candy in
-UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!
-UI_PETTRAINING_CANCELTRAINING,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!
-UI_PETTRAINING_INFO,"You can train a Raised Pet that you've got in your inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
-UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
-UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
-UI_COUPLE_RING_SLOTS,Storage slots: %d,Storage slots: %d
-UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
-UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
-UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
-UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
-UI_LIFE_TITLE,Life,Life
-UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
-UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
-UI_LIFE_HARVESTING_INFORMATION,Harvesting Information,Harvesting Information
-UI_LIFE_EXPERTBTN,Set as an Expert,Set as an Expert
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
-UI_LIFE_MASTERY,Mastery,Karunungan
-UI_LIFE_EXPERT_TIME,Time to change Expert : %s,Time to change Expert : %s
+UI_COUPLE_FORM_DATE,Formation Date,Petsa ng Pagbuo
+UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Magagamit na mga puwang sa imbakan
+UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Pinakamataas na pang-araw-araw na mga teleportasyon
+UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Pinakamataas na pang-araw-araw na mga palakpakan
+UI_COUPLE_MAX_POINTS,Maximum Skill Points,Pinakamataas na mga puntos sa kasanayan
+UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Kabuuang Natapos na Mga Misyon
+UI_COUPLE_SINGLE,You are single.,Ikaw ay walang kapareha.
+UI_COUPLE_TABPARTNER,Partner,Kapareha
+UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Sigurado ka bang gusto mong humiling ng paghihiwalay mula sa iyong kapareha? Kung maghihiwalay kayo, agad mong mawawala ang lahat ng mga item sa iyong imbakan ng magkapareha, at ang mga function ng magkapareha ay hindi na magagamit."
+UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Sigurado ka bang gusto mong agad na pilitin ang paghihiwalay mula sa iyong kapareha? Kung maghihiwalay kayo, agad mong mawawala ang lahat ng mga item sa iyong imbakan ng magkapareha, at ang mga function ng magkapareha ay hindi na magagamit."
+UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Humiling ang iyong kapareha ng paghihiwalay. Kung tatanggapin, agad mong mawawala ang lahat ng mga item sa iyong imbakan ng magkapareha at hindi na kayo magiging magkapareha, nawawala ang anumang functionality ng magkapareha. Tatanggapin mo ba?"
+UI_COUPLE_PROPOSE,Propose,Magmungkahi
+UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Humiling na bumuo ng magkapareha sa tatanggap gamit ang ipinasok na singsing ng magkapareha.
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Kailangang Antas ng Magkapareha: %d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Kailangang Punto ng Magkapareha: %d
+UI_COUPLEBANK_TITLE,Couple Storage,Pag-iimbak ng mag-asawa
+UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topas
+UI_ULTIMATE_JEWEL_RUBY,Ruby,Rubi
+UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Sapira
+UI_ULTIMATE_JEWEL_EMERALD,Emerald,Esmeralda
+UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamante
+UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,Amatista
+UI_ULTIMATE_JEWEL_ONYX,Onyx,Oniks
+UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Compose Rainbow Ultimate Jewel,Bumuo ng Bahaghari na Pinakamataas na Hiyas
+UI_RAINBOW_ULTIMATE_JEWEL_INFO,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.,Maaari mong gamitin ang lahat ng pitong hiyas ng parehong antas upang makakuha ng bahaghari na hiyas ng parehong antas.
+UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Buwagin ang Bahaghari na Hiyas
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,Maaari mong buwagin ang Bahaghari na Hiyas upang makakuha ng Pinakamataas na Hiyas.
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","Kung mabigo ka, mawawala ang iyong item."
+UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Ang iyong mga item sa aparador ay maaari lamang isuot ng #bone#nb NPC sa isang pagkakataon.
+UI_HOUSINGWARDROBE_CONFIRM,Equip,Isuot
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,Ito ay magpapasuot sa napiling NPC ng napiling kasuotan. Isang NPC lamang ang maaaring magsuot ng parehong kasuotan sa isang pagkakataon. Gusto mo bang magpatuloy?
+UI_HOUSINGWARDROBE_USEDBY,Used by %s,Ginagamit ni %s
+UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Huwag isuot
+UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Huwag isuot ang item na iyon?
+UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Are you sure you want to unequip that item from your NPC?,Sigurado ka bang gusto mong huwag isuot ang item na iyon mula sa iyong NPC?
+UI_HOUSINGSETUP_PETS,Pets,Alagang Hayop
+UI_HOUSING_PETTRAINING_INFO,"You can train a Raised Pet that you've placed in 'Housing' by entrusting it to a specialized Caretaker. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset. Furthermore, if the contract with the caretaker expires, the training for the Raised Pet will also come to an end.#nc","Maaari mong sanayin ang isang Raised Pet na inilagay mo sa 'Housing' sa pamamagitan ng pagtitiwala nito sa isang espesyal na Caretaker. Ang bawat caretaker NPC ay may iba't ibang iskedyul at pagitan ng pagpapakain.\n\nKapag napili mo na ang Raised Pet na nais mong ipagkatiwala sa Caretaker, #beither by double-clicking or drag-and-drop#nb, pindutin lamang ang 'Done' button upang simulan ang pagsasanay ng Caretaker.\n\n#cffff0000Kung magpasya kang palitan ang Raised Pet, ang susunod na iskedyul ng pagpapakain ay mare-reset. Bukod dito, kung mag-expire ang kontrata sa caretaker, ang pagsasanay para sa Raised Pet ay matatapos din.#nc"
+UI_PETTRAINING_PET,Pet to train,Alagang hayop na sanayin
+UI_PETTRAINING_CANDY,Pet Candy,Kendi para sa alagang hayop
+UI_PETTRAINING_INTERVALS,Feeding Intervals,Pagitan ng Pagpapakain
+UI_PETTRAINING_CONFIRM,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc,#bHindi magagamit ang alagang hayop sa bintana hanggang sa alisin mo ito sa pagsasanay.#nb Gusto mo bang magpatuloy? #b#cffff0000Tandaan: Makukuha mo ang iyong alagang hayop pabalik kung ititigil mo ang pagsasanay. #nb#nc
+UI_PETTRAINING_TOTALTRAINING,Total Training Time,Kabuuang Oras ng Pagsasanay
+UI_PETTRAINING_CLAIM,Claim,Kunin
+UI_PETTRAINING_NEXTCANDY,Next Candy in,Susunod na Kendi sa
+UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!,Ikaw ay malapit nang kanselahin ang pagsasanay ng alagang hayop. Ang sinanay na alagang hayop ay ibabalik sa iyong imbentaryo sa bahay kasama ang kasalukuyang progreso nito!
+UI_PETTRAINING_CANCELTRAINING,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!,Ikaw ay malapit nang kanselahin ang pagsasanay ng alagang hayop. Ang sinanay na alagang hayop ay ibabalik sa iyong imbentaryo kasama ang kasalukuyang progreso nito!
+UI_PETTRAINING_INFO,"You can train a Raised Pet that you've got in your inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","Maaari mong sanayin ang Raised Pet na nasa iyong imbentaryo. Bawat NPC na tagapag-alaga ay may iba't ibang iskedyul at pagitan ng pagpapakain.\n\nKapag napili mo na ang Raised Pet na nais mong ipagkatiwala sa Caretaker, #sa pamamagitan ng pag-double-click o pag-drag-and-drop#nb, pindutin lamang ang 'Done' button upang simulan ang pagsasanay ng Caretaker.\n\n#cffff0000Kung magpasya kang palitan ang Raised Pet, ang susunod na iskedyul ng pagpapakain ay mare-reset.#nc"
+UI_COUPLE_RING_TP,Teleports: %d,Mga teleport: %d
+UI_COUPLE_RING_CHEER,Cheers: %d,Mga Cheer: %d
+UI_COUPLE_RING_SLOTS,Storage slots: %d,Mga slot ng imbakan: %d
+UI_COUPLE_MOTION_TITLE,Couple Motion,Galaw ng mag-asawa
+UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Hinihiling ng iyong kapareha ang %s na galaw. Tatanggap ka ba?
+UI_APP_LIFE_TIP,Opens life contents window.,Binubuksan ang bintana ng mga nilalaman ng buhay.
+UI_LIFE_GATHERING_TAB,Gathering,Pangangalap
+UI_LIFE_PRODUCTION_TAB,Production,Produksyon
+UI_LIFE_TITLE,Life,Buhay
+UI_LIFE_MASTERY_EFFECT,Mastery Effect,Epekto ng Karunungan
+UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Natukoy na Pag-aani
+UI_LIFE_HARVESTING_INFORMATION,Harvesting Information,Impormasyon sa Pag-aani
+UI_LIFE_EXPERTBTN,Set as an Expert,Itakda bilang Eksperto
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sKung ang Karunungan ay mas mababa sa 100, 10%% ng karunungan ay mababawasan tuwing Lunes 00:00(Eksperto) Pagkuha ng Mahusay na Tagumpay +10%%#nc"
+UI_LIFE_MASTERY,Mastery,Kahusayan
+UI_LIFE_EXPERT_TIME,Time to change Expert : %s,Oras upang baguhin ang Eksperto : %s
 UI_REPAIR_TITLE,Repair,Ayusin
-UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
-UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
-UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Skip Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Skip Minigame automatically
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?"
-UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. ,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. 
-UI_QUEST_GATHERING_HERB,Gathering herb. #cffc32f07#b%d/%d#nb#nc,Gathering herb. #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Guess which bait the fish will take.
-UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Fishing success %% goes up when you win.\n(Current success rate %.1f%%)
-UI_SEC,%d sec,%d sec
-UI_CONFIRM,Confirm,Confirm
-UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
-UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of attempts:,Number of attempts:
-UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of fish caught:,Number of fish caught:
-UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of trophy fish caught:,Number of trophy fish caught:
-UI_LIFE_FISHING_SUCCESS_RATE,Success rate:,Success rate:
-UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
-UI_TIMES,%d time(s),%d time(s)
-UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
-UI_WAITING,Waiting,Waiting
-UI_LIFE_RECIPEBTN,See related recipes,See related recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
-UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
-UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
-UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
-UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
-UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
-UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
-UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
+UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Nais mo bang ayusin ang %s?\n(%s)
+UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Nais mo bang ayusin ang %s?\n(%s%%)
+UI_LIFE_FISHING_MINIGAME,Minigame,Maliit na laro
+UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Laktawan ang Minigame
+UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Awtomatikong laktawan ang Minigame
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","Kung laktawan mo ang minigame, hindi mo makukuha ang mga buffs para sa pagtaas ng iyong tagumpay sa pangingisda hanggang sa kasalukuyan. Sigurado ka bang gusto mong laktawan ang minigame?"
+UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Piliin ang Pain
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. ,Piliin ang pain na nais mong gamitin sa pangingisda. Ang pain na gagamitin mo ay magbabago sa uri ng isda na maaari mong makuha. 
+UI_QUEST_GATHERING_HERB,Gathering herb. #cffc32f07#b%d/%d#nb#nc,Pagtitipon ng halamang gamot. #cffc32f07#b%d/%d#nb#nc
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Hulaan kung aling pain ang kakainin ng isda.
+UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Tagumpay sa pangingisda %% tumataas kapag nanalo ka.\n(Kasalukuyang antas ng tagumpay %.1f%%)
+UI_SEC,%d sec,%d segundo
+UI_CONFIRM,Confirm,Kumpirmahin
+UI_LIFE_FISHING_TIME,Fishing Time:,Oras ng Pangingisda:
+UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of attempts:,Bilang ng mga Pagsubok:
+UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of fish caught:,Bilang ng mga Nahuling Isda:
+UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of trophy fish caught:,Bilang ng mga Nahuling Tropeo na Isda:
+UI_LIFE_FISHING_SUCCESS_RATE,Success rate:,Antas ng Tagumpay:
+UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d oras %d min %d sec
+UI_TIMES,%d time(s),%d beses
+UI_LIFE_FISHING_STATUS,Fishing Status,Katayuan ng Pangingisda
+UI_WAITING,Waiting,Naghihintay
+UI_LIFE_RECIPEBTN,See related recipes,Tingnan ang mga kaugnay na resipe
+UI_LIFE_RECIPES,Recipes,Resipe
+UI_LIFE_RECIPES_CATEGORY,Category,Kategorya
+UI_LIFE_RECIPES_DETAILS,Details,Detalye
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Walang napiling resipe
+UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: [%s]\nKinakailangang\nSangkap:
+UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: \nKinakailangang\nSangkap:
+UI_LIFE_PRODUCTION_TITLE,Production,Produksyon
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Antas ng Tagumpay
+UI_LIFE_PRODUCTION_TIME,Production time per cycle,Oras ng Produksyon bawat Siklo
+UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: [%s]
+UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: 
+UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Sangkap
+UI_LIFE_RECIPE_CATEGORY_1,Drink,Uminom
 UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
-UI_ALL,All,All
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
-UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
-UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,Item is used immediately.
-UI_LIFE_MASTERY_ORDINALY_HERB,Herb that you can see anywhere. You can obtain Common Herbs.,Herb that you can see anywhere. You can obtain Common Herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Regular looking herb. You can obtain Common-Uncommon Herbs.,Regular looking herb. You can obtain Common-Uncommon Herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree that you can see anywhere. You can obtain Common Trees.,Tree that you can see anywhere. You can obtain Common Trees.
-UI_LIFE_MASTERY_REGULAR_TREE,Regular looking Tree. You can obtain Common-Uncommon Trees.,Regular looking Tree. You can obtain Common-Uncommon Trees.
-UI_LIFE_MASTERY_ORDINALY_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon Ores.,Regular looking Ore. You can obtain Common-Uncommon Ores.
-UI_PRODUCTION_INGREDIENT,Ingredient,Ingredient
+UI_ALL,All,Lahat
+UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Magdagdag ng mga materyal na item upang makagawa. Kung walang napiling resipe, susubukan ang isang nakatagong resipe. Kapag gumagawa nang random, isang pagtatangka lamang sa produksyon ang gagawin."
+UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Produksyon ay kasalukuyang isinasagawa.
+UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Natitirang Oras
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,Item ay ginagamit agad.
+UI_LIFE_MASTERY_ORDINALY_HERB,Herb that you can see anywhere. You can obtain Common Herbs.,Herb na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Herbs.
+UI_LIFE_MASTERY_REGULAR_HERB,Regular looking herb. You can obtain Common-Uncommon Herbs.,Karaniwang hitsura ng herb. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Herbs.
+UI_LIFE_MASTERY_ORDINALY_TREE,Tree that you can see anywhere. You can obtain Common Trees.,Puno na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Puno.
+UI_LIFE_MASTERY_REGULAR_TREE,Regular looking Tree. You can obtain Common-Uncommon Trees.,Karaniwang hitsura ng Puno. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Puno.
+UI_LIFE_MASTERY_ORDINALY_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Mineral na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Mineral.
+UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon Ores.,Karaniwang hitsura ng Mineral. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Mineral.
+UI_PRODUCTION_INGREDIENT,Ingredient,Sangkap
 UI_PRODUCTION_FOOD,Food,Pagkain
 UI_PRODUCTION_BUFF,Buff,Buff
-UI_PRODUCTION_DRINK,Drink,Drink
-UI_PRODUCTION_REFRESHER,Refresher,Refresher
-UI_PRODUCTION_PILL,Pill,Pill
-UI_PRODUCTION_FURNITURE,Furniture,Furniture
-UI_PRODUCTION_ACCESSORY,Accessory,Accessory
-UI_PRODUCTION_COUPLERING,Couple Ring,Couple Ring
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
-UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Quality: %s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
+UI_PRODUCTION_DRINK,Drink,Inumin
+UI_PRODUCTION_REFRESHER,Refresher,Panibagong Sigla
+UI_PRODUCTION_PILL,Pill,Pilula
+UI_PRODUCTION_FURNITURE,Furniture,Muwebles
+UI_PRODUCTION_ACCESSORY,Accessory,Aksersorya
+UI_PRODUCTION_COUPLERING,Couple Ring,Singsing ng Magkasintahan
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Tagalikha: %s
+UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Kalidad: %s
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Maaaring i-stack: %dx
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Tibay: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
 UI_TOOLTIP_PRODUCTION_GRADE_A,A,A
 UI_TOOLTIP_PRODUCTION_GRADE_OVER_A,A+,A+
-UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is obtained, %d%% mastery is decreased on Monday 00:00","If less than %d Mastery is obtained, %d%% mastery is decreased on Monday 00:00"
-UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Gathering Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert)Gathering Great Success Rate +%d%%,(Expert)Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Woodcutting Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert)Woodcutting Great Success Rate +%d%%,(Expert)Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Mining Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_EXPERT,(Expert)Mining Great Success Rate +%d%%,(Expert)Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Fishing Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_EXPERT,(Expert)Fishing Great Success Rate +%d%%,(Expert)Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alchemy Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alchemy Great Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Cooking Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Cooking Great Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Smithing Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Smithing Great Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
-UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
-UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
-UI_LIFE_REPRODUCTION_TITLE,Production Upgrade,Production Upgrade
-UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please register the material items.,Please register the material items.
-UI_LIFE_REPRODUCTION_INFO,"You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1","You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1"
-UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
-UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?
-UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the items,Use %s to refresh the items
-UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
-UI_LIFE_MASTERY_RANKING_RANK,Rank,Rank
+UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is obtained, %d%% mastery is decreased on Monday 00:00","Kung hindi maabot ang %d Mastery, babawasan ng %d%% ang mastery sa Lunes 00:00"
+UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Pagkolekta ng Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Pagkolekta ng Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert)Gathering Great Success Rate +%d%%,(Expert)Pagkolekta ng Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Pagputol ng Kahoy Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Pagputol ng Kahoy Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert)Woodcutting Great Success Rate +%d%%,(Expert)Pagputol ng Kahoy Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Pagmimina Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Pagmimina Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_MINING_EXPERT,(Expert)Mining Great Success Rate +%d%%,(Expert)Pagmimina Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Pangingisda Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Pangingisda Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_FISHING_EXPERT,(Expert)Fishing Great Success Rate +%d%%,(Expert)Pangingisda Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alkimya Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alkimya Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Pagluluto Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Pagluluto Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Pagsasahod Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Pagsasahod Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Paggawa ng Kahoy Antas ng Tagumpay +%d%%
+UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Paggawa ng Kahoy Antas ng Tagumpay na Malaki +%d%%
+UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Eksperto) Kumita ng walang limitasyong item para sa Dakilang Tagumpay
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Oras ng Produksyon:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Bilang ng Pagsubok:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Bilang ng Tagumpay:
+UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Antas ng Tagumpay:
+UI_LIFE_REPRODUCTION_TITLE,Production Upgrade,Pag-upgrade ng Produksyon
+UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please register the material items.,Mangyaring irehistro ang mga materyal na item.
+UI_LIFE_REPRODUCTION_INFO,"You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1","Maaari kang makakuha ng isang item na mas mataas na antas sa pamamagitan ng paglalagay ng tiyak na dami ng mga item sa produksyon.\nRatio ng palitan: D:C=10:1, C:B=15:1, B:A=20:1"
+UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Pag-refresh ng Tindahan
+UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?,Gusto mo bang gamitin ang Wandering Shop Refresh Ticket upang i-refresh ang tindahan?
+UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the items,Gamitin ang %s upang i-refresh ang mga item
+UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Ranggo ng Kasanayan
+UI_LIFE_MASTERY_RANKING_RANK,Rank,Ranggo
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Ngalan ng Karakter
 UI_LIFE_MASTERY_RANKING_JOB,Job,Trabaho
-UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
+UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Antas ng Kasanayan
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,Sarado
-UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
-UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Claim Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Ranggo ng Kasanayan	Mga Gantimpala
+UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Kumuha ng Mga Gantimpala
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
-UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
-UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
-UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,remaining time : \n%dday(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Herb with a unique fragrance. You can obtain Common-Rare Herbs.
-UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,Herb that is hard to find. You can obtain Common-Very Rare Herbs.
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique look. You can obtain Common-Rare Trees.,Tree with a unique look. You can obtain Common-Rare Trees.
-UI_LIFE_MASTERY_RARE_TREE,Tree that is hard to find. You can obtain Common-Very Rare Trees.,Tree that is hard to find. You can obtain Common-Very Rare Trees.
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.
-UI_LIFE_MASTERY_UNIQUE_ORE,Ore with a unique look. You can obtain Common-Rare Ores.,Ore with a unique look. You can obtain Common-Rare Ores.
-UI_LIFE_MASTERY_RARE_ORE,Ore that is hard to find. You can obtain Common-Very Rare Ores.,Ore that is hard to find. You can obtain Common-Very Rare Ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary Ore that only few ever found. You can obtain Rare-Very Rare Ores.,Legendary Ore that only few ever found. You can obtain Rare-Very Rare Ores.
-UI_LIFE_PRODUCTION_START,Production Start,Production Start
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s#nc","Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s~%s#nc","Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s~%s#nc"
-UI_QUEST_GATHERING_MINING,Mining. #cffc32f07#b%d/%d#nb#nc,Mining. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_WOODCUTTING,Wood Cutting. #cffc32f07#b%d/%d#nb#nc,Wood Cutting. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_FISHING,Fishing. #cffc32f07#b%d/%d#nb#nc,Fishing. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Cooking. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemy. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Carpentry. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Smithing. #cffc32f07#b%d/%d#nb#nc
-UI_CHAT_COPYNAME,Copy name,Copy name
-UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
-UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Would you like to enter the Rainbow Race?
-UI_CREATENPC_TITLE,Create NPC,Create NPC
-UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
-UI_CREATENPC_NOWNER,No Owner,No Owner
-UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
+UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Titulo, %s x %d"
+UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Mga Gantimpala
+UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Mga Pamagat ng Tagumpay
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Mga Pamagat na Malayang
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,natitirang oras : \n%dday(s) %d:%d:%d
+UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Halamang-gamot na may natatanging bango. Maaari kang makakuha ng karaniwan hanggang bihirang mga halamang-gamot.
+UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,Halamang-gamot na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga halamang-gamot.
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,Alamat na Halamang-gamot na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga halamang-gamot.
+UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique look. You can obtain Common-Rare Trees.,Puno na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga puno.
+UI_LIFE_MASTERY_RARE_TREE,Tree that is hard to find. You can obtain Common-Very Rare Trees.,Puno na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga puno.
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.,Alamat na Puno na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga puno.
+UI_LIFE_MASTERY_UNIQUE_ORE,Ore with a unique look. You can obtain Common-Rare Ores.,Mineral na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga mineral.
+UI_LIFE_MASTERY_RARE_ORE,Ore that is hard to find. You can obtain Common-Very Rare Ores.,Mineral na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga mineral.
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary Ore that only few ever found. You can obtain Rare-Very Rare Ores.,Alamat na Mineral na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga mineral.
+UI_LIFE_PRODUCTION_START,Production Start,Simulan ang produksyon
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s#nc","Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s~%s#nc","Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s~%s#nc"
+UI_QUEST_GATHERING_MINING,Mining. #cffc32f07#b%d/%d#nb#nc,Paghuhukay. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_WOODCUTTING,Wood Cutting. #cffc32f07#b%d/%d#nb#nc,Paggugupit ng Kahoy. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_FISHING,Fishing. #cffc32f07#b%d/%d#nb#nc,Pangingisda. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Lutuing. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alkimya. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Paggawa ng Kahoy. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Paggawa ng Metal. #cffc32f07#b%d/%d#nb#nc
+UI_CHAT_COPYNAME,Copy name,Kopyahin ang pangalan
+UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,Ang Rainbow Race ay magsisimula sa loob ng %d minuto.\nHindi ka maaaring lumahok sa Rainbow Race sa kasalukuyang channel.\n\nMangyaring pumasok sa pamamagitan ng NPC Rainbow Race Officer na matatagpuan sa %s Darken.\n\nPindutin ang OK button upang lumipat sa %s.
+UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,Ang Rainbow Race ay magsisimula sa loob ng %d minuto.\nHindi ka maaaring lumahok sa Rainbow Race sa kasalukuyang channel.\n\nPindutin ang OK button upang lumipat sa %s.
+UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,Ang Rainbow Race ay nagsimula na.\nHindi ka maaaring lumahok sa Rainbow Race sa kasalukuyang channel.\n\nPindutin ang OK button upang lumipat sa %s.
+UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Nais mo bang sumali sa Rainbow Race?
+UI_CREATENPC_TITLE,Create NPC,Lumikha ng NPC
+UI_CREATENPC_AGRESSIVE,Aggressive,Aggresibo
+UI_CREATENPC_NOWNER,No Owner,Walang May-ari
+UI_CREATENPC_NOEXPLOSS,No Exp Loss,Walang Pagkawala ng Exp
 UI_CREATEITEM_FLAGS,Flags,Flags
-UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
-UI_CREATEITEM_CHARGED,Charged,Charged
-UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
-UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
-UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
-UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
-UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
-UI_HOUSINGSETUP_NEXTHARVEST,Ready in,Ready in
-UI_HOUSINGSETUP_HARVESTREADY,Harvest ready,Harvest ready
-UI_GACHA_HOUSINGGATHERING,Harvest cooltime,Harvest cooltime
-UI_HOUSINGSETUP_HARVESTCOUNT,Harvests count %d/%d,Harvests count %d/%d
-UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite harvests,Infinite harvests
-UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooltime:,Harvest Cooltime:
-UI_HOUSINGSETUP_HARVESTCOOLTIME,Grow Time,Grow Time
-UI_QUEST_MOTION,Motion: %s,Motion: %s
-UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Required Quest: %s
-UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE Damage
-UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Dmg Resist
-UI_GENERALAWAKE_START,Start,Start
-UI_GENERALAWAKE_HEADERITEM,Item to awake,Item to awake
-UI_GENERALAWAKESLOT_INDEX,Stat %d,Stat %d
-UI_SEARCHSHOP_TELEPORT_TITLE,Teleport to the Shop,Teleport to the Shop
-UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Do you want to teleport to the shop?
-UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
-UI_SEARCHSHOP_ADVERTISED,Advertised,Advertised
-UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Your Shop Advertisement item will be consumed and disappear when closing the shop.
-UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item will be lost.,Your Shop Advertisement item will be lost.
-UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,Blessing of the Goddess
-UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,Blessing of the Demon
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
-UI_CHARINFO_HOUSING_SLOTS,Pet inventory slots,Pet inventory slots
-UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
-UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Applying a Blessing will make the item soul-bound. Do you wish to continue?
-UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
-UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
-UI_TELEPORT_ARENA,Do you want to exit the arena?,Do you want to exit the arena?
-UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
-UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_YEAROFSNAKE2025,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
-UI_GENERALAWAKE_NOMATERIAL,You ran out of blessing materials.,You ran out of blessing materials.
-UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Weekly Ranking
-UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanent Ranking
-UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank:,Current rank:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
-UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Spring Points: %d Pts
-UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
-UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
-UI_JAN2024_POINT_NAME,Spring Points,Spring Points
+UI_CREATEITEM_TIME,Time (Sec),Oras (Seg)
+UI_CREATEITEM_CHARGED,Charged,Sinisingil
+UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alkimya Tagumpay na Rate
+UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Lutuing Tagumpay na Rate
+UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Paggawa ng Kahoy Tagumpay na Rate
+UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Paggawa ng Metal Tagumpay na Rate
+UI_HOUSINGSETUP_GATHERING,Gathering,Pangangalap
+UI_HOUSINGSETUP_NEXTHARVEST,Ready in,Handa sa
+UI_HOUSINGSETUP_HARVESTREADY,Harvest ready,Handa na ang ani
+UI_GACHA_HOUSINGGATHERING,Harvest cooltime,Oras ng Paglamig ng Ani
+UI_HOUSINGSETUP_HARVESTCOUNT,Harvests count %d/%d,Bilang ng ani %d/%d
+UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite harvests,Walang Hanggang Ani
+UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooltime:,Oras ng Paglamig ng Ani:
+UI_HOUSINGSETUP_HARVESTCOOLTIME,Grow Time,Oras ng Paglago
+UI_QUEST_MOTION,Motion: %s,Galaw: %s
+UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Kailangang Quest: %s
+UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE Pinsala
+UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Pagtutol sa Pinsala
+UI_GENERALAWAKE_START,Start,Simula
+UI_GENERALAWAKE_HEADERITEM,Item to awake,Item na gigisingin
+UI_GENERALAWAKESLOT_INDEX,Stat %d,Estadistika %d
+UI_SEARCHSHOP_TELEPORT_TITLE,Teleport to the Shop,Mag-teleport sa tindahan
+UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Gusto mo bang mag-teleport sa tindahan?
+UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Anunsyo ng Tindahan:
+UI_SEARCHSHOP_ADVERTISED,Advertised,Inanunsyo
+UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Ang iyong item ng Anunsyo ng Tindahan ay kakainin at mawawala kapag isinara ang tindahan.
+UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item will be lost.,Ang iyong item ng Anunsyo ng Tindahan ay mawawala.
+UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,Pagpapala ng Diyosa
+UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,Pagpapala ng Demonyo
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,Pagpapala ng Demonyo
+UI_CHARINFO_HOUSING_SLOTS,Pet inventory slots,Slot ng imbakan ng alagang hayop
+UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Gamitin ang Pagpapala?
+UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Ang paggamit ng Pagpapala ay gagawing kaluluwa-nakagapos ang item. Nais mo bang magpatuloy?
+UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Ang resipe ay hindi ganap na nauunawaan, kaya isa lamang sa bawat sangkap ang ginagamit."
+UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Natapos ang misyon
+UI_TELEPORT_ARENA,Do you want to exit the arena?,Gusto mo bang lumabas sa arena?
+UI_NEWYEARPASS_2025,2025 New Year Pass,2025 Bagon Taon Pass
+UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Kolektahin %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_YEAROFSNAKE2025,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Sinusubukang kolektahin (Pagkolekta ng Halaman, Paggawa ng Kahoy, Pagmimina, Pag-aani ng Berry) #cffc32f07#b%d/%d#nb#nc"
+UI_GENERALAWAKE_NOMATERIAL,You ran out of blessing materials.,Nauubos na ang iyong mga materyales sa pagpapala.
+UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Lingguhang Ranggo
+UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanenteng Ranggo
+UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Titulo:
+UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank:,Kasalukuyang ranggo:
+UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,Hindi niranggo.
+UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Puntos ng Spring: %d Pts
+UI_QUEST_PT_JAN2024_2,Spring Points: ????,Puntos ng Spring: ????
+UI_EVENT_JAN2024_NAME,Spring Point Exchange,Palitan ng Puntos ng Spring
+UI_JAN2024_POINT_NAME,Spring Points,Puntos ng Spring
 UI_POINTS,%d Pts,%d Pts
-UI_QUEST_ATTEMPT_GATHERING,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
-UI_STANDBY,Standby,Standby
-UI_DEAD,Dead,Dead
-UI_NOW_SPECTATING,Spectating %s,Spectating %s
-UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
-UI_TARGET_HEALTH,Health: ,Health: 
+UI_QUEST_ATTEMPT_GATHERING,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Sinusubukang kolektahin (Pagkolekta ng Halaman, Paggawa ng Kahoy, Pagmimina, Pag-aani ng Berry) #cffc32f07#b%d/%d#nb#nc"
+UI_STANDBY,Standby,Maghintay
+UI_DEAD,Dead,Patay
+UI_NOW_SPECTATING,Spectating %s,Nanonood ng %s
+UI_EASTER_EGG_MISSION,Gather Easter Eggs,Kolektahin ang mga Easter Egg
+UI_LIFE_MASTERY_CHROMA_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Bakal na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Bakal.
+UI_TARGET_HEALTH,Health: ,Kalusugan: 
 UI_TARGET_PENYA,- Penya: ,- Penya: 
-UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
-UI_MENU_REFRESH,Refresh,Refresh
+UI_ACHIEVEMENTS_LIFE_TAB,Life,Buhay
+UI_MENU_REFRESH,Refresh,I-refresh
 UI_MENU_MESSAGE,Message,Mensahe
-UI_MENU_SUMMON,Summon,Summon
-UI_MENU_KICK,Kick,Kick
-UI_MENU_SNOOP,Snoop,Snoop
-UI_MENU_MUTE,Mute,Mute
-UI_MENU_UNMUTE,Unmute,Unmute
-UI_MENU_FREEZE,Freeze,Freeze
-UI_MENU_UNFREEZE,Unfreeze,Unfreeze
+UI_MENU_SUMMON,Summon,Ipatawag
+UI_MENU_KICK,Kick,Paalisin
+UI_MENU_SNOOP,Snoop,Mag-espiya
+UI_MENU_MUTE,Mute,Tahimik
+UI_MENU_UNMUTE,Unmute,Buksan ang tunog
+UI_MENU_FREEZE,Freeze,I-freeze
+UI_MENU_UNFREEZE,Unfreeze,I-unfreeze
 UI_MENU_PARTY,Party,Partido
-UI_MENU_GUILDJOIN,Guild Join,Guild Join
+UI_MENU_GUILDJOIN,Guild Join,Sumali sa Guild
 UI_MENU_BAN,Ban,Ban
 UI_MENU_BAN_IP,Ban IP,Ban IP
-UI_MENU_KICK_IP,Kick IP,Kick IP
-UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
-UI_APP_INSPECTION,Inspection,Inspection
-UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
-UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
+UI_MENU_KICK_IP,Kick IP,Paalisin IP
+UI_MENU_MUTE_SHA,Mute Sha,Tahimik Sha
+UI_APP_INSPECTION,Inspection,Inspeksyon
+UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Mga manlalaro na napatay: 
+UI_TARGET_PK_VALUE,- PK Value : ,- Halaga ng PK : 
 UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
-UI_PUBLISHED_BY,Published by ,Published by 
-UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. All rights reserved.
+UI_PUBLISHED_BY,Published by ,Inilathala ng 
+UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. Lahat ng karapatan ay nakalaan.
 UI_QUEST_DISTANCE_M,m,m
 UI_QUEST_DISTANCE_KM,km,km
 UI_SKILL_MAX,MAX,MAX
@@ -3029,29 +3029,29 @@ UI_WHISPERREFUSE,whisperrefuse,whisperrefuse
 UI_MS,ms,ms
 UI_FPS,FPS,FPS
 UI_DEBUG_2D_OVERLAY,2D overlay,2D overlay
-UI_DEBUG_CURRENT_P,Current player,Current player
-UI_DEBUG_OBJS,Objects,Objects
+UI_DEBUG_CURRENT_P,Current player,Kasalukuyang manlalaro
+UI_DEBUG_OBJS,Objects,Mga bagay
 UI_DEBUG_SHD,Shadows,Anino
 UI_DEBUG_TERRAIN,Terrain,Terrain
-UI_DEBUG_WATER,Water,Water
+UI_DEBUG_WATER,Water,Tubig
 UI_DEBUG_SKYBOX,Skybox,Skybox
 UI_DEBUG_WEATHER,Weather,Panahon
-UI_DEBUG_FOG,Fog,Fog
-UI_DEBUG_LIGHT,Light,Light
-UI_DEBUG_OBJ_CULLING,Object Culling,Object Culling
-UI_DEBUG_BUTT_EXP,Exp,Exp
-UI_DEBUG_MOVER_STATE,Movers states,Movers states
-UI_DEBUG_DYNAMIC_BUFF,Dynamic buffers,Dynamic buffers
-UI_DEBUG_RENDERING_INFO,Rendering Info,Rendering Info
-UI_DEBUG_SHD_MAP_DEBUG,Shadow map debug,Shadow map debug
-UI_DEBUG_SCENE_DEPTH_DEBUG,Scene depth debug,Scene depth debug
-UI_DEBUG_SCENE_REFLECT_DEBUG,Scene reflection debug,Scene reflection debug
-UI_DEBUG_POST_COLOR_DEBUG,Post color debug,Post color debug
+UI_DEBUG_FOG,Fog,Ulap
+UI_DEBUG_LIGHT,Light,Liwanag
+UI_DEBUG_OBJ_CULLING,Object Culling,Pagtatanggal ng Bagay
+UI_DEBUG_BUTT_EXP,Exp,Karanasan
+UI_DEBUG_MOVER_STATE,Movers states,Kalagayan ng Mga Gumagalaw
+UI_DEBUG_DYNAMIC_BUFF,Dynamic buffers,Dinamikong buffers
+UI_DEBUG_RENDERING_INFO,Rendering Info,Impormasyon sa Pagre-render
+UI_DEBUG_SHD_MAP_DEBUG,Shadow map debug,Pag-debug ng mapa ng anino
+UI_DEBUG_SCENE_DEPTH_DEBUG,Scene depth debug,Pag-debug ng lalim ng eksena
+UI_DEBUG_SCENE_REFLECT_DEBUG,Scene reflection debug,Pag-debug ng repleksyon ng eksena
+UI_DEBUG_POST_COLOR_DEBUG,Post color debug,Pag-debug ng kulay ng post
 UI_TITLE_GAME,Game,Laro
 UI_TITLE_GRAPHICS,Graphics,Grapiko
-UI_TITLE_DEBUG,Debug,Debug
-UI_FIXED_HOUR,Fixed hour: ,Fixed hour: 
-UI_TITLE_SHD_DEBUGGING,Shader Debugging,Shader Debugging
+UI_TITLE_DEBUG,Debug,Ayusin
+UI_FIXED_HOUR,Fixed hour: ,Tiyak na oras 
+UI_TITLE_SHD_DEBUGGING,Shader Debugging,Pag-debug ng Shader
 UI_TITLE_SKYBOX,Skybox,Skybox
 UI_TITLE_SSAO_SHD,SSAO Shader,SSAO Shader
 UI_TITLE_VOLUM_LIGHT_SHD,Volum. Light Shader,Volum. Light Shader
@@ -3062,132 +3062,132 @@ UI_GENERIC_1,Setting 1,Setting 1
 UI_GENERIC_2,Setting 2,Setting 2
 UI_GENERIC_3,Setting 3,Setting 3
 UI_GENERIC_4,Setting 4,Setting 4
-UI_SBX_TIME,Time,Time
+UI_SBX_TIME,Time,Oras
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
-UI_SSAO_SHD_STR,Strength,Strength
-UI_SSAO_SHD_MAX_D,Max Distance,Max Distance
-UI_SSAO_SHD_FALLOFF,Falloff,Falloff
-UI_SSAO_SHD_RADIUS,Radius,Radius
+UI_SSAO_SHD_STR,Strength,Lakas
+UI_SSAO_SHD_MAX_D,Max Distance,Pinakamalayo na Distansya
+UI_SSAO_SHD_FALLOFF,Falloff,Pagbagsak
+UI_SSAO_SHD_RADIUS,Radius,Saklaw
 UI_SSAO_SHD_ALPHA,Alpha,Alpha
-UI_SSAO_SHD_BLURSZ,Blur Size,Blur Size
-UI_SSAO_SHD_BLURSAMPLE,Blur Samples,Blur Samples
-UI_BLOOM_SHD_SATUR,Saturation,Saturation
-UI_FLARE_SHD_DISTORTSIZE,Distortion Size,Distortion Size
-UI_FLARE_SHD_DISTORTSPEED,Distortion Speed,Distortion Speed
-UI_FLARE_SHD_DISTORTSTR,Distortion Strength,Distortion Strength
-UI_ATTR_OBJ,Objects: ,Objects: 
-UI_ATTR_LANDSCAPE,Landscapes: ,Landscapes: 
+UI_SSAO_SHD_BLURSZ,Blur Size,Laki ng Blur
+UI_SSAO_SHD_BLURSAMPLE,Blur Samples,Mga Sample ng Blur
+UI_BLOOM_SHD_SATUR,Saturation,Saturasyon
+UI_FLARE_SHD_DISTORTSIZE,Distortion Size,Distorsyon Size
+UI_FLARE_SHD_DISTORTSPEED,Distortion Speed,Bilis ng Distorsyon
+UI_FLARE_SHD_DISTORTSTR,Distortion Strength,Lakas ng Distorsyon
+UI_ATTR_OBJ,Objects: ,Mga Bagay: 
+UI_ATTR_LANDSCAPE,Landscapes: ,Mga Tanawin: 
 UI_ATTR_PING,Ping: ,Ping: 
 UI_ATTR_FPS,FPS: ,FPS: 
 UI_CCU,CCU,CCU
-UI_APP_ACCOUNT_TIP,Manage your account,Manage your account
-UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3rd Anniversary Pass
-UI_BATTLEPASS_REPEAT,Repeat,Repeat
-UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Failure: #b%s#nb
-UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,Break: #b%s#nb
-UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,Upgrade Attempts Left: %d
-UI_BATTLEPASS_MISSION_FIELDBOSS,Field boss battle participation: %s,Field boss battle participation: %s
-UI_QUEST_CONSUMABLE_ITEM_COUNT,Number of Consumption Items Usage #cffc32f07#b%d/%d#nb#nc,Number of Consumption Items Usage #cffc32f07#b%d/%d#nb#nc
-UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Personal statue created
+UI_APP_ACCOUNT_TIP,Manage your account,Pamamahala ng iyong account
+UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3rd Anibersaryo Pass
+UI_BATTLEPASS_REPEAT,Repeat,Ulitin
+UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Pagkabigo: #b%s#nb
+UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,Pagkabigo: #b%s#nb
+UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,Natitirang Pagsubok sa Pag-upgrade: %d
+UI_BATTLEPASS_MISSION_FIELDBOSS,Field boss battle participation: %s,Paglahok sa laban ng field boss: %s
+UI_QUEST_CONSUMABLE_ITEM_COUNT,Number of Consumption Items Usage #cffc32f07#b%d/%d#nb#nc,Bilang ng Paggamit ng Mga Konsumableng Item #cffc32f07#b%d/%d#nb#nc
+UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Nalikha ang personal na estatwa
 UI_FORCEWEEKLYLIFESTYLERESET,forceweeklylifestylereset,forceweeklylifestylereset
-UI_SHOP_REFRESH_IN,Refresh in,Refresh in
-UI_DAYS_MON,Mon,Mon
-UI_DAYS_TUE,Tue,Tue
-UI_DAYS_WED,Wed,Wed
-UI_DAYS_THU,Thu,Thu
-UI_DAYS_FRI,Fri,Fri
-UI_DAYS_SAT,Sat,Sat
-UI_DAYS_SUN,Sun,Sun
+UI_SHOP_REFRESH_IN,Refresh in,Mag-refresh sa
+UI_DAYS_MON,Mon,Lunes
+UI_DAYS_TUE,Tue,Martes
+UI_DAYS_WED,Wed,Miyerkules
+UI_DAYS_THU,Thu,Huwes
+UI_DAYS_FRI,Fri,Biyernes
+UI_DAYS_SAT,Sat,Sabado
+UI_DAYS_SUN,Sun,Linggo
 UI_SEARCHPARTY_LEVEL,Lv.,Lv.
 UI_RANKING_UNIT1,st,st
 UI_RANKING_UNIT2,nd,nd
 UI_RANKING_UNIT3,rd,rd
 UI_RANKING_UNIT4,th,th
-UI_KALGAS_BLACK,Black,Black
-UI_KALGAS_WHITE,White,White
-UI_KALGAS_TEAM,Team,Team
+UI_KALGAS_BLACK,Black,Itim
+UI_KALGAS_WHITE,White,Puti
+UI_KALGAS_TEAM,Team,Koponan
 UI_WARDROBE_NONE,None,Wala
 UI_ACHIEVEMENT_SLOTS_N,slot(s),slot(s)
 UI_STATUS_LEVEL,Lv.%d,Lv.%d
-UI_BOSSRAID_JOIN_TITLE,Enter Boss Raid Area,Enter Boss Raid Area
-UI_BOSSRAID_JOIN_CONFIRM,Do you want to join the Boss Raid?,Do you want to join the Boss Raid?
-UI_BOSSRAID_BOSS_APPEAR_NOTICE,The monster will appear in %d minutes and %d seconds,The monster will appear in %d minutes and %d seconds
-UI_BOSSRAID_BOSS_APPEAR_NOTICE_MIN,The monster will appear in %d minutes,The monster will appear in %d minutes
-UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,The monster will appear in %d seconds
-UI_PVPMATCHRECAP_TITLE,Match Data,Match Data
-UI_PVPMATCHRECAP_TITLE_2,Match Result,Match Result
+UI_BOSSRAID_JOIN_TITLE,Enter Boss Raid Area,Pumasok sa Lugar ng Boss Raid
+UI_BOSSRAID_JOIN_CONFIRM,Do you want to join the Boss Raid?,Gusto mo bang sumali sa Boss Raid?
+UI_BOSSRAID_BOSS_APPEAR_NOTICE,The monster will appear in %d minutes and %d seconds,Ang halimaw ay lilitaw sa loob ng %d minuto at %d segundo
+UI_BOSSRAID_BOSS_APPEAR_NOTICE_MIN,The monster will appear in %d minutes,Ang halimaw ay lilitaw sa loob ng %d minuto
+UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,Ang halimaw ay lilitaw sa loob ng %d segundo
+UI_PVPMATCHRECAP_TITLE,Match Data,Datos ng Laro
+UI_PVPMATCHRECAP_TITLE_2,Match Result,Resulta ng Laro
 UI_PVPMATCHRECAP_NAME,Name,Pangalan
 UI_PVPMATCHRECAP_JOB,Job,Trabaho
 UI_PVPMATCHRECAP_LEVEL,Level,Lebel
-UI_PVPMATCHRECAP_WINNER,Winner,Winner
-UI_PVPMATCHRECAP_LOSER,Loser,Loser
+UI_PVPMATCHRECAP_WINNER,Winner,Panalo
+UI_PVPMATCHRECAP_LOSER,Loser,Talo
 UI_PVPMATCHRECAP_TOTAL,Total,Total
-UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Revolutionary's Secret Journal
-UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded.","The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded."
-UI_BTN_ADD_ALL,Add all,Add all
-UI_FULL_COLLECTION_REWARD,Full collection Reward,Full collection Reward
-UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,The letters will be automatically registered in top-down order. Continue?
-UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Item or Penya has been removed. Wait %d sec(s).
-UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
-UI_OPTION_MAIL_EVERYONE,Everyone,Everyone
-UI_OPTION_MAIL_FRIENDS,Friends,Friends
-UI_OPTION_MAIL_SYSTEM,System Only,System Only
-UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
-UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
-UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Number of Consumption Items Usage,Number of Consumption Items Usage
-UI_BATTLEPASS_MISSION_GETITEM,Obtain %s,Obtain %s
-UI_TOOLTIP_TITLE_FWC_COIN,Betting Coin Blessing,Betting Coin Blessing
-UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,Increased FWC Coin drop
-UI_ADDATTRIBUTE_START,Start,Start
-UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,Item to be upgraded
-UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,You ran out of materials.
-UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,Upgrade Item?
-UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Do you wish to continue?,Upgrading this item will make the item soul-bound. Do you wish to continue?
-UI_OPTION_PVPMATCH_CAPTION,PVP Match/Contest Captions,PVP Match/Contest Captions
-UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website.","You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website."
-UI_PTS_POPUP_TITLE,Public Test Server Form,Public Test Server Form
-UI_PTS_POPUP_HIDE,Do not show this again,Do not show this again
-UI_TAB_FWC_PREDICTION_RULE,Rule,Rule
-UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,Prediction
-UI_TAB_FWC_RANKING,Ranking,Ranking
-UI_REMAINING_FWCCOIN,Remaining FWC Coin,Remaining FWC Coin
-UI_TIMELEFT,Time left,Time left
-UI_GUILDICON,Guild Icon,Guild Icon
-UI_GUILDNAME,Guild Name,Guild Name
-UI_TOTALBETAMOUNT,Total Bet Amount,Total Bet Amount
-UI_MYBET,My Bet,My Bet
-UI_ACTION,Action,Action
-UI_BTN_ADDBET,Add Bet,Add Bet
-UI_TITLE_ADDBET,Add Bet,Add Bet
-UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  "
-UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,Enter Bet Amount:
-UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s
-UI_TITLE_GUILDINFO,Guild Info,Guild Info
+UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Lihim na Talaarawan ng Rebolusyonaryo
+UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded.","Ang mga pahina ng talaarawan ay nawala sa panahon ng mga pag-atake ng mga halimaw mula sa iba't ibang bahagi ng mundo.\nKung tutulungan mo itong mabawi, tiyak na ikaw ay gagantimpalaan."
+UI_BTN_ADD_ALL,Add all,Idagdag lahat
+UI_FULL_COLLECTION_REWARD,Full collection Reward,Buong gantimpala ng koleksyon
+UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,Ang mga titik ay awtomatikong mairehistro mula sa itaas pababa. Magpapatuloy ba?
+UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Ang item o Penya ay tinanggal. Maghintay ng %d segundo.
+UI_OPTION_MAIL_MODE,Allow Mails From,Pahintulutan ang mga Liham Mula sa
+UI_OPTION_MAIL_EVERYONE,Everyone,Lahat
+UI_OPTION_MAIL_FRIENDS,Friends,Kaibigan
+UI_OPTION_MAIL_SYSTEM,System Only,Sistema Lamang
+UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Libreng Pagpasok sa Dungeon
+UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Kampeonato Pass
+UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Number of Consumption Items Usage,Bilang ng Paggamit ng Mga Konsumableng Item
+UI_BATTLEPASS_MISSION_GETITEM,Obtain %s,Kumuha ng %s
+UI_TOOLTIP_TITLE_FWC_COIN,Betting Coin Blessing,Pagpapala ng Betting Coin
+UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,Pinataas ang FWC Coin drop
+UI_ADDATTRIBUTE_START,Start,Simulan
+UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,Item na ia-upgrade
+UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,Nauubos na ang iyong mga materyales.
+UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,I-upgrade ang Item?
+UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Do you wish to continue?,Ang pag-upgrade ng item na ito ay gagawing soul-bound ang item. Nais mo bang magpatuloy?
+UI_OPTION_PVPMATCH_CAPTION,PVP Match/Contest Captions,PVP Mga Kapatitulo para sa Labanan o Paligsahan
+UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This is a server that will be used to test upcoming features, for more information, please visit our website.","Karapat-dapat kang mag-aplay bilang tester para sa Public Test Server gamit ang form sa ibaba. Ito ay isang server na gagamitin upang subukan ang mga paparating na tampok, para sa karagdagang impormasyon, mangyaring bisitahin ang aming website."
+UI_PTS_POPUP_TITLE,Public Test Server Form,Pampublikong Porma ng Test Server
+UI_PTS_POPUP_HIDE,Do not show this again,Huwag ipakita ito muli
+UI_TAB_FWC_PREDICTION_RULE,Rule,Patakaran
+UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,Panghuhula
+UI_TAB_FWC_RANKING,Ranking,Ranggo
+UI_REMAINING_FWCCOIN,Remaining FWC Coin,Natitirang FWC Coin
+UI_TIMELEFT,Time left,Oras na Natitira
+UI_GUILDICON,Guild Icon,Icon ng Guild
+UI_GUILDNAME,Guild Name,Pangalan ng Guild
+UI_TOTALBETAMOUNT,Total Bet Amount,Kabuuang Halaga ng Pusta
+UI_MYBET,My Bet,Aking Pusta
+UI_ACTION,Action,Aksyon
+UI_BTN_ADDBET,Add Bet,Magdagdag ng Pusta
+UI_TITLE_ADDBET,Add Bet,Magdagdag ng Pusta
+UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Pinakamababang Taya: 50 barya\n* Kapag nakumpirma na, hindi na mababawi o mababago ang taya.  "
+UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,Ilagay ang Halaga ng Pusta:
+UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,Sigurado ka bang gusto mong ilagay ang pustang ito?\nPangalan ng Guild : %s\nHalaga ng barya : %s
+UI_TITLE_GUILDINFO,Guild Info,Impormasyon ng Guild
 UI_BTN_MEMBERS,Members,Mga Miyembro
 UI_CHARACTERNAME,Name,Pangalan
 UI_JOB,Job,Trabaho
 UI_SERVER,Server,Serber
-UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin Spent
-UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent
-UI_RANK,Rank,Rank
-UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Total FWC Coin Spent
-UI_OPTION_IMAGE_TITLE,Banner Titles,Banner Titles
-UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Right-Hand Weapon Attack
-UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Left-Hand Weapon Attack
-UI_PARTS_SHIELD_DEF,Shield Defense,Shield Defense
-UI_SKILL_SYNERGY,Synergy,Synergy
-UI_SKILL_SYNERGY_PER,per level %d+,per level %d+
-UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,Rear Dark Illusion Damage
-UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Critical Mark Chance
-UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Complete #cffc32f07#b%d/%d#nb#nc daily quest(s)
-UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Increased Damage per Disable Debuff
-UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Increased Damage per Weaken Debuff
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Reduced Damage Taken per Debuff (Max 8)
-UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(Disable)
-UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Weaken)
-UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Immobility)
-UI_ACTIVE_SKILLS,Active Skills,Active Skills
-UI_PASSIVE_SKILLS,Passive Skills,Passive Skills
+UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Kabuuan ng Server\nGinastos na FWC Coin
+UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,Ginastos kong FWC Coin.
+UI_RANK,Rank,Ranggo
+UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Kabuuan ng ginastos na FWC Coin
+UI_OPTION_IMAGE_TITLE,Banner Titles,Mga Pamagat ng Banner
+UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Atake ng Sandata sa Kanan
+UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Atake ng Sandata sa Kaliwa
+UI_PARTS_SHIELD_DEF,Shield Defense,Panangga ng Depensa
+UI_SKILL_SYNERGY,Synergy,Sinergiya
+UI_SKILL_SYNERGY_PER,per level %d+,bawat antas %d+
+UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,Pinsala ng Madilim na Ilusyon sa Likuran
+UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Tsansa ng Kritikal na Marka
+UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Kumpletuhin ang #cffc32f07#b%d/%d#nb#nc pang-araw-araw na misyon
+UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Pinataas na Pinsala bawat Disable Debuff
+UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Pinataas na Pinsala bawat Weaken Debuff
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Pinababang Pinsala na Natatanggap bawat Debuff (Max 8)
+UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(I-disable)
+UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Magpahina)
+UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Kawalan ng paggalaw)
+UI_ACTIVE_SKILLS,Active Skills,Aktibong Kasanayan
+UI_PASSIVE_SKILLS,Passive Skills,Mga Pasibong Kakayahan
 UI_MASTER_SKILLS,Master Variations,Master Variations
 UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,Boss Incoming Damage
 UI_TOOLTIP_DMG_TICK,Damage Tick,Damage Tick

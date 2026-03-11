@@ -1979,7 +1979,7 @@ PROPITEM_TXT_003956,Legendary Golden Stick,Bastone D'Oro Leggendario
 PROPITEM_TXT_003958,Legendary Golden Wand,Bacchetta D'Oro Leggendaria
 PROPITEM_TXT_003960,Legendary Golden Staff,Personale D'Oro Leggendario
 PROPITEM_TXT_003962,Legendary Golden Bow,Arco D'Oro Leggendario
-PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Yo-Yo Dorato Leggendario
+PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Yo-Yo D'oro Leggendario
 PROPITEM_TXT_003966,First Refresher,Primo Rinfresco
 PROPITEM_TXT_003967,MP 65 Recovery,MP 65 Recupero
 PROPITEM_TXT_003968,Second Refresher,Secondo Rinfresco
@@ -1998,7 +1998,7 @@ PROPITEM_TXT_003980,Eighth Refresher,Ottavo Rinfresco
 PROPITEM_TXT_003981,MP 525 Recovery,MP 525 Recupero
 PROPITEM_TXT_003982,Ninth Refresher,Nono Rinfresco
 PROPITEM_TXT_003983,MP 600 Recovery,MP 600 Recupero
-PROPITEM_TXT_003984,Tenth Refresher,Decimo Aggiornamento
+PROPITEM_TXT_003984,Tenth Refresher,Decimo Rinfresco
 PROPITEM_TXT_003985,MP 675 Recovery,MP 675 Recupero
 PROPITEM_TXT_003986,Antidote Potion,Pozione Antidoto
 PROPITEM_TXT_003987,A poison antidote. This vial will instantly cure poison effects when consumed.,Un antidoto velenoso. Questo flaconcino curerà istantaneamente gli effetti velenosi quando consumato.
@@ -2085,80 +2085,80 @@ PROPITEM_TXT_004070,Peision Necklace +5,Collana Peision +5
 PROPITEM_TXT_004071,+346 Max. FP Necklace,+346 Max. Collana FP
 PROPITEM_TXT_004072,Peision Necklace +6,Collana Peision +6
 PROPITEM_TXT_004073,+424 Max. FP Necklace,+424 Collana FP Max.
-PROPITEM_TXT_004074,Vigor Ring +1,Vigor Ring +1
-PROPITEM_TXT_004075,STR +2 Ring,STR +2 Ring
-PROPITEM_TXT_004076,Vigor Ring +2,Vigor Ring +2
-PROPITEM_TXT_004077,STR +3 Ring,STR +3 Ring
-PROPITEM_TXT_004078,Vigor Ring +3,Vigor Ring +3
-PROPITEM_TXT_004079,STR +4 Ring,STR +4 Ring
-PROPITEM_TXT_004080,Vigor Ring +4,Vigor Ring +4
-PROPITEM_TXT_004081,STR +5 Ring,STR +5 Ring
-PROPITEM_TXT_004082,Vigor Ring +5,Vigor Ring +5
-PROPITEM_TXT_004083,STR +6 Ring,STR +6 Ring
-PROPITEM_TXT_004084,Vigor Ring +6,Vigor Ring +6
-PROPITEM_TXT_004085,STR +7 Ring,STR +7 Ring
-PROPITEM_TXT_004086,Intelli Ring +1,Intelli Ring +1
-PROPITEM_TXT_004087,INT +2 Ring,INT +2 Ring
-PROPITEM_TXT_004088,Intelli Ring +2,Intelli Ring +2
-PROPITEM_TXT_004089,INT +3 Ring,INT +3 Ring
-PROPITEM_TXT_004090,Intelli Ring +3,Intelli Ring +3
-PROPITEM_TXT_004091,INT +4 Ring,INT +4 Ring
-PROPITEM_TXT_004092,Intelli Ring +4,Intelli Ring +4
-PROPITEM_TXT_004093,INT +5 Ring,INT +5 Ring
-PROPITEM_TXT_004094,Intelli Ring +5,Intelli Ring +5
-PROPITEM_TXT_004095,INT +6 Ring,INT +6 Ring
-PROPITEM_TXT_004096,Intelli Ring +6,Intelli Ring +6
-PROPITEM_TXT_004097,INT +7 Ring,INT +7 Ring
-PROPITEM_TXT_004098,Arek Ring +1,Arek Ring +1
-PROPITEM_TXT_004099,DEX +2 Ring,DEX +2 Ring
-PROPITEM_TXT_004100,Arek Ring +2,Arek Ring +2
-PROPITEM_TXT_004101,DEX +3 Ring,DEX +3 Ring
-PROPITEM_TXT_004102,Arek Ring +3,Arek Ring +3
-PROPITEM_TXT_004103,DEX +4 Ring,DEX +4 Ring
-PROPITEM_TXT_004104,Arek Ring +4,Arek Ring +4
-PROPITEM_TXT_004105,DEX +5 Ring,DEX +5 Ring
-PROPITEM_TXT_004106,Arek Ring +5,Arek Ring +5
-PROPITEM_TXT_004107,DEX +6 Ring,DEX +6 Ring
-PROPITEM_TXT_004108,Arek Ring +6,Arek Ring +6
-PROPITEM_TXT_004109,DEX +7 Ring,DEX +7 Ring
-PROPITEM_TXT_004110,Stam Ring +1,Stam Ring +1
-PROPITEM_TXT_004111,STA +2 Ring,STA +2 Ring
-PROPITEM_TXT_004112,Stam Ring +2,Stam Ring +2
-PROPITEM_TXT_004113,STA +3 Ring,STA +3 Ring
-PROPITEM_TXT_004114,Stam Ring +3,Stam Ring +3
-PROPITEM_TXT_004115,STA +4 Ring,STA +4 Ring
-PROPITEM_TXT_004116,Stam Ring +4,Stam Ring +4
-PROPITEM_TXT_004117,STA +5 Ring,STA +5 Ring
-PROPITEM_TXT_004118,Stam Ring +5,Stam Ring +5
-PROPITEM_TXT_004119,STA +6 Ring,STA +6 Ring
-PROPITEM_TXT_004120,Stam Ring +6,Stam Ring +6
-PROPITEM_TXT_004121,STA +7 Ring,STA +7 Ring
-PROPITEM_TXT_004122,Vigor Ring +0,Vigor Ring +0
-PROPITEM_TXT_004123,STR +1 Ring,STR +1 Ring
-PROPITEM_TXT_004124,Intelli Ring +0,Intelli Ring +0
-PROPITEM_TXT_004125,INT +1 Ring,INT +1 Ring
-PROPITEM_TXT_004126,Stam Ring +0,Stam Ring +0
-PROPITEM_TXT_004127,STA +1 Ring,STA +1 Ring
-PROPITEM_TXT_004128,Arek Ring +0,Arek Ring +0
-PROPITEM_TXT_004129,DEX +1 Ring,DEX +1 Ring
+PROPITEM_TXT_004074,Vigor Ring +1,Anello Vigor +1
+PROPITEM_TXT_004075,STR +2 Ring,Anello FOR +2
+PROPITEM_TXT_004076,Vigor Ring +2,Anello Vigor +2
+PROPITEM_TXT_004077,STR +3 Ring,Anello FOR +3
+PROPITEM_TXT_004078,Vigor Ring +3,Anello Vigor +3
+PROPITEM_TXT_004079,STR +4 Ring,Anello FOR +4
+PROPITEM_TXT_004080,Vigor Ring +4,Anello Vigor +4
+PROPITEM_TXT_004081,STR +5 Ring,Anello FOR +5
+PROPITEM_TXT_004082,Vigor Ring +5,Anello Vigor +5
+PROPITEM_TXT_004083,STR +6 Ring,Anello FOR +6
+PROPITEM_TXT_004084,Vigor Ring +6,Anello Vigor +6
+PROPITEM_TXT_004085,STR +7 Ring,Anello FOR +7
+PROPITEM_TXT_004086,Intelli Ring +1,Anello Intelli +1
+PROPITEM_TXT_004087,INT +2 Ring,Anello INT +2
+PROPITEM_TXT_004088,Intelli Ring +2,Anello Intelli +2
+PROPITEM_TXT_004089,INT +3 Ring,Anello INT +3
+PROPITEM_TXT_004090,Intelli Ring +3,Anello Intelli +3
+PROPITEM_TXT_004091,INT +4 Ring,Anello INT +4
+PROPITEM_TXT_004092,Intelli Ring +4,Anello Intelli +4
+PROPITEM_TXT_004093,INT +5 Ring,Anello INT +5
+PROPITEM_TXT_004094,Intelli Ring +5,Anello Intelli +5
+PROPITEM_TXT_004095,INT +6 Ring,Anello INT +6
+PROPITEM_TXT_004096,Intelli Ring +6,Anello Intelli +6
+PROPITEM_TXT_004097,INT +7 Ring,Anello INT +7
+PROPITEM_TXT_004098,Arek Ring +1,Anello Arek +1
+PROPITEM_TXT_004099,DEX +2 Ring,Anello DES+2
+PROPITEM_TXT_004100,Arek Ring +2,Anello Arek +2
+PROPITEM_TXT_004101,DEX +3 Ring,Anello AGI +3
+PROPITEM_TXT_004102,Arek Ring +3,Anello Arek +3
+PROPITEM_TXT_004103,DEX +4 Ring,Anello DES+4
+PROPITEM_TXT_004104,Arek Ring +4,Anello Arek +4
+PROPITEM_TXT_004105,DEX +5 Ring,Anello DES+5
+PROPITEM_TXT_004106,Arek Ring +5,Anello Arek +5
+PROPITEM_TXT_004107,DEX +6 Ring,Anello DES+6
+PROPITEM_TXT_004108,Arek Ring +6,Anello Arek +6
+PROPITEM_TXT_004109,DEX +7 Ring,Anello DES+7
+PROPITEM_TXT_004110,Stam Ring +1,Anello Stam +1
+PROPITEM_TXT_004111,STA +2 Ring,Anello CON +2
+PROPITEM_TXT_004112,Stam Ring +2,Anello Stam +2
+PROPITEM_TXT_004113,STA +3 Ring,Anello CON +3
+PROPITEM_TXT_004114,Stam Ring +3,Anello Stam +3
+PROPITEM_TXT_004115,STA +4 Ring,Anello CON +4
+PROPITEM_TXT_004116,Stam Ring +4,Anello Stam +4
+PROPITEM_TXT_004117,STA +5 Ring,Anello CON +5
+PROPITEM_TXT_004118,Stam Ring +5,Anello Stam +5
+PROPITEM_TXT_004119,STA +6 Ring,Anello CON +6
+PROPITEM_TXT_004120,Stam Ring +6,Anello Stam +6
+PROPITEM_TXT_004121,STA +7 Ring,Anello CON +7
+PROPITEM_TXT_004122,Vigor Ring +0,Anello Vigor +0
+PROPITEM_TXT_004123,STR +1 Ring,Anello FOR +1
+PROPITEM_TXT_004124,Intelli Ring +0,Anello Intelli +0
+PROPITEM_TXT_004125,INT +1 Ring,Anello INT +1
+PROPITEM_TXT_004126,Stam Ring +0,Anello Stam +0
+PROPITEM_TXT_004127,STA +1 Ring,Anello CON +1
+PROPITEM_TXT_004128,Arek Ring +0,Anello Arek +0
+PROPITEM_TXT_004129,DEX +1 Ring,Anello DES +1
 PROPITEM_TXT_004130,Mighteer +1,Mighteer +1
-PROPITEM_TXT_004131,+120 Damage Earring,+120 Damage Earring
+PROPITEM_TXT_004131,+120 Damage Earring,+120 Orecchino Danno
 PROPITEM_TXT_004132,Mighteer +2,Mighteer +2
-PROPITEM_TXT_004133,+175 Damage Earring,+175 Damage Earring
+PROPITEM_TXT_004133,+175 Damage Earring,+175 Orecchino Danno
 PROPITEM_TXT_004134,Mighteer +3,Mighteer +3
-PROPITEM_TXT_004135,+250 Damage Earring,+250 Damage Earring
+PROPITEM_TXT_004135,+250 Damage Earring,+250 Orecchino Danno
 PROPITEM_TXT_004136,Penzeru +1,Penzeru +1
-PROPITEM_TXT_004137,+150 Defense Earring,+150 Defense Earring
+PROPITEM_TXT_004137,+150 Defense Earring,+150 Orecchino Di Difesa
 PROPITEM_TXT_004138,Penzeru +2,Penzeru +2
-PROPITEM_TXT_004139,+175 Defense Earring,+175 Defense Earring
+PROPITEM_TXT_004139,+175 Defense Earring,+175 Orecchino Di Difesa
 PROPITEM_TXT_004140,Penzeru +3,Penzeru +3
-PROPITEM_TXT_004141,+200 Defense Earring,+200 Defense Earring
+PROPITEM_TXT_004141,+200 Defense Earring,+200 Orecchino Di Difesa
 PROPITEM_TXT_004142,Speedo +1,Speedo +1
-PROPITEM_TXT_004143,+3% Block Earring,+3% Block Earring
+PROPITEM_TXT_004143,+3% Block Earring,+3% Orecchino A Blocco
 PROPITEM_TXT_004144,Speedo +2,Speedo +2
-PROPITEM_TXT_004145,+6% Block Earring,+6% Block Earring
+PROPITEM_TXT_004145,+6% Block Earring,+6% Orecchino A Blocco
 PROPITEM_TXT_004146,Speedo +3,Speedo +3
-PROPITEM_TXT_004147,+10% Block Earring,+10% Block Earring
+PROPITEM_TXT_004147,+10% Block Earring,+10% Orecchino A Blocco
 PROPITEM_TXT_004148,Pep +1,Pep +1
 PROPITEM_TXT_004150,Pep +2,Pep +2
 PROPITEM_TXT_004152,Pep +3,Pep +3
@@ -2169,170 +2169,170 @@ PROPITEM_TXT_004160,Enduky +1,Enduky +1
 PROPITEM_TXT_004162,Enduky +2,Enduky +2
 PROPITEM_TXT_004164,Enduky +3,Enduky +3
 PROPITEM_TXT_004166,Strente +1,Strente +1
-PROPITEM_TXT_004167,STR +10 Ring,STR +10 Ring
+PROPITEM_TXT_004167,STR +10 Ring,Anello FOR +10
 PROPITEM_TXT_004168,Strente +2,Strente +2
-PROPITEM_TXT_004169,STR +20 Ring,STR +20 Ring
+PROPITEM_TXT_004169,STR +20 Ring,Anello FOR +20
 PROPITEM_TXT_004170,Strente +3,Strente +3
-PROPITEM_TXT_004171,STR +30 Ring,STR +30 Ring
+PROPITEM_TXT_004171,STR +30 Ring,Anello FOR +30
 PROPITEM_TXT_004172,Intiret +1,Intiret +1
-PROPITEM_TXT_004173,INT +10 Ring,INT +10 Ring
+PROPITEM_TXT_004173,INT +10 Ring,Anello INT +10
 PROPITEM_TXT_004174,Intiret +2,Intiret +2
-PROPITEM_TXT_004175,INT +20 Ring,INT +20 Ring
+PROPITEM_TXT_004175,INT +20 Ring,Anello INT +10
 PROPITEM_TXT_004176,Intiret +3,Intiret +3
-PROPITEM_TXT_004177,INT +30 Ring,INT +30 Ring
+PROPITEM_TXT_004177,INT +30 Ring,Anello INT +30
 PROPITEM_TXT_004178,Dexion +1,Dexion +1
-PROPITEM_TXT_004179,DEX +10 Ring,DEX +10 Ring
+PROPITEM_TXT_004179,DEX +10 Ring,Anello DES +10
 PROPITEM_TXT_004180,Dexion +2,Dexion +2
-PROPITEM_TXT_004181,DEX +20 Ring,DEX +20 Ring
+PROPITEM_TXT_004181,DEX +20 Ring,Anello DES +20
 PROPITEM_TXT_004182,Dexion +3,Dexion +3
-PROPITEM_TXT_004183,DEX +30 Ring,DEX +30 Ring
+PROPITEM_TXT_004183,DEX +30 Ring,Anello DES +30
 PROPITEM_TXT_004184,Meteor,Meteor
-PROPITEM_TXT_004185,All Stats +10 Ring,All Stats +10 Ring
+PROPITEM_TXT_004185,All Stats +10 Ring,Tutte Le Statistiche +10 Anello
 PROPITEM_TXT_004186,Meteofy,Meteofy
-PROPITEM_TXT_004187,All Stats +20 Ring,All Stats +20 Ring
-PROPITEM_TXT_004188,P.K STR Penalty,P.K STR Penalty
-PROPITEM_TXT_004190,P.K STA Penalty,P.K STA Penalty
-PROPITEM_TXT_004192,P.K INT Penalty,P.K INT Penalty
-PROPITEM_TXT_004194,P.K DEX Penalty,P.K DEX Penalty
-PROPITEM_TXT_004198,Lollipop,Lollipop
-PROPITEM_TXT_004199,Recovers 70 HP,Recovers 70 HP
-PROPITEM_TXT_004200,Biscuit,Biscuit
-PROPITEM_TXT_004201,Recovers 140 HP,Recovers 140 HP
-PROPITEM_TXT_004202,Chocolate Bar,Chocolate Bar
-PROPITEM_TXT_004203,Recovers 200 HP,Recovers 200 HP
-PROPITEM_TXT_004204,Milk,Milk
-PROPITEM_TXT_004205,Recovers 260 HP,Recovers 260 HP
-PROPITEM_TXT_004206,Roll Bread,Roll Bread
-PROPITEM_TXT_004207,Recovers 330 HP,Recovers 330 HP
+PROPITEM_TXT_004187,All Stats +20 Ring,Tutte Le Statistiche +20 Anello
+PROPITEM_TXT_004188,P.K STR Penalty,Penalità P.K FOR
+PROPITEM_TXT_004190,P.K STA Penalty,Penalità P.K CON
+PROPITEM_TXT_004192,P.K INT Penalty,Penalità P.K INT
+PROPITEM_TXT_004194,P.K DEX Penalty,Penalità P.K DES
+PROPITEM_TXT_004198,Lollipop,Lecca Lecca
+PROPITEM_TXT_004199,Recovers 70 HP,Recupera 70 HP
+PROPITEM_TXT_004200,Biscuit,Biscotto
+PROPITEM_TXT_004201,Recovers 140 HP,Recupera 140 HP
+PROPITEM_TXT_004202,Chocolate Bar,Barra Al Cioccolato
+PROPITEM_TXT_004203,Recovers 200 HP,Recupera 200 HP
+PROPITEM_TXT_004204,Milk,Latte
+PROPITEM_TXT_004205,Recovers 260 HP,Recupera 260 HP
+PROPITEM_TXT_004206,Roll Bread,Pane Da Rotolo
+PROPITEM_TXT_004207,Recovers 330 HP,Recupera 330 HP
 PROPITEM_TXT_004208,Hot Dog,Hot Dog
-PROPITEM_TXT_004209,Recovers 429 HP,Recovers 429 HP
+PROPITEM_TXT_004209,Recovers 429 HP,Recupera 429 HP
 PROPITEM_TXT_004210,Super Hot Dog,Super Hot Dog
-PROPITEM_TXT_004211,Recovers ALL HP,Recovers ALL HP
+PROPITEM_TXT_004211,Recovers ALL HP,Recupera TUTTI Gli Hp
 PROPITEM_TXT_004212,Pizza,Pizza
-PROPITEM_TXT_004213,Recovers 584 HP,Recovers 584 HP
+PROPITEM_TXT_004213,Recovers 584 HP,Recupera 584 HP
 PROPITEM_TXT_004214,Kimbap,Kimbap
-PROPITEM_TXT_004215,Recovers 724 HP,Recovers 724 HP
-PROPITEM_TXT_004216,Chicken Stick,Chicken Stick
-PROPITEM_TXT_004217,Recover 970 HP,Recover 970 HP
-PROPITEM_TXT_004218,Star Candy,Star Candy
-PROPITEM_TXT_004219,Recover 1200 HP,Recover 1200 HP
-PROPITEM_TXT_004220,Meat Skewer,Meat Skewer
-PROPITEM_TXT_004221,Recovers 120 HP,Recovers 120 HP
+PROPITEM_TXT_004215,Recovers 724 HP,Recupera 724 HP
+PROPITEM_TXT_004216,Chicken Stick,Bastone Di Pollo
+PROPITEM_TXT_004217,Recover 970 HP,Recupera 970 HP
+PROPITEM_TXT_004218,Star Candy,Caramella Stella
+PROPITEM_TXT_004219,Recover 1200 HP,Recupera 1200 HP
+PROPITEM_TXT_004220,Meat Skewer,Skewer Di Carne
+PROPITEM_TXT_004221,Recovers 120 HP,Recupera 120 HP
 PROPITEM_TXT_004222,Barbecue,Barbecue
-PROPITEM_TXT_004223,Recovers 160 HP,Recovers 160 HP
-PROPITEM_TXT_004224,Seafood Pancake,Seafood Pancake
-PROPITEM_TXT_004225,Recovers 230 HP,Recovers 230 HP
-PROPITEM_TXT_004226,Fish Soup,Fish Soup
-PROPITEM_TXT_004227,Recovers 300 HP,Recovers 300 HP
-PROPITEM_TXT_004228,Sausage Casserole,Sausage Casserole
-PROPITEM_TXT_004229,Recovers 370 HP,Recovers 370 HP
-PROPITEM_TXT_004230,Fish Stew,Fish Stew
-PROPITEM_TXT_004231,Recovers 514 HP,Recovers 514 HP
-PROPITEM_TXT_004232,Steamed Seafood,Steamed Seafood
-PROPITEM_TXT_004233,Recovers 670 HP,Recovers 670 HP
-PROPITEM_TXT_004234,Meat Salad,Meat Salad
-PROPITEM_TXT_004235,Recovers 1300 HP,Recovers 1300 HP
+PROPITEM_TXT_004223,Recovers 160 HP,Recupera 160 HP
+PROPITEM_TXT_004224,Seafood Pancake,Torta Fagiolo Di Frutti
+PROPITEM_TXT_004225,Recovers 230 HP,Recupera 230 HP
+PROPITEM_TXT_004226,Fish Soup,Zuppa Di Pesce
+PROPITEM_TXT_004227,Recovers 300 HP,Recupera 300 HP
+PROPITEM_TXT_004228,Sausage Casserole,Casseruola Di Salsiccia
+PROPITEM_TXT_004229,Recovers 370 HP,Recupera 370 HP
+PROPITEM_TXT_004230,Fish Stew,Stufato Di Pesce
+PROPITEM_TXT_004231,Recovers 514 HP,Recupera 514 HP
+PROPITEM_TXT_004232,Steamed Seafood,Frutti A Vapore
+PROPITEM_TXT_004233,Recovers 670 HP,Recupera 670 HP
+PROPITEM_TXT_004234,Meat Salad,Insalata Di Carne
+PROPITEM_TXT_004235,Recovers 1300 HP,Recupera 1300 HP
 PROPITEM_TXT_004236,Gratin,Gratin
-PROPITEM_TXT_004237,Recovers 1750 HP,Recovers 1750 HP
-PROPITEM_TXT_004238,Seafood Pizza,Seafood Pizza
-PROPITEM_TXT_004239,Recovers 1450 HP,Recovers 1450 HP
-PROPITEM_TXT_004240,Orange Juice,Orange Juice
-PROPITEM_TXT_004241,Recovers 60 HP,Recovers 60 HP
-PROPITEM_TXT_004242,Strawberry Shake,Strawberry Shake
-PROPITEM_TXT_004243,Recovers 110 HP,Recovers 110 HP
-PROPITEM_TXT_004244,Pineapple Cone,Pineapple Cone
-PROPITEM_TXT_004246,Banana Juju Bar,Banana Juju Bar
-PROPITEM_TXT_004247,Recovers 210 HP,Recovers 210 HP
-PROPITEM_TXT_004248,Fruit Juice,Fruit Juice
-PROPITEM_TXT_004250,Fruit Ice Water,Fruit Ice Water
-PROPITEM_TXT_004251,Recovers 334 HP,Recovers 334 HP
+PROPITEM_TXT_004237,Recovers 1750 HP,Recupera 1750 HP
+PROPITEM_TXT_004238,Seafood Pizza,Pizza Di Frutti Di Mare
+PROPITEM_TXT_004239,Recovers 1450 HP,Recupera 1450 HP
+PROPITEM_TXT_004240,Orange Juice,Succo D'Arancia
+PROPITEM_TXT_004241,Recovers 60 HP,Recupera 60 HP
+PROPITEM_TXT_004242,Strawberry Shake,Fruttalo Di Fragola
+PROPITEM_TXT_004243,Recovers 110 HP,Recupera 110 HP
+PROPITEM_TXT_004244,Pineapple Cone,Cono Di Ananas
+PROPITEM_TXT_004246,Banana Juju Bar,Banana Jujubar
+PROPITEM_TXT_004247,Recovers 210 HP,Recupera 210 HP
+PROPITEM_TXT_004248,Fruit Juice,Succo Di Frutta
+PROPITEM_TXT_004250,Fruit Ice Water,Ghiacqua Di Frutta
+PROPITEM_TXT_004251,Recovers 334 HP,Recupera 334 HP
 PROPITEM_TXT_004252,Fruit Parfait,Fruit Parfait
-PROPITEM_TXT_004253,Recovers 452 HP,Recovers 452 HP
-PROPITEM_TXT_004254,Fruit Sherbet,Fruit Sherbet
-PROPITEM_TXT_004256,Ice Cream Cake,Ice Cream Cake
-PROPITEM_TXT_004257,Recovers 1170 HP,Recovers 1170 HP
-PROPITEM_TXT_004258,Fruit Punch,Fruit Punch
-PROPITEM_TXT_004259,Recovers 1500 HP,Recovers 1500 HP
-PROPITEM_TXT_004260,Gray Pill,Gray Pill
-PROPITEM_TXT_004261,Recovers 1200 HP,Recovers 1200 HP
-PROPITEM_TXT_004262,Yellow Pill,Yellow Pill
-PROPITEM_TXT_004263,Recover 2000 HP,Recover 2000 HP
-PROPITEM_TXT_004264,Blue Pill,Blue Pill
-PROPITEM_TXT_004265,Recovers 4000 HP,Recovers 4000 HP
-PROPITEM_TXT_004266,Red Pill,Red Pill
-PROPITEM_TXT_004267,Recovers 8000 HP,Recovers 8000 HP
-PROPITEM_TXT_004268,Gold Pill,Gold Pill
-PROPITEM_TXT_004269,Recovers 15000 HP,Recovers 15000 HP
-PROPITEM_TXT_004270,Hot Ddukguk,Hot Ddukguk
-PROPITEM_TXT_004271,Recovers 9999 HP,Recovers 9999 HP
-PROPITEM_TXT_004272,Fresh Ddukguk,Fresh Ddukguk
-PROPITEM_TXT_004273,Recovers 9999 FP,Recovers 9999 FP
-PROPITEM_TXT_004274,Sweet Ddukguk,Sweet Ddukguk
-PROPITEM_TXT_004275,Recovers 9999 MP,Recovers 9999 MP
-PROPITEM_TXT_004276,Mineral,Mineral
-PROPITEM_TXT_004278,Erons,Erons
+PROPITEM_TXT_004253,Recovers 452 HP,Recupera 452 HP
+PROPITEM_TXT_004254,Fruit Sherbet,Frutta Sherbet
+PROPITEM_TXT_004256,Ice Cream Cake,Torta Gelato
+PROPITEM_TXT_004257,Recovers 1170 HP,Recupera 1170 HP
+PROPITEM_TXT_004258,Fruit Punch,Punch Di Frutta
+PROPITEM_TXT_004259,Recovers 1500 HP,Recupera 1500 HP
+PROPITEM_TXT_004260,Gray Pill,Pillola Grigia
+PROPITEM_TXT_004261,Recovers 1200 HP,Recupera 1200 HP
+PROPITEM_TXT_004262,Yellow Pill,Pillola Gialla
+PROPITEM_TXT_004263,Recover 2000 HP,Recupera 2000 HP
+PROPITEM_TXT_004264,Blue Pill,Pillola Blu
+PROPITEM_TXT_004265,Recovers 4000 HP,Recupera 4000 HP
+PROPITEM_TXT_004266,Red Pill,Pillola Rossa
+PROPITEM_TXT_004267,Recovers 8000 HP,Recupera 8000 HP
+PROPITEM_TXT_004268,Gold Pill,Pillola Dorata
+PROPITEM_TXT_004269,Recovers 15000 HP,Recupera 15000 HP
+PROPITEM_TXT_004270,Hot Ddukguk,Ddukguk Caldo
+PROPITEM_TXT_004271,Recovers 9999 HP,Recupera 9999 HP
+PROPITEM_TXT_004272,Fresh Ddukguk,Ddukguk Fresco
+PROPITEM_TXT_004273,Recovers 9999 FP,Recupera 9999 FP
+PROPITEM_TXT_004274,Sweet Ddukguk,Ddukguk Dolce
+PROPITEM_TXT_004275,Recovers 9999 MP,Recupera 9999 MP
+PROPITEM_TXT_004276,Mineral,Minerale
+PROPITEM_TXT_004278,Erons,Eroni
 PROPITEM_TXT_004280,Krasec,Krasec
 PROPITEM_TXT_004282,Guru,Guru
-PROPITEM_TXT_004284,Torch Card,Torch Card
-PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Fire Upgrade: +1 to +5
-PROPITEM_TXT_004286,Flame Card,Flame Card
-PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Fire Element Upgrade: +6 to +10
-PROPITEM_TXT_004288,Lake Card,Lake Card
-PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Water Upgrade: +1 to +5
-PROPITEM_TXT_004290,River Card,River Card
-PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Water Element Upgrade: +6 to +10
-PROPITEM_TXT_004292,Voltage Card,Voltage Card
-PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Electric Upgrade: +1 to +5
-PROPITEM_TXT_004294,Generator Card,Generator Card
-PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Electric Element Upgrade: +6 to +10
-PROPITEM_TXT_004296,Stone Card,Stone Card
-PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Earth Upgrade: +1 to +5
-PROPITEM_TXT_004298,Desert Card,Desert Card
-PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Earth Element Upgrade: +6 to +10
-PROPITEM_TXT_004300,Gale Card,Gale Card
-PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Wind Upgrade: +1 to +5
-PROPITEM_TXT_004302,Cyclone Card,Cyclone Card
-PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Wind Element Upgrade: +6 to +10
-PROPITEM_TXT_004304,Power Dice 4,Power Dice 4
-PROPITEM_TXT_004305,General Upgrade: +1 to +5,General Upgrade: +1 to +5
-PROPITEM_TXT_004306,Power Dice 6,Power Dice 6
-PROPITEM_TXT_004307,General Upgrade: +6 to +10,General Upgrade: +6 to +10
-PROPITEM_TXT_004308,Power Dice 8,Power Dice 8
-PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),Used for Piercing and Accessory Upgrade (Medium Success Rate)
-PROPITEM_TXT_004310,Power Dice 10,Power Dice 10
-PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Used for Piercing and Accessory Upgrade (High Success Rate)
-PROPITEM_TXT_004312,Power Dice 12,Power Dice 12
-PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),General Upgrade: +1 to +10 (High Success Rate)
-PROPITEM_TXT_004314,Volcano Card (2%),Volcano Card (2%)
-PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (When placed in a pierced suit)
-PROPITEM_TXT_004316,Volcano Card (4%),Volcano Card (4%)
-PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (When placed in a pierced suit)
-PROPITEM_TXT_004318,Volcano Card (7%),Volcano Card (7%)
-PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (When placed in pierced suit)
-PROPITEM_TXT_004320,Ocean Card (2%),Ocean Card (2%)
-PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (When placed in a pierced suit)
-PROPITEM_TXT_004322,Ocean Card (4%),Ocean Card (4%)
-PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (When placed in a pierced suit)
-PROPITEM_TXT_004324,Ocean Card (7%),Ocean Card (7%)
-PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (When placed in a pierced suit)
-PROPITEM_TXT_004326,Vacuum Card (2%),Vacuum Card (2%)
-PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (When placed in a pierced suit)
-PROPITEM_TXT_004328,Vacuum Card (4%),Vacuum Card (4%)
-PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (When placed in a pierced suit)
-PROPITEM_TXT_004330,Vacuum Card (7%),Vacuum Card (7%)
-PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (When placed in a pierced suit)
-PROPITEM_TXT_004332,Lightning Card (2%),Lightning Card (2%)
-PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004334,Lightning Card (4%),Lightning Card (4%)
-PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004336,Lightning Card (7%),Lightning Card (7%)
-PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004338,Earthquake Card (2%),Earthquake Card (2%)
-PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004340,Earthquake Card (4%),Earthquake Card (4%)
-PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004342,Earthquake Card (7%),Earthquake Card (7%)
-PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Defense (When placed in a pierced suit)
+PROPITEM_TXT_004284,Torch Card,Scheda Torcia
+PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Potenziamento Fuoco: da +1 a +5
+PROPITEM_TXT_004286,Flame Card,Scheda Fiamma
+PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Potenziamento Elemento Fuoco: da +6 a +10
+PROPITEM_TXT_004288,Lake Card,Scheda Lago
+PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Potenziamento Acqua: da +1 a +5
+PROPITEM_TXT_004290,River Card,Scheda Fiume
+PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Potenziamento Elemento Acqua: da +6 a +10
+PROPITEM_TXT_004292,Voltage Card,Scheda Volt
+PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Potenziamento Elettrico: da +1 a +5
+PROPITEM_TXT_004294,Generator Card,Scheda Generatore
+PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Potenziamento Elemento Elettrico: da +6 a +10
+PROPITEM_TXT_004296,Stone Card,Scheda Di Pietra
+PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Potenziamento Terra: da +1 a +5
+PROPITEM_TXT_004298,Desert Card,Scheda Del Deserto
+PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Potenziamento Elemento Terra: da +6 a +10
+PROPITEM_TXT_004300,Gale Card,Scheda Tempesta
+PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Potenziamento Vento: da +1 a +5
+PROPITEM_TXT_004302,Cyclone Card,Scheda Ciclone
+PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Potenziamento Elemento Venti: da +6 a +10
+PROPITEM_TXT_004304,Power Dice 4,Dado Di Potenza 4
+PROPITEM_TXT_004305,General Upgrade: +1 to +5,Potenziamento Generale: da +1 a +5
+PROPITEM_TXT_004306,Power Dice 6,Dado Di Potenza 6
+PROPITEM_TXT_004307,General Upgrade: +6 to +10,Potenziamento Generale: da +6 a +10
+PROPITEM_TXT_004308,Power Dice 8,Dado Di Potenza 8
+PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),Utilizzato per Perciare e il Potenziamento di Accessori (Tasso di Successo Medio)
+PROPITEM_TXT_004310,Power Dice 10,Dado Di Potenza 10
+PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Utilizzato per Perciare e il Potenziamento di Accessori (Tasso di Successo Alto)
+PROPITEM_TXT_004312,Power Dice 12,Dado Di Potenza 12
+PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),Potenziamento Generale: da +1 a +10 (Tasso di Successo Alto)
+PROPITEM_TXT_004314,Volcano Card (2%),Scheda Vulcano (2%)
+PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004316,Volcano Card (4%),Scheda Vulcano (4%)
+PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004318,Volcano Card (7%),Scheda Vulcano (7%)
+PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (Quando posizionato in corazza perciato)
+PROPITEM_TXT_004320,Ocean Card (2%),Scheda Oceanica (2%)
+PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004322,Ocean Card (4%),Scheda Oceanica (4%)
+PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004324,Ocean Card (7%),Scheda Oceanica (7%)
+PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004326,Vacuum Card (2%),Scheda Vuoto (2%)
+PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004328,Vacuum Card (4%),Scheda Vuoto (4%)
+PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004330,Vacuum Card (7%),Scheda Vuoto (7%)
+PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004332,Lightning Card (2%),Scheda Fulmine (2%)
+PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attacco (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004334,Lightning Card (4%),Scheda Fulmine (4%)
+PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attacco (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004336,Lightning Card (7%),Scheda Fulmine (7%)
+PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attacco (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004338,Earthquake Card (2%),Scheda Terremoto (2%)
+PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Difesa (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004340,Earthquake Card (4%),Scheda Terremoto (4%)
+PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Difesa (Quando posizionato in un corazza perciato)
+PROPITEM_TXT_004342,Earthquake Card (7%),Scheda Terremoto (7%)
+PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Difesa (Quando posizionato in un corazza perciato)
 PROPITEM_TXT_004348,Vuul Card,Vuul Card
 PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (When placed in a pierced suit)
 PROPITEM_TXT_004350,Vulcanus Card,Vulcanus Card
@@ -2434,42 +2434,42 @@ PROPITEM_TXT_004446,Bodi Card,Bodi Card
 PROPITEM_TXT_004447,All Stats +1 (When placed in a pierced suit),All Stats +1 (When placed in a pierced suit)
 PROPITEM_TXT_004448,Gldiro Card,Gldiro Card
 PROPITEM_TXT_004449,All Stats +2 (When placed in a pierced suit),All Stats +2 (When placed in a pierced suit)
-PROPITEM_TXT_004450,Skill Poster,Skill Poster
-PROPITEM_TXT_004451,Needed to use Billposter skills,Needed to use Billposter skills
-PROPITEM_TXT_004452,Bless Poster,Bless Poster
-PROPITEM_TXT_004453,Needed to use Ringmaster skills,Needed to use Ringmaster skills
+PROPITEM_TXT_004450,Skill Poster,Poster Abilità
+PROPITEM_TXT_004451,Needed to use Billposter skills,Necessario usare le abilità di Billposter
+PROPITEM_TXT_004452,Bless Poster,Poster Benedizione
+PROPITEM_TXT_004453,Needed to use Ringmaster skills,Necessario usare le abilità di Ringmaster
 PROPITEM_TXT_004454,Arrows,Frecce
-PROPITEM_TXT_004455,A quiver of arrows,A quiver of arrows
-PROPITEM_TXT_004456,Collector,Collector
-PROPITEM_TXT_004457,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials.","This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials."
-PROPITEM_TXT_004458,V3 Collector,V3 Collector
-PROPITEM_TXT_004460,Power Collector,Power Collector
-PROPITEM_TXT_004462,Ultra Collector,Ultra Collector
-PROPITEM_TXT_200000,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a moderate amount of materials.","This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a moderate amount of materials."
-PROPITEM_TXT_200001,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a high amount of materials.","This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a high amount of materials."
-PROPITEM_TXT_200002,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a very high amount of materials.","This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a very high amount of materials."
-PROPITEM_TXT_004464,Return,Return
-PROPITEM_TXT_004465,Teleport to the nearest town. (Takes 5 min. to cast),Teleport to the nearest town. (Takes 5 min. to cast)
+PROPITEM_TXT_004455,A quiver of arrows,Una faretra di frecce
+PROPITEM_TXT_004456,Collector,Collezionista
+PROPITEM_TXT_004457,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials.","Questo oggetto ti permette di raccogliere Minerali, Eroni, Krasec e Guru dai Catcher. Raccoglie una bassa quantità di materiali."
+PROPITEM_TXT_004458,V3 Collector,Collezionista V3
+PROPITEM_TXT_004460,Power Collector,Collettore di Potenza
+PROPITEM_TXT_004462,Ultra Collector,Collezionista Ultra
+PROPITEM_TXT_200000,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a moderate amount of materials.","Questo oggetto ti permette di raccogliere Minerali, Eroni, Krasec e Guru dai Catcher. Raccoglie una quantità moderata di materiali."
+PROPITEM_TXT_200001,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a high amount of materials.","Questo oggetto ti permette di raccogliere Minerali, Eroni, Krasec e Guru dai Catcher. Raccoglie una grande quantità di materiali."
+PROPITEM_TXT_200002,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a very high amount of materials.","Questo oggetto ti permette di raccogliere Minerali, Eroni, Krasec e Guru dai Catcher. Raccoglie una quantità molto elevata di materiali."
+PROPITEM_TXT_004464,Return,Ritorna
+PROPITEM_TXT_004465,Teleport to the nearest town. (Takes 5 min. to cast),Teletrasportati alla città più vicina. (Rechiede 5 minuti per lanciare)
 PROPITEM_TXT_004466,Remantis Laccotte,Remantis Laccotte
 PROPITEM_TXT_004467,"A favorite of fine food connoisseurs throughout Madrigal, this delectable dish completely restores your Health Points (HP). Delicious!!","A favorite of fine food connoisseurs throughout Madrigal, this delectable dish completely restores your Health Points (HP). Delicious!!"
-PROPITEM_TXT_004468,Refresher Hold,Refresher Hold
-PROPITEM_TXT_004469,A curious blue potion that grants the imbiber unlimited MP for a limited time. Last 1 hour.,A curious blue potion that grants the imbiber unlimited MP for a limited time. Last 1 hour.
-PROPITEM_TXT_004470,Vital Drink X,Vital Drink X
-PROPITEM_TXT_004471,A very strong energy drink that completely refills the imbiber's FP while granting unlimited FP for a limited time. Lasts 1 hour.,A very strong energy drink that completely refills the imbiber's FP while granting unlimited FP for a limited time. Lasts 1 hour.
-PROPITEM_TXT_004472,Bull Hamstern,Bull Hamstern
-PROPITEM_TXT_004473,Provides +500 HP for 15 minutes.,Provides +500 HP for 15 minutes.
-PROPITEM_TXT_004474,Grilled Eel,Grilled Eel
-PROPITEM_TXT_004475,Provides +50% HP for 30 minutes.,Provides +50% HP for 30 minutes.
+PROPITEM_TXT_004468,Refresher Hold,Rinfresco Grande
+PROPITEM_TXT_004469,A curious blue potion that grants the imbiber unlimited MP for a limited time. Last 1 hour.,Una curiosa pozione blu che concede all'imbiber un MP illimitato per un tempo limitato.
+PROPITEM_TXT_004470,Vital Drink X,Bevanda Vitale X
+PROPITEM_TXT_004471,A very strong energy drink that completely refills the imbiber's FP while granting unlimited FP for a limited time. Lasts 1 hour.,Una bevanda energetica molto forte che ricarica completamente il FP dell'imbiber mentre concede FP illimitato per un periodo di tempo limitato.
+PROPITEM_TXT_004472,Bull Hamstern,Hamstern Toro
+PROPITEM_TXT_004473,Provides +500 HP for 15 minutes.,Fornisce +500 HP per 15 minuti.
+PROPITEM_TXT_004474,Grilled Eel,Anguilla Alla Griglia
+PROPITEM_TXT_004475,Provides +50% HP for 30 minutes.,Fornisce +50% HP per 30 minuti.
 PROPITEM_TXT_004476,Re-Stat,Re-Stat
-PROPITEM_TXT_004477,Resets your stats. Only applies to your current stat page.,Resets your stats. Only applies to your current stat page.
+PROPITEM_TXT_004477,Resets your stats. Only applies to your current stat page.,Reimposta le tue statistiche. Si applica solo alla tua pagina statistica corrente.
 PROPITEM_TXT_004478,Full Shout 15,Full Shout 15
 PROPITEM_TXT_004479,Expands your shout range to the entire channel. Lasts for 15 days after activation. (Required level: 20),Expands your shout range to the entire channel. Lasts for 15 days after activation. (Required level: 20)
 PROPITEM_TXT_004480,Full Shout 30,Full Shout 30
 PROPITEM_TXT_004481,Expands your shout range to the entire channel. Lasts for 30 days after activation. (Required level: 20),Expands your shout range to the entire channel. Lasts for 30 days after activation. (Required level: 20)
-PROPITEM_TXT_004482,Enhanced Party Skill Range 15,Enhanced Party Skill Range 15
-PROPITEM_TXT_004483,"Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 15 days.","Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 15 days."
-PROPITEM_TXT_004484,Enhanced Party Skill Range 30,Enhanced Party Skill Range 30
-PROPITEM_TXT_004485,"Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 30 days.","Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 30 days."
+PROPITEM_TXT_004482,Enhanced Party Skill Range 15,Pergamena Di Abilità Del Partito Migliorata 15
+PROPITEM_TXT_004483,"Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 15 days.","Conosciuto come il ""Red Scroll"" in alcuni cerchi, questo potente elemento del partito migliora le abilità del partito, negando i loro limiti di distanza. Dura 15 giorni."
+PROPITEM_TXT_004484,Enhanced Party Skill Range 30,Pergamena Di Abilità Del Partito Migliorata 30
+PROPITEM_TXT_004485,"Known as the ""Red Scroll"" in some circles, this powerful party item enhances Party Skills, negating their distance limitations. Lasts 30 days.","Conosciuto come il ""Red Scroll"" in alcuni cerchi, questo potente elemento del partito migliora le abilità del partito, negando i loro limiti di distanza. Dura 30 giorni."
 PROPITEM_TXT_004486,Common Bank 15,Banca Comune 15
 PROPITEM_TXT_004487,Access items in all your characters' banks,Accedi agli oggetti in tutte le banche dei tuoi personaggi
 PROPITEM_TXT_004488,Common Bank 30,Banca Comune 30
@@ -2481,22 +2481,22 @@ PROPITEM_TXT_004496,Rocket Cracker,Cracker Di Razzi
 PROPITEM_TXT_004497,"This Rocket blasts off to the sky and leaves a trail of high flying, sparkly explosions in its wake.","Questo razzo esplode verso il cielo e lascia una scia di alte esplosioni volanti, scintillanti nella sua veglia."
 PROPITEM_TXT_004498,Heart Cracker,Cracker Cuore
 PROPITEM_TXT_004499,Makes a giant heart with I LOVE YOU written on it appear,Rende un cuore gigante con TI AMO scritto su di esso appaiono
-PROPITEM_TXT_004500,Wings of an Angel,Wings of an Angel
-PROPITEM_TXT_004501,Gives a character golden wings for a limited time,Gives a character golden wings for a limited time
-PROPITEM_TXT_004502,Twister Cracker,Twister Cracker
-PROPITEM_TXT_004503,"Creates a twisting, shining tornado","Creates a twisting, shining tornado"
-PROPITEM_TXT_004504,Upcut Stone,Upcut Stone
-PROPITEM_TXT_004505,"A Magic Stone that increases your Attack Power (ATK) by 20%. Lasts 1 Hour. If you listen closely, you can hear it humming slightly.","A Magic Stone that increases your Attack Power (ATK) by 20%. Lasts 1 Hour. If you listen closely, you can hear it humming slightly."
-PROPITEM_TXT_004514,Cloak of Strong,Cloak of Strong
-PROPITEM_TXT_004515,STR Cloak,STR Cloak
-PROPITEM_TXT_004516,Cloak of Accord,Cloak of Accord
-PROPITEM_TXT_004517,STA and INT Cloak,STA and INT Cloak
-PROPITEM_TXT_004518,Cloak of Quick,Cloak of Quick
-PROPITEM_TXT_004519,DEX and STR Cloak,DEX and STR Cloak
-PROPITEM_TXT_004520,Cloak of Wisdom,Cloak of Wisdom
-PROPITEM_TXT_004521,INT Cloak,INT Cloak
-PROPITEM_TXT_004530,Tineined Stone,Tineined Stone
-PROPITEM_TXT_004531,Magic Stone for removing Attributes,Magic Stone for removing Attributes
+PROPITEM_TXT_004500,Wings of an Angel,Ali di un Angelo
+PROPITEM_TXT_004501,Gives a character golden wings for a limited time,Dà un carattere ali d'oro per un tempo limitato
+PROPITEM_TXT_004502,Twister Cracker,Cracker Tornado
+PROPITEM_TXT_004503,"Creates a twisting, shining tornado",Crea un tornado tortuoso e splendente
+PROPITEM_TXT_004504,Upcut Stone,Pietra Upcut
+PROPITEM_TXT_004505,"A Magic Stone that increases your Attack Power (ATK) by 20%. Lasts 1 Hour. If you listen closely, you can hear it humming slightly.","Una Pietra Magica che aumenta il tuo Potere d'Attacco (ATK) del 20%. Dura 1 Ore. Se ascolti attentamente, puoi sentirla umiliare leggermente."
+PROPITEM_TXT_004514,Cloak of Strong,Mantello di Forte
+PROPITEM_TXT_004515,STR Cloak,Mantello FOR
+PROPITEM_TXT_004516,Cloak of Accord,Mantello d'Accordo
+PROPITEM_TXT_004517,STA and INT Cloak,Mantello FOR e INT
+PROPITEM_TXT_004518,Cloak of Quick,Mantello di Rapido
+PROPITEM_TXT_004519,DEX and STR Cloak,Mantello DES e FOR
+PROPITEM_TXT_004520,Cloak of Wisdom,Mantello della Sapienza
+PROPITEM_TXT_004521,INT Cloak,Mantello INT
+PROPITEM_TXT_004530,Tineined Stone,Pietra Tineinata
+PROPITEM_TXT_004531,Magic Stone for removing Attributes,Pietra Magica per rimuovere gli Attributi
 PROPITEM_TXT_004532,Firea Stone,Pietra Di Fuoco
 PROPITEM_TXT_004533,Magic Stone that adds 20% Fire Attack to your Weapon. The Weapon must have Fire Element.,Pietra Magica che aggiunge il 20% di Attacco al Fuoco alla tua Arma. L'Arma deve avere Elemento di Fuoco.
 PROPITEM_TXT_004534,Wateil Stone,Pietra Wateil
@@ -2517,107 +2517,107 @@ PROPITEM_TXT_004548,Def-Lightine Stone,Def-Lightine Pietra
 PROPITEM_TXT_004549,Magic Stone that adds 20% Water Defense to your Suit. The Suit must have Electric Element.,Pietra magica che aggiunge il 20% di Difesa Acqua al tuo Abito. L'Abito deve avere Elemento Elettrico.
 PROPITEM_TXT_004550,Def-Earthy Stone,Def-Terra Pietra
 PROPITEM_TXT_004551,Magic Stone that adds 20% Electricity Defense to your Suit. The Suit must have Earth Element.,Pietra magica che aggiunge il 20% di Difesa Elettrica al tuo Abito. L'Abito deve avere Elemento Terra.
-PROPITEM_TXT_004552,Blue Sailor Hat (M),Blue Sailor Hat (M)
-PROPITEM_TXT_004554,Blue Sailor Suit (M),Blue Sailor Suit (M)
-PROPITEM_TXT_004556,Blue Sailor Shoes (M),Blue Sailor Shoes (M)
-PROPITEM_TXT_004558,Loker Sailor Hat (M),Loker Sailor Hat (M)
-PROPITEM_TXT_004560,Loker Sailor Suit (M),Loker Sailor Suit (M)
-PROPITEM_TXT_004562,Loker Sailor Shoes (M),Loker Sailor Shoes (M)
-PROPITEM_TXT_004564,Green Sailor Hat (M),Green Sailor Hat (M)
-PROPITEM_TXT_004566,Green Sailor Suit (M),Green Sailor Suit (M)
-PROPITEM_TXT_004568,Green Sailor Shoes (M),Green Sailor Shoes (M)
-PROPITEM_TXT_004570,Forkim Sailor Hat (M),Forkim Sailor Hat (M)
-PROPITEM_TXT_004572,Forkim Sailor Suit (M),Forkim Sailor Suit (M)
-PROPITEM_TXT_004574,Forkim Sailor Shoes (M),Forkim Sailor Shoes (M)
-PROPITEM_TXT_004576,Morning Sailor Suit (F),Morning Sailor Suit (F)
-PROPITEM_TXT_004578,Morning Sailor Shoes (F),Morning Sailor Shoes (F)
-PROPITEM_TXT_004580,Lin Sailor Suit (F),Lin Sailor Suit (F)
-PROPITEM_TXT_004582,Lin Sailor Shoes (F),Lin Sailor Shoes (F)
-PROPITEM_TXT_004584,Nine Sailor Suit (F),Nine Sailor Suit (F)
-PROPITEM_TXT_004586,Nine Sailor Shoes (F),Nine Sailor Shoes (F)
-PROPITEM_TXT_004588,Kertty Sailor Suit (F),Kertty Sailor Suit (F)
-PROPITEM_TXT_004590,Kertty Sailor Shoes (F),Kertty Sailor Shoes (F)
-PROPITEM_TXT_004592,Formal School Hat (M),Formal School Hat (M)
-PROPITEM_TXT_004594,Formal School Suit (M),Formal School Suit (M)
-PROPITEM_TXT_004596,Formal School Gloves (M),Formal School Gloves (M)
-PROPITEM_TXT_004598,Formal School Shoes (M),Formal School Shoes (M)
-PROPITEM_TXT_004600,Dark Nurse Hat (F),Dark Nurse Hat (F)
-PROPITEM_TXT_004602,Dark Nurse Suit (F),Dark Nurse Suit (F)
-PROPITEM_TXT_004604,Dark Nurse Gloves (F),Dark Nurse Gloves (F)
-PROPITEM_TXT_004606,Dark Nurse Shoes (F),Dark Nurse Shoes (F)
-PROPITEM_TXT_004608,Bright Nurse Hat (F),Bright Nurse Hat (F)
-PROPITEM_TXT_004610,Bright Nurse Suit (F),Bright Nurse Suit (F)
-PROPITEM_TXT_004612,Bright Nurse Gloves (F),Bright Nurse Gloves (F)
-PROPITEM_TXT_004614,Bright Nurse Shoes (F),Bright Nurse Shoes (F)
-PROPITEM_TXT_004616,Catseon Hat (M),Catseon Hat (M)
-PROPITEM_TXT_004618,Catseon Suit (M),Catseon Suit (M)
-PROPITEM_TXT_004620,Catseon Gloves (M),Catseon Gloves (M)
-PROPITEM_TXT_004622,Catseon Shoes (M),Catseon Shoes (M)
-PROPITEM_TXT_004624,Catsin Hat (F),Catsin Hat (F)
-PROPITEM_TXT_004626,Catsin Suit (F),Catsin Suit (F)
-PROPITEM_TXT_004628,Catsin Gloves (F),Catsin Gloves (F)
-PROPITEM_TXT_004630,Catsin Shoes (F),Catsin Shoes (F)
-PROPITEM_TXT_004632,BunBun Hat (F),BunBun Hat (F)
-PROPITEM_TXT_004634,BunBun Suit (F),BunBun Suit (F)
-PROPITEM_TXT_004636,BunBun Gloves (F),BunBun Gloves (F)
-PROPITEM_TXT_004638,BunBun Shoes (F),BunBun Shoes (F)
-PROPITEM_TXT_004640,Baji Suit (M),Baji Suit (M)
-PROPITEM_TXT_004642,Baji Shoes (M),Baji Shoes (M)
-PROPITEM_TXT_004644,Sakdong Hat (F),Sakdong Hat (F)
-PROPITEM_TXT_004646,Sakdong Suit (F),Sakdong Suit (F)
-PROPITEM_TXT_004648,Sakdong Shoes (F),Sakdong Shoes (F)
-PROPITEM_TXT_004650,Scroll of Name Change,Scroll of Name Change
-PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.","This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK."
-PROPITEM_TXT_004652,Scroll of Class Change,Scroll of Class Change
-PROPITEM_TXT_004653,Changes Job,Changes Job
-PROPITEM_TXT_004654,Scroll of Holy,Scroll of Holy
-PROPITEM_TXT_004655,Recovers from any negative status condition.,Recovers from any negative status condition.
-PROPITEM_TXT_004656,Scroll of Forgive,Scroll of Forgive
-PROPITEM_TXT_004657,Reduces PK Value,Reduces PK Value
-PROPITEM_TXT_004658,Scroll of Selected Party,Scroll of Selected Party
-PROPITEM_TXT_004659,Upgrade Party Level to 10,Upgrade Party Level to 10
-PROPITEM_TXT_004660,Box of Change,Box of Change
-PROPITEM_TXT_004661,Contains a Scroll of Name Change and Transy,Contains a Scroll of Name Change and Transy
-PROPITEM_TXT_004662,Scroll of Blessing,Scroll of Blessing
-PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)
-PROPITEM_TXT_004664,Scroll of Resurrection,Scroll of Resurrection
-PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)","Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)"
-PROPITEM_TXT_004666,Scroll of Velocity,Scroll of Velocity
-PROPITEM_TXT_004667,Increases Moving Speed by 30% and Jump Height,Increases Moving Speed by 30% and Jump Height
-PROPITEM_TXT_004668,Box of Lucky,Box of Lucky
-PROPITEM_TXT_004669,What on earth is in this box?,What on earth is in this box?
-PROPITEM_TXT_004670,Re-Skill,Re-Skill
-PROPITEM_TXT_004671,Allows you to redistribute your skill points once. Does not work for Vagrants.,Allows you to redistribute your skill points once. Does not work for Vagrants.
-PROPITEM_TXT_004672,Box of Vital,Box of Vital
-PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Contains Vital Drink X and Activation
-PROPITEM_TXT_004674,Box of Mana,Box of Mana
-PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Contains Refresher Hold and Activation
-PROPITEM_TXT_004676,Soup Box of Vital,Soup Box of Vital
-PROPITEM_TXT_004677,Contains Hot Ddukguk and Fresh Ddukguk,Contains Hot Ddukguk and Fresh Ddukguk
-PROPITEM_TXT_004678,Soup Box of Change,Soup Box of Change
-PROPITEM_TXT_004679,Contains Hot Ddukguk and Sweet Ddukguk,Contains Hot Ddukguk and Sweet Ddukguk
-PROPITEM_TXT_004680,Box of Stamina,Box of Stamina
-PROPITEM_TXT_004681,"Contains Grilled Eel, Vital Drink X and Upcut Stone","Contains Grilled Eel, Vital Drink X and Upcut Stone"
+PROPITEM_TXT_004552,Blue Sailor Hat (M),Cappello Da Marinaio Blu (M)
+PROPITEM_TXT_004554,Blue Sailor Suit (M),Abito Da Marinaio Blu (M)
+PROPITEM_TXT_004556,Blue Sailor Shoes (M),Scarpe Marinaio Blu (M)
+PROPITEM_TXT_004558,Loker Sailor Hat (M),Cappello Marinaio Loker (M)
+PROPITEM_TXT_004560,Loker Sailor Suit (M),Abito Marinaio Loker (M)
+PROPITEM_TXT_004562,Loker Sailor Shoes (M),Scarpe Marinaio Loker (M)
+PROPITEM_TXT_004564,Green Sailor Hat (M),Cappello Da Marinaio Verde (M)
+PROPITEM_TXT_004566,Green Sailor Suit (M),Abito Da Marinaio Verde (M)
+PROPITEM_TXT_004568,Green Sailor Shoes (M),Scarpe Da Marinaio Verde (M)
+PROPITEM_TXT_004570,Forkim Sailor Hat (M),Cappello Marinaio Forkim (M)
+PROPITEM_TXT_004572,Forkim Sailor Suit (M),Abito Marinaio Forkim (M)
+PROPITEM_TXT_004574,Forkim Sailor Shoes (M),Scarpe Marinaio Forkim (M)
+PROPITEM_TXT_004576,Morning Sailor Suit (F),Abito Marinaio della Mattina (F)
+PROPITEM_TXT_004578,Morning Sailor Shoes (F),Scarpe Marinaio della Mattina (F)
+PROPITEM_TXT_004580,Lin Sailor Suit (F),Abito Marinaio Lin (F)
+PROPITEM_TXT_004582,Lin Sailor Shoes (F),Scarpe Marinaio Lin (F)
+PROPITEM_TXT_004584,Nine Sailor Suit (F),Abito Marinaio Nove (F)
+PROPITEM_TXT_004586,Nine Sailor Shoes (F),Scarpe Marinaio Novve (F)
+PROPITEM_TXT_004588,Kertty Sailor Suit (F),Abito Marinaio Kertty (F)
+PROPITEM_TXT_004590,Kertty Sailor Shoes (F),Scarpe Marinaio Kertty (F)
+PROPITEM_TXT_004592,Formal School Hat (M),Cappello Da Scuola Formale (M)
+PROPITEM_TXT_004594,Formal School Suit (M),Abito Scuola Formale (M)
+PROPITEM_TXT_004596,Formal School Gloves (M),Guanti Da Scuola Formale (M)
+PROPITEM_TXT_004598,Formal School Shoes (M),Scarpe Da Scuola Formale (M)
+PROPITEM_TXT_004600,Dark Nurse Hat (F),Cappello Da Infermiera Oscura (F)
+PROPITEM_TXT_004602,Dark Nurse Suit (F),Abito Da Infermiera Oscura (F)
+PROPITEM_TXT_004604,Dark Nurse Gloves (F),Guanti Da Infermiera Oscura (F)
+PROPITEM_TXT_004606,Dark Nurse Shoes (F),Scarpe Da Infermiera Oscura (F)
+PROPITEM_TXT_004608,Bright Nurse Hat (F),Cappello Da Infermiera Luminoso (F)
+PROPITEM_TXT_004610,Bright Nurse Suit (F),Abito Da Infermiera Luminoso (F)
+PROPITEM_TXT_004612,Bright Nurse Gloves (F),Guanti Da Infermiera Luminosi (F)
+PROPITEM_TXT_004614,Bright Nurse Shoes (F),Scarpe Da Infermiera Luminose (F)
+PROPITEM_TXT_004616,Catseon Hat (M),Cappello Catseon (M)
+PROPITEM_TXT_004618,Catseon Suit (M),Abito Da Catseon (M)
+PROPITEM_TXT_004620,Catseon Gloves (M),Guanti Da Catseon (M)
+PROPITEM_TXT_004622,Catseon Shoes (M),Scarpe Catseon (M)
+PROPITEM_TXT_004624,Catsin Hat (F),Cappello Catseaon (F)
+PROPITEM_TXT_004626,Catsin Suit (F),Abito Catsin (F)
+PROPITEM_TXT_004628,Catsin Gloves (F),Guanti Catsin (F)
+PROPITEM_TXT_004630,Catsin Shoes (F),Scarpe Da Catsin (F)
+PROPITEM_TXT_004632,BunBun Hat (F),Cappello BunBun (F)
+PROPITEM_TXT_004634,BunBun Suit (F),Abito BunBun (F)
+PROPITEM_TXT_004636,BunBun Gloves (F),Guanti BunBun (F)
+PROPITEM_TXT_004638,BunBun Shoes (F),Scarpe BunBun (F)
+PROPITEM_TXT_004640,Baji Suit (M),Abito Baji (M)
+PROPITEM_TXT_004642,Baji Shoes (M),Scarpe Baji (M)
+PROPITEM_TXT_004644,Sakdong Hat (F),Cappello Sakdong (F)
+PROPITEM_TXT_004646,Sakdong Suit (F),Abito Sakdong (F)
+PROPITEM_TXT_004648,Sakdong Shoes (F),Scarpe Sakdong (F)
+PROPITEM_TXT_004650,Scroll of Name Change,Pergamena di Cambia Nome
+PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.","Questa pergamena permette di cambiare il nome del personaggio. Basta fare doppio clic sullo scorrimento per attivarlo, quindi scegliere un nuovo nome di carattere e premere OK."
+PROPITEM_TXT_004652,Scroll of Class Change,Pergamena di Cambia Classe
+PROPITEM_TXT_004653,Changes Job,Cambia Lavoro
+PROPITEM_TXT_004654,Scroll of Holy,Pergamena di Santo
+PROPITEM_TXT_004655,Recovers from any negative status condition.,Recupera da qualsiasi condizione di stato negativo.
+PROPITEM_TXT_004656,Scroll of Forgive,Pergamena di Perdone
+PROPITEM_TXT_004657,Reduces PK Value,Riduce Valore PK
+PROPITEM_TXT_004658,Scroll of Selected Party,Pergamena di Gruppo Selezionato
+PROPITEM_TXT_004659,Upgrade Party Level to 10,Aumenta Livello del Gruppo a 10
+PROPITEM_TXT_004660,Box of Change,Scatola di Cambiamento
+PROPITEM_TXT_004661,Contains a Scroll of Name Change and Transy,Contiene una Pergamena di Cambiamento Nome e Transy
+PROPITEM_TXT_004662,Scroll of Blessing,Pergamena di Benedizione
+PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),Previene la perdita di Exp attraverso la morte (Impedisce la perdita di 10% Exp per gli utenti con Karma)
+PROPITEM_TXT_004664,Scroll of Resurrection,Pergamena di Resurrezione
+PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)","Permette al personaggio di rivivere dove è morto, e previene la perdita di Exp attraverso la morte. (Previene la perdita di 10% Exp per gli utenti con Karma)"
+PROPITEM_TXT_004666,Scroll of Velocity,Pergamena di Velocità
+PROPITEM_TXT_004667,Increases Moving Speed by 30% and Jump Height,Aumenta la velocità di movimento del 30% e salta l'altezza
+PROPITEM_TXT_004668,Box of Lucky,Scatola di Fortunato
+PROPITEM_TXT_004669,What on earth is in this box?,Cosa diavolo c'è in questa scatola?
+PROPITEM_TXT_004670,Re-Skill,Ri-Abilità
+PROPITEM_TXT_004671,Allows you to redistribute your skill points once. Does not work for Vagrants.,Ti permette di ridistribuire i tuoi punti abilità una volta. Non funziona per i Vagranti.
+PROPITEM_TXT_004672,Box of Vital,Scatola di Vital
+PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Contiene Bevanda Vitale X e Attivazione
+PROPITEM_TXT_004674,Box of Mana,Scatola di Mana
+PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Contiene Rinfresco Grande e Attivazione
+PROPITEM_TXT_004676,Soup Box of Vital,Scatola di Zuppa di Vitale
+PROPITEM_TXT_004677,Contains Hot Ddukguk and Fresh Ddukguk,Contiene Ddukguk Caldo e Ddukguk Fresco
+PROPITEM_TXT_004678,Soup Box of Change,Scatola di Zuppa di Cambiamento
+PROPITEM_TXT_004679,Contains Hot Ddukguk and Sweet Ddukguk,Contiene Ddukguk Caldo e Ddukguk Dolce
+PROPITEM_TXT_004680,Box of Stamina,Scatola di Costituzione
+PROPITEM_TXT_004681,"Contains Grilled Eel, Vital Drink X and Upcut Stone","Contiene Anguilla alla Griglia, Bevanda Vitale X e Pietra Upcut"
 PROPITEM_TXT_004682,Power of Party,Power of Party
 PROPITEM_TXT_004683,Possess Exp.and Party Skill 30 and Selected Party,Possess Exp.and Party Skill 30 and Selected Party
-PROPITEM_TXT_004684,Resurrection Box,Resurrection Box
-PROPITEM_TXT_004685,"Contains 10x Scrolls of Blessing, 20x Scrolls of Sprint, 10x Scrolls of Holy, 10x Scrolls of Resurrection.","Contains 10x Scrolls of Blessing, 20x Scrolls of Sprint, 10x Scrolls of Holy, 10x Scrolls of Resurrection."
-PROPITEM_TXT_004686,Pumpkin Soup,Pumpkin Soup
+PROPITEM_TXT_004684,Resurrection Box,Scatola Resurrezione
+PROPITEM_TXT_004685,"Contains 10x Scrolls of Blessing, 20x Scrolls of Sprint, 10x Scrolls of Holy, 10x Scrolls of Resurrection.","Contiene 10x Pergamene di Benedizione, 20x Scroll of Sprint, 10x Pergamene di Santo, 10x Pergamene di Resurrezione"
+PROPITEM_TXT_004686,Pumpkin Soup,Zuppa Di Zucca
 PROPITEM_TXT_004687,+50% Max. FP,+50% Max. FP
 PROPITEM_TXT_004688,Uriel Cold noodle,Uriel Cold noodle
 PROPITEM_TXT_004689,+50% Max. MP,+50% Max. MP
-PROPITEM_TXT_004690,Scroll of G-Name Change,Scroll of G-Name Change
-PROPITEM_TXT_004691,Changes Guild Name,Changes Guild Name
-PROPITEM_TXT_004692,Scroll of SProtect,Scroll of SProtect
-PROPITEM_TXT_004693,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
-PROPITEM_TXT_004694,Low Scroll of SProtect,Low Scroll of SProtect
-PROPITEM_TXT_004695,"Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
-PROPITEM_TXT_004696,Scroll of GProtect,Scroll of GProtect
-PROPITEM_TXT_004697,"This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process.","This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process."
-PROPITEM_TXT_008934,Scroll of AProtect,Scroll of AProtect
-PROPITEM_TXT_008935,"This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process.","This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process."
-PROPITEM_TXT_004698,Scroll of Expansion,Scroll of Expansion
-PROPITEM_TXT_004699,"HP, FP & MP Recovery becomes possible in any situation, including combat. Lasts 15 Min.","HP, FP & MP Recovery becomes possible in any situation, including combat. Lasts 15 Min."
+PROPITEM_TXT_004690,Scroll of G-Name Change,Pergamena di Cambia Nome Gilda
+PROPITEM_TXT_004691,Changes Guild Name,Cambia la Nome della Gilda
+PROPITEM_TXT_004692,Scroll of SProtect,Pergamena di S-Protezione
+PROPITEM_TXT_004693,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Questa pergamena impedisce la perdita dell'equipaggiamento in caso di fallimento dell'aggiornamento o dell'aggiornamento dell'attributo elementale. Per utilizzarla, posiziona la pergamena nell'apposita casella nel Menu Potenziamento prima di tentare il potenziamento. La pergamena verrà consumata durante il processo."
+PROPITEM_TXT_004694,Low Scroll of SProtect,Pergamena di Bassa S-Protezione
+PROPITEM_TXT_004695,"Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Riduce l'attributo invece di distruggere l'equipaggiamento durante l'aggiornamento. Per utilizzarlo, posiziona il rotolo nell'apposita casella nel Menu di Potenziamento prima di tentare l'aggiornamento. La pergamena viene consumata durante il processo."
+PROPITEM_TXT_004696,Scroll of GProtect,Pergamena di G-Protezione
+PROPITEM_TXT_004697,"This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process.","Questa pergamena protegge le armature dalla rottura quando un tentativo di perciazione fallisce. Per utilizzarla, posizionala nell'apposita casella nel Menu Perziazione prima di tentare la perforazione. La pergamena viene consumata durante il processo di percazione."
+PROPITEM_TXT_008934,Scroll of AProtect,Pergamena di A-Protezione
+PROPITEM_TXT_008935,"This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process.","Questa pergamena impedisce la perdita di un accessorio quando un potenziamento fallisce. Per utilizzarla, posizionala nell'apposita casella nel Menu Potenziamento accessori prima di tentare il potenziamento. La pergamena viene consumata durante il processo di potenziamento."
+PROPITEM_TXT_004698,Scroll of Expansion,Pergamena di Espansione
+PROPITEM_TXT_004699,"HP, FP & MP Recovery becomes possible in any situation, including combat. Lasts 15 Min.","Il recupero di HP, FP e MP diventa possibile in qualsiasi situazione, compreso il combattimento. Dura 15 minuti."
 PROPITEM_TXT_004700,Gloves of Cheering,Gloves of Cheering
 PROPITEM_TXT_004701,Gives the character 1 cheer point and +10% Exp. for 10 Min.,Gives the character 1 cheer point and +10% Exp. for 10 Min.
 PROPITEM_TXT_004702,Scroll of SFusion,Scroll of SFusion
@@ -2957,22 +2957,22 @@ PROPITEM_TXT_005106,Dragon Cloak of the Master,Dragon Cloak of the Master
 PROPITEM_TXT_005107,The Master's Dragon Cloak increases all base stats by +7 and HP Max by +300. The Seal of the Dragon is prominently displayed.,The Master's Dragon Cloak increases all base stats by +7 and HP Max by +300. The Seal of the Dragon is prominently displayed.
 PROPITEM_TXT_005108,Dragon Cloak of the Hero,Dragon Cloak of the Hero
 PROPITEM_TXT_005109,The Hero's Dragon Cloak increases all base stats by +8 and HP Max by +400. The Seal of the Dragon is prominently displayed.,The Hero's Dragon Cloak increases all base stats by +8 and HP Max by +400. The Seal of the Dragon is prominently displayed.
-PROPITEM_TXT_005114,Blinkwing of Flaris,Blinkwing of Flaris
-PROPITEM_TXT_005115,Teleport to Flaris,Teleport to Flaris
-PROPITEM_TXT_005116,Blinkwing of Saint Morning,Blinkwing of Saint Morning
-PROPITEM_TXT_005117,Teleport to Saint Morning,Teleport to Saint Morning
+PROPITEM_TXT_005114,Blinkwing of Flaris,Alabalzo di Flaris
+PROPITEM_TXT_005115,Teleport to Flaris,Teletrasportasi a Flaris
+PROPITEM_TXT_005116,Blinkwing of Saint Morning,Alabalzo di Saint Morning
+PROPITEM_TXT_005117,Teleport to Saint Morning,Teletrasportasi a Saint Morning
 PROPITEM_TXT_005118,Town Blinkwing,Town Blinkwing
 PROPITEM_TXT_005119,Teleport to the nearest town,Teleport to the nearest town
-PROPITEM_TXT_005120,Blinkwing of Darkon,Blinkwing of Darkon
-PROPITEM_TXT_005121,Teleport to Darkon,Teleport to Darkon
-PROPITEM_TXT_005122,Blinkwing of Darkon 1,Blinkwing of Darkon 1
-PROPITEM_TXT_005123,Teleport to Darkon 1,Teleport to Darkon 1
-PROPITEM_TXT_005124,Blinkwing of Darkon 3,Blinkwing of Darkon 3
-PROPITEM_TXT_005125,Teleport to Darkon 3,Teleport to Darkon 3
-PROPITEM_TXT_005126,Blinkwing of Dekane,Blinkwing of Dekane
-PROPITEM_TXT_005127,Teleport to the Dekane Mine,Teleport to the Dekane Mine
-PROPITEM_TXT_005128,Blinkwing of Mars,Blinkwing of Mars
-PROPITEM_TXT_005129,Teleport to the Mars Dungeon,Teleport to the Mars Dungeon
+PROPITEM_TXT_005120,Blinkwing of Darkon,Alabalzo di Darkon
+PROPITEM_TXT_005121,Teleport to Darkon,Teletrasportasi a Darkon
+PROPITEM_TXT_005122,Blinkwing of Darkon 1,Alabalzo di Darkon 1
+PROPITEM_TXT_005123,Teleport to Darkon 1,Teletrasportasi a Darkon 1
+PROPITEM_TXT_005124,Blinkwing of Darkon 3,Alabalzo di Darkon 3
+PROPITEM_TXT_005125,Teleport to Darkon 3,Teletrasportasi a Darkon 3
+PROPITEM_TXT_005126,Blinkwing of Dekane,Alabalzo di Dekane
+PROPITEM_TXT_005127,Teleport to the Dekane Mine,Teletrasportasi a Dekane Mine
+PROPITEM_TXT_005128,Blinkwing of Mars,Alabalzo di Mars
+PROPITEM_TXT_005129,Teleport to the Mars Dungeon,Teletrasportasi a Mars Dungeon
 PROPITEM_TXT_005130,Magic Broom,Magic Broom
 PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,The most basic Flying Broom. Maximum Speed: 29 km/h.
 PROPITEM_TXT_005132,Kestrel Broom,Kestrel Broom
@@ -3266,8 +3266,8 @@ PROPITEM_TXT_005772,Keakoon Chief Sign,Keakoon Chief Sign
 PROPITEM_TXT_005773,Quest Item: Stamp of the Keakoon chief.,Quest Item: Stamp of the Keakoon chief.
 PROPITEM_TXT_005774,Cargo of Drian,Cargo of Drian
 PROPITEM_TXT_005775,Quest Item: Cargo that Drian sent to his father.,Quest Item: Cargo that Drian sent to his father.
-PROPITEM_TXT_005776,Shubrin Ring,Shubrin Ring
-PROPITEM_TXT_005777,Quest Item: A ring made by Shubrin.,Quest Item: A ring made by Shubrin.
+PROPITEM_TXT_005776,Shubrin Ring,Anello Shubrin
+PROPITEM_TXT_005777,Quest Item: A ring made by Shubrin.,Oggetto di Missione: Un anello realizzato da Shubrin.
 PROPITEM_TXT_005778,Pink Roach Fluid,Pink Roach Fluid
 PROPITEM_TXT_005780,Blue Roach Fluid,Blue Roach Fluid
 PROPITEM_TXT_005782,Wake Roach Water,Wake Roach Water
@@ -3275,14 +3275,14 @@ PROPITEM_TXT_005784,Pink Roach Queen Fluid,Pink Roach Queen Fluid
 PROPITEM_TXT_005785,Quest item that drops from Pink Roach Queen.,Quest item that drops from Pink Roach Queen.
 PROPITEM_TXT_005786,Blue Roach Queen Fluid,Blue Roach Queen Fluid
 PROPITEM_TXT_005787,Quest item that drops from Blue Roach Queen.,Quest item that drops from Blue Roach Queen.
-PROPITEM_TXT_005788,Qurion Sword,Qurion Sword
-PROPITEM_TXT_005790,Qurion Axe,Qurion Axe
-PROPITEM_TXT_005792,Qurion Knuckle,Qurion Knuckle
-PROPITEM_TXT_005794,Qurion Stick,Qurion Stick
-PROPITEM_TXT_005796,Qurion Wand,Qurion Wand
-PROPITEM_TXT_005798,Qurion Yo-Yo,Qurion Yo-Yo
-PROPITEM_TXT_005800,Qurion Bow,Qurion Bow
-PROPITEM_TXT_005802,Qurion Staff,Qurion Staff
+PROPITEM_TXT_005788,Qurion Sword,Spada Qurion
+PROPITEM_TXT_005790,Qurion Axe,Ascia Qurion
+PROPITEM_TXT_005792,Qurion Knuckle,Pugno Qurion
+PROPITEM_TXT_005794,Qurion Stick,Bastone Qurion
+PROPITEM_TXT_005796,Qurion Wand,Bacchetta Qurion
+PROPITEM_TXT_005798,Qurion Yo-Yo,Yo-Yo Qurion
+PROPITEM_TXT_005800,Qurion Bow,Arco Qurion
+PROPITEM_TXT_005802,Qurion Staff,Cetro Qurion
 PROPITEM_TXT_005804,Bernard Card,Bernard Card
 PROPITEM_TXT_005805,Quest Item: Entrance card to a room in the Dekane Mine.,Quest Item: Entrance card to a room in the Dekane Mine.
 PROPITEM_TXT_005806,Cillin,Cillin
@@ -3294,7 +3294,7 @@ PROPITEM_TXT_005811,Quest Item: A pure form of the metal that Dwarpets are most 
 PROPITEM_TXT_005812,Andre Card,Andre Card
 PROPITEM_TXT_005814,Triduum,Triduum
 PROPITEM_TXT_005815,Quest Item: Used to refine Ribenuum,Quest Item: Used to refine Ribenuum
-PROPITEM_TXT_005818,Puran Necklace,Puran Necklace
+PROPITEM_TXT_005818,Puran Necklace,Collana Puran
 PROPITEM_TXT_005819,STA Necklace made by the Dwarves,STA Necklace made by the Dwarves
 PROPITEM_TXT_005820,Roach Zone Card,Roach Zone Card
 PROPITEM_TXT_005822,Keakoon Worker Pike,Keakoon Worker Pike
@@ -3398,7 +3398,7 @@ PROPITEM_TXT_006000,Pre-Necrynzi Knuckle,Pre-Necrynzi Knuckle
 PROPITEM_TXT_006002,Pre-Shabere Stick,Pre-Shabere Stick
 PROPITEM_TXT_006004,Pre-Neplus Wand,Pre-Neplus Wand
 PROPITEM_TXT_006006,Pre-Birdin Staff,Pre-Birdin Staff
-PROPITEM_TXT_006008,Flower,Flower
+PROPITEM_TXT_006008,Flower,Fiore
 PROPITEM_TXT_006010,Gift Box of Love,Gift Box of Love
 PROPITEM_TXT_006011,"Box with a small, romantic gift inside","Box with a small, romantic gift inside"
 PROPITEM_TXT_006012,Cupid Wings,Cupid Wings
@@ -4096,21 +4096,21 @@ PROPITEM_TXT_007508,Rimless Glasses (Purple),Rimless Glasses (Purple)
 PROPITEM_TXT_007510,Glasses Box 1,Glasses Box 1
 PROPITEM_TXT_007511,Contains various glasses and sunglasses,Contains various glasses and sunglasses
 PROPITEM_TXT_007512,Glasses Box 2,Glasses Box 2
-PROPITEM_TXT_007515,Bloody Sword,Bloody Sword
-PROPITEM_TXT_007517,Bloody Slayer,Bloody Slayer
-PROPITEM_TXT_007519,Bloody Axe,Bloody Axe
-PROPITEM_TXT_007521,Bloody Executioner,Bloody Executioner
-PROPITEM_TXT_007523,Bloody Knuckle,Bloody Knuckle
-PROPITEM_TXT_007525,Bloody Stick,Bloody Stick
-PROPITEM_TXT_007529,Bloody Staff,Bloody Staff
-PROPITEM_TXT_007531,Bloody Bow,Bloody Bow
-PROPITEM_TXT_007533,Bloody Yo-Yo,Bloody Yo-Yo
+PROPITEM_TXT_007515,Bloody Sword,Spada Sanguinata
+PROPITEM_TXT_007517,Bloody Slayer,Uccisore Sanguinato
+PROPITEM_TXT_007519,Bloody Axe,Ascia Sanguinata
+PROPITEM_TXT_007521,Bloody Executioner,Boia Sanguinata
+PROPITEM_TXT_007523,Bloody Knuckle,Pugno Sanguinato
+PROPITEM_TXT_007525,Bloody Stick,Bastone Sanguinato
+PROPITEM_TXT_007529,Bloody Staff,Cetro Sanguinato
+PROPITEM_TXT_007531,Bloody Bow,Arco Sanguinato
+PROPITEM_TXT_007533,Bloody Yo-Yo,Yo-Yo Sanguinato
 PROPITEM_TXT_007535,Secret Medicine 1,Secret Medicine 1
 PROPITEM_TXT_007536,Recovers 1000 HP,Recovers 1000 HP
 PROPITEM_TXT_007537,Secret Medicine 2,Secret Medicine 2
 PROPITEM_TXT_007538,Recovers 1000 MP,Recovers 1000 MP
-PROPITEM_TXT_007540,Polar Bear,Polar Bear
-PROPITEM_TXT_007541,A Polar Bear that follows its master around and picks up dropped items,A Polar Bear that follows its master around and picks up dropped items
+PROPITEM_TXT_007540,Polar Bear,Orso Polare
+PROPITEM_TXT_007541,A Polar Bear that follows its master around and picks up dropped items,Un Orso Polare che segue il suo padrone e raccoglie gli oggetti caduti
 PROPITEM_TXT_007544,Rice Cake,Rice Cake
 PROPITEM_TXT_007545,The more of these you collect. The better the kind of bead you will get.,The more of these you collect. The better the kind of bead you will get.
 PROPITEM_TXT_007546,Merahook,Merahook
@@ -6574,10 +6574,10 @@ PROPITEM_TXT_022299,Golden Cherub Wings,Golden Cherub Wings
 PROPITEM_TXT_022300,"A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though.","A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though."
 PROPITEM_TXT_100152,Scroll of Return Town,Scroll of Return Town
 PROPITEM_TXT_100153,Teleport to one of the towns and return later where the scroll was activated.,Teleport to one of the towns and return later where the scroll was activated.
-PROPITEM_TXT_100154,Nearest Town Blinkwing,Nearest Town Blinkwing
-PROPITEM_TXT_100155,Teleport to the town of your choice,Teleport to the town of your choice
-PROPITEM_TXT_100156,Blinkwing of Madrigal,Blinkwing of Madrigal
-PROPITEM_TXT_100157,Teleport to the place of your choice! Some places have a minimum level requirement.,Teleport to the place of your choice! Some places have a minimum level requirement.
+PROPITEM_TXT_100154,Nearest Town Blinkwing,Alabalzo Città più Vicina
+PROPITEM_TXT_100155,Teleport to the town of your choice,Teletrasportati nella città che preferisci
+PROPITEM_TXT_100156,Blinkwing of Madrigal,Alabalzo di Madrigal
+PROPITEM_TXT_100157,Teleport to the place of your choice! Some places have a minimum level requirement.,Teletrasportati nel luogo che preferisci! Alcuni luoghi richiedono un livello minimo.
 PROPITEM_TXT_100158,Entanale Box,Entanale Box
 PROPITEM_TXT_100159,Select which Entanale Weapon you want to receive!,Select which Entanale Weapon you want to receive!
 PROPITEM_TXT_100160,Qurion Box,Qurion Box
@@ -7517,8 +7517,8 @@ PROPITEM_TXT_100953,Green Crystal,Green Crystal
 PROPITEM_TXT_100954,Quest item that drops from Ghosts of the Forgotten.,Quest item that drops from Ghosts of the Forgotten.
 PROPITEM_TXT_100955,Blue Crystal,Blue Crystal
 PROPITEM_TXT_100956,Quest item that drops from Mammoth.,Quest item that drops from Mammoth.
-PROPITEM_TXT_100957,Blinkwing of Azria,Blinkwing of Azria
-PROPITEM_TXT_100958,Teleport to Azria,Teleport to Azria
+PROPITEM_TXT_100957,Blinkwing of Azria,Alabalzo di Azria
+PROPITEM_TXT_100958,Teleport to Azria,Teletrasportasi a Azria
 PROPITEM_TXT_100959,Pet Transmute,Pet Transmute
 PROPITEM_TXT_100960,This item will give a new random appearance to your pet. There is a chance to get rare visuals!,This item will give a new random appearance to your pet. There is a chance to get rare visuals!
 PROPITEM_TXT_100961,Cyclops X Life Gem,Cyclops X Life Gem
@@ -12579,8 +12579,8 @@ PROPITEM_TXT_160060,Marksman's Plug Earring,Marksman's Plug Earring
 PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
 PROPITEM_TXT_160062,Ultima,Ultima
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,A powerful essence that could one day contain Ultimate energy.
-PROPITEM_TXT_160064,Blinkwing of Coral Island,Blinkwing of Coral Island
-PROPITEM_TXT_160065,Teleport to Coral Island,Teleport to Coral Island
+PROPITEM_TXT_160064,Blinkwing of Coral Island,Alabalzo di Coral Island
+PROPITEM_TXT_160065,Teleport to Coral Island,Teletrasportasi a Coral Island
 PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,This housing pack contains various models to decorate your house or guild ship!
 PROPITEM_TXT_722004,Blank World Template (XL),Blank World Template (XL)
 PROPITEM_TXT_722005,This will give you a new template for your house!,This will give you a new template for your house!
@@ -24045,8 +24045,8 @@ PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWC Flame Lusaka Wand
 PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWC Flame Lusaka Shield
 PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWC Flame Lusaka Weapon Select Box
 PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,This box contains the 2025 FWC Flame Lusaka Weapons.
-PROPITEM_TXT_155000,Blinkwing of Eillun,Blinkwing of Eillun
-PROPITEM_TXT_155001,Teleport to Eillun,Teleport to Eillun
+PROPITEM_TXT_155000,Blinkwing of Eillun,Alabalzo di Eillun
+PROPITEM_TXT_155001,Teleport to Eillun,Teletrasportasi a Eillun
 PROPITEM_TXT_155002,Fragment of ???,Fragment of ???
 PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.
 PROPITEM_TXT_155004,Fragment of a Fallen Ship,Fragment of a Fallen Ship

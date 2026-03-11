@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPQUEST_SCENARIO_INC_000299,Prologue,Prologue
 PROPQUEST_SCENARIO_INC_000304,Questioning,Devoir de mémoire
 PROPQUEST_SCENARIO_INC_000305,"Hmm... What should I do? Hey, can you help me?","(pensive) Hmm... Que dois-je faire ?! (vous regardant) Je suis vraiment heureuse de te rencontrer en tout cas, crois-tu que tu pourrais m'aider ?"
@@ -185,7 +185,7 @@ PROPQUEST_SCENARIO_INC_000506,You can't imagine how eagerly I've been waiting fo
 PROPQUEST_SCENARIO_INC_000507,He was able to translate it? Wonderful. Now we can see if this is real or just a wild goose chase… Give me a moment to read through this.,Il a déchiffré le document ? Merci !! Acceptez ce gage de ma gratitude. Revenez quand vous voulez mon ami.
 PROPQUEST_SCENARIO_INC_000508,Bring the translated document to the Mayor of Darkon.,Apportez le document décodé au maire de Darkon.
 PROPQUEST_SCENARIO_INC_000741,Chain,Chaine
-PROPQUEST_SCENARIO_INC_000742,General,General
+PROPQUEST_SCENARIO_INC_000742,General,Général
 PROPQUEST_SCENARIO_INC_000743,Office,Bureau
 PROPQUEST_SCENARIO_INC_000744,Event,Event
 PROPQUEST_SCENARIO_INC_000785,"Don’t worry about the pay. So, please hurry up.",Vous serez richement récompensé.
@@ -205,11 +205,11 @@ PROPQUEST_SCENARIO_INC_001254,Ah! I admire your courage. It appears you could ve
 PROPQUEST_SCENARIO_INC_001256,Bridge to Terror-bithia,L'horrible géant Démian
 PROPQUEST_SCENARIO_INC_001257,"But, let us not be too hasty as arrogance may lead to an early grave. Though vicious, slaying a few lawolves is just the beginning…","C’est fou ce que vous avez l’air fier d’avoir tué quelques Lawolf ! Ne vous emballez pas trop. Vous avez encore du chemin avant de devenir professionnel, comme moi."
 PROPQUEST_SCENARIO_INC_001258,"Here is your next task. Rumors have it, numerous villagers have been attacked by a monstrous Lord Demian just outside of Flaris. Please defeat him and return to me","Here is your next task. Rumors have it, numerous villagers have been attacked by a monstrous Lord Demian just outside of Flaris. Please defeat him and return to me"
-PROPQUEST_SCENARIO_INC_001259,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.
-PROPQUEST_SCENARIO_INC_001260,"What? I know I ask much of you, but I never thought you would turn down a chance to prove your worth.",Vous ne vous sentez pas à la hauteur ?
-PROPQUEST_SCENARIO_INC_001261,The Lord Demian can be found nearby Madren Town amongst the other Demians.,The Lord Demian can be found nearby Madren Town amongst the other Demians.
-PROPQUEST_SCENARIO_INC_001262,Get rid of the Lord Demian and return to Reonan.,Get rid of the Lord Demian and return to Reonan.
-PROPQUEST_SCENARIO_INC_001263,"Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential.","Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential."
+PROPQUEST_SCENARIO_INC_001259,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.,"Le Seigneur Demian a été aperçu récemment près de Madren, cherche-le là-bas."
+PROPQUEST_SCENARIO_INC_001260,"What? I know I ask much of you, but I never thought you would turn down a chance to prove your worth.","Quoi ? Je sais que je te demande beaucoup, mais je n'aurais jamais pensé que tu refuserais une chance de prouver ta valeur."
+PROPQUEST_SCENARIO_INC_001261,The Lord Demian can be found nearby Madren Town amongst the other Demians.,Le Seigneur Demian peut être trouvé près de Madren parmi les autres Demians.
+PROPQUEST_SCENARIO_INC_001262,Get rid of the Lord Demian and return to Reonan.,Élimine le Seigneur Demian et retourne à Reonan.
+PROPQUEST_SCENARIO_INC_001263,"Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential.","Enfin, les villageois peuvent être rassurés : le Seigneur Demian ne les terrorisera plus. Tu as beaucoup de potentiel."
 PROPQUEST_SCENARIO_INC_001265,Weed Whacked!,Monstro-plante
 PROPQUEST_SCENARIO_INC_001266,I now have another favor to ask of you. A mysterious curse has turned the once docile Fefern into foul beasts which are ravaging the land. Will you defeat them?,On va continuer à vous entrainer. Certaines plantes au Nord de Flaris ont été corrompues par des forces maléfiques.
 PROPQUEST_SCENARIO_INC_001267,Fefern can be found in the Northwest region of Flaris. Please kill 10 Fefern & 5 2nd Class Fefern and come back.,On les appelle les Fefern. Allez donc en tuer 10 jeunes et 5 adultes et revenez me voir.
@@ -518,12 +518,12 @@ PROPQUEST_SCENARIO_INC_001630,Go see Inisis. She is at the center of Darken.,Par
 PROPQUEST_SCENARIO_INC_001631,Go meet [Mentor] Inisis.,Parlez à Inisis à Darkon.
 PROPQUEST_SCENARIO_INC_001633,Corrupted Hunter,Géant mécanique
 PROPQUEST_SCENARIO_INC_001634,"8 legendary heroes? Hmm… Maybe… I have a person in my mind… but, I can't tell you so easily. First you must do something to show you are worthy of such information.","Des Héros réincarnés dites-vous ? Oui, ça me dit quelque chose… mais vous allez devoir stimuler ma mémoire ! *se frotte les mains*"
-PROPQUEST_SCENARIO_INC_001635,Foul monsters known as Trangfoma have been reported kidnapping civilians outside of the city. They are lead by a powerful lord Trangfoma. It needs to be defeated.,Foul monsters known as Trangfoma have been reported kidnapping civilians outside of the city. They are lead by a powerful lord Trangfoma. It needs to be defeated.
-PROPQUEST_SCENARIO_INC_001636,Please kill the Lord Trangfoma located in Eastern Darkon. He won't go down so easily so I would recommend enlisting the help of fellow warriors such as yourself.,Please kill the Lord Trangfoma located in Eastern Darkon. He won't go down so easily so I would recommend enlisting the help of fellow warriors such as yourself.
-PROPQUEST_SCENARIO_INC_001637,"If you don't have time for this, I don't have time to give you the information you seek…",..hum ? Vous n'êtes pas un vagabond ? Vous avez pourtant l'air de quelqu'un qui dort sous les ponts.
-PROPQUEST_SCENARIO_INC_001638,hmm… Impressive. You are stronger than you look. I will give you everything you need to know now.,Vous n'êtes pas aussi faible que vous en avez l'air.
-PROPQUEST_SCENARIO_INC_001639,Please relieve us of this threat. The Lord Trangfoma should be in Eastern Darkon.,Please relieve us of this threat. The Lord Trangfoma should be in Eastern Darkon.
-PROPQUEST_SCENARIO_INC_001640,Kill the Lord Trangfoma.,Kill the Lord Trangfoma.
+PROPQUEST_SCENARIO_INC_001635,Foul monsters known as Trangfoma have been reported kidnapping civilians outside of the city. They are lead by a powerful lord Trangfoma. It needs to be defeated.,De terribles monstres appelés Trangfoma ont été signalés en train d'enlever des civils en dehors de la ville. Ils sont dirigés par un puissant Seigneur Trangfoma. Il doit être vaincu.
+PROPQUEST_SCENARIO_INC_001636,Please kill the Lord Trangfoma located in Eastern Darkon. He won't go down so easily so I would recommend enlisting the help of fellow warriors such as yourself.,"Veuillez tuer le Seigneur Trangfoma situé dans l'Est de Darkon. Il ne tombera pas facilement, je recommande de demander l'aide d'autres guerriers comme vous."
+PROPQUEST_SCENARIO_INC_001637,"If you don't have time for this, I don't have time to give you the information you seek…","Si vous n'avez pas le temps pour cela, je n'ai pas le temps de vous donner les informations que vous cherchez…"
+PROPQUEST_SCENARIO_INC_001638,hmm… Impressive. You are stronger than you look. I will give you everything you need to know now.,Hmm… Impressionnant. Vous êtes plus fort que vous en avez l'air. Je vais vous donner tout ce que vous devez savoir maintenant.
+PROPQUEST_SCENARIO_INC_001639,Please relieve us of this threat. The Lord Trangfoma should be in Eastern Darkon.,Veuillez nous débarrasser de cette menace. Le Seigneur Trangfoma devrait se trouver dans l'Est de Darkon.
+PROPQUEST_SCENARIO_INC_001640,Kill the Lord Trangfoma.,Tuez le Seigneur Trangfoma.
 PROPQUEST_SCENARIO_INC_001642,Peculiar Creature,Histoire de Karma
 PROPQUEST_SCENARIO_INC_001643,"Normally I'd be skeptical of such a claim, but I do recall coming across quite a peculiar sight…","Si je crois à la réincarnation ? Bien entendu. Vous par exemple, vous avez dû mal vous comporter pour être réincarné en vagabond."
 PROPQUEST_SCENARIO_INC_001644,"While out traveling, I came across a creature most bizarre not too far East of Darken City.",Je suis tombée sur une créature mystique alors que je collectais des spécimens pour mes élèves à l'Est de la ville. 
@@ -939,13 +939,13 @@ PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of thi
 PROPQUEST_SCENARIO_INC_002216,Hunt 50 Small Shuhammas & 35 Shuhammas and then speak with Sury,Tuez 50 Jeunes Shuhamma et 35 Shuhamma et reparlez à Sury
 PROPQUEST_SCENARIO_INC_002218,Sury's Test (2),Les yeux plus gros que le ventre
 PROPQUEST_SCENARIO_INC_002219,This will be my final task. Complete this and you will have proven yourself worthy enough to speak with me regarding Reonan's request.,Bon débarras ! Ces Shuhamma ont bien mérité leur raclée.
-PROPQUEST_SCENARIO_INC_002220,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!
-PROPQUEST_SCENARIO_INC_002221,"Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!","Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!"
-PROPQUEST_SCENARIO_INC_002222,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!
+PROPQUEST_SCENARIO_INC_002220,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!,"Les Shuhamma n'ont été qu'une mince épreuve pour vous. Maintenant, je veux vraiment tester vos compétences ! Allez chasser le Seigneur Shuhamma, leur chef !"
+PROPQUEST_SCENARIO_INC_002221,"Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!","Chasser le Seigneur Shuhamma seul sera une tâche ardue. Vous pourriez vouloir demander l'aide d'autres guerriers. Mais si vous le vainquez en solo, vous aurez vraiment gagné mon respect !"
+PROPQUEST_SCENARIO_INC_002222,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!,"Vous êtes un aventurier vraiment courageux. Allez chasser 40 Capitaines Shuhamma et le Seigneur Shuhamma, et voyons de quoi vous êtes réellement fait !"
 PROPQUEST_SCENARIO_INC_002223,And here I was thinking you could do it! Maybe I was wrong about you...,"Ah, vous n'avez pas d'amis pour vous aider… Vous devez vous sentir bien seul."
-PROPQUEST_SCENARIO_INC_002224,"That was surely no easy feat. You have earned my respect stranger! My name is Sury, the original Billposter Hero","Wahou ! Vous l'avez eu ? C'est entendu, je vous fais confiance maintenant."
-PROPQUEST_SCENARIO_INC_002225,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!
-PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.
+PROPQUEST_SCENARIO_INC_002224,"That was surely no easy feat. You have earned my respect stranger! My name is Sury, the original Billposter Hero","Ce n'était sûrement pas une mince affaire. Vous avez gagné mon respect, étranger ! Je suis Sury, le héros original des affiches."
+PROPQUEST_SCENARIO_INC_002225,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!,Vous n'avez pas encore chassé 40 Capitaines Shuhamma et le Seigneur Shuhamma ? Revenez me voir une fois terminé !
+PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.,Chassez 40 Capitaines Shuhamma et le Seigneur Shuhamma puis retournez voir Sury.
 PROPQUEST_SCENARIO_INC_002228,Sury's Dilemma,Conseil d'ami
 PROPQUEST_SCENARIO_INC_002229,"I've been training up here so long. I feel that I'm so close to achieving a heightened level of power, but there is something missing…",Maintenant je peux vous parler franchement.
 PROPQUEST_SCENARIO_INC_002230,"I don't know why… I just feel like there is something missing… and this ""thing"" is keeping me from realizing my true inner potential.","Quelque chose d'important, de grave, se trame et nous allons tous voir si notre entrainement a été assez intensif."
@@ -1061,8 +1061,8 @@ PROPQUEST_SCENARIO_INC_002349,Perhaps a sample of the local fungi could hold som
 PROPQUEST_SCENARIO_INC_002350,"A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi.","A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi."
 PROPQUEST_SCENARIO_INC_002351,Oh... are you allergic to mushrooms!? Nevermind... perhaps we can find another person for the job.,Oh... vous êtes allergique aux champignons ? Peu importe... nous pourrons peut-être trouver une autre personne pour ce travail.
 PROPQUEST_SCENARIO_INC_002352,"Ah, Flaris fungi! The mushrooms of Flaris have always been said to have magical properties...","Ah, les champignons de Flaris ! On a toujours dit que les champignons de Flaris avaient des propriétés magiques..."
-PROPQUEST_SCENARIO_INC_002353,Collect a sample of the Lord Mushpang and deliver it to Sotta.,Collect a sample of the Lord Mushpang and deliver it to Sotta.
-PROPQUEST_SCENARIO_INC_002354,Collect a sample of Flaris Fungi from a Lord Mushpang.,Collect a sample of Flaris Fungi from a Lord Mushpang.
+PROPQUEST_SCENARIO_INC_002353,Collect a sample of the Lord Mushpang and deliver it to Sotta.,Collectez un échantillon du Seigneur Mushpang et livrez-le à Sotta.
+PROPQUEST_SCENARIO_INC_002354,Collect a sample of Flaris Fungi from a Lord Mushpang.,Collectez un échantillon de champignons de Flaris sur un Seigneur Mushpang.
 PROPQUEST_SCENARIO_INC_002355,Fun with Fungi,S'amuser avec les champignons
 PROPQUEST_SCENARIO_INC_002356,Cooking with Flaris fungi brings out the properties of vitality in a dish...,La cuisine avec les champignons Flaris fait ressortir les propriétés de vitalité d'un plat...
 PROPQUEST_SCENARIO_INC_002357,It is not hard to believe that a Masquerpet may be able to extend its life by eating the magical fungi.,Il n'est pas difficile de croire qu'un Masquerpet peut prolonger sa vie en mangeant des champignons magiques.
@@ -1155,11 +1155,11 @@ PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,Rencontrez Parine.
 PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,Prendre le taureau par les cornes
 PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,Nous avons besoin d'une sorte de paratonnerre pour attirer la fureur de la tempête loin des dirigeables qui se dirigent vers Saincity.
 PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.","Je ne sais pas qui pourrait construire un tel dispositif, mais il faudra certainement une grande quantité de métal pour le faire."
-PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!
+PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,Le plus gros morceau de métal brut de Saint Morning pend sur la tête du Seigneur Dumb Bull… Vainquez le Seigneur et récupérez l’Anneau métallurgique du Taureau !
 PROPQUEST_SCENARIO_INC_002448,I suppose we could collect scrap metal...,Je suppose que nous pourrions collecter de la ferraille.
 PROPQUEST_SCENARIO_INC_002449,You have found the ring!,Vous avez trouvé la bague !
-PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,Hunt down the Lord Dumb Bull and take its ring.
-PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.
+PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,Chassez le Seigneur Dumb Bull et récupérez son anneau.
+PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,Collectez un Anneau métallurgique du Taureau sur le Seigneur Dumb Bull.
 PROPQUEST_SCENARIO_INC_002452,Ring of Power,Anneau de pouvoir
 PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,Je ne connais que les propriétés métallurgiques de l'anneau.
 PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,L'étrange collectionneur en sait peut-être plus sur les effets de l'arène.
@@ -1221,7 +1221,7 @@ PROPQUEST_SCENARIO_INC_002509,"Thin the herd of Totemia that taint the Southern 
 PROPQUEST_SCENARIO_INC_002510,"If you refuse this task, the MewMew will not assist you in your mission.","Si vous refusez cette tâche, le MewMew ne vous assistera pas dans votre mission."
 PROPQUEST_SCENARIO_INC_002511,You have earned the MewMew clan's trust... for now.,Vous avez gagné la confiance du clan MewMew... pour l'instant.
 PROPQUEST_SCENARIO_INC_002512,Go defeat Totemia and eliminate their leader.,Allez vaincre Totemia et éliminez leur chef.
-PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,Kill 20 Totemia and 1 Lord Totemia.
+PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,Tuez 20 Totemia et 1 Seigneur Totemia.
 PROPQUEST_SCENARIO_INC_002514,The Third Eye Opens,Le Troisième Œil S'ouvre
 PROPQUEST_SCENARIO_INC_002515,"I will grant you one reading, but I require special materials to perform the ritual.","Je vous accorde une lecture, mais j'ai besoin de matériel spécial pour effectuer le rituel."
 PROPQUEST_SCENARIO_INC_002516,Please bring me a Black Curse Book and 5 Black Heroca from the Garden of Rhisis.,Veuillez m'apporter un Livre Noir Des Malédictions et 5 Heroca Noires du Jardin de Rhisis.

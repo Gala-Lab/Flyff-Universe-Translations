@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Une requête pour la collecte de $QUEST_END_ITEM_NAME$s a été soumise. Peux tu aller en récupérer ?
 PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,Récoltez 45 Bandages Grrr afin de pouvoir soigner les patients.
 PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,Collecter des Ampères sur les Volts pour les Dwarpets
@@ -191,47 +191,47 @@ PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,La Brigade des Flybrigen
 PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,"Tina a demandé de l'aide pour tuer des Flybrigen, car ils posent problème aux voyageurs. Peux-tu en tuer 15 ?"
 PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,Tu peux trouver les Flybrigen en vol entre Saint Morning et le Jardin de Rhisis.
 PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),Invasion de Moth (2)
-PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
-PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
-PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Aibatt Mutants (2)
-PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
-PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina demande de l'aide supplémentaire concernant l'infestation de Mothbee. Peux-tu éliminer le Seigneur Mothbee ?
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,Tu peux trouver le Seigneur Mothbee volant entre le Nord de Saint City et Flaris.
+PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Aibatt mutants (2)
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina demande de l'aide supplémentaire concernant la menace Zendros. Peux-tu éliminer le Seigneur Zendros ?
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,Tu peux trouver le Seigneur Zendros volant entre Flaris et le continent de Saint Morning.
 PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),Libellules (2)
-PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
-PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
-PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),La Brigade des Flybrigen (2)
-PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
-PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
-PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Cirque du Vol
-PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,"Dior a besoin d'aide pour tuer des Rockepeller, car ils posent des problèmes aux voyageurs entre Darkon et Flaris. Peux-tu en tuer 15 ?"
-PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,Tu peux trouver les Rockepeller en vol entre Flaris et Darkon.
-PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,La Chasse aux Zenma
-PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,"Almani a besoin d'aide pour tuer des Zenma, car ils posent des problèmes aux voyageurs dans les montagnes de Gouthan. Peux-tu en tuer 15 ?"
-PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,Tu peux trouver les Zenma en vol au-dessus des montagnes de Gouthan.
-PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","Hé, un rat volant !"
-PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?","Almani a besoin d'aide pour tuer des Longwing, car ils ont attaqués des innocents. Peux-tu en tuer 15?"
-PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Tu peux trouver les Longwing en vol au sud-est de la Cage de Clockworks dans les montagnes.
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina demande de l'aide supplémentaire concernant la menace Neparuba. Peux-tu éliminer le Seigneur Neparuba ?
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,Tu peux trouver le Seigneur Neparuba volant entre Flaris et le continent de Saint Morning.
+PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),Brigade des Flybrigen (2)
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina demande de l'aide supplémentaire concernant la menace Flybrigen. Peux-tu éliminer le Seigneur Flybrigen ?
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,Tu peux trouver le Seigneur Flybrigen volant entre le continent de Saint Morning et le Jardin de Rhisis.
+PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Cirque volant
+PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,"Dior a besoin d'aide pour réduire la population de Rockepeller, car ils causent des problèmes de transport entre Darkon et Flaris. Peux-tu en tuer 15 ?"
+PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,Tu peux trouver les Rockepeller volant entre les continents de Flaris et Darkon.
+PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,Chasse aux Zenma
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,"Almani a besoin d'aide pour réduire la population de Zenma, car ils posent des problèmes de reforestation dans les montagnes de Gouthan. Peux-tu en tuer 15 ?"
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,Tu peux trouver les Zenma volant au-dessus des montagnes de Gouthan.
+PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","Hé, regarde, un rat volant !"
+PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?","Almani a besoin d'aide pour exterminer des Longwings, car ils attaquent des civils. Peux-tu en tuer 15 ?"
+PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Tu peux trouver les Longwings volant au sud-est de la Cage de Clockworks dans les montagnes.
 PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Bébé Meteonyker
-PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?","Almani a besoin d'aide pour tuer des Fafnir, avant qu'ils ne grandissent et deviennent des dragons ! Peux-tu en tuer 15?"
-PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Tu peux trouver des Fafnir en vol proche du volcan à Brekin, à Darkon 3."
-PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Oiseaux Préhistoriques
-PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,Almani a besoin d'aide pour tuer des Gorrudas. Il s'agit d'une menace imminente ! Peux-tu en tuer 15?
-PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.","Tu peux trouver les Gorrudas en vol à l'Est de la Désolation, derrière les montagnes."
-PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Cirque en vol (2)
-PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
-PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
-PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)","Hé, un rat volant ! (2)"
-PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
-PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?","Almani a besoin d'aide pour exterminer des Fafnirs avant qu'ils ne deviennent des dragons ! Peux-tu en tuer 15 ?"
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Tu peux trouver des Fafnirs volant près du volcan à Brekin, à Darkon 3."
+PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Oiseaux préhistoriques
+PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,Almani a besoin d'aide pour exterminer des Gorrudas. C'est une menace imminente ! Peux-tu en tuer 15 ?
+PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.","Tu peux trouver les Gorrudas volant à l'ouest de la Désolation, au-dessus des montagnes."
+PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Cirque volant (2)
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior demande de l'aide supplémentaire concernant la menace Rockepeller. Peux-tu éliminer le Seigneur Rockepeller ?
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,Tu peux trouver le Seigneur Rockepeller volant entre Flaris et Darkon.
+PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)","Hé, regarde, un rat volant ! (2)"
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani demande de l'aide supplémentaire concernant la menace Longwings. Peux-tu éliminer le Seigneur Longwing ?
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,Tu peux trouver le Seigneur Longwing volant au sud-est de la Cage de Clockworks dans les montagnes.
 PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),Bébé Meteonyker (2)
-PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
-PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
-PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),Oiseaux Préhistoriques (2)
-PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
-PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.","Tu peux trouver le $QUEST_END_KILL_NAME$ en vol à l'ouest de la Désolation, derrière les montagnes."
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani demande de l'aide supplémentaire concernant la menace Fafnir. Peux-tu éliminer le Seigneur Fafnir ?
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","Tu peux trouver le Seigneur Fafnir volant près du volcan à Brekin, à Darkon 3."
+PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),Oiseaux préhistoriques (2)
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani demande de l'aide supplémentaire concernant la menace Gorruda. Peux-tu éliminer le Seigneur Gorruda ?
+PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.","Tu peux trouver le $QUEST_END_KILL_NAME$ volant à l'ouest de la Désolation, au-dessus des montagnes."
 PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),Chasse aux Zenma (2)
-PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
-PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani demande de l'aide supplémentaire concernant la menace Zenma. Peux-tu éliminer le Seigneur Zenma ?
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,Tu peux trouver le Seigneur Zenma volant au-dessus des montagnes de Gouthan.
 PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,Vous pouvez obtenir $QUEST_END_ITEM_NAME$ sur n'importe quel type de Kimeradon.
 PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,Vous pouvez obtenir $QUEST_END_ITEM_NAME$ sur n'importe quel type de Bearnerky.
 PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,Vous pouvez obtenir $QUEST_END_ITEM_NAME$ sur n'importe quel type de Muffrin.

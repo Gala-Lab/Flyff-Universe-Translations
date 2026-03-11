@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPCTRL_TXT_000000,Small Treasure Chest,Petit Trésor
 PROPCTRL_TXT_000002,Small Treasure Chest(Vertical),Petit Trésor (Vertical)
 PROPCTRL_TXT_000004,FlDungeon Lever,Levier du donjon
@@ -171,7 +171,7 @@ PROPCTRL_TXT_000191,Common Wooden Barrel 1,Tonneau en Bois Commun 1
 PROPCTRL_TXT_000192,Common Wooden Barrel Pile 1,Piles de Tonneaux en Bois Communs 1
 PROPCTRL_TXT_000193,Common Flowers 1,Fleurs Communes 1
 PROPCTRL_TXT_000194,Common Grass 1,Herbe Commune 1
-PROPCTRL_TXT_000195,Common Mushroom 1,Common Mushroom 1
+PROPCTRL_TXT_000195,Common Mushroom 1,Champignon commun 1
 PROPCTRL_TXT_000196,Common Rock 1,Pierre Commune 1
 PROPCTRL_TXT_000197,Common Autumn Tree,Arbre d'Automne Commun
 PROPCTRL_TXT_000198,Common Sakura Tree 1,Cerisier Sakura Commun 1
@@ -295,65 +295,65 @@ PROPCTRL_TXT_000315,Crate Ceiling,Plafond en Caisse
 PROPCTRL_TXT_000316,Platform Ceiling,Plafond de Plateforme
 PROPCTRL_TXT_000317,Light Plank Ceiling,Plafond en planches claires
 PROPCTRL_TXT_000318,Light Brick Ceiling,Plafond en briques claires
-PROPCTRL_TXT_000319,Scrap Wood Ceiling,Scrap Wood Ceiling
-PROPCTRL_TXT_000320,Pale Wood Ceiling,Pale Wood Ceiling
-PROPCTRL_TXT_000321,Mossy Brick Ceiling,Mossy Brick Ceiling
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,Plafond en bois de récupération
+PROPCTRL_TXT_000320,Pale Wood Ceiling,Plafond en bois pâle
+PROPCTRL_TXT_000321,Mossy Brick Ceiling,Plafond en briques moussues
 PROPCTRL_TXT_000322,Shipwreck Ceiling,Plafond d'épave
-PROPCTRL_TXT_000323,Construction Ceiling,Construction Ceiling
-PROPCTRL_TXT_000324,Mars Ceiling,Mars Ceiling
-PROPCTRL_TXT_000325,Forsaken Brick Ceiling,Plafond en briques Oublié
-PROPCTRL_TXT_000326,Ominous Ceiling,Ominous Ceiling
-PROPCTRL_TXT_000327,Golden Ceiling,Golden Ceiling
-PROPCTRL_TXT_000328,Bordered Secret Ceiling,Plafond Secret avec bordure
-PROPCTRL_TXT_000329,Plain Secret Ceiling,Plafond Secret simple
-PROPCTRL_TXT_000330,Darkon Wooden Plain Ceiling,Darkon Wooden Plain Ceiling
-PROPCTRL_TXT_000331,Darkon Wooden Mosaic Ceiling,Darkon Wooden Mosaic Ceiling
-PROPCTRL_TXT_000332,Forsaken Blue Ceiling,Plafond bleu Oublié
-PROPCTRL_TXT_000333,Plain Forsaken Blue Ceiling,Plafond bleu Oublié simple
-PROPCTRL_TXT_000334,Wilds Ceiling,Wilds Ceiling
-PROPCTRL_TXT_000335,Pebble Ceiling,Pebble Ceiling
-PROPCTRL_TXT_000336,Fortress Ceiling,Fortress Ceiling
-PROPCTRL_TXT_000337,Cracked Ceiling,Cracked Ceiling
-PROPCTRL_TXT_000338,Volcanic Ceiling,Volcanic Ceiling
-PROPCTRL_TXT_000339,Modern Ceiling,Modern Ceiling
-PROPCTRL_TXT_000340,Pipe Ceiling,Pipe Ceiling
-PROPCTRL_TXT_000341,Darkon Metal Mosaic Ceiling,Darkon Metal Mosaic Ceiling
-PROPCTRL_TXT_000342,Darkon Metal Grid Lattice Ceiling,Darkon Metal Grid Lattice Ceiling
-PROPCTRL_TXT_000343,Darkon Metal Plain Ceiling,Darkon Metal Plain Ceiling
-PROPCTRL_TXT_000344,Forged Ceiling,Forged Ceiling
-PROPCTRL_TXT_000345,Industrial Ceiling,Industrial Ceiling
-PROPCTRL_TXT_000346,Colosseum Ceiling,Colosseum Ceiling
-PROPCTRL_TXT_000347,Dungeon Ceiling,Dungeon Ceiling
-PROPCTRL_TXT_000348,Bright Wooden Ceiling,Bright Wooden Ceiling
-PROPCTRL_TXT_000349,Honey Wooden Ceiling,Honey Wooden Ceiling
-PROPCTRL_TXT_000350,Ancient Ceiling,Ancient Ceiling
-PROPCTRL_TXT_000351,Pier Ceiling,Pier Ceiling
-PROPCTRL_TXT_000352,Dark Stacked Wooden Ceiling,Plafond en bois aggloméré sombre
-PROPCTRL_TXT_000353,Light Stacked Wooden Ceiling,Plafond en bois aggloméré clair
-PROPCTRL_TXT_000354,Dark Plank Ceiling,Dark Plank Ceiling
-PROPCTRL_TXT_000355,Cracked Marble Ceiling,Cracked Marble Ceiling
-PROPCTRL_TXT_000356,Battle Ceiling,Battle Ceiling
-PROPCTRL_TXT_000357,Branch Ceiling,Branch Ceiling
-PROPCTRL_TXT_000358,Tree Ceiling,Tree Ceiling
-PROPCTRL_TXT_000359,Royal Carpet Ceiling,Royal Carpet Ceiling
-PROPCTRL_TXT_000360,Rhisis Ceiling,Rhisis Ceiling
-PROPCTRL_TXT_000361,Dirt Ceiling,Dirt Ceiling
-PROPCTRL_TXT_000362,Flarine Ceiling,Flarine Ceiling
-PROPCTRL_TXT_000363,Gravel Ceiling,Gravel Ceiling
-PROPCTRL_TXT_000364,Bordered Plank Ceiling,Plafond en Bois avec bordure
-PROPCTRL_TXT_000365,Common Green Tree 2,Common Green Tree 2
-PROPCTRL_TXT_000366,Common Green Tree 3,Common Green Tree 3
-PROPCTRL_TXT_000367,Common Green Tree 4,Common Green Tree 4
-PROPCTRL_TXT_000368,Common Green Tree 5,Common Green Tree 5
-PROPCTRL_TXT_000369,Common Green Tree 6,Common Green Tree 6
-PROPCTRL_TXT_000370,Common Green Tree 7,Common Green Tree 7
-PROPCTRL_TXT_000371,Common Green Tree 8,Common Green Tree 8
-PROPCTRL_TXT_000372,Common Green Tree 9,Common Green Tree 9
-PROPCTRL_TXT_000373,Common Green Tree 10,Common Green Tree 10
-PROPCTRL_TXT_000374,Common Green Tree 11,Common Green Tree 11
-PROPCTRL_TXT_000375,Common Green Tree 12,Common Green Tree 12
-PROPCTRL_TXT_000376,Common Green Tree 13,Common Green Tree 13
-PROPCTRL_TXT_000377,Common Green Tree 14,Common Green Tree 14
+PROPCTRL_TXT_000323,Construction Ceiling,Plafond de construction
+PROPCTRL_TXT_000324,Mars Ceiling,Plafond martien
+PROPCTRL_TXT_000325,Forsaken Brick Ceiling,Plafond en briques oublié
+PROPCTRL_TXT_000326,Ominous Ceiling,Plafond inquiétant
+PROPCTRL_TXT_000327,Golden Ceiling,Plafond doré
+PROPCTRL_TXT_000328,Bordered Secret Ceiling,Plafond secret avec bordure
+PROPCTRL_TXT_000329,Plain Secret Ceiling,Plafond secret simple
+PROPCTRL_TXT_000330,Darkon Wooden Plain Ceiling,Plafond simple en bois de Darkon
+PROPCTRL_TXT_000331,Darkon Wooden Mosaic Ceiling,Plafond en mosaïque de bois de Darkon
+PROPCTRL_TXT_000332,Forsaken Blue Ceiling,Plafond bleu oublié
+PROPCTRL_TXT_000333,Plain Forsaken Blue Ceiling,Plafond bleu oublié simple
+PROPCTRL_TXT_000334,Wilds Ceiling,Plafond sauvage
+PROPCTRL_TXT_000335,Pebble Ceiling,Plafond de galets
+PROPCTRL_TXT_000336,Fortress Ceiling,Plafond de forteresse
+PROPCTRL_TXT_000337,Cracked Ceiling,Plafond fissuré
+PROPCTRL_TXT_000338,Volcanic Ceiling,Plafond volcanique
+PROPCTRL_TXT_000339,Modern Ceiling,Plafond moderne
+PROPCTRL_TXT_000340,Pipe Ceiling,Plafond avec tuyaux
+PROPCTRL_TXT_000341,Darkon Metal Mosaic Ceiling,Plafond en mosaïque métallique de Darkon
+PROPCTRL_TXT_000342,Darkon Metal Grid Lattice Ceiling,Plafond en grille métallique de Darkon
+PROPCTRL_TXT_000343,Darkon Metal Plain Ceiling,Plafond simple en métal de Darkon
+PROPCTRL_TXT_000344,Forged Ceiling,Plafond forgé
+PROPCTRL_TXT_000345,Industrial Ceiling,Plafond industriel
+PROPCTRL_TXT_000346,Colosseum Ceiling,Plafond du colisée
+PROPCTRL_TXT_000347,Dungeon Ceiling,Plafond de donjon
+PROPCTRL_TXT_000348,Bright Wooden Ceiling,Plafond en bois clair
+PROPCTRL_TXT_000349,Honey Wooden Ceiling,Plafond en bois couleur miel
+PROPCTRL_TXT_000350,Ancient Ceiling,Plafond ancien
+PROPCTRL_TXT_000351,Pier Ceiling,Plafond de jetée
+PROPCTRL_TXT_000352,Dark Stacked Wooden Ceiling,Plafond en bois empilé sombre
+PROPCTRL_TXT_000353,Light Stacked Wooden Ceiling,Plafond en bois empilé clair
+PROPCTRL_TXT_000354,Dark Plank Ceiling,Plafond en planches sombres
+PROPCTRL_TXT_000355,Cracked Marble Ceiling,Plafond en marbre fissuré
+PROPCTRL_TXT_000356,Battle Ceiling,Plafond de bataille
+PROPCTRL_TXT_000357,Branch Ceiling,Plafond de branches
+PROPCTRL_TXT_000358,Tree Ceiling,Plafond d'arbre
+PROPCTRL_TXT_000359,Royal Carpet Ceiling,Plafond en tapis royal
+PROPCTRL_TXT_000360,Rhisis Ceiling,Plafond de Rhisis
+PROPCTRL_TXT_000361,Dirt Ceiling,Plafond de terre
+PROPCTRL_TXT_000362,Flarine Ceiling,Plafond de Flarine
+PROPCTRL_TXT_000363,Gravel Ceiling,Plafond de gravier
+PROPCTRL_TXT_000364,Bordered Plank Ceiling,Plafond en planches avec bordure
+PROPCTRL_TXT_000365,Common Green Tree 2,Arbre vert commun 2
+PROPCTRL_TXT_000366,Common Green Tree 3,Arbre vert commun 3
+PROPCTRL_TXT_000367,Common Green Tree 4,Arbre vert commun 4
+PROPCTRL_TXT_000368,Common Green Tree 5,Arbre vert commun 5
+PROPCTRL_TXT_000369,Common Green Tree 6,Arbre vert commun 6
+PROPCTRL_TXT_000370,Common Green Tree 7,Arbre vert commun 7
+PROPCTRL_TXT_000371,Common Green Tree 8,Arbre vert commun 8
+PROPCTRL_TXT_000372,Common Green Tree 9,Arbre vert commun 9
+PROPCTRL_TXT_000373,Common Green Tree 10,Arbre vert commun 10
+PROPCTRL_TXT_000374,Common Green Tree 11,Arbre vert commun 11
+PROPCTRL_TXT_000375,Common Green Tree 12,Arbre vert commun 12
+PROPCTRL_TXT_000376,Common Green Tree 13,Arbre vert commun 13
+PROPCTRL_TXT_000377,Common Green Tree 14,Arbre vert commun 14
 PROPCTRL_TXT_000378,Common Sakura Tree 2,Cerisier Sakura Commun 2
 PROPCTRL_TXT_000379,Common Wooden Box 2,Boîte en Bois Commune 2
 PROPCTRL_TXT_000380,Common Wooden Box Pile 2,Pile de Boîtes en Bois Communes 2
@@ -371,28 +371,28 @@ PROPCTRL_TXT_000391,Common Wooden Barrel Pile 7,Piles de Tonneaux en Bois Commun
 PROPCTRL_TXT_000392,Common Wooden Barrel Pile 8,Piles de Tonneaux en Bois Communs 8
 PROPCTRL_TXT_000393,Common Wooden Barrel Pile 9,Piles de Tonneaux en Bois Communs 9
 PROPCTRL_TXT_000394,Common Wooden Barrel Pile 10,Piles de Tonneaux en Bois Communs 10
-PROPCTRL_TXT_000395,Common Flowers 2,Common Flowers 2
-PROPCTRL_TXT_000396,Common Flowers 3,Common Flowers 3
-PROPCTRL_TXT_000397,Common Flowers 4,Common Flowers 4
-PROPCTRL_TXT_000398,Common Flowers 5,Common Flowers 5
-PROPCTRL_TXT_000399,Common Flowers 6,Common Flowers 6
-PROPCTRL_TXT_000400,Common Flowers 7,Common Flowers 7
-PROPCTRL_TXT_000401,Common Flowers 8,Common Flowers 8
-PROPCTRL_TXT_000402,Common Grass 2,Common Grass 2
-PROPCTRL_TXT_000403,Common Grass 3,Common Grass 3
-PROPCTRL_TXT_000404,Common Grass 4,Common Grass 4
-PROPCTRL_TXT_000405,Common Grass 5,Common Grass 5
-PROPCTRL_TXT_000406,Common Grass 6,Common Grass 6
-PROPCTRL_TXT_000407,Common Grass 7,Common Grass 7
-PROPCTRL_TXT_000408,Common Grass 8,Common Grass 8
-PROPCTRL_TXT_000409,Common Grass 9,Common Grass 9
-PROPCTRL_TXT_000410,Common Grass 10,Common Grass 10
-PROPCTRL_TXT_000411,Common Grass 11,Common Grass 11
-PROPCTRL_TXT_000412,Common Grass 12,Common Grass 12
-PROPCTRL_TXT_000413,Common Grass 13,Common Grass 13
-PROPCTRL_TXT_000414,Common Mushroom 2,Common Mushroom 2
-PROPCTRL_TXT_000415,Common Mushroom 3,Common Mushroom 3
-PROPCTRL_TXT_000416,Common Mushroom 4,Common Mushroom 4
+PROPCTRL_TXT_000395,Common Flowers 2,Fleurs communes 2
+PROPCTRL_TXT_000396,Common Flowers 3,Fleurs communes 3
+PROPCTRL_TXT_000397,Common Flowers 4,Fleurs communes 4
+PROPCTRL_TXT_000398,Common Flowers 5,Fleurs communes 5
+PROPCTRL_TXT_000399,Common Flowers 6,Fleurs communes 6
+PROPCTRL_TXT_000400,Common Flowers 7,Fleurs communes 7
+PROPCTRL_TXT_000401,Common Flowers 8,Fleurs communes 8
+PROPCTRL_TXT_000402,Common Grass 2,Herbe commune 2
+PROPCTRL_TXT_000403,Common Grass 3,Herbe commune 3
+PROPCTRL_TXT_000404,Common Grass 4,Herbe commune 4
+PROPCTRL_TXT_000405,Common Grass 5,Herbe commune 5
+PROPCTRL_TXT_000406,Common Grass 6,Herbe commune 6
+PROPCTRL_TXT_000407,Common Grass 7,Herbe commune 7
+PROPCTRL_TXT_000408,Common Grass 8,Herbe commune 8
+PROPCTRL_TXT_000409,Common Grass 9,Herbe commune 9
+PROPCTRL_TXT_000410,Common Grass 10,Herbe commune 10
+PROPCTRL_TXT_000411,Common Grass 11,Herbe commune 11
+PROPCTRL_TXT_000412,Common Grass 12,Herbe commune 12
+PROPCTRL_TXT_000413,Common Grass 13,Herbe commune 13
+PROPCTRL_TXT_000414,Common Mushroom 2,Champignon commun 2
+PROPCTRL_TXT_000415,Common Mushroom 3,Champignon commun 3
+PROPCTRL_TXT_000416,Common Mushroom 4,Champignon commun 4
 PROPCTRL_TXT_000417,Common Rock 2,Pierre Commune 2
 PROPCTRL_TXT_000418,Common Rock 3,Pierre Commune 3
 PROPCTRL_TXT_000419,Common Rock 4,Pierre Commune 4
@@ -531,7 +531,7 @@ PROPCTRL_TXT_000551,Coral Island Coral 12,Corail de l'Île Corail 12
 PROPCTRL_TXT_000552,Coral Island Starfish 2,Étoile de Mer de l'Île Corail 2
 PROPCTRL_TXT_000553,Coral Island Starfish 3,Étoile de Mer de l'Île Corail 3
 PROPCTRL_TXT_000554,Coral Island Table 2,Table de l'Île Corail 2
-PROPCTRL_TXT_000555,Flaris Pot 2,Flaris Pot 2
+PROPCTRL_TXT_000555,Flaris Pot 2,Pot de Flaris 2
 PROPCTRL_TXT_000556,Flaris Fence 2,Clôture de Flaris 2
 PROPCTRL_TXT_000557,Flaris Fence 3,Clôture de Flaris 3
 PROPCTRL_TXT_000558,Flaris Fence 4,Clôture de Flaris 4

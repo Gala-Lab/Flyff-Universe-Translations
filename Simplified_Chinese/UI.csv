@@ -114,7 +114,7 @@ UI_TOOLTIP_ATTACK_BASE,Base Attack:,基础攻击力:
 UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力:
 UI_TOOLTIP_ATTACK,Attack:,攻击力:
 UI_TOOLTIP_DEF_A,Defense:,防御力:
-UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度：%s
+UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度:%s
 UI_TOOLTIP_REQ_JOB,Req Job:,职业:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等级: %d
 UI_TOOLTIP_REQ,Requires %s,Requires %s
@@ -167,8 +167,8 @@ UI_INSTANTMSG_TITLE,Message,信息
 UI_MESSAGE_SEND,Send,发送
 UI_SHOP_TITLE,Shop,商店
 UI_SHOP_ITEMSLIST,Item List,物品列表
-UI_TOOLTIP_PRICE,Price: %s,价格：%s
-UI_TOOLTIP_SELLPRICE,Selling Price: %s,出售价格：%s
+UI_TOOLTIP_PRICE,Price: %s,价格:%s
+UI_TOOLTIP_SELLPRICE,Selling Price: %s,出售价格:%s
 UI_SHOP_FILTER,Search,搜索
 UI_SHOP_LEVEL,By Level,按等级
 UI_SHOP_GENDER,By Gender,按性别
@@ -335,7 +335,7 @@ UI_INSTANTMSG_JOIN,has logged into the game.,玩家登录了游戏。
 UI_OPTION_JOIN_NOTIFICATION,Message alarm,消息提醒
 UI_MESSENGER_MENU_MESSAGE,Message,信息
 UI_MESSENGER_MENU_UNBLOCK,Unblock,解除黑名单
-UI_MESSENGER_MENU_BLOCK,Block,格挡
+UI_MESSENGER_MENU_BLOCK,Block,拉黑
 UI_MESSENGER_MENU_DELETE,Delete,删除
 UI_MESSENGER_MENU_MOVE,Move,移动
 UI_MESSENGER_MENU_TAGSEND,Send a memo,发送留言
@@ -860,7 +860,7 @@ UI_APP_TIPS_TIP,Tips,小提示
 UI_APP_HELP_TIP,Help,帮助
 UI_APP_GUILD_TIP,Manage your Guild.,管理您的公会
 UI_APP_PARTY_TIP,Manage your Party.,管理您的剧团
-UI_APP_COUPLE_TIP,Manage your Couple.,Manage your Couple.
+UI_APP_COUPLE_TIP,Manage your Couple.,管理您的情侣
 UI_APP_MESSENGER_TIP,Manage your Friends List,管理好友列表
 UI_APP_ITEMDURATION_TIP,Displays the duration of Cash Shop items.,显示收费道具的持续时间。
 UI_APP_CASHSHOP_TIP,Opens the Premium Item Shop.,打开精品商城。
@@ -2636,18 +2636,18 @@ UI_LIFE_MASTERY_REGULAR_TREE,Regular looking Tree. You can obtain Common-Uncommo
 UI_LIFE_MASTERY_ORDINALY_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
 UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon Ores.,Regular looking Ore. You can obtain Common-Uncommon Ores.
 UI_PRODUCTION_INGREDIENT,Ingredient,Ingredient
-UI_PRODUCTION_FOOD,Food,餐饮店
+UI_PRODUCTION_FOOD,Food,食物
 UI_PRODUCTION_BUFF,Buff,状态
-UI_PRODUCTION_DRINK,Drink,Drink
+UI_PRODUCTION_DRINK,Drink,饮品
 UI_PRODUCTION_REFRESHER,Refresher,Refresher
-UI_PRODUCTION_PILL,Pill,Pill
-UI_PRODUCTION_FURNITURE,Furniture,Furniture
+UI_PRODUCTION_PILL,Pill,药丸
+UI_PRODUCTION_FURNITURE,Furniture,家具
 UI_PRODUCTION_ACCESSORY,Accessory,首饰
 UI_PRODUCTION_COUPLERING,Couple Ring,恋人戒指(15天)
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
-UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品质: %s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,制作者: %s
+UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品质:%s
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,可叠加: %dx
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,持续: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
@@ -2689,7 +2689,7 @@ UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,排名
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,角色名称
 UI_LIFE_MASTERY_RANKING_JOB,Job,职业
-UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
+UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,精通点数
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,关闭
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,领取奖励
@@ -3223,31 +3223,31 @@ UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthes
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
-UI_TOOLTIP_AXE,Axe,Axe
+UI_TOOLTIP_SWD,Sword,剑
+UI_TOOLTIP_AXE,Axe,斧
 UI_TOOLTIP_CHE,Stick,魔棒
 UI_TOOLTIP_KNU,Knuckle,拳套
 UI_TOOLTIP_WAN,Wand,魔杖
 UI_TOOLTIP_STA,Staff,法杖
 UI_TOOLTIP_YOY,Yo-Yo,飞轮
 UI_TOOLTIP_BOW,Bow,弓
-UI_TOOLTIP_MAGICBOTH,Wand or Staff,Wand or Staff
-UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo or Bow
-UI_TOOLTIP_SWAXE,Sword or Axe,Sword or Axe
+UI_TOOLTIP_MAGICBOTH,Wand or Staff,魔杖或法杖
+UI_TOOLTIP_YOBO,Yo-Yo or Bow,飞轮或弓
+UI_TOOLTIP_SWAXE,Sword or Axe,剑或斧
 UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,武器商店
 UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
-UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Additional Skill Page
-UI_SKILL_CHANGEPAGE_TOOLTIP,Swap skill pages.,Swap skill pages.
-UI_SKILL_CHANGEPAGE_TITLE,Changing Skill Page,Changing Skill Page
+UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,额外技能页
+UI_SKILL_CHANGEPAGE_TOOLTIP,Swap skill pages.,切换技能页。
+UI_SKILL_CHANGEPAGE_TITLE,Changing Skill Page,更改技能页
 UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,Additional Nen Chance
 UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Half Nen Consumption Chance
 UI_TOOLTIP_DST_STEALMP,MP Steal,MP Steal
 UI_TOOLTIP_DST_STEALFP,FP Steal,FP Steal
-UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
+UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s 叠加: %d
 UI_OPTION_QUICKCAST,Quick Cast,快捷施法
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,时间:
 UI_DUNGEONTIMERECAP_CLOSE,Close,关闭
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
