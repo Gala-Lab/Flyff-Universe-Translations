@@ -462,7 +462,7 @@ TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.
 TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.
 TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.
 TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.
-TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Successful!
 TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.
 TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.
 TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?
@@ -732,7 +732,7 @@ TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!
 TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.
 TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.
-TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Successful!
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.
@@ -1084,7 +1084,7 @@ TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.
-TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Successful!
 TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.
@@ -1421,6 +1421,7 @@ TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please t
 TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_ALREADY_SELECTED,You are already selected expertise.
 TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.
