@@ -983,7 +983,7 @@ TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Vous 
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Vous avez trop d'ensembles d'équipement !
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,Ensemble d'équipement %s créé avec succès !
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,Ensemble d'équipement %s supprimé avec succès !
-TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.,Vous n'avez plus accès à cet ensemble d'équipement. Vous devez avoir le battle pass pour ça.
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.,Ce préréglage est uniquement disponible avec le Passe de combat étendu de Flyff.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,Vous ne pouvez ajouter %s à l'ensemble d'équipement. Conditions non remplies.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,Vous devez équiper l'objet une première fois avant de l'ajouter à un ensemble.
 TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,Veuillez patienter un peu avant de changer d'ensemble.
