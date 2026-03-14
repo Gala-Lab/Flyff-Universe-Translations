@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -2633,7 +2633,7 @@ PROPITEM_TXT_004711,x2 FP Recovery per Second for 15 Min.,Régénération des PF
 PROPITEM_TXT_004712,Cheer,Acclamation
 PROPITEM_TXT_004713,+5% Exp. for 10 Minutes. Legend has it that it also works as a good luck charm!,Augmente de 5% l'Exp pendant 10 min. La légende raconte que c'est également un talisman de chance !
 PROPITEM_TXT_004714,Scroll of Amplification ES,Parchemin Spécial d'Amplification
-PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,"Parchemin augmentant l'expérience acquise de 50% pendant 1h (EXPx1,5)"
+PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,"Parchemin augmentant l'expérience acquise de 50% pendant 1h (EXPx1,5) Ce bonus n'est pas cumulable."
 PROPITEM_TXT_004716,Scroll of Amplification EM,Parchemin de Grande Maîtrise
 PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,Parchemin augmentant l'expérience acquise de 100% pendant 1h (EXP x2).
 PROPITEM_TXT_004718,Scroll of Amplification DR,Parchemin de Prospérité
@@ -4407,7 +4407,7 @@ PROPITEM_TXT_007845,Traditional Korean Hanbok set for Female characters (Lasts 7
 PROPITEM_TXT_007846,Strawberry milkshake,Milkshake à la fraise
 PROPITEM_TXT_007848,Christmas Gift,Cadeau de Noël
 PROPITEM_TXT_007850,Rudolph's Nose,Nez de Rudolf
-PROPITEM_TXT_007852,Santa's Cookie,Santa's Cookie
+PROPITEM_TXT_007852,Santa's Cookie,Biscuit du Père Noël
 PROPITEM_TXT_007853,"Then we'll eat a whole roll of Cookie Dough as fast as we can, and then we'll snuggle!","biscuit offert par le Père Noël et régénérant instantanément 9,999 PV"
 PROPITEM_TXT_007854,Santa Trans (Lasts 30 Minutes),Morph : Père Noël (30 min)
 PROPITEM_TXT_007856,Male Santa Hat (7 Days),Bonnet de Noël (G) (7 jours)
@@ -4727,7 +4727,7 @@ PROPITEM_TXT_013480,Piyoko,Coocoon Boulonium
 PROPITEM_TXT_013481,One of the cutest (and fastest) rides in all of Madrigal.,Il n'en a pas l'air mais il bat tous les monstres volants en vitesse pure.
 PROPITEM_TXT_014516,Piyoco,Coocoon boulonium
 PROPITEM_TXT_014517,,Vitesse max : 59 km/h.
-PROPITEM_TXT_014524,Blue Bike,Blue Bike
+PROPITEM_TXT_014524,Blue Bike,Vélo bleu
 PROPITEM_TXT_015134,Super Chameleon,Super Caméléon
 PROPITEM_TXT_015135,Cha-me-ha-le-on! Only the Bat chameleon can beat him.,Ce saurien rigolo vous fera traverser les cieux.
 PROPITEM_TXT_016115,Golden Glory wings,Glorieuses ailes dorées
@@ -4740,12 +4740,12 @@ PROPITEM_TXT_016133,Galaxy Guitar,Guitare pan-galactique
 PROPITEM_TXT_016134,"A slick guitar that when played, the universe stops and listens.","Quand vous l'accordez, tout l'univers en bave !"
 PROPITEM_TXT_016155,Mystic Broom of the Wind,Balais Oryctolagus
 PROPITEM_TXT_016156,This mystical broom was used by Rhisis to sweep some autumn leaves.,Je suis en retard ! En retard ! En retard !
-PROPITEM_TXT_016817,Super Chameleon 2015,Super Chameleon 2015
+PROPITEM_TXT_016817,Super Chameleon 2015,Super Caméléon 2015
 PROPITEM_TXT_016818,,Vitesse max : 66 km/h.
 PROPITEM_TXT_017855,Cute Wooden Horse S,Adorable Cheval de Bois S
 PROPITEM_TXT_017856,A mysterious Wooden Horse that can move very fast.,Un mystérieux Cheval de Bois à la vitesse exceptionnelle.
 PROPITEM_TXT_017879,Meteonyker's Wings,Ailes Météorologiques
-PROPITEM_TXT_018995,PlayPark XP Angelic Wings,PlayPark XP Angelic Wings
+PROPITEM_TXT_018995,PlayPark XP Angelic Wings,Ailes Angéliques PlayPark XP
 PROPITEM_TXT_018997,Red Butterfly Wings,Ailes de papillon rouges
 PROPITEM_TXT_019757,Blue Bike,Motocyclette Bleue
 PROPITEM_TXT_019758,,Vitesse max : 55 km/h.
@@ -7525,7 +7525,7 @@ PROPITEM_TXT_100961,Cyclops X Life Gem,Gemme de vie de Cyclope X
 PROPITEM_TXT_102038,Tooth of Leyena,Dent de Leyena
 PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,Une dent de monstre affamé. Apportez-la à Chonjang en ville!!
 PROPITEM_TXT_008902,Red Chips,Jeton Rouge
-PROPITEM_TXT_008903,Guild Siege reward. Used to buy items from Waforu.,Jeton avec lequel vous pouvez acheter des objets à Waforu.
+PROPITEM_TXT_008903,Guild Siege reward. Used to buy items from Waforu.,Jeton avec lequel vous pouvez acheter des objets à Charles.
 PROPITEM_TXT_009208,Obsidian Cruentus Armor Set (M),Armure Cruentus Obsidienne (G)
 PROPITEM_TXT_009209,Level 120 PvP Knight Set.,Armure JcJ pour chevalier de niveau 120.
 PROPITEM_TXT_009210,Obsidian Noctis Armor Set (M),Armure Noctis Obsidienne (G)
@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,Pièce d'Or Kalgas
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",Objet de réapparition instantanée utilisable un nombre illimité de fois lors de la participation à l'Assaut Kalgas. Réapparaît immédiatement au point de départ sans temps d'attente.
 PROPITEM_TXT_131427,Kalgas Chip,Jeton Kalgas
-PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,Échangez ce jeton Kalgas auprès de Waforu pour obtenir de super récompenses !
+PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,Échangez ce jeton Kalgas auprès de Charles pour obtenir de super récompenses !
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Set Saint-Valentin 2024 10% Rouge
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),Set Saint-Valentin 2024 10% Rouge (H)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,Le set Saint-Valentin 2024 10% Rouge pour personnages masculins.
@@ -17358,7 +17358,7 @@ PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Objet de quête lâché
 PROPITEM_TXT_140052,Cursed Wing,Aile Maudite
 PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Objet de quête lâché par les Skelmaw. [Contribution Guilde : 73].
 PROPITEM_TXT_131906,Yellow Chips,Jeton Jaunes
-PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi Madrigal (Utilisée pour acheter des objets auprès de Waforu)
+PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi Madrigal (Utilisée pour acheter des objets auprès de Charles)
 PROPITEM_TXT_131908,This will give you a new template for your couple house!,Cela vous donnera un nouveau modèle pour votre maison de couple !
 PROPITEM_TXT_131909,Blank House Template (M) (Couple),Modèle Maison Vide (M) (Couple)
 PROPITEM_TXT_131910,Beach World Template (M) (Couple),Modèle Monde Plage (M) (Couple)
@@ -26118,240 +26118,240 @@ PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to re
 PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Boîte d'Apparence d'Arme Chocolatier Adorable
 PROPITEM_TXT_903247,Select your favorite color!,Sélectionnez votre couleur préférée !
 PROPITEM_TXT_903248,Stretching Emote,Mouvement d'Étirement
-PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
-PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked."
-PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
-PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.
-PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
-PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
-PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
-PROPITEM_TXT_903256,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked."
-PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,Guardian Easter Bunny Pet Select Box
-PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,Select which Guardian Easter Bunny Pet you want to receive!
-PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,Jeff's 2026 Easter Egg
-PROPITEM_TXT_903260,Good luck Adventurer !,Good luck Adventurer !
-PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Pixel Rabbit Pet Select Box
-PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Select which Pixel Rabbit Pet you want to receive!
-PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayPark Community Gathering Giveaway
-PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked."
-PROPITEM_TXT_903265,Casual Set Select Box,Casual Set Select Box
-PROPITEM_TXT_903266,Select which Gender you want to receive!,Select which Gender you want to receive!
-PROPITEM_TXT_903267,Lucky Clover 10% Green Set,Lucky Clover 10% Green Set
-PROPITEM_TXT_903268,Lucky Clover Green Bag,Lucky Clover Green Bag
-PROPITEM_TXT_903269,Lucky Clover Green Beard,Lucky Clover Green Beard
-PROPITEM_TXT_903270,Lucky Clover Green Hat (M),Lucky Clover Green Hat (M)
-PROPITEM_TXT_903271,Lucky Clover Green Suit (M),Lucky Clover Green Suit (M)
-PROPITEM_TXT_903272,Lucky Clover Green Shoes (M),Lucky Clover Green Shoes (M)
-PROPITEM_TXT_903273,Lucky Clover 10% Green Set (M),Lucky Clover 10% Green Set (M)
-PROPITEM_TXT_903274,The Lucky Clover 10% Green Set for male characters.,The Lucky Clover 10% Green Set for male characters.
-PROPITEM_TXT_903275,Lucky Clover Green Hat (F),Lucky Clover Green Hat (F)
-PROPITEM_TXT_903276,Lucky Clover Green Suit (F),Lucky Clover Green Suit (F)
-PROPITEM_TXT_903277,Lucky Clover Green Shoes (F),Lucky Clover Green Shoes (F)
-PROPITEM_TXT_903278,Lucky Clover 10% Green Set (F),Lucky Clover 10% Green Set (F)
-PROPITEM_TXT_903279,The Lucky Clover 10% Green Set for female characters.,The Lucky Clover 10% Green Set for female characters.
-PROPITEM_TXT_903280,Lucky Clover 10% Red Set,Lucky Clover 10% Red Set
-PROPITEM_TXT_903281,Lucky Clover Red Bag,Lucky Clover Red Bag
-PROPITEM_TXT_903282,Lucky Clover Red Beard,Lucky Clover Red Beard
-PROPITEM_TXT_903283,Lucky Clover Red Hat (M),Lucky Clover Red Hat (M)
-PROPITEM_TXT_903284,Lucky Clover Red Suit (M),Lucky Clover Red Suit (M)
-PROPITEM_TXT_903285,Lucky Clover Red Shoes (M),Lucky Clover Red Shoes (M)
-PROPITEM_TXT_903286,Lucky Clover 10% Red Set (M),Lucky Clover 10% Red Set (M)
-PROPITEM_TXT_903287,The Lucky Clover 10% Red Set for male characters.,The Lucky Clover 10% Red Set for male characters.
-PROPITEM_TXT_903288,Lucky Clover Red Hat (F),Lucky Clover Red Hat (F)
-PROPITEM_TXT_903289,Lucky Clover Red Suit (F),Lucky Clover Red Suit (F)
-PROPITEM_TXT_903290,Lucky Clover Red Shoes (F),Lucky Clover Red Shoes (F)
-PROPITEM_TXT_903291,Lucky Clover 10% Red Set (F),Lucky Clover 10% Red Set (F)
-PROPITEM_TXT_903292,The Lucky Clover 10% Red Set for female characters.,The Lucky Clover 10% Red Set for female characters.
-PROPITEM_TXT_903293,Lucky Clover 8% Blue Set,Lucky Clover 8% Blue Set
-PROPITEM_TXT_903294,Lucky Clover Blue Bag,Lucky Clover Blue Bag
-PROPITEM_TXT_903295,Lucky Clover Blue Beard,Lucky Clover Blue Beard
-PROPITEM_TXT_903296,Lucky Clover Blue Hat (M),Lucky Clover Blue Hat (M)
-PROPITEM_TXT_903297,Lucky Clover Blue Suit (M),Lucky Clover Blue Suit (M)
-PROPITEM_TXT_903298,Lucky Clover Blue Shoes (M),Lucky Clover Blue Shoes (M)
-PROPITEM_TXT_903299,Lucky Clover 8% Blue Set (M),Lucky Clover 8% Blue Set (M)
-PROPITEM_TXT_903300,The Lucky Clover 8% Blue Set for male characters.,The Lucky Clover 8% Blue Set for male characters.
-PROPITEM_TXT_903301,Lucky Clover Blue Hat (F),Lucky Clover Blue Hat (F)
-PROPITEM_TXT_903302,Lucky Clover Blue Suit (F),Lucky Clover Blue Suit (F)
-PROPITEM_TXT_903303,Lucky Clover Blue Shoes (F),Lucky Clover Blue Shoes (F)
-PROPITEM_TXT_903304,Lucky Clover 8% Blue Set (F),Lucky Clover 8% Blue Set (F)
-PROPITEM_TXT_903305,The Lucky Clover 8% Blue Set for female characters.,The Lucky Clover 8% Blue Set for female characters.
-PROPITEM_TXT_903306,Lucky Clover 8% Purple Set,Lucky Clover 8% Purple Set
-PROPITEM_TXT_903307,Lucky Clover Purple Bag,Lucky Clover Purple Bag
-PROPITEM_TXT_903308,Lucky Clover Purple Beard,Lucky Clover Purple Beard
-PROPITEM_TXT_903309,Lucky Clover Purple Hat (M),Lucky Clover Purple Hat (M)
-PROPITEM_TXT_903310,Lucky Clover Purple Suit (M),Lucky Clover Purple Suit (M)
-PROPITEM_TXT_903311,Lucky Clover Purple Shoes (M),Lucky Clover Purple Shoes (M)
-PROPITEM_TXT_903312,Lucky Clover 8% Purple Set (M),Lucky Clover 8% Purple Set (M)
-PROPITEM_TXT_903313,The Lucky Clover 8% Purple Set for male characters.,The Lucky Clover 8% Purple Set for male characters.
-PROPITEM_TXT_903314,Lucky Clover Purple Hat (F),Lucky Clover Purple Hat (F)
-PROPITEM_TXT_903315,Lucky Clover Purple Suit (F),Lucky Clover Purple Suit (F)
-PROPITEM_TXT_903316,Lucky Clover Purple Shoes (F),Lucky Clover Purple Shoes (F)
-PROPITEM_TXT_903317,Lucky Clover 8% Purple Set (F),Lucky Clover 8% Purple Set (F)
-PROPITEM_TXT_903318,The Lucky Clover 8% Purple Set for female characters.,The Lucky Clover 8% Purple Set for female characters.
-PROPITEM_TXT_903319,Lucky Clover 6% Pink Set,Lucky Clover 6% Pink Set
-PROPITEM_TXT_903320,Lucky Clover Pink Bag,Lucky Clover Pink Bag
-PROPITEM_TXT_903321,Lucky Clover Pink Beard,Lucky Clover Pink Beard
-PROPITEM_TXT_903322,Lucky Clover Pink Hat (M),Lucky Clover Pink Hat (M)
-PROPITEM_TXT_903323,Lucky Clover Pink Suit (M),Lucky Clover Pink Suit (M)
-PROPITEM_TXT_903324,Lucky Clover Pink Shoes (M),Lucky Clover Pink Shoes (M)
-PROPITEM_TXT_903325,Lucky Clover 6% Pink Set (M),Lucky Clover 6% Pink Set (M)
-PROPITEM_TXT_903326,The Lucky Clover 6% Pink Set for male characters.,The Lucky Clover 6% Pink Set for male characters.
-PROPITEM_TXT_903327,Lucky Clover Pink Hat (F),Lucky Clover Pink Hat (F)
-PROPITEM_TXT_903328,Lucky Clover Pink Suit (F),Lucky Clover Pink Suit (F)
-PROPITEM_TXT_903329,Lucky Clover Pink Shoes (F),Lucky Clover Pink Shoes (F)
-PROPITEM_TXT_903330,Lucky Clover 6% Pink Set (F),Lucky Clover 6% Pink Set (F)
-PROPITEM_TXT_903331,The Lucky Clover 6% Pink Set for female characters.,The Lucky Clover 6% Pink Set for female characters.
-PROPITEM_TXT_903332,Lucky Clover 4% Brown Set,Lucky Clover 4% Brown Set
-PROPITEM_TXT_903333,Lucky Clover Brown Bag,Lucky Clover Brown Bag
-PROPITEM_TXT_903334,Lucky Clover Brown Beard,Lucky Clover Brown Beard
-PROPITEM_TXT_903335,Lucky Clover Brown Hat (M),Lucky Clover Brown Hat (M)
-PROPITEM_TXT_903336,Lucky Clover Brown Suit (M),Lucky Clover Brown Suit (M)
-PROPITEM_TXT_903337,Lucky Clover Brown Shoes (M),Lucky Clover Brown Shoes (M)
-PROPITEM_TXT_903338,Lucky Clover 4% Brown Set (M),Lucky Clover 4% Brown Set (M)
-PROPITEM_TXT_903339,The Lucky Clover 4% Brown Set for male characters.,The Lucky Clover 4% Brown Set for male characters.
-PROPITEM_TXT_903340,Lucky Clover Brown Hat (F),Lucky Clover Brown Hat (F)
-PROPITEM_TXT_903341,Lucky Clover Brown Suit (F),Lucky Clover Brown Suit (F)
-PROPITEM_TXT_903342,Lucky Clover Brown Shoes (F),Lucky Clover Brown Shoes (F)
-PROPITEM_TXT_903343,Lucky Clover 4% Brown Set (F),Lucky Clover 4% Brown Set (F)
-PROPITEM_TXT_903344,The Lucky Clover 4% Brown Set for female characters.,The Lucky Clover 4% Brown Set for female characters.
-PROPITEM_TXT_903345,Lucky Clover 2% Turquoise Set,Lucky Clover 2% Turquoise Set
-PROPITEM_TXT_903346,Lucky Clover Turquoise Bag,Lucky Clover Turquoise Bag
-PROPITEM_TXT_903347,Lucky Clover Turquoise Beard,Lucky Clover Turquoise Beard
-PROPITEM_TXT_903348,Lucky Clover Turquoise Hat (M),Lucky Clover Turquoise Hat (M)
-PROPITEM_TXT_903349,Lucky Clover Turquoise Suit (M),Lucky Clover Turquoise Suit (M)
-PROPITEM_TXT_903350,Lucky Clover Turquoise Shoes (M),Lucky Clover Turquoise Shoes (M)
-PROPITEM_TXT_903351,Lucky Clover 2% Turquoise Set (M),Lucky Clover 2% Turquoise Set (M)
-PROPITEM_TXT_903352,The Lucky Clover 2% Turquoise Set for male characters.,The Lucky Clover 2% Turquoise Set for male characters.
-PROPITEM_TXT_903353,Lucky Clover Turquoise Hat (F),Lucky Clover Turquoise Hat (F)
-PROPITEM_TXT_903354,Lucky Clover Turquoise Suit (F),Lucky Clover Turquoise Suit (F)
-PROPITEM_TXT_903355,Lucky Clover Turquoise Shoes (F),Lucky Clover Turquoise Shoes (F)
-PROPITEM_TXT_903356,Lucky Clover 2% Turquoise Set (F),Lucky Clover 2% Turquoise Set (F)
-PROPITEM_TXT_903357,The Lucky Clover 2% Turquoise Set for female characters.,The Lucky Clover 2% Turquoise Set for female characters.
-PROPITEM_TXT_903358,Lucky Clover 2% Black Set,Lucky Clover 2% Black Set
-PROPITEM_TXT_903359,Lucky Clover Black Bag,Lucky Clover Black Bag
-PROPITEM_TXT_903360,Lucky Clover Black Beard,Lucky Clover Black Beard
-PROPITEM_TXT_903361,Lucky Clover Black Hat (M),Lucky Clover Black Hat (M)
-PROPITEM_TXT_903362,Lucky Clover Black Suit (M),Lucky Clover Black Suit (M)
-PROPITEM_TXT_903363,Lucky Clover Black Shoes (M),Lucky Clover Black Shoes (M)
-PROPITEM_TXT_903364,Lucky Clover 2% Black Set (M),Lucky Clover 2% Black Set (M)
-PROPITEM_TXT_903365,The Lucky Clover 2% Black Set for male characters.,The Lucky Clover 2% Black Set for male characters.
-PROPITEM_TXT_903366,Lucky Clover Black Hat (F),Lucky Clover Black Hat (F)
-PROPITEM_TXT_903367,Lucky Clover Black Suit (F),Lucky Clover Black Suit (F)
-PROPITEM_TXT_903368,Lucky Clover Black Shoes (F),Lucky Clover Black Shoes (F)
-PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),Lucky Clover 2% Black Set (F)
-PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,The Lucky Clover 2% Black Set for female characters.
-PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,Lucky Clover Costume Lucky Box
-PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark All-Stars 2026 Door Prize
-PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.","A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked."
-PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,Lotus Blossom 10% Cyan Set
-PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,Lotus Blossom Cyan Ribbon
-PROPITEM_TXT_903377,Lotus Blossom Cyan Tilak,Lotus Blossom Cyan Tilak
-PROPITEM_TXT_903378,Lotus Blossom Cyan Hat (M),Lotus Blossom Cyan Hat (M)
-PROPITEM_TXT_903379,Lotus Blossom Cyan Suit (M),Lotus Blossom Cyan Suit (M)
-PROPITEM_TXT_903380,Lotus Blossom Cyan Shoes (M),Lotus Blossom Cyan Shoes (M)
-PROPITEM_TXT_903381,Lotus Blossom Cyan Hands (M),Lotus Blossom Cyan Hands (M)
-PROPITEM_TXT_903382,Lotus Blossom 10% Cyan Set (M),Lotus Blossom 10% Cyan Set (M)
-PROPITEM_TXT_903383,The Lotus Blossom 10% Cyan Set for male characters.,The Lotus Blossom 10% Cyan Set for male characters.
-PROPITEM_TXT_903384,Lotus Blossom Cyan Hat (F),Lotus Blossom Cyan Hat (F)
-PROPITEM_TXT_903385,Lotus Blossom Cyan Suit (F),Lotus Blossom Cyan Suit (F)
-PROPITEM_TXT_903386,Lotus Blossom Cyan Shoes (F),Lotus Blossom Cyan Shoes (F)
-PROPITEM_TXT_903387,Lotus Blossom Cyan Hands (F),Lotus Blossom Cyan Hands (F)
-PROPITEM_TXT_903388,Lotus Blossom 10% Cyan Set (F),Lotus Blossom 10% Cyan Set (F)
-PROPITEM_TXT_903389,The Lotus Blossom 10% Cyan Set for female characters.,The Lotus Blossom 10% Cyan Set for female characters.
-PROPITEM_TXT_903390,Lotus Blossom 8% Purple Set,Lotus Blossom 8% Purple Set
-PROPITEM_TXT_903391,Lotus Blossom Purple Ribbon,Lotus Blossom Purple Ribbon
-PROPITEM_TXT_903392,Lotus Blossom Purple Tilak,Lotus Blossom Purple Tilak
-PROPITEM_TXT_903393,Lotus Blossom Purple Hat (M),Lotus Blossom Purple Hat (M)
-PROPITEM_TXT_903394,Lotus Blossom Purple Suit (M),Lotus Blossom Purple Suit (M)
-PROPITEM_TXT_903395,Lotus Blossom Purple Shoes (M),Lotus Blossom Purple Shoes (M)
-PROPITEM_TXT_903396,Lotus Blossom Purple Hands (M),Lotus Blossom Purple Hands (M)
-PROPITEM_TXT_903397,Lotus Blossom 8% Purple Set (M),Lotus Blossom 8% Purple Set (M)
-PROPITEM_TXT_903398,The Lotus Blossom 8% Purple Set for male characters.,The Lotus Blossom 8% Purple Set for male characters.
-PROPITEM_TXT_903399,Lotus Blossom Purple Hat (F),Lotus Blossom Purple Hat (F)
-PROPITEM_TXT_903400,Lotus Blossom Purple Suit (F),Lotus Blossom Purple Suit (F)
-PROPITEM_TXT_903401,Lotus Blossom Purple Shoes (F),Lotus Blossom Purple Shoes (F)
-PROPITEM_TXT_903402,Lotus Blossom Purple Hands (F),Lotus Blossom Purple Hands (F)
-PROPITEM_TXT_903403,Lotus Blossom 8% Purple Set (F),Lotus Blossom 8% Purple Set (F)
-PROPITEM_TXT_903404,The Lotus Blossom 8% Purple Set for female characters.,The Lotus Blossom 8% Purple Set for female characters.
-PROPITEM_TXT_903405,Lotus Blossom 6% Green Set,Lotus Blossom 6% Green Set
-PROPITEM_TXT_903406,Lotus Blossom Green Ribbon,Lotus Blossom Green Ribbon
-PROPITEM_TXT_903407,Lotus Blossom Green Tilak,Lotus Blossom Green Tilak
-PROPITEM_TXT_903408,Lotus Blossom Green Hat (M),Lotus Blossom Green Hat (M)
-PROPITEM_TXT_903409,Lotus Blossom Green Suit (M),Lotus Blossom Green Suit (M)
-PROPITEM_TXT_903410,Lotus Blossom Green Shoes (M),Lotus Blossom Green Shoes (M)
-PROPITEM_TXT_903411,Lotus Blossom Green Hands (M),Lotus Blossom Green Hands (M)
-PROPITEM_TXT_903412,Lotus Blossom 6% Green Set (M),Lotus Blossom 6% Green Set (M)
-PROPITEM_TXT_903413,The Lotus Blossom 6% Green Set for male characters.,The Lotus Blossom 6% Green Set for male characters.
-PROPITEM_TXT_903414,Lotus Blossom Green Hat (F),Lotus Blossom Green Hat (F)
-PROPITEM_TXT_903415,Lotus Blossom Green Suit (F),Lotus Blossom Green Suit (F)
-PROPITEM_TXT_903416,Lotus Blossom Green Shoes (F),Lotus Blossom Green Shoes (F)
-PROPITEM_TXT_903417,Lotus Blossom Green Hands (F),Lotus Blossom Green Hands (F)
-PROPITEM_TXT_903418,Lotus Blossom 6% Green Set (F),Lotus Blossom 6% Green Set (F)
-PROPITEM_TXT_903419,The Lotus Blossom 6% Green Set for female characters.,The Lotus Blossom 6% Green Set for female characters.
-PROPITEM_TXT_903420,Lotus Blossom 4% Blue Set,Lotus Blossom 4% Blue Set
-PROPITEM_TXT_903421,Lotus Blossom Blue Ribbon,Lotus Blossom Blue Ribbon
-PROPITEM_TXT_903422,Lotus Blossom Blue Tilak,Lotus Blossom Blue Tilak
-PROPITEM_TXT_903423,Lotus Blossom Blue Hat (M),Lotus Blossom Blue Hat (M)
-PROPITEM_TXT_903424,Lotus Blossom Blue Suit (M),Lotus Blossom Blue Suit (M)
-PROPITEM_TXT_903425,Lotus Blossom Blue Shoes (M),Lotus Blossom Blue Shoes (M)
-PROPITEM_TXT_903426,Lotus Blossom Blue Hands (M),Lotus Blossom Blue Hands (M)
-PROPITEM_TXT_903427,Lotus Blossom 4% Blue Set (M),Lotus Blossom 4% Blue Set (M)
-PROPITEM_TXT_903428,The Lotus Blossom 4% Blue Set for male characters.,The Lotus Blossom 4% Blue Set for male characters.
-PROPITEM_TXT_903429,Lotus Blossom Blue Hat (F),Lotus Blossom Blue Hat (F)
-PROPITEM_TXT_903430,Lotus Blossom Blue Suit (F),Lotus Blossom Blue Suit (F)
-PROPITEM_TXT_903431,Lotus Blossom Blue Shoes (F),Lotus Blossom Blue Shoes (F)
-PROPITEM_TXT_903432,Lotus Blossom Blue Hands (F),Lotus Blossom Blue Hands (F)
-PROPITEM_TXT_903433,Lotus Blossom 4% Blue Set (F),Lotus Blossom 4% Blue Set (F)
-PROPITEM_TXT_903434,The Lotus Blossom 4% Blue Set for female characters.,The Lotus Blossom 4% Blue Set for female characters.
-PROPITEM_TXT_903435,Lotus Blossom 2% Red Set,Lotus Blossom 2% Red Set
-PROPITEM_TXT_903436,Lotus Blossom Red Ribbon,Lotus Blossom Red Ribbon
-PROPITEM_TXT_903437,Lotus Blossom Red Tilak,Lotus Blossom Red Tilak
-PROPITEM_TXT_903438,Lotus Blossom Red Hat (M),Lotus Blossom Red Hat (M)
-PROPITEM_TXT_903439,Lotus Blossom Red Suit (M),Lotus Blossom Red Suit (M)
-PROPITEM_TXT_903440,Lotus Blossom Red Shoes (M),Lotus Blossom Red Shoes (M)
-PROPITEM_TXT_903441,Lotus Blossom Red Hands (M),Lotus Blossom Red Hands (M)
-PROPITEM_TXT_903442,Lotus Blossom 2% Red Set (M),Lotus Blossom 2% Red Set (M)
-PROPITEM_TXT_903443,The Lotus Blossom 2% Red Set for male characters.,The Lotus Blossom 2% Red Set for male characters.
-PROPITEM_TXT_903444,Lotus Blossom Red Hat (F),Lotus Blossom Red Hat (F)
-PROPITEM_TXT_903445,Lotus Blossom Red Suit (F),Lotus Blossom Red Suit (F)
-PROPITEM_TXT_903446,Lotus Blossom Red Shoes (F),Lotus Blossom Red Shoes (F)
-PROPITEM_TXT_903447,Lotus Blossom Red Hands (F),Lotus Blossom Red Hands (F)
-PROPITEM_TXT_903448,Lotus Blossom 2% Red Set (F),Lotus Blossom 2% Red Set (F)
-PROPITEM_TXT_903449,The Lotus Blossom 2% Red Set for female characters.,The Lotus Blossom 2% Red Set for female characters.
-PROPITEM_TXT_903450,Lotus Blossom 2% Black Set,Lotus Blossom 2% Black Set
-PROPITEM_TXT_903451,Lotus Blossom Black Ribbon,Lotus Blossom Black Ribbon
-PROPITEM_TXT_903452,Lotus Blossom Black Tilak,Lotus Blossom Black Tilak
-PROPITEM_TXT_903453,Lotus Blossom Black Hat (M),Lotus Blossom Black Hat (M)
-PROPITEM_TXT_903454,Lotus Blossom Black Suit (M),Lotus Blossom Black Suit (M)
-PROPITEM_TXT_903455,Lotus Blossom Black Shoes (M),Lotus Blossom Black Shoes (M)
-PROPITEM_TXT_903456,Lotus Blossom Black Hands (M),Lotus Blossom Black Hands (M)
-PROPITEM_TXT_903457,Lotus Blossom 2% Black Set (M),Lotus Blossom 2% Black Set (M)
-PROPITEM_TXT_903458,The Lotus Blossom 2% Black Set for male characters.,The Lotus Blossom 2% Black Set for male characters.
-PROPITEM_TXT_903459,Lotus Blossom Black Hat (F),Lotus Blossom Black Hat (F)
-PROPITEM_TXT_903460,Lotus Blossom Black Suit (F),Lotus Blossom Black Suit (F)
-PROPITEM_TXT_903461,Lotus Blossom Black Shoes (F),Lotus Blossom Black Shoes (F)
-PROPITEM_TXT_903462,Lotus Blossom Black Hands (F),Lotus Blossom Black Hands (F)
-PROPITEM_TXT_903463,Lotus Blossom 2% Black Set (F),Lotus Blossom 2% Black Set (F)
-PROPITEM_TXT_903464,The Lotus Blossom 2% Black Set for female characters.,The Lotus Blossom 2% Black Set for female characters.
-PROPITEM_TXT_903465,Lotus Blossom Costume Lucky Box,Lotus Blossom Costume Lucky Box
-PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lotus Blossom Gold Skyblade 
-PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lotus Blossom Silver Skyblade
-PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lotus Blossom Black Skyblade
-PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Event] 2026 Spring Monster Ball Lv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Event] 2026 Spring Monster Ball Lv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Event] 2026 Spring Monster Ball Lv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Event] 2026 Spring Monster Ball Lv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Event] 2026 Giant Monster Box Lv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Event] 2026 Giant Monster Box Lv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Event] 2026 Giant Monster Box Lv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Event] 2026 Giant Monster Box Lv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Event] 2026 General Monster Box Lv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Event] 2026 General Monster Box Lv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Event] 2026 General Monster Box Lv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Event] 2026 General Monster Box Lv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Box obtained by hunting a Lv4 General monster. Test your Luck today!!
+PROPITEM_TXT_903249,All-in-One Pet Package,Pack Tout-en-Un pour Animal de Compagnie
+PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","Un pack contenant 1x Sac de Nourriture (7 jours), 3x Parchemins de Relance Animal et 3x Transmutation d’Animal. Tous les objets sont liés."
+PROPITEM_TXT_903251,Spring Hunting Package,Pack de Chasse Printanière
+PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,Un pack contenant 3x Parchemins de Réduction A et 3x Parchemins de Réduction B. Tous les objets sont liés.
+PROPITEM_TXT_903253,Elixir Select Box A,Boîte de Sélection d’Élixir A
+PROPITEM_TXT_903254,Select which Elixir you want to receive!,Choisissez l’élixir que vous souhaitez recevoir !
+PROPITEM_TXT_903255,Spring Exp Power Package,Pack d’Exp et Puissance Printanier
+PROPITEM_TXT_903256,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","Un pack contenant 3x Boîtes de Sélection Parchemin ES [20~160], 3x Parchemins de Puissance, 3x Boîtes de Potions et 3x Boîtes de Flacons. Tous les objets sont liés."
+PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,Boîte de Sélection Lapin de Pâques Gardien
+PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,Choisissez le Lapin de Pâques Gardien que vous souhaitez recevoir !
+PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,Œuf de Pâques 2026 de Jeff
+PROPITEM_TXT_903260,Good luck Adventurer !,Bonne chance Aventurier !
+PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Boîte de Sélection Lapin Pixel
+PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Choisissez le Lapin Pixel que vous souhaitez recevoir !
+PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,Cadeau Communautaire PlayPark
+PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.","Un pack contenant 5x Parchemins d’Amplification ES, 5x Pierres Upcut, 5x Parchemins de Puissance, 10x Boîtes de Flacons, 10x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Boîte Skin Arme Ice Crown, 1x Boîte de Sélection Tenue Casual, 1x Boîte de Sélection Vol Madrigal (30 jours) et 1x Boîte de Sélection PickupPet Madrigal (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_903265,Casual Set Select Box,Boîte de Sélection Tenue Casual
+PROPITEM_TXT_903266,Select which Gender you want to receive!,Choisissez le genre que vous souhaitez recevoir !
+PROPITEM_TXT_903267,Lucky Clover 10% Green Set,Set Trèfle Chanceux 10% Vert
+PROPITEM_TXT_903268,Lucky Clover Green Bag,Sac Trèfle Chanceux Vert
+PROPITEM_TXT_903269,Lucky Clover Green Beard,Barbe Trèfle Chanceux Vert
+PROPITEM_TXT_903270,Lucky Clover Green Hat (M),Chapeau Trèfle Chanceux Vert (H)
+PROPITEM_TXT_903271,Lucky Clover Green Suit (M),Tenue Trèfle Chanceux Vert (H)
+PROPITEM_TXT_903272,Lucky Clover Green Shoes (M),Chaussures Trèfle Chanceux Vert (H)
+PROPITEM_TXT_903273,Lucky Clover 10% Green Set (M),Set Trèfle Chanceux 10% Vert (H)
+PROPITEM_TXT_903274,The Lucky Clover 10% Green Set for male characters.,Set Trèfle Chanceux 10% Vert pour personnages masculins
+PROPITEM_TXT_903275,Lucky Clover Green Hat (F),Chapeau Trèfle Chanceux Vert (F)
+PROPITEM_TXT_903276,Lucky Clover Green Suit (F),Tenue Trèfle Chanceux Vert (F)
+PROPITEM_TXT_903277,Lucky Clover Green Shoes (F),Chaussures Trèfle Chanceux Vert (F)
+PROPITEM_TXT_903278,Lucky Clover 10% Green Set (F),Set Trèfle Chanceux 10% Vert (F)
+PROPITEM_TXT_903279,The Lucky Clover 10% Green Set for female characters.,Set Trèfle Chanceux 10% Vert pour personnages féminins
+PROPITEM_TXT_903280,Lucky Clover 10% Red Set,Set Trèfle Chanceux 10% Rouge
+PROPITEM_TXT_903281,Lucky Clover Red Bag,Sac Trèfle Chanceux Rouge
+PROPITEM_TXT_903282,Lucky Clover Red Beard,Barbe Trèfle Chanceux Rouge
+PROPITEM_TXT_903283,Lucky Clover Red Hat (M),Chapeau Trèfle Chanceux Rouge (H)
+PROPITEM_TXT_903284,Lucky Clover Red Suit (M),Tenue Trèfle Chanceux Rouge (H)
+PROPITEM_TXT_903285,Lucky Clover Red Shoes (M),Chaussures Trèfle Chanceux Rouge (H)
+PROPITEM_TXT_903286,Lucky Clover 10% Red Set (M),Set Trèfle Chanceux 10% Rouge (H)
+PROPITEM_TXT_903287,The Lucky Clover 10% Red Set for male characters.,Set Trèfle Chanceux 10% Rouge pour personnages masculins
+PROPITEM_TXT_903288,Lucky Clover Red Hat (F),Chapeau Trèfle Chanceux Rouge (F)
+PROPITEM_TXT_903289,Lucky Clover Red Suit (F),Tenue Trèfle Chanceux Rouge (F)
+PROPITEM_TXT_903290,Lucky Clover Red Shoes (F),Chaussures Trèfle Chanceux Rouge (F)
+PROPITEM_TXT_903291,Lucky Clover 10% Red Set (F),Set Trèfle Chanceux 10% Rouge (F)
+PROPITEM_TXT_903292,The Lucky Clover 10% Red Set for female characters.,Set Trèfle Chanceux 10% Rouge pour personnages féminins
+PROPITEM_TXT_903293,Lucky Clover 8% Blue Set,Set Trèfle Chanceux 8% Bleu
+PROPITEM_TXT_903294,Lucky Clover Blue Bag,Sac Trèfle Chanceux Bleu
+PROPITEM_TXT_903295,Lucky Clover Blue Beard,Barbe Trèfle Chanceux Bleu
+PROPITEM_TXT_903296,Lucky Clover Blue Hat (M),Chapeau Trèfle Chanceux Bleu (H)
+PROPITEM_TXT_903297,Lucky Clover Blue Suit (M),Tenue Trèfle Chanceux Bleu (H)
+PROPITEM_TXT_903298,Lucky Clover Blue Shoes (M),Chaussures Trèfle Chanceux Bleu (H)
+PROPITEM_TXT_903299,Lucky Clover 8% Blue Set (M),Set Trèfle Chanceux 8% Bleu (H)
+PROPITEM_TXT_903300,The Lucky Clover 8% Blue Set for male characters.,Set Trèfle Chanceux 8% Bleu pour personnages masculins
+PROPITEM_TXT_903301,Lucky Clover Blue Hat (F),Chapeau Trèfle Chanceux Bleu (F)
+PROPITEM_TXT_903302,Lucky Clover Blue Suit (F),Tenue Trèfle Chanceux Bleu (F)
+PROPITEM_TXT_903303,Lucky Clover Blue Shoes (F),Chaussures Trèfle Chanceux Bleu (F)
+PROPITEM_TXT_903304,Lucky Clover 8% Blue Set (F),Set Trèfle Chanceux 8% Bleu (F)
+PROPITEM_TXT_903305,The Lucky Clover 8% Blue Set for female characters.,Set Trèfle Chanceux 8% Bleu pour personnages féminins
+PROPITEM_TXT_903306,Lucky Clover 8% Purple Set,Set Trèfle Chanceux 8% Violet
+PROPITEM_TXT_903307,Lucky Clover Purple Bag,Sac Trèfle Chanceux Violet
+PROPITEM_TXT_903308,Lucky Clover Purple Beard,Barbe Trèfle Chanceux Violet
+PROPITEM_TXT_903309,Lucky Clover Purple Hat (M),Chapeau Trèfle Chanceux Violet (H)
+PROPITEM_TXT_903310,Lucky Clover Purple Suit (M),Tenue Trèfle Chanceux Violet (H)
+PROPITEM_TXT_903311,Lucky Clover Purple Shoes (M),Chaussures Trèfle Chanceux Violet (H)
+PROPITEM_TXT_903312,Lucky Clover 8% Purple Set (M),Set Trèfle Chanceux 8% Violet (H)
+PROPITEM_TXT_903313,The Lucky Clover 8% Purple Set for male characters.,Set Trèfle Chanceux 8% Violet pour personnages masculins
+PROPITEM_TXT_903314,Lucky Clover Purple Hat (F),Chapeau Trèfle Chanceux Violet (F)
+PROPITEM_TXT_903315,Lucky Clover Purple Suit (F),Tenue Trèfle Chanceux Violet (F)
+PROPITEM_TXT_903316,Lucky Clover Purple Shoes (F),Chaussures Trèfle Chanceux Violet (F)
+PROPITEM_TXT_903317,Lucky Clover 8% Purple Set (F),Set Trèfle Chanceux 8% Violet (F)
+PROPITEM_TXT_903318,The Lucky Clover 8% Purple Set for female characters.,Set Trèfle Chanceux 8% Violet pour personnages féminins
+PROPITEM_TXT_903319,Lucky Clover 6% Pink Set,Set Trèfle Chanceux 6% Rose
+PROPITEM_TXT_903320,Lucky Clover Pink Bag,Sac Trèfle Chanceux Rose
+PROPITEM_TXT_903321,Lucky Clover Pink Beard,Barbe Trèfle Chanceux Rose
+PROPITEM_TXT_903322,Lucky Clover Pink Hat (M),Chapeau Trèfle Chanceux Rose (H)
+PROPITEM_TXT_903323,Lucky Clover Pink Suit (M),Tenue Trèfle Chanceux Rose (H)
+PROPITEM_TXT_903324,Lucky Clover Pink Shoes (M),Chaussures Trèfle Chanceux Rose (H)
+PROPITEM_TXT_903325,Lucky Clover 6% Pink Set (M),Set Trèfle Chanceux 6% Rose (H)
+PROPITEM_TXT_903326,The Lucky Clover 6% Pink Set for male characters.,Set Trèfle Chanceux 6% Rose pour personnages masculins
+PROPITEM_TXT_903327,Lucky Clover Pink Hat (F),Chapeau Trèfle Chanceux Rose (F)
+PROPITEM_TXT_903328,Lucky Clover Pink Suit (F),Tenue Trèfle Chanceux Rose (F)
+PROPITEM_TXT_903329,Lucky Clover Pink Shoes (F),Chaussures Trèfle Chanceux Rose (F)
+PROPITEM_TXT_903330,Lucky Clover 6% Pink Set (F),Set Trèfle Chanceux 6% Rose (F)
+PROPITEM_TXT_903331,The Lucky Clover 6% Pink Set for female characters.,Set Trèfle Chanceux 6% Rose pour personnages féminins
+PROPITEM_TXT_903332,Lucky Clover 4% Brown Set,Set Trèfle Chanceux 4% Marron
+PROPITEM_TXT_903333,Lucky Clover Brown Bag,Sac Trèfle Chanceux Marron
+PROPITEM_TXT_903334,Lucky Clover Brown Beard,Barbe Trèfle Chanceux Marron
+PROPITEM_TXT_903335,Lucky Clover Brown Hat (M),Chapeau Trèfle Chanceux Marron (H)
+PROPITEM_TXT_903336,Lucky Clover Brown Suit (M),Tenue Trèfle Chanceux Marron (H)
+PROPITEM_TXT_903337,Lucky Clover Brown Shoes (M),Chaussures Trèfle Chanceux Marron (H)
+PROPITEM_TXT_903338,Lucky Clover 4% Brown Set (M),Set Trèfle Chanceux 4% Marron (H)
+PROPITEM_TXT_903339,The Lucky Clover 4% Brown Set for male characters.,Set Trèfle Chanceux 4% Marron pour personnages masculins
+PROPITEM_TXT_903340,Lucky Clover Brown Hat (F),Chapeau Trèfle Chanceux Marron (F)
+PROPITEM_TXT_903341,Lucky Clover Brown Suit (F),Tenue Trèfle Chanceux Marron (F)
+PROPITEM_TXT_903342,Lucky Clover Brown Shoes (F),Chaussures Trèfle Chanceux Marron (F)
+PROPITEM_TXT_903343,Lucky Clover 4% Brown Set (F),Set Trèfle Chanceux 4% Marron (F)
+PROPITEM_TXT_903344,The Lucky Clover 4% Brown Set for female characters.,Set Trèfle Chanceux 4% Marron pour personnages féminins
+PROPITEM_TXT_903345,Lucky Clover 2% Turquoise Set,Set Trèfle Chanceux 2% Turquoise
+PROPITEM_TXT_903346,Lucky Clover Turquoise Bag,Sac Trèfle Chanceux Turquoise
+PROPITEM_TXT_903347,Lucky Clover Turquoise Beard,Barbe Trèfle Chanceux Turquoise
+PROPITEM_TXT_903348,Lucky Clover Turquoise Hat (M),Chapeau Trèfle Chanceux Turquoise (H)
+PROPITEM_TXT_903349,Lucky Clover Turquoise Suit (M),Tenue Trèfle Chanceux Turquoise (H)
+PROPITEM_TXT_903350,Lucky Clover Turquoise Shoes (M),Chaussures Trèfle Chanceux Turquoise (H)
+PROPITEM_TXT_903351,Lucky Clover 2% Turquoise Set (M),Set Trèfle Chanceux 2% Turquoise (H)
+PROPITEM_TXT_903352,The Lucky Clover 2% Turquoise Set for male characters.,Set Trèfle Chanceux 2% Turquoise pour personnages masculins
+PROPITEM_TXT_903353,Lucky Clover Turquoise Hat (F),Chapeau Trèfle Chanceux Turquoise (F)
+PROPITEM_TXT_903354,Lucky Clover Turquoise Suit (F),Tenue Trèfle Chanceux Turquoise (F)
+PROPITEM_TXT_903355,Lucky Clover Turquoise Shoes (F),Chaussures Trèfle Chanceux Turquoise (F)
+PROPITEM_TXT_903356,Lucky Clover 2% Turquoise Set (F),Set Trèfle Chanceux 2% Turquoise (F)
+PROPITEM_TXT_903357,The Lucky Clover 2% Turquoise Set for female characters.,Set Trèfle Chanceux 2% Turquoise pour personnages féminins
+PROPITEM_TXT_903358,Lucky Clover 2% Black Set,Set Trèfle Chanceux 2% Noir
+PROPITEM_TXT_903359,Lucky Clover Black Bag,Sac Trèfle Chanceux Noir
+PROPITEM_TXT_903360,Lucky Clover Black Beard,Barbe Trèfle Chanceux Noir
+PROPITEM_TXT_903361,Lucky Clover Black Hat (M),Chapeau Trèfle Chanceux Noir (H)
+PROPITEM_TXT_903362,Lucky Clover Black Suit (M),Tenue Trèfle Chanceux Noir (H)
+PROPITEM_TXT_903363,Lucky Clover Black Shoes (M),Chaussures Trèfle Chanceux Noir (H)
+PROPITEM_TXT_903364,Lucky Clover 2% Black Set (M),Set Trèfle Chanceux 2% Noir (H)
+PROPITEM_TXT_903365,The Lucky Clover 2% Black Set for male characters.,Set Trèfle Chanceux 2% Noir pour personnages masculins
+PROPITEM_TXT_903366,Lucky Clover Black Hat (F),Chapeau Trèfle Chanceux Noir (F)
+PROPITEM_TXT_903367,Lucky Clover Black Suit (F),Tenue Trèfle Chanceux Noir (F)
+PROPITEM_TXT_903368,Lucky Clover Black Shoes (F),Chaussures Trèfle Chanceux Noir (F)
+PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),Set Trèfle Chanceux 2% Noir (F)
+PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,Set Trèfle Chanceux 2% Noir pour personnages féminins
+PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,Boîte Chanceuse Costume Trèfle
+PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Set Trèfle Chanceux avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
+PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,Cadeau à la Porte PlayPark All-Stars 2026
+PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.","Un pack contenant 10x Parchemins d’Amplification ES, 10x Pierres Upcut, 10x Parchemins de Puissance, 20x Boîtes de Flacons, 20x Boîtes de Potions, 1x Sac Supplémentaire (30 jours), 1x Sac de Nourriture (7 jours), 1x Disque Carte (7 jours), 1x Parchemin Boost PickUp (7 jours), 1x Vélo Méteo (Jaune) (30 jours) et 1x Bébé Tigre (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,Set Fleur de lotus 10% Cyan
+PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,Ruban Fleur de lotus Cyan
+PROPITEM_TXT_903377,Lotus Blossom Cyan Tilak,Tilak Lotus Blossom Cyan
+PROPITEM_TXT_903378,Lotus Blossom Cyan Hat (M),Chapeau Fleur de lotus Cyan (H)
+PROPITEM_TXT_903379,Lotus Blossom Cyan Suit (M),Tenue Fleur de lotus Cyan (H)
+PROPITEM_TXT_903380,Lotus Blossom Cyan Shoes (M),Chaussures Fleur de lotus Cyan (H)
+PROPITEM_TXT_903381,Lotus Blossom Cyan Hands (M),Gants Fleur de lotus Cyan (H)
+PROPITEM_TXT_903382,Lotus Blossom 10% Cyan Set (M),Set Fleur de lotus 10% Cyan (H)
+PROPITEM_TXT_903383,The Lotus Blossom 10% Cyan Set for male characters.,Set Fleur de lotus 10% Cyan pour personnages masculins
+PROPITEM_TXT_903384,Lotus Blossom Cyan Hat (F),Chapeau Fleur de lotus Cyan (F)
+PROPITEM_TXT_903385,Lotus Blossom Cyan Suit (F),Tenue Fleur de lotus Cyan (F)
+PROPITEM_TXT_903386,Lotus Blossom Cyan Shoes (F),Chaussures Fleur de lotus Cyan (F)
+PROPITEM_TXT_903387,Lotus Blossom Cyan Hands (F),Gants Fleur de lotus Cyan (F)
+PROPITEM_TXT_903388,Lotus Blossom 10% Cyan Set (F),Set Fleur de lotus 10% Cyan (F)
+PROPITEM_TXT_903389,The Lotus Blossom 10% Cyan Set for female characters.,Set Fleur de lotus 10% Cyan pour personnages féminins
+PROPITEM_TXT_903390,Lotus Blossom 8% Purple Set,Set Fleur de lotus 8% Violet
+PROPITEM_TXT_903391,Lotus Blossom Purple Ribbon,Ruban Fleur de lotus Violet
+PROPITEM_TXT_903392,Lotus Blossom Purple Tilak,Tilak Fleur de lotus Violet
+PROPITEM_TXT_903393,Lotus Blossom Purple Hat (M),Chapeau Fleur de lotus Violet (H)
+PROPITEM_TXT_903394,Lotus Blossom Purple Suit (M),Tenue Fleur de lotus Violet (H)
+PROPITEM_TXT_903395,Lotus Blossom Purple Shoes (M),Chaussures Fleur de lotus Violet (H)
+PROPITEM_TXT_903396,Lotus Blossom Purple Hands (M),Gants Fleur de lotus Violet (H)
+PROPITEM_TXT_903397,Lotus Blossom 8% Purple Set (M),Set Fleur de lotus 8% Violet (H)
+PROPITEM_TXT_903398,The Lotus Blossom 8% Purple Set for male characters.,Set Fleur de lotus 8% Violet pour personnages masculins
+PROPITEM_TXT_903399,Lotus Blossom Purple Hat (F),Chapeau Fleur de lotus Violet (F)
+PROPITEM_TXT_903400,Lotus Blossom Purple Suit (F),Tenue Fleur de lotus Violet (F)
+PROPITEM_TXT_903401,Lotus Blossom Purple Shoes (F),Chaussures Fleur de lotus Violet (F)
+PROPITEM_TXT_903402,Lotus Blossom Purple Hands (F),Gants Fleur de lotus Violet (F)
+PROPITEM_TXT_903403,Lotus Blossom 8% Purple Set (F),Set Fleur de lotus 8% Violet (F)
+PROPITEM_TXT_903404,The Lotus Blossom 8% Purple Set for female characters.,Set Fleur de lotus 8% Violet pour personnages féminins
+PROPITEM_TXT_903405,Lotus Blossom 6% Green Set,Set Fleur de lotus 6% Vert
+PROPITEM_TXT_903406,Lotus Blossom Green Ribbon,Ruban Fleur de lotus Vert
+PROPITEM_TXT_903407,Lotus Blossom Green Tilak,Tilak Fleur de lotus Vert
+PROPITEM_TXT_903408,Lotus Blossom Green Hat (M),Chapeau Fleur de lotus Vert (H)
+PROPITEM_TXT_903409,Lotus Blossom Green Suit (M),Tenue Fleur de lotus Vert (H)
+PROPITEM_TXT_903410,Lotus Blossom Green Shoes (M),Chaussures Fleur de lotus Vert (H)
+PROPITEM_TXT_903411,Lotus Blossom Green Hands (M),Gants Fleur de lotus Vert (H)
+PROPITEM_TXT_903412,Lotus Blossom 6% Green Set (M),Set Fleur de lotus 6% Vert (H)
+PROPITEM_TXT_903413,The Lotus Blossom 6% Green Set for male characters.,Set Fleur de lotus 6% Vert pour personnages masculins
+PROPITEM_TXT_903414,Lotus Blossom Green Hat (F),Chapeau Fleur de lotus Vert (F)
+PROPITEM_TXT_903415,Lotus Blossom Green Suit (F),Tenue Fleur de lotus Vert (F)
+PROPITEM_TXT_903416,Lotus Blossom Green Shoes (F),Chaussures Fleur de lotus Vert (F)
+PROPITEM_TXT_903417,Lotus Blossom Green Hands (F),Gants Fleur de lotus Vert (F)
+PROPITEM_TXT_903418,Lotus Blossom 6% Green Set (F),Set Fleur de lotus 6% Vert (F)
+PROPITEM_TXT_903419,The Lotus Blossom 6% Green Set for female characters.,Set Fleur de lotus 6% Vert pour personnages féminins
+PROPITEM_TXT_903420,Lotus Blossom 4% Blue Set,Set Fleur de lotus 4% Bleu
+PROPITEM_TXT_903421,Lotus Blossom Blue Ribbon,Ruban Fleur de lotus Bleu
+PROPITEM_TXT_903422,Lotus Blossom Blue Tilak,Tilak Fleur de lotus Bleu
+PROPITEM_TXT_903423,Lotus Blossom Blue Hat (M),Chapeau Fleur de lotus Bleu (H)
+PROPITEM_TXT_903424,Lotus Blossom Blue Suit (M),Tenue Fleur de lotus Bleu (H)
+PROPITEM_TXT_903425,Lotus Blossom Blue Shoes (M),Chaussures Fleur de lotus Bleu (H)
+PROPITEM_TXT_903426,Lotus Blossom Blue Hands (M),Gants Fleur de lotus Bleu (H)
+PROPITEM_TXT_903427,Lotus Blossom 4% Blue Set (M),Set Fleur de lotus 4% Bleu (H)
+PROPITEM_TXT_903428,The Lotus Blossom 4% Blue Set for male characters.,Set Fleur de lotus 4% Bleu pour personnages masculins
+PROPITEM_TXT_903429,Lotus Blossom Blue Hat (F),Chapeau Fleur de lotus Bleu (F)
+PROPITEM_TXT_903430,Lotus Blossom Blue Suit (F),Tenue Fleur de lotus Bleu (F)
+PROPITEM_TXT_903431,Lotus Blossom Blue Shoes (F),Chaussures Fleur de lotus Bleu (F)
+PROPITEM_TXT_903432,Lotus Blossom Blue Hands (F),Gants Fleur de lotus Bleu (F)
+PROPITEM_TXT_903433,Lotus Blossom 4% Blue Set (F),Set Fleur de lotus 4% Bleu (F)
+PROPITEM_TXT_903434,The Lotus Blossom 4% Blue Set for female characters.,Set Fleur de lotus 4% Bleu pour personnages féminins
+PROPITEM_TXT_903435,Lotus Blossom 2% Red Set,Set Fleur de lotus 2% Rouge
+PROPITEM_TXT_903436,Lotus Blossom Red Ribbon,Ruban Fleur de lotus Rouge
+PROPITEM_TXT_903437,Lotus Blossom Red Tilak,Tilak Fleur de lotus Rouge
+PROPITEM_TXT_903438,Lotus Blossom Red Hat (M),Chapeau Fleur de lotus Rouge (H)
+PROPITEM_TXT_903439,Lotus Blossom Red Suit (M),Tenue Fleur de lotus Rouge (H)
+PROPITEM_TXT_903440,Lotus Blossom Red Shoes (M),Chaussures Fleur de lotus Rouge (H)
+PROPITEM_TXT_903441,Lotus Blossom Red Hands (M),Gants Fleur de lotus Rouge (H)
+PROPITEM_TXT_903442,Lotus Blossom 2% Red Set (M),Set Fleur de lotus 2% Rouge (H)
+PROPITEM_TXT_903443,The Lotus Blossom 2% Red Set for male characters.,Set Fleur de lotus 2% Rouge pour personnages masculins
+PROPITEM_TXT_903444,Lotus Blossom Red Hat (F),Chapeau Fleur de lotus Rouge (F)
+PROPITEM_TXT_903445,Lotus Blossom Red Suit (F),Tenue Fleur de lotus Rouge (F)
+PROPITEM_TXT_903446,Lotus Blossom Red Shoes (F),Chaussures Fleur de lotus Rouge (F)
+PROPITEM_TXT_903447,Lotus Blossom Red Hands (F),Gants Fleur de lotus Rouge (F)
+PROPITEM_TXT_903448,Lotus Blossom 2% Red Set (F),Set Fleur de lotus 2% Rouge (F)
+PROPITEM_TXT_903449,The Lotus Blossom 2% Red Set for female characters.,Set Fleur de lotus 2% Rouge pour personnages féminins
+PROPITEM_TXT_903450,Lotus Blossom 2% Black Set,Set Fleur de lotus 2% Noir
+PROPITEM_TXT_903451,Lotus Blossom Black Ribbon,Ruban Fleur de lotus Noir
+PROPITEM_TXT_903452,Lotus Blossom Black Tilak,Tilak Fleur de lotus Noir
+PROPITEM_TXT_903453,Lotus Blossom Black Hat (M),Chapeau Fleur de lotus Noir (H)
+PROPITEM_TXT_903454,Lotus Blossom Black Suit (M),Tenue Fleur de lotus Noir (H)
+PROPITEM_TXT_903455,Lotus Blossom Black Shoes (M),Chaussures Fleur de lotus Noir (H)
+PROPITEM_TXT_903456,Lotus Blossom Black Hands (M),Gants Fleur de lotus Noir (H)
+PROPITEM_TXT_903457,Lotus Blossom 2% Black Set (M),Set Fleur de lotus 2% Noir (H)
+PROPITEM_TXT_903458,The Lotus Blossom 2% Black Set for male characters.,Set Fleur de lotus 2% Noir pour personnages masculins
+PROPITEM_TXT_903459,Lotus Blossom Black Hat (F),Chapeau Fleur de lotus Noir (F)
+PROPITEM_TXT_903460,Lotus Blossom Black Suit (F),Tenue Fleur de lotus Noir (F)
+PROPITEM_TXT_903461,Lotus Blossom Black Shoes (F),Chaussures Fleur de lotus Noir (F)
+PROPITEM_TXT_903462,Lotus Blossom Black Hands (F),Gants Fleur de lotus Noir (F)
+PROPITEM_TXT_903463,Lotus Blossom 2% Black Set (F),Set Fleur de lotus 2% Noir (F)
+PROPITEM_TXT_903464,The Lotus Blossom 2% Black Set for female characters.,Set Fleur de lotus 2% Noir pour personnages féminins
+PROPITEM_TXT_903465,Lotus Blossom Costume Lucky Box,Boîte Chanceuse Costume Fleur de lotus
+PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Set Fleur de lotus avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
+PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lame céleste dorée en fleur de lotus
+PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lame céleste argentée en fleur de lotus
+PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lame céleste noire en fleur de lotus
+PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","Une Lame céleste divine imprégnée d’un ancien pouvoir martial, permettant à son porteur de parcourir les cieux. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Événement] Boule de Monstre Printemps 2026 Niv1
+PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Événement] Boule de Monstre Printemps 2026 Niv2
+PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Événement] Boule de Monstre Printemps 2026 Niv3
+PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Événement] Boule de Monstre Printemps 2026 Niv4
+PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","Une Boule de Monstre qui invoque un monstre de haut niveau. Faites attention en l’utilisant, car des monstres géants apparaissent occasionnellement.\n※Récupération disponible pendant un temps limité après la fin de l’événement."
+PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Événement] Boîte Monstre Géant 2026 Niv1
+PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Événement] Boîte Monstre Géant 2026 Niv2
+PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Événement] Boîte Monstre Géant 2026 Niv3
+PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Événement] Boîte Monstre Géant 2026 Niv4
+PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Événement] Boîte Monstre Général 2026 Niv1
+PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Événement] Boîte Monstre Général 2026 Niv2
+PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Événement] Boîte Monstre Général 2026 Niv3
+PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Événement] Boîte Monstre Général 2026 Niv4
+PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Boîte obtenue en chassant un monstre géant Niv4. Testez votre chance aujourd’hui !!
+PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Boîte obtenue en chassant un monstre général Niv4. Testez votre chance aujourd’hui !!

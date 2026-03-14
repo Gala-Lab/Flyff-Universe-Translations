@@ -478,7 +478,7 @@ UI_GUILD_POWER_TITLE,Promote/Demote,Titre
 UI_GUILD_POWER_RANK,Adjust Rank,Rang
 UI_GUILD_POWER_JOIN,Invite,Rejoindre
 UI_GUILD_POWER_ITEM,Take Items,Objet
-UI_GUILD_POWER_PENYA,Take Penya,Take Penya
+UI_GUILD_POWER_PENYA,Take Penya,Prendre des Penya
 UI_GUILD_POWER_SPECTATE,Spectate,Observer
 UI_GUILD_POWER_TIP,Save changes,Appliquer les paramètres
 UI_GUILD_POWER_SAVE,Save,Enregistrer
@@ -501,7 +501,7 @@ UI_GUILDINVITE_TITLE,Invite to Guild,Invitation à une guilde
 UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Accept the invitation?,%s vous invite à rejoindre la guilde %s. Acceptez-vous ?
 UI_GUILD_JOINQUESTION,%s wants to join your guild. Accept the request?,%s souhaite rejoindre la guilde. Acceptez-vous ?
 UI_GUILDBANK_TITLE,Guild Bank,Coffre de guilde
-UI_GUILDBANK_SUPPORT,Donate,Donate
+UI_GUILDBANK_SUPPORT,Donate,Don
 UI_GUILDBANK_CLOAK,Cloak,Cape
 UI_GUILDBANK_ITEM,Items,Objet
 UI_GUILDMERIT_TITLE,Guild Donation,Contribution de la guilde
@@ -640,7 +640,7 @@ UI_PERSONAL_SHOP_CHAT_USER,User,Personnage
 UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Envoyer un message
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Entrée
 UI_PERSONAL_SHOP_CHAT_DIALOG,Chat,Discuter
-UI_PERSONAL_SHOP_CHAT_INFO,Activity,Activity
+UI_PERSONAL_SHOP_CHAT_INFO,Activity,Activité
 UI_PERSONAL_SHOP_CHAT_SEND,Send,Envoyer
 UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s vient de se connecter.
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s vient de se déconnecter.
@@ -855,7 +855,7 @@ UI_GUILDBANK_CLOAK_TIP,Create a guild cloak with your guild logo on it (requires
 UI_GUILDBANK_LOG_TIP,Open the guild bank log,Ouvrir l'historique du coffre de guilde.
 UI_APP_DEBUG_TIP,Debug Window,Afficher la fenêtre de debug
 UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Invoquez Guide-Pang
-UI_APP_FAQ_TIP,View Frequently Asked Questions.,View Frequently Asked Questions.
+UI_APP_FAQ_TIP,View Frequently Asked Questions.,Voir les questions fréquemment posées.
 UI_APP_TIPS_TIP,View gameplay tips.,Astuces
 UI_APP_HELP_TIP,Open the help window.,Aide
 UI_APP_GUILD_TIP,View and manage your guild.,Afficher la fenêtre de guilde
@@ -1142,7 +1142,7 @@ UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Déjà reçu
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,Penyas :
 UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,- Objet(s) : %s
 UI_ACHIEVEMENTS_REWARD_ATK,Increased Attack against target(s): %d%%,- Taux d'attaque sur cible(s) : %d%%
-UI_ACHIEVEMENTS_PROGRESSION,Achievement Progress,Achievement Progress
+UI_ACHIEVEMENTS_PROGRESSION,Achievement Progress,Progression des succès
 UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Niveau %d
 UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attaque +%s%%
 UI_ACHIEVEMENTS_NOTITLE,(No Title),Aucun
@@ -1654,7 +1654,7 @@ UI_DUNGEON_LOW_DROPS,Low Drop Rate,Butin faible
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,Butin normal
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate,Butin augmenté
 UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,Finissez le boss !
-UI_DUNGEON_ENTRANCE_SOLO,Solo Only,Solo Only
+UI_DUNGEON_ENTRANCE_SOLO,Solo Only,Uniquement en solo
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Groupe ou Solo
 UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,Guilde ou Solo
 UI_DUNGEON_ENTRANCE,Group Type: %s,Entrée : %s
