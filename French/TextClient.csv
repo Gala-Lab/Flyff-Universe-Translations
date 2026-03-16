@@ -304,7 +304,7 @@ TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,Le niveau de la guilde a augm
 TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,Cape de la guilde %s 
 TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,Vous ne pouvez pas revendre un objet premium.
 TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,La coffre de guilde est plein.
-TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,Le stockage du couple est plein.
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,Le coffre du couple est plein.
 TEXTCLIENT_SLOTFULL,Your inventory is full.,Votre inventaire est plein.
 TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,Vraiment déplacer cet article?
 TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,La cape de la guilde a été créée.
