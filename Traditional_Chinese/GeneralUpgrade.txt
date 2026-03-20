@@ -1,6 +1,6 @@
-﻿#bItem Upgrading#nb
+﻿#b物品升級#nb
 
-Upgrading an item increases its base stats and overall power or defenses.
-#cffff0000From +3 onward (+0 onward for ultimate items), a failed upgrade will destroy the item unless a protection scroll is used.
-Scroll of SProtect is used for normal items, Scroll of AProtect for normal accessories, and Scroll of XProtect for ultimate items.
-Low Scroll of SProtect can only be used when upgrading normal equipment, and reduces the upgrade level on failure.#nc
+升級物品可以增加其基礎屬性、攻擊力或防禦力。
+#cffff0000從+3級開始（終極裝備從+0級開始），除非使用精煉防爆卷，否則升級失敗會導致裝備被破壞。
+一般裝備使用精煉防爆卷，一般飾品使用飾品防爆卷，終極裝備使用終極精煉防爆卷。
+低階精煉防爆卷只能用於升級一般裝備，失敗時會降低強化等級。#nc
