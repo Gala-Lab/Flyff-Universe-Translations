@@ -115,8 +115,8 @@ UI_TOOLTIP_DEF_BASE,Base Defense:,基礎防禦力：
 UI_TOOLTIP_ATTACK,Attack:,攻擊力：
 UI_TOOLTIP_DEF_A,Defense:,防禦力：
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻擊速度：%s
-UI_TOOLTIP_REQ_JOB,Req Job:,需求職業：
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,需求等級：%d
+UI_TOOLTIP_REQ_JOB,Req Job:,要求職業：
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,要求等級：%d
 UI_TOOLTIP_REQ,Requires %s,需要 %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP恢復量：%d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP：%d
@@ -645,8 +645,8 @@ UI_PERSONAL_SHOP_CHAT_SEND,Send,傳送
 UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s 剛剛進入了。
 UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s 離開了。
 UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,角色：%s 已購買 %s(%d)，花費了 %lld 金幣
-UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認販賣商城道具
-UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","這是一個商城道具，確定要出售嗎?\n一旦出售將無法取回。"
+UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認販賣商城物品
+UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","這是商城物品，確定要出售嗎?\n一旦出售將無法取回。"
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[角色綁定]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[帳號綁定]
 UI_BEAUTY_SHOP_TITLE,Hair Salon,美容院
@@ -1251,7 +1251,7 @@ UI_WORLD_BUFF,Buff x%d,Buff x%d
 UI_QUESTGOAL_MOBILE,Quest,任務
 UI_INPUT_NUMBER,Input a number,輸入數字
 UI_SKILL_CLOSED,Closed,關閉
-UI_SKILL_POINT_COST,Point Cost,消耗點數
+UI_SKILL_POINT_COST,Point Cost,點數花費
 UI_SKILL_ADD_COMBO,Add to Combo,加入到連續技能
 UI_SKILL_COMBO,Combo Bar,連續技能欄
 UI_CASHSHOP_PENYA_ONLY,Penya Only,僅限金幣
@@ -2536,8 +2536,8 @@ UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all item
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?","您的伴侶提出了分手要求。如果您接受，情侶倉庫中的所有物品將永久消失，情侶功能也將無法使用。接受嗎?"
 UI_COUPLE_PROPOSE,Propose,求婚
 UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,使用情侶戒指提出求婚訊息。
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,需求情侶等級： %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,需求情侶點數： %d
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,要求情侶等級： %d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,要求情侶點數： %d
 UI_COUPLEBANK_TITLE,Couple Storage,情侶倉庫
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,黃玉
 UI_ULTIMATE_JEWEL_RUBY,Ruby,紅寶石
@@ -2743,7 +2743,7 @@ UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Infinite Harvests
 UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Harvest Cooldown:
 UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Growth Time:
 UI_QUEST_MOTION,Emote: %s,Emote: %s
-UI_TOOLTIP_REQ_QUEST,Required Quest: %s,需求任務： %s
+UI_TOOLTIP_REQ_QUEST,Required Quest: %s,要求任務： %s
 UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE傷害
 UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,減少PvE承受傷害
 UI_GENERALAWAKE_START,Start,開始
