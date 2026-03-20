@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+﻿#b元素升級#nb
 
-Infusing an item with an element increases its effectiveness against enemies of weaker elements, but decreases its effectiveness against enemies of stronger elements.
-#cffff0000From +3 onward, a failed upgrade will destroy the item unless a Scroll of SProtect is used.
-Low Scroll of SProtect prevents destruction but reduces the upgrade level on failure.#nc
+為裝備注入元素，能對弱於該元素的敵人造成更高傷害，但對強於該元素的敵人造成更少傷害。
+#cffff0000從+3開始，升級失敗會導致物品被破壞，除非使用精煉防爆卷。
+低階精煉防爆卷可防止被破壞，但失敗時會降低強化等級。#nc
