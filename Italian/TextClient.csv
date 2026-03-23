@@ -560,7 +560,7 @@ TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after i
 TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,Su questo anello avete inciso il nome '%s'. Regalalo alla tua dolce metà!
 TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,Un'incisione recita '%s'. Regalalo alla tua dolce metà!
 TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is offline.,Il giocatore con il nome inciso su questo anello non è online.
-TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.,Non puoi teletrasportati a %s da qui.
+TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.,Non puoi teletrasportarti a %s da qui.
 TEXTCLIENT_COUPLERING_ERR03,You can not teleport to a player who is flying.,Non si può andare da chi sta volando.
 TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,Questo oggetto può essere utilizzato solo su armi e armature applicabili.
 TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Vuoi applicare un potenziamento casuale delle statistiche al seguente oggetto?\n%s
