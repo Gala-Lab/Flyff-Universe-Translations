@@ -864,7 +864,7 @@ TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be dec
 TEXTCLIENT_PET_REQEGG,Use on your egg.,Da usare sull'uovo.
 TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,Il livello dell'animale domestico deve essere superiore o uguale.
 TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,Il tuo animale domestico ha già raggiunto il livello massimo possibile.
-TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!","Il tuo animale domestico ha raggiunto un nuovo livello più alto!"
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",Il tuo animale domestico ha raggiunto un nuovo livello più alto!
 TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.","Hai ottenuto lo stesso livello o uno inferiore, quindi non è cambiato nulla."
 TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,La barra d’energia è già piena.
 TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,Non utilizzare sulle uova.
@@ -894,8 +894,8 @@ TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held du
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,L'Assedio di Gilda Lv80 è finito.
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,L'Assedio di Gilda Lv60 è finito.
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s sono stati inviati al tuo inventario o alla tua casella di posta.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.","D'ora in poi Atlas a Flarine ti consentirà di accedere all'arena dell'Assedio di Gilda Lv80."
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.","D'ora in poi Olivia a Flarine ti consentirà di accedere all'arena dell'Assedio di Gilda Lv60."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",D'ora in poi Atlas a Flarine ti consentirà di accedere all'arena dell'Assedio di Gilda Lv80.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",D'ora in poi Olivia a Flarine ti consentirà di accedere all'arena dell'Assedio di Gilda Lv60.
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,È in corso un altro Assedio della Gilda.
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Al momento non puoi muoverti.
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s è caduto!
@@ -915,7 +915,7 @@ TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a momen
 TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,In questo dungeon non sono ammessi più di %d membri per gruppo.
 TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,Per ora non è consentito l'accesso.
 TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,Mancano %d minuti per eliminare %d mostri
-TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...","Il tempo è scaduto. Hai fallito il dungeon..."
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",Il tempo è scaduto. Hai fallito il dungeon...
 TEXTCLIENT_LACKITEM,You do not have the required items.,Non hai gli oggetti richiesti.
 TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,Preparati!
 TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,Il tuo dungeon è in corso su un altro canale.
@@ -1025,7 +1025,7 @@ TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedule
 TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,Hai già giocato una partita oggi! Non puoi selezionare un altro orario.
 TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Non è più possibile teletrasportarsi durante la partita. La partita è iniziata.
 TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,Il teletrasporto non è possibile poiché non c'è nessun avversario in attesa.
-TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Non si è unito nessun avversario! La partita terminerà e otterrai la vittoria!"
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",Non si è unito nessun avversario! La partita terminerà e otterrai la vittoria!
 TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Non è stato trovato nessun avversario per la tua partita! Abbiamo quindi considerato la tua partita vinta!
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s ha ucciso [%s] %s!
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s ha ucciso [%s] %s e hanno messo fine alla loro serie di omicidi!
