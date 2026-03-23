@@ -1,12 +1,12 @@
-﻿#cff0000ffRegistration#nc
-Kalgas Assault Match Time: Every %s %s ~ %s(Max. %d min)
-Level Limit : %d
-Registration Time: Every %s %s ~ %s %s
-Entry Time: %s ~ %s
-Current number of registered players : %d
+#cff0000ff 报名须知 #nc
+卡尔加斯突袭战时间：每周 %s %s ~ %s（最长 %d 分钟）
+等级限制：%d 级
+报名时间：每周 %s %s ~ %s %s
+入场时间：%s ~ %s
+当前报名人数：%d
 
-※ Only users who have registered for Kalgas Assault can participate.
-※ You will not be able to enter after the time limit has passed.
-※ Maximum 200 players per an instance (100 vs 100)
-※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.
-※ Teams will be randomly selected. 
+※ 仅成功报名卡尔加斯突袭战的玩家可参与活动。
+※ 超过时限后将无法入场。
+※ 单场副本最多容纳 200 人（100 人 vs 100 人）。
+※ 排名奖励最低参与人数为 20 人；若不足 20 人，仅发放获胜者奖励。
+※ 队伍将随机分配。
