@@ -1977,7 +1977,7 @@ PROPITEM_TXT_003952,Legendary Golden Big Axe,Ascia Grande Dorata Leggendaria
 PROPITEM_TXT_003954,Legendary Golden Gloves,Guanti D'Oro Leggendari
 PROPITEM_TXT_003956,Legendary Golden Stick,Bastone D'Oro Leggendario
 PROPITEM_TXT_003958,Legendary Golden Wand,Bacchetta D'Oro Leggendaria
-PROPITEM_TXT_003960,Legendary Golden Staff,Personale D'Oro Leggendario
+PROPITEM_TXT_003960,Legendary Golden Staff,Cetro D'Oro Leggendario
 PROPITEM_TXT_003962,Legendary Golden Bow,Arco D'Oro Leggendario
 PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Yo-Yo D'oro Leggendario
 PROPITEM_TXT_003966,First Refresher,Primo Rinfresco
@@ -2273,25 +2273,25 @@ PROPITEM_TXT_004276,Mineral,Minerale
 PROPITEM_TXT_004278,Erons,Eroni
 PROPITEM_TXT_004280,Krasec,Krasec
 PROPITEM_TXT_004282,Guru,Guru
-PROPITEM_TXT_004284,Torch Card,Scheda Torcia
+PROPITEM_TXT_004284,Torch Card,Carta Torcia
 PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Potenziamento Fuoco: da +1 a +5
-PROPITEM_TXT_004286,Flame Card,Scheda Fiamma
+PROPITEM_TXT_004286,Flame Card,Carta Fiamma
 PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Potenziamento Elemento Fuoco: da +6 a +10
-PROPITEM_TXT_004288,Lake Card,Scheda Lago
+PROPITEM_TXT_004288,Lake Card,Carta Lago
 PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Potenziamento Acqua: da +1 a +5
-PROPITEM_TXT_004290,River Card,Scheda Fiume
+PROPITEM_TXT_004290,River Card,Carta Fiume
 PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Potenziamento Elemento Acqua: da +6 a +10
-PROPITEM_TXT_004292,Voltage Card,Scheda Volt
+PROPITEM_TXT_004292,Voltage Card,Carta Volt
 PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Potenziamento Elettrico: da +1 a +5
-PROPITEM_TXT_004294,Generator Card,Scheda Generatore
+PROPITEM_TXT_004294,Generator Card,Carta Generatore
 PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Potenziamento Elemento Elettrico: da +6 a +10
-PROPITEM_TXT_004296,Stone Card,Scheda Di Pietra
+PROPITEM_TXT_004296,Stone Card,Carta Di Pietra
 PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Potenziamento Terra: da +1 a +5
-PROPITEM_TXT_004298,Desert Card,Scheda Del Deserto
+PROPITEM_TXT_004298,Desert Card,Carta Del Deserto
 PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Potenziamento Elemento Terra: da +6 a +10
-PROPITEM_TXT_004300,Gale Card,Scheda Tempesta
+PROPITEM_TXT_004300,Gale Card,Carta Tempesta
 PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Potenziamento Vento: da +1 a +5
-PROPITEM_TXT_004302,Cyclone Card,Scheda Ciclone
+PROPITEM_TXT_004302,Cyclone Card,Carta Ciclone
 PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Potenziamento Elemento Venti: da +6 a +10
 PROPITEM_TXT_004304,Power Dice 4,Dado Di Potenza 4
 PROPITEM_TXT_004305,General Upgrade: +1 to +5,Potenziamento Generale: da +1 a +5
@@ -2303,35 +2303,35 @@ PROPITEM_TXT_004310,Power Dice 10,Dado Di Potenza 10
 PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Utilizzato per Perciare e il Potenziamento di Accessori (Tasso di Successo Alto)
 PROPITEM_TXT_004312,Power Dice 12,Dado Di Potenza 12
 PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),Potenziamento Generale: da +1 a +10 (Tasso di Successo Alto)
-PROPITEM_TXT_004314,Volcano Card (2%),Scheda Vulcano (2%)
+PROPITEM_TXT_004314,Volcano Card (2%),Carta Vulcano (2%)
 PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004316,Volcano Card (4%),Scheda Vulcano (4%)
+PROPITEM_TXT_004316,Volcano Card (4%),Carta Vulcano (4%)
 PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004318,Volcano Card (7%),Scheda Vulcano (7%)
+PROPITEM_TXT_004318,Volcano Card (7%),Carta Vulcano (7%)
 PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (Quando posizionato in corazza perciato)
-PROPITEM_TXT_004320,Ocean Card (2%),Scheda Oceanica (2%)
+PROPITEM_TXT_004320,Ocean Card (2%),Carta Oceanica (2%)
 PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004322,Ocean Card (4%),Scheda Oceanica (4%)
+PROPITEM_TXT_004322,Ocean Card (4%),Carta Oceanica (4%)
 PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004324,Ocean Card (7%),Scheda Oceanica (7%)
+PROPITEM_TXT_004324,Ocean Card (7%),Carta Oceanica (7%)
 PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004326,Vacuum Card (2%),Scheda Vuoto (2%)
+PROPITEM_TXT_004326,Vacuum Card (2%),Carta Vuoto (2%)
 PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004328,Vacuum Card (4%),Scheda Vuoto (4%)
+PROPITEM_TXT_004328,Vacuum Card (4%),Carta Vuoto (4%)
 PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004330,Vacuum Card (7%),Scheda Vuoto (7%)
+PROPITEM_TXT_004330,Vacuum Card (7%),Carta Vuoto (7%)
 PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004332,Lightning Card (2%),Scheda Fulmine (2%)
+PROPITEM_TXT_004332,Lightning Card (2%),Carta Fulmine (2%)
 PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attacco (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004334,Lightning Card (4%),Scheda Fulmine (4%)
+PROPITEM_TXT_004334,Lightning Card (4%),Carta Fulmine (4%)
 PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attacco (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004336,Lightning Card (7%),Scheda Fulmine (7%)
+PROPITEM_TXT_004336,Lightning Card (7%),Carta Fulmine (7%)
 PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attacco (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004338,Earthquake Card (2%),Scheda Terremoto (2%)
+PROPITEM_TXT_004338,Earthquake Card (2%),Carta Terremoto (2%)
 PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Difesa (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004340,Earthquake Card (4%),Scheda Terremoto (4%)
+PROPITEM_TXT_004340,Earthquake Card (4%),Carta Terremoto (4%)
 PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Difesa (Quando posizionato in un corazza perciato)
-PROPITEM_TXT_004342,Earthquake Card (7%),Scheda Terremoto (7%)
+PROPITEM_TXT_004342,Earthquake Card (7%),Carta Terremoto (7%)
 PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Difesa (Quando posizionato in un corazza perciato)
 PROPITEM_TXT_004348,Vuul Card,Vuul Card
 PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (When placed in a pierced suit)
@@ -8157,9 +8157,9 @@ PROPITEM_TXT_101512,Potion Box,Potion Box
 PROPITEM_TXT_101513,Select which Potion or Elixir you want to receive!,Select which Potion or Elixir you want to receive!
 PROPITEM_TXT_101514,Flask Box,Flask Box
 PROPITEM_TXT_101515,Select which Flask you want to receive!,Select which Flask you want to receive!
-PROPITEM_TXT_101516,Scroll of Transmutation,Scroll of Transmutation
+PROPITEM_TXT_101516,Scroll of Transmutation,Pergamena di Trasmutazione
 PROPITEM_TXT_101517,This scroll permanently destroys an item and adds its appearance to your wardrobe.,This scroll permanently destroys an item and adds its appearance to your wardrobe.
-PROPITEM_TXT_015523,Revert Transmutation Scroll,Revert Transmutation Scroll
+PROPITEM_TXT_015523,Revert Transmutation Scroll,Pergamena di Annullamento Trasmutazione
 PROPITEM_TXT_015524,A mystical scroll that will undo the effects of an Item Transmutation. Click on this scroll and use it on a transmuted item to return it to its original look.,A mystical scroll that will undo the effects of an Item Transmutation. Click on this scroll and use it on a transmuted item to return it to its original look.
 PROPITEM_TXT_101518,Blue Gummy Bear,Blue Gummy Bear
 PROPITEM_TXT_101519,Brown Gummy Bear,Brown Gummy Bear
