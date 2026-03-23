@@ -475,7 +475,7 @@ TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,Non puoi util
 TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,Non puoi utilizzare i Alabalzi per fuggire dall'arena dell'Assedio della Gilda.
 TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,Non puoi utilizzare Blinkpool nell'Arena.
 TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,Le statistiche si ripristinano dopo il cambio di classe. Vuoi cambiare classe?
-TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,Il classe è stato cambiato con successo in %s.
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,La classe è stata cambiata con successo in %s.
 TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,L'oggetto perde la sua efficacia 4 ore dopo essere stato equipaggiato se non viene rimesso nell'inventario. Vuoi usare l'oggetto?
 TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,Impossibile utilizzare l'oggetto nella zona limite.
 TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,L'evento '%s' è in corso! Visita %s per i dettagli dell'evento!
