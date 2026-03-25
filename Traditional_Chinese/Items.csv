@@ -2651,9 +2651,9 @@ PROPITEM_TXT_004731,Summon Banker for 3 Min.,召喚城鎮管理員 (3分)
 PROPITEM_TXT_004732,Blessing of Party Leader,團長的祝福
 PROPITEM_TXT_004733,x2 Party Exp. for 2 hours (Only Party Leader can use),2 小時內，劇團經驗獲得量 x2 (只有團長可以使用)
 PROPITEM_TXT_004734,Friendship (A),召喚晶球 (A)
-PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,召喚玩家到你身旁，被召喚的玩家須和你在同一大陸或同一分流。(須對象同意召喚、詠唱時間30秒)
+PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,召喚玩家到你身旁，被召喚的玩家須和你在同一大陸或同一頻道。(須對象同意召喚、詠唱時間30秒)
 PROPITEM_TXT_004736,Friendship (B),召喚晶球 (B)
-PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.,召喚玩家到你身旁，被召喚的玩家須和你在同一大陸或同一分流。(須對象同意召喚、不須詠唱)
+PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.,召喚玩家到你身旁，被召喚的玩家須和你在同一大陸或同一頻道。(須對象同意召喚、不須詠唱)
 PROPITEM_TXT_004738,Summon of Party Leader,團長的呼喚
 PROPITEM_TXT_004739,Summons Party members to the Party Leader (Only Party Leader can use),使用後可以召喚劇團團員到團長身邊(僅限劇團團長使用)
 PROPITEM_TXT_004740,Scroll of SFusion High,神聖精煉卷軸
@@ -6140,8 +6140,8 @@ PROPITEM_TXT_017355,Scroll of EProtect,卡片防爆卷
 PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,當鑲嵌卡片轉換失敗時可防止卡片被破壞
 PROPITEM_TXT_100000,Scroll of Guild Members,公會成員卷軸
 PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,永久增加5名公會成員，僅適用當前所在公會。
-PROPITEM_TXT_100002,Change Channel,切換分流
-PROPITEM_TXT_100003,Change the current channel.,切換你所在的伺服器
+PROPITEM_TXT_100002,Change Channel,切換頻道
+PROPITEM_TXT_100003,Change the current channel.,切換目前的頻道。
 PROPITEM_TXT_009278,7 Days Scroll of Party Exp,劇團經驗加成卷軸(7日)
 PROPITEM_TXT_009279,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 7 days from activation, even if logged off)",團長使用時，所有劇團成員狩獵時所獲得的劇團經驗值會提升50%。(持續7天，即使登出也會持續計算)
 PROPITEM_TXT_009280,15 Days Scroll of Party Exp,劇團經驗加成卷軸(15日)
@@ -6338,7 +6338,7 @@ PROPITEM_TXT_100086,Mr. Pumpkin Vendor Shop,南瓜先生行動商店
 PROPITEM_TXT_100087,It's Halloween! This Mr. Pumpkin manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed.,萬聖節!南瓜先生來幫你管理個人商店，雙擊可以關閉商店，商店關閉時將會返回物品
 PROPITEM_TXT_100088,Server Shout,伺服器大聲公
 PROPITEM_TXT_100089,This item allows you to shout a single message across all channels. You don't need to be level 20 to use it.,可讓你傳送一則訊息到所有伺服器，不需等級限制。您無需達到 20 級即可使用它。
-PROPITEM_TXT_100090,Channel Shout,分流大聲公
+PROPITEM_TXT_100090,Channel Shout,頻道大聲公
 PROPITEM_TXT_100091,This item allows you to shout a single message across the whole channel. You don't need to be level 20 to use it.,可讓你傳送一則訊息到整個伺服器，不需等級限制。您無需達到 20 級即可使用它。
 PROPITEM_TXT_100092,Mob Weapon: Critical Knockback Hit,Mob Weapon: Critical Knockback Hit
 PROPITEM_TXT_100093,Mob Weapon: Flame Geyser,Mob Weapon: Flame Geyser
@@ -12677,7 +12677,7 @@ PROPITEM_TXT_722037,Trophy of the Master Jeweler,Trophy of the Master Jeweler
 PROPITEM_TXT_722038,An artifact discovered amidst the dismantling of the most powerful jewelry imaginable. Dormant powers within may one day be rekindled.,An artifact discovered amidst the dismantling of the most powerful jewelry imaginable. Dormant powers within may one day be rekindled.
 PROPITEM_TXT_722039,Rainbow Cadillac,Rainbow Cadillac
 PROPITEM_TXT_722040,A mark of a true need for speed!,A mark of a true need for speed!
-PROPITEM_TXT_722041,Rainbow Race First Place Box,彩虹賽道第一名箱
+PROPITEM_TXT_722041,Rainbow Race First Place Box,彩虹競賽第一名箱
 PROPITEM_TXT_422041,[140] Scroll of Amplification ES,[140] Scroll of Amplification ES
 PROPITEM_TXT_422042,[160] Scroll of Amplification ES,[160] Scroll of Amplification ES
 PROPITEM_TXT_422043,Old Scroll of Return Town,回城古卷
@@ -12704,9 +12704,9 @@ PROPITEM_TXT_131015,Azria Props Housing Pack,Azria Props Housing Pack
 PROPITEM_TXT_131016,Azria Plants Housing Pack,Azria Plants Housing Pack
 PROPITEM_TXT_131017,Azria Rocks Housing Pack,Azria Rocks Housing Pack
 PROPITEM_TXT_131018,Coral Island Housing Pack 1,Coral Island Housing Pack 1
-PROPITEM_TXT_722044,Rainbow Race Second Place Box,彩虹賽道第二名箱
-PROPITEM_TXT_722045,Rainbow Race Third Place Box,彩虹賽道第三名箱
-PROPITEM_TXT_722046,Rainbow Race Honorable Box,彩虹賽道榮譽箱
+PROPITEM_TXT_722044,Rainbow Race Second Place Box,彩虹競賽第二名箱
+PROPITEM_TXT_722045,Rainbow Race Third Place Box,彩虹競賽第三名箱
+PROPITEM_TXT_722046,Rainbow Race Honorable Box,彩虹競賽榮譽箱
 PROPITEM_TXT_122105,Cloak of Coral,Cloak of Coral
 PROPITEM_TXT_122106,Meteo Bike (Silver),Meteo Bike (Silver)
 PROPITEM_TXT_622046,Amethyst,Amethyst

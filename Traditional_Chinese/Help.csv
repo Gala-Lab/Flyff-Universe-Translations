@@ -63,7 +63,7 @@ CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your ch
 CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",你的HP會因你的體力增加，越多HP你會存活更久；MP是魔法使施展魔法攻擊或神職者施展輔助技能時所需，如果提升能力值中的智力，就會使MP最大量上升；FP是勇者和雜技使用攻擊技能時所需要的點數，如果提升能力值中的體力，就會使FP點數增加。
 CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP(角色經驗值)是角色等級上升時所需的經驗值，經驗值只有在打怪或完成任務時，才能夠獲得；BT是特別的經驗加成，透過公會屋可以獲得，詳細請看幫助選單。
 CLIENT_HELP_INC_000063,Character Menu,角色視窗
-CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",按下H鍵開啟，此視窗會顯示關於角色的各種情報。『基本』頁面中，可以看到角色的名字、職業、等級、伺服器名稱、分流情報等基本的說明，在『詳細』頁面中，當前使用的裝備和等級顯示角色狀態，PVP/PK追蹤你的PVP信息。
+CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",按下H鍵開啟，此視窗會顯示關於角色的各種情報。『基本』頁面中，可以看到角色的名字、職業、等級、伺服器名稱、頻道情報等基本的說明，在『詳細』頁面中，當前使用的裝備和等級顯示角色狀態，PVP/PK追蹤你的PVP信息。
 CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",當你升等時將獲得能力點，可以在這選單上使用。升級時會獲得能力點數，並且可以增加基礎能力
 CLIENT_HELP_INC_000066,"ATK represents your Attack Power, this is how much damage you can deliver to the enemy. DEF represents your Defense, this is how much damage you can absorb from an enemy's attack. Critical means how much chance you have to make a critical attack, and A. Speed shows how fast your character will attack.",攻擊力代表你可以對敵人造成多少傷害；防禦力是代表可以從敵人的攻擊中吸收多少傷害；爆擊代表著你有多少機會造成爆擊傷害；攻擊速度代表你的角色攻擊時的速度。
 CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.",力量會影響基本攻擊力和法杖以外的武器攻擊力；體力會影響防禦力、增加HP最大量、FP最大量及增加HP、FP恢復量；敏捷會增加攻擊速度、迴避率、命中率、爆擊率，還會影響弓系列武器的攻擊力；智力會影響最大MP量、MP恢復量、魔法攻擊力及魔法防禦力。
@@ -110,7 +110,7 @@ CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you shoul
 CLIENT_HELP_INC_000108,Information Tab,資訊選項
 CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,此選項可讓你知道遊戲內通知，此處將不時列出各種消息和重大新聞，遊戲啟動時將會自動開啟顯示。
 CLIENT_HELP_INC_000110,Revive Menu,復活視窗
-CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.",角色的生命力變成0時，就會自動開啟此視窗。您可選擇回到附近城鎮的『生命光柱』或使用持有的付費道具復活卷軸，在原地復活。這裡會出現能夠使用付費商店的付費商店選項。
+CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.",角色的生命力變成0時，就會自動開啟此視窗。您可選擇回到附近城鎮的『城鎮之星』或使用持有的付費道具復活卷軸，在原地復活。這裡會出現能夠使用付費商店的付費商店選項。
 CLIENT_HELP_INC_000112,Trade Menu,交易視窗
 CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.",這是玩家之間進行物品或金錢交易時，所使用的視窗。必需要獲到雙方角色的同意，才能夠完成交易。
 CLIENT_HELP_INC_000114,Bank Menu,銀行選單
@@ -596,10 +596,10 @@ CLIENT_HELP_INC_000594,placholder 47,placholder 47
 CLIENT_HELP_INC_000595,placholder 48,placholder 48
 CLIENT_HELP_INC_000596,Building,建築物
 CLIENT_HELP_INC_000597,Information about the buildings that provide services.,在Flyff內，提供著必要的各種物品，除此之外還有很多支援各種機能的建築。
-CLIENT_HELP_INC_000598,Lodestar,生命光塔
+CLIENT_HELP_INC_000598,Lodestar,城鎮之星
 CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,位在城鎮廣場的一座大型建築物。此建築物會將分散到四周的生命，召喚到此處復活。當您沒有在戰鬥場附近的生命光柱儲存復活點時，就會前往生命光塔復活。
-CLIENT_HELP_INC_000600,Lodelight,生命光柱
-CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,與生命光塔相似，但是生命光柱分佈在大陸各個地方，您可指定其中一處復活。
+CLIENT_HELP_INC_000600,Lodelight,生命光塔
+CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,與生命光塔相似，但是城鎮之星分佈在大陸各個地方，您可指定其中一處復活。
 CLIENT_HELP_INC_000602,Weapon shop,武器商店
 CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.",販賣見習生；一轉職業：勇者、神職者、雜技師等及二轉職業：騎士、暗殺者、念力師、研術者、守護者、爆咒師、操偶師、浪人的武器。
 CLIENT_HELP_INC_000604,Armor shop,防具店
@@ -619,7 +619,7 @@ CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different f
 CLIENT_HELP_INC_000618,Fame,名譽
 CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,在對戰中獲的很多勝利時，名譽自然會上升。而隨著名譽的上升，可以獲得各種的號稱。
 CLIENT_HELP_INC_000620,Guild Combat Center,公會戰鬥中心
-CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會大戰及1:1公會大戰參加申請，還有可以進行大戰的地方。只有在第1分流可以使用。
+CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會大戰及1:1公會大戰參加申請，還有可以進行大戰的地方。只有在第1頻道可以使用。
 CLIENT_HELP_INC_000622,Other inquiries,其他事項
 CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,查詢更多事項請訪問官方網站：$WEBSITE$。 祝你今天過得愉快。
 CLIENT_HELP_INC_000624,Beauty shop,美容商店
@@ -681,8 +681,8 @@ CLIENT_HELP_INC_000679,placholder 63,placholder 63
 CLIENT_HELP_INC_000680,placholder 64,placholder 64
 CLIENT_HELP_INC_000681,placholder 65,placholder 65
 CLIENT_HELP_INC_000682,placholder 66,placholder 66
-CLIENT_HELP_INC_000683,Server,伺服器分流
-CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,公會倉庫使用或公會大戰等機制，僅限第1分流進行。
+CLIENT_HELP_INC_000683,Server,伺服器
+CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,公會倉庫使用或公會大戰等機制，僅限第1頻道進行。
 CLIENT_HELP_INC_000685,placholder 67,placholder 67
 CLIENT_HELP_INC_000686,placholder 68,placholder 68
 CLIENT_HELP_INC_000687,placholder 69,placholder 69

@@ -3,7 +3,7 @@ CLIENT_TIP_INC_000000,"To change the camera view, move the mouse or use the arro
 CLIENT_TIP_INC_000001,"Press Spacebar to jump while on the ground. While flying, press Spacebar to start or stop moving.",按空白鍵可以在地面上跳躍，飛行時會使飛行器具停止或啟動。
 CLIENT_TIP_INC_000002,Flying becomes available at level 20 regardless of your class. Flying items can be purchased from the [Station] NPC in each town.,任何職業都必須到達等級20級之後，才能飛行。飛行器可以找各城鎮的 [航空站] NPC 購買。
 CLIENT_TIP_INC_000003,"If you need HP, sit down using the Emotes menu. Resting takes time but saves money.",生命力(HP)不足之時，可選擇動作欄上的『坐下』來恢復體力。雖然耗費的時間較久，但是可以省下不少錢唷！
-CLIENT_TIP_INC_000004,"If you die, use Lodestar to revive in town. To revive at the place where you died, use a Scroll of Resurrection or have someone cast Resurrection on you.",如果不小心死了，但是城鎮又太遠，不想回城鎮復活時，可以接受復活技能復活或使用持有的付費道具“復活卷軸”，就能夠在原地復活了。
+CLIENT_TIP_INC_000004,"If you die, use Lodestar to revive in town. To revive at the place where you died, use a Scroll of Resurrection or have someone cast Resurrection on you.",如果不小心死了，但是城鎮又太遠，不想回城鎮之星復活時，可以接受復活技能復活或使用持有的付費道具“復活卷軸”，就能夠在原地復活了。
 CLIENT_TIP_INC_000005,"Items that restore HP, MP, and FP - such as Food, Refreshers, and Vital Drinks - are most effective up to a certain value. Using them above that value restores less.",食物、魔力、活力補充劑多這類物品可以補充角色的HP、MP、FP。但是這些物品可以補充的量是有上限的。購買補品的時候，請確認恢復的上限，使用適合自己程度的物品，才能將效果發揮到最大。
 CLIENT_TIP_INC_000006,"When you reach level 15, complete your job change quest as soon as possible. Until you do, you cannot gain additional EXP.",等級到達15級時，請盡快去進行轉職。因為見習生等級到達15級之後，不會再累積任何的經驗值了。
 CLIENT_TIP_INC_000007,Press ESC to cancel your target.,想取消目標，按鍵盤上的ESC鍵後，即可取消目標。 
