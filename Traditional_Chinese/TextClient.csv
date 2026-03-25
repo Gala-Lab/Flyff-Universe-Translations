@@ -62,8 +62,8 @@ TEXTCLIENT_APP_MOTION,Emotes,動作
 TEXTCLIENT_APP_CHARINFO,Character,角色
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s 恢復限制為 %d。
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,請稍後再使用該物品。
-TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下生命光柱復活（最近的城鎮）或使用道具原地復活。
-TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下生命光柱在競技場附近復活。
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下城鎮之星復活（最近的城鎮）或使用道具原地復活。
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下城鎮之星在競技場附近復活。
 TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,您無法攻擊正在與其他玩家戰鬥的怪物。
 TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,戰鬥中，無法退出。
 TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,等級提升！您可以在角色視窗提升您的能力值。
