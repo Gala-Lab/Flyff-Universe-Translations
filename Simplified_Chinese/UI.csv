@@ -2559,7 +2559,7 @@ UI_HOUSINGWARDROBE_UNEQUIP,Unequip,卸下
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,卸下物品？
 UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,要从 NPC 身上卸下该物品吗？
 UI_HOUSINGSETUP_PETS,Pets,宠物
-UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在房屋仓库中，通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb​ 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\ncffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
+UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在房屋仓库中，通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
 UI_PETTRAINING_PET,Pet to Train,训练宠物
 UI_PETTRAINING_CANDY,Pet Candy,宠物糖果
 UI_PETTRAINING_INTERVALS,Feeding Interval,喂养间隔
