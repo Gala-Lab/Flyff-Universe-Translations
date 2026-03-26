@@ -1729,8 +1729,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s a obtenu l'objet.
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,Un joueur qui n'est plus disponible a reçu l'article par courrier.
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Objet : %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Chance de Coup Multiple
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Chance de frappe multiple (JcJ)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Chance de frappe multiple (JcE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,Tuez des Monstres Niv. %s+ sur les canaux PK
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,Tuez %s sur les canaux PK
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Terminez le(s) donjon(s)
@@ -3277,7 +3277,7 @@ UI_NEWYEARPASS_2026,2026 New Year Pass,Pass Nouvel An 2026
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,Dans votre garde-robe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Pas dans votre garde-robe
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Atteignez 99.99 % d'EXP pour votre familier
-UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
+UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Identifiant publicitaire :
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
-UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
-UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Personnalisation des annonces :
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Données utilisateur de l'annonce :
