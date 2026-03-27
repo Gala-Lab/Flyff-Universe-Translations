@@ -1785,12 +1785,12 @@ PROPQUEST_INC_132079,The Mystery of the Shady Eye,阴翳之眼之谜
 PROPQUEST_INC_132080,The Mystery of the Shady Eye (2),阴翳之眼之谜 (2)
 PROPQUEST_INC_132081,The Cursed Wing of Destiny,宿命的诅咒之翼
 PROPQUEST_INC_132082,The Cursed Wing of Destiny (2),宿命的诅咒之翼 (2)
-PROPQUEST_INC_132083,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 已出现在遗忘之塔第六层。
-PROPQUEST_INC_132086,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 已出现在遗忘之塔第七层。
+PROPQUEST_INC_132083,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 已出现在深渊之塔第6层。
+PROPQUEST_INC_132086,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 已出现在深渊之塔第7层。
 PROPQUEST_INC_132087,Disarming the Maleficars,瓦解邪术使
-PROPQUEST_INC_132088,Disarming the Maleficars (2),瓦解邪术使 (2)
+PROPQUEST_INC_132088,Disarming the Maleficars (2),瓦解邪术使(2)
 PROPQUEST_INC_132089,Stealing gems from the cursed guardian,从被诅咒守卫手中盗取宝石
-PROPQUEST_INC_132090,Stealing gems from the cursed guardian (2),从被诅咒守卫手中盗取宝石 (2)
+PROPQUEST_INC_132090,Stealing gems from the cursed guardian (2),从被诅咒守卫手中盗取宝石(2)
 PROPQUEST_INC_110277,Herbology Class,草药学课程
 PROPQUEST_INC_110278,You can gather herbs with a hoe. Want to learn how to gather herbs?,You can gather herbs with a hoe. Want to learn how to gather herbs?
 PROPQUEST_INC_110279,"Good. Then go out into the field and try to gather some. It will be a great help, whether you succeed or not.","Good. Then go out into the field and try to gather some. It will be a great help, whether you succeed or not."
@@ -2524,7 +2524,7 @@ PROPQUEST_INC_150471,"You’ve already done so much, but if I may, I’d like to
 PROPQUEST_INC_150472,I pray this ends without more tragedy.,我只希望这一切能在不再发生更多悲剧的情况下结束。
 PROPQUEST_INC_150473,So… you’ve come all the way here.,看来……你还是一路追到了这里。
 PROPQUEST_INC_150474,Go to Ankou’s Asylum,前往安库的庇护所
-PROPQUEST_INC_150475,Climax,高潮
+PROPQUEST_INC_150475,Climax,巅峰
 PROPQUEST_INC_150476,"Do I look pathetic to you? A traitor, betrayed and left to die… What would an outsider like you understand? Do you have any idea how much torment I’ve endured to get this far? No, explaining is pointless. In the end, we all meet the same fate.",在你眼里我是不是很可悲？一个叛徒，被出卖、被丢在这里等死……像你这样的外人，又能明白什么？你知道我为了走到这一步，受了多大的折磨吗？算了，解释也没意义。反正到最后，我们都逃不过同样的命运。
 PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted revenge? Ha. I lost my wife long ago and never had a child—how could I have a granddaughter? Kuhuhu… so even you… (dies),继续吧。安库会赐予你安宁的。我孙女想要复仇？哈。我早就没了妻子，也没生过孩子——哪来的孙女？库呼呼……原来连你也是……（断气）
 PROPQUEST_INC_150478,What’s wrong? Are you afraid now that you have to face a demon? It’s too late for that.,怎么了？现在要面对恶魔了，害怕了吗？可惜已经太迟了。
@@ -2553,18 +2553,18 @@ PROPQUEST_INC_150500,I don’t know the exact location myself—just what I’ve
 PROPQUEST_INC_150501,"It’s been a while. What brings you here? You found this in Kaillun? I’m Muran as well, though I left my tribe long ago. I can’t say much, but will you hand that over? It’s about summoning a god and speeding up the tower’s completion. Take this as thanks.",好久不见，你怎么来了？这是在凯伦找到的？我也来自穆兰，虽然很早就离开了部族。我不能多说，把这东西交给我吧。这关乎神的召唤和塔的加速完工，拿好这个当作谢礼。
 PROPQUEST_INC_150502,Meet with “[Mysterious] ???”,与[未知] ??? 会面
 PROPQUEST_INC_150503,Kaillun Daily Quests,凯伦 每日任务
-PROPQUEST_INC_150504,Lost your chain again?,又弄丢你的锁链了？
-PROPQUEST_INC_150505,"Could you help me, sir? That thing stole my belongings again. I’ll be punished if I don’t get my serial number chain back. Please help me.",先生，能帮帮我吗？那东西又把我的物品偷走了。要是拿不回我的编号锁链，我会被惩罚的。求求你帮帮我。
+PROPQUEST_INC_150504,Lost your chain again?,又“掉链子”了？
+PROPQUEST_INC_150505,"Could you help me, sir? That thing stole my belongings again. I’ll be punished if I don’t get my serial number chain back. Please help me.",先生，能帮帮我吗？那家伙又把我的东西偷走了。要是拿不回那条编号链子，我会被处罚的。拜托您帮帮我。
 PROPQUEST_INC_150506,"Oh gods, thank you.",噢，我的老天鹅，谢谢你。
 PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.",就当是帮帮亡者一次……求你了。
 PROPQUEST_INC_150508,"Have you retrieved it yet? Ah, not yet, I see.",找到了吗？啊，看来还没有。
 PROPQUEST_INC_150509,I can’t thank you enough.,真不知道该怎么谢你才好。
-PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,击杀 50 只小型疾行猎犬然后获得 1 条被遗弃的编号牌链子
+PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,击杀50只小型疾行猎犬然后拾取1条废弃编号链
 PROPQUEST_INC_150511,Clearing the Area,清剿区域
 PROPQUEST_INC_150512,There are so many Captain Kyouchish around that I can’t rest in peace. Could you take care of them?,周围大型利爪奇什太多了，搞得我都不得安宁。能麻烦你去清理一下吗？
 PROPQUEST_INC_150513,Thank you. I heard their howls coming from that way.,谢谢。我听见它们的嚎叫声是从那边传来的。
 PROPQUEST_INC_150514,You’re the only one I can rely on.,
-PROPQUEST_INC_150515,"I’m counting on you, sir.","I’m counting on you, sir.大型利爪奇什"
+PROPQUEST_INC_150515,"I’m counting on you, sir.,"I’m counting on you, sir.
 PROPQUEST_INC_150516,Now I can finally rest easy until the next ship arrives. Thank you.,现在总算能安心休息了，直到下一艘船到来。谢谢你。
 PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,击杀 30 只大型利爪奇什
 PROPQUEST_INC_150518,Honor of a Warrior 1,战士的荣耀 1
