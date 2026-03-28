@@ -1,117 +1,117 @@
 ﻿Key,English,Traditional_Chinese
-UI_EVENT_EXPBOOST,EXP Boost!,經驗值提升
+UI_EVENT_EXPBOOST,EXP Boost!,經驗值加成提升！
 UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,飾品升級！
 UI_EVENT_WEAPONPIERCING,Weapon Piercing!,武器穿洞！
-UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,組隊經驗值提升
-UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,發現黃金獨眼蝙蝠
-UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中獵殺黃金艾巴特並獲得掉落獎勵！
-UI_EVENT_NIGHTBOOST,Night Boost!,夜間提升
-UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,遊戲中夜間+30% 經驗值！
-UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,晚上！經驗值 x1.3 倍！！
-UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...",太陽出來了，1.3倍經驗值結束了…
-UI_EVENT_EASTER,Easter Event,復活節活
-UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,完成蛋細胞的草地即可獲得粉紅色復活節彩蛋！
-UI_EVENT_SPRING,Spring Event!,春天活動
+UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,劇團的經驗值提升！
+UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,發現黃金獨眼蝙蝠！
+UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中獵殺黃金艾巴特並獲得物品掉落率加成！
+UI_EVENT_NIGHTBOOST,Night Boost!,夜間提升！
+UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,遊戲中夜間經驗值加成 +30%！
+UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,夜幕降臨了！經驗值加成 x1.3 倍！
+UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...",太陽出來了，經驗值加成 x1.3 倍結束了…
+UI_EVENT_EASTER,Easter Event,復活節活動
+UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,完成蛋蛋樂草原即可獲得粉紅色復活節彩蛋！
+UI_EVENT_SPRING,Spring Event!,春天活動！
 UI_EVENT_DIAMONDINTHESKY,Diamond in the Sky,天空中的鑽石
 UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,摧毀夜空中的星星以獲得星星碎片！
-UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out. Find them in the sky!,夜幕降臨了！ 星星出來了..在天空中找到它們！
-UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing.",夜幕已過，星星漸漸消失。
-UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,副本金幣折扣！
+UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out. Find them in the sky!,夜幕降臨了！星星出來了！在天空中找到它們！
+UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing.",夜幕已過，星星正在消失。
+UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,副本幣折扣！
 UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,執行任務或進入副本時花費更少的副本幣！
-UI_EVENT_ANNIVERSARY,1st Anniversary!,一周年！
-UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe 即將迎來 1 歲生日！ 非常感謝所有飛行者使這一里程碑成為可能！
-UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,出席一周年紀念
-UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,每天登入40分鐘即可領取獎勵
-UI_EVENT_FWC,Flyff World Championship,Flyff世界錦標賽
+UI_EVENT_ANNIVERSARY,1st Anniversary!,一週年！
+UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe 1 週年囉！非常感謝所有玩家，是你們讓這里程碑成為可能！
+UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,出席一週年紀念
+UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,每天登入40分鐘即可領取獎勵！
+UI_EVENT_FWC,Flyff World Championship,Flyff 世界錦標賽
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,FWC 等級達成
-UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,活動期間達到新等級並獲得獎勵！ 僅在 Flyff 世界錦標賽伺服器上！
-UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,在【FWC管理員】Ava處兌換FWC裝備即可獲得更多獎勵！
-UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted EXP and Drops and compete for exceptional prizes!",#bFlyff 世界錦標賽#nb 是一項全球比賽，持續至 2023 年 9 月 7 日。加入該伺服器即可獲得更高的經驗和掉落，並試試贏得非凡獎品！
-UI_EVENT_MOCOMOCHI,Mocomochi!,摩可摩奇
-UI_EVENT_UPGRADING,Upgrading!,升級!
+UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,活動期間達到新等級並獲得獎勵！僅限 Flyff 世界錦標賽伺服器！
+UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,在 [FWC Manager] Ava 處兌換 FWC 裝備即可獲得更多獎勵！
+UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted EXP and Drops and compete for exceptional prizes!",#bFlyff 世界錦標賽#nb 是一項全球性賽事，將於 2023 年 9 月 7 日結束。加入此伺服器，即可獲得經驗和物品掉落率加成，並贏得豐厚獎品！
+UI_EVENT_MOCOMOCHI,Mocomochi!,摩可摩奇！
+UI_EVENT_UPGRADING,Upgrading!,強化升級！
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,幸運抽獎！
 UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quests, then spend them at the Gacha Machine to receive exceptional rewards!",透過擊敗怪物或完成扭蛋機 NPC 的任務來賺取金幣並獲得特殊獎勵！
-UI_EVENT_DROPBOOST,Drop Boost!,下降增益
-UI_EVENT_SUITPIERCING,Suit Piercing!,套裝穿刺！
-UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff音樂祭
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,從怪物身上收集音符和樂譜卷軸並與 NPC 巴赫交換
-UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,+30%經驗!
-UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,+30%組隊經驗!
-UI_EVENT_SECRETBOOST,Secret Boost!,秘密增益!
+UI_EVENT_DROPBOOST,Drop Boost!,物品掉落率加成提升！
+UI_EVENT_SUITPIERCING,Suit Piercing!,衣服穿洞！
+UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff 音樂祭！
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,從怪物身上收集音符和樂譜卷軸並與 NPC 巴赫交換。
+UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,經驗成加成 +30%！
+UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,劇團的經驗值 +30%！
+UI_EVENT_SECRETBOOST,Secret Boost!,秘密提升！
 UI_EVENT_RESCUE,Rescue Private Leo!,營救二等兵李奧！
 UI_EVENT_STONERAIN,Stone Rain!,石雨！
-UI_EVENT_STONERAIN_DESC,Monsters drop upgrade stone pieces!,掉落升級石碎片！
+UI_EVENT_STONERAIN_DESC,Monsters drop upgrade stone pieces!,怪物掉落升級石碎片！
 UI_EVENT_LUCKYRPS,Lucky RPS Event,幸運RPS活動
 UI_EVENT_SERVICEMIGRATION,September Connect,九月連線
-UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,玩家調查！ 爭取特別獎勵！
+UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,玩家調查！爭取特別獎勵！
 UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,點此了解詳情！ https://linktr.ee/flyffuniverse
 UI_EVENT_OKTOBERFEST,Oktoberfest!,慕尼黑啤酒節！
 UI_EVENT_TIME_TO_HUNT,Time to Hunt,狩獵時間
-UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?",今年是豐收年，所以有很多怪物出來搶莊稼。\n是時候追捕他們了！ 你能幫我嗎？
+UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?",今年是豐收年，所以有很多怪物出來偷走農作物。\n是時候追捕他們了！你能幫忙嗎?
 UI_EVENT_TRICKORTREAT,Trick or Treat,不給糖就搗蛋
 UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,萬聖節世界魔王
-UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,抓住小偷聖誕老人
+UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,抓住聖誕老人小偷
 UI_EVENT_NEWYEAR,New Year,新年
-UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boss掉落加成！
-UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本Boss掉寶+20%!
-UI_EVENT_WEATHERBOOST,Weather Boost!,天氣加成!
-UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,1.3 更新調查！ 爭取特別獎勵！
-UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,雪克隆人的攻擊
+UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boss 物品掉落率加成提升！
+UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本 Boss 物品掉落率加成 +20%！
+UI_EVENT_WEATHERBOOST,Weather Boost!,天氣提升！
+UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,v1.3 更新調查！爭取特別獎勵！
+UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,克隆雪人的攻擊
 UI_EVENT_LETTER_COLLECTION,2024 Valentine's Day,2024 年情人節
-UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!,與所愛的人或朋友交換信件來完成以下短語！
+UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!,與所愛的人或朋友交換信件，完成以下短語！
 UI_EVENT_LETTER_COLLECTION_PT50,50 points,50點
 UI_EVENT_LETTER_COLLECTION_PT100,100 points,100點
 UI_EVENT_LETTER_COLLECTION_PT150,150 points,150點
 UI_EVENT_LETTER_COLLECTION_PT200,200 points,200點
-UI_EVENT_CANDYEVENT,Candy Event,Candy Event
+UI_EVENT_CANDYEVENT,Candy Event,糖果活動
 UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,2024 春季活動
 UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,飢餓怪物來襲
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Login,每日登入
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate the 2nd anniversary of Flyff Universe!,Let's celebrate the 2nd anniversary of Flyff Universe!
-UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2nd Anniversary!
-UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!
-UI_EVENT_ANNIVERSARY2_CAKE,Cake,Cake
-UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Couple Ring from the Legend
-UI_EVENT_EXPBOOST_DESC_100,Experience x2!,Experience x2!
-UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,Drop Chance x2!
-UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Instance Dungeon Cooldown
-UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Upgrade Boost!
-UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Upgrade Chance x2!
-UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
-UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,Obtain EXP and event items in the dungeon to earn a permanent costume!
-UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Roll your Lucky Dice!
-UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!","Complete Daily Quests to earn dice, then roll them for rewards!"
-UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyff's 20th Anniversary
-UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,Celebrate Flyff's 20th Anniversary!
-UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,Plunder treasure from the Pirate Ship!
-UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
-UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1 Update Celebration
-UI_EVENT_145_ATTENDANCE,Playtime Event,Playtime Event
-UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Log in each day for 30 minutes to receive rewards!
-UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Mastery Event
-UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Increase your life gathering mastery gain by 20%!
-UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Mastery Event
-UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Increase your life production mastery gain by 20%!
-UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
-UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,Increase all life mastery gains by 20%!
-UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Increase your life gathering speed by 20%!
-UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
-UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Increase your life production speed by 20%!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,Life Gathering Durability Discount Event!
-UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,Reduces durability cost by 1 when gathering!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,Life Wandering Merchant Early Refresh Event!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!
-UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,Life Gathering Spawn Boost Event!
-UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,20% more gathering objects spawn during the event!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,Life Wandering Merchant Extra Stock Event!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,The Wandering Merchant offers 2 additional items for sale during the event!
-UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3rd Anniversary Field Boss Event
-UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Prediction Event
-UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC Prediction Event!
-UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,It's Time to Upgrade!
-UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.
-UI_EVENT_PTS,Public Test Server,Public Test Server
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information."
-UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 Valentine's Day
-UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item."
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate the 2nd anniversary of Flyff Universe!,讓我們一起慶祝 Flyff Universe 兩週年吧！
+UI_EVENT_ANNIVERSARY2,2nd Anniversary!,兩週年！
+UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe 2 週年囉！非常感謝所有玩家，是你們讓這里程碑成為可能！
+UI_EVENT_ANNIVERSARY2_CAKE,Cake,蛋糕
+UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,傳奇的情侶戒指
+UI_EVENT_EXPBOOST_DESC_100,Experience x2!,經驗值加成 x2 倍！
+UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,物品掉落率加成 x2 倍！
+UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,副本冷卻時間
+UI_EVENT_UPGRADEBOOST,Upgrade Boost!,強化升級提升！
+UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,強化升級機率 x2 倍！
+UI_EVENT_2024_VACANCE,2024 Vacance Event,2024年假期活動
+UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,在副本中獲取經驗值和活動物品，即可獲得永久時裝！
+UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,投擲你的幸運骰子吧！
+UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!","完成每日任務即可獲得骰子，投擲骰子贏取獎勵！"
+UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyff 20週年
+UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,慶祝 Flyff 成立 20 週年！
+UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,從海盜船上掠奪寶藏！
+UI_EVENT_THANKSGIVING,Thanksgiving Event,感恩節活動
+UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,ｖ1.4.1 版本更新慶祝活動
+UI_EVENT_145_ATTENDANCE,Playtime Event,遊戲時間活動
+UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,每天登入30分鐘即可獲得獎勵！
+UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,生活採集精通活動
+UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,生活採集精通獲取速度提升 20%！
+UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,生活製作精通活動
+UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,生活生產精通收益提升 20%！
+UI_EVENT_LIFEMASTERY,Life Mastery Event,生活精通活動
+UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,所有生活精通收益提升 20%！
+UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,生活採集速度活動
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,生活採集速度提升 20%！
+UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,生活生產速度活動
+UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,生活生產速度提升 20%！
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,生活採集耐久度折扣活動！
+UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,生活採集時耐久度消耗降低 1 點！
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,流浪商人提前刷新活動！
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,活動期間，流浪商人的庫存刷新時間將提前 30 分鐘！
+UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,生活採集刷新提升活動！
+UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,活動期間採集物品刷新率提高 20%！
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,流浪商人額外庫存活動！
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,活動期間，流浪商人將額外出售 2 件商品！
+UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,三週年世界 Boss 活動
+UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC預測活動
+UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC預測活動！
+UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,是時候強化升級了！
+UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,活動期間，成功將一件物品升級至 +1 至 +10 的等級即可獲得獎勵。 完成全部 10 個階段即可獲得終極飾品選擇箱。
+UI_EVENT_PTS,Public Test Server,公開測試伺服器
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","物品掉落率提升，副本冷卻時間縮短，還有更多精彩內容！請造訪 Discord 以獲取更多資訊。"
+UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026年情人節
+UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","在 2026 年情人節活動期間，玩家可以從擊敗怪物後掉落的情人節信件中獲得 I♥YOU 物品；只有等級比玩家角色等級低 10 級以內的怪物才有資格掉落該物品。
