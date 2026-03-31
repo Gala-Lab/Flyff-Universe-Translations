@@ -1946,12 +1946,12 @@ UI_RPS_SCISSORS,Scissors,Forbice
 UI_RPS_WIN_TITLE,You Win!,You Win!
 UI_GACHA_ACCEPT,Accept,Accetta
 UI_GACHA_DECLINE,Decline,Rifiuta
-UI_MSGBOX_PASTE,Paste,Paste
-UI_MSGBOX_CUT,Cut,Cut
+UI_MSGBOX_PASTE,Paste,Incolla
+UI_MSGBOX_CUT,Cut,Taglia
 UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
 UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,Next Level %s / %s
 UI_GUILDBUFF_DONATE,Donation,Donation
-UI_GUILDBUFF_TAB_LIST,Buff Information,Buff Information
+UI_GUILDBUFF_TAB_LIST,Buff Information,Informazioni sul Buff
 UI_GUILDBUFF_TAB_TOKENS,Token Donation,Token Donation
 UI_TOOLTIP_DST_DROP_EXP,Monster EXP and Drop,Monster EXP and Drop
 UI_GUILD_TAB_BUFFS,Guild Buff,Guild Buff
@@ -1967,7 +1967,7 @@ UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
 UI_FITTINGROOM_BG,Background,Background
 UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,Pixel-Perfect Cursor Selection
-UI_WEBVIEW_OPEN,Please open your web browser to continue.,Please open your web browser to continue.
+UI_WEBVIEW_OPEN,Please open your web browser to continue.,Apri il tuo browser web per continuare.
 UI_BATTLEPASS_JAN,January %d Pass,Gennaio %d Pass
 UI_BATTLEPASS_FEB,February %d Pass,Febbraio %d Pass
 UI_BATTLEPASS_MAR,March %d Pass,Marzo %d Pass
@@ -1996,7 +1996,7 @@ UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Rank %d / %d (%d points)
 UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!,You've received a speed penalty for leaving the track - return now or you'll be disqualified!
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Current speed multiplier: %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Rainbow Race Application
-UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,Registering costs %lld Penya. Continue?
+UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,La registrazione costa %lld Penya. Continuare?
 UI_RAINBOWRACE_APP_CURRENT,Registered Applicants: %d,Registered Applicants: %d
 UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,Application Fee: %lld Penya
 UI_RAINBOWRACE_APP_TIP,Register for the Rainbow Race,Register for the Rainbow Race
@@ -2175,7 +2175,7 @@ UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,Egg Use Achievements Event
 UI_EGG_USE_EVENT,Egg Use,Egg Use
 UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!","Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!"
 UI_EGG_USE_RED_EGG,Red Egg,Uovo Rosso
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Uovo all'arancia
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Uovo Arancione
 UI_EGG_USE_YELLOW_EGG,Yellow Egg,Uovo Giallo
 UI_EGG_USE_GREEN_EGG,Green Egg,Uovo Verde
 UI_EGG_USE_BLUE_EGG,Blue Egg,Uovo Blu
@@ -2208,7 +2208,7 @@ UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
 UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,The message has to be between 4 and %d characters. 
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,Delete Message
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,Elimina messaggio
 UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Delete this guest's message?,Delete this guest's message?
 UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
 UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
@@ -2273,7 +2273,7 @@ UI_RAINBOWRACE_FRIEND_NAME,Name,Nome
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
 UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.
 UI_RAINBOWRACE_ITEM,Item,Item
-UI_RAINBOWRACE_SPEED,Speed,Speed
+UI_RAINBOWRACE_SPEED,Speed,Velocità
 UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?
 UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.

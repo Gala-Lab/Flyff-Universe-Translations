@@ -2207,7 +2207,7 @@ PROPITEM_TXT_004207,Recovers 330 HP,Recupera 330 HP
 PROPITEM_TXT_004208,Hot Dog,Hot Dog
 PROPITEM_TXT_004209,Recovers 429 HP,Recupera 429 HP
 PROPITEM_TXT_004210,Super Hot Dog,Super Hot Dog
-PROPITEM_TXT_004211,Recovers ALL HP,Recupera TUTTI Gli HP
+PROPITEM_TXT_004211,Recovers ALL HP,Recupera tutti gli HP
 PROPITEM_TXT_004212,Pizza,Pizza
 PROPITEM_TXT_004213,Recovers 584 HP,Recupera 584 HP
 PROPITEM_TXT_004214,Kimbap,Kimbap
@@ -2220,7 +2220,7 @@ PROPITEM_TXT_004220,Meat Skewer,Skewer Di Carne
 PROPITEM_TXT_004221,Recovers 120 HP,Recupera 120 HP
 PROPITEM_TXT_004222,Barbecue,Barbecue
 PROPITEM_TXT_004223,Recovers 160 HP,Recupera 160 HP
-PROPITEM_TXT_004224,Seafood Pancake,Torta Fagiolo Di Frutti
+PROPITEM_TXT_004224,Seafood Pancake,Frittella di pesce
 PROPITEM_TXT_004225,Recovers 230 HP,Recupera 230 HP
 PROPITEM_TXT_004226,Fish Soup,Zuppa Di Pesce
 PROPITEM_TXT_004227,Recovers 300 HP,Recupera 300 HP
@@ -2228,7 +2228,7 @@ PROPITEM_TXT_004228,Sausage Casserole,Casseruola Di Salsiccia
 PROPITEM_TXT_004229,Recovers 370 HP,Recupera 370 HP
 PROPITEM_TXT_004230,Fish Stew,Stufato Di Pesce
 PROPITEM_TXT_004231,Recovers 514 HP,Recupera 514 HP
-PROPITEM_TXT_004232,Steamed Seafood,Frutti A Vapore
+PROPITEM_TXT_004232,Steamed Seafood,Frutti di mare al vapore
 PROPITEM_TXT_004233,Recovers 670 HP,Recupera 670 HP
 PROPITEM_TXT_004234,Meat Salad,Insalata Di Carne
 PROPITEM_TXT_004235,Recovers 1300 HP,Recupera 1300 HP
@@ -17802,11 +17802,11 @@ PROPITEM_TXT_133421,Fish Ball (B),Fish Ball (B)
 PROPITEM_TXT_133422,Fish Ball (A),Fish Ball (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Fish Ball (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133425,Seafood Pancake (C),Torta Fagiolo Di Frutti (C)
+PROPITEM_TXT_133425,Seafood Pancake (C),Frittella di pesce (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Recupera 276 HP
-PROPITEM_TXT_133427,Seafood Pancake (B),Torta Fagiolo Di Frutti (B)
-PROPITEM_TXT_133428,Seafood Pancake (A),Torta Fagiolo Di Frutti (A)
-PROPITEM_TXT_133429,Seafood Pancake (A+),Torta Fagiolo Di Frutti (A+)
+PROPITEM_TXT_133427,Seafood Pancake (B),Frittella di pesce (B)
+PROPITEM_TXT_133428,Seafood Pancake (A),Frittella di pesce (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+),Frittella di pesce (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Recupera 299 HP
 PROPITEM_TXT_133431,Fish Soup (C),Fish Soup (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Recupera 360 HP
@@ -17828,11 +17828,11 @@ PROPITEM_TXT_133447,Fish Stew (A+),Stufato Di Pesce (A+)
 PROPITEM_TXT_133448,Recovers 668 HP,Recupera 668 HP
 PROPITEM_TXT_133449,Pizza (C),Pizza (C)
 PROPITEM_TXT_133450,Recovers 701 HP,Recupera 701 HP
-PROPITEM_TXT_133451,Steamed Seafood (C),Frutti A Vapore (C)
+PROPITEM_TXT_133451,Steamed Seafood (C),Frutti di mare al vapore (C)
 PROPITEM_TXT_133452,Recovers 804 HP,Recupera 804 HP
-PROPITEM_TXT_134671,Steamed Seafood (B),Frutti A Vapore (B)
-PROPITEM_TXT_133453,Steamed Seafood (A),Frutti A Vapore (A)
-PROPITEM_TXT_133454,Steamed Seafood (A+),Frutti A Vapore (A+)
+PROPITEM_TXT_134671,Steamed Seafood (B),Frutti di mare al vapore (B)
+PROPITEM_TXT_133453,Steamed Seafood (A),Frutti di mare al vapore (A)
+PROPITEM_TXT_133454,Steamed Seafood (A+),Frutti di mare al vapore (A+)
 PROPITEM_TXT_133455,Recovers 871 HP,Recupera 871 HP
 PROPITEM_TXT_133456,Grilled Mackerel (D),Grilled Mackerel (D)
 PROPITEM_TXT_133457,A nicely grilled mackerel.,A nicely grilled mackerel.
