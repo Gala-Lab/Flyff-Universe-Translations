@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -2473,8 +2473,8 @@ PROPITEM_TXT_004485,"Known as the ""Red Scroll"" in some circles, this powerful 
 PROPITEM_TXT_004486,Common Bank 15,Compte Commun (15 jours)
 PROPITEM_TXT_004487,Access items in all your characters' banks,Parchemin donnant accès aux banques de vos autres personnages du serveur.
 PROPITEM_TXT_004488,Common Bank 30,Compte Commun (30 jours)
-PROPITEM_TXT_004490,Activation,Élixir de combos
-PROPITEM_TXT_004491,Provides unlimited Action Slot skills. Lasts 1 Hour.,Élixir permettant d'enchaîner les combos sans pénalité de délai pendant 1 heure.
+PROPITEM_TXT_004490,Activation,Parchemin de combos
+PROPITEM_TXT_004491,Provides unlimited Action Slot skills. Lasts 1 Hour.,Parchemin permettant d'enchaîner les combos sans pénalité de délai pendant 1 heure.
 PROPITEM_TXT_004494,Transy,Parchemin de Morphologie
 PROPITEM_TXT_004495,Changes Sex,"Parchemin permettant de changer le genre du personnage, fille ou garçon ?"
 PROPITEM_TXT_004496,Rocket Cracker,Feu d'artifice
@@ -2589,9 +2589,9 @@ PROPITEM_TXT_004669,What on earth is in this box?,"Mais, que peut bien contenir 
 PROPITEM_TXT_004670,Re-Skill,Parchemin de Compétences
 PROPITEM_TXT_004671,Allows you to redistribute your skill points once. Does not work for Vagrants.,Parchemin permettant de redistribuer une fois tous les points de compétences (Inutilisable par le Vagabond).
 PROPITEM_TXT_004672,Box of Vital,Coffre de Vitalité
-PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Coffre contenant Boisson Énergétique X et Élixir de Combos.
+PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Coffre contenant Boisson Énergétique X et Parchemin de combos.
 PROPITEM_TXT_004674,Box of Mana,Coffre de Mana
-PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Coffre contenant Fiole de Mana X et Élixir de combos.
+PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Coffre contenant Fiole de Mana X et Parchemin de combos.
 PROPITEM_TXT_004676,Soup Box of Vital,Coffre de Soupe Vitale
 PROPITEM_TXT_004677,Contains Hot Ddukguk and Fresh Ddukguk,Coffre contenant Dukguk Chaud et Dukguk Frais.
 PROPITEM_TXT_004678,Soup Box of Change,Coffre de Soupe Spirituelle
@@ -2660,8 +2660,8 @@ PROPITEM_TXT_004740,Scroll of SFusion High,Parchemin Sfusion Haut
 PROPITEM_TXT_004741,"100% Upgrade Rate up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Parchemin garantissant la réussite de l'enchantement des armes et armures à 100% (efficace jusqu'à un enchantement +7, mais chaque parchemin n'est actif que pour une seule tentative d'enchantement. Attention, ne fonctionne pas pour les élémentarisations.)."
 PROPITEM_TXT_004742,Item Transy (A),Morphitem (60)
 PROPITEM_TXT_004743,Change the sex of items levels 1-60 (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 1 à 60), hormis ceux de la Boutique Flyff."
-PROPITEM_TXT_004744,Item Transy (B),Morphitem (155)
-PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 61 à 155), hormis ceux de la boutique Flyff."
+PROPITEM_TXT_004744,Item Transy (B),Morphitem (190)
+PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 61 à 190), hormis ceux de la boutique Flyff."
 PROPITEM_TXT_004746,[20] Scroll of Amplification ES,Parchemin de Maîtrise S3 (20)
 PROPITEM_TXT_004747,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 3 times for a total of x2.5 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.,"Expérience augmentée de 50% (x1,5) pendant 1 heure, cumulable 3 fois pour un total de x2,5. Ne peux pas être utilisé en même temps qu'un autre Parchemin d'Amplification ES. Le bonus d'expérience disparaîtra si vous atteignez le niveau maximum du parchemin."
 PROPITEM_TXT_004748,[40] Scroll of Amplification ES,Parchemin de Maîtrise S3 (40)
@@ -8132,7 +8132,7 @@ PROPITEM_TXT_101494,This box contains many rewards including a Upgraded RPS Cons
 PROPITEM_TXT_101495,RPS Reward Box Lv 3,Récompense Flyffoumi Lv3
 PROPITEM_TXT_101496,This box contains many rewards including a Vital Drink X or Refresher Hold and Upcut Stone.,"Cette boite contient de nombreuses récompenses, dont une Boisson Energétique X, une Fiole de Mana X ou une Pierre Mars."
 PROPITEM_TXT_101498,RPS Reward Box Lv 4,Récompense Flyffoumi Lv4
-PROPITEM_TXT_101499,"This box contains many rewards including a Scroll of Sprint, a Scroll of Amplification ES and a Activation.","Cette boite contient de nombreuses récompenses, dont un Parchemin de Sprint, un Parchemin Spécial d'Amplification et un élixir de combos."
+PROPITEM_TXT_101499,"This box contains many rewards including a Scroll of Sprint, a Scroll of Amplification ES and a Activation.","Cette boite contient de nombreuses récompenses, dont un Parchemin de Sprint, un Parchemin Spécial d'Amplification et un Parchemin de combos."
 PROPITEM_TXT_101500,RPS Reward Box Lv 5,Récompense Flyffoumi Lv5
 PROPITEM_TXT_101501,This box contains many rewards including Scrolls of AProtect.,"Cette boite contient de nombreuses récompenses, dont des Parchemins APotect."
 PROPITEM_TXT_101502,RPS Reward Box Lv 6,Récompense Flyffoumi Lv6
@@ -9442,7 +9442,7 @@ PROPITEM_TXT_130029,Popcrank Cap,Chapeau de Joker
 PROPITEM_TXT_130030,Adorned Popcrank Cap,Chapeau de Joker Orné
 PROPITEM_TXT_130031,Muffrin Cap,Chapeau de Muffrin
 PROPITEM_TXT_230000,Dungeon Coins,Jetons de Donjon
-PROPITEM_TXT_230001,Used to enter dungeons.,Permet d'entrer dans les donjons.
+PROPITEM_TXT_230001,Used to enter dungeons.,Permet d’accéder aux donjons et d’y appliquer des malédictions.
 PROPITEM_TXT_130032,PK Chromatic Wings (7 Days),Ailes Chromatiques de PK (7 jours)
 PROPITEM_TXT_130033,Shine like you're worth it.,Brillez comme vous le méritez !
 PROPITEM_TXT_130034,Glaphan Cap,Chapeau de Glaphan
@@ -12125,7 +12125,7 @@ PROPITEM_TXT_222099,White Phantocat,Chat-Fantôme Blanc
 PROPITEM_TXT_222100,Exorcist Lucky Box,Boîte de Tenue d'Exorciste
 PROPITEM_TXT_222101,This box contains a Exorcist with Speed bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient une tenue Exorciste avec un bonus de vitesse. Vous pourrez sélectionner le genre du costume en ouvrant la boîte.
 PROPITEM_TXT_222102,2023 Halloween Package,Pack d'Halloween 2023
-PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Élixir de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Parchemin de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin (30 jours). Tous les objets sont liés."
 PROPITEM_TXT_222104,Halloween Enchant Package A,Pack d'Enchantement d'Halloween A
 PROPITEM_TXT_222105,A package containing 20x Scroll of AProtect and 1x Halloween Balloons Box. All items are also linked.,Paquet qui contient 20 Parchemins Aprotect et 1 Boîte de Ballons d'Halloween. Tous les objets sont liés.
 PROPITEM_TXT_222106,Halloween Enchant Package B,Pack d'Enchantement d'Halloween B
@@ -12161,7 +12161,7 @@ PROPITEM_TXT_222135,Red Riding Hood Set,Tenue du Chaperon Rouge
 PROPITEM_TXT_222136,Select if you want to receive Big Bad Wolf Set (M) or Red Riding Hood Set (F)!,Choisissez entre une Tenue de Grand Méchant Loup (G) ou de Chaperon Rouge (F) !
 PROPITEM_TXT_222137,1 Day Scroll of Combined Party Effects,Parchemin d'Effets de Groupe Combinés (1 jour)
 PROPITEM_TXT_222138,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 1 day from activation, even if logged off)","Augmente l'expérience de groupe de 50% et améliore les compétences de groupes. Permet de cumuler la durée des compétences de groupe mais pas leurs effets. Votre groupe recevra le double de points en passant un niveau. Fonctionne quand le chef de groupe l'a activé. (Dure 1 jour après activition, même hors connexion)."
-PROPITEM_TXT_222139,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Élixir de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin. Tous les objets sont liés."
+PROPITEM_TXT_222139,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Parchemin de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin. Tous les objets sont liés."
 PROPITEM_TXT_222140,Bank Extra Bag (15 Days),Sac d'inventaire de banque (15 jours)
 PROPITEM_TXT_222141,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 15 days.,Augmente la limite d’espace de la banque de 24 objets pour le personnage actuel. Vous ne pouvez en utiliser qu’un à la fois. Dure 15 jours.
 PROPITEM_TXT_222142,Bank Extra Bag (1 Day),Sac d’inventaire de banque (1 jour)
@@ -17325,7 +17325,7 @@ PROPITEM_TXT_140018,Couple Anniversary Gift 3,Cadeau d’Anniversaire de Couple 
 PROPITEM_TXT_140019,Couple Anniversary Gift 4,Cadeau d’Anniversaire de Couple 4
 PROPITEM_TXT_140020,Couple Anniversary Gift 5,Cadeau d’Anniversaire de Couple 5
 PROPITEM_TXT_140021,Couple Anniversary Gift 6,Cadeau d’Anniversaire de Couple 6
-PROPITEM_TXT_140022,Rose Petals,Pétales de Rose
+PROPITEM_TXT_140022,Rose Petals,Rose rouge
 PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","C’est une belle rose. Lors de son utilisation, vous gagnez 10 points de compétence de couple."
 PROPITEM_TXT_140024,Small Bouquet of Roses,Petit Bouquet de Roses
 PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.","C’est un petit bouquet composé de belles roses. Lors de son utilisation, vous gagnez 20 points de compétence de couple."
@@ -17794,13 +17794,13 @@ PROPITEM_TXT_133413,Meat Skewer (C),Brochette de Viande (C)
 PROPITEM_TXT_133414,Recovers 144 HP,Redonne 144 PV
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
 PROPITEM_TXT_133416,Recovers 144 HP,Redonne 144 PV
-PROPITEM_TXT_133417,Fish Ball (D),Boule de Poisson (D)
+PROPITEM_TXT_133417,Fish Ball (D),Boulette de Poisson (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133419,Fish Ball (C),Boule de Poisson (C)
+PROPITEM_TXT_133419,Fish Ball (C),Boulette de Poisson (C)
 PROPITEM_TXT_133420,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133421,Fish Ball (B),Boule de Poisson (B)
-PROPITEM_TXT_133422,Fish Ball (A),Boule de Poisson (A)
-PROPITEM_TXT_133423,Fish Ball (A+),Boule de Poisson (A+)
+PROPITEM_TXT_133421,Fish Ball (B),Boulette de Poisson (B)
+PROPITEM_TXT_133422,Fish Ball (A),Boulette de Poisson (A)
+PROPITEM_TXT_133423,Fish Ball (A+),Boulette de Poisson (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
 PROPITEM_TXT_133425,Seafood Pancake (C),Crêpe aux Fruits de Mer (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Redonne 276 PV
@@ -17902,62 +17902,62 @@ PROPITEM_TXT_133520,Tuna Sushi (B),Sushi (B)
 PROPITEM_TXT_133521,Tuna Sushi (A),Sushi (A)
 PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi (A+)
 PROPITEM_TXT_133523,Sushi made with tuna on top.,"Un sushi raffiné recouvert d’un tendre morceau de thon frais, apprécié des aventuriers en quête d’énergie."
-PROPITEM_TXT_133524,Red Fish Ball (D),Boule de Poisson Rouge (D)
+PROPITEM_TXT_133524,Red Fish Ball (D),Boulette de Poisson Rouge (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Boules de poisson infusées de réactifs alchimiques pour un effet spécial
-PROPITEM_TXT_133526,Red Fish Ball (C),Boule de Poisson Rouge (C)
-PROPITEM_TXT_133527,Red Fish Ball (B),Boule de Poisson Rouge (B)
-PROPITEM_TXT_133528,Red Fish Ball (A),Boule de Poisson Rouge (A)
-PROPITEM_TXT_133529,Red Fish Ball (A+),Boule de Poisson Rouge (A+)
-PROPITEM_TXT_133530,Blue Fish Ball (D),Boule de Poisson Bleu (D)
-PROPITEM_TXT_133531,Blue Fish Ball (C),Boule de Poisson Bleu (C)
-PROPITEM_TXT_133532,Blue Fish Ball (B),Boule de Poisson Bleu (B)
-PROPITEM_TXT_133533,Blue Fish Ball (A),Boule de Poisson Bleu (A)
-PROPITEM_TXT_133534,Blue Fish Ball (A+),Boule de Poisson Bleu (A+)
-PROPITEM_TXT_133535,Green Fish Ball (D),Boule de Poisson Vert (D)
-PROPITEM_TXT_133536,Green Fish Ball (C),Boule de Poisson Vert (C)
-PROPITEM_TXT_133537,Green Fish Ball (B),Boule de Poisson Vert (B)
-PROPITEM_TXT_133538,Green Fish Ball (A),Boule de Poisson Vert (A)
-PROPITEM_TXT_133539,Green Fish Ball (A+),Boule de Poisson Vert (A+)
-PROPITEM_TXT_133540,Purple Fish Ball (D),Boule de Poisson Violet (D)
-PROPITEM_TXT_133541,Purple Fish Ball (C),Boule de Poisson Violet (C)
-PROPITEM_TXT_133542,Purple Fish Ball (B),Boule de Poisson Violet (B)
-PROPITEM_TXT_133543,Purple Fish Ball (A),Boule de Poisson Violet (A)
-PROPITEM_TXT_133544,Purple Fish Ball (A+),Boule de Poisson Violet (A+)
-PROPITEM_TXT_133545,Rainbow Fish Ball (D),Boule de Poisson Arc-en-ciel (D)
-PROPITEM_TXT_133546,Rainbow Fish Ball (C),Boule de Poisson Arc-en-ciel (C)
-PROPITEM_TXT_133547,Rainbow Fish Ball (B),Boule de Poisson Arc-en-ciel (B)
-PROPITEM_TXT_133548,Rainbow Fish Ball (A),Boule de Poisson Arc-en-ciel (A)
-PROPITEM_TXT_133549,Rainbow Fish Ball (A+),Boule de Poisson Arc-en-ciel (A+)
-PROPITEM_TXT_133550,Orange Fish Ball (D),Boule de Poisson Orange (D)
-PROPITEM_TXT_133551,Orange Fish Ball (C),Boule de Poisson Orange (C)
-PROPITEM_TXT_133552,Orange Fish Ball (B),Boule de Poisson Orange (B)
-PROPITEM_TXT_133553,Orange Fish Ball (A),Boule de Poisson Orange (A)
-PROPITEM_TXT_133554,Orange Fish Ball (A+),Boule de Poisson Orange (A+)
-PROPITEM_TXT_133555,Sky Blue Fish Ball (D),Boule de Poisson Bleu Ciel (D)
-PROPITEM_TXT_133556,Sky Blue Fish Ball (C),Boule de Poisson Bleu Ciel (C)
-PROPITEM_TXT_133557,Sky Blue Fish Ball (B),Boule de Poisson Bleu Ciel (B)
-PROPITEM_TXT_133558,Sky Blue Fish Ball (A),Boule de Poisson Bleu Ciel (A)
-PROPITEM_TXT_133559,Sky Blue Fish Ball (A+),Boule de Poisson Bleu Ciel (A+)
-PROPITEM_TXT_133560,Yellow Fish Ball (D),Boule de Poisson Jaune (D)
-PROPITEM_TXT_133561,Yellow Fish Ball (C),Boule de Poisson Jaune (C)
-PROPITEM_TXT_133562,Yellow Fish Ball (B),Boule de Poisson Jaune (B)
-PROPITEM_TXT_133563,Yellow Fish Ball (A),Boule de Poisson Jaune (A)
-PROPITEM_TXT_133564,Yellow Fish Ball (A+),Boule de Poisson Jaune (A+)
-PROPITEM_TXT_133565,Pink Fish Ball (D),Boule de Poisson Rose (D)
-PROPITEM_TXT_133566,Pink Fish Ball (C),Boule de Poisson Rose (C)
-PROPITEM_TXT_133567,Pink Fish Ball (B),Boule de Poisson Rose (B)
-PROPITEM_TXT_133568,Pink Fish Ball (A),Boule de Poisson Rose (A)
-PROPITEM_TXT_133569,Pink Fish Ball (A+),Boule de Poisson Rose (A+)
-PROPITEM_TXT_133570,Grey Fish Ball (D),Boule de Poisson Gris (D)
-PROPITEM_TXT_133571,Grey Fish Ball (C),Boule de Poisson Gris (C)
-PROPITEM_TXT_133572,Grey Fish Ball (B),Boule de Poisson Gris (B)
-PROPITEM_TXT_133573,Grey Fish Ball (A),Boule de Poisson Gris (A)
-PROPITEM_TXT_133574,Grey Fish Ball (A+),Boule de Poisson Gris (A+)
-PROPITEM_TXT_133575,White Fish Ball (D),Boule de Poisson Blanc (D)
-PROPITEM_TXT_133576,White Fish Ball (C),Boule de Poisson Blanc (C)
-PROPITEM_TXT_133577,White Fish Ball (B),Boule de Poisson Blanc (B)
-PROPITEM_TXT_133578,White Fish Ball (A),Boule de Poisson Blanc (A)
-PROPITEM_TXT_133579,White Fish Ball (A+),Boule de Poisson Blanc (A+)
+PROPITEM_TXT_133526,Red Fish Ball (C),Boulette de Poisson Rouge (C)
+PROPITEM_TXT_133527,Red Fish Ball (B),Boulette de Poisson Rouge (B)
+PROPITEM_TXT_133528,Red Fish Ball (A),Boulette de Poisson Rouge (A)
+PROPITEM_TXT_133529,Red Fish Ball (A+),Boulette de Poisson Rouge (A+)
+PROPITEM_TXT_133530,Blue Fish Ball (D),Boulette de Poisson Bleu (D)
+PROPITEM_TXT_133531,Blue Fish Ball (C),Boulette de Poisson Bleu (C)
+PROPITEM_TXT_133532,Blue Fish Ball (B),Boulette de Poisson Bleu (B)
+PROPITEM_TXT_133533,Blue Fish Ball (A),Boulette de Poisson Bleu (A)
+PROPITEM_TXT_133534,Blue Fish Ball (A+),Boulette de Poisson Bleu (A+)
+PROPITEM_TXT_133535,Green Fish Ball (D),Boulette de Poisson Vert (D)
+PROPITEM_TXT_133536,Green Fish Ball (C),Boulette de Poisson Vert (C)
+PROPITEM_TXT_133537,Green Fish Ball (B),Boulette de Poisson Vert (B)
+PROPITEM_TXT_133538,Green Fish Ball (A),Boulette de Poisson Vert (A)
+PROPITEM_TXT_133539,Green Fish Ball (A+),Boulette de Poisson Vert (A+)
+PROPITEM_TXT_133540,Purple Fish Ball (D),Boulette de Poisson Violet (D)
+PROPITEM_TXT_133541,Purple Fish Ball (C),Boulette de Poisson Violet (C)
+PROPITEM_TXT_133542,Purple Fish Ball (B),Boulette de Poisson Violet (B)
+PROPITEM_TXT_133543,Purple Fish Ball (A),Boulette de Poisson Violet (A)
+PROPITEM_TXT_133544,Purple Fish Ball (A+),Boulette de Poisson Violet (A+)
+PROPITEM_TXT_133545,Rainbow Fish Ball (D),Boulette de Poisson Arc-en-ciel (D)
+PROPITEM_TXT_133546,Rainbow Fish Ball (C),Boulette de Poisson Arc-en-ciel (C)
+PROPITEM_TXT_133547,Rainbow Fish Ball (B),Boulette de Poisson Arc-en-ciel (B)
+PROPITEM_TXT_133548,Rainbow Fish Ball (A),Boulette de Poisson Arc-en-ciel (A)
+PROPITEM_TXT_133549,Rainbow Fish Ball (A+),Boulette de Poisson Arc-en-ciel (A+)
+PROPITEM_TXT_133550,Orange Fish Ball (D),Boulette de Poisson Orange (D)
+PROPITEM_TXT_133551,Orange Fish Ball (C),Boulette de Poisson Orange (C)
+PROPITEM_TXT_133552,Orange Fish Ball (B),Boulette de Poisson Orange (B)
+PROPITEM_TXT_133553,Orange Fish Ball (A),Boulette de Poisson Orange (A)
+PROPITEM_TXT_133554,Orange Fish Ball (A+),Boulette de Poisson Orange (A+)
+PROPITEM_TXT_133555,Sky Blue Fish Ball (D),Boulette de Poisson Bleu Ciel (D)
+PROPITEM_TXT_133556,Sky Blue Fish Ball (C),Boulette de Poisson Bleu Ciel (C)
+PROPITEM_TXT_133557,Sky Blue Fish Ball (B),Boulette de Poisson Bleu Ciel (B)
+PROPITEM_TXT_133558,Sky Blue Fish Ball (A),Boulette de Poisson Bleu Ciel (A)
+PROPITEM_TXT_133559,Sky Blue Fish Ball (A+),Boulette de Poisson Bleu Ciel (A+)
+PROPITEM_TXT_133560,Yellow Fish Ball (D),Boulette de Poisson Jaune (D)
+PROPITEM_TXT_133561,Yellow Fish Ball (C),Boulette de Poisson Jaune (C)
+PROPITEM_TXT_133562,Yellow Fish Ball (B),Boulette de Poisson Jaune (B)
+PROPITEM_TXT_133563,Yellow Fish Ball (A),Boulette de Poisson Jaune (A)
+PROPITEM_TXT_133564,Yellow Fish Ball (A+),Boulette de Poisson Jaune (A+)
+PROPITEM_TXT_133565,Pink Fish Ball (D),Boulette de Poisson Rose (D)
+PROPITEM_TXT_133566,Pink Fish Ball (C),Boulette de Poisson Rose (C)
+PROPITEM_TXT_133567,Pink Fish Ball (B),Boulette de Poisson Rose (B)
+PROPITEM_TXT_133568,Pink Fish Ball (A),Boulette de Poisson Rose (A)
+PROPITEM_TXT_133569,Pink Fish Ball (A+),Boulette de Poisson Rose (A+)
+PROPITEM_TXT_133570,Grey Fish Ball (D),Boulette de Poisson Gris (D)
+PROPITEM_TXT_133571,Grey Fish Ball (C),Boulette de Poisson Gris (C)
+PROPITEM_TXT_133572,Grey Fish Ball (B),Boulette de Poisson Gris (B)
+PROPITEM_TXT_133573,Grey Fish Ball (A),Boulette de Poisson Gris (A)
+PROPITEM_TXT_133574,Grey Fish Ball (A+),Boulette de Poisson Gris (A+)
+PROPITEM_TXT_133575,White Fish Ball (D),Boulette de Poisson Blanc (D)
+PROPITEM_TXT_133576,White Fish Ball (C),Boulette de Poisson Blanc (C)
+PROPITEM_TXT_133577,White Fish Ball (B),Boulette de Poisson Blanc (B)
+PROPITEM_TXT_133578,White Fish Ball (A),Boulette de Poisson Blanc (A)
+PROPITEM_TXT_133579,White Fish Ball (A+),Boulette de Poisson Blanc (A+)
 PROPITEM_TXT_133580,Pickled Herring (D),Hareng Mariné (D)
 PROPITEM_TXT_133581,Pickled Herring (C),Hareng Mariné (C)
 PROPITEM_TXT_133582,Pickled Herring (B),Hareng Mariné (B)
@@ -19600,30 +19600,30 @@ PROPITEM_TXT_201001,5th grade Jewel Selection Box,Boîte de Sélection de Joyaux
 PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,Vous pouvez sélectionner 1 parmi les 7 Joyaux d’arme ultime de 5ᵉ grade.
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,Boîte Chanceuse de Carte Perforante de Rang A
 PROPITEM_TXT_201004,You can get 1 random grade A piercing card.,Vous pouvez obtenir 1 carte perforante de rang A au hasard
-PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boule de Poisson
-PROPITEM_TXT_201006,There are various types of Fishballs.\nYou can select and obtain 1 type of Fishball box.,Il existe différents types de Boules de Poisson.\nVous pouvez sélectionner et obtenir 1 type de boîte de Boule de Poisson.
-PROPITEM_TXT_201007,Red Fishball Box,Boîte de Boule de Poisson Rouge
-PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rouge de grade D à A+.
-PROPITEM_TXT_201009,Blue Fishball Box,Boîte de Boule de Poisson Bleue
-PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleue de grade D à A+.
-PROPITEM_TXT_201011,Green Fishball Box,Boîte de Boule de Poisson Verte
-PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson verte de grade D à A+.
-PROPITEM_TXT_201013,Purple Fishball Box,Boîte de Boule de Poisson Violette
-PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson violette de grade D à A+.
-PROPITEM_TXT_201015,Rainbow Fishball Box,Boîte de Boule de Poisson Arc-en-ciel
-PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson arc-en-ciel de grade D à A+.
-PROPITEM_TXT_201017,Orange Fishball Box,Boîte de Boule de Poisson Orange
-PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson orange de grade D à A+.
-PROPITEM_TXT_201019,Skyblue Fishball Box,Boîte de Boule de Poisson Bleu Ciel
-PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleu ciel de grade D à A+.
-PROPITEM_TXT_201021,Yellow Fishball Box,Boîte de Boule de Poisson Jaune
-PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson jaune de grade D à A+.
-PROPITEM_TXT_201023,Pink Fishball Box,Boîte de Boule de Poisson Rose
-PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rose de grade D à A+.
-PROPITEM_TXT_201025,Grey Fishball Box,Boîte de Boule de Poisson Grise
-PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson grise de grade D à A+.
-PROPITEM_TXT_201027,White Fishball Box,Boîte de Boule de Poisson Blanche
-PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson blanche de grade D à A+.
+PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boulette de Poisson
+PROPITEM_TXT_201006,There are various types of Fishballs.\nYou can select and obtain 1 type of Fishball box.,Il existe différents types de Boules de Poisson.\nVous pouvez sélectionner et obtenir 1 type de boîte de Boulette de Poisson.
+PROPITEM_TXT_201007,Red Fishball Box,Boîte de Boulette de Poisson Rouge
+PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson rouge de grade D à A+.
+PROPITEM_TXT_201009,Blue Fishball Box,Boîte de Boulette de Poisson Bleue
+PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson bleue de grade D à A+.
+PROPITEM_TXT_201011,Green Fishball Box,Boîte de Boulette de Poisson Verte
+PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson verte de grade D à A+.
+PROPITEM_TXT_201013,Purple Fishball Box,Boîte de Boulette de Poisson Violette
+PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson violette de grade D à A+.
+PROPITEM_TXT_201015,Rainbow Fishball Box,Boîte de Boulette de Poisson Arc-en-ciel
+PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson arc-en-ciel de grade D à A+.
+PROPITEM_TXT_201017,Orange Fishball Box,Boîte de Boulette de Poisson Orange
+PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson orange de grade D à A+.
+PROPITEM_TXT_201019,Skyblue Fishball Box,Boîte de Boulette de Poisson Bleu Ciel
+PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson bleu ciel de grade D à A+.
+PROPITEM_TXT_201021,Yellow Fishball Box,Boîte de Boulette de Poisson Jaune
+PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson jaune de grade D à A+.
+PROPITEM_TXT_201023,Pink Fishball Box,Boîte de Boulette de Poisson Rose
+PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson rose de grade D à A+.
+PROPITEM_TXT_201025,Grey Fishball Box,Boîte de Boulette de Poisson Grise
+PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson grise de grade D à A+.
+PROPITEM_TXT_201027,White Fishball Box,Boîte de Boulette de Poisson Blanche
+PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson blanche de grade D à A+.
 PROPITEM_TXT_201029,Nightmare Set,Set Cauchemar
 PROPITEM_TXT_201030,Nightmare Set (M),Set Cauchemar (H)
 PROPITEM_TXT_201031,The Nightmare Set for male character.,Le Set Cauchemar pour personnage masculin
@@ -19809,7 +19809,7 @@ PROPITEM_TXT_201076,Shop Advertisement (Purple),Publicité de Boutique (Violet)
 PROPITEM_TXT_201077,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a purple adorner. It is consumed when opening the shop and disappears when closing it.,Ce parchemin fait apparaître votre boutique privée ou de vendeur en haut des résultats de recherche avec un ornement violet. Il est consommé à l’ouverture de la boutique et disparaît à la fermeture.
 PROPITEM_TXT_201078,Shop Advertisement (Pink),Publicité de Boutique (Rose)
 PROPITEM_TXT_201079,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a pink adorner. It is consumed when opening the shop and disappears when closing it.,Ce parchemin fait apparaître votre boutique privée ou de vendeur en haut des résultats de recherche avec un ornement rose. Il est consommé à l’ouverture de la boutique et disparaît à la fermeture.
-PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),Ajoute un bonus supplémentaire aux objets de mode et capes de la Boutique Premium. L’objet ciblé devient non échangeable sauf si vous utilisez un objet Bénédiction de la Déesse pour écraser le statut. (Vous NE POUVEZ PAS le retirer du Gestionnaire de Joyaux Peach)
+PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),Ajoute un bonus supplémentaire aux objets de mode et capes de la Boutique Premium. L’objet ciblé devient non échangeable sauf si vous utilisez un objet Bénédiction de la Déesse pour écraser le statut. (Vous NE POUVEZ PAS le retirer du Gestionnaire de Joyaux Angie)
 PROPITEM_TXT_201082,Kalgas' Fury Sword,Épée de la Furie de Kalgas
 PROPITEM_TXT_201083,Kalgas' Fury Axe,Hache de la Furie de Kalgas
 PROPITEM_TXT_201084,Kalgas' Fury Big Sword,Glaive de la Furie de Kalgas
@@ -22776,8 +22776,8 @@ PROPITEM_TXT_900935,Cute Baby Cat Pack,Pack Petit Chaton Mignon
 PROPITEM_TXT_900936,"A package containing 1x Scroll of Pickup Boost (15 Days), 1x Cute Baby Cat and 1x Scroll of Pickup Range (15 Days). All items are also linked.","Un pack contenant 1 Parchemin de Boost de Ramassage (15 jours), 1 Petit Chaton Mignon et 1 Parchemin de Portée de Ramassage (15 jours). Tous les objets sont liés."
 PROPITEM_TXT_900937,FWC Compensation Box B,Boîte de Compensation FWC B
 PROPITEM_TXT_900938,"A package containing 5x Def-Upcut Stone, 10x Potion Box, 3x Activation, 2x Scroll of Velocity, 5x Upcut Stone and 10x Bull Hamstern. All items are also linked.","Un pack contenant 5 Pierres Arès, 10 Boîtes de Potion, 3 Activitions, 2 Parchemins de Vélocité, 5 Pierres Mars et 10 Bull Hamstern. Tous les objets sont liés."
-PROPITEM_TXT_900939,Lifestyle Bag Select Box (15 Days),Boîte de Sélection Sac Lifestyle (15 jours)
-PROPITEM_TXT_900940,Select which Lifestyle Bag you want to receive.,Sélectionnez le sac lifestyle que vous souhaitez recevoir.
+PROPITEM_TXT_900939,Lifestyle Bag Select Box (15 Days),Boîte de Sélection Sac de métier (15 jours)
+PROPITEM_TXT_900940,Select which Lifestyle Bag you want to receive.,Sélectionnez le sac de métiers que vous souhaitez recevoir.
 PROPITEM_TXT_900941,Open 77 Festival Package,Pack Festival 77
 PROPITEM_TXT_900942,"A package containing 7x Amplification ES Scroll Select Box, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Def-Upcut Stone, 7x Activation, 7x Scroll of Return Town and 7x Power Scroll. All items are also linked.","Un pack contenant 7 Boîtes de Sélection Parchemin d'Amplification ES, 7 Anguilles Grillées, 7 Boissons Vitales X ou Fioles de Récupération, 7 Pierres Arès, 7 Activitions, 7 Parchemins de Retour à la Ville et 7 Parchemins de Pouvoir. Tous les objets sont liés."
 PROPITEM_TXT_900943,Open 77 Festival Element Package,Pack Élément Festival 77
@@ -23631,7 +23631,7 @@ PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.","Que
 PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1,Bon FWC Grand Final 2025 1
 PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activation. All items are Soul-Linked.","Un paquet contenant 1x Disque de Carte (7 jours), 3x Boisson Vital X ou Rafraîchisseur, 3x Pierre Mars et 3x Activation. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2,Bon FWC Grand Final 2025 2
-PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ","Un paquet contenant 2x Boîte de Sélection Sac Lifestyle (15 jours), 3x Parchemin de Résurrection, 3x Pierre Arès et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ","Un paquet contenant 2x Boîte de Sélection Sac métier (15 jours), 3x Parchemin de Résurrection, 3x Pierre Arès et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3,Bon FWC Grand Final 2025 3
 PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked. ","Un paquet contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Pouvoir et 3x Anguille Grillée. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1,Bon FWC Grand Final Online 2025 1
@@ -23665,9 +23665,9 @@ PROPITEM_TXT_901789,Black Wedding set for Female characters,Ensemble Black Weddi
 PROPITEM_TXT_901790,Black Wedding,Mariage Noir
 PROPITEM_TXT_901791,Select which Gender you want to receive!,Choisissez le sexe du costume que vous souhaitez recevoir !
 PROPITEM_TXT_901792,2025 FWC Streamer Event Coupon 1,Bon Événement Streamer FWC 2025 1
-PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.","Un paquet contenant 10x Boîte de Sélection PopCorn FWC 2025, 1x Boîte de Sélection Sac Lifestyle (15 jours) et 3x Boîte de Chance. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.","Un paquet contenant 10x Boîte de Sélection PopCorn FWC 2025, 1x Boîte de Sélection Sac métier (15 jours) et 3x Boîte de Chance. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,Bon Événement Streamer FWC 2025 2
-PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac Lifestyle (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac métier (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,Bon Événement Streamer FWC 2025 3
 PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901798,Myth Costume Select Box 1,Boîte de Sélection Costume Myth 1
@@ -24057,9 +24057,9 @@ PROPITEM_TXT_155008,Trace of the New Continent,Trace du Nouveau Continent
 PROPITEM_TXT_155009,A remnant hinting at the mysteries of an uncharted land.,Un vestige laissant entrevoir les mystères d’une terre inexplorée.
 PROPITEM_TXT_155010,Abandoned Serial Number Chain,Chaîne de numéros de série abandonnée
 PROPITEM_TXT_155011,"A rusted chain bearing a series of faded serial numbers, hinting at a forgotten past.","Une chaîne rouillée portant une série de numéros de série effacés, évoquant un passé oublié."
-PROPITEM_TXT_155012,Piece of Hundur Bone,Morceau d’os de Hundur
+PROPITEM_TXT_155012,Piece of Hundur Bone,Morceau d’os de Lawolf des Plaines
 PROPITEM_TXT_155013,"Quest item: A weathered bone fragment, once part of a mighty creature","Objet de quête : un fragment d’os usé, autrefois partie d’une créature puissante."
-PROPITEM_TXT_155014,Piece of Samoset Bone,Morceau d’os de Samoset
+PROPITEM_TXT_155014,Piece of Samoset Bone,Morceau d’os de Sentinelle Lycan
 PROPITEM_TXT_155015,Unknown Fur Ball,Boule de poils inconnue
 PROPITEM_TXT_155016,"A mysterious ball of fur, its origin unclear.","Une mystérieuse boule de poils, dont l’origine est inconnue."
 PROPITEM_TXT_155017,Lycan Operation Plan,Plan d’opération des Lycans
@@ -26340,11 +26340,11 @@ PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lame céleste dorée en fleur d
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lame céleste argentée en fleur de lotus
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lame céleste noire en fleur de lotus
 PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","Une Lame céleste divine imprégnée d’un ancien pouvoir martial, permettant à son porteur de parcourir les cieux. Vitesse maximale : 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Événement] Boule de Monstre Printemps 2026 Niv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Événement] Boule de Monstre Printemps 2026 Niv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Événement] Boule de Monstre Printemps 2026 Niv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Événement] Boule de Monstre Printemps 2026 Niv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\nRetrieval is scheduled for a limited time after the event ends.","Une Boule de Monstre qui invoque un monstre de haut niveau. Faites attention en l’utilisant, car des monstres géants apparaissent occasionnellement.\n※Récupération disponible pendant un temps limité après la fin de l’événement."
+PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Événement] Balle de Monstre Printemps 2026 Niv1
+PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Événement] Balle de Monstre Printemps 2026 Niv2
+PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Événement] Balle de Monstre Printemps 2026 Niv3
+PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Événement] Balle de Monstre Printemps 2026 Niv4
+PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\nRetrieval is scheduled for a limited time after the event ends.","Une Balle de Monstre qui invoque un monstre de haut niveau. Faites attention en l’utilisant, car des monstres géants apparaissent occasionnellement.\n※Récupération disponible pendant un temps limité après la fin de l’événement."
 PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Événement] Boîte Monstre Géant 2026 Niv1
 PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Événement] Boîte Monstre Géant 2026 Niv2
 PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Événement] Boîte Monstre Géant 2026 Niv3
@@ -26355,241 +26355,241 @@ PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Événement] Boîte Mo
 PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Événement] Boîte Monstre Général 2026 Niv4
 PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Boîte obtenue en chassant un monstre géant Niv4. Testez votre chance aujourd’hui !!
 PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Boîte obtenue en chassant un monstre général Niv4. Testez votre chance aujourd’hui !!
-PROPITEM_TXT_828327,[Event] Spring Buff Lucky Box,[Event] Spring Buff Lucky Box
-PROPITEM_TXT_828328,[Event] Green Clover,[Event] Green Clover
-PROPITEM_TXT_828329,[Event] Blue Clover,[Event] Blue Clover
-PROPITEM_TXT_828330,[Event] Red Clover,[Event] Red Clover
-PROPITEM_TXT_828331,[Event] White Clover,[Event] White Clover
-PROPITEM_TXT_828332,[Event] Mature Flowerpot of Love,[Event] Mature Flowerpot of Love
-PROPITEM_TXT_828333,[Event] Ancient Flowerpot of Love,[Event] Ancient Flowerpot of Love
-PROPITEM_TXT_828334,Lower Body Stretching Emote,Lower Body Stretching Emote
-PROPITEM_TXT_828335,Suit of the Rising Moon (F),Suit of the Rising Moon (F)
-PROPITEM_TXT_828336,Helmet of the Rising Moon (F),Helmet of the Rising Moon (F)
-PROPITEM_TXT_828337,Gauntlets of the Rising Moon (F),Gauntlets of the Rising Moon (F)
-PROPITEM_TXT_828338,Boots of the Rising Moon (F),Boots of the Rising Moon (F)
-PROPITEM_TXT_828339,Suit of the Rising Moon (M),Suit of the Rising Moon (M)
-PROPITEM_TXT_828340,Helmet of the Rising Moon (M),Helmet of the Rising Moon (M)
-PROPITEM_TXT_828341,Gauntlets of the Rising Moon (M),Gauntlets of the Rising Moon (M)
-PROPITEM_TXT_828342,Boots of the Rising Moon (M),Boots of the Rising Moon (M)
-PROPITEM_TXT_828343,There was never a night or a problem that could defeat moon or hope.,There was never a night or a problem that could defeat moon or hope.
-PROPITEM_TXT_828344,Set of the Rising Moon (M),Set of the Rising Moon (M)
-PROPITEM_TXT_828345,Contains a Rising Moon set for male characters,Contains a Rising Moon set for male characters
-PROPITEM_TXT_828346,Set of the Rising Moon (F),Set of the Rising Moon (F)
-PROPITEM_TXT_828347,Contains a Rising Moon set for female characters,Contains a Rising Moon set for female characters
-PROPITEM_TXT_828348,Set of the Rising Moon,Set of the Rising Moon
-PROPITEM_TXT_903471,Street Bunny 10% Blue Set,Street Bunny 10% Blue Set
-PROPITEM_TXT_903472,Street Bunny Blue Paint Palette,Street Bunny Blue Paint Palette
-PROPITEM_TXT_903473,Street Bunny Blue Paint Splatters,Street Bunny Blue Paint Splatters
-PROPITEM_TXT_903474,Street Bunny Blue Hat (M),Street Bunny Blue Hat (M)
-PROPITEM_TXT_903475,Street Bunny Blue Suit (M),Street Bunny Blue Suit (M)
-PROPITEM_TXT_903476,Street Bunny Blue Shoes (M),Street Bunny Blue Shoes (M)
-PROPITEM_TXT_903477,Street Bunny Blue Hands (M),Street Bunny Blue Hands (M)
-PROPITEM_TXT_903478,Street Bunny 10% Blue Set (M),Street Bunny 10% Blue Set (M)
-PROPITEM_TXT_903479,The Street Bunny 10% Blue Set for male characters.,The Street Bunny 10% Blue Set for male characters.
-PROPITEM_TXT_903480,Street Bunny Blue Hat (F),Street Bunny Blue Hat (F)
-PROPITEM_TXT_903481,Street Bunny Blue Suit (F),Street Bunny Blue Suit (F)
-PROPITEM_TXT_903482,Street Bunny Blue Shoes (F),Street Bunny Blue Shoes (F)
-PROPITEM_TXT_903483,Street Bunny Blue Hands (F),Street Bunny Blue Hands (F)
-PROPITEM_TXT_903484,Street Bunny 10% Blue Set (F),Street Bunny 10% Blue Set (F)
-PROPITEM_TXT_903485,The Street Bunny 10% Blue Set for female characters.,The Street Bunny 10% Blue Set for female characters.
-PROPITEM_TXT_903486,Street Bunny 10% Purple Set,Street Bunny 10% Purple Set
-PROPITEM_TXT_903487,Street Bunny Purple Paint Palette,Street Bunny Purple Paint Palette
-PROPITEM_TXT_903488,Street Bunny Purple Paint Splatters,Street Bunny Purple Paint Splatters
-PROPITEM_TXT_903489,Street Bunny Purple Hat (M),Street Bunny Purple Hat (M)
-PROPITEM_TXT_903490,Street Bunny Purple Suit (M),Street Bunny Purple Suit (M)
-PROPITEM_TXT_903491,Street Bunny Purple Shoes (M),Street Bunny Purple Shoes (M)
-PROPITEM_TXT_903492,Street Bunny Purple Hands (M),Street Bunny Purple Hands (M)
-PROPITEM_TXT_903493,Street Bunny 10% Purple Set (M),Street Bunny 10% Purple Set (M)
-PROPITEM_TXT_903494,The Street Bunny 10% Purple Set for male characters.,The Street Bunny 10% Purple Set for male characters.
-PROPITEM_TXT_903495,Street Bunny Purple Hat (F),Street Bunny Purple Hat (F)
-PROPITEM_TXT_903496,Street Bunny Purple Suit (F),Street Bunny Purple Suit (F)
-PROPITEM_TXT_903497,Street Bunny Purple Shoes (F),Street Bunny Purple Shoes (F)
-PROPITEM_TXT_903498,Street Bunny Purple Hands (F),Street Bunny Purple Hands (F)
-PROPITEM_TXT_903499,Street Bunny 10% Purple Set (F),Street Bunny 10% Purple Set (F)
-PROPITEM_TXT_903500,The Street Bunny 10% Purple Set for female characters.,The Street Bunny 10% Purple Set for female characters.
-PROPITEM_TXT_903501,Street Bunny 8% Pink Set,Street Bunny 8% Pink Set
-PROPITEM_TXT_903502,Street Bunny Pink Paint Palette,Street Bunny Pink Paint Palette
-PROPITEM_TXT_903503,Street Bunny Pink Paint Splatters,Street Bunny Pink Paint Splatters
-PROPITEM_TXT_903504,Street Bunny Pink Hat (M),Street Bunny Pink Hat (M)
-PROPITEM_TXT_903505,Street Bunny Pink Suit (M),Street Bunny Pink Suit (M)
-PROPITEM_TXT_903506,Street Bunny Pink Shoes (M),Street Bunny Pink Shoes (M)
-PROPITEM_TXT_903507,Street Bunny Pink Hands (M),Street Bunny Pink Hands (M)
-PROPITEM_TXT_903508,Street Bunny 8% Pink Set (M),Street Bunny 8% Pink Set (M)
-PROPITEM_TXT_903509,The Street Bunny 8% Pink Set for male characters.,The Street Bunny 8% Pink Set for male characters.
-PROPITEM_TXT_903510,Street Bunny Pink Hat (F),Street Bunny Pink Hat (F)
-PROPITEM_TXT_903511,Street Bunny Pink Suit (F),Street Bunny Pink Suit (F)
-PROPITEM_TXT_903512,Street Bunny Pink Shoes (F),Street Bunny Pink Shoes (F)
-PROPITEM_TXT_903513,Street Bunny Pink Hands (F),Street Bunny Pink Hands (F)
-PROPITEM_TXT_903514,Street Bunny 8% Pink Set (F),Street Bunny 8% Pink Set (F)
-PROPITEM_TXT_903515,The Street Bunny 8% Pink Set for female characters.,The Street Bunny 8% Pink Set for female characters.
-PROPITEM_TXT_903516,Street Bunny 8% Red Set,Street Bunny 8% Red Set
-PROPITEM_TXT_903517,Street Bunny Red Paint Palette,Street Bunny Red Paint Palette
-PROPITEM_TXT_903518,Street Bunny Red Paint Splatters,Street Bunny Red Paint Splatters
-PROPITEM_TXT_903519,Street Bunny Red Hat (M),Street Bunny Red Hat (M)
-PROPITEM_TXT_903520,Street Bunny Red Suit (M),Street Bunny Red Suit (M)
-PROPITEM_TXT_903521,Street Bunny Red Shoes (M),Street Bunny Red Shoes (M)
-PROPITEM_TXT_903522,Street Bunny Red Hands (M),Street Bunny Red Hands (M)
-PROPITEM_TXT_903523,Street Bunny 8% Red Set (M),Street Bunny 8% Red Set (M)
-PROPITEM_TXT_903524,The Street Bunny 8% Red Set for male characters.,The Street Bunny 8% Red Set for male characters.
-PROPITEM_TXT_903525,Street Bunny Red Hat (F),Street Bunny Red Hat (F)
-PROPITEM_TXT_903526,Street Bunny Red Suit (F),Street Bunny Red Suit (F)
-PROPITEM_TXT_903527,Street Bunny Red Shoes (F),Street Bunny Red Shoes (F)
-PROPITEM_TXT_903528,Street Bunny Red Hands (F),Street Bunny Red Hands (F)
-PROPITEM_TXT_903529,Street Bunny 8% Red Set (F),Street Bunny 8% Red Set (F)
-PROPITEM_TXT_903530,The Street Bunny 8% Red Set for female characters.,The Street Bunny 8% Red Set for female characters.
-PROPITEM_TXT_903531,Street Bunny 6% Brown Set,Street Bunny 6% Brown Set
-PROPITEM_TXT_903532,Street Bunny Brown Paint Palette,Street Bunny Brown Paint Palette
-PROPITEM_TXT_903533,Street Bunny Brown Paint Splatters,Street Bunny Brown Paint Splatters
-PROPITEM_TXT_903534,Street Bunny Brown Hat (M),Street Bunny Brown Hat (M)
-PROPITEM_TXT_903535,Street Bunny Brown Suit (M),Street Bunny Brown Suit (M)
-PROPITEM_TXT_903536,Street Bunny Brown Shoes (M),Street Bunny Brown Shoes (M)
-PROPITEM_TXT_903537,Street Bunny Brown Hands (M),Street Bunny Brown Hands (M)
-PROPITEM_TXT_903538,Street Bunny 6% Brown Set (M),Street Bunny 6% Brown Set (M)
-PROPITEM_TXT_903539,The Street Bunny 6% Brown Set for male characters.,The Street Bunny 6% Brown Set for male characters.
-PROPITEM_TXT_903540,Street Bunny Brown Hat (F),Street Bunny Brown Hat (F)
-PROPITEM_TXT_903541,Street Bunny Brown Suit (F),Street Bunny Brown Suit (F)
-PROPITEM_TXT_903542,Street Bunny Brown Shoes (F),Street Bunny Brown Shoes (F)
-PROPITEM_TXT_903543,Street Bunny Brown Hands (F),Street Bunny Brown Hands (F)
-PROPITEM_TXT_903544,Street Bunny 6% Brown Set (F),Street Bunny 6% Brown Set (F)
-PROPITEM_TXT_903545,The Street Bunny 6% Brown Set for female characters.,The Street Bunny 6% Brown Set for female characters.
-PROPITEM_TXT_903546,Street Bunny 4% Green Set,Street Bunny 4% Green Set
-PROPITEM_TXT_903547,Street Bunny Green Paint Palette,Street Bunny Green Paint Palette
-PROPITEM_TXT_903548,Street Bunny Green Paint Splatters,Street Bunny Green Paint Splatters
-PROPITEM_TXT_903549,Street Bunny Green Hat (M),Street Bunny Green Hat (M)
-PROPITEM_TXT_903550,Street Bunny Green Suit (M),Street Bunny Green Suit (M)
-PROPITEM_TXT_903551,Street Bunny Green Shoes (M),Street Bunny Green Shoes (M)
-PROPITEM_TXT_903552,Street Bunny Green Hands (M),Street Bunny Green Hands (M)
-PROPITEM_TXT_903553,Street Bunny 4% Green Set (M),Street Bunny 4% Green Set (M)
-PROPITEM_TXT_903554,The Street Bunny 4% Green Set for male characters.,The Street Bunny 4% Green Set for male characters.
-PROPITEM_TXT_903555,Street Bunny Green Hat (F),Street Bunny Green Hat (F)
-PROPITEM_TXT_903556,Street Bunny Green Suit (F),Street Bunny Green Suit (F)
-PROPITEM_TXT_903557,Street Bunny Green Shoes (F),Street Bunny Green Shoes (F)
-PROPITEM_TXT_903558,Street Bunny Green Hands (F),Street Bunny Green Hands (F)
-PROPITEM_TXT_903559,Street Bunny 4% Green Set (F),Street Bunny 4% Green Set (F)
-PROPITEM_TXT_903560,The Street Bunny 4% Green Set for female characters.,The Street Bunny 4% Green Set for female characters.
-PROPITEM_TXT_903561,Street Bunny 2% Turquoise Set,Street Bunny 2% Turquoise Set
-PROPITEM_TXT_903562,Street Bunny Turquoise Paint Palette,Street Bunny Turquoise Paint Palette
-PROPITEM_TXT_903563,Street Bunny Turquoise Paint Splatters,Street Bunny Turquoise Paint Splatters
-PROPITEM_TXT_903564,Street Bunny Turquoise Hat (M),Street Bunny Turquoise Hat (M)
-PROPITEM_TXT_903565,Street Bunny Turquoise Suit (M),Street Bunny Turquoise Suit (M)
-PROPITEM_TXT_903566,Street Bunny Turquoise Shoes (M),Street Bunny Turquoise Shoes (M)
-PROPITEM_TXT_903567,Street Bunny Turquoise Hands (M),Street Bunny Turquoise Hands (M)
-PROPITEM_TXT_903568,Street Bunny 2% Turquoise Set (M),Street Bunny 2% Turquoise Set (M)
-PROPITEM_TXT_903569,The Street Bunny 2% Turquoise Set for male characters.,The Street Bunny 2% Turquoise Set for male characters.
-PROPITEM_TXT_903570,Street Bunny Turquoise Hat (F),Street Bunny Turquoise Hat (F)
-PROPITEM_TXT_903571,Street Bunny Turquoise Suit (F),Street Bunny Turquoise Suit (F)
-PROPITEM_TXT_903572,Street Bunny Turquoise Shoes (F),Street Bunny Turquoise Shoes (F)
-PROPITEM_TXT_903573,Street Bunny Turquoise Hands (F),Street Bunny Turquoise Hands (F)
-PROPITEM_TXT_903574,Street Bunny 2% Turquoise Set (F),Street Bunny 2% Turquoise Set (F)
-PROPITEM_TXT_903575,The Street Bunny 2% Turquoise Set for female characters.,The Street Bunny 2% Turquoise Set for female characters.
-PROPITEM_TXT_903576,Street Bunny 2% Black Set,Street Bunny 2% Black Set
-PROPITEM_TXT_903577,Street Bunny Black Paint Palette,Street Bunny Black Paint Palette
-PROPITEM_TXT_903578,Street Bunny Black Paint Splatters,Street Bunny Black Paint Splatters
-PROPITEM_TXT_903579,Street Bunny Black Hat (M),Street Bunny Black Hat (M)
-PROPITEM_TXT_903580,Street Bunny Black Suit (M),Street Bunny Black Suit (M)
-PROPITEM_TXT_903581,Street Bunny Black Shoes (M),Street Bunny Black Shoes (M)
-PROPITEM_TXT_903582,Street Bunny Black Hands (M),Street Bunny Black Hands (M)
-PROPITEM_TXT_903583,Street Bunny 2% Black Set (M),Street Bunny 2% Black Set (M)
-PROPITEM_TXT_903584,The Street Bunny 2% Black Set for male characters.,The Street Bunny 2% Black Set for male characters.
-PROPITEM_TXT_903585,Street Bunny Black Hat (F),Street Bunny Black Hat (F)
-PROPITEM_TXT_903586,Street Bunny Black Suit (F),Street Bunny Black Suit (F)
-PROPITEM_TXT_903587,Street Bunny Black Shoes (F),Street Bunny Black Shoes (F)
-PROPITEM_TXT_903588,Street Bunny Black Hands (F),Street Bunny Black Hands (F)
-PROPITEM_TXT_903589,Street Bunny 2% Black Set (F),Street Bunny 2% Black Set (F)
-PROPITEM_TXT_903590,The Street Bunny 2% Black Set for female characters.,The Street Bunny 2% Black Set for female characters.
-PROPITEM_TXT_903591,Street Bunny Costume Lucky Box,Street Bunny Costume Lucky Box
-PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903593,Idol 2026 10% Blue Set,Idol 2026 10% Blue Set
-PROPITEM_TXT_903594,Idol 2026 Blue Headset,Idol 2026 Blue Headset
-PROPITEM_TXT_903595,Idol 2026 Blue Hat (M),Idol 2026 Blue Hat (M)
-PROPITEM_TXT_903596,Idol 2026 Blue Suit (M),Idol 2026 Blue Suit (M)
-PROPITEM_TXT_903597,Idol 2026 Blue Shoes (M),Idol 2026 Blue Shoes (M)
-PROPITEM_TXT_903598,Idol 2026 Blue Hands (M),Idol 2026 Blue Hands (M)
-PROPITEM_TXT_903599,Idol 2026 10% Blue Set (M),Idol 2026 10% Blue Set (M)
-PROPITEM_TXT_903600,The Idol 2026 10% Blue Set for male characters.,The Idol 2026 10% Blue Set for male characters.
-PROPITEM_TXT_903601,Idol 2026 Blue Hat (F),Idol 2026 Blue Hat (F)
-PROPITEM_TXT_903602,Idol 2026 Blue Suit (F),Idol 2026 Blue Suit (F)
-PROPITEM_TXT_903603,Idol 2026 Blue Shoes (F),Idol 2026 Blue Shoes (F)
-PROPITEM_TXT_903604,Idol 2026 Blue Hands (F),Idol 2026 Blue Hands (F)
-PROPITEM_TXT_903605,Idol 2026 10% Blue Set (F),Idol 2026 10% Blue Set (F)
-PROPITEM_TXT_903606,The Idol 2026 10% Blue Set for female characters.,The Idol 2026 10% Blue Set for female characters.
-PROPITEM_TXT_903607,Idol 2026 8% Red Set,Idol 2026 8% Red Set
-PROPITEM_TXT_903608,Idol 2026 Red Headset,Idol 2026 Red Headset
-PROPITEM_TXT_903609,Idol 2026 Red Hat (M),Idol 2026 Red Hat (M)
-PROPITEM_TXT_903610,Idol 2026 Red Suit (M),Idol 2026 Red Suit (M)
-PROPITEM_TXT_903611,Idol 2026 Red Shoes (M),Idol 2026 Red Shoes (M)
-PROPITEM_TXT_903612,Idol 2026 Red Hands (M),Idol 2026 Red Hands (M)
-PROPITEM_TXT_903613,Idol 2026 8% Red Set (M),Idol 2026 8% Red Set (M)
-PROPITEM_TXT_903614,The Idol 2026 8% Red Set for male characters.,The Idol 2026 8% Red Set for male characters.
-PROPITEM_TXT_903615,Idol 2026 Red Hat (F),Idol 2026 Red Hat (F)
-PROPITEM_TXT_903616,Idol 2026 Red Suit (F),Idol 2026 Red Suit (F)
-PROPITEM_TXT_903617,Idol 2026 Red Shoes (F),Idol 2026 Red Shoes (F)
-PROPITEM_TXT_903618,Idol 2026 Red Hands (F),Idol 2026 Red Hands (F)
-PROPITEM_TXT_903619,Idol 2026 8% Red Set (F),Idol 2026 8% Red Set (F)
-PROPITEM_TXT_903620,The Idol 2026 8% Red Set for female characters.,The Idol 2026 8% Red Set for female characters.
-PROPITEM_TXT_903621,Idol 2026 6% Purple Set,Idol 2026 6% Purple Set
-PROPITEM_TXT_903622,Idol 2026 Purple Headset,Idol 2026 Purple Headset
-PROPITEM_TXT_903623,Idol 2026 Purple Hat (M),Idol 2026 Purple Hat (M)
-PROPITEM_TXT_903624,Idol 2026 Purple Suit (M),Idol 2026 Purple Suit (M)
-PROPITEM_TXT_903625,Idol 2026 Purple Shoes (M),Idol 2026 Purple Shoes (M)
-PROPITEM_TXT_903626,Idol 2026 Purple Hands (M),Idol 2026 Purple Hands (M)
-PROPITEM_TXT_903627,Idol 2026 6% Purple Set (M),Idol 2026 6% Purple Set (M)
-PROPITEM_TXT_903628,The Idol 2026 6% Purple Set for male characters.,The Idol 2026 6% Purple Set for male characters.
-PROPITEM_TXT_903629,Idol 2026 Purple Hat (F),Idol 2026 Purple Hat (F)
-PROPITEM_TXT_903630,Idol 2026 Purple Suit (F),Idol 2026 Purple Suit (F)
-PROPITEM_TXT_903631,Idol 2026 Purple Shoes (F),Idol 2026 Purple Shoes (F)
-PROPITEM_TXT_903632,Idol 2026 Purple Hands (F),Idol 2026 Purple Hands (F)
-PROPITEM_TXT_903633,Idol 2026 6% Purple Set (F),Idol 2026 6% Purple Set (F)
-PROPITEM_TXT_903634,The Idol 2026 6% Purple Set for female characters.,The Idol 2026 6% Purple Set for female characters.
-PROPITEM_TXT_903635,Idol 2026 4% Cyan Set,Idol 2026 4% Cyan Set
-PROPITEM_TXT_903636,Idol 2026 Cyan Headset,Idol 2026 Cyan Headset
-PROPITEM_TXT_903637,Idol 2026 Cyan Hat (M),Idol 2026 Cyan Hat (M)
-PROPITEM_TXT_903638,Idol 2026 Cyan Suit (M),Idol 2026 Cyan Suit (M)
-PROPITEM_TXT_903639,Idol 2026 Cyan Shoes (M),Idol 2026 Cyan Shoes (M)
-PROPITEM_TXT_903640,Idol 2026 Cyan Hands (M),Idol 2026 Cyan Hands (M)
-PROPITEM_TXT_903641,Idol 2026 4% Cyan Set (M),Idol 2026 4% Cyan Set (M)
-PROPITEM_TXT_903642,The Idol 2026 4% Cyan Set for male characters.,The Idol 2026 4% Cyan Set for male characters.
-PROPITEM_TXT_903643,Idol 2026 Cyan Hat (F),Idol 2026 Cyan Hat (F)
-PROPITEM_TXT_903644,Idol 2026 Cyan Suit (F),Idol 2026 Cyan Suit (F)
-PROPITEM_TXT_903645,Idol 2026 Cyan Shoes (F),Idol 2026 Cyan Shoes (F)
-PROPITEM_TXT_903646,Idol 2026 Cyan Hands (F),Idol 2026 Cyan Hands (F)
-PROPITEM_TXT_903647,Idol 2026 4% Cyan Set (F),Idol 2026 4% Cyan Set (F)
-PROPITEM_TXT_903648,The Idol 2026 4% Cyan Set for female characters.,The Idol 2026 4% Cyan Set for female characters.
-PROPITEM_TXT_903649,Idol 2026 2% Black Set,Idol 2026 2% Black Set
-PROPITEM_TXT_903650,Idol 2026 Black Headset,Idol 2026 Black Headset
-PROPITEM_TXT_903651,Idol 2026 Black Hat (M),Idol 2026 Black Hat (M)
-PROPITEM_TXT_903652,Idol 2026 Black Suit (M),Idol 2026 Black Suit (M)
-PROPITEM_TXT_903653,Idol 2026 Black Shoes (M),Idol 2026 Black Shoes (M)
-PROPITEM_TXT_903654,Idol 2026 Black Hands (M),Idol 2026 Black Hands (M)
-PROPITEM_TXT_903655,Idol 2026 2% Black Set (M),Idol 2026 2% Black Set (M)
-PROPITEM_TXT_903656,The Idol 2026 2% Black Set for male characters.,The Idol 2026 2% Black Set for male characters.
-PROPITEM_TXT_903657,Idol 2026 Black Hat (F),Idol 2026 Black Hat (F)
-PROPITEM_TXT_903658,Idol 2026 Black Suit (F),Idol 2026 Black Suit (F)
-PROPITEM_TXT_903659,Idol 2026 Black Shoes (F),Idol 2026 Black Shoes (F)
-PROPITEM_TXT_903660,Idol 2026 Black Hands (F),Idol 2026 Black Hands (F)
-PROPITEM_TXT_903661,Idol 2026 2% Black Set (F),Idol 2026 2% Black Set (F)
-PROPITEM_TXT_903662,The Idol 2026 2% Black Set for female characters.,The Idol 2026 2% Black Set for female characters.
-PROPITEM_TXT_903663,Idol 2026 2% White Set,Idol 2026 2% White Set
-PROPITEM_TXT_903664,Idol 2026 White Headset,Idol 2026 White Headset
-PROPITEM_TXT_903665,Idol 2026 White Hat (M),Idol 2026 White Hat (M)
-PROPITEM_TXT_903666,Idol 2026 White Suit (M),Idol 2026 White Suit (M)
-PROPITEM_TXT_903667,Idol 2026 White Shoes (M),Idol 2026 White Shoes (M)
-PROPITEM_TXT_903668,Idol 2026 White Hands (M),Idol 2026 White Hands (M)
-PROPITEM_TXT_903669,Idol 2026 2% White Set (M),Idol 2026 2% White Set (M)
-PROPITEM_TXT_903670,The Idol 2026 2% White Set for male characters.,The Idol 2026 2% White Set for male characters.
-PROPITEM_TXT_903671,Idol 2026 White Hat (F),Idol 2026 White Hat (F)
-PROPITEM_TXT_903672,Idol 2026 White Suit (F),Idol 2026 White Suit (F)
-PROPITEM_TXT_903673,Idol 2026 White Shoes (F),Idol 2026 White Shoes (F)
-PROPITEM_TXT_903674,Idol 2026 White Hands (F),Idol 2026 White Hands (F)
-PROPITEM_TXT_903675,Idol 2026 2% White Set (F),Idol 2026 2% White Set (F)
-PROPITEM_TXT_903676,The Idol 2026 2% White Set for female characters.,The Idol 2026 2% White Set for female characters.
-PROPITEM_TXT_903677,Idol 2026 Costume Lucky Box,Idol 2026 Costume Lucky Box
-PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903679,Yellow Nala,Yellow Nala
-PROPITEM_TXT_903680,White Nala,White Nala
-PROPITEM_TXT_903681,Blue Nala,Blue Nala
-PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.","Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h."
-PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 Support Kit]
-PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. "
-PROPITEM_TXT_903685,Extra Bag (7 days),Extra Bag (7 days)
-PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.
+PROPITEM_TXT_828327,[Event] Spring Buff Lucky Box,[Événement] Boîte chanceuse de buff de printemps
+PROPITEM_TXT_828328,[Event] Green Clover,[Événement] Trèfle vert
+PROPITEM_TXT_828329,[Event] Blue Clover,[Événement] Trèfle bleu
+PROPITEM_TXT_828330,[Event] Red Clover,[Événement] Trèfle rouge
+PROPITEM_TXT_828331,[Event] White Clover,[Événement] Trèfle blanc
+PROPITEM_TXT_828332,[Event] Mature Flowerpot of Love,[Événement] Pot de fleurs d'amour mature
+PROPITEM_TXT_828333,[Event] Ancient Flowerpot of Love,[Événement] Pot de fleurs d'amour ancien
+PROPITEM_TXT_828334,Lower Body Stretching Emote,Émote d'étirement du bas du corps
+PROPITEM_TXT_828335,Suit of the Rising Moon (F),Tenue de la Lune Montante (F)
+PROPITEM_TXT_828336,Helmet of the Rising Moon (F),Casque de la Lune Montante (F)
+PROPITEM_TXT_828337,Gauntlets of the Rising Moon (F),Gantelets de la Lune Montante (F)
+PROPITEM_TXT_828338,Boots of the Rising Moon (F),Bottes de la Lune Montante (F)
+PROPITEM_TXT_828339,Suit of the Rising Moon (M),Tenue de la Lune Montante (M)
+PROPITEM_TXT_828340,Helmet of the Rising Moon (M),Casque de la Lune Montante (M)
+PROPITEM_TXT_828341,Gauntlets of the Rising Moon (M),Gantelets de la Lune Montante (M)
+PROPITEM_TXT_828342,Boots of the Rising Moon (M),Bottes de la Lune Montante (M)
+PROPITEM_TXT_828343,There was never a night or a problem that could defeat moon or hope.,Il n'y a jamais eu de nuit ni de problème pouvant vaincre la lune ou l'espoir.
+PROPITEM_TXT_828344,Set of the Rising Moon (M),Ensemble de la Lune Montante (M)
+PROPITEM_TXT_828345,Contains a Rising Moon set for male characters,Contient un ensemble de la Lune Montante pour personnages masculins
+PROPITEM_TXT_828346,Set of the Rising Moon (F),Ensemble de la Lune Montante (F)
+PROPITEM_TXT_828347,Contains a Rising Moon set for female characters,Contient un ensemble de la Lune Montante pour personnages féminins
+PROPITEM_TXT_828348,Set of the Rising Moon,Ensemble de la Lune Montante
+PROPITEM_TXT_903471,Street Bunny 10% Blue Set,Ensemble Lapin de rue bleu 10 %
+PROPITEM_TXT_903472,Street Bunny Blue Paint Palette,Palette de peinture bleue Lapin de rue
+PROPITEM_TXT_903473,Street Bunny Blue Paint Splatters,Éclaboussures de peinture bleue Lapin de rue
+PROPITEM_TXT_903474,Street Bunny Blue Hat (M),Chapeau bleu Lapin de rue (M)
+PROPITEM_TXT_903475,Street Bunny Blue Suit (M),Tenue bleue Lapin de rue (M)
+PROPITEM_TXT_903476,Street Bunny Blue Shoes (M),Chaussures bleues Lapin de rue (M)
+PROPITEM_TXT_903477,Street Bunny Blue Hands (M),Gants bleus Lapin de rue (M)
+PROPITEM_TXT_903478,Street Bunny 10% Blue Set (M),Ensemble Lapin de rue bleu 10 % (M)
+PROPITEM_TXT_903479,The Street Bunny 10% Blue Set for male characters.,Ensemble Lapin de rue bleu 10 % pour personnages masculins.
+PROPITEM_TXT_903480,Street Bunny Blue Hat (F),Chapeau bleu Lapin de rue (F)
+PROPITEM_TXT_903481,Street Bunny Blue Suit (F),Tenue bleue Lapin de rue (F)
+PROPITEM_TXT_903482,Street Bunny Blue Shoes (F),Chaussures bleues Lapin de rue (F)
+PROPITEM_TXT_903483,Street Bunny Blue Hands (F),Gants bleus Lapin de rue (F)
+PROPITEM_TXT_903484,Street Bunny 10% Blue Set (F),Ensemble Lapin de rue bleu 10 % (F)
+PROPITEM_TXT_903485,The Street Bunny 10% Blue Set for female characters.,Ensemble Lapin de rue bleu 10 % pour personnages féminins.
+PROPITEM_TXT_903486,Street Bunny 10% Purple Set,Ensemble Lapin de rue violet 10 %
+PROPITEM_TXT_903487,Street Bunny Purple Paint Palette,Palette de peinture violette Lapin de rue
+PROPITEM_TXT_903488,Street Bunny Purple Paint Splatters,Éclaboussures de peinture violette Lapin de rue
+PROPITEM_TXT_903489,Street Bunny Purple Hat (M),Chapeau violet Lapin de rue (M)
+PROPITEM_TXT_903490,Street Bunny Purple Suit (M),Tenue violette Lapin de rue (M)
+PROPITEM_TXT_903491,Street Bunny Purple Shoes (M),Chaussures violettes Lapin de rue (M)
+PROPITEM_TXT_903492,Street Bunny Purple Hands (M),Gants violets Lapin de rue (M)
+PROPITEM_TXT_903493,Street Bunny 10% Purple Set (M),Ensemble Lapin de rue violet 10 % (M)
+PROPITEM_TXT_903494,The Street Bunny 10% Purple Set for male characters.,Ensemble Lapin de rue violet 10 % pour personnages masculins.
+PROPITEM_TXT_903495,Street Bunny Purple Hat (F),Chapeau violet Lapin de rue (F)
+PROPITEM_TXT_903496,Street Bunny Purple Suit (F),Tenue violette Lapin de rue (F)
+PROPITEM_TXT_903497,Street Bunny Purple Shoes (F),Chaussures violettes Lapin de rue (F)
+PROPITEM_TXT_903498,Street Bunny Purple Hands (F),Gants violets Lapin de rue (F)
+PROPITEM_TXT_903499,Street Bunny 10% Purple Set (F),Ensemble Lapin de rue violet 10 % (F)
+PROPITEM_TXT_903500,The Street Bunny 10% Purple Set for female characters.,Ensemble Lapin de rue violet 10 % pour personnages féminins.
+PROPITEM_TXT_903501,Street Bunny 8% Pink Set,Ensemble Lapin de rue rose 8 %
+PROPITEM_TXT_903502,Street Bunny Pink Paint Palette,Palette de peinture rose Lapin de rue
+PROPITEM_TXT_903503,Street Bunny Pink Paint Splatters,Éclaboussures de peinture rose Lapin de rue
+PROPITEM_TXT_903504,Street Bunny Pink Hat (M),Chapeau rose Lapin de rue (M)
+PROPITEM_TXT_903505,Street Bunny Pink Suit (M),Tenue rose Lapin de rue (M)
+PROPITEM_TXT_903506,Street Bunny Pink Shoes (M),Chaussures roses Lapin de rue (M)
+PROPITEM_TXT_903507,Street Bunny Pink Hands (M),Gants roses Lapin de rue (M)
+PROPITEM_TXT_903508,Street Bunny 8% Pink Set (M),Ensemble Lapin de rue rose 8 % (M)
+PROPITEM_TXT_903509,The Street Bunny 8% Pink Set for male characters.,Ensemble Lapin de rue rose 8 % pour personnages masculins.
+PROPITEM_TXT_903510,Street Bunny Pink Hat (F),Chapeau rose Lapin de rue (F)
+PROPITEM_TXT_903511,Street Bunny Pink Suit (F),Tenue rose Lapin de rue (F)
+PROPITEM_TXT_903512,Street Bunny Pink Shoes (F),Chaussures roses Lapin de rue (F)
+PROPITEM_TXT_903513,Street Bunny Pink Hands (F),Gants roses Lapin de rue (F)
+PROPITEM_TXT_903514,Street Bunny 8% Pink Set (F),Ensemble Lapin de rue rose 8 % (F)
+PROPITEM_TXT_903515,The Street Bunny 8% Pink Set for female characters.,Ensemble Lapin de rue rose 8 % pour personnages féminins.
+PROPITEM_TXT_903516,Street Bunny 8% Red Set,Ensemble Lapin de rue rouge 8 %
+PROPITEM_TXT_903517,Street Bunny Red Paint Palette,Palette de peinture rouge Lapin de rue
+PROPITEM_TXT_903518,Street Bunny Red Paint Splatters,Éclaboussures de peinture rouge Lapin de rue
+PROPITEM_TXT_903519,Street Bunny Red Hat (M),Chapeau rouge Lapin de rue (M)
+PROPITEM_TXT_903520,Street Bunny Red Suit (M),Tenue rouge Lapin de rue (M)
+PROPITEM_TXT_903521,Street Bunny Red Shoes (M),Chaussures rouges Lapin de rue (M)
+PROPITEM_TXT_903522,Street Bunny Red Hands (M),Gants rouges Lapin de rue (M)
+PROPITEM_TXT_903523,Street Bunny 8% Red Set (M),Ensemble Lapin de rue rouge 8 % (M)
+PROPITEM_TXT_903524,The Street Bunny 8% Red Set for male characters.,Ensemble Lapin de rue rouge 8 % pour personnages masculins.
+PROPITEM_TXT_903525,Street Bunny Red Hat (F),Chapeau rouge Lapin de rue (F)
+PROPITEM_TXT_903526,Street Bunny Red Suit (F),Tenue rouge Lapin de rue (F)
+PROPITEM_TXT_903527,Street Bunny Red Shoes (F),Chaussures rouges Lapin de rue (F)
+PROPITEM_TXT_903528,Street Bunny Red Hands (F),Gants rouges Lapin de rue (F)
+PROPITEM_TXT_903529,Street Bunny 8% Red Set (F),Ensemble Lapin de rue rouge 8 % (F)
+PROPITEM_TXT_903530,The Street Bunny 8% Red Set for female characters.,Ensemble Lapin de rue rouge 8 % pour personnages féminins.
+PROPITEM_TXT_903531,Street Bunny 6% Brown Set,Ensemble Lapin de rue marron 6 %
+PROPITEM_TXT_903532,Street Bunny Brown Paint Palette,Palette de peinture marron Lapin de rue
+PROPITEM_TXT_903533,Street Bunny Brown Paint Splatters,Éclaboussures de peinture marron Lapin de rue
+PROPITEM_TXT_903534,Street Bunny Brown Hat (M),Chapeau marron Lapin de rue (M)
+PROPITEM_TXT_903535,Street Bunny Brown Suit (M),Tenue marron Lapin de rue (M)
+PROPITEM_TXT_903536,Street Bunny Brown Shoes (M),Chaussures marron Lapin de rue (M)
+PROPITEM_TXT_903537,Street Bunny Brown Hands (M),Gants marron Lapin de rue (M)
+PROPITEM_TXT_903538,Street Bunny 6% Brown Set (M),Ensemble Lapin de rue marron 6 % (M)
+PROPITEM_TXT_903539,The Street Bunny 6% Brown Set for male characters.,Ensemble Lapin de rue marron 6 % pour personnages masculins.
+PROPITEM_TXT_903540,Street Bunny Brown Hat (F),Chapeau marron Lapin de rue (F)
+PROPITEM_TXT_903541,Street Bunny Brown Suit (F),Tenue marron Lapin de rue (F)
+PROPITEM_TXT_903542,Street Bunny Brown Shoes (F),Chaussures marron Lapin de rue (F)
+PROPITEM_TXT_903543,Street Bunny Brown Hands (F),Gants marron Lapin de rue (F)
+PROPITEM_TXT_903544,Street Bunny 6% Brown Set (F),Ensemble Lapin de rue marron 6 % (F)
+PROPITEM_TXT_903545,The Street Bunny 6% Brown Set for female characters.,Ensemble Lapin de rue marron 6 % pour personnages féminins.
+PROPITEM_TXT_903546,Street Bunny 4% Green Set,Ensemble Lapin de rue vert 4 %
+PROPITEM_TXT_903547,Street Bunny Green Paint Palette,Palette de peinture verte Lapin de rue
+PROPITEM_TXT_903548,Street Bunny Green Paint Splatters,Éclaboussures de peinture verte Lapin de rue
+PROPITEM_TXT_903549,Street Bunny Green Hat (M),Chapeau vert Lapin de rue (M)
+PROPITEM_TXT_903550,Street Bunny Green Suit (M),Tenue verte Lapin de rue (M)
+PROPITEM_TXT_903551,Street Bunny Green Shoes (M),Chaussures vertes Lapin de rue (M)
+PROPITEM_TXT_903552,Street Bunny Green Hands (M),Gants verts Lapin de rue (M)
+PROPITEM_TXT_903553,Street Bunny 4% Green Set (M),Ensemble Lapin de rue vert 4 % (M)
+PROPITEM_TXT_903554,The Street Bunny 4% Green Set for male characters.,Ensemble Lapin de rue vert 4 % pour personnages masculins.
+PROPITEM_TXT_903555,Street Bunny Green Hat (F),Chapeau vert Lapin de rue (F)
+PROPITEM_TXT_903556,Street Bunny Green Suit (F),Tenue verte Lapin de rue (F)
+PROPITEM_TXT_903557,Street Bunny Green Shoes (F),Chaussures vertes Lapin de rue (F)
+PROPITEM_TXT_903558,Street Bunny Green Hands (F),Gants verts Lapin de rue (F)
+PROPITEM_TXT_903559,Street Bunny 4% Green Set (F),Ensemble Lapin de rue vert 4 % (F)
+PROPITEM_TXT_903560,The Street Bunny 4% Green Set for female characters.,Ensemble Lapin de rue vert 4 % pour personnages féminins.
+PROPITEM_TXT_903561,Street Bunny 2% Turquoise Set,Ensemble Lapin de rue turquoise 2 %
+PROPITEM_TXT_903562,Street Bunny Turquoise Paint Palette,Palette de peinture turquoise Lapin de rue
+PROPITEM_TXT_903563,Street Bunny Turquoise Paint Splatters,Éclaboussures de peinture turquoise Lapin de rue
+PROPITEM_TXT_903564,Street Bunny Turquoise Hat (M),Chapeau turquoise Lapin de rue (M)
+PROPITEM_TXT_903565,Street Bunny Turquoise Suit (M),Tenue turquoise Lapin de rue (M)
+PROPITEM_TXT_903566,Street Bunny Turquoise Shoes (M),Chaussures turquoise Lapin de rue (M)
+PROPITEM_TXT_903567,Street Bunny Turquoise Hands (M),Gants turquoise Lapin de rue (M)
+PROPITEM_TXT_903568,Street Bunny 2% Turquoise Set (M),Ensemble Lapin de rue turquoise 2 % (M)
+PROPITEM_TXT_903569,The Street Bunny 2% Turquoise Set for male characters.,Ensemble Lapin de rue turquoise 2 % pour personnages masculins.
+PROPITEM_TXT_903570,Street Bunny Turquoise Hat (F),Chapeau turquoise Lapin de rue (F)
+PROPITEM_TXT_903571,Street Bunny Turquoise Suit (F),Tenue turquoise Lapin de rue (F)
+PROPITEM_TXT_903572,Street Bunny Turquoise Shoes (F),Chaussures turquoise Lapin de rue (F)
+PROPITEM_TXT_903573,Street Bunny Turquoise Hands (F),Gants turquoise Lapin de rue (F)
+PROPITEM_TXT_903574,Street Bunny 2% Turquoise Set (F),Ensemble Lapin de rue turquoise 2 % (F)
+PROPITEM_TXT_903575,The Street Bunny 2% Turquoise Set for female characters.,Ensemble Lapin de rue turquoise 2 % pour personnages féminins.
+PROPITEM_TXT_903576,Street Bunny 2% Black Set,Ensemble Lapin de rue noir 2 %
+PROPITEM_TXT_903577,Street Bunny Black Paint Palette,Palette de peinture noire Lapin de rue
+PROPITEM_TXT_903578,Street Bunny Black Paint Splatters,Éclaboussures de peinture noire Lapin de rue
+PROPITEM_TXT_903579,Street Bunny Black Hat (M),Chapeau noir Lapin de rue (M)
+PROPITEM_TXT_903580,Street Bunny Black Suit (M),Tenue noire Lapin de rue (M)
+PROPITEM_TXT_903581,Street Bunny Black Shoes (M),Chaussures noires Lapin de rue (M)
+PROPITEM_TXT_903582,Street Bunny Black Hands (M),Gants noirs Lapin de rue (M)
+PROPITEM_TXT_903583,Street Bunny 2% Black Set (M),Ensemble Lapin de rue noir 2 % (M)
+PROPITEM_TXT_903584,The Street Bunny 2% Black Set for male characters.,Ensemble Lapin de rue noir 2 % pour personnages masculins.
+PROPITEM_TXT_903585,Street Bunny Black Hat (F),Chapeau noir Lapin de rue (F)
+PROPITEM_TXT_903586,Street Bunny Black Suit (F),Tenue noire Lapin de rue (F)
+PROPITEM_TXT_903587,Street Bunny Black Shoes (F),Chaussures noires Lapin de rue (F)
+PROPITEM_TXT_903588,Street Bunny Black Hands (F),Gants noirs Lapin de rue (F)
+PROPITEM_TXT_903589,Street Bunny 2% Black Set (F),Ensemble Lapin de rue noir 2 % (F)
+PROPITEM_TXT_903590,The Street Bunny 2% Black Set for female characters.,Ensemble Lapin de rue noir 2 % pour personnages féminins.
+PROPITEM_TXT_903591,Street Bunny Costume Lucky Box,Boîte chanceuse de costume Lapin de rue
+PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Lapin de rue avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
+PROPITEM_TXT_903593,Idol 2026 10% Blue Set,Ensemble Idol 2026 bleu 10 %
+PROPITEM_TXT_903594,Idol 2026 Blue Headset,Casque audio bleu Idol 2026
+PROPITEM_TXT_903595,Idol 2026 Blue Hat (M),Chapeau bleu Idol 2026 (M)
+PROPITEM_TXT_903596,Idol 2026 Blue Suit (M),Tenue bleue Idol 2026 (M)
+PROPITEM_TXT_903597,Idol 2026 Blue Shoes (M),Chaussures bleues Idol 2026 (M)
+PROPITEM_TXT_903598,Idol 2026 Blue Hands (M),Gants bleus Idol 2026 (M)
+PROPITEM_TXT_903599,Idol 2026 10% Blue Set (M),Ensemble Idol 2026 bleu 10 % (M)
+PROPITEM_TXT_903600,The Idol 2026 10% Blue Set for male characters.,Ensemble Idol 2026 bleu 10 % pour personnages masculins.
+PROPITEM_TXT_903601,Idol 2026 Blue Hat (F),Chapeau bleu Idol 2026 (F)
+PROPITEM_TXT_903602,Idol 2026 Blue Suit (F),Tenue bleue Idol 2026 (F)
+PROPITEM_TXT_903603,Idol 2026 Blue Shoes (F),Chaussures bleues Idol 2026 (F)
+PROPITEM_TXT_903604,Idol 2026 Blue Hands (F),Gants bleus Idol 2026 (F)
+PROPITEM_TXT_903605,Idol 2026 10% Blue Set (F),Ensemble Idol 2026 bleu 10 % (F)
+PROPITEM_TXT_903606,The Idol 2026 10% Blue Set for female characters.,Ensemble Idol 2026 bleu 10 % pour personnages féminins.
+PROPITEM_TXT_903607,Idol 2026 8% Red Set,Ensemble Idol 2026 rouge 8 %
+PROPITEM_TXT_903608,Idol 2026 Red Headset,Casque audio rouge Idol 2026
+PROPITEM_TXT_903609,Idol 2026 Red Hat (M),Chapeau rouge Idol 2026 (M)
+PROPITEM_TXT_903610,Idol 2026 Red Suit (M),Tenue rouge Idol 2026 (M)
+PROPITEM_TXT_903611,Idol 2026 Red Shoes (M),Chaussures rouges Idol 2026 (M)
+PROPITEM_TXT_903612,Idol 2026 Red Hands (M),Gants rouges Idol 2026 (M)
+PROPITEM_TXT_903613,Idol 2026 8% Red Set (M),Ensemble Idol 2026 rouge 8 % (M)
+PROPITEM_TXT_903614,The Idol 2026 8% Red Set for male characters.,Ensemble Idol 2026 rouge 8 % pour personnages masculins.
+PROPITEM_TXT_903615,Idol 2026 Red Hat (F),Chapeau rouge Idol 2026 (F)
+PROPITEM_TXT_903616,Idol 2026 Red Suit (F),Tenue rouge Idol 2026 (F)
+PROPITEM_TXT_903617,Idol 2026 Red Shoes (F),Chaussures rouges Idol 2026 (F)
+PROPITEM_TXT_903618,Idol 2026 Red Hands (F),Gants rouges Idol 2026 (F)
+PROPITEM_TXT_903619,Idol 2026 8% Red Set (F),Ensemble Idol 2026 rouge 8 % (F)
+PROPITEM_TXT_903620,The Idol 2026 8% Red Set for female characters.,Ensemble Idol 2026 rouge 8 % pour personnages féminins.
+PROPITEM_TXT_903621,Idol 2026 6% Purple Set,Ensemble Idol 2026 violet 6 %
+PROPITEM_TXT_903622,Idol 2026 Purple Headset,Casque audio violet Idol 2026
+PROPITEM_TXT_903623,Idol 2026 Purple Hat (M),Chapeau violet Idol 2026 (M)
+PROPITEM_TXT_903624,Idol 2026 Purple Suit (M),Tenue violette Idol 2026 (M)
+PROPITEM_TXT_903625,Idol 2026 Purple Shoes (M),Chaussures violettes Idol 2026 (M)
+PROPITEM_TXT_903626,Idol 2026 Purple Hands (M),Gants violets Idol 2026 (M)
+PROPITEM_TXT_903627,Idol 2026 6% Purple Set (M),Ensemble Idol 2026 violet 6 % (M)
+PROPITEM_TXT_903628,The Idol 2026 6% Purple Set for male characters.,Ensemble Idol 2026 violet 6 % pour personnages masculins.
+PROPITEM_TXT_903629,Idol 2026 Purple Hat (F),Chapeau violet Idol 2026 (F)
+PROPITEM_TXT_903630,Idol 2026 Purple Suit (F),Tenue violette Idol 2026 (F)
+PROPITEM_TXT_903631,Idol 2026 Purple Shoes (F),Chaussures violettes Idol 2026 (F)
+PROPITEM_TXT_903632,Idol 2026 Purple Hands (F),Gants violets Idol 2026 (F)
+PROPITEM_TXT_903633,Idol 2026 6% Purple Set (F),Ensemble Idol 2026 violet 6 % (F)
+PROPITEM_TXT_903634,The Idol 2026 6% Purple Set for female characters.,Ensemble Idol 2026 violet 6 % pour personnages féminins.
+PROPITEM_TXT_903635,Idol 2026 4% Cyan Set,Ensemble Idol 2026 cyan 4 %
+PROPITEM_TXT_903636,Idol 2026 Cyan Headset,Casque audio cyan Idol 2026
+PROPITEM_TXT_903637,Idol 2026 Cyan Hat (M),Chapeau cyan Idol 2026 (M)
+PROPITEM_TXT_903638,Idol 2026 Cyan Suit (M),Tenue cyan Idol 2026 (M)
+PROPITEM_TXT_903639,Idol 2026 Cyan Shoes (M),Chaussures cyan Idol 2026 (M)
+PROPITEM_TXT_903640,Idol 2026 Cyan Hands (M),Gants cyan Idol 2026 (M)
+PROPITEM_TXT_903641,Idol 2026 4% Cyan Set (M),Ensemble Idol 2026 cyan 4 % (M)
+PROPITEM_TXT_903642,The Idol 2026 4% Cyan Set for male characters.,Ensemble Idol 2026 cyan 4 % pour personnages masculins.
+PROPITEM_TXT_903643,Idol 2026 Cyan Hat (F),Chapeau cyan Idol 2026 (F)
+PROPITEM_TXT_903644,Idol 2026 Cyan Suit (F),Tenue cyan Idol 2026 (F)
+PROPITEM_TXT_903645,Idol 2026 Cyan Shoes (F),Chaussures cyan Idol 2026 (F)
+PROPITEM_TXT_903646,Idol 2026 Cyan Hands (F),Gants cyan Idol 2026 (F)
+PROPITEM_TXT_903647,Idol 2026 4% Cyan Set (F),Ensemble Idol 2026 cyan 4 % (F)
+PROPITEM_TXT_903648,The Idol 2026 4% Cyan Set for female characters.,Ensemble Idol 2026 cyan 4 % pour personnages féminins.
+PROPITEM_TXT_903649,Idol 2026 2% Black Set,Ensemble Idol 2026 noir 2 %
+PROPITEM_TXT_903650,Idol 2026 Black Headset,Casque audio noir Idol 2026
+PROPITEM_TXT_903651,Idol 2026 Black Hat (M),Chapeau noir Idol 2026 (M)
+PROPITEM_TXT_903652,Idol 2026 Black Suit (M),Tenue noire Idol 2026 (M)
+PROPITEM_TXT_903653,Idol 2026 Black Shoes (M),Chaussures noires Idol 2026 (M)
+PROPITEM_TXT_903654,Idol 2026 Black Hands (M),Gants noirs Idol 2026 (M)
+PROPITEM_TXT_903655,Idol 2026 2% Black Set (M),Ensemble Idol 2026 noir 2 % (M)
+PROPITEM_TXT_903656,The Idol 2026 2% Black Set for male characters.,Ensemble Idol 2026 noir 2 % pour personnages masculins.
+PROPITEM_TXT_903657,Idol 2026 Black Hat (F),Chapeau noir Idol 2026 (F)
+PROPITEM_TXT_903658,Idol 2026 Black Suit (F),Tenue noire Idol 2026 (F)
+PROPITEM_TXT_903659,Idol 2026 Black Shoes (F),Chaussures noires Idol 2026 (F)
+PROPITEM_TXT_903660,Idol 2026 Black Hands (F),Gants noirs Idol 2026 (F)
+PROPITEM_TXT_903661,Idol 2026 2% Black Set (F),Ensemble Idol 2026 noir 2 % (F)
+PROPITEM_TXT_903662,The Idol 2026 2% Black Set for female characters.,Ensemble Idol 2026 noir 2 % pour personnages féminins.
+PROPITEM_TXT_903663,Idol 2026 2% White Set,Ensemble Idol 2026 blanc 2 %
+PROPITEM_TXT_903664,Idol 2026 White Headset,Casque audio blanc Idol 2026
+PROPITEM_TXT_903665,Idol 2026 White Hat (M),Chapeau blanc Idol 2026 (M)
+PROPITEM_TXT_903666,Idol 2026 White Suit (M),Tenue blanche Idol 2026 (M)
+PROPITEM_TXT_903667,Idol 2026 White Shoes (M),Chaussures blanches Idol 2026 (M)
+PROPITEM_TXT_903668,Idol 2026 White Hands (M),Gants blancs Idol 2026 (M)
+PROPITEM_TXT_903669,Idol 2026 2% White Set (M),Ensemble Idol 2026 blanc 2 % (M)
+PROPITEM_TXT_903670,The Idol 2026 2% White Set for male characters.,Ensemble Idol 2026 blanc 2 % pour personnages masculins.
+PROPITEM_TXT_903671,Idol 2026 White Hat (F),Chapeau blanc Idol 2026 (F)
+PROPITEM_TXT_903672,Idol 2026 White Suit (F),Tenue blanche Idol 2026 (F)
+PROPITEM_TXT_903673,Idol 2026 White Shoes (F),Chaussures blanches Idol 2026 (F)
+PROPITEM_TXT_903674,Idol 2026 White Hands (F),Gants blancs Idol 2026 (F)
+PROPITEM_TXT_903675,Idol 2026 2% White Set (F),Ensemble Idol 2026 blanc 2 % (F)
+PROPITEM_TXT_903676,The Idol 2026 2% White Set for female characters.,Ensemble Idol 2026 blanc 2 % pour personnages féminins.
+PROPITEM_TXT_903677,Idol 2026 Costume Lucky Box,Boîte chanceuse de costume Idol 2026
+PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Idol 2026 avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
+PROPITEM_TXT_903679,Yellow Nala,Nala jaune
+PROPITEM_TXT_903680,White Nala,Nala blanc
+PROPITEM_TXT_903681,Blue Nala,Nala bleu
+PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.","Nala fonce avec un enthousiasme sauvage et une détermination sans peur. Plus audacieux que prudent, ce compagnon rayé emmène son cavalier à l’aventure avec une énergie inégalée et une loyauté sans faille. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_903683,[FWC 2026 Support Kit],[Kit de support FWC 2026]
+PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","Un kit contenant 1x boîte de sélection de sac métiers (15 jours), 2x sac supplémentaire (7 jours), 2x parchemin de résurrection, 2x parchemin de Vivacité, 3x pierre Arès et 3x parchemin de puissance. Tous les objets sont liés au personnage."
+PROPITEM_TXT_903685,Extra Bag (7 days),Sac supplémentaire (7 jours)
+PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,Augmente la capacité d’inventaire de 24 objets pour les personnages. Vous ne pouvez en utiliser que 2 en même temps. Dure 7 jours.

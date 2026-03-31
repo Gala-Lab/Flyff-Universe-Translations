@@ -1711,16 +1711,16 @@ UI_CHARINFO_PK_COUNT,Player(s) Killed,Joueur(s) Tué(s)
 UI_CHARINFO_PK_STOLENCHIPS,PK Chips Stolen,Jetons PK Volés
 UI_CHARINFO_PK_VALUE,PK Value,Valeur PK
 UI_USETICKET,Use ticket!,Utiliser le ticket !
-UI_TICKETCHANGE,Change Layer!,Changer de Couche !
+UI_TICKETCHANGE,Change Layer!,Changer d'étage !
 UI_TICKET,Ticket Area,Zone de ticket
-UI_TICKETCHANNELSEL,Select a Layer,Choisissez une Couche
-UI_TICKETCHANNEL,Layer,Couche
+UI_TICKETCHANNELSEL,Select a Layer,Choisissez un étage
+UI_TICKETCHANNEL,Layer,Étage
 UI_TICKETLEAVE,Leave Area,Quitter la Zone
 UI_TARGETITEMLEVEL,Required Target Level: %d,Niveau de Cible requis : %d
 UI_DUNGEON_REQ_ITEM,Required Items:,Objets requis :
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,Entrées max. journalières : %d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Distribution du Butin
-UI_DROP_DISTRIBUTE_INFO,"Roll for the item above, or pass if you're not interested. When everyone has rolled or the timer runs out, the player with the highest roll wins the item.","Lancez un nombre aléatoire pour cet objet, ou passez votre tour si vous n'êtes pas intéressé. À l'issue du temps imparti, le joueur ayant le plus grand nombre obtient l'objet."
+UI_DROP_DISTRIBUTE_INFO,"Roll for the item above, or pass if you're not interested. When everyone has rolled or the timer runs out, the player with the highest roll wins the item.","Votez pour tenter de gagner l'objet ci-dessus, ou passez votre tour si cela ne vous intéresse pas."
 UI_DROP_DISTRIBUTE_ROLL,Roll,Obtenir
 UI_DROP_DISTRIBUTE_PASS,Pass,Je passe
 UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll for a chance to win this item. The player with the highest roll wins.,Lancez un nombre pour avoir une chance d'obtenir cet objet. Le joueur ayant le plus grand nombre gagne.
@@ -1729,8 +1729,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s a obtenu l'objet.
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,Un joueur qui n'est plus disponible a reçu l'article par courrier.
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Objet : %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Chance de Coup Multiple
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Chance de frappe multiple (JcJ)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Chance de frappe multiple (JcE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,Tuez des Monstres Niv. %s+ sur les canaux PK
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,Tuez %s sur les canaux PK
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Terminez le(s) donjon(s)
@@ -3106,7 +3106,7 @@ UI_RANKING_UNIT2,nd,ᵉ
 UI_RANKING_UNIT3,rd,ᵉ
 UI_RANKING_UNIT4,th,ᵉ
 UI_KALGAS_BLACK,Black,Noir
-UI_KALGAS_WHITE,White,Blanc
+UI_KALGAS_WHITE,White,Blanche
 UI_KALGAS_TEAM,Team,Équipe
 UI_WARDROBE_NONE,None,Aucun
 UI_ACHIEVEMENT_SLOTS_N,slot(s),emplacement(s)
@@ -3277,7 +3277,7 @@ UI_NEWYEARPASS_2026,2026 New Year Pass,Pass Nouvel An 2026
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,Dans votre garde-robe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Pas dans votre garde-robe
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Atteignez 99.99 % d'EXP pour votre familier
-UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
+UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Identifiant publicitaire :
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
-UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
-UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Personnalisation des annonces :
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Données utilisateur de l'annonce :
