@@ -646,7 +646,7 @@ ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[死神] 
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[死神] 魔化安库屠杀者 2
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[死神] 魔化安库屠杀者 3
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[死神] 魔化安库屠杀者 4
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,打狗第一人
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[死神] 魔化安库毁灭者
 ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,击杀这些怪物以获得对它们的永久伤害加成。
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,闪耀之星
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,开心果
@@ -1046,7 +1046,7 @@ ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,相守两百日
 ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,挚爱两百天
 ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,相守一载
 ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,情定一载
-ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,与伴侣保持情侣关系，连续满指定天数即可。
+ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,保持情侣关系，连续满指定天数即可。
 ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,情侣技能
 ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,1+1>2
 ACHIEVEMENT_COUPLE_SKILL_DESC,Use couple skills.,使用情侣技能。
