@@ -1966,7 +1966,7 @@ UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,The Costume
 UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
 UI_FITTINGROOM_BG,Background,Background
-UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,像素級精確鼠標選擇
+UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,像素級精確滑鼠選擇
 UI_WEBVIEW_OPEN,Please open your web browser to continue.,請打開瀏覽器繼續。
 UI_BATTLEPASS_JAN,January %d Pass,%d 一月通行證
 UI_BATTLEPASS_FEB,February %d Pass,%d 二月通行證
