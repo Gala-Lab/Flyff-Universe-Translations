@@ -1096,7 +1096,7 @@ UI_KEYBIND_RESET,Reset,重置
 UI_UPGRADECARD_TITLE,Upgrade Suit Socket Cards,穿洞卡片升级
 UI_UPGRADECARD_REGISTER,Insert suit cards.,登记材料卡。
 UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,将10张材料卡片进行融合以获得1张更高级的卡片
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重铸
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重新随机
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,放入武器穿洞卡片作为材料。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,将3张武器穿洞卡片融合，可获得1张同品级的武器穿洞卡片。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,重铸将会消耗材料卡片，是否继续？
@@ -1169,8 +1169,8 @@ UI_TOOLTIP_RARITY,Rarity:,品质:
 UI_TOOLTIP_RARITY_NORMAL,Common,普通
 UI_TOOLTIP_RARITY_RARE,Uncommon,精良
 UI_TOOLTIP_RARITY_STRONG,Rare,稀有
-UI_TOOLTIP_RARITY_UNIQUE,Unique,史诗
-UI_TOOLTIP_RARITY_VERYRARE,Very Rare,传说
+UI_TOOLTIP_RARITY_UNIQUE,Unique,传说
+UI_TOOLTIP_RARITY_VERYRARE,Very Rare,非常稀有
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,终极
 UI_WORLD_CASTING,Casting,施法
 UI_WORLD_HARVESTING,Harvesting,采集
@@ -1237,7 +1237,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,弓箭射程
 UI_TOOLTIP_SKILLUP,Skill Damage,技能伤害
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,单体攻击技能
 UI_TOOLTIP_HEALUP,Healing,治疗
-UI_TOOLTIP_SKILLRANGE,Skill Range,技能射程
+UI_TOOLTIP_SKILLRANGE,Skill Range,技能距离
 UI_MAP_MENU,Menu,菜单
 UI_MAP_MENU_TIP,Hide/Show the menu,隐藏/显示菜单
 UI_TOOLTIP_RESTOREUP,HP Restoration,HP恢复
@@ -1459,7 +1459,7 @@ UI_TOOLTIP_DURATION_VENDOR,Shop Time:,商店时间:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,可以装备在另一件披风上。
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,只有游戏管理人员才能登录。请使用公共客户端进行游玩。
 UI_CONVERTWEAP_WEAPON,Weapon,武器
-UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在窗口中放置一个普通武器以将其升级为一个史诗武器。
+UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在窗口中放置一个普通武器以将其升级为一个传说武器。
 UI_CONVERTWEAP_DICE,Shining Power Dice,闪亮精炼骰子
 UI_CONVERTWEAP_DICE_TIP,You need to use Shining Power Dice.,你需要使用一个闪亮精炼骰子。
 UI_CONVERTWEAP_GEM,Jewel,宝石
@@ -2350,15 +2350,15 @@ UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please ente
 UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
-UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
+UI_ROLL_AND_MOVE_START,START,开始
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,掷骰子
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
 UI_TRADE_LOG_PUT,Added,添加了
-UI_TRADE_LOG_PULL,Removed,Removed
+UI_TRADE_LOG_PULL,Removed,移除了
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,确认了交易。
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,接受了交易。
 UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
-UI_COUPON_TITLE,Coupon,优惠券
+UI_COUPON_TITLE,Coupon,兑换礼包
 UI_COUPON_ENTER,Please enter your coupon code.,请输入您的兑换码。
 UI_COUPON_CODE,Coupon Code,兑换码
 UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,兑换码格式示例如下：\n    AAAA-BBBB-CCCC-DDDD
@@ -2381,7 +2381,7 @@ UI_DELETEACCOUNT_NOPASS,Do you confirm?,你确定吗？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.",会员退订后，所有数据将被删除，您将无法继续使用本服务、恢复账号，也无法就任何剩余的付费项目或货币申请退款。
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,搜索个人及替身商店道具。
 UI_SEARCHSHOP_RARITY,Rarity,稀有度
-UI_SEARCHSHOP_UPGRADE,Upgrade:,升级：
+UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼：
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,包含关键词
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,精准关键词
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,商店距离
@@ -2768,7 +2768,7 @@ UI_CHRISTMAS_INVANSION_MISSION,Quest completed,任务完成
 UI_TELEPORT_ARENA,Exit the arena?,退出竞技场吗？
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,收集 %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",采集资源 (草药、原木、矿石、浆果) #cffc32f07#b%d/%d#nb#nc
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,可用祝福次数已耗尽。
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,周排行榜
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,永久排行榜
@@ -2780,7 +2780,7 @@ UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
 UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
 UI_JAN2024_POINT_NAME,Spring Points,Spring Points
 UI_POINTS,%d Pts,%d Pts
-UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",采集资源 (草药、原木、矿石、浆果) #cffc32f07#b%d/%d#nb#nc
 UI_STANDBY,Standby,待机
 UI_DEAD,Dead,死亡
 UI_NOW_SPECTATING,Spectating %s,正在观战 %s
@@ -3202,7 +3202,7 @@ UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,超过5米后的伤害​
 UI_DUNGEON_MODLEVEL,Lv.%d,等级： %d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n当前加成：
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,自动攻击叠层几率
-UI_TOOLTIP_YOYORANGE,Yo-Yo Range,有效范围
+UI_TOOLTIP_YOYORANGE,Yo-Yo Range,飞轮攻击距离
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
 UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,生命值消耗降低
 UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,流血击杀恢复生命值

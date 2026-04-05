@@ -1,32 +1,32 @@
 ﻿Key,English,Filipino
-STATBOARD_TXT_000000,1. General,1. General
-STATBOARD_TXT_000001,2. Time,2. Time
-STATBOARD_TXT_000002,3. Class,3. Class
-STATBOARD_TXT_000003,Total Damage,Total Damage
-STATBOARD_TXT_000004,Skill Damage,Skill Damage
-STATBOARD_TXT_000005,Damage Taken,Damage Taken
-STATBOARD_TXT_000006,Healing Done,Healing Done
-STATBOARD_TXT_000007,Total Kills,Total Kills
-STATBOARD_TXT_000008,Total Deaths,Total Deaths
-STATBOARD_TXT_000009,Damage Per Death,Damage Per Death
-STATBOARD_TXT_000010,Tanking Per Death,Tanking Per Death
-STATBOARD_TXT_000011,Healing Per Death,Healing Per Death
-STATBOARD_TXT_000012,Kills Per Death,Kills Per Death
-STATBOARD_TXT_000013,Damage Per Min,Damage Per Min
-STATBOARD_TXT_000014,Tanking Per Min,Tanking Per Min
-STATBOARD_TXT_000015,Healing Per Min,Healing Per Min
-STATBOARD_TXT_000016,Deaths Per Min,Deaths Per Min
-STATBOARD_TXT_000017,Time Spent CC'd,Time Spent CC'd
-STATBOARD_TXT_000018,CC's applied,CC's applied
-STATBOARD_TXT_000019,Damage Amped,Damage Amped
-STATBOARD_TXT_000020,Damage Mitigated,Damage Mitigated
-STATBOARD_TXT_000021,Damage Reflected,Damage Reflected
+STATBOARD_TXT_000000,1. General,1. Pangkalahatan
+STATBOARD_TXT_000001,2. Time,2. Oras
+STATBOARD_TXT_000002,3. Class,3. Klase
+STATBOARD_TXT_000003,Total Damage,Kabuuang Pinsala
+STATBOARD_TXT_000004,Skill Damage,Pinsala ng Skill
+STATBOARD_TXT_000005,Damage Taken,Natamong Pinsala
+STATBOARD_TXT_000006,Healing Done,Kabuuang Paggamot
+STATBOARD_TXT_000007,Total Kills,Kabuuang Napatay
+STATBOARD_TXT_000008,Total Deaths,Kabuuang Namatay
+STATBOARD_TXT_000009,Damage Per Death,Pinsala Bawat Kamatayan
+STATBOARD_TXT_000010,Tanking Per Death,Tanking Bawat Kamatayan
+STATBOARD_TXT_000011,Healing Per Death,Paggamot Bawat Kamatayan
+STATBOARD_TXT_000012,Kills Per Death,Napatay Bawat Kamatayan
+STATBOARD_TXT_000013,Damage Per Min,Pinsala Bawat Minuto
+STATBOARD_TXT_000014,Tanking Per Min,Tanking Bawat Minuto
+STATBOARD_TXT_000015,Healing Per Min,Paggamot Bawat Minuto
+STATBOARD_TXT_000016,Deaths Per Min,Kamatayan Bawat Minuto
+STATBOARD_TXT_000017,Time Spent CC'd,Oras na Nasa CC
+STATBOARD_TXT_000018,CC's applied,Nailapat na CC
+STATBOARD_TXT_000019,Damage Amped,Pinalakas na Pinsala
+STATBOARD_TXT_000020,Damage Mitigated,Nabawasang Pinsala
+STATBOARD_TXT_000021,Damage Reflected,Naibalik na Pinsala
 STATBOARD_TXT_000022,,
 STATBOARD_TXT_000023,,
 STATBOARD_TXT_000024,,
 STATBOARD_TXT_000025,,
 STATBOARD_TXT_000026,,
-STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,Total seconds a player was crowd-controlled.
-STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,Total seconds a player applied crowd-control effect on other players.
-STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Total damage a player amplified through effects like Holycross, Swordcross, etc."
-STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.","Total damage a player mitigated through effects like Damage Redirection, etc."
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,Kabuuang segundo na ang isang player ay nasa crowd control.
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,Kabuuang segundo na ang isang player ay nakapaglagay ng crowd-control effect sa ibang players.
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Kabuuang pinsalang napalakas ng isang player sa pamamagitan ng mga effect tulad ng Holycross, Swordcross, at iba pa."
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.","Kabuuang pinsalang nabawasan ng isang player sa pamamagitan ng mga effect tulad ng Damage Redirection, at iba pa."
