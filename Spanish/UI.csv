@@ -28,7 +28,7 @@ UI_CHARLIST_NEW,New,Nuevo
 UI_CHARLIST_DELETE,Delete,Borrar
 UI_DELETECHAR_TITLE,Delete Character,Borrar Personaje
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Contraseña para eliminar el personaje\nIntroduce la contraseña
-UI_DELETECHAR_NOPASS,Confirm Deletion?,¿Deseas continuar?
+UI_DELETECHAR_NOPASS,Confirm Deletion?,¿Confirmar eliminación?
 UI_DELETECHAR_NOTICE,"If you delete this character, its name cannot be used again for one week.","Si borras un personaje, no podrás usar su nombre en una semana."
 UI_NEWCHAR_NAME,Name:,Nombre:
 UI_NEWCHAR_GIRL,Girl,Chica
@@ -872,11 +872,11 @@ UI_APP_CHARINFO_TIP,View detailed character information and manage your stats.,M
 UI_APP_MOTION_TIP,View emotes and emoticons you can use to express yourself.,Usa emoticonos y gestos para expresarte.
 UI_APP_STATUS_TIP,View your character's status.,Estado del Personaje
 UI_APP_CHAT_TIP,Show/hide the chat window.,Abre una ventana de chat.
-UI_APP_QUIT_TIP,Exit the game.,Salir del Programa
+UI_APP_QUIT_TIP,Exit the game.,Salir del juego.
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Abrir la Atención al Cliente.
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,Open Privacy Settings.
+UI_APP_PRIVACY_TIP,Open Privacy Settings.,Abrir la configuración de privacidad.
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Desconectar
-UI_APP_OPTION_TIP,Open the game's options window.,Opciones
+UI_APP_OPTION_TIP,Open the game's options window.,Abre la ventana de opciones del juego.
 UI_APP_MAP_TIP,View the world map.,Un Mapa del Mundo
 UI_APP_NAVIGATOR_TIP,Open the mini-map widget.,Un mini-mapa que te ayudará a encontrar tu camino.
 UI_APP_NOTICE_TIP,Notice,Anuncio
@@ -935,10 +935,10 @@ UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,Has entrado a la 1ª zona.
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,Has entrado a la 2ª zona.
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,Has entrado a la 3ª zona.
 UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered zone 4.,Has entrado a la 4ª zona.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,You have entered zone 5.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,You have entered zone 6.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,You have entered zone 7.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,You have entered zone 8.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,Has entrado a la 5ª zona.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,Has entrado a la 6ª zona.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,Has entrado a la 7ª zona.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,Has entrado a la 8ª zona.
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Seleccione la zona a la que deseas entrar.
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","Después de %d, entras a %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Aleatorio
@@ -975,7 +975,7 @@ UI_WORLD_TURBO_TIP,Fuel,Combustible
 UI_NAVIGATOR_SHIP,Ship,Barco
 UI_OPTION_TOON_STYLE,Outline,Contorno
 UI_OPTION_RIM_OUTLINE,Rim Outlines,Linea Contornos
-UI_APP_WIKI_TIP,Browse the Flyffipedia,Obtén ayuda de la Wiki
+UI_APP_WIKI_TIP,Browse the Flyffipedia,Navega por Flyffipedia
 UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,¡Te reto a una partida de Piedra-Papel-Tijeras!
 UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,Piedra-Papel-Tijeras
 UI_ROSHAMBO_VS,VS,VS
@@ -1452,8 +1452,8 @@ UI_CRAFTPETCANDY_MAT,Harvested Berry,Baya Cosechada
 UI_CRAFTPETCANDY_CANDY,Pet Candy,Caramelo de Mascota
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000El Dado de Poder Brillante resultante también será Vinculado.#nc
 UI_TOOLTIP_DURATION,Duration:,Duración:
-UI_TOOLTIP_DURATION_ONLINE,(Online Only),(En Línea)
-UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Tiempo Desconectado)
+UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Solo en línea)
+UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(En línea y fuera de línea)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Después del primer uso)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Tiempo de Compra:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Se puede usar sobre otra capa.
@@ -2515,7 +2515,7 @@ UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s is proposing to you! Accept their proposal request and become a couple?
 UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
 UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,Your partner is proposing to change the ring to the following ring. Accept?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be online.
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Tu pareja debe estar en línea.
 UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
 UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
 UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next Couple EXP: %s

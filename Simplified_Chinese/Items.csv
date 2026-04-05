@@ -319,28 +319,28 @@ PROPITEM_TXT_000638,Free Hand,帕罗宣飞轮
 PROPITEM_TXT_000640,Firee,强化帕罗宣飞轮
 PROPITEM_TXT_000642,Hyper Impulse,车轮飞轮
 PROPITEM_TXT_000644,Immote,强化车轮飞轮
-PROPITEM_TXT_000646,Stealth Brain,斧溜刃
-PROPITEM_TXT_000648,Stencil,强化斧溜刃
+PROPITEM_TXT_000646,Stealth Brain,斧飞轮
+PROPITEM_TXT_000648,Stencil,强化斧飞轮
 PROPITEM_TXT_000650,Red Eye,血眼飞轮
 PROPITEM_TXT_000652,Repoyit,强化血眼飞轮
-PROPITEM_TXT_000654,Gold Bug,金龟溜刃
-PROPITEM_TXT_000656,Gelonde,强化金龟溜刃
-PROPITEM_TXT_000658,Wing Force,蜂刺溜刃
-PROPITEM_TXT_000660,Wingfull,强化蜂刺溜刃
-PROPITEM_TXT_000662,Aqua Breath,炫风溜刃
-PROPITEM_TXT_000664,Anakun,强化炫风溜刃
+PROPITEM_TXT_000654,Gold Bug,金龟飞轮
+PROPITEM_TXT_000656,Gelonde,强化金龟飞轮
+PROPITEM_TXT_000658,Wing Force,蜂刺飞轮
+PROPITEM_TXT_000660,Wingfull,强化蜂刺飞轮
+PROPITEM_TXT_000662,Aqua Breath,炫风飞轮
+PROPITEM_TXT_000664,Anakun,强化炫风飞轮
 PROPITEM_TXT_000666,Circle Sica,凤凰飞轮
-PROPITEM_TXT_000668,Circern,强化凤凰溜刃
-PROPITEM_TXT_000670,Mirage Hander,赤风溜刃
-PROPITEM_TXT_000672,Mishend,强化赤风溜刃
-PROPITEM_TXT_000674,Sharpne Sling,圣皇溜刃
-PROPITEM_TXT_000676,Slinfes,强化圣皇溜刃
-PROPITEM_TXT_000678,Aranet,亚拉特溜刃
+PROPITEM_TXT_000668,Circern,强化凤凰飞轮
+PROPITEM_TXT_000670,Mirage Hander,赤风飞轮
+PROPITEM_TXT_000672,Mishend,强化赤风飞轮
+PROPITEM_TXT_000674,Sharpne Sling,圣皇飞轮
+PROPITEM_TXT_000676,Slinfes,强化圣皇飞轮
+PROPITEM_TXT_000678,Aranet,亚拉特飞轮
 PROPITEM_TXT_000680,Akane,强化亚拉特飞轮
-PROPITEM_TXT_000682,Clipeus,拉佩斯溜刃
-PROPITEM_TXT_000684,Clantob,强化拉佩斯溜刃
-PROPITEM_TXT_000686,Eclipse,伊克鲁溜刃
-PROPITEM_TXT_000688,Enaphoon,强化伊克鲁溜刃
+PROPITEM_TXT_000682,Clipeus,拉佩斯飞轮
+PROPITEM_TXT_000684,Clantob,强化拉佩斯飞轮
+PROPITEM_TXT_000686,Eclipse,伊克鲁飞轮
+PROPITEM_TXT_000688,Enaphoon,强化伊克鲁飞轮
 PROPITEM_TXT_000690,Corsesca,赤红之风
 PROPITEM_TXT_000692,Coroner,强化赤红之风
 PROPITEM_TXT_000694,Wooden Bow,木弓
@@ -1904,7 +1904,7 @@ PROPITEM_TXT_003808,Tritium Axe,特利缇斧
 PROPITEM_TXT_003810,Tritium Stick,特利缇魔棒
 PROPITEM_TXT_003812,Tritium Knuckle,特利缇全套
 PROPITEM_TXT_003814,Tritium Wand,特利缇魔杖
-PROPITEM_TXT_003816,Tritium Yo-Yo,特利缇溜刃
+PROPITEM_TXT_003816,Tritium Yo-Yo,特利缇飞轮
 PROPITEM_TXT_003818,Tritium Bow,特利缇弓
 PROPITEM_TXT_003820,Tritium Staff,特利缇法杖
 PROPITEM_TXT_003822,Pericuum Sword,无畏之剑
@@ -6431,7 +6431,7 @@ PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,Rare dice for 
 PROPITEM_TXT_100125,Shining Power Dice 6,闪亮的6点精炼骰子
 PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,Rare dice for the creation of Unique Weapons.
 PROPITEM_TXT_100127,Shining Power Dice 12,闪亮的12点精炼骰子
-PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,稀有的骰子，用于制作史诗品质的武器。
+PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,稀有的骰子，用于制作传说品质的武器。
 PROPITEM_TXT_008976,Cloud Piece,云朵碎片
 PROPITEM_TXT_008977,Gather 10 of these to get a Cloud Box from Peach.,收集10个该物品可以找皮奇换一个云朵盒子。
 PROPITEM_TXT_008982,Topaz Piece,黄宝石碎片
@@ -11943,9 +11943,9 @@ PROPITEM_TXT_221917,Scroll of General Shop,精品店卷轴
 PROPITEM_TXT_221918,"Use it to access a remote shop for general items(Collector, Poster, Magic Tools, Arrows)!",能够远程购买精品店商品(采集器，符咒，魔法道具，箭)！
 PROPITEM_TXT_221919,Scroll of Food Shop,餐饮店卷轴
 PROPITEM_TXT_221920,Use it to access a remote food shop!,能够远程购买餐饮店商品！
-PROPITEM_TXT_221921,Scroll of Multi-Shop,多类型商店卷轴
-PROPITEM_TXT_221922,Use it to access the ultimate remote shop!,使用它，即可进入终极远程商店！
-PROPITEM_TXT_221923,Nitro Booster,氮气加速
+PROPITEM_TXT_221921,Scroll of Multi-Shop,综合商店卷轴
+PROPITEM_TXT_221922,Use it to access the ultimate remote shop!,能够远程购买多合一终极商店商品！
+PROPITEM_TXT_221923,Nitro Booster,加速燃料
 PROPITEM_TXT_221924,"Use of this nitro booster can increase your flying speed by up to 30% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off.","Use of this nitro booster can increase your flying speed by up to 30% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off."
 PROPITEM_TXT_221925,Nitro Booster (7 Days),Nitro Booster (7 Days)
 PROPITEM_TXT_221926,"Provides unlimited Nitro Booster for 7 days, increasing your flying speed by up to 30%.","Provides unlimited Nitro Booster for 7 days, increasing your flying speed by up to 30%."
@@ -12159,7 +12159,7 @@ PROPITEM_TXT_222133,Pumpkin Weapons Skin Box,南瓜武器皮肤箱
 PROPITEM_TXT_222134,Select which Pumpkin weapon or shield skin you want to receive!,选择你想要的南瓜武器或盾牌！
 PROPITEM_TXT_222135,Red Riding Hood Set,Red Riding Hood Set
 PROPITEM_TXT_222136,Select if you want to receive Big Bad Wolf Set (M) or Red Riding Hood Set (F)!,Select if you want to receive Big Bad Wolf Set (M) or Red Riding Hood Set (F)!
-PROPITEM_TXT_222137,1 Day Scroll of Combined Party Effects,1 Day Scroll of Combined Party Effects
+PROPITEM_TXT_222137,1 Day Scroll of Combined Party Effects,组合剧团卷轴(1天)
 PROPITEM_TXT_222138,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 1 day from activation, even if logged off)","Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 1 day from activation, even if logged off)"
 PROPITEM_TXT_222139,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked.","A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked."
 PROPITEM_TXT_222140,Bank Extra Bag (15 Days),Bank Extra Bag (15 Days)
@@ -12460,7 +12460,7 @@ PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,
 PROPITEM_TXT_122502,Ultimate Orb,终极宝珠
 PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,用于将普通武器转化为终极武器。
 PROPITEM_TXT_122504,Scroll of Ultimate Power,终极之力卷轴
-PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,重置终极武器和某些史诗武器的固定属性数值。
+PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,重置终极武器和某些传说武器的固定属性数值。
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,终极加成卷轴
 PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,重置升级终极武器时应用的附加随机属性种类和数值。
 PROPITEM_TXT_122508,Sunstone,晶石
@@ -12710,7 +12710,7 @@ PROPITEM_TXT_722046,Rainbow Race Honorable Box,Rainbow Race Honorable Box
 PROPITEM_TXT_122105,Cloak of Coral,珊瑚披风
 PROPITEM_TXT_122106,Meteo Bike (Silver),Meteo Bike (Silver)
 PROPITEM_TXT_622046,Amethyst,紫水晶
-PROPITEM_TXT_622047,Used to craft level 150 unique weapons at Peach in Central Flarine.,用来在帕里中心的皮奇处制作150级史诗武器。
+PROPITEM_TXT_622047,Used to craft level 150 unique weapons at Peach in Central Flarine.,用来在帕里中心的皮奇处制作150级传说武器。
 PROPITEM_TXT_622048,Pink Crystal,粉色水晶
 PROPITEM_TXT_622049,Can be obtained with certain rate by hunting monsters.\nCan exchange with various items by gathering crystals and taking it to NPC Gujane,Can be obtained with certain rate by hunting monsters.\nCan exchange with various items by gathering crystals and taking it to NPC Gujane
 PROPITEM_TXT_622050,Violet Crystal,紫色水晶
@@ -13247,7 +13247,7 @@ PROPITEM_TXT_009042,Cotton Candy Box,Cotton Candy Box
 PROPITEM_TXT_009043,Select which Cotton Candy you want to receive!,Select which Cotton Candy you want to receive!
 PROPITEM_TXT_009046,Turkey Box,Turkey Box
 PROPITEM_TXT_009047,Select which Turkey you want to receive!,Select which Turkey you want to receive!
-PROPITEM_TXT_230212,Bonus Playtime Coupon,Bonus Playtime Coupon
+PROPITEM_TXT_230212,Bonus Playtime Coupon,游戏时长额外奖励券
 PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.,Unlocks bonus playtime rewards. Can only be used once per day.
 PROPITEM_TXT_230214,Bonus Login Coupon,Bonus Login Coupon
 PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.","Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over."
@@ -14280,9 +14280,9 @@ PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll
 PROPITEM_TXT_722671,2024 Valentine Package,2024 Valentine Package
 PROPITEM_TXT_722672,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.
 PROPITEM_TXT_131423,Kalgas Silver Coin,卡尔加斯银币
-PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝复活道具，仅限参与「卡尔加斯突袭」时使用一次。使用后将在起点立即复活，无等待时间。
+PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬时复活道具，仅限参与卡尔加斯突袭时使用一次。使用后将在起点立即复活，无等待时间。
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡尔加斯金币
-PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝复活道具，参与「卡尔加斯突袭」时可无限次使用。使用后将在起点立即复活，无等待时间。
+PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬时复活道具，参与卡尔加斯突袭时可无限次使用。使用后将在起点立即复活，无等待时间。
 PROPITEM_TXT_131427,Kalgas Chip,卡尔加斯纸片
 PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,将卡尔加斯纸片交给[战斗商人] 华弗，兑换丰厚奖励！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Valentine 2024 10% Red Set
@@ -17325,8 +17325,8 @@ PROPITEM_TXT_140018,Couple Anniversary Gift 3,Couple Anniversary Gift 3
 PROPITEM_TXT_140019,Couple Anniversary Gift 4,Couple Anniversary Gift 4
 PROPITEM_TXT_140020,Couple Anniversary Gift 5,Couple Anniversary Gift 5
 PROPITEM_TXT_140021,Couple Anniversary Gift 6,Couple Anniversary Gift 6
-PROPITEM_TXT_140022,Rose Petals,Rose Petals
-PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","It's a beautiful rose flower. When used, you gain 10 couple skill points."
+PROPITEM_TXT_140022,Rose Petals,玫瑰花瓣
+PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","一朵美丽的玫瑰花。使用后可获得10点情侣技能点。"
 PROPITEM_TXT_140024,Small Bouquet of Roses,Small Bouquet of Roses
 PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.","It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points."
 PROPITEM_TXT_140026,Large Bouquet of Roses,Large Bouquet of Roses
@@ -17894,13 +17894,13 @@ PROPITEM_TXT_133512,Coral Island Curry (B),Coral Island Curry (B)
 PROPITEM_TXT_133513,Coral Island Curry (A),Coral Island Curry (A)
 PROPITEM_TXT_133514,Coral Island Curry (A+),Coral Island Curry (A+)
 PROPITEM_TXT_133515,Recovers 2600 HP,Recovers 2600 HP
-PROPITEM_TXT_133516,Tuna Sushi (D),Tuna Sushi (D)
+PROPITEM_TXT_133516,Tuna Sushi (D),金枪鱼寿司(D)
 PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi made with tuna on top.
-PROPITEM_TXT_133518,Tuna Sushi (C),Tuna Sushi (C)
+PROPITEM_TXT_133518,Tuna Sushi (C),金枪鱼寿司(C)
 PROPITEM_TXT_133519,Sushi made with tuna on top.,Sushi made with tuna on top.
-PROPITEM_TXT_133520,Tuna Sushi (B),Tuna Sushi (B)
-PROPITEM_TXT_133521,Tuna Sushi (A),Tuna Sushi (A)
-PROPITEM_TXT_133522,Tuna Sushi (A+),Tuna Sushi (A+)
+PROPITEM_TXT_133520,Tuna Sushi (B),金枪鱼寿司(B)
+PROPITEM_TXT_133521,Tuna Sushi (A),金枪鱼寿司(A)
+PROPITEM_TXT_133522,Tuna Sushi (A+),金枪鱼寿司(A+)
 PROPITEM_TXT_133523,Sushi made with tuna on top.,Sushi made with tuna on top.
 PROPITEM_TXT_133524,Red Fish Ball (D),Red Fish Ball (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Fish balls infused with alchemical reagents to give them a special effect.
