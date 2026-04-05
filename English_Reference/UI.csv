@@ -710,7 +710,7 @@ UI_RESTATE_CONFIRM_ALL,"This will reset all character stats, and the points will
 UI_RESTATE_CONFIRM_STR,"Your Strength (STR) stat will be reset, and the points will be returned to you. Continue?"
 UI_RESTATE_CONFIRM_STA,"Your Stamina (STA) stat will be reset, and the points will be returned to you. Continue?"
 UI_RESTATE_CONFIRM_DEX,"Your Dexterity (DEX) stat will be reset, and the points will be returned to you. Continue?"
-UI_RESTATE_CONFIRM_INT,"Your Intellect (INT) stat will be reset, and the points will be returned to you. Continue?"
+UI_RESTATE_CONFIRM_INT,"Your Intelligence (INT) stat will be reset, and the points will be returned to you. Continue?"
 UI_RESTATE_CONFIRM_STR_LOW,50 Strength (STR) points will be returned to you. Continue?
 UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be returned to you. Continue?
 UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be returned to you. Continue?
