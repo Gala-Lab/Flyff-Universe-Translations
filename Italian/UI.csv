@@ -57,7 +57,7 @@ UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Mostro
 UI_PRIVACY_NOTICE,Privacy Policy,Informativa sulla Privacy
 UI_MSGBOX_ACCEPT,Accept,Accetta
-UI_MSGBOX_DECLINE,Decline,Rifuita
+UI_MSGBOX_DECLINE,Decline,Rifiuta
 UI_MSGBOX_CLOSE,Close,Chiude
 UI_OPTION_SHADOWS,Shadows,Ombre
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Distanza Massima
@@ -1453,7 +1453,7 @@ UI_CRAFTPETCANDY_CANDY,Pet Candy,Caramelle per Animali Domestici
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000I Dadi del Potere Splendente risultanti saranno anch'essi Legati.#nc
 UI_TOOLTIP_DURATION,Duration:,Durata:
 UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Solo Online)
-UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Offline conteggiato)
+UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Online e offline)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Dopo il primo utilizzo)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Tempo Negozio:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Può essere indossato sopra un altro mantello.
@@ -1518,10 +1518,10 @@ UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,Use Guild E
 UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.","Senza Pergamena di E-Protezione, le carte materiali verranno distrutte se la fusione fallisce."
 UI_WORLD_LOCK,Locked,Locked
 UI_WORLD_UNLOCK,Unlocked,Unlocked
-UI_GUILD_LASTSEEN,Last Seen:,Last Seen:
+UI_GUILD_LASTSEEN,Last Seen:,Ultimo accesso:
 UI_PET_STAT,Stat,Stat
 UI_PET_STAT_NONE,None,Nessuno
-UI_PET_ENERGY,Energy,Energy
+UI_PET_ENERGY,Energy,Energia
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Proceed?,#bThe pet in the window will be destroyed.#nb Proceed?
 UI_PET_TIER,Tier,Tier
 UI_PET_USE_SKILL,Grace,Grace
@@ -1536,17 +1536,17 @@ UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you su
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,Block Penetration
 UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,How many Pet Candies do you want to use?
 UI_NAMEMISSING_TITLE,Name Missing,Name Missing
-UI_NAMEMISSING_MSG,Please enter a name for your character.,Please enter a name for your character.
-UI_ACCEPTTERMS,I accept the terms.,I accept the terms.
+UI_NAMEMISSING_MSG,Please enter a name for your character.,Inserisci un nome per il tuo personaggio.
+UI_ACCEPTTERMS,I accept the terms.,Accetto i termini.
 UI_ACCEPTTERMS_READ,Read,Read
 UI_ACCEPTTERMS_TITLE,Accept Terms,Accept Terms
 UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Please accept the Terms and Conditions.
 UI_APP_BATTLEPASS_TIP,Displays the Flyff Pass Menu.,Displays the Flyff Pass Menu.
 UI_BATTLEPASS_REWARD,Rewards,Rewards
-UI_BATTLEPASS_MISSION,Missions,Missions
+UI_BATTLEPASS_MISSION,Missions,Missioni
 UI_BATTLEPASS_DAILY,Daily,Daily
 UI_BATTLEPASS_WEEKLY,Weekly,Weekly
-UI_BATTLEPASS_SEASON,Season,Season
+UI_BATTLEPASS_SEASON,Season,Stagione
 UI_BATTLEPASS_MISSION_KILLMONSTER,Defeat Lv. %s+ Monsters,Defeat Lv. %s+ Monsters
 UI_BATTLEPASS_MISSION_KILLMONSTER2,Defeat %s,Defeat %s
 UI_BATTLEPASS_MISSION_KILLGIANT,Defeat Lv. %s+ Giant or Violet Monsters,Defeat Lv. %s+ Giant or Violet Monsters
@@ -1562,7 +1562,7 @@ UI_BATTLEPASS_MISSION_GUILDWAR,Participate in a Guild Duel,Participate in a Guil
 UI_BATTLEPASS_MISSION_ARENA,Defeat an Opponent or Be Defeated in the Arena,Defeat an Opponent or Be Defeated in the Arena
 UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Harvest Berries
 UI_BATTLEPASS_MISSION_RAISEPET,Raise a Pet to %s,Raise a Pet to %s
-UI_BATTLEPASS_POINTS,Points,Points
+UI_BATTLEPASS_POINTS,Points,Punti
 UI_BATTLEPASS_PASSGRADE,Pass Tier,Pass Tier
 UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Purchase Extended Pass
@@ -1883,11 +1883,11 @@ UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all pla
 UI_QUEST_STARTABLE,Startable,Startable
 UI_SUMMERPASS2023,Summer Pass,Summer Pass
 UI_APP_SWITCHEQUIP_TIP,View and manage your equipment switches.,View and manage your equipment switches.
-UI_APP_SWITCHEQUIP_DELETE,Delete,Delete
+UI_APP_SWITCHEQUIP_DELETE,Delete,Elimina
 UI_APP_SWITCHEQUIP_SAVE,Save,Save
 UI_APP_SWITCHEQUIP_COPY,Copy Current Equipment,Copy Current Equipment
 UI_APP_SWITCHEQUIP_USE,Use,Use
-UI_APP_SWITCHEQUIP_TITLE,Name ,Name 
+UI_APP_SWITCHEQUIP_TITLE,Name ,Nome 
 UI_APP_SWITCHEQUIP_SWITCHLIST,Presets,Presets
 UI_APP_SWITCHEQUIP_ERROR_NAME,You must enter a preset name!,You must enter a preset name!
 UI_APP_SWITCHEQUIP_ERROR_NAMEFORMAT,The preset name you entered is invalid!,The preset name you entered is invalid!
@@ -1935,8 +1935,8 @@ UI_RPS_INFO,RPS Game\nYou can use the Global Limited Gacha only if you win.,RPS 
 UI_GACHA_DESC_GLOBAL_DAILY,"When opening the Random Gacha, you will receive one of the items listed below.\nThe prize pool is shared among all players on the server and each item has a limited quantity.\nThe pool resets at 00:00 server time.","When opening the Random Gacha, you will receive one of the items listed below.\nThe prize pool is shared among all players on the server and each item has a limited quantity.\nThe pool resets at 00:00 server time."
 UI_RPS_REWARD_TITLE,Result,Result
 UI_RPS_REWARD_TEXT,Would you like to accept the item?,Would you like to accept the item?
-UI_RPS_REWARD_ACCEPT,Accept,Accept
-UI_RPS_REWARD_DECLINE,Decline,Decline
+UI_RPS_REWARD_ACCEPT,Accept,Accetta
+UI_RPS_REWARD_DECLINE,Decline,Rifiuta
 UI_RPS_TITLE,Rock Paper Scissors,Rock Paper Scissors
 UI_RPS_VS,VS,VS
 UI_RPS_DEFEAT,You Lose!,You Lose!
@@ -1944,14 +1944,14 @@ UI_RPS_PAPER,Paper,Carta
 UI_RPS_ROCK,Rock,Sasso
 UI_RPS_SCISSORS,Scissors,Forbice
 UI_RPS_WIN_TITLE,You Win!,You Win!
-UI_GACHA_ACCEPT,Accept,Accept
-UI_GACHA_DECLINE,Decline,Decline
-UI_MSGBOX_PASTE,Paste,Paste
-UI_MSGBOX_CUT,Cut,Cut
+UI_GACHA_ACCEPT,Accept,Accetta
+UI_GACHA_DECLINE,Decline,Rifiuta
+UI_MSGBOX_PASTE,Paste,Incolla
+UI_MSGBOX_CUT,Cut,Taglia
 UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
 UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,Next Level %s / %s
 UI_GUILDBUFF_DONATE,Donation,Donation
-UI_GUILDBUFF_TAB_LIST,Buff Information,Buff Information
+UI_GUILDBUFF_TAB_LIST,Buff Information,Informazioni sul Buff
 UI_GUILDBUFF_TAB_TOKENS,Token Donation,Token Donation
 UI_TOOLTIP_DST_DROP_EXP,Monster EXP and Drop,Monster EXP and Drop
 UI_GUILD_TAB_BUFFS,Guild Buff,Guild Buff
@@ -1967,19 +1967,19 @@ UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
 UI_FITTINGROOM_BG,Background,Background
 UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,Pixel-Perfect Cursor Selection
-UI_WEBVIEW_OPEN,Please open your web browser to continue.,Please open your web browser to continue.
-UI_BATTLEPASS_JAN,January %d Pass,January %d Pass
-UI_BATTLEPASS_FEB,February %d Pass,February %d Pass
-UI_BATTLEPASS_MAR,March %d Pass,March %d Pass
-UI_BATTLEPASS_APR,April %d Pass,April %d Pass
-UI_BATTLEPASS_MAY,May %d Pass,May %d Pass
-UI_BATTLEPASS_JUN,June %d Pass,June %d Pass
-UI_BATTLEPASS_JUL,July %d Pass,July %d Pass
-UI_BATTLEPASS_AUG,August %d Pass,August %d Pass
-UI_BATTLEPASS_SEP,September %d Pass,September %d Pass
-UI_BATTLEPASS_OCT,October %d Pass,October %d Pass
-UI_BATTLEPASS_NOV,November %d Pass,November %d Pass
-UI_BATTLEPASS_DEC,December %d Pass,December %d Pass
+UI_WEBVIEW_OPEN,Please open your web browser to continue.,Apri il tuo browser web per continuare.
+UI_BATTLEPASS_JAN,January %d Pass,Gennaio %d Pass
+UI_BATTLEPASS_FEB,February %d Pass,Febbraio %d Pass
+UI_BATTLEPASS_MAR,March %d Pass,Marzo %d Pass
+UI_BATTLEPASS_APR,April %d Pass,Aprile %d Pass
+UI_BATTLEPASS_MAY,May %d Pass,Maggio %d Pass
+UI_BATTLEPASS_JUN,June %d Pass,Giugno %d Pass
+UI_BATTLEPASS_JUL,July %d Pass,Luglio %d Pass
+UI_BATTLEPASS_AUG,August %d Pass,Agosto %d Pass
+UI_BATTLEPASS_SEP,September %d Pass,Settembre %d Pass
+UI_BATTLEPASS_OCT,October %d Pass,Ottobre %d Pass
+UI_BATTLEPASS_NOV,November %d Pass,Novembre %d Pass
+UI_BATTLEPASS_DEC,December %d Pass,Dicembre %d Pass
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,Log In for %s Consecutive Days
 UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni
 UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni
@@ -1996,7 +1996,7 @@ UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Rank %d / %d (%d points)
 UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!,You've received a speed penalty for leaving the track - return now or you'll be disqualified!
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Current speed multiplier: %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Rainbow Race Application
-UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,Registering costs %lld Penya. Continue?
+UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,La registrazione costa %lld Penya. Continuare?
 UI_RAINBOWRACE_APP_CURRENT,Registered Applicants: %d,Registered Applicants: %d
 UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,Application Fee: %lld Penya
 UI_RAINBOWRACE_APP_TIP,Register for the Rainbow Race,Register for the Rainbow Race
@@ -2019,7 +2019,7 @@ UI_MATERIAL_ITEM_PUT,Please input a material item first.,Please input a material
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,Questo oggetto non può essere utilizzato.
 UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.","Without a Scroll of XProtect, the item will be destroyed if upgrading fails."
 UI_MATERIAL_NAME,%s x%d,%s x%d
-UI_MATERIAL_NAME_PLACEHOLDER,Material,Material
+UI_MATERIAL_NAME_PLACEHOLDER,Material,Materiale
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,Protection Scroll
 UI_ULTIMATE_PREFIX,[Ultimate],[Ultimate]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,Last Stand Chance
@@ -2076,8 +2076,8 @@ UI_HOUSINGSETUP_PRESETS,Presets,Presets
 UI_HOUSINGSETUP_MANAGE,Management,Management
 UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.
 UI_HOUSINGPRESET_HDR,Preset List,Preset List
-UI_HOUSINGPRESET_NEW,New,New
-UI_HOUSINGPRESET_DELETE,Delete,Delete
+UI_HOUSINGPRESET_NEW,New,Nuovo
+UI_HOUSINGPRESET_DELETE,Delete,Elimina
 UI_HOUSINGPRESET_APPLY,Apply,Applica
 UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,Preset Name
 UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,You have to set a name.
@@ -2130,9 +2130,9 @@ UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to th
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in with Email
 UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username,Log in with your Flyff Universe account email or username
-UI_SESSION_TITLE,Saved Sessions,Saved Sessions
+UI_SESSION_TITLE,Saved Sessions,Sessioni salvate
 UI_SESSION_REMOVE,Remove,Remove
-UI_SESSION_REMOVEALL,Remove All,Remove All
+UI_SESSION_REMOVEALL,Remove All,Rimuovi tutto
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease review the following tips:,Client performance is low.\nPlease review the following tips:
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to match your PC.,1) Adjust the in-game video/graphic settings to match your PC.
@@ -2161,7 +2161,7 @@ UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
 UI_STATBOARD_RANK,Rank,Rank
-UI_STATBOARD_TIME,Time,Time
+UI_STATBOARD_TIME,Time,Tempo
 UI_STATBOARD_ITEMS,Items,Items
 UI_STATBOARD_SPEED,Avg Speed,Avg Speed
 UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
@@ -2174,11 +2174,11 @@ UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgr
 UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,Egg Use Achievements Event
 UI_EGG_USE_EVENT,Egg Use,Egg Use
 UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!","Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!"
-UI_EGG_USE_RED_EGG,Red Egg,Red Egg
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Orange Egg
-UI_EGG_USE_YELLOW_EGG,Yellow Egg,Yellow Egg
-UI_EGG_USE_GREEN_EGG,Green Egg,Green Egg
-UI_EGG_USE_BLUE_EGG,Blue Egg,Blue Egg
+UI_EGG_USE_RED_EGG,Red Egg,Uovo Rosso
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Uovo Arancione
+UI_EGG_USE_YELLOW_EGG,Yellow Egg,Uovo Giallo
+UI_EGG_USE_GREEN_EGG,Green Egg,Uovo Verde
+UI_EGG_USE_BLUE_EGG,Blue Egg,Uovo Blu
 UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in:,Expires in:
 UI_HOUSINGSETUP_KEEPTIME,Expires in:,Expires in:
 UI_GUILD_TAB_HOUSING_JOINBATTLE,Participate in Artifact Battle,Participate in Artifact Battle
@@ -2199,8 +2199,8 @@ UI_GUILDLOG_TITLE,Guild Log,Guild Log
 UI_GUILDLOG_JOINED,Joined,Joined
 UI_GUILDLOG_LEFT,Left,Left
 UI_GUILDLOG_EJECTED,Ejected,Ejected
-UI_GACHA_OPEN_ALL,Open All,Open All
-UI_GACHA_OPEN_ONE,Open 1,Open 1
+UI_GACHA_OPEN_ALL,Open All,Apri tutto
+UI_GACHA_OPEN_ONE,Open 1,Apri 1
 UI_GACHA_OPEN_ALL_CONFIRM,Open all boxes?,Open all boxes?
 UI_BATTLEPASS_MISSION_USEITEM,Use %s,Use %s
 UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Total Likes
@@ -2208,7 +2208,7 @@ UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
 UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
 UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters. ,The message has to be between 4 and %d characters. 
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,Delete Message
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete Message,Elimina messaggio
 UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Delete this guest's message?,Delete this guest's message?
 UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
 UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
@@ -2258,8 +2258,8 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to q
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.,The winner could not be decided.
 UI_KALGAS_ASSAULT_RETURN_COUNT,You will be moved to town in %d seconds.,You will be moved to town in %d seconds.
-UI_BLACK,Black,Black
-UI_WHITE,White,White
+UI_BLACK,Black,Nero
+UI_WHITE,White,Bianco
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,Kalgas Assault entry will close in %d minutes.
@@ -2273,7 +2273,7 @@ UI_RAINBOWRACE_FRIEND_NAME,Name,Nome
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
 UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.
 UI_RAINBOWRACE_ITEM,Item,Item
-UI_RAINBOWRACE_SPEED,Speed,Speed
+UI_RAINBOWRACE_SPEED,Speed,Velocità
 UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?
 UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.
@@ -2361,7 +2361,7 @@ UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
 UI_COUPON_TITLE,Coupon,Coupon
 UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
 UI_COUPON_CODE,Coupon Code,Coupon Code
-UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,I codici coupon hanno il seguente formato:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Claim
 UI_COUPON_CODE_PAGE,Claim Coupon,Claim Coupon
 UI_COUPON_LOGS_PAGE,Used Coupons,Used Coupons
@@ -2390,7 +2390,7 @@ UI_SEARCHSHOP_NOSHOP,No shops match your search.,No shops match your search.
 UI_PARTY_READY_CHECK,Ready,Ready
 UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,Start a ready check for the party
 UI_PARTY_READY_CHECK_TEXT,Start a ready check for the party?,Start a ready check for the party?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
+UI_PARTY_READY_PROMPT,Are you ready?,Sei pronto?
 UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
 UI_PARTY_READY_INFO2,is ready!,is ready!
 UI_PARTY_READY_INFO3,is not ready.,is not ready.
@@ -2690,7 +2690,7 @@ UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s 
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rank
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Character Name
-UI_LIFE_MASTERY_RANKING_JOB,Job,Job
+UI_LIFE_MASTERY_RANKING_JOB,Job,Classe
 UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,Close
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Mastery Ranking Rewards
@@ -2730,7 +2730,7 @@ UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
 UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
-UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
+UI_CREATEITEM_TIME,Time (Sec),Tempo (Sec)
 UI_CREATEITEM_CHARGED,Charged,Charged
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
@@ -3049,7 +3049,7 @@ UI_DEBUG_SHD_MAP_DEBUG,Shadow map debug,Shadow map debug
 UI_DEBUG_SCENE_DEPTH_DEBUG,Scene depth debug,Scene depth debug
 UI_DEBUG_SCENE_REFLECT_DEBUG,Scene reflection debug,Scene reflection debug
 UI_DEBUG_POST_COLOR_DEBUG,Post color debug,Post color debug
-UI_TITLE_GAME,Game,Game
+UI_TITLE_GAME,Game,Gioco
 UI_TITLE_GRAPHICS,Graphics,Graphics
 UI_TITLE_DEBUG,Debug,Debug
 UI_FIXED_HOUR,Fixed hour: ,Fixed hour: 
@@ -3064,7 +3064,7 @@ UI_GENERIC_1,Setting 1,Setting 1
 UI_GENERIC_2,Setting 2,Setting 2
 UI_GENERIC_3,Setting 3,Setting 3
 UI_GENERIC_4,Setting 4,Setting 4
-UI_SBX_TIME,Time,Time
+UI_SBX_TIME,Time,Tempo
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
 UI_SSAO_SHD_STR,Strength,Strength
 UI_SSAO_SHD_MAX_D,Max Distance,Max Distance
@@ -3106,7 +3106,7 @@ UI_RANKING_UNIT2,nd,nd
 UI_RANKING_UNIT3,rd,rd
 UI_RANKING_UNIT4,th,th
 UI_KALGAS_BLACK,Black,Nero
-UI_KALGAS_WHITE,White,Biano
+UI_KALGAS_WHITE,White,Bianco
 UI_KALGAS_TEAM,Team,Squadra
 UI_WARDROBE_NONE,None,Nulla
 UI_ACHIEVEMENT_SLOTS_N,slot(s),slot(s)
@@ -3158,7 +3158,7 @@ UI_GUILDICON,Guild Icon,Guild Icon
 UI_GUILDNAME,Guild Name,Guild Name
 UI_TOTALBETAMOUNT,Total Bet Amount,Total Bet Amount
 UI_MYBET,My Bet,My Bet
-UI_ACTION,Action,Action
+UI_ACTION,Action,Azione
 UI_BTN_ADDBET,Add Bet,Add Bet
 UI_TITLE_ADDBET,Add Bet,Add Bet
 UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  "
@@ -3167,7 +3167,7 @@ UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Na
 UI_TITLE_GUILDINFO,Guild Info,Guild Info
 UI_BTN_MEMBERS,Members,Members
 UI_CHARACTERNAME,Name,Nome
-UI_JOB,Job,Job
+UI_JOB,Job,Classe
 UI_SERVER,Server,Server
 UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin Spent
 UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent

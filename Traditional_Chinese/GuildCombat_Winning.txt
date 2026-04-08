@@ -1,14 +1,14 @@
-﻿#b#cff0000ff Winning Conditions #nb#nc
+#b#cff0000ff 勝利條件 #nb#nc
 
-※ Priority
-  1. Highest final points
-  2. Highest total remaining revival opportunities of surviving players
-  3. Lowest average level of surviving players
+※ 優先順序
+  1. 最高最終積分
+  2. 存活玩家總剩餘復活機會最高
+  3. 存活玩家平均等級最低
 
-#b#cff0000ff Point Gain #nb#nc
-※ Defeating an enemy player grants 2 points.
+#b#cff0000ff 得分方式 #nb#nc
+※ 擊敗敵方玩家可獲得 2 分。
 
-#b#cff0000ff Bonus Point Gain (Bonuses can stack) #nb#nc
-※ Defeating the Defender grants 1 bonus point.
-※ Defeating an enemy player with 0 remaining revival opportunities grants 1 bonus point.
-※ Each remaining revival opportunity of surviving players grants 1 bonus point.
+#b#cff0000ff 額外得分（可疊加） #nb#nc
+※ 擊敗防守者可獲得 1 點額外分數。
+※ 擊敗剩餘復活機會為 0 的敵方玩家可獲得 1 點額外分數。
+※ 存活玩家每剩餘一個復活機會可獲得 1 點額外分數。

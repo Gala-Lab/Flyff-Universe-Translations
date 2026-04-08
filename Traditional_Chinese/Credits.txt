@@ -1,29 +1,29 @@
-﻿#b#cffe4b100Flyff Universe#nb#nc
+#b#cffe4b100Flyff Universe#nb#nc
 
-Based on the original game #bFlyff Online#nb by Gala Lab Corp.
+本遊戲根據 Gala Lab Corp. 的原作 #bFlyff Online#nb 改編。
 
-#bProgram#nb
+#b程式#nb
 Loïc Saos
 Marc Bassiere
 Ibrahim Ennara
 Alexandre Piot
 Jean-Alexandre Valentin
 
-#bLevel Design#nb
+#b關卡設計#nb
 Dimitri
 Cameron Calvert
 Baptiste Bochet-Cadet
 
-#bCharacter Design#nb
+#b角色設計#nb
 Ankou
 Pau Pagtalunan
 IdSayBucketsOfArt
 
-#bSound#nb
+#b音效#nb
 Alan Saos
 Thelostrune
 
-#bModeration#nb
+#b管理#nb
 Amenofus
 Amizer
 Annyse
@@ -44,7 +44,7 @@ Toffee
 Xerion
 Yonu
 
-#bThird-party libraries#nb
+#b第三方函式庫#nb
 cpp-cryptlite
 OpenGL Mathematics (GLM)
 miniz-cpp

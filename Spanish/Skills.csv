@@ -458,703 +458,703 @@ PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever 
 PROPSKILL_TXT_100110,PlayPark's Launch Buff,Potenciador Lanzamiento PlayPark
 PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,¡Disfruta de una mayor experiencia y caídas hasta el nivel 119!
 PROPSKILL_TXT_100112,Artifact Power,Artifact Power
-PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!","Your team's control over artifacts empowers you, increasing your damage against Kalgas!"
-PROPSKILL_TXT_100114,Kalgas Poison,Kalgas Poison
-PROPSKILL_TXT_100115,Poison spreads through your body.,Poison spreads through your body.
-PROPSKILL_TXT_100116,Kalgas' Dominance,Kalgas' Dominance
-PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.
-PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,2nd Anniversary Guild's Enhancement
-PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!
-PROPSKILL_TXT_100120,Poison (From Weapon),Poison (From Weapon)
-PROPSKILL_TXT_100121,Stun (From Weapon),Stun (From Weapon)
-PROPSKILL_TXT_100122,Bleeding (From Weapon),Bleeding (From Weapon)
-PROPSKILL_TXT_100123,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.
-PROPSKILL_TXT_100124,Madrigal Stroll,Madrigal Stroll
-PROPSKILL_TXT_100125,Increases movement speed by 5% for you and your partner for 10 minutes.,Increases movement speed by 5% for you and your partner for 10 minutes.
+PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!","Your team's control over artifacts empowers you, increasing your damage against Kalgas!","El dominio de artefactos de tu equipo te otorga poder, aumentando tu daño contra Kalgas."
+PROPSKILL_TXT_100114,Kalgas Poison,Veneno de Kalgas
+PROPSKILL_TXT_100115,Poison spreads through your body.,El veneno se propaga por tu cuerpo.
+PROPSKILL_TXT_100116,Kalgas' Dominance,La dominación de Kalgas
+PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,¡El equipo enemigo ha obtenido el dominio total! Tu equipo no puede dañar a Kalgas hasta que se recupere un artefacto.
+PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,Mejora de gremio del 2.º aniversario
+PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,¡Dona fichas del 2.º aniversario a tu gremio y mejora el nivel de esta mejora!
+PROPSKILL_TXT_100120,Poison (From Weapon),Veneno (del arma)
+PROPSKILL_TXT_100121,Stun (From Weapon),Aturdimiento (del arma)
+PROPSKILL_TXT_100122,Bleeding (From Weapon),Sangrado (del arma)
+PROPSKILL_TXT_100123,Increases FP and MP Restoration by 10% for you and your partner for 10 minutes.,Aumenta en un 10% la recuperación de FP y MP para ti y tu pareja durante 10 min.
+PROPSKILL_TXT_100124,Madrigal Stroll,Paseo por Madrigal
+PROPSKILL_TXT_100125,Increases movement speed by 5% for you and your partner for 10 minutes.,Aumenta la velocidad de movimiento en un 5% para ti y tu pareja durante 10 minutos.
 PROPSKILL_TXT_100126,Field Outing,Field Outing
-PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,Reload the Experience Lock Gauge by 5% of the maximum.
-PROPSKILL_TXT_100128,Party Together,Party Together
-PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.
-PROPSKILL_TXT_100130,Golden Luck,Golden Luck
-PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.
-PROPSKILL_TXT_100132,Stamina Boost,Stamina Boost
-PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,Increases all stats by 5 for you and your partner for 10 minutes.
-PROPSKILL_TXT_100134,Sky's Blessing,Sky's Blessing
-PROPSKILL_TXT_100135,Increases flight speed by 3 km/h for you and your partner for 5 minutes.,Increases flight speed by 3 km/h for you and your partner for 5 minutes.
-PROPSKILL_TXT_100136,Cheer of Love,Cheer of Love
-PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 5%.","Cheered on by your partner, your EXP rate is increased by 5%."
-PROPSKILL_TXT_100138,Happy Jump,Happy Jump
-PROPSKILL_TXT_100139,Increases Jump Height by 50 for you and your partner for 10 minutes.,Increases Jump Height by 50 for you and your partner for 10 minutes.
-PROPSKILL_TXT_100140,Swift Recovery,Swift Recovery
-PROPSKILL_TXT_100141,Herb Gathering,Herb Gathering
-PROPSKILL_TXT_100142,Gather various herbs.,Gather various herbs.
-PROPSKILL_TXT_100143,Wood Cutting,Wood Cutting
-PROPSKILL_TXT_100144,Cut down trees.,Cut down trees.
-PROPSKILL_TXT_100145,Mining,Mining
-PROPSKILL_TXT_100146,Mine various ores and gems.,Mine various ores and gems.
-PROPSKILL_TXT_100147,Fishing,Fishing
-PROPSKILL_TXT_100148,Catch various fish.,Catch various fish.
-PROPSKILL_TXT_100149,Cooking,Cooking
-PROPSKILL_TXT_100150,Cook various foods.,Cook various foods.
-PROPSKILL_TXT_100151,Alchemy,Alchemy
-PROPSKILL_TXT_100152,Produce various potions.,Produce various potions.
-PROPSKILL_TXT_100153,Carpentry,Carpentry
-PROPSKILL_TXT_100154,Craft furniture and other items.,Craft furniture and other items.
-PROPSKILL_TXT_100155,Smithing,Smithing
-PROPSKILL_TXT_100156,Create various accessories.,Create various accessories.
-PROPSKILL_TXT_FWC_202501,Grinder's Blessing,Grinder's Blessing
-PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,Madrigal's elites guide you!
-PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Bubble's Fortune
-PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fortunate guide you!
-PROPSKILL_TXT_150000,Harlequin's Greeting,Harlequin's Greeting
-PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Perform a quick step, teleporting behind your target with a swift attack."
-PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
-PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
-PROPSKILL_TXT_150004,Range Increase,Range Increase
-PROPSKILL_TXT_150005,Harlequin's Charge,Harlequin's Charge
-PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Gather strength to perform a powerful charging attack against a single enemy.
-PROPSKILL_TXT_150007,Increased Damage,Increased Damage
-PROPSKILL_TXT_150008,Reduced Charge Time,Reduced Charge Time
-PROPSKILL_TXT_150009,Reduced Cooldown,Reduced Cooldown
-PROPSKILL_TXT_150010,Alter Ego,Alter Ego
-PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death."
+PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,Recarga un 5% del máximo del medidor de bloqueo de experiencia.
+PROPSKILL_TXT_100128,Party Together,En Grupo
+PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,Aumenta la experiencia del grupo en un 10% durante 30 minutos mientras tú y tu pareja estén en el mismo grupo.
+PROPSKILL_TXT_100130,Golden Luck,Suerte dorada
+PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,Aumenta la probabilidad de obtención y la Penya obtenida en un 5% para ti y tu pareja durante 10 minutos.
+PROPSKILL_TXT_100132,Stamina Boost,Aumento de resistencia
+PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,Aumenta todas las estadísticas en 5 para ti y tu pareja durante 10 min.
+PROPSKILL_TXT_100134,Sky's Blessing,Bendición celestial
+PROPSKILL_TXT_100135,Increases flight speed by 3 km/h for you and your partner for 5 minutes.,Aumenta la velocidad de vuelo en 3 km/h para ti y tu pareja durante 5 minutos.
+PROPSKILL_TXT_100136,Cheer of Love,Ánimo de amor
+PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 5%.","Animado por tu pareja, tu tasa de EXP aumenta en un 5%."
+PROPSKILL_TXT_100138,Happy Jump,Salto feliz
+PROPSKILL_TXT_100139,Increases Jump Height by 50 for you and your partner for 10 minutes.,Aumenta la altura de salto en 50 para ti y tu pareja durante 10 minutos.
+PROPSKILL_TXT_100140,Swift Recovery,Recuperación rápida
+PROPSKILL_TXT_100141,Herb Gathering,Recolección de hierbas
+PROPSKILL_TXT_100142,Gather various herbs.,Recolecta diversas hierbas.
+PROPSKILL_TXT_100143,Wood Cutting,Tala de madera
+PROPSKILL_TXT_100144,Cut down trees.,Tala árboles.
+PROPSKILL_TXT_100145,Mining,Minería
+PROPSKILL_TXT_100146,Mine various ores and gems.,Extrae diversos minerales y gemas.
+PROPSKILL_TXT_100147,Fishing,Pesca
+PROPSKILL_TXT_100148,Catch various fish.,Captura diversos peces.
+PROPSKILL_TXT_100149,Cooking,Cocina
+PROPSKILL_TXT_100150,Cook various foods.,Cocina diversos alimentos.
+PROPSKILL_TXT_100151,Alchemy,Alquimia
+PROPSKILL_TXT_100152,Produce various potions.,Produce diversas pociones.
+PROPSKILL_TXT_100153,Carpentry,Carpintería
+PROPSKILL_TXT_100154,Craft furniture and other items.,Fabrica muebles y otros objetos
+PROPSKILL_TXT_100155,Smithing,Herrería
+PROPSKILL_TXT_100156,Create various accessories.,Crea diversos accesorios.
+PROPSKILL_TXT_FWC_202501,Grinder's Blessing,Bendición del forjador
+PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,¡Los élites de Madrigal te guían!.
+PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Fortuna de Bubble's
+PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,¡La fortuna de Madrigal te guía.!
+PROPSKILL_TXT_150000,Harlequin's Greeting,Saludo del Arlequín
+PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Da un paso rápido y teletranspórtate detrás de tu objetivo para asestar un ataque veloz."
+PROPSKILL_TXT_150002,Shadow Attack,Ataque de sombras
+PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teletranspórtate instantáneamente detrás de tu objetivo para infligir daño. Si se usa mientras estás invisible, el siguiente ataque automático dentro de los tres segundos será un golpe crítico y el tiempo de reutilización se reducirá."
+PROPSKILL_TXT_150004,Range Increase,Aumento de rango
+PROPSKILL_TXT_150005,Harlequin's Charge,Carga de Arlequín
+PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Reúne fuerza para realizar un poderoso ataque de carga contra un solo enemigo.
+PROPSKILL_TXT_150007,Increased Damage,Aumento de daño
+PROPSKILL_TXT_150008,Reduced Charge Time,Tiempo de carga reducido
+PROPSKILL_TXT_150009,Reduced Cooldown,Tiempo de reutilización reducido
+PROPSKILL_TXT_150010,Alter Ego,Mi otro yo
+PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","Vuélvete invisible y crea un clon en tu posición que corre en una dirección aleatoria, refleja el daño y explota al morir."
 PROPSKILL_TXT_150012,Maintain Ego,Maintain Ego
-PROPSKILL_TXT_150014,Special Yo-Yo Mastery,Special Yo-Yo Mastery
-PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","Increases auto attack damage, multistrike chance, and Yo-Yo range when used."
+PROPSKILL_TXT_150014,Special Yo-Yo Mastery,Dominio Especial del Yo-Yo
+PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","Aumenta el daño de los ataques automáticos, la probabilidad de multigolpe y el alcance del Yo-Yo al usarse."
 PROPSKILL_TXT_150016,Auto Attack,Ataque Automático
-PROPSKILL_TXT_150017,Range,Range
-PROPSKILL_TXT_150018,Multistrike,Multistrike
-PROPSKILL_TXT_150019,Critical Yo-Yo Mastery,Critical Yo-Yo Mastery
+PROPSKILL_TXT_150017,Range,Rango
+PROPSKILL_TXT_150018,Multistrike,Multiataque
+PROPSKILL_TXT_150019,Critical Yo-Yo Mastery,Dominio Crítico del Yo-Yo
 PROPSKILL_TXT_150020,String Yo-Yo Mastery,String Yo-Yo Mastery
-PROPSKILL_TXT_150021,Critical Stab,Critical Stab
-PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","Your critical chance is lowered, but critical damage is increased."
-PROPSKILL_TXT_150024,Increased Duration,Increased Duration
-PROPSKILL_TXT_150026,Shadow Strike,Shadow Strike
-PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,Attacking from behind while invisible deals additional damage.
-PROPSKILL_TXT_150028,Agility,Agility
-PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,Movement speed temporarily increases after leaving invisibility.
-PROPSKILL_TXT_150030,Concentration [Nen],Concentration [Nen]
-PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.
-PROPSKILL_TXT_150032,Forced Critical Hit,Forced Critical Hit
-PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,Your next auto attack is guaranteed to be a critical hit.
-PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","Your critical chance is capped at 10%, while greatly increasing critical damage."
-PROPSKILL_TXT_150035,Barrage,Barrage
-PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,Normal attacks have a chance to fire double arrows.
-PROPSKILL_TXT_150037,Increased Strike,Increased Strike
-PROPSKILL_TXT_150038,Maintain Buff,Maintain Buff
-PROPSKILL_TXT_150040,Heavy Shot,Heavy Shot
-PROPSKILL_TXT_150041,Knocks back the target with an arrow.,Knocks back the target with an arrow.
-PROPSKILL_TXT_150042,Increased Knockback,Increased Knockback
-PROPSKILL_TXT_150043,Group Knockback,Group Knockback
-PROPSKILL_TXT_150045,Repelling Shot,Repelling Shot
-PROPSKILL_TXT_150046,Leap backwards after attacking the target.,Leap backwards after attacking the target.
-PROPSKILL_TXT_150047,Long Jump,Long Jump
+PROPSKILL_TXT_150021,Critical Stab,Puñalada Crítica
+PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","Tu probabilidad de golpe crítico se reduce, pero el daño crítico aumenta."
+PROPSKILL_TXT_150024,Increased Duration,Mayor duración
+PROPSKILL_TXT_150026,Shadow Strike,Golpe de Sombra
+PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,Atacar por la espalda mientras estás invisible inflige daño adicional.
+PROPSKILL_TXT_150028,Agility,Agilidad
+PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,La velocidad de movimiento aumenta temporalmente después de salir de la invisibilidad.
+PROPSKILL_TXT_150030,Concentration [Nen],Concentración [Nen]
+PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,Concentra tu mente para obtener Nen al usar esta habilidad. Puedes acumular hasta 10 de Nen con esta habilidad. Los efectos de las acumulaciones de Nen se multiplican según la cantidad de acumulaciones que tengas actualmente.
+PROPSKILL_TXT_150032,Forced Critical Hit,Golpe crítico forzado
+PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,Tu próximo ataque automático será un golpe crítico garantizado.
+PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","Tu probabilidad de golpe crítico se limita al 10%, mientras que el daño crítico aumenta considerablemente."
+PROPSKILL_TXT_150035,Barrage,Bombardeo
+PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,Los ataques normales tienen una probabilidad de disparar flechas dobles.
+PROPSKILL_TXT_150037,Increased Strike,Golpe Aumentado
+PROPSKILL_TXT_150038,Maintain Buff,Mantener Buff
+PROPSKILL_TXT_150040,Heavy Shot,Disparo Pesado
+PROPSKILL_TXT_150041,Knocks back the target with an arrow.,Empuja al objetivo hacia atrás con una flecha.
+PROPSKILL_TXT_150042,Increased Knockback,Retroceso aumentado
+PROPSKILL_TXT_150043,Group Knockback,Retroceso en área
+PROPSKILL_TXT_150045,Repelling Shot,Disparo repelente
+PROPSKILL_TXT_150046,Leap backwards after attacking the target.,Salta hacia atrás después de atacar al objetivo.
+PROPSKILL_TXT_150047,Long Jump,Salto Largo
 PROPSKILL_TXT_150048,Debuff,Debuff
-PROPSKILL_TXT_150050,Condor Dive,Condor Dive
-PROPSKILL_TXT_150051,Unleashes an area attack within the designated range.,Unleashes an area attack within the designated range.
-PROPSKILL_TXT_150054,Quiver Master,Quiver Master
-PROPSKILL_TXT_150055,Swift Hands,Swift Hands
-PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,Your action speed increases when using non-magical skills.
-PROPSKILL_TXT_150057,Eagle Eye,Eagle Eye
-PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,Call upon your inherent eagle to increase bow range.
-PROPSKILL_TXT_150059,Arcane Enchantment,Arcane Enchantment
-PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Provide Elemental status to the skills..
-PROPSKILL_TXT_150061,Increased Element,Increased Element
-PROPSKILL_TXT_150062,Decreased Element,Decreased Element
-PROPSKILL_TXT_150063,Elemental Debuff,Elemental Debuff
-PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
-PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,You can ignore one instance of disable or weaken debuffs
-PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
-PROPSKILL_TXT_150067,Additional Shield,Additional Shield
-PROPSKILL_TXT_150069,Chimera's Curse,Chimera's Curse
-PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success."
-PROPSKILL_TXT_150071,Full charge duration increase,Full charge duration increase
-PROPSKILL_TXT_150072,Full charge debuff increase,Full charge debuff increase
-PROPSKILL_TXT_150073,Malefic Detonation,Malefic Detonation
-PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","Track the number of Disable type debuffs you apply, multiplying the bonuses given."
-PROPSKILL_TXT_150075,Weaken at full charge,Weaken at full charge
-PROPSKILL_TXT_150076,Cooldown reduction,Cooldown reduction
+PROPSKILL_TXT_150050,Condor Dive,Zambullida del cóndor
+PROPSKILL_TXT_150051,Unleashes an area attack within the designated range.,Desata un ataque en área dentro del rango designado.
+PROPSKILL_TXT_150054,Quiver Master,Maestría de carcaj
+PROPSKILL_TXT_150055,Swift Hands,Manos ágiles
+PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,Tu velocidad de acción aumenta al usar habilidades no mágicas.
+PROPSKILL_TXT_150057,Eagle Eye,Ojo de águila
+PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,Invoca tu águila interior para aumentar el alcance del arco.
+PROPSKILL_TXT_150059,Arcane Enchantment,Encantamiento Arcano
+PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Otorga estado elemental a las habilidades..
+PROPSKILL_TXT_150061,Increased Element,Elemento Aumentado
+PROPSKILL_TXT_150062,Decreased Element,Elemento Disminuido
+PROPSKILL_TXT_150063,Elemental Debuff,Debilitación Elemental
+PROPSKILL_TXT_150064,Laughter of La Croix,Risa de La Croix
+PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,Puedes ignorar una instancia de efectos negativos de deshabilitación o debilitamiento
+PROPSKILL_TXT_150066,Successfull Debuff,Desventaja exitosa
+PROPSKILL_TXT_150067,Additional Shield,Escudo adicional
+PROPSKILL_TXT_150069,Chimera's Curse,Maldición de la Quimera
+PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Usa el espíritu de la quimera para maldecir a tu objetivo, infligiendo daño y mutándolo en un Aibatt. Mientras esté mutado, no puede atacar. Cuando está completamente cargada, esta habilidad tiene un 30% más de probabilidad de éxito."
+PROPSKILL_TXT_150071,Full charge duration increase,Aumento de la duración de carga completa
+PROPSKILL_TXT_150072,Full charge debuff increase,Aumento de desventaja con carga completa
+PROPSKILL_TXT_150073,Malefic Detonation,Detonación maléfica
+PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","Registra la cantidad de efectos de deshabilitación que aplicas, multiplicando las bonificaciones otorgadas."
+PROPSKILL_TXT_150075,Weaken at full charge,Debilitamiento con carga completa
+PROPSKILL_TXT_150076,Cooldown reduction,Reducción de enfriamiento
 PROPSKILL_TXT_150077,Shield,Escudo
-PROPSKILL_TXT_150078,Hexe's Lament,Hexe's Lament
-PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently."
-PROPSKILL_TXT_150080,Aoe Range,Aoe Range
-PROPSKILL_TXT_150081,Debuff increase,Debuff increase
-PROPSKILL_TXT_150082,Damage increase,Damage increase
-PROPSKILL_TXT_150083,Damnation Surge,Damnation Surge
-PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Track the number of Weaken type debuffs you apply, multiplying the bonuses given."
-PROPSKILL_TXT_150085,Sleep at full charge,Sleep at full charge
+PROPSKILL_TXT_150078,Hexe's Lament,Lamento de Hexe
+PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","Inflige daño en un área alrededor de tu objetivo, con probabilidad de gafar a los enemigos alcanzados, eliminando su capacidad de asestar golpes críticos. Cuando está completamente cargada, la duración de la habilidad aumenta y golpea con mayor frecuencia."
+PROPSKILL_TXT_150080,Aoe Range,Alcance de área
+PROPSKILL_TXT_150081,Debuff increase,Debilitamiento incrementado
+PROPSKILL_TXT_150082,Damage increase,Daño incrementado
+PROPSKILL_TXT_150083,Damnation Surge,Oleada de condenación
+PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Registra la cantidad de efectos de debilitamiento que aplicas, multiplicando las bonificaciones otorgadas."
+PROPSKILL_TXT_150085,Sleep at full charge,Dormir con carga completa
 PROPSKILL_TXT_150087,Shield,Escudo
-PROPSKILL_TXT_150088,Enhanced Blinkpool,Enhanced Blinkpool
-PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,Movement speed is temporarily increased after using Blinkpool.
-PROPSKILL_TXT_150090,Additional damage disable,Additional damage disable
-PROPSKILL_TXT_150091,Additional damage weaken,Additional damage weaken
-PROPSKILL_TXT_150092,Debuff Damage Reduction,Debuff Damage Reduction
-PROPSKILL_TXT_150093,Shield Crush,Shield Crush
-PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,Swing your shield to stun enemies with a certain chance.
-PROPSKILL_TXT_150095,Increased Range,Increased Range
-PROPSKILL_TXT_150096,Quick Stun,Quick Stun
-PROPSKILL_TXT_150097,Forceful Attack,Forceful Attack
-PROPSKILL_TXT_150098,Maelstrom Strike,Maelstrom Strike
-PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun."
-PROPSKILL_TXT_150100,Enhance Stun,Enhance Stun
-PROPSKILL_TXT_150101,Quick Stun,Quick Stun
-PROPSKILL_TXT_150103,Templar's Call,Templar's Call
-PROPSKILL_TXT_150104,Pull your target towards yourself.,Pull your target towards yourself.
-PROPSKILL_TXT_150105,Ankle Slice,Ankle Slice
-PROPSKILL_TXT_150106,Relentless Embrace,Relentless Embrace
-PROPSKILL_TXT_150107,Multi-capture,Multi-capture
-PROPSKILL_TXT_150108,Rush Attack,Rush Attack
-PROPSKILL_TXT_150109,Quickly charge at your target to attack.,Quickly charge at your target to attack.
-PROPSKILL_TXT_150110,Deep Impact,Deep Impact
-PROPSKILL_TXT_150111,Ankle Strike,Ankle Strike
+PROPSKILL_TXT_150088,Enhanced Blinkpool,Blinkpool mejorado
+PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,La velocidad de movimiento aumenta temporalmente después de usar Blinkpool.
+PROPSKILL_TXT_150090,Additional damage disable,Daño adicional deshabilitado
+PROPSKILL_TXT_150091,Additional damage weaken,Daño adicional a debilitados
+PROPSKILL_TXT_150092,Debuff Damage Reduction,Reducción de daño por efectos negativos
+PROPSKILL_TXT_150093,Shield Crush,Golpe de escudo
+PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,Balancea tu escudo para aturdir a los enemigos con cierta probabilidad.
+PROPSKILL_TXT_150095,Increased Range,Alcance aumentado
+PROPSKILL_TXT_150096,Quick Stun,Aturdimiento rápido
+PROPSKILL_TXT_150097,Forceful Attack,Ataque contundente
+PROPSKILL_TXT_150098,Maelstrom Strike,Golpe de torbellino
+PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","Un ataque giratorio que libera una ráfaga de viento, golpeando a los enemigos cercanos dos veces con probabilidad de aturdir."
+PROPSKILL_TXT_150100,Enhance Stun,Mejora de aturdimiento
+PROPSKILL_TXT_150101,Quick Stun,Aturdimiento rápido
+PROPSKILL_TXT_150103,Templar's Call,Llamado del templario
+PROPSKILL_TXT_150104,Pull your target towards yourself.,Atrae a tu objetivo hacia ti.
+PROPSKILL_TXT_150105,Ankle Slice,Corte de tobillo
+PROPSKILL_TXT_150106,Relentless Embrace,Abrazo implacable
+PROPSKILL_TXT_150107,Multi-capture,Captura múltiple
+PROPSKILL_TXT_150108,Rush Attack,Ataque de carga
+PROPSKILL_TXT_150109,Quickly charge at your target to attack.,Carga rápidamente hacia tu objetivo para atacar.
+PROPSKILL_TXT_150110,Deep Impact,Impacto profundo
+PROPSKILL_TXT_150111,Ankle Strike,Golpe de tobillo
 PROPSKILL_TXT_150112,Shield,Escudo
-PROPSKILL_TXT_150113,Sky Splitter,Sky Splitter
-PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon."
-PROPSKILL_TXT_150116,Defensive Stance,Defensive Stance
-PROPSKILL_TXT_150117,Reduce Cooldown,Reduce Cooldown
-PROPSKILL_TXT_150118,Strong Impact,Strong Impact
-PROPSKILL_TXT_150119,Last One Standing,Last One Standing
-PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.
-PROPSKILL_TXT_150121,Slow Pace,Slow Pace
-PROPSKILL_TXT_150122,Reduce HP Penalty,Reduce HP Penalty
-PROPSKILL_TXT_150123,Damage Reduction,Damage Reduction
-PROPSKILL_TXT_150124,Increased HP Recovery,Increased HP Recovery
-PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,Gain additional HP recovery when restoring it with items or skills.
+PROPSKILL_TXT_150113,Sky Splitter,"Divisor del cielo"
+PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","Divide los cielos usando tu arma de dos manos, infligiendo daño a tu objetivo. Requiere un arma de dos manos."
+PROPSKILL_TXT_150116,Defensive Stance,Postura defensiva
+PROPSKILL_TXT_150117,Reduce Cooldown,Reducción de enfriamiento
+PROPSKILL_TXT_150118,Strong Impact,Impacto fuerte
+PROPSKILL_TXT_150119,Last One Standing,El último en pie
+PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,Refleja el daño mientras drena HP por segundo y te inmoviliza. Puede relanzarse para cancelar.
+PROPSKILL_TXT_150121,Slow Pace,Ritmo lento
+PROPSKILL_TXT_150122,Reduce HP Penalty,Reduce la penalización de HP
+PROPSKILL_TXT_150123,Damage Reduction,Reducción de daño
+PROPSKILL_TXT_150124,Increased HP Recovery,Recuperación de HP aumentada
+PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,Obtén recuperación de HP adicional al restaurarlo con objetos o habilidades.
 PROPSKILL_TXT_150126,Undying,Inmortal
-PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected."
-PROPSKILL_TXT_150128,Enhanced HP Recovery,Enhanced HP Recovery
-PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,Improve the effectiveness of healing received when low on health.
-PROPSKILL_TXT_150130,Increased HP Regeneration,Increased HP Regeneration
-PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,Increases the amount of natural HP recovery.
-PROPSKILL_TXT_150132,One-handed Mastery,One-handed Mastery
-PROPSKILL_TXT_150133,Increase your damage when using one-handed weapons.,Increase your damage when using one-handed weapons.
-PROPSKILL_TXT_150134,Two-handed Mastery,Two-handed Mastery
-PROPSKILL_TXT_150135,Increase your damage when using two-handed weapons.,Increase your damage when using two-handed weapons.
-PROPSKILL_TXT_150136,Shield Mastery,Shield Mastery
-PROPSKILL_TXT_150137,Increases defense when wearing a shield.,Increases defense when wearing a shield.
-PROPSKILL_TXT_150138,Enhanced Physical Defense,Enhanced Physical Defense
-PROPSKILL_TXT_150139,Increases defense when HP is low.,Increases defense when HP is low.
-PROPSKILL_TXT_150140,Enhanced Magical Defense,Enhanced Magical Defense
-PROPSKILL_TXT_150141,Increases magic defense when HP is low.,Increases magic defense when HP is low.
-PROPSKILL_TXT_140000,Asylum HP Low Bless,Asylum HP Low Bless
-PROPSKILL_TXT_140001,"The Asylum bestows a 5% hp boost, filling you with eerie strength.","The Asylum bestows a 5% hp boost, filling you with eerie strength."
-PROPSKILL_TXT_140002,Asylum HP High Bless,Asylum HP High Bless
-PROPSKILL_TXT_140003,A hp increase of 10% wraps around you like a spectral embrace.,A hp increase of 10% wraps around you like a spectral embrace.
-PROPSKILL_TXT_140004,Asylum DEF Low Bless,Asylum DEF Low Bless
-PROPSKILL_TXT_140005,"The Asylum bestows a 2% def boost, filling you with eerie strength.","The Asylum bestows a 2% def boost, filling you with eerie strength."
-PROPSKILL_TXT_140006,Asylum DEF High Bless,Asylum DEF High Bless
-PROPSKILL_TXT_140007,The Asylum shields you from harm! Your defense rises by 5% under its eerie protection.,The Asylum shields you from harm! Your defense rises by 5% under its eerie protection.
-PROPSKILL_TXT_140008,Asylum Elemental Low Bless,Asylum Elemental Low Bless
-PROPSKILL_TXT_140009,"Imbues your attacks with the power of all elements, increasing elemental damage by 5%.","Imbues your attacks with the power of all elements, increasing elemental damage by 5%."
-PROPSKILL_TXT_140010,Asylum Elemental High Bless,Asylum Elemental High Bless
-PROPSKILL_TXT_140011,The Asylum grants you a 10% boost to all elemental damage types.,The Asylum grants you a 10% boost to all elemental damage types.
-PROPSKILL_TXT_140012,Asylum Speed Low Bless,Asylum Speed Low Bless
-PROPSKILL_TXT_140013,A blessing from beyond: +5% speed granted under Asylum’s watchful eye.,A blessing from beyond: +5% speed granted under Asylum’s watchful eye.
-PROPSKILL_TXT_140014,Asylum Speed High Bless,Asylum Speed High Bless
-PROPSKILL_TXT_140015,The Asylum whispers power. 10% more speed surges through you.,The Asylum whispers power. 10% more speed surges through you.
-PROPSKILL_TXT_140016,Asylum Attack Low Bless,Asylum Attack Low Bless
-PROPSKILL_TXT_140017,The Asylum sharpens your resolve as your attack power increases by 5% with otherworldly force.,The Asylum sharpens your resolve as your attack power increases by 5% with otherworldly force.
-PROPSKILL_TXT_140018,Asylum Attack High Bless,Asylum Attack High Bless
-PROPSKILL_TXT_140019,"The Asylum bestows a 10% attack boost, filling you with eerie strength.","The Asylum bestows a 10% attack boost, filling you with eerie strength."
-PROPSKILL_TXT_140020,Asylum Boss DMG Low Bless,Asylum Boss DMG Low Bless
-PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses.","Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses."
-PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,Asylum Boss DMG High Bless
-PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.
-PROPSKILL_TXT_140024,Asylum All Stats Low Bless,Asylum All Stats Low Bless
-PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.
-PROPSKILL_TXT_140026,Asylum All Stats High Bless,Asylum All Stats High Bless
-PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.","The Asylum bestows a 10% all boost, filling you with eerie strength."
-PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,Asylum Boss Incoming Bless
-PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.
-PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,Asylum Boss Incoming Bless
-PROPSKILL_TXT_140031,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.
-PROPSKILL_TXT_140032,Asylum HP Low Curse,Asylum HP Low Curse
-PROPSKILL_TXT_140033,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%.,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%.
-PROPSKILL_TXT_140034,Asylum HP High Curse,Asylum HP High Curse
-PROPSKILL_TXT_140035,The Asylum drains your life force. You suffer a 10% reduction in max HP.,The Asylum drains your life force. You suffer a 10% reduction in max HP.
-PROPSKILL_TXT_140036,Asylum DEF Low Curse,Asylum DEF Low Curse
-PROPSKILL_TXT_140037,Your defense falters under the weight of the Asylum's curse. It is reduced by 2%.,Your defense falters under the weight of the Asylum's curse. It is reduced by 2%.
-PROPSKILL_TXT_140038,Asylum DEF High Curse,Asylum DEF High Curse
-PROPSKILL_TXT_140039,The Asylum strips away your protection. Your defense drops by 5%.,The Asylum strips away your protection. Your defense drops by 5%.
-PROPSKILL_TXT_140040,Asylum Elemental Low Curse,Asylum Elemental Low Curse
-PROPSKILL_TXT_140041,Elemental energy slips from your grasp. All elemental damage is reduced by 5%.,Elemental energy slips from your grasp. All elemental damage is reduced by 5%.
-PROPSKILL_TXT_140042,Asylum Elemental High Curse,Asylum Elemental High Curse
-PROPSKILL_TXT_140043,The Asylum disrupts your connection to the elements. Your elemental power drops by 10%.,The Asylum disrupts your connection to the elements. Your elemental power drops by 10%.
-PROPSKILL_TXT_140044,Asylum Speed Low Curse,Asylum Speed Low Curse
-PROPSKILL_TXT_140045,A subtle curse slows your movements. Your speed decreases by 5%.,A subtle curse slows your movements. Your speed decreases by 5%.
-PROPSKILL_TXT_140046,Asylum Speed High Curse,Asylum Speed High Curse
-PROPSKILL_TXT_140047,The Asylum binds your limbs in dread. Speed is reduced by 10%.,The Asylum binds your limbs in dread. Speed is reduced by 10%.
-PROPSKILL_TXT_140048,Asylum Attack Low Curse,Asylum Attack Low Curse
-PROPSKILL_TXT_140049,The curse dulls your strength. Attack power reduced by 5% under the Asylum's shadow.,The curse dulls your strength. Attack power reduced by 5% under the Asylum's shadow.
-PROPSKILL_TXT_140050,Asylum Attack High Curse,Asylum Attack High Curse
-PROPSKILL_TXT_140051,The Asylum saps your aggression. Attack power falls by 10%.,The Asylum saps your aggression. Attack power falls by 10%.
-PROPSKILL_TXT_140052,Asylum Boss DMG Low Curse,Asylum Boss DMG Low Curse
-PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.
-PROPSKILL_TXT_140054,Asylum Boss DMG High Curse,Asylum Boss DMG High Curse
-PROPSKILL_TXT_140055,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.
-PROPSKILL_TXT_140056,Asylum All Stats Low Curse,Asylum All Stats Low Curse
-PROPSKILL_TXT_140057,The curse fractures your inner balance. All base stats fall by 5.,The curse fractures your inner balance. All base stats fall by 5.
-PROPSKILL_TXT_140058,Asylum All Stats High Curse,Asylum All Stats High Curse
-PROPSKILL_TXT_140059,The Asylum crushes your essence. All base stats are reduced by 10.,The Asylum crushes your essence. All base stats are reduced by 10.
-PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
-PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.
-PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
-PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.
-PROPSKILL_TXT_140064,Trap: Debuff,Trap: Debuff
-PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,Deploy a trap that deals damage with a 15% chance to slow down targets.
-PROPSKILL_TXT_140066,Pit,Pit
-PROPSKILL_TXT_140067,You have stepped on a trap.,You have stepped on a trap.
-PROPSKILL_TXT_140068,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140069,Crowd Controller,Crowd Controller
-PROPSKILL_TXT_140071,Trap: DoT,Trap: DoT
-PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,Deploy a trap that deals continuous damage.
-PROPSKILL_TXT_140073,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140076,Trap: AoE,Trap: AoE
-PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,Deploy a trap that deals damage in the designated area.
-PROPSKILL_TXT_140078,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140081,Trap: Binding,Trap: Binding
-PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,Deploy a trap that immobilizes the target.
-PROPSKILL_TXT_140083,Skilled Installation,Skilled Installation
-PROPSKILL_TXT_140086,Trap: Blast,Trap: Blast
-PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,Deploy a trap that pushes the target away.
-PROPSKILL_TXT_140088,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140091,Marked Prey,Marked Prey
-PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.
-PROPSKILL_TXT_140093,Advanced Trap,Advanced Trap
-PROPSKILL_TXT_140094,Increases your traps’ range.,Increases your traps’ range.
-PROPSKILL_TXT_140095,Devastating Sting,Devastating Sting
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Increases damage dealt by normal attacks.
-PROPSKILL_TXT_140097,Nearby Shot,Nearby Shot
-PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Increased damage for auto attacks when you more than 5m from your target.
-PROPSKILL_TXT_140099,Feeble Arms,Feeble Arms
-PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,Monsters take less damages from you but have higher drop rates.
-PROPSKILL_TXT_150142,Four Strikes,Four Strikes
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage."
-PROPSKILL_TXT_150144,Auto Attack Stacks,Auto Attack Stacks
-PROPSKILL_TXT_150145,Execution of Justice,Execution of Justice
-PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Leap forward, knocking nearby enemies towards you and reducing their movement speed."
-PROPSKILL_TXT_150147,Leap of Faith,Leap of Faith
-PROPSKILL_TXT_150148,Hero's Emergence,Hero's Emergence
-PROPSKILL_TXT_150149,Faction Collapse,Faction Collapse
-PROPSKILL_TXT_150150,Lillith's Gaze,Lillith's Gaze
-PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","Gaze upon your target, slowing them down and forcing them to move towards you."
-PROPSKILL_TXT_150152,Sure Gaze,Sure Gaze
-PROPSKILL_TXT_150153,Slowing,Slowing
-PROPSKILL_TXT_150155,Cimetiere's Scream,Cimetiere's Scream
-PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence."
-PROPSKILL_TXT_150158,Debuff Chance,Debuff Chance
-PROPSKILL_TXT_150160,Aether Rend,Aether Rend
-PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.
-PROPSKILL_TXT_150162,Additional Buffs,Additional Buffs
+PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","Obtén acumulaciones de Inmortal, que te protegen de bajar de 1 HP. Si se consume una acumulación, el HP, FP y MP se reducen a 1. Una vez que se consumen todas las acumulaciones, ya no estás protegido."
+PROPSKILL_TXT_150128,Enhanced HP Recovery,Recuperación de HP mejorada
+PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,Mejora la efectividad de la curación recibida cuando tienes poca salud.
+PROPSKILL_TXT_150130,Increased HP Regeneration,Regeneración de HP aumentada
+PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,Incrementa la cantidad de recuperación natural de HP.
+PROPSKILL_TXT_150132,One-handed Mastery,Maestría con una mano
+PROPSKILL_TXT_150133,Increase your damage when using one-handed weapons.,Aumenta tu daño al usar armas de una mano.
+PROPSKILL_TXT_150134,Two-handed Mastery,Maestría con dos manos
+PROPSKILL_TXT_150135,Increase your damage when using two-handed weapons.,Aumenta tu daño al usar armas de dos manos.
+PROPSKILL_TXT_150136,Shield Mastery,Maestría con escudo
+PROPSKILL_TXT_150137,Increases defense when wearing a shield.,Aumenta la defensa al usar un escudo.
+PROPSKILL_TXT_150138,Enhanced Physical Defense,Defensa física mejorada
+PROPSKILL_TXT_150139,Increases defense when HP is low.,Aumenta la defensa cuando el HP es bajo.
+PROPSKILL_TXT_150140,Enhanced Magical Defense,Defensa mágica mejorada 
+PROPSKILL_TXT_150141,Increases magic defense when HP is low.,Aumenta la defensa mágica cuando el HP es bajo.
+PROPSKILL_TXT_140000,Asylum HP Low Bless,Bendición baja de HP del Asylum
+PROPSKILL_TXT_140001,"The Asylum bestows a 5% hp boost, filling you with eerie strength.","El Asylum otorga un aumento del 5% de HP, llenándote de una fuerza inquietante."
+PROPSKILL_TXT_140002,Asylum HP High Bless,Bendición alta de HP del Asylum
+PROPSKILL_TXT_140003,A hp increase of 10% wraps around you like a spectral embrace.,Un aumento del 10% de HP te envuelve como un abrazo espectral.
+PROPSKILL_TXT_140004,Asylum DEF Low Bless,Bendición baja de DEF del Asylum
+PROPSKILL_TXT_140005,"The Asylum bestows a 2% def boost, filling you with eerie strength.","El Asylum otorga un aumento del 2% de DEF, llenándote de una fuerza inquietante."
+PROPSKILL_TXT_140006,Asylum DEF High Bless,Bendición alta de DEF del Asylum
+PROPSKILL_TXT_140007,The Asylum shields you from harm! Your defense rises by 5% under its eerie protection.,¡El Asylum te protege del daño! Tu defensa aumenta un 5% bajo su inquietante protección.
+PROPSKILL_TXT_140008,Asylum Elemental Low Bless,Bendición elemental baja del Asylum
+PROPSKILL_TXT_140009,"Imbues your attacks with the power of all elements, increasing elemental damage by 5%.","Imbuye tus ataques con el poder de todos los elementos, aumentando el daño elemental en un 5%."
+PROPSKILL_TXT_140010,Asylum Elemental High Bless,Bendición elemental alta del Asylum
+PROPSKILL_TXT_140011,The Asylum grants you a 10% boost to all elemental damage types.,El Asylum te concede un aumento del 10% a todo el daño elemental.
+PROPSKILL_TXT_140012,Asylum Speed Low Bless,Bendición baja de velocidad del Asylum
+PROPSKILL_TXT_140013,A blessing from beyond: +5% speed granted under Asylum’s watchful eye.,Una bendición de otro mundo: +5% de velocidad bajo la atenta mirada del Asylum.
+PROPSKILL_TXT_140014,Asylum Speed High Bless,Bendición alta de velocidad del Asylum
+PROPSKILL_TXT_140015,The Asylum whispers power. 10% more speed surges through you.,El Asylum susurra poder. Un 10% más de velocidad fluye a través de ti.
+PROPSKILL_TXT_140016,Asylum Attack Low Bless,Bendición baja de ataque del Asylum
+PROPSKILL_TXT_140017,The Asylum sharpens your resolve as your attack power increases by 5% with otherworldly force.,"El Asylum afila tu determinación, aumentando tu poder de ataque en un 5% con una fuerza sobrenatural."
+PROPSKILL_TXT_140018,Asylum Attack High Bless,Bendición alta de ataque del Asylum
+PROPSKILL_TXT_140019,"The Asylum bestows a 10% attack boost, filling you with eerie strength.","El Asylum otorga un aumento del 10% de ataque, llenándote de una fuerza inquietante."
+PROPSKILL_TXT_140020,Asylum Boss DMG Low Bless,Bendición baja de daño a jefes del Asylum
+PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses.","Potenciado por la presencia del Asylum, tus ataques infligen un 5% más de daño a los jefes."
+PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,Bendición alta de daño a jefes del Asylum
+PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,¡Una fuerza intensa recorre tu cuerpo! Los jefes ahora reciben un 10% más de daño de tu furia.
+PROPSKILL_TXT_140024,Asylum All Stats Low Bless,Bendición baja de todos los atributos del Asylum
+PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,El Asylum concede una armonía antinatural. Tus estadísticas base aumentan en 10 como si fuerzas invisibles te guiaran.
+PROPSKILL_TXT_140026,Asylum All Stats High Bless,Bendición alta de todos los atributos del Asylum
+PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.","El Asylum otorga un aumento general del 10%, llenándote de una fuerza inquietante."
+PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,Bendición baja de daño recibido de jefes del Asylum 
+PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,El Asylum te envuelve en sombras. El daño recibido de jefes se reduce en un 5%.
+PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,Bendición alta de daño recibido de jefes del Asylum
+PROPSKILL_TXT_140031,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.,Una fuerza protectora del Asylum amortigua la furia de los jefes. Recibes un 10% menos de daño de ellos.
+PROPSKILL_TXT_140032,Asylum HP Low Curse,Maldición baja de HP del Asylum
+PROPSKILL_TXT_140033,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%.,Una maldición del Asylum debilita tu vitalidad. Tu HP máximo se reduce en un 5%.
+PROPSKILL_TXT_140034,Asylum HP High Curse,Maldición alta de HP del Asylum
+PROPSKILL_TXT_140035,The Asylum drains your life force. You suffer a 10% reduction in max HP.,El Asylum drena tu fuerza vital. Sufres una reducción del 10% en tu HP máximo.
+PROPSKILL_TXT_140036,Asylum DEF Low Curse,Maldición baja de DEF del Asylum
+PROPSKILL_TXT_140037,Your defense falters under the weight of the Asylum's curse. It is reduced by 2%.,Tu defensa flaquea bajo el peso de la maldición del Asylum. Se reduce en un 2%.
+PROPSKILL_TXT_140038,Asylum DEF High Curse,Maldición alta de DEF del Asylum
+PROPSKILL_TXT_140039,The Asylum strips away your protection. Your defense drops by 5%.,El Asylum despoja tu protección. Tu defensa se reduce en un 5%.
+PROPSKILL_TXT_140040,Asylum Elemental Low Curse,Maldición elemental baja del Asylum
+PROPSKILL_TXT_140041,Elemental energy slips from your grasp. All elemental damage is reduced by 5%.,La energía elemental se te escapa de las manos. Todo el daño elemental se reduce en un 5%.
+PROPSKILL_TXT_140042,Asylum Elemental High Curse,Maldición elemental alta del Asylum
+PROPSKILL_TXT_140043,The Asylum disrupts your connection to the elements. Your elemental power drops by 10%.,El Asylum interrumpe tu conexión con los elementos. Tu poder elemental disminuye en un 10%.
+PROPSKILL_TXT_140044,Asylum Speed Low Curse,Maldición baja de velocidad del Asylum
+PROPSKILL_TXT_140045,A subtle curse slows your movements. Your speed decreases by 5%.,Una sutil maldición ralentiza tus movimientos. Tu velocidad disminuye en un 5%.
+PROPSKILL_TXT_140046,Asylum Speed High Curse,Maldición alta de velocidad del Asylum
+PROPSKILL_TXT_140047,The Asylum binds your limbs in dread. Speed is reduced by 10%.,El Asylum ata tus extremidades con temor. La velocidad se reduce en un 10%.
+PROPSKILL_TXT_140048,Asylum Attack Low Curse,Maldición baja de ataque del Asylum
+PROPSKILL_TXT_140049,The curse dulls your strength. Attack power reduced by 5% under the Asylum's shadow.,La maldición debilita tu fuerza. El poder de ataque se reduce en un 5% bajo la sombra del Asylum.
+PROPSKILL_TXT_140050,Asylum Attack High Curse,Maldición alta de ataque del Asylum
+PROPSKILL_TXT_140051,The Asylum saps your aggression. Attack power falls by 10%.,El Asylum agota tu agresividad. El poder de ataque cae en un 10%.
+PROPSKILL_TXT_140052,Asylum Boss DMG Low Curse,Maldición baja de daño a jefes del Asylum
+PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.,El Asylum distorsiona tus golpes. El daño infligido a jefes se reduce en un 5%.
+PROPSKILL_TXT_140054,Asylum Boss DMG High Curse,Maldición alta de daño a jefes del Asylum
+PROPSKILL_TXT_140055,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.,Tus golpes se debilitan ante los poderosos. El daño a jefes cae en un 10% bajo la maldición.
+PROPSKILL_TXT_140056,Asylum All Stats Low Curse,Maldición baja de todos los atributos del Asylum
+PROPSKILL_TXT_140057,The curse fractures your inner balance. All base stats fall by 5.,La maldición fractura tu equilibrio interno. Todas las estadísticas base se reducen en 5.
+PROPSKILL_TXT_140058,Asylum All Stats High Curse,Maldición alta de todos los atributos del Asylum
+PROPSKILL_TXT_140059,The Asylum crushes your essence. All base stats are reduced by 10.,El Asylum aplasta tu esencia. Todas las estadísticas base se reducen en 10.
+PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Maldición baja de daño recibido de jefes del Asylum
+PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,El Asylum expone tus debilidades. El daño recibido de jefes aumenta en un 5%.
+PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Maldición alta de daño recibido de jefes del Asylum
+PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Tus defensas flaquean bajo la maldición del Asylum. Los jefes te infligen un 10% más de daño.
+PROPSKILL_TXT_140064,Trap: Debuff,Trampa: Desventaja
+PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,Despliega una trampa que inflige daño con un 15% de probabilidad de ralentizar a los objetivos.
+PROPSKILL_TXT_140066,Pit,Foso
+PROPSKILL_TXT_140067,You have stepped on a trap.,Has pisado una trampa.
+PROPSKILL_TXT_140068,Proficient Traps,Trampas expertas
+PROPSKILL_TXT_140069,Crowd Controller,Controlador de multitudes
+PROPSKILL_TXT_140071,Trap: DoT,Trampa: Daño prolongado
+PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,Despliega una trampa que inflige daño continuo.
+PROPSKILL_TXT_140073,Proficient Traps,Trampas expertas
+PROPSKILL_TXT_140076,Trap: AoE,Trampa: Área
+PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,Despliega una trampa que inflige daño en el área designada.
+PROPSKILL_TXT_140078,Proficient Traps,Trampas expertas
+PROPSKILL_TXT_140081,Trap: Binding,Trampa: Inmovilización
+PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,Despliega una trampa que inmoviliza al objetivo.
+PROPSKILL_TXT_140083,Skilled Installation,Instalación hábil
+PROPSKILL_TXT_140086,Trap: Blast,Trampa: Explosión
+PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,Despliega una trampa que empuja al objetivo lejos.
+PROPSKILL_TXT_140088,Proficient Traps,Trampas expertas
+PROPSKILL_TXT_140091,Marked Prey,Presa marcada
+PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,El daño crítico de los ataques normales aumenta contra enemigos afectados por la desventaja Foso al quedar atrapados en una trampa.
+PROPSKILL_TXT_140093,Advanced Trap,Trampa avanzada
+PROPSKILL_TXT_140094,Increases your traps’ range.,Aumenta el alcance de tus trampas.
+PROPSKILL_TXT_140095,Devastating Sting,Aguijón devastador
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Aumenta el daño infligido por los ataques normales.
+PROPSKILL_TXT_140097,Nearby Shot,Disparo a distancia
+PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Aumenta el daño de los ataques automáticos cuando estás a más de 5 m de tu objetivo.
+PROPSKILL_TXT_140099,Feeble Arms,Brazos débiles
+PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,"Los monstruos reciben menos daño de ti, pero tienen mayores probabilidades de soltar objetos."
+PROPSKILL_TXT_150142,Four Strikes,Cuatro golpes
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","Tus ataques automáticos aplican acumulaciones, que explotan al llegar a 4 para infligir daño adicional."
+PROPSKILL_TXT_150144,Auto Attack Stacks,Acumulaciones de ataque automático
+PROPSKILL_TXT_150145,Execution of Justice,Ejecución de la justicia
+PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Salta hacia adelante, atrayendo a los enemigos cercanos hacia ti y reduciendo su velocidad de movimiento."
+PROPSKILL_TXT_150147,Leap of Faith,Salto de fe
+PROPSKILL_TXT_150148,Hero's Emergence,Aparición del héroe
+PROPSKILL_TXT_150149,Faction Collapse,Colapso de facción
+PROPSKILL_TXT_150150,Lillith's Gaze,Mirada de Lillith
+PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","Clava la mirada en tu objetivo, ralentizándolo y obligándolo a moverse hacia ti."
+PROPSKILL_TXT_150152,Sure Gaze,Mirada certera
+PROPSKILL_TXT_150153,Slowing,Ralentización
+PROPSKILL_TXT_150155,Cimetiere's Scream,Grito de Cimetiere
+PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","Invoca el espíritu de Cimetiere durante un breve periodo en el área objetivo, infligiendo daño a los alrededores con probabilidad de silenciar."
+PROPSKILL_TXT_150158,Debuff Chance,Probabilidad de desventaja
+PROPSKILL_TXT_150160,Aether Rend,Desgarro de éter
+PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,Elimina una cantidad de efectos de deshabilitación y debilitamiento de tu objetivo hasta el número de acumulaciones disponibles de Detonación maléfica y Oleada de condenación. Esta habilidad consume todas las acumulaciones de ambas habilidades. El daño de esta habilidad escala con los efectos de deshabilitación y debilitamiento sobre ti.
+PROPSKILL_TXT_150162,Additional Buffs,Mejoras adicionales
 PROPSKILL_TXT_150163,Additional Damage,Daño Adicional
-PROPSKILL_TXT_150165,Yo-Yo Storm,Yo-Yo Storm
-PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,Spin your yo-yos in place to continuously attack all nearby enemies.
-PROPSKILL_TXT_150167,Extended Range,Extended Range
-PROPSKILL_TXT_150169,CC Attack,CC Attack
-PROPSKILL_TXT_150170,Toxic Cloud,Toxic Cloud
-PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby."
-PROPSKILL_TXT_150172,Extended Range,Extended Range
-PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
-PROPSKILL_TXT_150175,Bloody Rush,Bloody Rush
-PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","Rush forward, causing slicing and bleeding the first enemy hit."
-PROPSKILL_TXT_150177,Enhanced Dash,Enhanced Dash
-PROPSKILL_TXT_150178,Strong Impact,Strong Impact
-PROPSKILL_TXT_150179,Bloody Release,Bloody Release
-PROPSKILL_TXT_150180,Cross of Blood,Cross of Blood
-PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits."
+PROPSKILL_TXT_150165,Yo-Yo Storm,Tormenta de Yo-Yo
+PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,Daño adicional | Haz girar tus yo-yos en el lugar para atacar continuamente a todos los enemigos cercanos.
+PROPSKILL_TXT_150167,Extended Range,Alcance extendido
+PROPSKILL_TXT_150169,CC Attack,Ataque de control de masas
+PROPSKILL_TXT_150170,Toxic Cloud,Nube Tóxica
+PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","Lanza un frasco de toxinas a un área, creando una nube venenosa que inflige daño y tiene probabilidad de envenenar a los objetivos cercanos."
+PROPSKILL_TXT_150172,Extended Range,Alcance extendido
+PROPSKILL_TXT_150174,Gas Cloud,Nube de gas
+PROPSKILL_TXT_150175,Bloody Rush,Carrera sangrienta
+PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","Corre hacia adelante, cortando y haciendo sangrar al primer enemigo alcanzado."
+PROPSKILL_TXT_150177,Enhanced Dash,Desplazamiento mejorado
+PROPSKILL_TXT_150178,Strong Impact,Impacto fuerte
+PROPSKILL_TXT_150179,Bloody Release,Liberación sangrienta
+PROPSKILL_TXT_150180,Cross of Blood,Cruz de sangre
+PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","Carga tu sangre y golpea el suelo, dañando y haciendo sangrar a los enemigos cercanos. Los golpes completamente cargados realizan impactos adicionales."
 PROPSKILL_TXT_150183,Berserk,Locura
-PROPSKILL_TXT_150184,Knockback,Knockback
-PROPSKILL_TXT_150185,Bloody Thorn,Bloody Thorn
-PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,Knocks back and causes bleeding with an explosion. Charging increases range.
-PROPSKILL_TXT_150187,Critical Hit,Critical Hit
-PROPSKILL_TXT_150189,Blood Penetration,Blood Penetration
-PROPSKILL_TXT_150190,Storm Slash,Storm Slash
-PROPSKILL_TXT_150191,Conjure up a whirlwind in front of you.,Conjure up a whirlwind in front of you.
-PROPSKILL_TXT_150192,Additional Whirlwind,Additional Whirlwind
-PROPSKILL_TXT_150193,Resistance Reduction,Resistance Reduction
-PROPSKILL_TXT_150194,Airborne,Airborne
-PROPSKILL_TXT_150195,Storm Strike,Storm Strike
-PROPSKILL_TXT_150196,"Perform a lower-body strike on the target. If the target becomes knocked down from the strike, it is able to be re-casted, dealing increased damage.","Perform a lower-body strike on the target. If the target becomes knocked down from the strike, it is able to be re-casted, dealing increased damage."
-PROPSKILL_TXT_150197,Fatal Strike,Fatal Strike
-PROPSKILL_TXT_150198,Fall Over,Fall Over
-PROPSKILL_TXT_150199,Speed Decrease,Speed Decrease
-PROPSKILL_TXT_150200,Tempest Barrage,Tempest Barrage
-PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,Creates a sword aura that damages nearby enemies and increases defense.
-PROPSKILL_TXT_150202,Speed Increase,Speed Increase
+PROPSKILL_TXT_150184,Knockback,Retroceso
+PROPSKILL_TXT_150185,Bloody Thorn,Espina sangrienta
+PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,Empuja hacia atrás y provoca sangrado con una explosión. Cargarla aumenta el alcance.
+PROPSKILL_TXT_150187,Critical Hit,Golpe crítico
+PROPSKILL_TXT_150189,Blood Penetration,Penetración sangrienta
+PROPSKILL_TXT_150190,Storm Slash,Corte de tormenta
+PROPSKILL_TXT_150191,Conjure up a whirlwind in front of you.,Invoca un torbellino frente a ti.
+PROPSKILL_TXT_150192,Additional Whirlwind,Torbellino adicional
+PROPSKILL_TXT_150193,Resistance Reduction,Reducción de resistencia
+PROPSKILL_TXT_150194,Airborne,Derribo aéreo
+PROPSKILL_TXT_150195,Storm Strike,Golpe de tormenta
+PROPSKILL_TXT_150196,"Perform a lower-body strike on the target. If the target becomes knocked down from the strike, it is able to be re-casted, dealing increased damage.","Realiza un golpe de la parte inferior del cuerpo al objetivo. Si el objetivo es derribado por el golpe, puede volver a lanzarse, infligiendo daño aumentado."
+PROPSKILL_TXT_150197,Fatal Strike,Golpe fatal
+PROPSKILL_TXT_150198,Fall Over,Caída
+PROPSKILL_TXT_150199,Speed Decrease,Reducción de velocidad
+PROPSKILL_TXT_150200,Tempest Barrage,Descarga tempestuosa
+PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,Crea un aura de espada que daña a los enemigos cercanos y aumenta la defensa.
+PROPSKILL_TXT_150202,Speed Increase,Aumento de velocidad
 PROPSKILL_TXT_150203,Bleeding,Sangrado
-PROPSKILL_TXT_150205,First Blood,First Blood
-PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.","Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies."
-PROPSKILL_TXT_150207,Left Handed,Left Handed
-PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,Sub-weapon attacks deal increased damage with normal attacks.
-PROPSKILL_TXT_150209,Ambidextrous,Ambidextrous
-PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,You become more comfortable using both of your hands simultaneously.
-PROPSKILL_TXT_150211,Blood Armor,Blood Armor
-PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,Damage reduction increases as HP decreases.
-PROPSKILL_TXT_150213,Master of Sword,Master of Sword
-PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.
-PROPSKILL_TXT_150215,Master of Axe,Master of Axe
-PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,Increases attack power. Scaled with number of axes equipped.
-PROPSKILL_TXT_150217,Survival Stance,Survival Stance
-PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Enhance your defense shortly after being affected by a disable or immobility type debuff.
-PROPSKILL_TXT_150219,Blessing of the Wise,Blessing of the Wise
-PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.","Perform a blessing to remove ""disable"" type debuffs on nearby allies."
-PROPSKILL_TXT_150221,Stun Resistance,Stun Resistance
-PROPSKILL_TXT_150222,DoT Resistance,DoT Resistance
-PROPSKILL_TXT_150223,Area Increase,Area Increase
-PROPSKILL_TXT_150224,Soul of Rhisis,Soul of Rhisis
-PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150226,Effect Increase,Effect Increase
-PROPSKILL_TXT_150228,Duration Increase,Duration Increase
-PROPSKILL_TXT_150229,Celestial Barrier,Celestial Barrier
-PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150234,Heaven's Step,Heaven's Step
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
+PROPSKILL_TXT_150205,First Blood,Primera sangre
+PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.","Inflige más daño con habilidades a costa de un mayor costo de HP y restaura HP al derrotar enemigos sangrando."
+PROPSKILL_TXT_150207,Left Handed,Mano izquierda
+PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,Los ataques del arma secundaria infligen más daño con los ataques normales.
+PROPSKILL_TXT_150209,Ambidextrous,Ambidiestro
+PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,Te vuelves más hábil usando ambas manos simultáneamente.
+PROPSKILL_TXT_150211,Blood Armor,Armadura de sangre
+PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,La reducción de daño aumenta a medida que disminuye el HP.
+PROPSKILL_TXT_150213,Master of Sword,Maestro de la espada
+PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Reduce los tiempos de reutilización de las habilidades de Slayer y aumenta la probabilidad de golpe crítico. Escala con la cantidad de espadas equipadas.
+PROPSKILL_TXT_150215,Master of Axe,Maestro del hacha
+PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,Aumenta el poder de ataque. Escala con la cantidad de hachas equipadas.
+PROPSKILL_TXT_150217,Survival Stance,Postura de supervivencia
+PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Mejora tu defensa poco después de ser afectado por un efecto de deshabilitación o inmovilización.
+PROPSKILL_TXT_150219,Blessing of the Wise,Bendición del sabio
+PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.","Realiza una bendición para eliminar efectos de tipo ""deshabilitación"" de los aliados cercanos."
+PROPSKILL_TXT_150221,Stun Resistance,Resistencia al aturdimiento
+PROPSKILL_TXT_150222,DoT Resistance,Resistencia a daño prolongado
+PROPSKILL_TXT_150223,Area Increase,Aumento de área
+PROPSKILL_TXT_150224,Soul of Rhisis,Alma de Rhisis
+PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Entona un himno que otorga a los aliados cercanos y a ti mismo reducción de daño. Mientras cantas, usar otras habilidades cancelará el canto. El efecto del himno aumenta cuanto más tiempo lo mantengas."
+PROPSKILL_TXT_150226,Effect Increase,Aumento de efecto
+PROPSKILL_TXT_150228,Duration Increase,Aumento de duración
+PROPSKILL_TXT_150229,Celestial Barrier,Barrera celestial
+PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Entona un himno que otorga a los aliados cercanos y a ti mismo resistencia elemental. Mientras cantas, usar otras habilidades cancelará el canto. El efecto del himno aumenta cuanto más tiempo lo mantengas."
+PROPSKILL_TXT_150234,Heaven's Step,Paso celestial
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Entona un himno que otorga a los aliados cercanos y a ti mismo mayor evasión y bloqueo. Mientras cantas, usar otras habilidades cancelará el canto. El efecto del himno aumenta cuanto más tiempo lo mantengas."
 PROPSKILL_TXT_150239,Gloria Patri,Gloria Patri
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Entona un himno que cura periódicamente a los aliados cercanos y a ti mismo. Mientras cantas, usar otras habilidades cancelará el canto. El efecto del himno aumenta cuanto más tiempo lo mantengas."
 PROPSKILL_TXT_150244,Kyrie Eleison,Kyrie Eleison
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150249,Flow of Salvation,Flow of Salvation
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise."
-PROPSKILL_TXT_150251,Increased Healing,Increased Healing
-PROPSKILL_TXT_150253,Increased Chain,Increased Chain
-PROPSKILL_TXT_150254,Hymn - Damage Reduction,Hymn - Damage Reduction
-PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","While a hymn is being chanted, gain extra damage reduction for yourself."
-PROPSKILL_TXT_150256,Hymn - Perfect Performance,Hymn - Perfect Performance
-PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,Hymns that are chanted to completion will have their cooldowns reduced.
-PROPSKILL_TXT_150258,Hymn - Quick Step,Hymn - Quick Step
-PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","While a hymn is being chanted, walking speed is increased."
-PROPSKILL_TXT_150260,Hymn - Liberation,Hymn - Liberation
-PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,Allow other hymn skills to be chanted at the same time.
-PROPSKILL_TXT_150262,Nen Overflow,Nen Overflow
-PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.","Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow."
-PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
-PROPSKILL_TXT_150265,Mind Enhancement,Mind Enhancement
-PROPSKILL_TXT_150266,Aura Enhancement,Aura Enhancement
-PROPSKILL_TXT_150267,MP Retention,MP Retention
-PROPSKILL_TXT_150268,Nen Afterimage,Nen Afterimage
-PROPSKILL_TXT_150270,Power Palm,Power Palm
-PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.","Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times."
-PROPSKILL_TXT_150272,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150273,Increased Effect,Increased Effect
-PROPSKILL_TXT_150275,Initiating Strike,Initiating Strike
-PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used.","Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used."
-PROPSKILL_TXT_150277,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150278,Nen Enhancement,Nen Enhancement
-PROPSKILL_TXT_150280,Staggering Strike,Staggering Strike
-PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.
-PROPSKILL_TXT_150282,Increased Knockdown Chance,Increased Knockdown Chance
-PROPSKILL_TXT_150283,Leg Attack,Leg Attack
-PROPSKILL_TXT_150285,Force Grip,Force Grip
-PROPSKILL_TXT_150286,"Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target.","Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target."
-PROPSKILL_TXT_150287,Diamond Body,Diamond Body
-PROPSKILL_TXT_150288,Group Binding,Group Binding
-PROPSKILL_TXT_150290,Nen Sphere,Nen Sphere
-PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your target.,Focus your mind to launch a damaging orb towards your target.
-PROPSKILL_TXT_150292,Continuous Shooting,Continuous Shooting
-PROPSKILL_TXT_150293,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150295,Aura Bomb,Aura Bomb
-PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.","Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage."
-PROPSKILL_TXT_150297,Casting Time Reduction,Casting Time Reduction
-PROPSKILL_TXT_150298,Range Enhancement,Range Enhancement
-PROPSKILL_TXT_150300,Enlightenment,Enlightenment
-PROPSKILL_TXT_150301,Increases knuckle damage.,Increases knuckle damage.
-PROPSKILL_TXT_150302,Quick Movement,Quick Movement
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Entona un himno que otorga a los aliados cercanos y a ti mismo mayor poder de ataque, poder mágico y tenacidad. Mientras cantas, usar otras habilidades cancelará el canto. El efecto del himno aumenta cuanto más tiempo lo mantengas."
+PROPSKILL_TXT_150249,Flow of Salvation,Flujo de salvación
+PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Insufla el flujo de salvación en tu objetivo, curándolo y extendiéndose a objetivos cercanos si son aliados, o infligiendo daño en caso contrario."
+PROPSKILL_TXT_150251,Increased Healing,Curación aumentada
+PROPSKILL_TXT_150253,Increased Chain,Cadena aumentada
+PROPSKILL_TXT_150254,Hymn - Damage Reduction,Himno - Reducción de daño
+PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","Mientras se entona un himno, obtienes reducción de daño adicional."
+PROPSKILL_TXT_150256,Hymn - Perfect Performance,Himno - Interpretación perfecta
+PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,Los himnos completados reducen su tiempo de reutilización.
+PROPSKILL_TXT_150258,Hymn - Quick Step,Himno - Paso rápido
+PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","Mientras se entona un himno, la velocidad de movimiento aumenta."
+PROPSKILL_TXT_150260,Hymn - Liberation,Himno - Liberación
+PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,Permite entonar otros himnos al mismo tiempo.
+PROPSKILL_TXT_150262,Nen Overflow,Desbordamiento de Nen
+PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.","Libera todo tu Nen para entrar en desbordamiento. Mientras estás en este estado, se usarán variaciones de mejora de Nen en ciertas habilidades. No puedes ganar Nen mientras estás en desbordamiento."
+PROPSKILL_TXT_150264,Form Enhancement,Mejora de forma
+PROPSKILL_TXT_150265,Mind Enhancement,Mejora mental
+PROPSKILL_TXT_150266,Aura Enhancement,Mejora de aura
+PROPSKILL_TXT_150267,MP Retention,Conservación de MP
+PROPSKILL_TXT_150268,Nen Afterimage,Posimagen de Nen
+PROPSKILL_TXT_150270,Power Palm,Palma de poder
+PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.","Ataca a tu objetivo, obteniendo acumulaciones de Nen. \n\n[Nen Enhancement]: Esta habilidad tiene probabilidad de derribar al enemigo. Si se usa durante la duración de Agarre de fuerza, golpearás múltiples veces."
+PROPSKILL_TXT_150272,Nen Mastery,Maestría de Nen
+PROPSKILL_TXT_150273,Increased Effect,Efecto aumentado
+PROPSKILL_TXT_150275,Initiating Strike,Golpe inicial
+PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used.","Ataca a tu enemigo con un golpe. Si el objetivo está derribado, te lanzarás hacia adelante para cerrar la distancia rápidamente. \n\n[Nen Enhancement]: Te otorga tenacidad al usarla."
+PROPSKILL_TXT_150277,Nen Mastery,Maestría de Nen
+PROPSKILL_TXT_150278,Nen Enhancement,Mejora de Nen
+PROPSKILL_TXT_150280,Staggering Strike,Golpe tambaleante
+PROPSKILL_TXT_150281,"Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.","Ataca a un objetivo con probabilidad de derribarlo. \n\n[Nen Enhancement]: Aumenta tu probabilidad de bloqueo al usarla."
+PROPSKILL_TXT_150282,Increased Knockdown Chance,Probabilidad de derribo aumentada
+PROPSKILL_TXT_150283,Leg Attack,Ataque de pierna
+PROPSKILL_TXT_150285,Force Grip,Agarre de fuerza
+PROPSKILL_TXT_150286,"Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target.","Agarra al objetivo, impidiendo que ambos se muevan, ataquen o usen habilidades. \n\n[Nen Enhancement]: Permite usar habilidades mientras mantienes al objetivo sujeto."
+PROPSKILL_TXT_150287,Diamond Body,Cuerpo de diamante
+PROPSKILL_TXT_150288,Group Binding,Inmovilización en grupo
+PROPSKILL_TXT_150290,Nen Sphere,Esfera de Nen
+PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your target.,Concentra tu mente para lanzar una esfera dañina hacia tu objetivo.
+PROPSKILL_TXT_150292,Continuous Shooting,Disparo continuo
+PROPSKILL_TXT_150293,Nen Mastery,Maestría de Nen
+PROPSKILL_TXT_150295,Aura Bomb,Bomba de aura
+PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.","Canaliza energía de tu entorno durante un largo periodo y dirígela a un área seleccionada para infligir gran daño. | Reducción de tiempo de lanzamiento"
+PROPSKILL_TXT_150297,Casting Time Reduction,Reducción del tiempo de lanzamiento
+PROPSKILL_TXT_150298,Range Enhancement,Mejora de alcance
+PROPSKILL_TXT_150300,Enlightenment,Iluminación
+PROPSKILL_TXT_150301,Increases knuckle damage.,Aumenta el daño con nudillos.
+PROPSKILL_TXT_150302,Quick Movement,Movimiento rápido
 PROPSKILL_TXT_150303,Critical Damage,Daño Crítico
-PROPSKILL_TXT_150304,Knuckle Power,Knuckle Power
-PROPSKILL_TXT_150305,Bubble's Blessing,Bubble's Blessing
-PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.
-PROPSKILL_TXT_150309,Range Extension,Range Extension
-PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
-PROPSKILL_TXT_150315,Ire of Iblis,Ire of Iblis
-PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.
-PROPSKILL_TXT_150320,Meditate,Meditate
-PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel."
-PROPSKILL_TXT_150322,Deep Meditation,Deep Meditation
-PROPSKILL_TXT_150323,Adamantine Body,Adamantine Body
-PROPSKILL_TXT_150324,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150325,Nen Storage,Nen Storage
-PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,Nen-consuming skills may consume only half the required stacks.
-PROPSKILL_TXT_150327,Mental Unity,Mental Unity
-PROPSKILL_TXT_150328,Reduces the maximum MP penalty from Nen stacks.,Reduces the maximum MP penalty from Nen stacks.
-PROPSKILL_TXT_150329,Clear Reflection,Clear Reflection
-PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level.","When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level."
-PROPSKILL_TXT_150331,Tenacity,Tenacity
-PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,Debuffs applied on you do not last as long.
-PROPSKILL_TXT_150333,Marked Attack,Marked Attack
-PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.
-PROPSKILL_TXT_150335,Nen Acquisition,Nen Acquisition
-PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,Increases your chance to gain an additional Nen stack when using Concentration.
-PROPSKILL_TXT_150337,Toxic Assault,Toxic Assault
-PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.
-PROPSKILL_TXT_150339,Increased Chance,Increased Chance
-PROPSKILL_TXT_150341,Increased Toxins,Increased Toxins
-PROPSKILL_TXT_150342,Toxic Fury,Toxic Fury
-PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,Inflict poison on yourself to increase your power at the cost of defense.
-PROPSKILL_TXT_150345,Maintain Addiction,Maintain Addiction
-PROPSKILL_TXT_150346,No Pain No Gain,No Pain No Gain
-PROPSKILL_TXT_150347,Toxic Analogy,Toxic Analogy
-PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,Reduces damage taken from poisoned enemies.
-PROPSKILL_TXT_150349,Master of Toxins,Master of Toxins
-PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,Increase your damage against poisoned enemies.
-PROPSKILL_TXT_150351,Risk Management,Risk Management
-PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,Becoming invisible has a chance to remove your own poison.
-PROPSKILL_TXT_150353,Dual Ego,Dual Ego
-PROPSKILL_TXT_150354,CC Attack,CC Attack
-PROPSKILL_TXT_150355,Far Shot,Far Shot
-PROPSKILL_TXT_150356,Party Buff,Party Buff
-PROPSKILL_TXT_150357,Slowing,Slowing
-PROPSKILL_TXT_150358,Incinerate,Incinerate
-PROPSKILL_TXT_150359,Increased Elemental,Increased Elemental
-PROPSKILL_TXT_150360,Additional Burn Damage,Additional Burn Damage
-PROPSKILL_TXT_150362,Ignite,Ignite
-PROPSKILL_TXT_150363,Increased Spread Damage,Increased Spread Damage
-PROPSKILL_TXT_150364,Hellfire,Hellfire
-PROPSKILL_TXT_150367,Wind Counter,Wind Counter
-PROPSKILL_TXT_150368,Blaze Eater,Blaze Eater
-PROPSKILL_TXT_150369,Ice Shard,Ice Shard
-PROPSKILL_TXT_150370,Tidal Omen,Tidal Omen
-PROPSKILL_TXT_150371,Increased Recovery,Increased Recovery
-PROPSKILL_TXT_150373,Fire Counter,Fire Counter
-PROPSKILL_TXT_150374,Aqua Veil,Aqua Veil
-PROPSKILL_TXT_150375,Gale,Gale
-PROPSKILL_TXT_150376,Increased Suffocate Chance,Increased Suffocate Chance
-PROPSKILL_TXT_150377,Earth Counter,Earth Counter
-PROPSKILL_TXT_150378,Stormveil Cloak,Stormveil Cloak
-PROPSKILL_TXT_150379,EVA Storm,EVA Storm
-PROPSKILL_TXT_150380,Increased Shock Chance,Increased Shock Chance
-PROPSKILL_TXT_150381,Thunder Strike,Rayo
-PROPSKILL_TXT_150382,Water Counter,Water Counter
-PROPSKILL_TXT_150383,Voltguard,Voltguard
-PROPSKILL_TXT_150384,Stone Pillar,Stone Pillar
-PROPSKILL_TXT_150385,Increased Explosion Range,Increased Explosion Range
-PROPSKILL_TXT_150386,Swampy Area,Swampy Area
-PROPSKILL_TXT_150387,Electric Counter,Electric Counter
-PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.","Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them."
-PROPSKILL_TXT_150389,Suffocation,Suffocation
-PROPSKILL_TXT_150390,Sleeping,Sleeping
-PROPSKILL_TXT_150391,Paralyzed,Paralyzed
-PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","You are sleeping, and will be awaken once you take damage."
-PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","You are paralyzed, physical damage is increased and magical damage is decreased."
-PROPSKILL_TXT_150394,Shocked,Shocked
-PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,You are shocked and receive extra electric damage.
-PROPSKILL_TXT_150396,Raging Storm,Raging Storm
-PROPSKILL_TXT_150397,Zephyr's Grace,Zephyr's Grace
-PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,Gain shields when you use Gale or Gust.
-PROPSKILL_TXT_150399,Gust,Gust
-PROPSKILL_TXT_150400,The skill's range increases.,The skill's range increases.
-PROPSKILL_TXT_150401,Skill cooldown is reduced.,Skill cooldown is reduced.
-PROPSKILL_TXT_150402,Skill damage increases proportionally to the shield's defense.,Skill damage increases proportionally to the shield's defense.
-PROPSKILL_TXT_150403,Has a chance to stun enemies.,Has a chance to stun enemies.
-PROPSKILL_TXT_150404,Movement speed is reduced.,Movement speed is reduced.
-PROPSKILL_TXT_150405,"After charging, a barrier proportional to max HP is generated.","After charging, a barrier proportional to max HP is generated."
-PROPSKILL_TXT_150406,Bind the pulled target.,Bind the pulled target.
-PROPSKILL_TXT_150407,Skill cooldown is reduced.,Skill cooldown is reduced.
-PROPSKILL_TXT_150408,Multiple enemies surrounding the selected target can also be pulled.,Multiple enemies surrounding the selected target can also be pulled.
-PROPSKILL_TXT_150409,The chance to stun increases.,The chance to stun increases.
-PROPSKILL_TXT_150410,Applies a defensive penalty to the target.,Applies a defensive penalty to the target.
-PROPSKILL_TXT_150412,The leap distance increases.,The leap distance increases.
-PROPSKILL_TXT_150413,You can push enemies further away from the landing point.,You can push enemies further away from the landing point.
-PROPSKILL_TXT_150414,Distance you can push enemies increases.,Distance you can push enemies increases.
-PROPSKILL_TXT_150415,Can move at a very slow speed when the skill is used.,Can move at a very slow speed when the skill is used.
-PROPSKILL_TXT_150416,Amount of HP consumed per second is reduced.,Amount of HP consumed per second is reduced.
-PROPSKILL_TXT_150417,Incoming damage is greatly reduced instead of reflected.,Incoming damage is greatly reduced instead of reflected.
-PROPSKILL_TXT_150418,Duration of the clone increases.,Duration of the clone increases.
-PROPSKILL_TXT_150419,An additional clone is spawned.,An additional clone is spawned.
-PROPSKILL_TXT_150420,"Auto Attack damage increases, but yo-yo range decreases.","Auto Attack damage increases, but yo-yo range decreases."
-PROPSKILL_TXT_150421,"Yo-Yo range increases, but auto attack damage decreases.","Yo-Yo range increases, but auto attack damage decreases."
-PROPSKILL_TXT_150422,"Multistrike chance increases, but Yo-Yo range decreases.","Multistrike chance increases, but Yo-Yo range decreases."
-PROPSKILL_TXT_150423,Skill duration is increased.,Skill duration is increased.
-PROPSKILL_TXT_150424,Increase the trade-off of stats.,Increase the trade-off of stats.
-PROPSKILL_TXT_150425,Defense debuff effect from skill usage is reduced.,Defense debuff effect from skill usage is reduced.
-PROPSKILL_TXT_150426,"Defense reduction rate is fixed at 60%, but enhances the skill effect.","Defense reduction rate is fixed at 60%, but enhances the skill effect."
-PROPSKILL_TXT_150427,The chance to inflict poison status increases with each hit.,The chance to inflict poison status increases with each hit.
-PROPSKILL_TXT_150428,"Skill cooldown increases, but the effect of poison increases.","Skill cooldown increases, but the effect of poison increases."
-PROPSKILL_TXT_150429,Skill range is increased.,Skill range is increased.
-PROPSKILL_TXT_150430,"In addition to poison damage, the cloud may blind targets, reducing their hit rate.","In addition to poison damage, the cloud may blind targets, reducing their hit rate."
-PROPSKILL_TXT_150431,"If used while invisible, subsequent normal attacks will always be critical hits, and the skill's cooldown will be reduced.","If used while invisible, subsequent normal attacks will always be critical hits, and the skill's cooldown will be reduced."
-PROPSKILL_TXT_150433,Chance to stun when used while invisible.,Chance to stun when used while invisible.
-PROPSKILL_TXT_150434,"Charge time doubles, but attack increases.","Charge time doubles, but attack increases."
-PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreases.","Maximum charge stacks are reduced to 2, but damage decreases."
-PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,Hits have a chance to immobilize enemies.
-PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,Chance to inflict poison status increases per hit.
-PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.","Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases."
-PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,Deals additional damage to targets within 3m.
-PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,Deals additional damage to targets further than 5m.
-PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.","Buff applies to party members within range, excluding yourself."
-PROPSKILL_TXT_150443,The chance to fire double arrows increases.,The chance to fire double arrows increases.
-PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,The distance over which the target is knocked back increases.
-PROPSKILL_TXT_150446,Pushes back enemies within the area along with the target.,Pushes back enemies within the area along with the target.
-PROPSKILL_TXT_150447,Increases the distance of the backward jump.,Increases the distance of the backward jump.
-PROPSKILL_TXT_150448,Reduces the target's movement speed.,Reduces the target's movement speed.
-PROPSKILL_TXT_150449,The movement speed of all enemies hit by the skill is reduced.,The movement speed of all enemies hit by the skill is reduced.
-PROPSKILL_TXT_150450,Maximum number of traps you can place increases.,Maximum number of traps you can place increases.
-PROPSKILL_TXT_150451,Range of the trap increases.,Range of the trap increases.
-PROPSKILL_TXT_150453,Chance of getting status effects increases.,Chance of getting status effects increases.
-PROPSKILL_TXT_150455,Skill's damage range increases.,Skill's damage range increases.
-PROPSKILL_TXT_150456,Enemy's defense is reduced when caught in the trap.,Enemy's defense is reduced when caught in the trap.
-PROPSKILL_TXT_150457,The activation range of the trap increases.,The activation range of the trap increases.
-PROPSKILL_TXT_150459,The activation range of the trap increases.,The activation range of the trap increases.
-PROPSKILL_TXT_150460,Physical damage increases per Nen stack.,Physical damage increases per Nen stack.
-PROPSKILL_TXT_150461,Magic damage increases per Nen stack.,Magic damage increases per Nen stack.
-PROPSKILL_TXT_150462,The effect of Aura skills increases per Nen stack.,The effect of Aura skills increases per Nen stack.
-PROPSKILL_TXT_150463,Skill damage is increased.,Skill damage is increased.
-PROPSKILL_TXT_150464,10 Nen stacks up even when this skill used.,10 Nen stacks up even when this skill used.
-PROPSKILL_TXT_150465,Has a chance to grant additional Nen stacks.,Has a chance to grant additional Nen stacks.
-PROPSKILL_TXT_150466,Damage is increased.,Damage is increased.
-PROPSKILL_TXT_150467,Gain 1 additional Nen with certain chance when the skill hits.,Gain 1 additional Nen with certain chance when the skill hits.
-PROPSKILL_TXT_150468,"When cast as an enhanced attack, reduces the target's attack and defense additionally.","When cast as an enhanced attack, reduces the target's attack and defense additionally."
-PROPSKILL_TXT_150469,Chance to knock down the target increases.,Chance to knock down the target increases.
-PROPSKILL_TXT_150470,Nen Enhanced strikes will also reduce movement speed.,Nen Enhanced strikes will also reduce movement speed.
-PROPSKILL_TXT_150471,Consumes additional Nen to attempt an extra attack.,Consumes additional Nen to attempt an extra attack.
-PROPSKILL_TXT_150472,Using the skill may not consume Nen.,Using the skill may not consume Nen.
-PROPSKILL_TXT_150473,"Casting time is reduced, but skill damage is decreased.","Casting time is reduced, but skill damage is decreased."
-PROPSKILL_TXT_150474,Movement speed penalty is reduced.,Movement speed penalty is reduced.
-PROPSKILL_TXT_150477,"While grabbing an enemy, the damage you take is reduced.","While grabbing an enemy, the damage you take is reduced."
-PROPSKILL_TXT_150478,You can grab all enemies within range with a chance.,You can grab all enemies within range with a chance.
-PROPSKILL_TXT_150479,Movement speed and critical chance increases further when using the skill.,Movement speed and critical chance increases further when using the skill.
-PROPSKILL_TXT_150480,Critical damage increases when using skill.,Critical damage increases when using skill.
-PROPSKILL_TXT_150481,Knuckle damage increases further when using skill.,Knuckle damage increases further when using skill.
-PROPSKILL_TXT_150482,Damage reduction rate increases while meditating.,Damage reduction rate increases while meditating.
-PROPSKILL_TXT_150483,You can move slowly while using the skill.,You can move slowly while using the skill.
-PROPSKILL_TXT_150484,Attack all enemies on the path and give additional bleed damage.,Attack all enemies on the path and give additional bleed damage.
-PROPSKILL_TXT_150485,Stuns the target on impact.,Stuns the target on impact.
-PROPSKILL_TXT_150486,Attack range increases but rush distance decreases.,Attack range increases but rush distance decreases.
-PROPSKILL_TXT_150487,Explosion range increases.,Explosion range increases.
-PROPSKILL_TXT_150488,Increase damage with additional HP cost.,Increase damage with additional HP cost.
-PROPSKILL_TXT_150489,Knock back the enemy hit by the explosion.,Knock back the enemy hit by the explosion.
-PROPSKILL_TXT_150490,Damage increases.,Damage increases.
-PROPSKILL_TXT_150491,Give additional bleeding damage to all enemies hit by the skill.,Give additional bleeding damage to all enemies hit by the skill.
-PROPSKILL_TXT_150492,Create one more whirlwind.,Create one more whirlwind.
-PROPSKILL_TXT_150493,Reduce enemy's element resistance.,Reduce enemy's element resistance.
-PROPSKILL_TXT_150494,"Whirlwind moves forward, lifting enemies into the air.","Whirlwind moves forward, lifting enemies into the air."
-PROPSKILL_TXT_150495,Successful follow-up hits increased damage is increased further.,Successful follow-up hits increased damage is increased further.
-PROPSKILL_TXT_150496,Increases the chance to knock down enemies.,Increases the chance to knock down enemies.
-PROPSKILL_TXT_150497,Successful follow up hit reduces the target's movement speed.,Successful follow up hit reduces the target's movement speed.
-PROPSKILL_TXT_150498,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time."
-PROPSKILL_TXT_150499,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time."
-PROPSKILL_TXT_150500,Casts an aura that reduces movement speed but increases allies’ defense and block rate.,Casts an aura that reduces movement speed but increases allies’ defense and block rate.
-PROPSKILL_TXT_150501,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.
-PROPSKILL_TXT_150502,"Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time."
-PROPSKILL_TXT_150503,Casts an aura that greatly reduces movement speed but increases allies’ damage reduction and critical resistance. Cannot be used with other auras at the same time.,Casts an aura that greatly reduces movement speed but increases allies’ damage reduction and critical resistance. Cannot be used with other auras at the same time.
-PROPSKILL_TXT_150504,Sacrifice,Sacrifice
-PROPSKILL_TXT_150505,"Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%.","Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%."
-PROPSKILL_TXT_150506,Meaning of Sacrifice,Meaning of Sacrifice
-PROPSKILL_TXT_150507,Greater sacrifice for greater shields.,Greater sacrifice for greater shields.
-PROPSKILL_TXT_150508,Sacrifice of Sharing,Sacrifice of Sharing
-PROPSKILL_TXT_150509,Gain shields yourself as well.,Gain shields yourself as well.
-PROPSKILL_TXT_150510,Increased MP/FP Recovery,Increased MP/FP Recovery
-PROPSKILL_TXT_150511,Hammer of Judgement,Hammer of Judgement
-PROPSKILL_TXT_150512,"Summon a hammer from the skies, leaving a damaging area behind.","Summon a hammer from the skies, leaving a damaging area behind."
-PROPSKILL_TXT_150513,Justice Hammer,Justice Hammer
-PROPSKILL_TXT_150514,Sanctuary Area,Sanctuary Area
-PROPSKILL_TXT_150515,Entangling Roots,Entangling Roots
-PROPSKILL_TXT_150516,Grasping Roots,Grasping Roots
-PROPSKILL_TXT_150517,Stranglethorns,Stranglethorns
-PROPSKILL_TXT_150518,Nature's Grasp,Nature's Grasp
-PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.","Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them."
-PROPSKILL_TXT_150520,Stigma I,Stigma I
-PROPSKILL_TXT_150521,Increased Stigma,Increased Stigma
-PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.","Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies."
-PROPSKILL_TXT_150523,Stigma II,Stigma II
-PROPSKILL_TXT_150524,Increased Targets,Increased Targets
-PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.","Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits."
-PROPSKILL_TXT_150526,Stigma III,Stigma III
-PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.","Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced."
-PROPSKILL_TXT_150528,Petrify,Petrify
-PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.","You are immobilized, physical damage taken is reduced, while magical damage taken is increased."
-PROPSKILL_TXT_150530,Earthen Fortitude,Earthen Fortitude
-PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,Petrifying an enemy using Entangling Roots will grant you with bonuses.
-PROPSKILL_TXT_150532,Stigma,Stigma
-PROPSKILL_TXT_150533,Reduced Penalty,Reduced Penalty
-PROPSKILL_TXT_150534,Critical Chance penalty is reduced.,Critical Chance penalty is reduced.
-PROPSKILL_TXT_150535,Full Charge Time Decrease,Full Charge Time Decrease
-PROPSKILL_TXT_150536,Your movement speed is also increased.,Your movement speed is also increased.
-PROPSKILL_TXT_150537,Enemies hit by the aura have a chance to bleed.,Enemies hit by the aura have a chance to bleed.
-PROPSKILL_TXT_150538,Extra damage when used on a burning target is increased.,Extra damage when used on a burning target is increased.
-PROPSKILL_TXT_150539,"Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them.","Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them."
-PROPSKILL_TXT_150540,Damage reduction when used on a burning target is reduced.,Damage reduction when used on a burning target is reduced.
-PROPSKILL_TXT_150541,"Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen.","Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen."
-PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.","Freeze your target in a water bubble, stealing health from them."
-PROPSKILL_TXT_150543,Stolen health is increased.,Stolen health is increased.
-PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.","Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random."
-PROPSKILL_TXT_150545,Suffocate stack chance is increased.,Suffocate stack chance is increased.
-PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.","You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random."
-PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.","Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage."
-PROPSKILL_TXT_150548,Shock chance is increased.,Shock chance is increased.
-PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.","Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage."
-PROPSKILL_TXT_150550,Strike interval is shorter.,Strike interval is shorter.
-PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies."
-PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance."
-PROPSKILL_TXT_150554,Roots will go through more enemies.,Roots will go through more enemies.
-PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down."
-PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Fire additional roots in a cone in front of you.
-PROPSKILL_TXT_150557,Increases your fire mastery.,Increases your fire mastery.
-PROPSKILL_TXT_150558,Increases your water mastery.,Increases your water mastery.
-PROPSKILL_TXT_150559,Increases your earth mastery.,Increases your earth mastery.
-PROPSKILL_TXT_150560,Increases your electric mastery.,Increases your electric mastery.
-PROPSKILL_TXT_150561,Increases your wind mastery.,Increases your wind mastery.
-PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,The damage you take from burning enemies is decreased.
-PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,The damage you take from enemies affected by water skills is decreased.
-PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,The damage you take from enemies with Suffocate stacks is decreased.
-PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,The damage you take from Shocked enemies is decreased.
-PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased."
-PROPSKILL_TXT_150567,Probability is increased.,Probability is increased.
-PROPSKILL_TXT_150568,Slowing effect is increased.,Slowing effect is increased.
-PROPSKILL_TXT_150569,Silence chance is increased.,Silence chance is increased.
-PROPSKILL_TXT_150570,Skill duration when fully charged is increased.,Skill duration when fully charged is increased.
-PROPSKILL_TXT_150571,Mutation chance when fully charged is 100%.,Mutation chance when fully charged is 100%.
-PROPSKILL_TXT_150572,Charging time is decreased.,Charging time is decreased.
-PROPSKILL_TXT_150573,Damage against enemies with Disable type debuffs is increased.,Damage against enemies with Disable type debuffs is increased.
-PROPSKILL_TXT_150574,Damage against enemies with Weaken type debuffs is increased.,Damage against enemies with Weaken type debuffs is increased.
-PROPSKILL_TXT_150575,Damage taken from enemies with debuffs is decreased.,Damage taken from enemies with debuffs is decreased.
-PROPSKILL_TXT_150576,"When fully charged, target will be slept.","When fully charged, target will be slept."
-PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.","A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire."
-PROPSKILL_TXT_150578,The hymn's effects are increased.,The hymn's effects are increased.
-PROPSKILL_TXT_150579,Healing is increased.,Healing is increased.
-PROPSKILL_TXT_150580,The skill also heals MP and FP on allies.,The skill also heals MP and FP on allies.
-PROPSKILL_TXT_150581,Grants stun immunity for the duration of the buff.,Grants stun immunity for the duration of the buff.
-PROPSKILL_TXT_150582,Grants resistance to damage over time effects during the duration of the buff.,Grants resistance to damage over time effects during the duration of the buff.
-PROPSKILL_TXT_150583,Leaves a healing area behind.,Leaves a healing area behind.
-PROPSKILL_TXT_150584,Consume more of your health to grant more shields to allies.,Consume more of your health to grant more shields to allies.
-PROPSKILL_TXT_150585,Hurricane,Hurricane
-PROPSKILL_TXT_150586,The skill's maximum targets is increased.,The skill's maximum targets is increased.
-PROPSKILL_TXT_150587,Critical Resistance,Critical Resistance
-PROPSKILL_TXT_150588,Increases critical resistance.,Increases critical resistance.
-PROPSKILL_TXT_150589,Speed Reduction,Speed Reduction
-PROPSKILL_TXT_150590,Target's movement speed is reduced.,Target's movement speed is reduced.
-PROPSKILL_TXT_150591,Skill scaling is improved.,Skill scaling is improved.
-PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,Maximum number of stacks is increased to 8 at maximum level.
-PROPSKILL_TXT_150593,Death's Rush,Death's Rush
-PROPSKILL_TXT_150594,The God of Death gazes upon you.,The God of Death gazes upon you.
-PROPSKILL_TXT_150595,Infusion,Infusion
-PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element."
-PROPSKILL_TXT_150597,Intelligent Scaling,Intelligent Scaling
-PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.","Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels."
-PROPSKILL_TXT_150599,Reduced Penalty,Reduced Penalty
-PROPSKILL_TXT_150600,Attack penalty is reduced.,Attack penalty is reduced.
-PROPSKILL_TXT_150601,Reduced Duration,Reduced Duration
-PROPSKILL_TXT_150602,Skill duration is reduced.,Skill duration is reduced.
-PROPSKILL_TXT_150603,Improved Scaling,Improved Scaling
-PROPSKILL_TXT_150604,"Skill damage scaling is improved, but cooldown is increased.","Skill damage scaling is improved, but cooldown is increased."
-PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.","Base damage is increased, but scaling is reduced."
-PROPSKILL_TXT_150606,Increased Lifesteal,Increased Lifesteal
-PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%.,Health stolen in enhanced effect is increased by 10%.
-PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Chance to gain an extra Stigma stack.
-PROPSKILL_TXT_150609,Nen Release,Nen Release
-PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,Remove all your Nen stacks at a cost of power.
-PROPSKILL_TXT_150611,Divinecross,Divinecross
-PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.","Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again."
-PROPSKILL_TXT_150613,Increased Multiplier,Increased Multiplier
-PROPSKILL_TXT_150614,Reduced PvP Cooldown,Reduced PvP Cooldown
-PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,Cooldown is reduced in PvP.
-PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,Up to 100% of the recorded hit is replicated.
-PROPSKILL_TXT_150617,First Player Level 190 Buff,First Player Level 190 Buff
-PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,Enjoy Exp+15% until level 164!
-PROPSKILL_TXT_150619,Stun duration is increased.,Stun duration is increased.
-PROPSKILL_TXT_150620,Increases the target's damage.,Increases the target's damage.
-PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,Strikes the enemy and drains HP based on the damage dealt.
-PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.
-PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.","Curses the enemy, immobilizing them with dark magic."
-PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,Deals damage over time to enemies within the area.
+PROPSKILL_TXT_150304,Knuckle Power,Poder de nudillos
+PROPSKILL_TXT_150305,Bubble's Blessing,Bendición de Bubble
+PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,Lanza un aura que aumenta el daño crítico y el ataque de los aliados. Puede relanzarse para cancelar el efecto.
+PROPSKILL_TXT_150309,Range Extension,Extensión de alcance
+PROPSKILL_TXT_150310,Touch of Rhisis,Toque de Rhisis
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Lanza un aura que aumenta la defensa y el bloqueo de los aliados cercanos. No puede usarse junto con otras auras al mismo tiempo. Puede relanzarse para cancelar.
+PROPSKILL_TXT_150315,Ire of Iblis,Ira de Iblis
+PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Lanza un aura que aumenta la resistencia crítica de los aliados. Puede relanzarse para cancelar.
+PROPSKILL_TXT_150320,Meditate,Meditar
+PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Entra en un estado de meditación que reduce el daño recibido, acorta el tiempo de recuperación natural de HP y aumenta los efectos de curación. Puede relanzarse para cancelar."
+PROPSKILL_TXT_150322,Deep Meditation,Meditación profunda
+PROPSKILL_TXT_150323,Adamantine Body,Cuerpo adamantino
+PROPSKILL_TXT_150324,Nen Mastery,Maestría de Nen
+PROPSKILL_TXT_150325,Nen Storage,Almacenamiento de Nen
+PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,Las habilidades que consumen Nen pueden usar solo la mitad de las acumulaciones requeridas.
+PROPSKILL_TXT_150327,Mental Unity,Unidad mental
+PROPSKILL_TXT_150328,Reduces the maximum MP penalty from Nen stacks.,Reduce la penalización máxima de MP por acumulaciones de Nen.
+PROPSKILL_TXT_150329,Clear Reflection,Reflexión clara
+PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level.","Cuando la carga de Nen alcanza 20, tus golpes críticos serán más efectivos, infligiendo siempre el daño máximo al nivel máximo."
+PROPSKILL_TXT_150331,Tenacity,Tenacidad
+PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,Los efectos negativos aplicados sobre ti duran menos tiempo.
+PROPSKILL_TXT_150333,Marked Attack,Ataque marcado
+PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Los ataques normales dejan una marca. Golpear al mismo enemigo 5 veces inflige daño adicional y otorga 1 acumulación de Nen.
+PROPSKILL_TXT_150335,Nen Acquisition,Adquisición de Nen
+PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,Aumenta la probabilidad de obtener una acumulación adicional de Nen al usar Concentración.
+PROPSKILL_TXT_150337,Toxic Assault,Asalto tóxico
+PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,Realiza un combo de múltiples golpes sobre el objetivo. Cada golpe tiene probabilidad de envenenar.
+PROPSKILL_TXT_150339,Increased Chance,Probabilidad aumentada
+PROPSKILL_TXT_150341,Increased Toxins,Toxinas aumentadas
+PROPSKILL_TXT_150342,Toxic Fury,Furia tóxica
+PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,Te envenena a ti mismo para aumentar tu poder a costa de la defensa.
+PROPSKILL_TXT_150345,Maintain Addiction,Mantener adicción
+PROPSKILL_TXT_150346,No Pain No Gain,Sin dolor no hay ganancia
+PROPSKILL_TXT_150347,Toxic Analogy,Analogía tóxica
+PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,Reduce el daño recibido de enemigos envenenados.
+PROPSKILL_TXT_150349,Master of Toxins,Maestro de toxinas
+PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,Aumenta tu daño contra enemigos envenenados.
+PROPSKILL_TXT_150351,Risk Management,Gestión de riesgo
+PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,Volverte invisible tiene probabilidad de eliminar tu propio veneno.
+PROPSKILL_TXT_150353,Dual Ego,Ego Dual
+PROPSKILL_TXT_150354,CC Attack,Ataque de control de masas
+PROPSKILL_TXT_150355,Far Shot,Disparo lejano
+PROPSKILL_TXT_150356,Party Buff,Mejora de grupo
+PROPSKILL_TXT_150357,Slowing,Ralentización
+PROPSKILL_TXT_150358,Incinerate,Incinerar
+PROPSKILL_TXT_150359,Increased Elemental,Aumento elemental
+PROPSKILL_TXT_150360,Additional Burn Damage,Daño de quemadura adicional
+PROPSKILL_TXT_150362,Ignite,Ignición
+PROPSKILL_TXT_150363,Increased Spread Damage,Aumento de daño por propagación
+PROPSKILL_TXT_150364,Hellfire,Fuego infernal
+PROPSKILL_TXT_150367,Wind Counter,Contra de viento
+PROPSKILL_TXT_150368,Blaze Eater,Devorador de fuego
+PROPSKILL_TXT_150369,Ice Shard,Fragmento de hielo
+PROPSKILL_TXT_150370,Tidal Omen,Presagio de marea
+PROPSKILL_TXT_150371,Increased Recovery,Recuperación aumentada
+PROPSKILL_TXT_150373,Fire Counter,Contra de fuego
+PROPSKILL_TXT_150374,Aqua Veil,Velo acuático
+PROPSKILL_TXT_150375,Gale,Vendaval
+PROPSKILL_TXT_150376,Increased Suffocate Chance,Aumento de probabilidad de asfixia
+PROPSKILL_TXT_150377,Earth Counter,Contra de tierra
+PROPSKILL_TXT_150378,Stormveil Cloak,Manto Tormentavelada
+PROPSKILL_TXT_150379,EVA Storm,Tormenta evasiva
+PROPSKILL_TXT_150380,Increased Shock Chance,Aumento de probabilidad de choque
+PROPSKILL_TXT_150381,Thunder Strike,Golpe de Rayo
+PROPSKILL_TXT_150382,Water Counter,Contra de agua
+PROPSKILL_TXT_150383,Voltguard,de voltios
+PROPSKILL_TXT_150384,Stone Pillar,Pilar de piedra
+PROPSKILL_TXT_150385,Increased Explosion Range,Aumento de rango de explosión
+PROPSKILL_TXT_150386,Swampy Area,Área pantanosa
+PROPSKILL_TXT_150387,Electric Counter,Contra eléctrica
+PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.","Incinera a tu objetivo, infligiendo daño y quemándolo. Si se usa sobre un objetivo en llamas, recibe daño adicional. Los enemigos en llamas también dañan a los cercanos, pero no los incendian."
+PROPSKILL_TXT_150389,Suffocation,Asfixia
+PROPSKILL_TXT_150390,Sleeping,Dormido
+PROPSKILL_TXT_150391,Paralyzed,Paralizado
+PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","Estás dormido y despertarás al recibir daño."
+PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","Estás paralizado, el daño físico aumenta y el daño mágico disminuye."
+PROPSKILL_TXT_150394,Shocked,Electrocutado
+PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,Estás electrocutado y recibes daño eléctrico adicional.
+PROPSKILL_TXT_150396,Raging Storm,Tormenta furiosa
+PROPSKILL_TXT_150397,Zephyr's Grace,Gracia de Zephyr
+PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,Obtienes escudos al usar Vendaval o Ráfaga.
+PROPSKILL_TXT_150399,Gust,Ráfaga
+PROPSKILL_TXT_150400,The skill's range increases.,El alcance de la habilidad aumenta.
+PROPSKILL_TXT_150401,Skill cooldown is reduced.,El tiempo de reutilización de la habilidad se reduce.
+PROPSKILL_TXT_150402,Skill damage increases proportionally to the shield's defense.,El daño de la habilidad aumenta proporcionalmente a la defensa del escudo.
+PROPSKILL_TXT_150403,Has a chance to stun enemies.,Tiene probabilidad de aturdir a los enemigos.
+PROPSKILL_TXT_150404,Movement speed is reduced.,La velocidad de movimiento se reduce.
+PROPSKILL_TXT_150405,"After charging, a barrier proportional to max HP is generated.","Tras cargar, se genera una barrera proporcional al HP máximo."
+PROPSKILL_TXT_150406,Bind the pulled target.,Inmoviliza al objetivo atraído.
+PROPSKILL_TXT_150407,Skill cooldown is reduced.,El tiempo de reutilización de la habilidad se reduce.
+PROPSKILL_TXT_150408,Multiple enemies surrounding the selected target can also be pulled.,También se pueden atraer múltiples enemigos alrededor del objetivo seleccionado.
+PROPSKILL_TXT_150409,The chance to stun increases.,Aumenta la probabilidad de aturdir.
+PROPSKILL_TXT_150410,Applies a defensive penalty to the target.,Aplica una penalización de defensa al objetivo.
+PROPSKILL_TXT_150412,The leap distance increases.,Aumenta la distancia del salto.
+PROPSKILL_TXT_150413,You can push enemies further away from the landing point.,Puedes empujar a los enemigos más lejos del punto de aterrizaje.
+PROPSKILL_TXT_150414,Distance you can push enemies increases.,Aumenta la distancia a la que puedes empujar enemigos.
+PROPSKILL_TXT_150415,Can move at a very slow speed when the skill is used.,Puedes moverte a una velocidad muy lenta mientras la habilidad está activa.
+PROPSKILL_TXT_150416,Amount of HP consumed per second is reduced.,Se reduce la cantidad de HP consumido por segundo.
+PROPSKILL_TXT_150417,Incoming damage is greatly reduced instead of reflected.,El daño recibido se reduce considerablemente en lugar de reflejarse.
+PROPSKILL_TXT_150418,Duration of the clone increases.,Aumenta la duración del clon.
+PROPSKILL_TXT_150419,An additional clone is spawned.,Se genera un clon adicional.
+PROPSKILL_TXT_150420,"Auto Attack damage increases, but yo-yo range decreases.","El daño de ataque automático aumenta, pero el alcance del yo-yo disminuye."
+PROPSKILL_TXT_150421,"Yo-Yo range increases, but auto attack damage decreases.","El alcance del yo-yo aumenta, pero el daño de ataque automático disminuye."
+PROPSKILL_TXT_150422,"Multistrike chance increases, but Yo-Yo range decreases.","Aumenta la probabilidad de multigolpe, pero el alcance del yo-yo disminuye."
+PROPSKILL_TXT_150423,Skill duration is increased.,La duración de la habilidad aumenta.
+PROPSKILL_TXT_150424,Increase the trade-off of stats.,Aumenta la compensación de estadísticas.
+PROPSKILL_TXT_150425,Defense debuff effect from skill usage is reduced.,Se reduce el efecto de reducción de defensa por usar la habilidad.
+PROPSKILL_TXT_150426,"Defense reduction rate is fixed at 60%, but enhances the skill effect.","La reducción de defensa se fija en 60%, pero mejora el efecto de la habilidad."
+PROPSKILL_TXT_150427,The chance to inflict poison status increases with each hit.,La probabilidad de aplicar veneno aumenta con cada golpe.
+PROPSKILL_TXT_150428,"Skill cooldown increases, but the effect of poison increases.","El tiempo de reutilización aumenta, pero el efecto del veneno mejora."
+PROPSKILL_TXT_150429,Skill range is increased.,El alcance de la habilidad aumenta.
+PROPSKILL_TXT_150430,"In addition to poison damage, the cloud may blind targets, reducing their hit rate.","Además del daño por veneno, la nube puede cegar a los objetivos, reduciendo su precisión."
+PROPSKILL_TXT_150431,"If used while invisible, subsequent normal attacks will always be critical hits, and the skill's cooldown will be reduced.","Si se usa estando invisible, los siguientes ataques normales serán siempre críticos y el tiempo de reutilización se reducirá."
+PROPSKILL_TXT_150433,Chance to stun when used while invisible.,Probabilidad de aturdir al usarse estando invisible.
+PROPSKILL_TXT_150434,"Charge time doubles, but attack increases.","El tiempo de carga se duplica, pero el ataque aumenta."
+PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreases.","Las acumulaciones máximas de carga se reducen a 2, pero el daño disminuye."
+PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,Los golpes tienen probabilidad de inmovilizar enemigos.
+PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,La probabilidad de aplicar veneno aumenta por golpe.
+PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.","La duración del ataque en cadena aumenta, pero el número de ataques pasa de 3 a 8. El tiempo de reutilización aumenta."
+PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,Inflige daño adicional a objetivos dentro de 3 m.
+PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,Inflige daño adicional a objetivos a más de 5 m.
+PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.","La mejora se aplica a los miembros del grupo dentro del alcance, excluyéndote."
+PROPSKILL_TXT_150443,The chance to fire double arrows increases.,Aumenta la probabilidad de disparar flechas dobles.
+PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,Aumenta la distancia de retroceso del objetivo.
+PROPSKILL_TXT_150446,Pushes back enemies within the area along with the target.,Empuja a los enemigos dentro del área junto con el objetivo.
+PROPSKILL_TXT_150447,Increases the distance of the backward jump.,Aumenta la distancia del salto hacia atrás.
+PROPSKILL_TXT_150448,Reduces the target's movement speed.,Reduce la velocidad de movimiento del objetivo.
+PROPSKILL_TXT_150449,The movement speed of all enemies hit by the skill is reduced.,Reduce la velocidad de movimiento de todos los enemigos alcanzados por la habilidad.
+PROPSKILL_TXT_150450,Maximum number of traps you can place increases.,Aumenta el número máximo de trampas que puedes colocar.
+PROPSKILL_TXT_150451,Range of the trap increases.,Aumenta el alcance de la trampa.
+PROPSKILL_TXT_150453,Chance of getting status effects increases.,Aumenta la probabilidad de aplicar efectos de estado.
+PROPSKILL_TXT_150455,Skill's damage range increases.,Aumenta el rango de daño de la habilidad.
+PROPSKILL_TXT_150456,Enemy's defense is reduced when caught in the trap.,Reduce la defensa del enemigo al caer en la trampa.
+PROPSKILL_TXT_150457,The activation range of the trap increases.,Aumenta el rango de activación de la trampa.
+PROPSKILL_TXT_150459,The activation range of the trap increases.,Aumenta el rango de activación de la trampa.
+PROPSKILL_TXT_150460,Physical damage increases per Nen stack.,El daño físico aumenta por cada acumulación de Nen.
+PROPSKILL_TXT_150461,Magic damage increases per Nen stack.,El daño mágico aumenta por cada acumulación de Nen.
+PROPSKILL_TXT_150462,The effect of Aura skills increases per Nen stack.,El efecto de las habilidades de aura aumenta por cada acumulación de Nen.
+PROPSKILL_TXT_150463,Skill damage is increased.,El daño de la habilidad aumenta.
+PROPSKILL_TXT_150464,10 Nen stacks up even when this skill used.,Obtienes 10 acumulaciones de Nen incluso al usar esta habilidad.
+PROPSKILL_TXT_150465,Has a chance to grant additional Nen stacks.,Tiene probabilidad de otorgar acumulaciones adicionales de Nen.
+PROPSKILL_TXT_150466,Damage is increased.,El daño aumenta.
+PROPSKILL_TXT_150467,Gain 1 additional Nen with certain chance when the skill hits.,Obtienes 1 acumulación adicional de Nen con cierta probabilidad al golpear.
+PROPSKILL_TXT_150468,"When cast as an enhanced attack, reduces the target's attack and defense additionally.","Al lanzarse como ataque mejorado, reduce adicionalmente el ataque y la defensa del objetivo."
+PROPSKILL_TXT_150469,Chance to knock down the target increases.,Aumenta la probabilidad de derribar al objetivo.
+PROPSKILL_TXT_150470,Nen Enhanced strikes will also reduce movement speed.,Los golpes mejorados con Nen también reducen la velocidad de movimiento.
+PROPSKILL_TXT_150471,Consumes additional Nen to attempt an extra attack.,Consume Nen adicional para intentar un ataque extra.
+PROPSKILL_TXT_150472,Using the skill may not consume Nen.,Usar la habilidad puede no consumir Nen.
+PROPSKILL_TXT_150473,"Casting time is reduced, but skill damage is decreased.","El tiempo de lanzamiento se reduce, pero el daño de la habilidad disminuye."
+PROPSKILL_TXT_150474,Movement speed penalty is reduced.,Se reduce la penalización de velocidad de movimiento.
+PROPSKILL_TXT_150477,"While grabbing an enemy, the damage you take is reduced.","Mientras sujetas a un enemigo, el daño recibido se reduce."
+PROPSKILL_TXT_150478,You can grab all enemies within range with a chance.,Puedes agarrar a todos los enemigos dentro del alcance con cierta probabilidad.
+PROPSKILL_TXT_150479,Movement speed and critical chance increases further when using the skill.,La velocidad de movimiento y la probabilidad crítica aumentan aún más al usar la habilidad.
+PROPSKILL_TXT_150480,Critical damage increases when using skill.,El daño crítico aumenta al usar la habilidad.
+PROPSKILL_TXT_150481,Knuckle damage increases further when using skill.,El daño con nudillos aumenta aún más al usar la habilidad.
+PROPSKILL_TXT_150482,Damage reduction rate increases while meditating.,La reducción de daño aumenta mientras meditas.
+PROPSKILL_TXT_150483,You can move slowly while using the skill.,Puedes moverte lentamente mientras usas la habilidad.
+PROPSKILL_TXT_150484,Attack all enemies on the path and give additional bleed damage.,Ataca a todos los enemigos en la trayectoria e inflige daño de sangrado adicional.
+PROPSKILL_TXT_150485,Stuns the target on impact.,Aturde al objetivo al impactar.
+PROPSKILL_TXT_150486,Attack range increases but rush distance decreases.,El alcance del ataque aumenta pero la distancia de carga disminuye.
+PROPSKILL_TXT_150487,Explosion range increases.,El rango de explosión aumenta.
+PROPSKILL_TXT_150488,Increase damage with additional HP cost.,Aumenta el daño con un costo adicional de HP.
+PROPSKILL_TXT_150489,Knock back the enemy hit by the explosion.,Empuja al enemigo golpeado por la explosión.
+PROPSKILL_TXT_150490,Damage increases.,El daño aumenta.
+PROPSKILL_TXT_150491,Give additional bleeding damage to all enemies hit by the skill.,Aplica daño de sangrado adicional a todos los enemigos alcanzados por la habilidad.
+PROPSKILL_TXT_150492,Create one more whirlwind.,Crea un torbellino adicional.
+PROPSKILL_TXT_150493,Reduce enemy's element resistance.,Reduce la resistencia elemental del enemigo.
+PROPSKILL_TXT_150494,"Whirlwind moves forward, lifting enemies into the air.","El torbellino avanza, levantando a los enemigos en el aire."
+PROPSKILL_TXT_150495,Successful follow-up hits increased damage is increased further.,El daño de los golpes consecutivos exitosos aumenta aún más.
+PROPSKILL_TXT_150496,Increases the chance to knock down enemies.,Aumenta la probabilidad de derribar enemigos.
+PROPSKILL_TXT_150497,Successful follow up hit reduces the target's movement speed.,Los golpes consecutivos exitosos reducen la velocidad de movimiento del objetivo.
+PROPSKILL_TXT_150498,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Lanza un aura que reduce en gran medida la velocidad de movimiento del lanzador mientras aumenta la velocidad de movimiento, el daño crítico y el ataque de los aliados. No puede usarse junto con otras auras al mismo tiempo."
+PROPSKILL_TXT_150499,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Lanza un aura que reduce en gran medida la velocidad de movimiento del lanzador mientras aumenta la velocidad de movimiento, el daño crítico y el ataque de los aliados. No puede usarse junto con otras auras al mismo tiempo."
+PROPSKILL_TXT_150500,Casts an aura that reduces movement speed but increases allies’ defense and block rate.,Lanza un aura que reduce la velocidad de movimiento pero aumenta la defensa y el bloqueo de los aliados.
+PROPSKILL_TXT_150501,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.,Lanza un aura que reduce la velocidad de movimiento del lanzador mientras aumenta el ataque mágico y el daño crítico de los aliados.
+PROPSKILL_TXT_150502,"Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time.","Lanza un aura que reduce en gran medida la velocidad de movimiento pero aumenta la reducción de daño, la resistencia crítica y la resistencia elemental de los aliados. No puede usarse junto con otras auras al mismo tiempo."
+PROPSKILL_TXT_150503,Casts an aura that greatly reduces movement speed but increases allies’ damage reduction and critical resistance. Cannot be used with other auras at the same time.,Lanza un aura que reduce en gran medida la velocidad de movimiento pero aumenta la reducción de daño y la resistencia crítica de los aliados. No puede usarse junto con otras auras al mismo tiempo.
+PROPSKILL_TXT_150504,Sacrifice,Sacrificio
+PROPSKILL_TXT_150505,"Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%.","Consume HP para otorgar un escudo a los miembros del grupo proporcional a tu HP. Si se usa mientras un himno está activo, la cantidad del escudo aumenta hasta un 15%."
+PROPSKILL_TXT_150506,Meaning of Sacrifice,Significado del sacrificio
+PROPSKILL_TXT_150507,Greater sacrifice for greater shields.,Mayor sacrificio para escudos más fuertes.
+PROPSKILL_TXT_150508,Sacrifice of Sharing,Sacrificio compartido
+PROPSKILL_TXT_150509,Gain shields yourself as well.,También obtienes escudos.
+PROPSKILL_TXT_150510,Increased MP/FP Recovery,Recuperación aumentada de MP/FP
+PROPSKILL_TXT_150511,Hammer of Judgement,Martillo del juicio
+PROPSKILL_TXT_150512,"Summon a hammer from the skies, leaving a damaging area behind.","Invoca un martillo desde los cielos, dejando un área dañina."
+PROPSKILL_TXT_150513,Justice Hammer,Martillo de justicia
+PROPSKILL_TXT_150514,Sanctuary Area,Área de santuario
+PROPSKILL_TXT_150515,Entangling Roots,Raíces enredadoras
+PROPSKILL_TXT_150516,Grasping Roots,Raíces apresadoras
+PROPSKILL_TXT_150517,Stranglethorns,Espinas estranguladoras
+PROPSKILL_TXT_150518,Nature's Grasp,Agarre de la naturaleza
+PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.","Dispara una raíz frente a ti, inmovilizando al primer enemigo alcanzado. Si el enemigo afectado está bajo Pilar de piedra o Área pantanosa, queda petrificado, aumentando el daño mágico que recibe y reduciendo el daño físico recibido, además de aturdirlo."
+PROPSKILL_TXT_150520,Stigma I,Estigma I
+PROPSKILL_TXT_150521,Increased Stigma,Estigma aumentado
+PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.","Ataque perforante veloz contra un solo objetivo en línea recta. Aplica una acumulación de Estigma. Si se usa sobre un objetivo con 5 acumulaciones de Estigma, el ataque perforará a todos los enemigos."
+PROPSKILL_TXT_150523,Stigma II,Estigma II
+PROPSKILL_TXT_150524,Increased Targets,Objetivos aumentados
+PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.","Lanza una cadena de cuchillas hacia tu objetivo que se adhieren a él, giran y atacan a los enemigos a su alrededor, luego saltan a otro objetivo cercano. Tiene probabilidad de aplicar una acumulación de Estigma. Si se usa sobre un objetivo con 5 acumulaciones, robará HP con los golpes."
+PROPSKILL_TXT_150526,Stigma III,Stigma III,Estigma III
+PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.","Golpea al objetivo con ambas armas, infligiendo daño en el área. Aplica una acumulación de Estigma. Si se usa sobre un objetivo con 5 acumulaciones, quedará silenciado."
+PROPSKILL_TXT_150528,Petrify,Petrificación
+PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.","Estás inmovilizado; el daño físico recibido se reduce y el daño mágico recibido aumenta."
+PROPSKILL_TXT_150530,Earthen Fortitude,Fortaleza terrenal
+PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,Petrificar a un enemigo con Raíces enredadoras te otorga bonificaciones.
+PROPSKILL_TXT_150532,Stigma,Estigma
+PROPSKILL_TXT_150533,Reduced Penalty,Penalización reducida
+PROPSKILL_TXT_150534,Critical Chance penalty is reduced.,La penalización de probabilidad crítica se reduce.
+PROPSKILL_TXT_150535,Full Charge Time Decrease,Reducción del tiempo de carga completa
+PROPSKILL_TXT_150536,Your movement speed is also increased.,Tu velocidad de movimiento también aumenta.
+PROPSKILL_TXT_150537,Enemies hit by the aura have a chance to bleed.,Los enemigos alcanzados por el aura tienen probabilidad de sangrar.
+PROPSKILL_TXT_150538,Extra damage when used on a burning target is increased.,El daño adicional al usarse sobre un objetivo en llamas aumenta.
+PROPSKILL_TXT_150539,"Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them.","Enciende a tu objetivo, infligiendo daño y quemándolo. Si se usa sobre un objetivo en llamas, el daño se reduce pero el objetivo queda aturdido. Los enemigos en llamas también dañan a los cercanos, pero no los incendian."
+PROPSKILL_TXT_150540,Damage reduction when used on a burning target is reduced.,Se reduce la penalización de daño al usarla sobre un objetivo en llamas.
+PROPSKILL_TXT_150541,"Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen.","Te encapsulas en hielo, volviéndote invulnerable e infligiendo daño a los enemigos cercanos. No puedes usar objetos ni habilidades mientras estás congelado."
+PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.","Encierra a tu objetivo en una burbuja de agua, robándole vida."
+PROPSKILL_TXT_150543,Stolen health is increased.,La vida robada aumenta.
+PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.","Invoca un vendaval a tu alrededor, aumentando tu velocidad de movimiento y dañando a los enemigos cercanos. Mientras está activo, los golpes tienen probabilidad de aplicar acumulaciones de asfixia. Si un objetivo alcanza 5 acumulaciones, queda aturdido, dormido o paralizado aleatoriamente."
+PROPSKILL_TXT_150545,Suffocate stack chance is increased.,Aumenta la probabilidad de acumulaciones de asfixia.
+PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.","Estás asfixiándote. Al alcanzar 5 acumulaciones, quedarás dormido, aturdido o paralizado aleatoriamente."
+PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.","Invoca una esfera de rayo hacia tu objetivo que encadena a enemigos cercanos. Tiene probabilidad de electrocutar. Si golpea a un objetivo electrocutado, siempre inflige daño máximo."
+PROPSKILL_TXT_150548,Shock chance is increased.,Aumenta la probabilidad de electrocutar.
+PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.","Invoca nubes de tormenta sobre un área, golpeando periódicamente a los enemigos cercanos con rayos. Los rayos siempre aplican electrocutado. Golpear a objetivos electrocutados inflige daño máximo."
+PROPSKILL_TXT_150550,Strike interval is shorter.,El intervalo de impacto es menor.
+PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Perturba el suelo, invocando un pilar de piedra que daña a los enemigos y reduce su velocidad de movimiento. Al finalizar su duración, explota, infligiendo daño adicional."
+PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Crea un pantano en el área seleccionada, ralentizando y dañando. Los enemigos dentro no pueden usar habilidades de movimiento."
+PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Genera una ráfaga de viento que empuja a los enemigos cercanos, refleja daño recibido y aumenta la probabilidad de bloquear ataques a distancia."
+PROPSKILL_TXT_150554,Roots will go through more enemies.,Las raíces atraviesan a más enemigos.
+PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Las raíces explotan al impactar, infligiendo daño. Las explosiones tienen probabilidad de derribar enemigos."
+PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Dispara raíces adicionales en un cono frente a ti.
+PROPSKILL_TXT_150557,Increases your fire mastery.,Aumenta tu maestría de fuego.
+PROPSKILL_TXT_150558,Increases your water mastery.,Aumenta tu maestría de agua.
+PROPSKILL_TXT_150559,Increases your earth mastery.,Aumenta tu maestría de tierra.
+PROPSKILL_TXT_150560,Increases your electric mastery.,Aumenta tu maestría eléctrica.
+PROPSKILL_TXT_150561,Increases your wind mastery.,Aumenta tu maestría de viento.
+PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,El daño recibido de enemigos en llamas se reduce.
+PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,El daño recibido de enemigos afectados por habilidades de agua se reduce.
+PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,El daño recibido de enemigos con acumulaciones de asfixia se reduce.
+PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,El daño recibido de enemigos electrocutados se reduce.
+PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","Cuando los enemigos son petrificados por Raíces enredadoras, el daño recibido se reduce y aumenta tu bloqueo cuerpo a cuerpo."
+PROPSKILL_TXT_150567,Probability is increased.,La probabilidad aumenta.
+PROPSKILL_TXT_150568,Slowing effect is increased.,El efecto de ralentización aumenta.
+PROPSKILL_TXT_150569,Silence chance is increased.,Aumenta la probabilidad de silencio.
+PROPSKILL_TXT_150570,Skill duration when fully charged is increased.,La duración de la habilidad completamente cargada aumenta.
+PROPSKILL_TXT_150571,Mutation chance when fully charged is 100%.,La probabilidad de mutación con carga completa es del 100%.
+PROPSKILL_TXT_150572,Charging time is decreased.,El tiempo de carga se reduce.
+PROPSKILL_TXT_150573,Damage against enemies with Disable type debuffs is increased.,El daño contra enemigos con desventajas de deshabilitación aumenta.
+PROPSKILL_TXT_150574,Damage against enemies with Weaken type debuffs is increased.,El daño contra enemigos con desventajas de debilitamiento aumenta.
+PROPSKILL_TXT_150575,Damage taken from enemies with debuffs is decreased.,El daño recibido de enemigos con desventajas se reduce.
+PROPSKILL_TXT_150576,"When fully charged, target will be slept.","Al estar completamente cargado, el objetivo quedará dormido."
+PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.","Una explosión de fuego infernal se dispara frente a ti, infligiendo daño periódico y quemando a los enemigos en línea."
+PROPSKILL_TXT_150578,The hymn's effects are increased.,Los efectos del himno aumentan.
+PROPSKILL_TXT_150579,Healing is increased.,La curación aumenta.
+PROPSKILL_TXT_150580,The skill also heals MP and FP on allies.,La habilidad también restaura MP y FP a los aliados.
+PROPSKILL_TXT_150581,Grants stun immunity for the duration of the buff.,Otorga inmunidad al aturdimiento durante la duración del efecto.
+PROPSKILL_TXT_150582,Grants resistance to damage over time effects during the duration of the buff.,Otorga resistencia a efectos de daño prolongado durante la duración del efecto.
+PROPSKILL_TXT_150583,Leaves a healing area behind.,Deja un área de curación.
+PROPSKILL_TXT_150584,Consume more of your health to grant more shields to allies.,Consume más HP para otorgar escudos más fuertes a los aliados.
+PROPSKILL_TXT_150585,Hurricane,Huracán
+PROPSKILL_TXT_150586,The skill's maximum targets is increased.,Aumenta el número máximo de objetivos de la habilidad.
+PROPSKILL_TXT_150587,Critical Resistance,Resistencia crítica
+PROPSKILL_TXT_150588,Increases critical resistance.,Aumenta la resistencia a golpes críticos.
+PROPSKILL_TXT_150589,Speed Reduction,Reducción de velocidad
+PROPSKILL_TXT_150590,Target's movement speed is reduced.,Reduce la velocidad de movimiento del objetivo.
+PROPSKILL_TXT_150591,Skill scaling is improved.,Mejora el escalado de la habilidad.
+PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,El número máximo de acumulaciones aumenta a 8 al nivel máximo.
+PROPSKILL_TXT_150593,Death's Rush,Embestida de la muerte
+PROPSKILL_TXT_150594,The God of Death gazes upon you.,El dios de la muerte posa su mirada sobre ti.
+PROPSKILL_TXT_150595,Infusion,Infusión
+PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Imbuye las habilidades elementales con el elemento aplicado de tu arma, sobrescribiendo el elemento de la habilidad."
+PROPSKILL_TXT_150597,Intelligent Scaling,Escalado inteligente
+PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.","La duración de la habilidad escala con INT en lugar de STA, con mayor duración, menor penalización y mejor eficiencia de lanzamiento al subir de nivel."
+PROPSKILL_TXT_150599,Reduced Penalty,Penalización reducida
+PROPSKILL_TXT_150600,Attack penalty is reduced.,Se reduce la penalización de ataque.
+PROPSKILL_TXT_150601,Reduced Duration,Duración reducida
+PROPSKILL_TXT_150602,Skill duration is reduced.,La duración de la habilidad se reduce.
+PROPSKILL_TXT_150603,Improved Scaling,Escalado mejorado
+PROPSKILL_TXT_150604,"Skill damage scaling is improved, but cooldown is increased.","Mejora el escalado del daño de la habilidad, pero aumenta el tiempo de reutilización."
+PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.","El daño base aumenta, pero el escalado se reduce."
+PROPSKILL_TXT_150606,Increased Lifesteal,Robo de vida aumentado
+PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%.,La vida robada en el efecto mejorado aumenta en un 10%.
+PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Probabilidad de obtener una acumulación adicional de Estigma.
+PROPSKILL_TXT_150609,Nen Release,Liberación de Nen
+PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,Elimina todas tus acumulaciones de Nen a cambio de poder.
+PROPSKILL_TXT_150611,Divinecross,Cruz divina
+PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.","Maldice a tu objetivo con poder divino, registrando el mayor golpe recibido y replicando hasta el 75% al expirar. Puede activarse de nuevo para finalizar antes."
+PROPSKILL_TXT_150613,Increased Multiplier,Multiplicador aumentado
+PROPSKILL_TXT_150614,Reduced PvP Cooldown,Reducción de enfriamiento en PvP
+PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,El tiempo de reutilización se reduce en PvP.
+PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,Se replica hasta el 100% del golpe registrado.
+PROPSKILL_TXT_150617,First Player Level 190 Buff,Mejora de primer jugador nivel 190
+PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,¡Disfruta de EXP +15% hasta nivel 164!
+PROPSKILL_TXT_150619,Stun duration is increased.,Aumenta la duración del aturdimiento.
+PROPSKILL_TXT_150620,Increases the target's damage.,Aumenta el daño del objetivo.
+PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,Golpea al enemigo y drena HP según el daño infligido.
+PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,Un ataque de viento a distancia que puede reducir la velocidad de ataque y de lanzamiento del enemigo.
+PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.","Maldice al enemigo, inmovilizándolo con magia oscura."
+PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,Inflige daño con el tiempo a los enemigos dentro del área.

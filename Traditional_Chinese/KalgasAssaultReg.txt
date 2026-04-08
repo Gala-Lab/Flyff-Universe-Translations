@@ -1,12 +1,12 @@
-﻿#cff0000ffRegistration#nc
-Kalgas Assault Match Time: Every %s %s ~ %s (Max. %d min)
-Minimum Level: %d
-Registration Time: Every %s %s ~ %s %s
-Entry Time: %s ~ %s
-Current Number of Registered Players: %d
+#cff0000ff報名資訊#nc
+Kalgas 突襲活動時間：每 %s %s ~ %s（最長 %d 分鐘）
+最低等級：%d
+報名時間：每 %s %s ~ %s %s
+入場時間：%s ~ %s
+目前報名玩家數：%d
 
-※ Only players who have registered for Kalgas Assault may participate.
-※ Entry is not possible after the entry time has ended.
-※ A maximum of 200 players can participate per instance (100 vs 100).
-※ Ranking rewards are granted only if 20 or more players participate. If fewer than 20 players participate, only the winner reward is granted.
-※ Teams are selected randomly.
+※ 只有已報名 Kalgas 突襲的玩家可參加。
+※ 入場時間結束後無法入場。
+※ 每場最多 200 名玩家可參加（100 對 100）。
+※ 只有 20 名或以上玩家參加時才會發放排名獎勵。若少於 20 名玩家參加，僅發放勝利者獎勵。
+※ 隊伍將隨機選取。

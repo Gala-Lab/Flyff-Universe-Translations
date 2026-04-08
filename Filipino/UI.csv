@@ -3190,93 +3190,93 @@ UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Magpahina)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Kawalan ng paggalaw)
 UI_ACTIVE_SKILLS,Active Skills,Aktibong Kasanayan
 UI_PASSIVE_SKILLS,Passive Skills,Mga Pasibong Kakayahan
-UI_MASTER_SKILLS,Master Variations,Master Variations
-UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,Boss Incoming Damage
-UI_TOOLTIP_DMG_TICK,Damage Tick,Damage Tick
-UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP Threshold: %d%%
-UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP Threshold: Below %d%%
-UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,Pitted Critical Damage
-UI_TOOLTIP_TRAP_RANGE,Trap Range,Trap Range
-UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,Damage Within 3M
-UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,Damage Further Than 5M
-UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
-UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nCurrent bonuses:
-UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,Auto Attack Stack Chance
-UI_TOOLTIP_YOYORANGE,Yo-Yo Range,Yo-Yo Range
+UI_MASTER_SKILLS,Master Variations,Mga Pangunahing Baryasyon
+UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,Parating na Damage ng Boss
+UI_TOOLTIP_DMG_TICK,Damage Tick,Pagkaltas ng Damage
+UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,Hangganan ng HP: %d%%
+UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,Hangganan ng HP: Baba sa %d%%
+UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,Pinalakas na Critical Damage
+UI_TOOLTIP_TRAP_RANGE,Trap Range,Saklaw ng Patibong
+UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,Damage sa loob ng 3M
+UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,Damage lampas 5M
+UI_DUNGEON_MODLEVEL,Lv.%d,Antas %d
+UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nMga kasalukuyang bonus:
+UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,Tsansa ng Auto Attack Stack
+UI_TOOLTIP_YOYORANGE,Yo-Yo Range,Saklaw ng Yo-Yo
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
-UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,HP Consumption Decrease
-UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,Recover HP on Bleeding Kill
-UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,Left Hand Damage
-UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,Damage Reduction by HP
-UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,3rd Job Cooldown Reduction
-UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,3rd Job Skill Damage
-UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,Hymn Cooldown Reduction
-UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,Hymn Damage Reduction
-UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,Hymn Walking Speed
-UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,Same Jewel Type Insertion
-UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?","The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?"
-UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Register ultimate jewel.
-UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.
-UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Tier %d Jewel
-UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,The jewel will be randomly converted to another jewel of the same tier. Continue?
-UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.","Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory."
+UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,Bawas sa Konsumo ng HP
+UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,Mag-recover ng HP kapag pumatay gamit ang Bleed
+UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,Damage ng Kaliwang Kamay
+UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,Bawas Damage base sa HP
+UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,Bawas Cooldown ng 3rd Job
+UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,Damage ng 3rd Job Skill
+UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,Bawas Cooldown ng Hymn
+UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,Bawas Damage ng Hymn
+UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,Bilis ng Lakad ng Hymn
+UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,Paglagay ng Parehong Uri ng Hiyas
+UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?","Nakalagay na ang parehong uri ng hiyas. Ang paglalagay ng isa pa ay may #cffff0000%d%%#nc na tsansa na magtagumpay. Kapag pumalya, masisira ang hiyas. Itutuloy?"
+UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Irehistro ang ultimate na hiyas.
+UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,Pwede mong i-convert ang ultimate na hiyas gamit ang Scroll of Jewel Conversion. Depende sa tier ng hiyas kung anong scroll ang kailangan.
+UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Hiyas Tier %d
+UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,Ang hiyas ay magiging random na ibang hiyas ng parehong tier. Itutuloy?
+UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.","Kapag nag-synthesize ka ng 3 hiyas ng parehong tier, kahit anong uri, sigurado kang makakakuha ng random na mas mataas na tier na hiyas. Magagamit ang mga hiyas sa proseso, at ang bagong hiyas ay mapupunta sa iyong imbentaryo."
 UI_JEWELSYNTHESIS_TIER,Tier %d,Tier %d
-UI_JEWELSYNTHESIS_SELECT,Batch Synthesis: Select Target Tier,Batch Synthesis: Select Target Tier
-UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Proceed with synthesis?,Jewels used as materials will be removed when synthesized. Proceed with synthesis?
-UI_JEWELSYNTHESIS_BATCH,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?
-UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
-UI_TOOLTIP_AXE,Axe,Axe
-UI_TOOLTIP_CHE,Stick,Stick
-UI_TOOLTIP_KNU,Knuckle,Knuckle
-UI_TOOLTIP_WAN,Wand,Wand
-UI_TOOLTIP_STA,Staff,Staff
+UI_JEWELSYNTHESIS_SELECT,Batch Synthesis: Select Target Tier,Batch Synthesis: Piliin ang Target na Tier
+UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Proceed with synthesis?,Mawawala ang mga hiyas na ginamit bilang materyales kapag na-synthesize. Itutuloy ang synthesis?
+UI_JEWELSYNTHESIS_BATCH,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?,Makakatanggap ka ng mga sumusunod mula sa batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Gastos sa Penya: %s#nc\nItutuloy ang batch jewel synthesis?
+UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Hiyas Tier %d: %d
+UI_TOOLTIP_SWD,Sword,Espada
+UI_TOOLTIP_AXE,Axe,Palakol
+UI_TOOLTIP_CHE,Stick,Baston
+UI_TOOLTIP_KNU,Knuckle,Panuntok
+UI_TOOLTIP_WAN,Wand,Kapangyarihan
+UI_TOOLTIP_STA,Staff,Staf
 UI_TOOLTIP_YOY,Yo-Yo,Yo-Yo
-UI_TOOLTIP_BOW,Bow,Bow
-UI_TOOLTIP_MAGICBOTH,Wand or Staff,Wand or Staff
-UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo or Bow
-UI_TOOLTIP_SWAXE,Sword or Axe,Sword or Axe
-UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,Weapon
-UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
-UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Additional Skill Page
-UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,Switch skill pages
-UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,Switch Skill Page
-UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,Additional Nen Chance
-UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Half Nen Consumption Chance
-UI_TOOLTIP_DST_STEALMP,MP Steal,MP Steal
-UI_TOOLTIP_DST_STEALFP,FP Steal,FP Steal
-UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
-UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
-UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
-UI_DUNGEONTIMERECAP_TITLE,Dungeon Result,Dungeon Result
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_TOOLTIP_BOW,Bow,Pana
+UI_TOOLTIP_MAGICBOTH,Wand or Staff,Kapangyarihan o Staf
+UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo o Pana
+UI_TOOLTIP_SWAXE,Sword or Axe,Espada o Palakol
+UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,Sandata
+UI_TOOLTIP_SKILLLOCK,Locks:,Mga Naka-lock:
+UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Karagdagang Skill Page
+UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,Palitan ang skill page
+UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,Palitan ang Skill Page
+UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,Karagdagang tsansa ng Nen
+UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Tsansa ng Kalahating Konsumo ng Nen
+UI_TOOLTIP_DST_STEALMP,MP Steal,Agaw MP
+UI_TOOLTIP_DST_STEALFP,FP Steal,Agaw FP
+UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stack: %d
+UI_OPTION_QUICKCAST,Quick Cast,Mabilis na Cast
+UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Epekto ng Forcemaster Aura
+UI_DUNGEONTIMERECAP_TITLE,Dungeon Result,Resulta ng Dungeon
+UI_DUNGEONTIMERECAP_TIME,Time:,Oras:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Sarado
-UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.
-UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.
-UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.
-UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage from Poisoned Enemies
-UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage against Poisoned Enemies
-UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance to Cleanse Toxins on Stealth
-UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Suffocate Stack Chance
-UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage from Burned Enemies
-UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage from Watered Enemies
-UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage from Suffocated Enemies
-UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
-UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
-UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
-UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
-UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
-UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,Monsters EXP Gain
-UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,Monsters EXP/Drop Gain
-UI_TOOLTIP_TENACITY,Tenacity,Tenacity
-UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
+UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.,Makakakuha ka ng Gold Tier kapag nakarating ka sa boss room sa loob ng %d minuto. Ang pinakamalakas na boss ay lalabas sa Gold Tier.
+UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.,Makakakuha ka ng Silver Tier kapag nakarating ka sa boss room sa pagitan ng %d at %d minuto. Mas malakas na bersyon ng normal na boss ang lalabas sa Silver Tier.
+UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.,Makakakuha ka ng Bronze Tier kapag nakarating ka sa boss room lampas %d minuto. Ang normal na boss ay lalabas sa Bronze Tier.
+UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage mula sa mga nalason na kalaban
+UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage laban sa mga nalason na kalaban
+UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Tsansa na matanggal ang lason kapag naka-Stealth
+UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Tsansa ng Suffocate Stack
+UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage mula sa mga sunog na kalaban
+UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage mula sa mga nabasa na kalaban
+UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage mula sa mga nasakal na kalaban
+UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage mula sa mga nakuryente na kalaban
+UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Pinakamataas na Health Shield
+UI_TOOLTIP_AA_DMG,Auto Attack Damage,Damage ng Auto Attack
+UI_LEVELCHANGE_NONE,No available jobs at this level,Walang available na trabaho sa antas na ito
+UI_SKILL_PAGE_SELECT,Select your skill page:,Pumili ng skill page:
+UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,EXP na nakuha mula sa mga halimaw
+UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,EXP/Drop na nakuha mula sa mga halimaw
+UI_TOOLTIP_TENACITY,Tenacity,Katibayan
+UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Pag-angat ng Kaluluwa
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
-UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,Same-Type Ultimate Jewel Insertion Chance
-UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
-UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
-UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
-UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Tagal ng Debuff
+UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,Tsansa ng Paglagay ng Parehong Uri ng Ultimate na Hiyas
+UI_NEWYEARPASS_2026,2026 New Year Pass,2026 Bagong Taon Pass
+UI_TOOLTIP_WARDROBE_YES,In your wardrobe,Nasa wardrobe mo
+UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Wala sa wardrobe mo
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Maabot ang pet EXP 99.99%
 UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 

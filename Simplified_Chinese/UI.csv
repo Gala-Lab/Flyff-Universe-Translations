@@ -224,11 +224,11 @@ UI_TOOLTIP_ATKPOWER,Increased Attack,攻击力
 UI_TOOLTIP_JUMPING,Jump Height,跳跃高度
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,远距离格挡
 UI_TOOLTIP_ALLSTAT,All Stats,全属性
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,增加HP
+UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,魔法攻击力
 UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,防御力
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,增加MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,增加FP
+UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,MP
+UI_TOOLTIP_DST_FP_RATE,Increased FP,FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,暴击率
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,属性攻击
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,精通: 土
@@ -394,7 +394,7 @@ UI_QUEST_GOLD2,Penya: %d~%d,金币： %d~%d
 UI_QUEST_GOLD3,Penya: ????,金币： ????
 UI_QUEST_EXP1,Experience Gained.,获得经验值
 UI_QUEST_EXP2,Experience: %.2f%%,经验：%.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,伴侣经验: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,情侣经验: %.2f%%
 UI_QUEST_SKILLPOINT,Skill Points,技能点数
 UI_QUEST_INVENTORYSLOT1,Inventory Space,背包空间
 UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,背包空间：%d
@@ -1096,12 +1096,12 @@ UI_KEYBIND_RESET,Reset,重置
 UI_UPGRADECARD_TITLE,Upgrade Suit Socket Cards,穿洞卡片升级
 UI_UPGRADECARD_REGISTER,Insert suit cards.,登记材料卡。
 UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,将10张材料卡片进行融合以获得1张更高级的卡片
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重铸
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重新随机
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,放入武器穿洞卡片作为材料。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,将3张武器穿洞卡片融合，可获得1张同品级的武器穿洞卡片。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,重铸将会消耗材料卡片，是否继续？
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,转换为角色绑定
-UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",该物品将变为灵魂绑定，无法再出售给 NPC。此操作可用于堆叠属性不同、原本无法叠加的同类物品。注意：灵魂绑定物品无法交易，且此操作不可撤销。
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",该物品将变为角色绑定，无法再出售给NPC。此操作可用于堆叠属性不同、原本无法叠加的同类物品。注意：角色绑定物品无法交易，且此操作不可撤销。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,此操作无法撤销。​\n是否继续？
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,该物品无法转换。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,此卷轴将永久增加您在公会中5个可拥有的成员数量上限。如果您加入另一个公会，则不会在新公会再次产生影响。确认要使用吗？
@@ -1169,8 +1169,8 @@ UI_TOOLTIP_RARITY,Rarity:,品质:
 UI_TOOLTIP_RARITY_NORMAL,Common,普通
 UI_TOOLTIP_RARITY_RARE,Uncommon,精良
 UI_TOOLTIP_RARITY_STRONG,Rare,稀有
-UI_TOOLTIP_RARITY_UNIQUE,Unique,史诗
-UI_TOOLTIP_RARITY_VERYRARE,Very Rare,传说
+UI_TOOLTIP_RARITY_UNIQUE,Unique,传说
+UI_TOOLTIP_RARITY_VERYRARE,Very Rare,非常稀有
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,终极
 UI_WORLD_CASTING,Casting,施法
 UI_WORLD_HARVESTING,Harvesting,采集
@@ -1237,7 +1237,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,弓箭射程
 UI_TOOLTIP_SKILLUP,Skill Damage,技能伤害
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,单体攻击技能
 UI_TOOLTIP_HEALUP,Healing,治疗
-UI_TOOLTIP_SKILLRANGE,Skill Range,技能射程
+UI_TOOLTIP_SKILLRANGE,Skill Range,技能距离
 UI_MAP_MENU,Menu,菜单
 UI_MAP_MENU_TIP,Hide/Show the menu,隐藏/显示菜单
 UI_TOOLTIP_RESTOREUP,HP Restoration,HP恢复
@@ -1396,10 +1396,10 @@ UI_CHANGECHAR_MSG,Select character and channel:,选择角色和频道：
 UI_CHARINFO_EXPRATE,EXP Rate,经验倍率
 UI_CHARINFO_EXPRATE_TIP,Your personal EXP rate. Does not include server and event rates.,这是你个人的经验倍率。不包括服务器和活动的倍率。
 UI_TOOLTIP_ITEM_BINDING,Binding,绑定
-UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,该材料会使目标物品被灵魂绑定。
+UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,该材料会使目标物品被角色绑定。
 UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000这一步将你的物品与角色绑定。 你可以使用解除卷轴来取消这一操作。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,这一物品现在与你的角色绑定。
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[灵魂绑定]
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[角色绑定]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,可以解绑。
 UI_BINDING_TITLE,Binding,绑定
 UI_BINDING_CONFIRM,Do you want to continue?,你想要继续吗？
@@ -1459,7 +1459,7 @@ UI_TOOLTIP_DURATION_VENDOR,Shop Time:,商店时间:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,可以装备在另一件披风上。
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,只有游戏管理人员才能登录。请使用公共客户端进行游玩。
 UI_CONVERTWEAP_WEAPON,Weapon,武器
-UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在窗口中放置一个普通武器以将其升级为一个史诗武器。
+UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在窗口中放置一个普通武器以将其升级为一个传说武器。
 UI_CONVERTWEAP_DICE,Shining Power Dice,闪亮精炼骰子
 UI_CONVERTWEAP_DICE_TIP,You need to use Shining Power Dice.,你需要使用一个闪亮精炼骰子。
 UI_CONVERTWEAP_GEM,Jewel,宝石
@@ -2350,15 +2350,15 @@ UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please ente
 UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
-UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
+UI_ROLL_AND_MOVE_START,START,开始
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,掷骰子
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
 UI_TRADE_LOG_PUT,Added,添加了
-UI_TRADE_LOG_PULL,Removed,Removed
+UI_TRADE_LOG_PULL,Removed,移除了
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,确认了交易。
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,接受了交易。
 UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
-UI_COUPON_TITLE,Coupon,优惠券
+UI_COUPON_TITLE,Coupon,兑换礼包
 UI_COUPON_ENTER,Please enter your coupon code.,请输入您的兑换码。
 UI_COUPON_CODE,Coupon Code,兑换码
 UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,兑换码格式示例如下：\n    AAAA-BBBB-CCCC-DDDD
@@ -2381,7 +2381,7 @@ UI_DELETEACCOUNT_NOPASS,Do you confirm?,你确定吗？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.",会员退订后，所有数据将被删除，您将无法继续使用本服务、恢复账号，也无法就任何剩余的付费项目或货币申请退款。
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,搜索个人及替身商店道具。
 UI_SEARCHSHOP_RARITY,Rarity,稀有度
-UI_SEARCHSHOP_UPGRADE,Upgrade:,升级：
+UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼：
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,包含关键词
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,精准关键词
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,商店距离
@@ -2512,14 +2512,14 @@ UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,制作终极珠宝
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,放入终极宝石材料。
 UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",集齐10枚珠宝碎片或1颗宝石，即可获得一级完整珠宝。
 UI_COUPLE_PROPOSAL,Couple Proposal,求婚
-UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s 正在向你求婚！接受对方的求婚请求并成为伴侣吗？
+UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s 正在向你求婚！接受对方的求婚请求并成为情侣吗？
 UI_COUPLE_RING_REPLACE,Ring Replacement,戒指替换
 UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,你的伴侣提议将戒指更换为如下戒指，是否接受？
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,您的伴侣必须处于在线状态。
-UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,分手回应截止时间： %s
-UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,解除关系通知时间： %s
-UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next 伴侣经验： %s
-UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),无被动经验（伴侣离线）
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,您的情侣必须处于在线状态。
+UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,分手回应截止时间：%s
+UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,解除关系通知时间：%s
+UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next 情侣经验：%s
+UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),无被动经验 (情侣离线)
 UI_COUPLE_BREAKUP,Break Up,分手
 UI_COUPLE_BREAKUP_FORCE,Break Up (F),分手 (女)
 UI_COUPLE_TELEPORT,Teleport,传送至对方位置
@@ -2529,18 +2529,18 @@ UI_COUPLE_FORM_DATE,Established On,缔结于
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,可用仓库栏位
 UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,最大每日传送次数
 UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,最大每日鼓励次数
-UI_COUPLE_MAX_POINTS,Maximum Couple Points,最大伴侣点数
-UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,伴侣任务完成数
-UI_COUPLE_SINGLE,You are single.,你现在是单身狗。
-UI_COUPLE_TABPARTNER,Partner,伴侣
+UI_COUPLE_MAX_POINTS,Maximum Couple Points,最大情侣点数
+UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,情侣任务完成数
+UI_COUPLE_SINGLE,You are single.,你现在单身。
+UI_COUPLE_TABPARTNER,Partner,伙伴
 UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?",若与伴侣解除关系，伴侣仓库中的所有物品将永久消失，且伴侣功能将不再可用。是否继续？
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?",强制分手将永久清空伴侣仓库中的所有物品，且伴侣功能将不再可用。是否继续？
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?",您的伴侣已提出分手。若您接受，伴侣仓库中的所有物品将永久消失，且您将无法再使用伴侣功能。是否接受？
 UI_COUPLE_PROPOSE,Propose,求婚
-UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,使用已放入的伴侣戒指发起伴侣求婚。
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,需要的伴侣等级： %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,需要的伴侣点数： %d
-UI_COUPLEBANK_TITLE,Couple Storage,伴侣仓库
+UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,使用已放入的情侣戒指发起求婚。
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,需要的情侣等级： %d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,需要的情侣点数： %d
+UI_COUPLEBANK_TITLE,Couple Storage,情侣仓库
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,黄宝石
 UI_ULTIMATE_JEWEL_RUBY,Ruby,红宝石
 UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,蓝宝石
@@ -2559,7 +2559,7 @@ UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume 
 UI_HOUSINGWARDROBE_USEDBY,Worn by %s,穿戴 NPC： %s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,卸下
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,卸下物品？
-UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,要从 NPC 身上卸下该物品吗？
+UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,要从NPC身上取下该物品吗？
 UI_HOUSINGSETUP_PETS,Pets,宠物
 UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在房屋仓库中，通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
 UI_PETTRAINING_PET,Pet to Train,训练宠物
@@ -2574,8 +2574,8 @@ UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在背包中通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
 UI_COUPLE_RING_TP,Teleports: %d,传送次数： %d
 UI_COUPLE_RING_CHEER,Cheers: %d,鼓励次数： %d
-UI_COUPLE_RING_SLOTS,Storage Slots: %d,伴侣仓库： %d
-UI_COUPLE_MOTION_TITLE,Couple Emotes,伴侣动作
+UI_COUPLE_RING_SLOTS,Storage Slots: %d,情侣仓库: %d
+UI_COUPLE_MOTION_TITLE,Couple Emotes,情侣动作
 UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,你的伴侣想与你一同做出 %s 动作。是否接受？
 UI_APP_LIFE_TIP,View and manage life skills.,查看并管理生活技能。
 UI_LIFE_GATHERING_TAB,Gathering,采集
@@ -2768,7 +2768,7 @@ UI_CHRISTMAS_INVANSION_MISSION,Quest completed,任务完成
 UI_TELEPORT_ARENA,Exit the arena?,退出竞技场吗？
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,收集 %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",采集资源 (草药、原木、矿石、浆果) #cffc32f07#b%d/%d#nb#nc
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,可用祝福次数已耗尽。
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,周排行榜
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,永久排行榜
@@ -2780,7 +2780,7 @@ UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
 UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
 UI_JAN2024_POINT_NAME,Spring Points,Spring Points
 UI_POINTS,%d Pts,%d Pts
-UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",采集资源 (草药、原木、矿石、浆果) #cffc32f07#b%d/%d#nb#nc
 UI_STANDBY,Standby,待机
 UI_DEAD,Dead,死亡
 UI_NOW_SPECTATING,Spectating %s,正在观战 %s
@@ -2799,12 +2799,12 @@ UI_MENU_UNMUTE,Unmute,解除禁言
 UI_MENU_FREEZE,Freeze,冻结
 UI_MENU_UNFREEZE,Unfreeze,解除冻结
 UI_MENU_PARTY,Party,剧团
-UI_MENU_GUILDJOIN,Guild Join,Guild Join
-UI_MENU_BAN,Ban,Ban
-UI_MENU_BAN_IP,Ban IP,Ban IP
-UI_MENU_KICK_IP,Kick IP,Kick IP
-UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
-UI_APP_INSPECTION,Inspection,Inspection
+UI_MENU_GUILDJOIN,Guild Join,加入公会
+UI_MENU_BAN,Ban,封禁
+UI_MENU_BAN_IP,Ban IP,封禁IP
+UI_MENU_KICK_IP,Kick IP,踢出IP
+UI_MENU_MUTE_SHA,Mute Sha,禁言Sha
+UI_APP_INSPECTION,Inspection,检查
 UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
 UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
 UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
@@ -3176,21 +3176,21 @@ UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Total FWC Coin Spent
 UI_OPTION_IMAGE_TITLE,Banner Titles,横幅称号
 UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,右手武器攻击力
 UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,左手武器攻击力
-UI_PARTS_SHIELD_DEF,Shield Defense,护盾防御
+UI_PARTS_SHIELD_DEF,Shield Defense,护盾防御力
 UI_SKILL_SYNERGY,Synergy,协同效应
 UI_SKILL_SYNERGY_PER,per level %d+,每级 +%d
-UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,后方暗影幻象伤害
+UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,潜行背击伤害
 UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,暴击标记几率
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),完成 #cffc32f07#b%d/%d#nb#nc 个每日任务
-UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,每个“禁用”减益效果提高的伤害
-UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,每个“虚弱”减益效果提高的伤害
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),每层减益减少所受伤害（最多8层）
-UI_TOOLTIP_DISABLE_DEBUFF,(Disable),（禁用）
-UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),（虚弱）
-UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),（定身）
+UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,每层控制类减益效果提升的伤害
+UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,每层虚弱减益效果提升的伤害
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),每层减益效果减少的所受伤害(最多8层)
+UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(控制)
+UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(虚弱)
+UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(定身)
 UI_ACTIVE_SKILLS,Active Skills,主动技能
 UI_PASSIVE_SKILLS,Passive Skills,被动技能
-UI_MASTER_SKILLS,Master Variations,大师变体
+UI_MASTER_SKILLS,Master Variations,精通变体
 UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领来袭伤害
 UI_TOOLTIP_DMG_TICK,Damage Tick,持续伤害间隔
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,生命值阈值：%d%%
@@ -3202,7 +3202,7 @@ UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,超过5米后的伤害​
 UI_DUNGEON_MODLEVEL,Lv.%d,等级： %d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n当前加成：
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,自动攻击叠层几率
-UI_TOOLTIP_YOYORANGE,Yo-Yo Range,有效范围
+UI_TOOLTIP_YOYORANGE,Yo-Yo Range,飞轮攻击距离
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
 UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,生命值消耗降低
 UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,流血击杀恢复生命值
