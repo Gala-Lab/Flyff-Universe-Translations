@@ -646,7 +646,7 @@ ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[死神] 
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[死神] 魔化安库屠杀者 2
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[死神] 魔化安库屠杀者 3
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[死神] 魔化安库屠杀者 4
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,打狗第一人
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[死神] 魔化安库毁灭者
 ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,击杀这些怪物以获得对它们的永久伤害加成。
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,闪耀之星
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,开心果
@@ -1026,11 +1026,11 @@ ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Master
 ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Reach level 160 in the 2024 Flyff World Championship.
 ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Emperor
 ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Complete all Gear Exchanges in the 2024 Flyff World Championship.
-ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,佳偶天成 1 次
+ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,情侣 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,摆脱单身
-ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,佳偶天成 10 次
+ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,情侣 10
 ACHIEVEMENT_COUPLE_FORM_02_TITLE,Experienced,有经验的
-ACHIEVEMENT_COUPLE_FORM_03_NAME,Couple 100,佳偶天成 100 次
+ACHIEVEMENT_COUPLE_FORM_03_NAME,Couple 100,情侣 100
 ACHIEVEMENT_COUPLE_FORM_03_TITLE,Casanova,情圣
 ACHIEVEMENT_COUPLE_FORM_DESC,Find a partner and form a couple.,寻觅伴侣，缔结良缘。
 ACHIEVEMENT_COUPLE_LEVEL_01_NAME,Couple Level 5,情侣等级5
@@ -1046,7 +1046,7 @@ ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,相守两百日
 ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,挚爱两百天
 ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,相守一载
 ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,情定一载
-ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,与伴侣保持情侣关系，连续满指定天数即可。
+ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,保持情侣关系，连续满指定天数即可。
 ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,情侣技能
 ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,1+1>2
 ACHIEVEMENT_COUPLE_SKILL_DESC,Use couple skills.,使用情侣技能。
@@ -1278,12 +1278,12 @@ ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
 ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
 ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,英雄 160 - 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,完成第四个英雄任务。
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,完成第四次英雄进阶任务。
 ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Update Playtime Event
 ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Log in each day for 40 minutes to receive rewards!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,前往艾尔伦
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Complete the main quests to earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,凯伦工人
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Complete the daily quests in Kaillun to earn rewards during the event!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Complete Kaillun Daily Quests 10 times.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Complete Kaillun Daily Quests 20 times.

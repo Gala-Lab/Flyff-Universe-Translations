@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,L’intervalle entre les frappes est réduit.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Perturbe le sol, invoquant un pilier de pierre qui blesse les ennemis et réduit leur vitesse. À la fin de sa durée, il explose, infligeant des dégâts supplémentaires aux ennemis proches."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Crée un marécage sur la zone ciblée, réduisant la vitesse et infligeant des dégâts. Les ennemis dans le marécage ne peuvent pas utiliser de compétences de déplacement."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Fait apparaître une rafale de vent qui repousse les ennemis proches, augmente la résistance magique et la chance de bloquer les attaques à distance."
+PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Invoque une rafale de vent qui repousse les ennemis proches, renvoie les dégâts subis et offre une chance de blocage à distance."
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Les racines traverseront plus d’ennemis.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Les racines explosent en touchant un ennemi, lui infligeant des dégâts. Les explosions peuvent renverser les ennemis."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Projette des racines supplémentaires en cône devant vous.
@@ -1099,7 +1099,7 @@ PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,Les 
 PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,Les dégâts subis des ennemis affectés par des compétences d’eau sont réduits.
 PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,Les dégâts subis des ennemis avec des piles d’Étouffement sont réduits.
 PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,Les dégâts subis des ennemis électrocutés sont réduits.
-PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","Lorsque les ennemis sont pétrifiés par Racines Enchevêtrantes, votre défense et votre taux de blocage au corps à corps sont augmentés."
+PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","Lorsque les ennemis sont pétrifiés par Racines enchevêtrantes, les dégâts que vous subissez sont réduits et votre taux de blocage au corps à corps est augmenté."
 PROPSKILL_TXT_150567,Probability is increased.,La probabilité est augmentée.
 PROPSKILL_TXT_150568,Slowing effect is increased.,L’effet de ralentissement est augmenté.
 PROPSKILL_TXT_150569,Silence chance is increased.,La chance de silence est augmentée.
@@ -1131,7 +1131,7 @@ PROPSKILL_TXT_150594,The God of Death gazes upon you.,Le Dieu de la Mort vous ob
 PROPSKILL_TXT_150595,Infusion,Infusion
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Infuse toutes les compétences élémentaires que vous utilisez avec l’élément appliqué par votre arme, remplaçant l’élément de la compétence."
 PROPSKILL_TXT_150597,Intelligent Scaling,Évolution Intelligente
-PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.",La compétence évolue avec l’INT au lieu de l'END.
+PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.","La durée des compétences est proportionnelle à l'INT et non à l'END, avec une durée accrue, une pénalité réduite et une efficacité d'incantation améliorée à mesure qu'elles gagnent des niveaux."
 PROPSKILL_TXT_150599,Reduced Penalty,Pénalité Réduite
 PROPSKILL_TXT_150600,Attack penalty is reduced.,La pénalité d’attaque est réduite.
 PROPSKILL_TXT_150601,Reduced Duration,Durée Réduite

@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 NPC_WHOAREYOU,Who are you?,Présentation
 NPC_GOODBYE,Goodbye!,Au revoir
 NPC_CARGO,CARGO,CARGO
@@ -72,10 +72,10 @@ NPC_000079,Hehehe! Alright I hope we can hang out together someday.,Hahaha.. ok.
 NPC_000080,I sell supplies to the weary adventurer. I've got everything you need!,Je vends de l'équipement aux aventuriers de passage.
 NPC_000081,You look like you have something to tell me...,As-tu quelque chose à me dire ?
 NPC_000082,My name is Yuna. I believe you will find my food and medicine reasonably priced.,Je m'appelle Yuna. J'espère que tu trouveras mes aliments et médicaments bon marché !
-NPC_000083,"Come one, come all! Visit Achaben's General Shop for your adventuring needs! *cough*",Bienvenue dans la boutique d'Achaben !
+NPC_000083,"Come one, come all! Visit Achaben's General Shop for your adventuring needs! *cough*",Venez tous ! Visitez la boutique générale d'Achaben pour tout ce dont vous avez besoin pour vos aventures ! *tousse*
 NPC_000084,May I help you?,Puis-je te renseigner ?
-NPC_000085,"*Cough* I am happy to have a *wheeez* customer! If you need it, we have it... *cough* *huck* You wouldn't happen to have some cough medicine, would you?","Ma boutique est très réputée. Si tu cherches quelque chose, il y a toutes les chances que tu trouves ton bonheur ici."
-NPC_000086,"*Ha-CHEW!* Sorry about that, allow me to clear my throat. *AHEM* My name is Achaben, and I run the General Shop here in Darken City. *cough*","Mon nom est Achaben, et je suis le gérant du bazar de Darken."
+NPC_000085,"*Cough* I am happy to have a *wheeez* customer! If you need it, we have it... *cough* *huck* You wouldn't happen to have some cough medicine, would you?","*Tousse* Je suis ravi d'avoir un nouveau client ! Si vous en avez besoin, nous l'avons... *tousse* *huck* Vous n'auriez pas du sirop contre la toux par hasard ?"
+NPC_000086,"*Ha-CHEW!* Sorry about that, allow me to clear my throat. *AHEM* My name is Achaben, and I run the General Shop here in Darken City. *cough*","*Ha-CHEW !* Excusez-moi, permettez-moi de me racler la gorge. *AHEM* Je m'appelle Achaben, et je tiens l'épicerie générale ici à Darken City. *tousse*"
 NPC_000087,Thank you for your patronage! Come back and visit sometime! Bring some cough medicine!,Bonne continuation ! Reviens me voir quand tu passeras dans les parages !
 NPC_000088,#b#cff0001ffFlying Information#nc#nb is available here! I also have #b#cffff0000flying boards and brooms#nc#nb in stock!,Les #b#cff0001ffinformations de vol#nc#nb sont disponibles ici !
 NPC_000089,What do you want to do?,Que veux-tu faire ?
@@ -101,8 +101,8 @@ NPC_000108,"Greetings, traveler! You are welcome to visit the Erons Factory as l
 NPC_000109,My name is Amadolka Liviehindekinas. I am in charge of security here at the Erons Factory. Why do you ask?,Je m'appelle Amadolka Liviehindekinas et suis en charge de la sécurité de cette Usine d'Erons.
 NPC_000110,"Be careful out there, traveler! I'll stand guard here!",Ne t'inquiète pas et profite de ton aventure. Je monte la garde ici…
 NPC_000111,I'm such a coward! *Cries*,Je suis vraiment un lâche...
-NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,"Ne me parle pas, sinon… tu seras maudit !"
-NPC_000113,I'm the Mysterious Teller of Tales! Wanna hear something spooky?,Pourquoi cherches-tu les noms de ceux qui ont été libéré de leur malédiction par le passé ?
+NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,"La malédiction a été levée pour la troisième fois. S'il vous plaît, ne vous laissez plus maudire, car ce sera la dernière fois, c'est certain."
+NPC_000113,I'm the Mysterious Teller of Tales! Wanna hear something spooky?,Je suis le mystérieux conteur d'histoires ! Envie d'entendre une histoire qui fait peur ?
 NPC_000114,Stop by anytime you wanna hear a spooky story!,Oui… c'est pour ton bien.
 NPC_000115,ID Card,Carte d'accès
 NPC_000116,Hello there! How are you today!,Bonjour ! Comment ça va ?
@@ -120,7 +120,7 @@ NPC_000127,We must never forget the sacrifice of the Heroes. We are here to trai
 NPC_000128,"I am Guardian Boneper. I'm here to protect the will of Billaon, the Knight Hero, at all costs. We are seeking those who are worthy enough to follow the path of the Knight Hero.","Mon nom est Boneper, et je suis le Gardien de la Pierre d'âme du Chevalier Billein. J'enseigne la force du Héros à ses successeurs."
 NPC_000129,"May the courage of Billaon be with you, adventurer.",Que l'esprit de Billein soit toujours avec toi !
 NPC_000130,We are here to protect the will of the Heroes. Are you worthy to become a successor of the Billposter Hero?,"Toi qui cherche à succéder au grand Moine Roentel, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?"
-NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",Ceux qui les suivent et ceux qui les respectent seront finalement détruits… Choisis donc ceux qui leur sont opposés.
+NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.","Je crains que ceux qui suivent de trop près Shade, Ivillis et Bubble ne soient finalement anéantis par eux. Suivez la voie des Héros et vous ne vous égarerez pas..."
 NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.","Mon nom est Capafe, et je suis le Gardien de la Pierre d'âme du Moine Roentel. J'enseigne le courage du Héros à ses successeurs."
 NPC_000133,The power of Roentel will protect and guide you.,Que l'esprit de Roentel soit toujours avec toi !
 NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,La Mine de Dekanes regorge de métaux et minerais…
@@ -141,7 +141,7 @@ NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. 
 NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,"Je n'ai rien à te dire, je ne fais que défendre cet endroit."
 NPC_000150,"Farewell, strange one.",J'espère que tu atteindras ton but !
 NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!",Hey ! Aide-moi ! S'il te plaît !
-NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!","Hey, que fais tu là-bas ? Viens plutôt m'aider !"
+NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!","Oh merci Rhisis, je savais que quelqu'un viendrait ! Oh merci, merci, merci ! Bon, qu'est-ce que vous faites à rester là sans rien faire ? Laissez-moi sortir, bon sang !!"
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.","Moi ? Je suis Colar Devoka, le meilleur acteur de la troupe Pepole. Mais bon pour l'instant… je suis ici…"
 NPC_000154,What?! HEY! I thought you were going to release me. I'll get you for this!,Quoi ! Tu pars sans rien faire ?! Sors-moi d'ici !! S'il te plaît !
 NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,"Lillip, tu fais vraiment preuve d'une grande sagesse..."
@@ -162,7 +162,7 @@ NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Mad
 NPC_000170,"Watch yourself out there, friend. Some creatures can be quite dangerous!","Fais attention, les monstres ici sont vraiment redoutables !"
 NPC_000171,The will of Hynan will lead you to victory.,Oh Ranger... Que la volonté de Hynan te guide.
 NPC_000172,This is what you must to do.,Voilà ce que tu as à faire…
-NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.",Ils renaîtront en Héros…
+NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.","Les Héros ont combattu avec acharnement pour nous protéger de la maléfique armée de masques de Shade. Nous leur devons tout. C'est pourquoi j'ai consacré ma vie au service de Hynan, le courageux Ranger Héros."
 NPC_000174,"I am Eliff, the Ranger Master. I have devoted my life to Hynan's legacy, and my duty is to pass along all that I have learned from him. I have sworn to uphold this promise until my last, dying breath. ","Je suis le Maître des Rangers, et je guide aussi les aventuriers sur la Voie des Héros."
 NPC_000175,"Hynan watches over us all. Go in peace, my friend.",Que l'esprit de Hynan soit toujours avec toi !
 NPC_000176,Aenn's blessing on this world will be remembered forever.,"Aenn, Héros des Prêtres, ta bénédiction sur ce monde sera saluée à jamais."
@@ -219,7 +219,7 @@ NPC_000259,"Eight stars stood strong against those who would seek our demise. At
 NPC_000260,"Hello, my name is Horison Keloan, the Elementor Master. I'm a descendant of the very first Elementor Master and my job is to help guide adventurers on the path of Lillip.","Je suis Horizon Keloan, le Maître des Elémentalistes. Je descends directement de la lignée du premier Elémentaliste."
 NPC_000261,"Remember the stars, adventurer. Remember the stars.",J'espère que vous franchirez tous les obstacles grâce à la sérénité de Lillip.
 NPC_000262,"Heren, please spread your heroic presence throughout the world.","Ô Heren, dispense ton énergie sur le monde !"
-NPC_000263,I believe the tears of Rhisis will flow from the sky to wake the Heroes in our time of need. ,Les larmes tomberont du ciel quand le Héros se réveillera.
+NPC_000263,I believe the tears of Rhisis will flow from the sky to wake the Heroes in our time of need. ,Je crois que les larmes de Rhisis couleront du ciel pour réveiller les héros en notre temps de besoin.
 NPC_000264,"Jeperdy Soce is the name, my child. I'm one the 8 priests of Heren, the Blade Hero. I am delivering the will of Heren to his potential successors.","Mon nom est Jeperdy, et je suis le Gardien de la Pierre d'âme de l'Assassin Heren. J'inculque l'énergie du Héros à ses successeurs."
 NPC_000265,"May the grace of Heren shine on you, my child.",Que l'esprit de Heren soit toujours avec toi !
 NPC_000266,Welcome to Jinitte's Restaurant! I serve the best food in Madrigal!,Bienvenue dans notre restaurant. Nous avons la meilleure table des environs !
@@ -232,7 +232,7 @@ NPC_000272,New life springs forth wherever the seeds are cast. The way to new li
 NPC_000273,"I am the Ranger Guardian, Kailreard. It is my duty to protect the will of the Ranger Hero, Hynan.","Mon nom est Kailreard, et je suis le Gardien de la Pierre d'âme du Ranger Hynan, Héros de Madrigal. J'enseigne l'adresse de Hynan à ses successeurs."
 NPC_000274,"May the glory of Hynan be with you, always.",Que l'esprit de Hynan soit toujours avec toi !
 NPC_000275,Only a Knight wielding the strength of Billaon will succeed.,"Ô Billein, grand Chevalier de Madrigal ! Que ta volonté bénisse le monde."
-NPC_000276,Shade must not be allowed to torment us and our way of life.,La paix reviendra sur le monde quand les huit flammes seront éteintes…
+NPC_000276,Shade must not be allowed to torment us and our way of life.,"Il ne faut pas laisser Shade nous tourmenter, nous et notre mode de vie. La paix reviendra sur le monde quand les huit flammes seront éteintes…"
 NPC_000277,My name is Karandur Eope from the Eope family. I am a Knight Master and in charge of leading you to the way of the Hero. ,"Je m'appelle Karandur Eope, et je suis le Maître des Chevaliers."
 NPC_000278,May the sword of Billaon cut through those who wish to destroy us.,L'épée de Billein te protégera.
 NPC_000279,This is a terrible location for my shield shop! Why can't I be closer to the mayor?!,Je vends de magnifiques boucliers à des prix imbattables ! 
@@ -245,7 +245,7 @@ NPC_000285,"I am the Great Magician Laola. I may look young, but I am at least 2
 NPC_000286,Be careful out there. There are many dangerous creatures around.,"Attention, le danger n'est pas loin."
 NPC_000287,I live for the thrill of the adventure! Woooo!,"J'adore partir vers de nouvelles aventures ! L'aventure, c'est l'aventure !"
 NPC_000288,"Hey, you there! I've got a job for you. No questions, just do it! Hahaha!","Hey toi ! Fais ça ! … Pourquoi ? Il n'y a pas de raisons, mais fais-le ! Muwhahaha."
-NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,Une flèche divine siffla dans le ciel et devint une pluie qui lava le monde de ses péchés…
+NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,"Les flèches de la Déesse Clown tomberont du ciel et teindront le monde de rouge. Je l'ai prédit. Quoi ? Tu as tout à fait raison, je suis défaitiste. As-tu vu ce dont Shade est capable ?"
 NPC_000290,"I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself.","Nous, les Grands Dwarpets, sommes très différents des autres Dwarpets. Nous sommes de grands érudits ! Quoi ? Les êtres humains nous sont supérieurs ?! Qui a dit ça ? Quel est le fou qui peut bien penser ça ?!"
 NPC_000291,Was it something I said?,Muwhahaha ! Bye bye!
 NPC_000292,"Billaon, our Hero. We will follow your spirit.","Billein, Héros des Chevaliers, que ta force nous guide."
@@ -286,7 +286,7 @@ NPC_000326,"So, what are you going to do for me? Hmmm?","Alors, que vas-tu faire
 NPC_000327,The world has become so dangerous. It was not like this when I was young. Damn! This is why we need shields. Why not buy one?,"Le monde est devenu si dangereux, ce n'est plus comme avant… C'est pourquoi les boucliers sont devenus nécessaires ! Pourquoi ne pas m'en acheter un ?"
 NPC_000328,"Actually I have sold lots of different things in my life, but now I am selling the shields here in Erons Factory. Nice to meet you, my name is Phacham Dudury.","En fait je suis un vendeur ambulant, je m'appelle Phacham Dudury. Actuellement je vends des boucliers ici, à l'Usine des Erons."
 NPC_000329,Bye! Visit me when you come here again! Ha ha ha!,Ciao ! Repasse me voir quand tu seras dans les parages !
-NPC_000330,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!,"Te voilà désormais Acrobate, le maître des tours de passe-passe."
+NPC_000330,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!,"Lève-toi maintenant… des ténèbres. Tu portes désormais un nom éclatant : le titre d’#bAcrobate#nb !"
 NPC_000331,Here you are. Time to fulfill your duty.,Ceci est ton devoir.
 NPC_000332,Everything is the Acrobat. The Acrobat is everything. Take a moment to ponder what I have said.,Le tout compose l'Acrobate. L'Acrobate est tout. Réfléchis à cela…
 NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat.","Je suis Pyre, le Maître des Acrobates. J'aide ceux qui veulent devenir de grands Acrobates."
@@ -343,11 +343,11 @@ NPC_000383,Attention! Salute!,Bon vol !
 NPC_000389,"You, who want to become the successor of the Elementor hero Lillip, do you believe in the will of the hero?","Toi qui cherche à succéder au grand Elémentaliste Lillip, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?"
 NPC_000390,You will be one of the 8 that watch the stars for a sign of their arrival.,"Vous verrez huit étoiles disparaître, et l'une d'entre elles sera la larme rouge qui irriguera le sol..."
 NPC_000391,"My name is Wendien Guardian. I am protecting the will of Lillip, the Elementor hero.","Mon nom est Sencyrit, et je suis le Gardien de la Pierre d'âme du Prêtre Lillip. J'inculque la sagesse du Héros à ses successeurs."
-NPC_000392,You will be enlightened with the wisdom of Lillip.,"Bienvenue à ceux qui veulent devenir un vaillant Mercenaire. Félicitations, une aventure extraordinaire vous attend !"
-NPC_000393,You will be enlightened with the wisdom of Lillip.,"Bienvenue à ceux qui veulent devenir un vaillant Mercenaire. Félicitations, une aventure extraordinaire vous attend !"
+NPC_000392,You will be enlightened with the wisdom of Lillip.,"Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !"
+NPC_000393,You will be enlightened with the wisdom of Lillip.,"Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !"
 NPC_000394,"A piece of advice? A Mercenary's weapon is their livelihood. You must dedicate your life to the blade, and in turn, it will protect you. ","Si tu as besoin de quelque chose, n'oublie pas qu'il faut d'abord le payer."
 NPC_000395,"Hello, I'm Andy Kimu, the Mercenary Master of Flarine. The pay is good, but they make me wear this ridiculous looking robe. It's so itchy! I stroke my beard all day just to keep my mind off of it.","Je suis Andy Kimu, l'instructeur des Mercenaires. Je suis là pour enseigner l'art du Mercenaire aux Vagabonds. J'avoue que ce rôle est nouveau pour moi, mais je fais de mon mieux…"
-NPC_000396,"Rhisis will be with you, always, young one.",L'épée du Mercenaire te protégera.
+NPC_000396,"Rhisis will be with you, always, young one.","Rhisis sera toujours avec toi, jeune enfant."
 NPC_000397,Hmm Aha! Why not ask the vagrants? Maybe they can handle this.,Hmm… Pourquoi ne pas demander aux autres Vagabonds ?
 NPC_000398,Merry Christmas! I hope everything goes well this time!,Joyeux Noël !! J'espère que les fêtes se passent bien cette année !!
 NPC_000399,My name is Saint Aramy and I am one of the Santa's in the Madrigal Christmas Society. Nice to meet you,"Bonjour, je m'appelle Saint Aramy, et je suis l'un des Pères Noël de Madrigal."
@@ -365,7 +365,7 @@ NPC_000410,What should I ask you to do?,Que puis-je faire pour toi ?
 NPC_000411,"You won't find a better armor selection in all of Flaris, I'll guarantee you that! ","Le secret de la confection des armures ? Je ne peux malheureusement te le révéler, comprends moi…"
 NPC_000412,"Who am I? You must be joking. I'm only the most famous armorer in Flarine! I'm Boboko Bobo and I run the Bobo family Armor Shop for new Mercenaries, Acrobats and Assists.","Bienvenue, je suis Boboko Bobo. Je suis le propriétaire de cette boutique d'armure, et je m'occupe aussi de toutes les réparations d'équipement. Mon grand frère Boboku tiens le magasin d'armes à proximité."
 NPC_000413,Tell your friends buy Bobo Family Equipment!,Seul un équipement de qualité protégera ta vie ! N'oublie jamais cela...
-NPC_000414,"Your weapon is looking a little dull there, friend. Thank Rhisis for you, I buy and sell weapons!",Venez acheter les armes fantastiques de la famille Bobo ou faites un piercing dans votre armure pour l'améliorer !
+NPC_000414,"Your weapon is looking a little dull there, friend. Thank Rhisis for you, I buy and sell weapons!","Ton arme a l'air un peu terne, mon ami. Merci à Rhisis pour toi, j'achète et je vends des armes !"
 NPC_000415,Here you are. Please solve this as soon as possible.,Et voilà.
 NPC_000416,"*sighs* Oh, sorry! I was daydreaming about Julia over there. She's so amazing! Hey, do you think a girl like her and a guy like me could ever be? What? How could she resist me?!","Je suis le fils aîné de la famille, il serait temps pour moi de me marier… Ha ha (rougissant) Pour être honnête j'aime Julia... Elle est adorable n'est-ce pas ?"
 NPC_000417,"Greetings from the Bobo Family, stranger! I am Boboku Bobo. I run the Weapon Shop here in Flarine. Have a look around and don't forget to visit my brother's shops!","Je m'appelle Boboku Bobo, et voici ma fameuse boutique d'arme. Je peux aussi appliquer un piercing sur une armure, afin que tu puisses l'améliorer. Au fait, mon petit frère vend des armures à côté, n'hésite pas à y jeter un oeil."
@@ -388,11 +388,11 @@ NPC_000433,How strange I do not remember the Happy New Year song.,"Erf, impossib
 NPC_000434,New year has come!,"Santé, Bonheur et Richesse !"
 NPC_000435,"How strange, I do not remember the Happy New Year song.","Olala, je ne me souviens plus de la chanson du Nouvel An !"
 NPC_000436,"Trust in Aenn, and your path shall be lit with the light of a thousand candles.","Vraiment ? Peut-être penses-tu ainsi car tu es écrivain, mais je ne veux pas faire de vague avec ça…"
-NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one day return. We must prepare.",Les 8 âmes seront rassemblées en un lieu sacré... Le jour du jugement viendra bientôt...
+NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one day return. We must prepare.","Les héros se sont sacrifiés pour vaincre Shade, mais elle reviendra un jour. Nous devons nous y préparer."
 NPC_000438,"My name is Clamb Cobonet, the Ringmaster Wise Man. I am here to preserve the legacy of Aenn, the Ringmaster Hero and to light the path for those that wish to follow in Aenn's footsteps. Have faith, young one, Aenn watches over you.","Je suis le Sage des Prêtres, Clamb Cobonet. J'étudie et médite sur la vie d'Aenn, le Héros des Prêtres."
 NPC_000439,"Follow the path of Aenn, and you will never be forgotten.","Quoi qu'en dise les gens, ils ont été les Héros de Madrigal. N'es-tu pas de mon avis."
-NPC_000440,Bubble watches over all aspiring heroes. ,Profite bien de ton aventure ! Ha ha ha !
-NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,Ils suivront chacun leur chemin.. Mais leurs chemins se rejoindront.
+NPC_000440,Bubble watches over all aspiring heroes. ,Bubble veille sur tous les héros en herbe.Profite bien de ton aventure ! Ha ha ha !
+NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,"Les boucliers des Héros ont protégé Madrigal de la colère de Shade. Nous leur serons éternellement reconnaissants pour leur bravoure et souhaitons perpétuer leur mémoire à jamais."
 NPC_000442,"My name is Cuarine Coexar and I am the Psykeeper Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Offerep, the Psykeeper Hero.","Je suis le Sage des Sorciers, Cuarine Coexar. J'étudie et médite sur la vie d'Offerep, le Héros des Sorciers."
 NPC_000443,"Follow the path of the Heroes, and you will never lose your way.",La puissance du Sorcier tiens à la force de son esprit. Souviens-toi de cela !
 NPC_000444,A strange energy emanates from this fountain. What is it?,Tu es vraiment surprenant. Ha ha ha.
@@ -418,7 +418,7 @@ NPC_000463,"7. That about covers it for your flying combat training, cadet! Just
 NPC_000464,Have fun out there and be safe! Don't forget to check your six!,Je te souhaite de devenir aussi redoutable dans les airs que sur terre.
 NPC_000465,"Goodbye, adventurer! Feel free to stop by again if you have any questions about flying.","Avant tout, prenez plaisir à voler !!"
 NPC_000466,Why do we all have to wear the same outfit? ,Ha ha ha ! Je me sens vraiment à mon aise ici.
-NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.","Toute vie disparaîtra, une par une…"
+NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.","Rhisis créa les trois Dieux : Shade, Ivillis et Bubble, et leur conféra à chacun un aspect différent d’elle-même. Shade, imprégnée de la Peur et de la Rage de Rhisis, faillit détruire notre monde d'origine."
 NPC_000468,"I am Domek Ilujian, the Billposter Wise Man. I am here to record the history of the Billposter Hero, Roentel, and educate travelers on Madrigal's rich history.","Je suis le Sage des Moines, Domek Ilujian. J'étudie et médite sur la vie de Roentel, le Héros des Moines."
 NPC_000469,"Farewell, traveler. If we do not learn from our past, we are doomed to repeat it.",Il faut toujours avoir de l'espoir… Eux aussi ont toujours su garder espoir.
 NPC_000470,#b#cff8a004fCheck in here to review the weekly results of the #cfffc0000Guild Siege!#nc#nb,#b#cff0000ffVoulez-vous connaître le résultat de la dernière Guerre des Guildes ?#nc#nb
@@ -426,7 +426,7 @@ NPC_000471,Only the most cunning of guilds can hope to achieve victory in the Gu
 NPC_000472,"Hello, it's very nice to meet you! I am the Rewards Manager for the Guild Siege Center. I can reward prize money, return application fees, or even show you this week's ranking for the Guild Siege.","Je suis la manager des Guerres de Guildes. Je m'occupe de distribuer les récompenses, rembourser les frais d'inscription, réaliser les classements, etc."
 NPC_000473,Good luck to you! I hope I see you on the ranking charts!,Bonne chance à tout le monde pour la Guerre des Guildes !
 NPC_000474,"Madrigal's ecosystem is truly fascinating! The more you discover, the greater the mystery!","L'écosystème de Madrigal est vraiment étonnant ! Plus on l'étudie, plus le mystère s'épaissit..."
-NPC_000475,"Researching Madrigal's vast ecosystem, particularly that of the Masquerpets, is very rewarding. I get to work outdoors, and examine all of the strange creatures created by the Clown Goddess of Fear and Rage, Shade.",Les monstres uniques comme Clockworks sont vraiment une énigme. Cela complique d'autant plus mes recherches.
+NPC_000475,"Researching Madrigal's vast ecosystem, particularly that of the Masquerpets, is very rewarding. I get to work outdoors, and examine all of the strange creatures created by the Clown Goddess of Fear and Rage, Shade.","Explorer le vaste écosystème de Madrigal, et plus particulièrement celui des Dwarpets, est extrêmement enrichissant. Je peux travailler en plein air et examiner toutes les étranges créatures créées par la Déesse de la Peur et de la Rage, Shade."
 NPC_000476,"My name is Dr. Estly and I am studying Madrigal's Ecosystem with my 2 brothers. Have you ever heard of Clockworks? He is the most amazing creature I have ever had the chance to study! Very, very dangerous, though.",Je m'appelle Dr. Estly. J'étudie l'écologie de Madrigal avec mes deux frères.
 NPC_000477,"Thanks for stopping by, friend. Let me know if you ever need any information on a specific creature.",Rends-moi visite quand tu voudras en savoir plus sur les monstres.
 NPC_000478,"Assists are way better than Mercenaries! Quiet Mustang! *chuckles* Hey you, c'mere if you want to learn about Assists!","Avant d'aider les autres, commence par t'aider toi-même !"
@@ -475,10 +475,10 @@ NPC_000523,"We are superior to humans in all ways. You're lucky I'm even speakin
 NPC_000524,"Who wants to know? You? Haha! Right, like I owe you anything at all, human. Why don't you make like a tree, and get out of here?",Je ne le dirai jamais à un humain comme toi. Compris ?
 NPC_000525,"Thanks for leaving, chump!",Je m'ennuie et j'ai envie de partir… (soupir)
 NPC_000526,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.",Tu cherches à savoir qui je suis ? Et bien je suis à la fois l'existence et le néant…
-NPC_000527,"Shade will return, this much is certain. We can only hope to be ready for her.",Hmm.. Des années se sont écoulées depuis que j'ai commencé à travailler ici. (soupir)
+NPC_000527,"Shade will return, this much is certain. We can only hope to be ready for her.","Hmm.. Shade reviendra, c'est certain. Il ne nous reste plus qu'à espérer être prêts à l'accueillir."
 NPC_000528,"We await the day of our impending doom. The day will come, and pass. We must stand together.","Le mal cherchera à s'emparer du monde, 8 étoiles apparaîtront alors et lutteront pour la paix et l'harmonie."
 NPC_000529,"My name is Hormes Kudo, the Knight Wise Man. I lead those who wish to become a Knight successor, and I help to preserve the memory of the Heroes.","Je suis le Sage des Chevaliers, Hormes Kudo. J'étudie et médite sur la vie de Billein, le Héros des Chevaliers."
-NPC_000530,Rhisis watch over you.,"Etudier la vie des Héros est une activité passionnante. Oui, on peut le dire !"
+NPC_000530,Rhisis watch over you.,"Etudier la vie des Héros est une activité passionnante. Oui, on peut le dire ! Rhisis veille sur toi."
 NPC_000531,Draw your weapon and cut down everything that stands in your way! A Mercenary fears nothing!,"Dégaine ton épée et tranche tout ce qui se mettra en travers de ton chemin ! En avant, Mercenaire !"
 NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","Les trois plus grandes qualités d'un Mercenaire sont l'instinct, la force et la dextérité. Souviens-t'en !"
 NPC_000533,"Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. ","Je m'appelle Hyuit Jenive, et j'aide les courageux Vagabonds de Madrigal à devenir de redoutables Mercenaires."
@@ -502,7 +502,7 @@ NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I als
 NPC_000564,"My name is Ismerelda Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Mon nom est Ismeralda Trinity. Je suppose que tu as déjà rencontré l'une de mes soeurs à Flarine.
 NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Je suis Ispim Trinity. As-tu déjà rencontré l'une de mes soeurs ?
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Je m'appelle Isruel Trinity. Je renseigne les nouveaux aventuriers.
-NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,"Voyons voir ce qu'il y a à réparer aujourd'hui… Olala, Kimberley me manque tant..."
+NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,"Voyons voir ce qu'il y a à réparer aujourd'hui… *Soupir* Kimberley me manque tellement."
 NPC_000580,"Would you do me a favor, please?",Pourrais-tu me rendre un service s'il te plaît ?
 NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...","Ces derniers temps, j'ai reçu de nombreuses plaintes concernant la qualité des machines que j'ai vendues à Saincity et Darken. Je ne suis pas assez attentionné ces temps-ci…"
 NPC_000582,"My name is Jeff Prosis and I am the Machine Developer of Flarine. Kimberley, my wife, is a guide in Saint City.","Je m'appelle Jeff Prosis, je suis l'ingénieur de Flarine. Je construis de nombreuses machines pour tout Madrigal. Ma femme Kimberley travaille à Saincity, c'est un peu dur à vivre..."
@@ -515,7 +515,7 @@ NPC_000588,Welcome to the #b#cffff0000Office#nc#nb of Flarine. How can I be of s
 NPC_000589,"So what can you do for me, huh?",Que peux-tu faire pour moi ?
 NPC_000590,"*Sigh* Boboku is so manly, strong and kind. But I could never date him because his belly is too big!","(songeuse) Ah Boboku… Il est si viril, si fort, et si aimable. Mais il est trop vieux pour moi..."
 NPC_000591,My name is Julia Trinity and I manage the Office of Flarine. How can I help you today?,"Je m'appelle Julia Trinity. Je suis l'intendante principale de Flarine, en charge de l'Office Public. Mes autres soeurs pourront te donner quelques informations."
-NPC_000592,"Spread the blessing of Rhisis throughout Madrigal! Sprinkle the tears of Rhisis upon the ground. Welcome to the club, Assist!",Propage la sagesse de Rhisis à travers le monde !!
+NPC_000592,"Spread the blessing of Rhisis throughout Madrigal! Sprinkle the tears of Rhisis upon the ground. Welcome to the club, Assist!","Répands la bénédiction de Rhisis sur tout Madrigal ! Fais couler les larmes de Rhisis sur le sol. Bienvenue !"
 NPC_000593,"An Assist should naturally have a giving heart. It's one of the fundamental teachings of Aenn, the Ringmaster Hero.","Un Acolyte doit se consacrer à aider ses prochains, sinon sa quête est vaine !"
 NPC_000594,They call me Kidmen Nicore. I'm a Sergeant at the Madrigal Job Training Center and I hope to guide brave souls as they follow the path to becoming an Assist.,Je m'appelle Kidmen Nicore. Je peux t'enseigner les techniques qui feront de toi un grand Acolyte.
 NPC_000595,"Be careful out there, young one. I sense great potential in you.",L'esprit de dévotion ! Grave ça dans ta mémoire.
@@ -525,7 +525,7 @@ NPC_000598,The Heroes saved us all from certain doom. We are forever grateful fo
 NPC_000599,"My name is Sage Kimel and I am here as a guide to those seeking the knowledge of the Heroes. Sage Radion is the greatest Wise Man of all of us. If you seek knowledge, go to him.",Je suis l'un des huit Sages et il est de mon devoir d'étudier et méditer sur la vie des Héros. Ceci est la volonté du Grand Sage Radion.
 NPC_000600,The Heroes live on through all of us.,Les Héros sont dans nos cœurs !
 NPC_000601,"Hello there, traveler! This area, the plain of Bubble, was created by Bubble himself, long ago.","Bienvenue dans cette plaine mystérieuse, qui fût créée en 3 jours par le Clown Bubble selon la légende..."
-NPC_000602,The earth trembled as the battle between Shade and the Heroes was fought viciously. Scars from this battle can be seen all over madrigal.,Une épée gigantesque tomba du ciel et la terre se mit à trembler !
+NPC_000602,The earth trembled as the battle between Shade and the Heroes was fought viciously. Scars from this battle can be seen all over madrigal.,La terre trembla sous l'âpre bataille qui opposa Shade aux Héros. Les cicatrices de ce combat sont encore visibles partout à Madrigal.
 NPC_000603,"Welcome, my name is Kurmin Hersan and I watch over the Plain of Bubble. It's an amazing area filled with life. It is a powerful place that seems to fill your soul with love and euphoria.","Bonjour, je m'appelle Kurmin Hershan et je veille sur la légendaire Plaine de Bubble."
 NPC_000604,"Oh man! All this shoveling, all day long! Can't I have a break?!","La lame de l'épée déchiqueta le ciel, et la hache géante entrouvrit la terre..."
 NPC_000605,"*Langdrong grins at you*\nYou want me to say hello to you? Haha, never! I may live like you humans but I am nothing like you! So nyah!","*Il vous sourit*\nTu espérais que je te salue ? Hors de question ! Bien que je vive comme les êtres humains, je n'ai rien à voir avec eux !"
@@ -545,12 +545,12 @@ NPC_000618,Are you a Vagrant? Do you need weapons or armor? I've got what you ne
 NPC_000619,"Hello, potential customer! Thanks for stopping by! Please, feel free to look at my collection of Vagrant weapons and armor. Careful though, you touch it, you buy it!",Ma boutique regorge d'équipements de qualité pour les Vagabonds. Hé hé.
 NPC_000620,"My name is Luda and I run the Vagrant Store of Flarine. I opened this shop after Boboku and Boboko stopped selling Vagrant items. Now I corner the market, hahaha!",Mon nom est Luda. Il n'y a pas meilleur personne que moi pour équiper les Vagabonds.
 NPC_000621,Be careful out there. I wouldn't want to lose a potential customer! *Chuckles*,Bonne continuation en Madrigal !
-NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe ! Venez tous ! Faites vos provisions ici ! Vous en aurez besoin !"
+NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","#bBoissons, fioles, mantras, conjurations, flèches…#nb C'est ici que ça se passe ! Venez tous ! Faites vos provisions ici ! Vous en aurez besoin !"
 NPC_000623,"Listen carefully, here's what I need you to do.","Écoutez attentivement, voici ce que j'ai besoin que vous fassiez."
 NPC_000624,"Going somewhere? You look a little unprepared, so I'd think twice about leaving Flarine without stocking up on supplies. Good thing for you, I'm here. So, whaddya need?",Je n'arrive pas à croire que mon petit frère Roony ait un lien avec cet incident… Il est parti en grommelant qu'il ne reviendrait plus jamais.
 NPC_000625,"Who am I? I'm Lui Keraldine, of course. My friends call me Handsome Lui. Since we're not friends, why don't you just call me Lui. If you buy something from my General Store here, I *might* let you call me Handsome.","Je m'appelle Lui Keraldine, mais les habitants de Flarine me surnomment Lui le Magnifique. (rires)"
 NPC_000626,Don't forget to shop at Handsome Lui's General Shop for your adventuring needs!,"Reviens me voir, je te ferai peut être une ristourne ! Ha ha."
-NPC_000627,"So many Vagrants, so little time!",Que Rhisis protège les aventuriers souhaitant devenir Acolyte.
+NPC_000627,"So many Vagrants, so little time!",Que Rhisis protège les aventuriers souhaitant devenir #bAcolyte#nb.
 NPC_000628,"Assists are masters of healing wounds in combat, enhancing abilities, and can be fierce opponents in close quarters combat. Never underestimate an Assist. ",Tu dois continuer à t'entraîner pour expier tes crimes !
 NPC_000629,My name is Maki Ah and I am the Assist Master of Flarine. I'm here to guide young Vagrants on the path to becoming an Assist.,"Je m'appelle Maki Ak, je suis le Maître des Acolytes."
 NPC_000630,May Bubble watch over you.,Que la bénédiction de Rhisis t'accompagne.
@@ -591,7 +591,7 @@ NPC_000664,"We are moving here to be with my father, but I do not like it here."
 NPC_000665,"My name is Pipi Horis, Paul is my father.","Je m'appelle Pipo, je suis le fils de Paul Horis."
 NPC_000666,"We must find new Heroes, Kimel. It's our only hope.",Hmm... il semble que de plus en plus d'aventuriers aspirent à devenir des Héros ! Hé hé.
 NPC_000667,Ancients texts speak of 8 meteors that will fall from the sky the day the world comes to an end. These ancient texts say nothing of what will become of us after this event. Will we be saved? Destroyed? ,"On dit que huit étoiles tomberont du ciel, juste avant que le monde arrive à sa fin... Mais cela sera t-il suffisant pour sauver le monde à ce moment ?!"
-NPC_000668,"The Great Wise Man, Radion, has decreed that we preserve the memory of the Heroes, and work towards defending ourselves against Shade once more. I am Sage Radyon, Radion's humble servant.","En tant que l'un des huit Sages, j'étudie et médite sur la vie des Héros, comme le veut le Grand Sage Radion."
+NPC_000668,"The Great Wise Man, Radion, has decreed that we preserve the memory of the Heroes, and work towards defending ourselves against Shade once more. I am Sage Radyon, Radion's humble servant.","Le Grand Sage, Radion, a décrété que nous perpétuions le souvenir des Héros et que nous œuvrions à nouveau pour nous défendre contre Shade. Je suis le Sage Radyon, humble serviteur de Radion."
 NPC_000669,"Goodbye, brave one.","Tout comme l'écoulement de la rivière, l'histoire des Héros se poursuivra pour l'éternité…"
 NPC_000670,I love my money. Can anyone else out there bathe themselves in Penya? Ha! I didn't think so!,Ha ha ha. J'adore mon argent. Y a-t-il quelqu'un d'autre qui se baigne dans des Penyas ? Ha ! Je ne crois pas ! Ha ha ha.
 NPC_000671,"Psha! I have no desire to talk to the poor. Leave my property now before I call the authorities! What, are you deaf? I said LEAVE! I have esteemed guests LibraX and Condulus coming over! ","Pff ! Je n'ai aucune envie de parler aux pauvres. Quittez ma propriété immédiatement avant que j'appelle les autorités ! Quoi, vous êtes sourd ? J'ai dit PARTEZ ! J'ai des invités de marque, LibraX et Condulus, qui arrivent !"
@@ -607,7 +607,7 @@ NPC_000680,My name is Segho Pesin the Climber I manage the Drill Hall of Roentel
 NPC_000681,Each day has a new target! Hah!,"Puisque la montagne ne vient pas à nous, allons à la montagne !"
 NPC_000682,"Something, a creature perhaps, is stirring within the Mars Mine. ",Par le dernier pont déferlera la mort
 NPC_000683,"Here, young one. Please pick one that you would like to do.","Allez, choisis une mission que tu peux accomplir."
-NPC_000684,"My 8 pupils and I are working feverishly to prepare Madrigal's citizens for the day that Shade returns to destroy us all. Only through the guidance and strength of the Heroes, can we hope to persevere.","J'étudie la vie des Héros avec mes huit disciples. Cela fera partie à jamais de l'histoire de Madrigal, et ne dois jamais être oublié."
+NPC_000684,"My 8 pupils and I are working feverishly to prepare Madrigal's citizens for the day that Shade returns to destroy us all. Only through the guidance and strength of the Heroes, can we hope to persevere.","Mes huit élèves et moi travaillons d'arrache-pied pour préparer les citoyens de Madrigal au jour où Shade reviendra nous anéantir. Seuls la force et le soutien des Héros nous permettront de survivre."
 NPC_000685,"I am known as Radion Angamel the Great Wise Man. When you've lived as long as I have, you sort of inherit the title. Nevertheless, it is our duty to use our knowledge of the Heroes to protect ourselves from impending doom.","Je suis Radion Angamel. Certaines personnes considèrent que je suis un sage, mais je suis juste un vieil homme qui a vécu beaucoup de choses…"
 NPC_000686,"Go with the Heroes, my child.",Toi... Hmm.. Non rien. A bientôt.
 NPC_000687,"I love SUSHI! I could eat it all day, every day!",Le poisson est exquis et le riz délicat. Venez déguster nos succulents sushis !
@@ -670,7 +670,7 @@ NPC_000743,Ha ha ha The history of Madrigal is really mysterious. Do you agree? 
 NPC_000744,"History should not be hidden at all, whether it is unpleasant or not.","L'histoire ne devrait jamais être enfouie et oubliée, qu'elle soit plaisante à entendre ou non !"
 NPC_000745,My name is Gothante Destratin and I am the chairman of the Madrigal Historical Society. You can just call me Gothante.,"Enchanté, je m'appelle Gothante Destratin, je suis le directeur de la Société de l'Histoire de Madrigal."
 NPC_000746,"You have to know the history no matter what, right? Ha ha ha","La légende est, à mes yeux, plus vraie que l'histoire. Médite là-dessus, ha ha ha."
-NPC_000747,"Everyone who wants to be a Magician, please come to me! My name is Hee and I will show you how to be the best Magician.","Venez suivre mon enseignement, vous qui souhaitez devenir magicien."
+NPC_000747,"Everyone who wants to be a Magician, please come to me! My name is Hee and I will show you how to be the best Magician.","Vous qui souhaitez devenir Magicien, approchez ! Je suis Hee et je vous enseignerai comment devenir le meilleur #bMagicien#nb."
 NPC_000748,"Being a Magician is the greatest job ever. Magicians are always smarter and more powerful. You agree with me, right?","Le Magicien est celui qui possède la plus grande puissance, le plus grand savoir et la plus grande spiritualité, n'es-tu pas d'accord avec moi ?"
 NPC_000749,"I am Master Hee Lyu, and I am a Job Master. I am in charge of finding new Magicians, but this job is very boring.","Je suis Hee Lyu, le Maître des Magiciens. Je cherche à recruter de nouveaux disciples, mais les aventuriers talentueux se font rares…"
 NPC_000750,The light of the Magicians will protect you for all time.,Garde à l'esprit que la véritable force commence par la sagesse !
@@ -705,7 +705,7 @@ NPC_000778,We offer quests put out by the citizens of Saint City. These quests a
 NPC_000779,Welcome! My name is Lancomi and I am the head of the quest center in Saint City. We collect quests from the citizens and then list them here for you.,"Bienvenue. Mon nom est Lancomi, je suis le responsable du centre des quêtes de Saincity."
 NPC_000780,My name is Leann Hentte and I am a guide here in Saint City.,Je m'appelle Leann Hentte. Puis-je te renseigner ?
 NPC_000781,My name is Saint Pang. I am the second child of the Pang family. We have been managing the Lodelight for generations.,"Je suis le Pang de Saint Morning, le deuxième enfant dans la famille Pang !"
-NPC_000782,Honor the will of Rhisis! Show the anger of Rhisis! Be the curse of Rhisis!,Honorez la volonté de Rhisis !
+NPC_000782,Honor the will of Rhisis! Show the anger of Rhisis! Be the curse of Rhisis!,Honorez la volonté de Rhisis ! Déchaînez la colère de Rhisis ! Soyez la malédiction de Rhisis !
 NPC_000783,Being a Magician requires strong spirit. You cannot be a real Magician if you do not train your spirit well.,"Un Magicien a besoin d'une grande force spirituelle. Si tu ne possède cette faculté d'esprit, trouve une classe qui ne requiert pas trop d'intelligence, comme Mercenaire ! Ha ha."
 NPC_000784,I am Sergeant Lopaze Jenip of the Madrigal Job Training Center I will help you to become the best Magician.,"Je suis l'instructrice Lopaze Jenip, le peux t'aider à devenir le meilleur Magicien !"
 NPC_000785,Strong spirit! This is the symbol of the Magician. Please do not forget that.,La puissance de l'esprit. N'oublie jamais que c'est la qualité première du Magicien.
@@ -856,7 +856,7 @@ NPC_001028,Anyone need any supplies? I got what YOU need!,"Pourquoi ne te prépa
 NPC_001029,"Once you step foot into the arena circle, you can be attacked by anyone at anytime, so watch your back! ","Hep, méfie-toi une fois entré dans l'arène, tu peux être attaqué n'importe où par n'importe qui."
 NPC_001030,"Nice to meet you, friend. My name is Deek and I sell various foods, Posters, MP recovery items, and Arrows. Let me know if you need anything.","Mon nom est Deek et je vends des objets nécessaires pour le combat. Mon gars, tu as besoin d'objets pour gagner le combat. "
 NPC_001031,Feel free to visit me again if you need some more supplies for the arena!,Il n'est pas facile d'importer des objets de Madrigal jusqu'ici……
-NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,Vous venez d'arriver à Madrigal ? Rendez visite à votre sympathique #bPang du quartier#nb !!!
+NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,Vous venez d'arriver à Madrigal ? Rendez visite à votre sympathique #bPang#nb ! Amusez-vous sur #b#cffff0000FLYFF UNIVERSE#nc#nb ! 
 NPC_001033,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!,"Bonjour, jeune aventurier. Je suis ici pour aider les aventuriers qui n'ont pas encore terminé leur second changement de classe. Viens me voir dès que tu auras besoin d'un coup de pouce et j'améliorerai temporairement tes statistiques !"
 NPC_001034,"I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?",Bonjour je suis le guide des Débutants! N'hésitez pas à me demander si vous avez besoin d'aide.
 NPC_001035,Enjoy your stay in Madrigal!,Amusez vous sur FLYFF!
@@ -872,14 +872,14 @@ NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","Si votre guilde est classée dans les Chambres Secrètes, vous obtiendrez des récompenses chaque semaine !"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","Bonjour, aventurier ! J'ai la responsabilité des Chambres Secrètes et de la Tour Oubliée. N'hésitez pas à me poser des questions sur ce défi héroïque."
 NPC_001081,"May Rhisis guide you, and be with you, young one.",Propage partout la bénédiction de Rhisis…
-NPC_001086,"If you need any piercing cards converted, I'm your gal!","Si vous avez besoin de convertir des cartes de piercing, je suis la personne qu'il vous faut !"
+NPC_001086,"If you need any piercing cards converted, I'm your gal!","Bonjour ! Je suis le #b#cff0000ffMaître des cartes#nc#nb. Je peux améliorer et remanier vos cartes de piercing."
 NPC_001087,"Welcome, adventurer! If you have 10 piercing cards, I will attempt to convert the 10 that you give me into 1 card of the next level. I can't offer any guarantees, however, as sometimes you may only lose your cards.","Si vous pensez que les cartes de piercing de bas niveau sont inutiles, venez donc me voir. Je vous échangerai 10 cartes contre une carte plus puissante."
-NPC_001088,"I'm the Card Master. After hearing about all the wonderful cards being thrown away, I decided to offer my services to the city of Flarine. ","Je suis le maître des cartes, le gaspillage des cartes de piercing me rendait malade. Alors me voici, venez donc me voir."
-NPC_001089,"Stop by anytime, my friend.",Il n'y a pas de carte de piercing inutile.
-NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting created?,Je ne veux pas imaginer un monde sans gemme.
+NPC_001088,"I'm the Card Master. After hearing about all the wonderful cards being thrown away, I decided to offer my services to the city of Flarine.","Je suis le maître des cartes, le gaspillage des cartes de piercing me rendait malade. Alors me voici, venez donc me voir."
+NPC_001089,"Stop by anytime, my friend.","Il n'y a pas de carte de piercing inutile. Passe me voir quand tu veux, mon ami."
+NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting created?,Quelqu'un souhaiterait-il la fabrication d'un bijou ou la création d'un joyau ?
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!","Seules les gemmes peuvent vous conférer la puissance. Venez me voir, je vous taillerai une nouvelle gemme."
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,Je suis Angie ! Je suis Joaillière et j'assiste Bobochan. Je m'occupe de tout ce qui touche de près ou de loin aux gemmes.
-NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",J'aime les gemmes ! Elles sont magnifiques !
+NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!","Prends soin de toi. N'oublie pas, pour tout ce qui concerne les bijoux, je suis là pour toi !"
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,Votre attention s'il vous plait ! On recherche des aventuriers talentueux.
 NPC_001220,Come see me if you want to become a Mentor. ,"Si vous souhaitez devenir mentor, vous devrez accomplir une mission pour moi."
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",Il n'est pas si simple de recruter des Mentors en Madrigal.
@@ -904,7 +904,7 @@ NPC_001624,I'm Nerco. I will be the Hero of Saint City just like Kooro!!! You be
 NPC_001625,Good bye! You must come back and see me.,Bye ! Revenez me voir quand vous voulez.
 NPC_001626,I can't remember anything...,Je… j'ai oublié…
 NPC_001627,What? You want to say something?,Pardon ? Vous avez dit quelque chose ?
-NPC_001629,"I'm Hael. Suddenly, there are lots of monsters.. Something really bad is gonna happen, I can feel it.",Je sens les monstres s'approcher… j'ai un mauvais pressentiment.
+NPC_001629,"I'm Hael. Suddenly, there are lots of monsters.. Something really bad is gonna happen, I can feel it.","Je suis Hael. Soudain, il y a plein de monstres… Quelque chose de vraiment terrible va se produire, je le sens."
 NPC_001630,What is going on???!!!!,Mais que se passe-t-il ?
 NPC_001631,Phew.. I can't even rest cause of my son... you'll regret this!!!,Je ne peux pas me reposer à cause de mon fils… vous allez le regretter.
 NPC_001632,Do you really know my mother's mind adventurer?,Vous pouviez vraiment lire les pensées aventureuses de votre mère ?
@@ -1263,7 +1263,7 @@ NPC_150119,You’re not ready to know the truth. But if you grow stronger… may
 NPC_150120,Turn back. You’re not qualified.,Reviens en arrière. Tu n’es pas qualifié.
 NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","Où avons‑nous tant mal fait !? C’est bien qu’ils n’attaquent pas, mais quand même…"
 NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.","Je suis Beck, de Saint City. J’ai rejoint l’Expédition du Nouveau Monde et me suis retrouvé coincé ici. J’ai raté le bateau pour rentrer, malheureusement."
-NPC_150123,People—! A person is here! Help!,Les gens— ! Une personne est là ! À l’aide !
+NPC_150123,People—! A person is here! Help!,Au secours ! Il y a quelqu'un ici !
 NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Surveiller ici n’est pas facile. On ne sait jamais ce qui pourrait surgir des ténèbres.
 NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Moi ? Je suis le gardien de l’Asile d’Ankou. Quelqu’un doit s’assurer que les cauchemars restent à l’intérieur.
 NPC_150126,Feeling brave today? Just remember—I warned you.,Tu te sens courageux aujourd’hui ? Souviens‑toi — je t’ai prévenu.
