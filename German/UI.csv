@@ -28,7 +28,7 @@ UI_CHARLIST_NEW,New,Neu
 UI_CHARLIST_DELETE,Delete,Löschen
 UI_DELETECHAR_TITLE,Delete Character,Charakter löschen
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,"Passwort, um deinen Charakter zu löschen\nBitte gib das Passwort ein."
-UI_DELETECHAR_NOPASS,Confirm Deletion?,Bestätigst du?
+UI_DELETECHAR_NOPASS,Confirm Deletion?,Löschen bestätigen?
 UI_DELETECHAR_NOTICE,"If you delete this character, its name cannot be used again for one week.","Wenn du einen Charakter löschst, kann der Name eine Woche lang nicht vergeben werden."
 UI_NEWCHAR_NAME,Name:,Name
 UI_NEWCHAR_GIRL,Girl,Weiblich
@@ -348,7 +348,7 @@ UI_POST_TITLE,Mailbox,Post senden
 UI_POST_TAB_SEND,Send Mail,Nachricht senden
 UI_POST_TAB_RECEIVE,Inbox,Nachricht empfangen
 UI_OPTION_UISCALE,Scale,Skaliert
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,Schriftgröße
 UI_IGNORELIST_TITLE,Ignore List,Blockierliste
 UI_IGNORELIST_COUNT,Ignored Players: %d,Blockierliste: %d
 UI_CHATFILTER_TITLE,Chat Filter,Chat Filter
@@ -874,9 +874,9 @@ UI_APP_STATUS_TIP,View your character's status.,Charakter Status
 UI_APP_CHAT_TIP,Show/hide the chat window.,Öffnet das Chatfenster.
 UI_APP_QUIT_TIP,Exit the game.,Spiel beenden
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Kundensupport öffnen.
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,Open Privacy Settings.
+UI_APP_PRIVACY_TIP,Open Privacy Settings.,Datenschutzeinstellungen öffnen.
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Ausloggen
-UI_APP_OPTION_TIP,Open the game's options window.,Optionen
+UI_APP_OPTION_TIP,Open the game's options window.,Optionen-Fenster des Spiels öffnen.
 UI_APP_MAP_TIP,View the world map.,Eine Karte der Welt
 UI_APP_NAVIGATOR_TIP,Open the mini-map widget.,"Die Karte ist eine Mini-Ansicht der Umgebung, die dir bei deiner Reise helfen soll."
 UI_APP_NOTICE_TIP,Notice,Notiz
@@ -975,7 +975,7 @@ UI_WORLD_TURBO_TIP,Fuel,Treibstoff
 UI_NAVIGATOR_SHIP,Ship,Schiff
 UI_OPTION_TOON_STYLE,Outline,Umriss
 UI_OPTION_RIM_OUTLINE,Rim Outlines,Rim Umrisse
-UI_APP_WIKI_TIP,Browse the Flyffipedia,Use Web Wiki.
+UI_APP_WIKI_TIP,Browse the Flyffipedia,Flyffipedia durchsuchen
 UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,Möchtest du Schnick Schnack Schnuck spielen?
 UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,Schere-Stein-Papier
 UI_ROSHAMBO_VS,VS,VS
@@ -1452,8 +1452,8 @@ UI_CRAFTPETCANDY_MAT,Harvested Berry,Geerntete Beere
 UI_CRAFTPETCANDY_CANDY,Pet Candy,Pet Candy
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000Der entstehende Shining Power Dice wird auch gebunden sein.#nc
 UI_TOOLTIP_DURATION,Duration:,Dauer:
-UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Online Only)
-UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Offline mitgezählt)
+UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Nur online)
+UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Online und Offline)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Nach erstmaliger Benutzung)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Zeit:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Kann über einem anderen Umhang getragen werden.
@@ -1528,7 +1528,7 @@ UI_PET_USE_SKILL,Grace,Grace
 UI_PET_SKILL_TOOLTIP,Use your pet's Grace skill. Consumes energy and depletes the Grace meter. You can drag this command from the Emotes window to a hotkey slot.,Benutze die Grace-Fähigkeit deines Pets. Es kostet Energie und verbraucht die Fortschrittsanzeige. Es gibt einen verschiebbaren Emote im Emote-Fenster.
 UI_PET_RESTAT_TITLE,Pet Reroll,Pet Reroll
 UI_PET_RESTAT_BUTTON,Reroll,Reroll
-UI_PET_RESTAT_DISCARD,Discard,Discard
+UI_PET_RESTAT_DISCARD,Discard,Verwerfen
 UI_PET_RESTAT_KEEP,Keep,Keep
 UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.
 UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Are you sure you want to discard this result?
@@ -2267,7 +2267,7 @@ UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,
 UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully.","You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully."
 UI_RAINBOWRACE_RANDOMMATCHING,Random Match,Random Match
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,Team Up with a Friend
-UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,Invite Friend
+UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,Freund einladen
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
 UI_RAINBOWRACE_FRIEND_NAME,Name,Name
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Bewerbung
