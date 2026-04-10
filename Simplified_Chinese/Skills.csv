@@ -904,26 +904,26 @@ PROPSKILL_TXT_150354,CC Attack,控场攻击
 PROPSKILL_TXT_150355,Far Shot,狙击
 PROPSKILL_TXT_150356,Party Buff,团队增益
 PROPSKILL_TXT_150357,Slowing,减速
-PROPSKILL_TXT_150358,Incinerate,焚毁
+PROPSKILL_TXT_150358,Incinerate,焚灭引燃
 PROPSKILL_TXT_150359,Increased Elemental,元素伤害提升
 PROPSKILL_TXT_150360,Additional Burn Damage,额外灼烧伤害
-PROPSKILL_TXT_150362,Ignite,点燃
+PROPSKILL_TXT_150362,Ignite,焚印
 PROPSKILL_TXT_150363,Increased Spread Damage,扩散伤害提升
-PROPSKILL_TXT_150364,Hellfire,地狱火
+PROPSKILL_TXT_150364,Hellfire,炼狱焚袭
 PROPSKILL_TXT_150367,Wind Counter,狂风反击
 PROPSKILL_TXT_150368,Blaze Eater,噬焰者
-PROPSKILL_TXT_150369,Ice Shard,冰锥
+PROPSKILL_TXT_150369,Ice Shard,冰封护体
 PROPSKILL_TXT_150370,Tidal Omen,潮汐先兆
 PROPSKILL_TXT_150371,Increased Recovery,恢复能力提升
 PROPSKILL_TXT_150373,Fire Counter,火焰反击
 PROPSKILL_TXT_150374,Aqua Veil,水之屏障
-PROPSKILL_TXT_150375,Gale,疾风
+PROPSKILL_TXT_150375,Gale,疾风领域
 PROPSKILL_TXT_150376,Increased Suffocate Chance,窒息概率提升
 PROPSKILL_TXT_150377,Earth Counter,大地反击
 PROPSKILL_TXT_150378,Stormveil Cloak,风暴帷幕
-PROPSKILL_TXT_150379,EVA Storm,暴风领域
+PROPSKILL_TXT_150379,EVA Storm,雷霆风暴
 PROPSKILL_TXT_150380,Increased Shock Chance,触电概率提升
-PROPSKILL_TXT_150381,Thunder Strike,雷霆一击
+PROPSKILL_TXT_150381,Thunder Strike,雷霆链击
 PROPSKILL_TXT_150382,Water Counter,水之反制
 PROPSKILL_TXT_150383,Voltguard,伏特卫盾
 PROPSKILL_TXT_150384,Stone Pillar,岩突柱
@@ -940,8 +940,8 @@ PROPSKILL_TXT_150394,Shocked,触电
 PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,你被触电麻痹，并受到额外雷电伤害。
 PROPSKILL_TXT_150396,Raging Storm,狂怒风暴
 PROPSKILL_TXT_150397,Zephyr's Grace,和风庇佑
-PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,使用技能疾风或阵风时，获得护盾。
-PROPSKILL_TXT_150399,Gust,阵风
+PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,使用技能疾风领域或风障反击时，获得护盾。
+PROPSKILL_TXT_150399,Gust,风障反击
 PROPSKILL_TXT_150400,The skill's range increases.,技能范围扩大。
 PROPSKILL_TXT_150401,Skill cooldown is reduced.,技能冷却时间缩短。
 PROPSKILL_TXT_150402,Skill damage increases proportionally to the shield's defense.,技能伤害随护盾防御值成比例提升。
@@ -1053,19 +1053,19 @@ PROPSKILL_TXT_150516,Grasping Roots,攫取根须
 PROPSKILL_TXT_150517,Stranglethorns,棘藤绞杀
 PROPSKILL_TXT_150518,Nature's Grasp,自然之握
 PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.",向前方发射根须，束缚命中的第一个敌人。若被束缚的敌人处于石柱或沼泽区域影响下，则会被石化：受到的魔法伤害提升、受到的物理伤害降低，并被眩晕。
-PROPSKILL_TXT_150520,Stigma I,烙印 I
-PROPSKILL_TXT_150521,Increased Stigma,烙印层数提升
-PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",对直线上的单个目标发动迅捷穿刺攻击，施加一层烙印。若对拥有 5 层烙印的目标使用，该攻击会贯穿所有敌人。
-PROPSKILL_TXT_150523,Stigma II,烙印 II
+PROPSKILL_TXT_150520,Stigma I,链刃印击 I
+PROPSKILL_TXT_150521,Increased Stigma,链刃印击层数提升
+PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",对直线上的单个目标发动迅捷穿刺攻击，施加一层链刃印击。若对拥有 5 层链刃印击的目标使用，该攻击会贯穿所有敌人。
+PROPSKILL_TXT_150523,Stigma II,链刃印击 II
 PROPSKILL_TXT_150524,Increased Targets,Increased Targets
-PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",向目标发射锁链刀刃，将其束缚，持续旋转攻击周围敌人，随后锁链会连接至附近另一目标。有几率施加一层烙印。若对拥有5 层烙印的目标使用，攻击时会吸取生命值。
-PROPSKILL_TXT_150526,Stigma III,烙印 III
-PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",双持武器猛击目标，对其周围造成伤害，并施加一层烙印。若对拥有 5 层烙印的目标使用，会使其沉默。
+PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",向目标发射锁链刀刃，将其束缚，持续旋转攻击周围敌人，随后锁链会连接至附近另一目标。有几率施加一层链刃印击。若对拥有 5 层链刃印击的目标使用，攻击时会吸取生命值。
+PROPSKILL_TXT_150526,Stigma III,链刃印击 III
+PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",双持武器猛击目标，对其周围造成伤害，并施加一层链刃印击。若对拥有 5 层链刃印击的目标使用，会使其沉默。
 PROPSKILL_TXT_150528,Petrify,石化
 PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.",你处于定身状态，受到的物理伤害降低，但魔法伤害增加。
 PROPSKILL_TXT_150530,Earthen Fortitude,大地坚韧
 PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,用纠缠根须将敌人石化，会为你提供增益效果。
-PROPSKILL_TXT_150532,Stigma,烙印
+PROPSKILL_TXT_150532,Stigma,链刃印击
 PROPSKILL_TXT_150533,Reduced Penalty,惩罚降低
 PROPSKILL_TXT_150534,Critical Chance penalty is reduced.,暴击率惩罚降低
 PROPSKILL_TXT_150535,Full Charge Time Decrease,蓄力时间缩短
@@ -1128,7 +1128,7 @@ PROPSKILL_TXT_150591,Skill scaling is improved.,技能成长加成提升。
 PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,满级时，最大层数上限提升至 8 层。
 PROPSKILL_TXT_150593,Death's Rush,死神突袭
 PROPSKILL_TXT_150594,The God of Death gazes upon you.,死神正凝视着你。
-PROPSKILL_TXT_150595,Infusion,元素注入
+PROPSKILL_TXT_150595,Infusion,元素灌注
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.",将你使用的任意元素技能注入你武器当前生效的元素属性，并覆盖该技能原本的元素属性。
 PROPSKILL_TXT_150597,Intelligent Scaling,智力加成
 PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.",技能不再受体力加成，改为受智力加成。
