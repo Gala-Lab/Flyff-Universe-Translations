@@ -389,9 +389,9 @@ UI_QUEST_LIST,Quest List,任务目录
 UI_QUEST_DETAIL,Quest Details,任务内容
 UI_QUEST_REWARDS,Reward List,可获得的奖励
 UI_QUEST_CONDITIONS,Quest Condition,任务条件
-UI_QUEST_GOLD1,Penya: %d,金币： %d
-UI_QUEST_GOLD2,Penya: %d~%d,金币： %d~%d
-UI_QUEST_GOLD3,Penya: ????,金币： ????
+UI_QUEST_GOLD1,Penya: %d,金币：%d
+UI_QUEST_GOLD2,Penya: %d~%d,金币：%d~%d
+UI_QUEST_GOLD3,Penya: ????,金币：????
 UI_QUEST_EXP1,Experience Gained.,获得经验值
 UI_QUEST_EXP2,Experience: %.2f%%,经验：%.2f%%
 UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,情侣经验: %.2f%%
@@ -1041,8 +1041,8 @@ UI_TOOLTIP_PVP,PvP,PvP
 UI_TOOLTIP_PVE,PvE,PvE
 UI_TOOLTIP_AROUND,Around,周围
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,基础治疗量：%d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,基础 MP 回复量： %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,基础 FP 回复量： %d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,基础 MP 回复量：%d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,基础 FP 回复量：%d
 UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,基础持续时间: %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PVP&BOSS)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,概率: %d%%
@@ -2235,8 +2235,8 @@ UI_KALGAS_ASSAULT_REGISTER,Registration,报名
 UI_KALGAS_ASSAULT_REGISTERED,Registered,已报名
 UI_KALGAS_ASSAULT_RANK_TITLE,Rank,排名
 UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,传送至城镇
-UI_KALGAS_ASSAULT_RANK_WINNER,Winner: %s,胜者是： %s
-UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking: %s,我的排名是： %s
+UI_KALGAS_ASSAULT_RANK_WINNER,Winner: %s,胜者是：%s
+UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking: %s,我的排名是：%s
 UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,无记录
 UI_KALGAS_ASSAULT_RANK_KALGAS,Kalgas,卡尔加斯
 UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,神器
@@ -2538,8 +2538,8 @@ UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all item
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?",您的伴侣已提出分手。若您接受，伴侣仓库中的所有物品将永久消失，且您将无法再使用伴侣功能。是否接受？
 UI_COUPLE_PROPOSE,Propose,求婚
 UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,使用已放入的情侣戒指发起求婚。
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,需要的情侣等级： %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,需要的情侣点数： %d
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,需要的情侣等级：%d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,需要的情侣点数：%d
 UI_COUPLEBANK_TITLE,Couple Storage,情侣仓库
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,黄宝石
 UI_ULTIMATE_JEWEL_RUBY,Ruby,红宝石
@@ -2556,7 +2556,7 @@ UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item
 UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,时装道具一次仅可由 #b一名#nb NPC 穿戴。
 UI_HOUSINGWARDROBE_CONFIRM,Equip,装备
 UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,已选 NPC 将穿戴所选时装。同一件时装一次仅可由一名 NPC 穿戴。是否继续？
-UI_HOUSINGWARDROBE_USEDBY,Worn by %s,穿戴 NPC： %s
+UI_HOUSINGWARDROBE_USEDBY,Worn by %s,穿戴 NPC：%s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,卸下
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,卸下物品？
 UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,要从NPC身上取下该物品吗？
@@ -2572,8 +2572,8 @@ UI_PETTRAINING_NEXTCANDY,Next Candy In,下次糖果时间：
 UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的房屋仓库。是否继续？
 UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的背包。是否继续？
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在背包中通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
-UI_COUPLE_RING_TP,Teleports: %d,传送次数： %d
-UI_COUPLE_RING_CHEER,Cheers: %d,鼓励次数： %d
+UI_COUPLE_RING_TP,Teleports: %d,传送次数：%d
+UI_COUPLE_RING_CHEER,Cheers: %d,鼓励次数：%d
 UI_COUPLE_RING_SLOTS,Storage Slots: %d,情侣仓库: %d
 UI_COUPLE_MOTION_TITLE,Couple Emotes,情侣动作
 UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,你的伴侣想与你一同做出 %s 动作。是否接受？
@@ -2587,7 +2587,7 @@ UI_LIFE_HARVESTING_INFORMATION,Resource Information,资源信息
 UI_LIFE_EXPERTBTN,Set as Expertise,设为专长
 UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00 (Expert) Gathering Great Success Rate +10%%#nc",采集成功率 +%d%%\n采集大成功几率 +%d%%\n%s若未达成 100 点精通，则于周一 00:00 (专家) 采集大成功几率 +10%%#nc
 UI_LIFE_MASTERY,Mastery,精通
-UI_LIFE_EXPERT_TIME,Change Expertise In: %s,更改专长： %s
+UI_LIFE_EXPERT_TIME,Change Expertise In: %s,更改专长：%s
 UI_REPAIR_TITLE,Repair,维修
 UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),是否进行修理 %s？\n(%s)
 UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),是否进行修理 %s？\n(%s%%)
@@ -3199,7 +3199,7 @@ UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,凹陷暴击伤害
 UI_TOOLTIP_TRAP_RANGE,Trap Range,陷阱作用范围
 UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,3米范围内伤害​
 UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,超过5米后的伤害​
-UI_DUNGEON_MODLEVEL,Lv.%d,等级： %d
+UI_DUNGEON_MODLEVEL,Lv.%d,等级：%d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n当前加成：
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,自动攻击叠层几率
 UI_TOOLTIP_YOYORANGE,Yo-Yo Range,飞轮攻击距离
