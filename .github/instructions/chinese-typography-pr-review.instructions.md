@@ -25,7 +25,6 @@ This guideline applies **CJK Typography** and **Mixed Text Spacing** to ensure:
 Convert fullwidth punctuation to halfwidth:
 
 - `（ ） → ( )`
-- `： → :`
 
 ---
 
