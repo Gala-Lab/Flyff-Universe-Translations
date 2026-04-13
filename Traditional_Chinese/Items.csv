@@ -12190,7 +12190,7 @@ PROPITEM_TXT_011464,Lusaka's Crystal Wand,路查卡的水晶魔杖
 PROPITEM_TXT_011466,Lusaka's Crystal Staff,路查卡的水晶法杖
 PROPITEM_TXT_011468,Lusaka's Crystal Bow,路查卡的水晶弓
 PROPITEM_TXT_011470,Lusaka's Crystal Yo-Yo,路查卡的水晶溜刃
-PROPITEM_TXT_011471,An exquisitely crafted weapon found in The Wilds. It hums with power.,樂斯堤亞中發現的製作精美的武器。它充滿力量。
+PROPITEM_TXT_011471,An exquisitely crafted weapon found in The Wilds. It hums with power.,荒野叢境中發現的製作精美的武器。它充滿力量。
 PROPITEM_TXT_014606,Coral Cutlass,珊瑚彎刀
 PROPITEM_TXT_014608,Leviathan,利維坦
 PROPITEM_TXT_014610,Nautilus,鸚鵡螺
@@ -12266,7 +12266,7 @@ PROPITEM_TXT_018317,Fennith Boots,芬尼斯靴子
 PROPITEM_TXT_018319,Fennith Gauntlets,芬尼斯護手
 PROPITEM_TXT_018321,Fennith Helmet,芬尼斯頭盔
 PROPITEM_TXT_018323,Fennith Suit,芬尼斯衣
-PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",來自樂斯堤亞的神秘神器，充滿原始能量。
+PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",來自荒野叢境的神秘神器，充滿原始能量。
 PROPITEM_TXT_122300,Crumbling Coral Cutlass,破碎的珊瑚彎刀
 PROPITEM_TXT_122301,Lethargic Leviathan,昏睡的利維坦
 PROPITEM_TXT_122302,Neglected Nautilus,被忽視的鸚鵡螺
@@ -12423,7 +12423,7 @@ PROPITEM_TXT_019464,Destroyed Coral Shield,破碎的珊瑚之盾
 PROPITEM_TXT_019465,This shield has been damaged beyond repair.,此盾已嚴重損壞，無法修復。
 PROPITEM_TXT_019466,Lusaka's Shield,路查卡之盾
 PROPITEM_TXT_019467,Lusaka's Crystal Shield,路查卡的水晶盾
-PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,一面精緻打造的盾牌，發現於樂斯堤亞之地，散發著強大的能量。
+PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,一面精緻打造的盾牌，發現於荒野叢境之地，散發著強大的能量。
 PROPITEM_TXT_150000,Lightning Strike,雷霆之怒
 PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",對積分榜上位於你前方的玩家召喚一道雷擊，使其 10 秒內減速 20%。
 PROPITEM_TXT_150002,Guided Missile,制導導彈
@@ -14104,7 +14104,7 @@ PROPITEM_TXT_722494,Darkon Wooden Plain Floor Single Pack,Darkon Wooden Plain Fl
 PROPITEM_TXT_722495,Darkon Wooden Mosaic Floor Single Pack,Darkon Wooden Mosaic Floor Single Pack
 PROPITEM_TXT_722496,Forsaken Blue Floor Single Pack,Forsaken Blue Floor Single Pack
 PROPITEM_TXT_722497,Plain Forsaken Blue Floor Single Pack,Plain Forsaken Blue Floor Single Pack
-PROPITEM_TXT_722498,Wilds Floor Single Pack,樂斯堤亞地板裝飾組(單件)
+PROPITEM_TXT_722498,Wilds Floor Single Pack,荒野叢境地板裝飾組(單件)
 PROPITEM_TXT_722499,Pebble Floor Single Pack,Pebble Floor Single Pack
 PROPITEM_TXT_722500,Fortress Floor Single Pack,Fortress Floor Single Pack
 PROPITEM_TXT_722501,Cracked Floor Single Pack,Cracked Floor Single Pack
@@ -14159,7 +14159,7 @@ PROPITEM_TXT_722549,Darkon Wooden Plain Ceiling Single Pack,Darkon Wooden Plain 
 PROPITEM_TXT_722550,Darkon Wooden Mosaic Ceiling Single Pack,Darkon Wooden Mosaic Ceiling Single Pack
 PROPITEM_TXT_722551,Forsaken Blue Ceiling Single Pack,Forsaken Blue Ceiling Single Pack
 PROPITEM_TXT_722552,Plain Forsaken Blue Ceiling Single Pack,Plain Forsaken Blue Ceiling Single Pack
-PROPITEM_TXT_722553,Wilds Ceiling Single Pack,樂斯堤亞天花板裝飾組(單件)
+PROPITEM_TXT_722553,Wilds Ceiling Single Pack,荒野叢境天花板裝飾組(單件)
 PROPITEM_TXT_722554,Pebble Ceiling Single Pack,Pebble Ceiling Single Pack
 PROPITEM_TXT_722555,Fortress Ceiling Single Pack,Fortress Ceiling Single Pack
 PROPITEM_TXT_722556,Cracked Ceiling Single Pack,Cracked Ceiling Single Pack
@@ -15998,10 +15998,10 @@ PROPITEM_TXT_725127,Magic Clock of Storm Peak (5 Min),Magic Clock of Storm Peak 
 PROPITEM_TXT_725128,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.
 PROPITEM_TXT_725129,Magic Clock of Storm Peak (10 Min),Magic Clock of Storm Peak (10 Min)
 PROPITEM_TXT_725130,Re-entry cooldown for Storm Peak has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,Re-entry cooldown for Storm Peak has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.
-PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),樂斯堤亞魔法時鐘(5分鐘)
-PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,樂斯堤亞重新進入冷卻時間已縮短 5 分鐘。\n此道具今日的使用次數與其他樂斯堤亞的魔法時鐘共用。
-PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),樂斯堤亞魔法時鐘(10分鐘)
-PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,樂斯堤亞重新進入冷卻時間已縮短 10分鐘。\n此道具今日的使用次數與其他樂斯堤亞的魔法時鐘共用。
+PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),荒野叢境魔法時鐘(5分鐘)
+PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,荒野叢境重新進入冷卻時間已縮短 5 分鐘。\n此道具今日的使用次數與其他荒野叢境的魔法時鐘共用。
+PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),荒野叢境魔法時鐘(10分鐘)
+PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,荒野叢境重新進入冷卻時間已縮短 10分鐘。\n此道具今日的使用次數與其他荒野叢境的魔法時鐘共用。
 PROPITEM_TXT_725135,Adventurer's Consumable Package,Adventurer's Consumable Package
 PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activation, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","A package containing 10x Upcut Stone, 10x Activation, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked."
 PROPITEM_TXT_725137,PickUp Pet Package II,PickUp Pet Package II
