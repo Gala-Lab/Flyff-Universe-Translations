@@ -20,7 +20,7 @@ CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, y
 CLIENT_FAQ_INC_000018,,
 CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.",在技能學習上，必須先滿足可習得的角色等級及前置技能。所以無法習得技能時，請確定是否滿足習得條件。
 CLIENT_FAQ_INC_000020,How do I fly?,飛行
-CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,等級到達20級之後，就會擁有1級的飛行等級。有了1級的飛行等級，就表示可以飛在天空了。但是想要飛行就必須擁有飛行器具(掃帚或是滑板)。您可以到航空站附近尋找經營飛行器具店的NPC購買。如果您在布拉里斯，建議您找寶雅小姐購買飛行器具。
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,等級到達20級之後，就會擁有1級的飛行等級。有了1級的飛行等級，就表示可以飛在天空了。但是想要飛行就必須擁有飛行器具 (掃帚或是滑板)。您可以到航空站附近尋找經營飛行器具店的NPC購買。如果您在布拉里斯，建議您找寶雅小姐購買飛行器具。
 CLIENT_FAQ_INC_000022,How do I move the camera.,操作視角。
 CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,舊版本：按住滑鼠滾輪後移動滑鼠。新版本：按住滑鼠右鍵後移動滑鼠。視角的放大縮小可使用滑鼠滾輪，視角的旋轉可利用鍵盤的方向鍵操作。
 CLIENT_FAQ_INC_000024,How do I return to my default camera position?,把視角歸回預設角度。
