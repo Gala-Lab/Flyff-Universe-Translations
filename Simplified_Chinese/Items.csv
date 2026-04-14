@@ -2142,23 +2142,23 @@ PROPITEM_TXT_004127,STA +1 Ring,体质+1
 PROPITEM_TXT_004128,Arek Ring +0,敏捷戒指
 PROPITEM_TXT_004129,DEX +1 Ring,敏捷+1
 PROPITEM_TXT_004130,Mighteer +1,战神耳环+1
-PROPITEM_TXT_004131,+120 Damage Earring,攻击力+120
+PROPITEM_TXT_004131,+120 Damage Earring,追加伤害 +120
 PROPITEM_TXT_004132,Mighteer +2,战神耳环+2
-PROPITEM_TXT_004133,+175 Damage Earring,攻击力+175
+PROPITEM_TXT_004133,+175 Damage Earring,追加伤害 +175
 PROPITEM_TXT_004134,Mighteer +3,战神耳环+3
-PROPITEM_TXT_004135,+250 Damage Earring,攻击力+250
+PROPITEM_TXT_004135,+250 Damage Earring,追加伤害 +250
 PROPITEM_TXT_004136,Penzeru +1,天衣耳环+1
-PROPITEM_TXT_004137,+150 Defense Earring,防御力+150
+PROPITEM_TXT_004137,+150 Defense Earring,防御力 +150
 PROPITEM_TXT_004138,Penzeru +2,天衣耳环+2
-PROPITEM_TXT_004139,+175 Defense Earring,防御力+175
+PROPITEM_TXT_004139,+175 Defense Earring,防御力 +175
 PROPITEM_TXT_004140,Penzeru +3,天衣耳环+3
-PROPITEM_TXT_004141,+200 Defense Earring,防御力+200
+PROPITEM_TXT_004141,+200 Defense Earring,防御力 +200
 PROPITEM_TXT_004142,Speedo +1,虚幻耳环+1
-PROPITEM_TXT_004143,+3% Block Earring,格挡率+3%
+PROPITEM_TXT_004143,+3% Block Earring,格挡 +3%
 PROPITEM_TXT_004144,Speedo +2,虚幻耳环+2
-PROPITEM_TXT_004145,+6% Block Earring,格挡率+6%
+PROPITEM_TXT_004145,+6% Block Earring,格挡 +6%
 PROPITEM_TXT_004146,Speedo +3,虚幻耳环+3
-PROPITEM_TXT_004147,+10% Block Earring,格挡率+10%
+PROPITEM_TXT_004147,+10% Block Earring,格挡 +10%
 PROPITEM_TXT_004148,Pep +1,血脉项链+1
 PROPITEM_TXT_004150,Pep +2,血脉项链+2
 PROPITEM_TXT_004152,Pep +3,血脉项链+3
@@ -2169,27 +2169,27 @@ PROPITEM_TXT_004160,Enduky +1,冰晶活力项链+1
 PROPITEM_TXT_004162,Enduky +2,冰晶活力项链+2
 PROPITEM_TXT_004164,Enduky +3,冰晶活力项链+3
 PROPITEM_TXT_004166,Strente +1,神力戒指+1
-PROPITEM_TXT_004167,STR +10 Ring,力量＋10戒指
+PROPITEM_TXT_004167,STR +10 Ring,力量 +10 戒指
 PROPITEM_TXT_004168,Strente +2,神力戒指+2
-PROPITEM_TXT_004169,STR +20 Ring,力量＋20，限制等级73以上的戒指
+PROPITEM_TXT_004169,STR +20 Ring,力量 +20，限制等级 73 以上的戒指
 PROPITEM_TXT_004170,Strente +3,神力戒指+3
-PROPITEM_TXT_004171,STR +30 Ring,力量＋30，限制等级88以上的戒指
+PROPITEM_TXT_004171,STR +30 Ring,力量 +30，限制等级 88 以上的戒指
 PROPITEM_TXT_004172,Intiret +1,神意戒指+1
-PROPITEM_TXT_004173,INT +10 Ring,智力＋10的戒指
+PROPITEM_TXT_004173,INT +10 Ring,智力 +10 的戒指
 PROPITEM_TXT_004174,Intiret +2,神意戒指+2
-PROPITEM_TXT_004175,INT +20 Ring,智力＋20，限制等级73以上的戒指
+PROPITEM_TXT_004175,INT +20 Ring,智力 +20，限制等级 73 以上的戒指
 PROPITEM_TXT_004176,Intiret +3,神意戒指+3
-PROPITEM_TXT_004177,INT +30 Ring,智力＋30，限制等级88以上的戒指
+PROPITEM_TXT_004177,INT +30 Ring,智力 +30，限制等级 88 以上的戒指
 PROPITEM_TXT_004178,Dexion +1,风神戒指+1
-PROPITEM_TXT_004179,DEX +10 Ring,敏捷＋10的戒指
+PROPITEM_TXT_004179,DEX +10 Ring,敏捷 +10 的戒指
 PROPITEM_TXT_004180,Dexion +2,风神戒指+2
-PROPITEM_TXT_004181,DEX +20 Ring,敏捷＋20，限制等级73以上的戒指
+PROPITEM_TXT_004181,DEX +20 Ring,敏捷 +20，限制等级 73 以上的戒指
 PROPITEM_TXT_004182,Dexion +3,风神戒指+3
-PROPITEM_TXT_004183,DEX +30 Ring,敏捷+30，限制等级88以上的戒指
+PROPITEM_TXT_004183,DEX +30 Ring,敏捷 +30，限制等级 88 以上的戒指
 PROPITEM_TXT_004184,Meteor,流星戒指
-PROPITEM_TXT_004185,All Stats +10 Ring,全属性+10
+PROPITEM_TXT_004185,All Stats +10 Ring,全属性 +10
 PROPITEM_TXT_004186,Meteofy,星云戒指
-PROPITEM_TXT_004187,All Stats +20 Ring,全属性+20
+PROPITEM_TXT_004187,All Stats +20 Ring,全属性 +20
 PROPITEM_TXT_004188,P.K STR Penalty,P.K STR惩罚
 PROPITEM_TXT_004190,P.K STA Penalty,P.K STA惩罚
 PROPITEM_TXT_004192,P.K INT Penalty,P.K INT惩罚
@@ -18969,34 +18969,34 @@ PROPITEM_TXT_134587,Cut Jade of Lightning Defense (B),Cut Jade of Lightning Defe
 PROPITEM_TXT_134588,Cut Jade of Lightning Defense (A),Cut Jade of Lightning Defense (A)
 PROPITEM_TXT_134589,Cut Jade of Lightning Defense (A+),Cut Jade of Lightning Defense (A+)
 PROPITEM_TXT_134590,An enchanted jade work that increases lightning defense.,An enchanted jade work that increases lightning defense.
-PROPITEM_TXT_134591,Mighteer +4,Mighteer +4
-PROPITEM_TXT_134592,+345 Damage Earring,+345 Damage Earring
-PROPITEM_TXT_134593,Mighteer +5,Mighteer +5
-PROPITEM_TXT_134594,+460 Damage Earring,+460 Damage Earring
-PROPITEM_TXT_134595,Penzeru +4,Penzeru +4
-PROPITEM_TXT_134596,+225 Defense Earring,+225 Defense Earring
-PROPITEM_TXT_134597,Penzeru +5,Penzeru +5
+PROPITEM_TXT_134591,Mighteer +4,战神耳环 +4
+PROPITEM_TXT_134592,+345 Damage Earring,追加伤害 +345
+PROPITEM_TXT_134593,Mighteer +5,战神耳环 +5
+PROPITEM_TXT_134594,+460 Damage Earring,追加伤害 +460
+PROPITEM_TXT_134595,Penzeru +4,天衣耳环 +4
+PROPITEM_TXT_134596,+225 Defense Earring,防御力 +225
+PROPITEM_TXT_134597,Penzeru +5,天衣耳环 +5
 PROPITEM_TXT_134598,#ERROR!,#ERROR!
-PROPITEM_TXT_134599,Speedo +4,Speedo +4
-PROPITEM_TXT_134600,+15% Block Earring,+15% Block Earring
-PROPITEM_TXT_134601,Speedo +5,Speedo +5
-PROPITEM_TXT_134602,+21% Block Earring,+21% Block Earring
-PROPITEM_TXT_134603,Pep +4,Pep +4
-PROPITEM_TXT_134604,Pep +5,Pep +5
-PROPITEM_TXT_134605,Socecle +4,Socecle +4
-PROPITEM_TXT_134606,Socecle +5,Socecle +5
-PROPITEM_TXT_134607,Strente +4,Strente +4
-PROPITEM_TXT_134608,STR +40 Ring,STR +40 Ring
-PROPITEM_TXT_134609,Strente +5,Strente +5
-PROPITEM_TXT_134610,STR +50 Ring,STR +50 Ring
-PROPITEM_TXT_134611,Intiret +4,Intiret +4
-PROPITEM_TXT_134612,INT +40 Ring,INT +40 Ring
-PROPITEM_TXT_134613,Intiret +5,Intiret +5
-PROPITEM_TXT_134614,INT +50 Ring,INT +50 Ring
-PROPITEM_TXT_134615,Dexion +4,Dexion +4
-PROPITEM_TXT_134616,DEX +40 Ring,DEX +40 Ring
-PROPITEM_TXT_134617,Dexion +5,Dexion +5
-PROPITEM_TXT_134618,DEX +50 Ring,DEX +50 Ring
+PROPITEM_TXT_134599,Speedo +4,虚幻耳环 +4
+PROPITEM_TXT_134600,+15% Block Earring,格挡 +15%
+PROPITEM_TXT_134601,Speedo +5,虚幻耳环 +5
+PROPITEM_TXT_134602,+21% Block Earring,格挡 +21%
+PROPITEM_TXT_134603,Pep +4,血脉项链 +4
+PROPITEM_TXT_134604,Pep +5,血脉项链 +5
+PROPITEM_TXT_134605,Socecle +4,魔力之钥项链 +4
+PROPITEM_TXT_134606,Socecle +5,魔力之钥项链 +5
+PROPITEM_TXT_134607,Strente +4,神力戒指 +4
+PROPITEM_TXT_134608,STR +40 Ring,力量 +40 戒指
+PROPITEM_TXT_134609,Strente +5,神力戒指 +5
+PROPITEM_TXT_134610,STR +50 Ring,力量 +50 戒指
+PROPITEM_TXT_134611,Intiret +4,神意戒指 +4
+PROPITEM_TXT_134612,INT +40 Ring,智力 +40 戒指
+PROPITEM_TXT_134613,Intiret +5,神意戒指 +5
+PROPITEM_TXT_134614,INT +50 Ring,智力 +50 戒指
+PROPITEM_TXT_134615,Dexion +4,风神戒指 +4
+PROPITEM_TXT_134616,DEX +40 Ring,敏捷 +40 戒指
+PROPITEM_TXT_134617,Dexion +5,风神戒指 +5
+PROPITEM_TXT_134618,DEX +50 Ring,敏捷 +50 戒指
 PROPITEM_TXT_134620,Master's Silver Ring,Master's Silver Ring
 PROPITEM_TXT_134621,Handcrafted Gold Ring,Handcrafted Gold Ring
 PROPITEM_TXT_134622,Master's Gold Ring,Master's Gold Ring
