@@ -11,7 +11,7 @@ UI_HOME_ALREADYACCOUNT,Already have an account?,已經有一個帳號了嗎?
 UI_HOME_WEBSITE,Website,官方網站
 UI_HOME_CREDITS,Credits,製作人員
 UI_HOME_OR,Or,或
-UI_HOME_LOGIN_DOTS,Email:,郵箱：
+UI_HOME_LOGIN_DOTS,Email:,電子郵件：
 UI_HOME_PASSWORD,Password:,密碼：
 UI_HOME_RECOVER,Forgot password?,忘記密碼?
 UI_SELECTSERVER_TITLE,Select Server,選擇伺服器
@@ -168,15 +168,15 @@ UI_MESSAGE_SEND,Send,傳送
 UI_SHOP_TITLE,Shop,商店
 UI_SHOP_ITEMSLIST,Item List,物品清單
 UI_TOOLTIP_PRICE,Price: %s,價格：%s
-UI_TOOLTIP_SELLPRICE,Selling Price: %s,販賣價格：%s
+UI_TOOLTIP_SELLPRICE,Selling Price: %s,出售價格：%s
 UI_SHOP_FILTER,Search,搜尋
 UI_SHOP_LEVEL,By Level,依等級
 UI_SHOP_GENDER,By Gender,依性別
 UI_SHOP_ITEMPRICE,Item Price,物品價格
-UI_SELLITEM_TITLE,Confirm Sale,販賣確認
-UI_SELLITEM_CONFIRM,Sell this item?,確定要販賣此物品嗎?
+UI_SELLITEM_TITLE,Confirm Sale,出售確認
+UI_SELLITEM_CONFIRM,Sell this item?,確定要出售此物品嗎?
 UI_SELLITEM_QTY,Quantity:,數量
-UI_SELLITEM_PRICE,Selling Price:,販賣價格：
+UI_SELLITEM_PRICE,Selling Price:,出售價格：
 UI_MSGBOX_VALID,OK,確認
 UI_BUYITEM_TITLE,Confirm Item Purchase,確認購買物品
 UI_BUYITEM_CONFIRM,How many would you like to buy?,您想購買嗎?
@@ -517,7 +517,7 @@ UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,新增
 UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,移除
 UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,金幣進帳
 UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,支出金幣
-UI_MOVEPENYA_TITLE,Transfer Penya,移動金幣
+UI_MOVEPENYA_TITLE,Transfer Penya,轉移金幣
 UI_MOVEPENYA_QUESTION,How much would you like to transfer?,請問要移動多少錢?
 UI_MOVEPENYA_INPUT,Penya:,金幣：
 UI_GUILDRANK_TITLE_GUILD,Guild Ranking,公會排名
@@ -623,14 +623,14 @@ UI_INFO_PANG_CHECKTHELIST,Check the List,檢視清單
 UI_TUTORIAL_LIST_TITLE,Tutorial,教學
 UI_DROP_ITEM_CONFIRM,Drop this item?,確定要丟棄這個物品嗎?
 UI_PRIVATE_SHOP_NAME,Shop Name,商店名稱
-UI_PRIVATE_SHOP_LIST,Sale List,販賣清單
+UI_PRIVATE_SHOP_LIST,Sale List,出售清單
 UI_PRIVATE_SHOP_RESET,Reset,重新分配
 UI_PRIVATE_SHOP_CHAT,Chat,聊天
-UI_PRIVATE_SHOP_SELL_TITLE,List Item for Sale,登錄要販賣的物品
+UI_PRIVATE_SHOP_SELL_TITLE,List Item for Sale,登錄要出售的物品
 UI_PRIVATE_SHOP_QUANTITY,Quantity,數量
 UI_PRIVATE_SHOP_UNIT_PRICE,Unit Price,單價
-UI_PRIVATE_SHOP_OPEN,Open your shop now?,要開始販賣道具嗎?
-UI_PRIVATE_SHOP_CLOSE,Close your shop?,要結束販賣道具嗎?
+UI_PRIVATE_SHOP_OPEN,Open your shop now?,要開始出售道具嗎?
+UI_PRIVATE_SHOP_CLOSE,Close your shop?,要結束出售道具嗎?
 UI_PERSONAL_SHOP_TITLE,%s's Private Shop,%s的個人商店
 UI_PRIVATE_SHOP_BUY_TITLE,Purchase Item,購買物品
 UI_PRIVATE_SHOP_BUY,Purchase,購買
@@ -645,7 +645,7 @@ UI_PERSONAL_SHOP_CHAT_SEND,Send,傳送
 UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s 剛剛進入了。
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s 離開了。
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已購買 %s(%d)，花費了 %lld 金幣
-UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認販賣商城物品
+UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認出售商城物品
 UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,這是商城物品，確定要出售嗎?\n一旦出售將無法取回。
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[角色綁定]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[帳號綁定]
@@ -1221,11 +1221,11 @@ UI_DAMAGEMETER_RESET,Reset Damage Statistics,重置傷害統計
 UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,傷害數據 %d/%d
 UI_TOOLTIP_SKILL_NOFLY,Flying: No,飛行中：否
 UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,顯示/隱藏 傷害統計
-UI_SHOP_QUICK_SELL,Quick Sell,快速販賣
-UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,快速販賣一個類別的物品。
+UI_SHOP_QUICK_SELL,Quick Sell,快速出售
+UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,快速出售一個類別的物品。
 UI_SHOP_BUY_BACK,Buy Back,回購
 UI_SHOP_BUY_BACK_TIP,Buy back items you recently sold by mistake.,購回最近不小心賣出的物品。
-UI_SHOP_QUICK_SELL_CONFIRM,Sell,販賣
+UI_SHOP_QUICK_SELL_CONFIRM,Sell,出售
 UI_SHOP_QUICK_SELL_TOTAL,Total:,總共：
 UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,罕見及以下
 UI_SHOP_QUICK_SELL_RARE,Rare & Lower,稀有及以下
@@ -1257,7 +1257,7 @@ UI_SKILL_COMBO,Combo Bar,連續技能欄
 UI_CASHSHOP_PENYA_ONLY,Penya Only,僅限金幣
 UI_CASHSHOP_PENYA,Penya,金幣
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),金幣 (VIP)
-UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b無法交易或販賣#nb。
+UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b無法交易或出售#nb。
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次購買#b不是商品#nb。
 UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,爆擊抗性
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,減少 PvP 傷害
@@ -1284,7 +1284,7 @@ UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PvP),最大攻擊目標數量：%d /
 UI_PRIVATE_SHOP_OK,Shop,商店
 UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,開啟個人商店
 UI_PRIVATE_SHOP_VENDOR,Vendor,行動商店
-UI_PRIVATE_SHOP_VENDOR_TIP,Create a vendor to sell your items for you,創建一個為您販賣物品的行動商店。
+UI_PRIVATE_SHOP_VENDOR_TIP,Create a vendor to sell your items for you,創建一個為您出售物品的行動商店。
 UI_PRIVATE_SHOP_VENDOR_OPEN,Ready to create a vendor?,是否創建一個行動商店?
 UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,行動商店外觀：
 UI_TIMEINFO_TITLE,Info,資訊
@@ -1310,7 +1310,7 @@ UI_INVENTORY_DROP,Drop,掉落
 UI_INVENTORY_DELETE_BTN,Delete,刪除
 UI_INVENTORY_ACTION_USE,Use,使用
 UI_INVENTORY_ACTION_EQUIP,Equip,裝備
-UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPCs.,無法販賣給 NPC
+UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPCs.,無法出售給 NPC
 UI_UPGRADE_PROB,Success: #b%s#nb,成功：#b%s#nb
 UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,高級著色器
 UI_OPTION_BLOOM,Bloom,光暈
@@ -2368,7 +2368,7 @@ UI_COUPON_LOGS_PAGE,Used Coupons,已使用優惠券
 UI_COUPON_LOGS_CODE,Code,號碼
 UI_COUPON_LOGS_USETIME,Used at,使用日期
 UI_COUPONGIFT_TITLE,Coupon Gift,優惠券禮物
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!",#cffff0000我們為您準備了一些東西！#nc\n\n感謝您玩 Flyff Universe #b%s#nb 版本。\n\n作為禮物，我們已向您的郵箱發送了優惠券代碼。\n您可以隨時在任何伺服器或角色上從 #bEvents#nb 選單中提取它。\n\n享受！
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!",#cffff0000我們為您準備了一些東西！#nc\n\n感謝您玩 Flyff Universe #b%s#nb 版本。\n\n作為禮物，我們已向您的電子郵件發送了優惠券代碼。\n您可以隨時在任何伺服器或角色上從 #bEvents#nb 選單中提取它。\n\n享受！
 UI_MENU_REMOVE_SHORTCUT,Unpin,取消固定
 UI_MENU_SAVE,Save changes,保存變化
 UI_MENU_EDIT,Edit pinned menu items,編輯固定選單項目
