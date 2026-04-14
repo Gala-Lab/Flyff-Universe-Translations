@@ -2245,7 +2245,7 @@ UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,排名
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,队伍
 UI_KALGAS_ASSAULT_RANK_NAME,Name,名称
 UI_KALGAS_ASSAULT_RANK_POINT,Point,点数
-UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,首领怪物伤害
+UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,对首领造成伤害
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,击杀数：%d
 UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,卡尔加斯突袭复活
 UI_KALGAS_ASSAULT_REVIVAL_COUNT,Revive in: %d sec,%d 秒后复活
@@ -3191,7 +3191,7 @@ UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(定身)
 UI_ACTIVE_SKILLS,Active Skills,主动技能
 UI_PASSIVE_SKILLS,Passive Skills,被动技能
 UI_MASTER_SKILLS,Master Variations,精通变体
-UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领来袭伤害
+UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领伤害
 UI_TOOLTIP_DMG_TICK,Damage Tick,持续伤害间隔
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,生命值阈值：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,生命值阈值：低于 %d%%

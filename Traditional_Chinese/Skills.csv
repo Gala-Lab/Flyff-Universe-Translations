@@ -656,18 +656,18 @@ PROPSKILL_TXT_140016,Asylum Attack Low Bless,禁域・攻擊微弱祝福
 PROPSKILL_TXT_140017,The Asylum sharpens your resolve as your attack power increases by 5% with otherworldly force.,禁域磨礪你的意志，在異界之力加持下，攻擊力提升5%。
 PROPSKILL_TXT_140018,Asylum Attack High Bless,禁域・攻擊強化祝福
 PROPSKILL_TXT_140019,"The Asylum bestows a 10% attack boost, filling you with eerie strength.",禁域賜予你攻擊力提升10%，讓你充滿詭異的力量。
-PROPSKILL_TXT_140020,Asylum Boss DMG Low Bless,禁域・首領增傷微弱祝福
-PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses.",在禁域之力的加持下，你對首領造成的傷害提升5%。
-PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,禁域・首領增傷祝福
-PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你體內洶湧！首領受到你的攻擊時，所受傷害增加10%。
+PROPSKILL_TXT_140020,Asylum Boss DMG Low Bless,禁域・Boss 增傷微弱祝福
+PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses.",在禁域之力的加持下，你對 Boss 造成的傷害提升5%。
+PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,禁域・Boss 增傷祝福
+PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你體內洶湧！ Boss 受到你的攻擊時，所受傷害增加10%。
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,禁域・全屬性微弱祝福
 PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,禁域賜予你非自然的調和之力。你的基礎屬性提升10點，彷彿被無形之力所指引。
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,禁域・全屬性強化祝福
 PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.",禁域賜予你全屬性10%的提升，讓你充滿詭異的力量。
-PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,禁域・首領減傷祝福
-PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,禁域用陰影將你遮蔽。來自首領的傷害降低5%。
-PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,禁域・首領大減傷祝福
-PROPSKILL_TXT_140031,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.,來自禁域的守護之力壓制了首領的狂怒。你受到來自首領的傷害降低10%。
+PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,禁域・Boss 減傷祝福
+PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,禁域用陰影將你遮蔽。來自 Boss 的傷害降低5%。
+PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,禁域・Boss 大減傷祝福
+PROPSKILL_TXT_140031,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.,來自禁域的守護之力壓制了 Boss 的狂怒。你受到來自 Boss 的傷害降低10%。
 PROPSKILL_TXT_140032,Asylum HP Low Curse,禁域・生命值弱化詛咒
 PROPSKILL_TXT_140033,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%.,來自禁域的詛咒削弱了你的生命力。最大生命值降低5%。
 PROPSKILL_TXT_140034,Asylum HP High Curse,禁域・生命值強力詛咒
@@ -688,17 +688,17 @@ PROPSKILL_TXT_140048,Asylum Attack Low Curse,禁域・攻擊力弱化詛咒
 PROPSKILL_TXT_140049,The curse dulls your strength. Attack power reduced by 5% under the Asylum's shadow.,詛咒削弱了你的力量。在禁域的陰影下，攻擊力降低5%。
 PROPSKILL_TXT_140050,Asylum Attack High Curse,禁域・攻擊力強力詛咒
 PROPSKILL_TXT_140051,The Asylum saps your aggression. Attack power falls by 10%.,禁域汲取了你的戰意。攻擊力降低10%。
-PROPSKILL_TXT_140052,Asylum Boss DMG Low Curse,禁域・首領傷害弱化詛咒
-PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.,禁域扭曲了你的攻擊。對首領造成的傷害降低5%。
-PROPSKILL_TXT_140054,Asylum Boss DMG High Curse,禁域・首領傷害強力詛咒
-PROPSKILL_TXT_140055,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.,面對強者時你的攻擊愈發無力。在詛咒影響下，對首領造成的傷害降低10%。
+PROPSKILL_TXT_140052,Asylum Boss DMG Low Curse,禁域・Boss 傷害弱化詛咒
+PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.,禁域扭曲了你的攻擊。對 Boss 造成的傷害降低5%。
+PROPSKILL_TXT_140054,Asylum Boss DMG High Curse,禁域・Boss 傷害強力詛咒
+PROPSKILL_TXT_140055,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.,面對強者時你的攻擊愈發無力。在詛咒影響下，對 Boss 造成的傷害降低10%。
 PROPSKILL_TXT_140056,Asylum All Stats Low Curse,禁域・全屬性弱化詛咒
 PROPSKILL_TXT_140057,The curse fractures your inner balance. All base stats fall by 5.,詛咒撕裂了你內在的平衡。所有基礎屬性降低5點。
 PROPSKILL_TXT_140058,Asylum All Stats High Curse,禁域・全屬性強力詛咒
 PROPSKILL_TXT_140059,The Asylum crushes your essence. All base stats are reduced by 10.,禁域碾碎了你的本源。所有基礎屬性降低10點。
-PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,禁域・首領詛咒
-PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,禁域揭露了你的弱點。受到首領造成的傷害提高5%。
-PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,禁域・首領降臨詛咒
+PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,禁域・Boss 詛咒
+PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,禁域揭露了你的弱點。受到 Boss 造成的傷害提高5%。
+PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,禁域・Boss 降臨詛咒
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,在禁域的詛咒之下，你的防禦開始動搖。首領級敵人對你造成的傷害提高10%。
 PROPSKILL_TXT_140064,Trap: Debuff,陷阱：減益
 PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,部署一個陷阱，造成傷害並有15%的機率使目標減速。
