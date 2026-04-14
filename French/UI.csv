@@ -1452,7 +1452,7 @@ UI_CRAFTPETCANDY_MAT,Harvested Berry,Baie Récoltée
 UI_CRAFTPETCANDY_CANDY,Pet Candy,Bonbon pour Familier
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000Le Dé de Puissance Scintillant obtenu sera également Liant.#nc
 UI_TOOLTIP_DURATION,Duration:,Durée :
-UI_TOOLTIP_DURATION_ONLINE,(Online Only),(En ligne)
+UI_TOOLTIP_DURATION_ONLINE,(Online Only),(En ligne uniquement)
 UI_TOOLTIP_DURATION_OFFLINE,(Online & Offline),(Hors ligne inclus)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Après première utilisation)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Durée Boutique :
