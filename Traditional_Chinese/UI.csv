@@ -2368,7 +2368,7 @@ UI_COUPON_LOGS_PAGE,Used Coupons,已使用優惠券
 UI_COUPON_LOGS_CODE,Code,號碼
 UI_COUPON_LOGS_USETIME,Used at,使用日期
 UI_COUPONGIFT_TITLE,Coupon Gift,優惠券禮物
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!",#cffff0000我們為您準備了一些東西！#nc\n\n感謝您玩 Flyff Universe #b%s#nb 版本。\n\n作為禮物，我們已向您的電子郵件發送了優惠券代碼。\n您可以隨時在任何伺服器或角色上從 #bEvents#nb 選單中提取它。\n\n享受！
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!",#cffff0000我們為您準備了一些東西！#nc\n\n感謝您玩 Flyff Universe #b%s#nb 版本。\n\n作為禮物，我們已將優惠券代碼發送到您的遊戲內信箱。\n您可以隨時在任何伺服器或角色上從 #bEvents#nb 選單中提取它。\n\n享受！
 UI_MENU_REMOVE_SHORTCUT,Unpin,取消固定
 UI_MENU_SAVE,Save changes,保存變化
 UI_MENU_EDIT,Edit pinned menu items,編輯固定選單項目
