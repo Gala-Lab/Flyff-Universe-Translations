@@ -348,7 +348,7 @@ UI_POST_TITLE,Mailbox,Mailbox
 UI_POST_TAB_SEND,Send Mail,Verstuur Mail
 UI_POST_TAB_RECEIVE,Inbox,Inbox
 UI_OPTION_UISCALE,Scale,Schaal
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,Lettergrootte
 UI_IGNORELIST_TITLE,Ignore List,Negeerlijst
 UI_IGNORELIST_COUNT,Ignored Players: %d,Genegeerde lijst: %d
 UI_CHATFILTER_TITLE,Chat Filter,Chatfilter
@@ -876,7 +876,7 @@ UI_APP_QUIT_TIP,Exit the game.,Programma Afsluiten
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Open the customer support page in a new tab.
 UI_APP_PRIVACY_TIP,Open Privacy Settings.,Open Privacy Settings.
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Uitloggen
-UI_APP_OPTION_TIP,Open the game's options window.,Optie
+UI_APP_OPTION_TIP,Open the game's options window.,Open het optievenster van het spel.
 UI_APP_MAP_TIP,View the world map.,View the world map.
 UI_APP_NAVIGATOR_TIP,Open the mini-map widget.,Open the mini-map widget.
 UI_APP_NOTICE_TIP,Notice,Notice
@@ -975,7 +975,7 @@ UI_WORLD_TURBO_TIP,Fuel,Fuel
 UI_NAVIGATOR_SHIP,Ship,Ship
 UI_OPTION_TOON_STYLE,Outline,Omlijning
 UI_OPTION_RIM_OUTLINE,Rim Outlines,Rim Outlines
-UI_APP_WIKI_TIP,Browse the Flyffipedia,Browse the Flyffipedia
+UI_APP_WIKI_TIP,Browse the Flyffipedia,Bekijk de Flyffipedia
 UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,I challenge you to a game of Rock-Paper-Scissors!
 UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,Steen-Papier-Schaar
 UI_ROSHAMBO_VS,VS,VS
@@ -983,15 +983,15 @@ UI_ROSHAMBO_SCISSOR,Scissors,Schaar
 UI_ROSHAMBO_ROCK,Rock,Steen
 UI_ROSHAMBO_PAPER,Paper,Papier
 UI_ROSHAMBO_WINNINGCOUNT,%d win(s),%d overwinning(en)
-UI_ROSHAMBO_DEFEAT,You Lose!,You Lose!
-UI_ROSHAMBO_WIN_TITLE,You Win!,You Win!
+UI_ROSHAMBO_DEFEAT,You Lose!,Je hebt verloren!
+UI_ROSHAMBO_WIN_TITLE,You Win!,Je hebt gewonnen!
 UI_ROSHAMBO_WIN_END,End,End
 UI_ROSHAMBO_WIN_NEXT,Next,Volgende
 UI_ROSHAMBO_WIN_MSG,"Press ""End"" to claim your current prize and stop playing, or press ""Next"" to keep playing for more prizes.","Press ""End"" to claim your current prize and stop playing, or press ""Next"" to keep playing for more prizes."
 UI_ROSHAMBO_WIN_MSG2,"Note: If you keep playing, you will forfeit your current prize.","Note: If you keep playing, you will forfeit your current prize."
 UI_ROSHAMBO_WIN_MSG3,"Congratulations, you won %d time(s)! You receive %s x%d.","Congratulations, you won %d time(s)! You receive %s x%d."
 UI_EXCHANGE_COUNT_TITLE,Input Item Quantity,Input Item Quantity
-UI_EXCHANGE_COUNT_MSG,How many?,How many?
+UI_EXCHANGE_COUNT_MSG,How many?,Hoeveel?
 UI_EXCHANGE_COUNT_LABEL,Number:,Nummer:
 UI_TOOLTIP_PET_REAR,[Raised Pet],[Raised Pet]
 UI_TOOLTIP_PET_PICKUP,[Pickup Pet],[Pickup Pet]
@@ -1343,13 +1343,13 @@ UI_BOUNTYINPUT_LABEL_NAME,Target,Target
 UI_BOUNTYINPUT_LABEL_DURATION,Duration,Duur
 UI_BOUNTYINPUT_LABEL_REWARD,Bounty,Bounty
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
-UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
+UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Opmerking
 UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
 UI_BOUNTYLIST_HEADER_NAME,Target,Naam
 UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
 UI_BOUNTYLIST_HEADER_REWARD,Bounty,Bounty
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
-UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
+UI_BOUNTYLIST_HEADER_COMMENT,Comment,Opmerking
 UI_BOUNTYPOS_TITLE,Get Target's Location,Get Target's Location
 UI_BOUNTYPOS_FEE,Pay %s Penya to see %s's current location?,Pay %s Penya to see %s's current location?
 UI_APP_GACHA_TIP,Open the Gacha window.,Open the Gacha window.
@@ -1402,7 +1402,7 @@ UI_BINDING_MESSAGE,This item is now bound to your character.,This item is now bo
 UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Soul-Bound]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Can be unbound.
 UI_BINDING_TITLE,Binding,Binding
-UI_BINDING_CONFIRM,Do you want to continue?,Do you want to continue?
+UI_BINDING_CONFIRM,Do you want to continue?,Wil je doorgaan?
 UI_UNBINDING_TITLE,Unbinding,Unbinding
 UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Confirm Unbinding
 UI_UNBINDING_MSG,Unbind this item? This will remove #ball of its upgrades#nb!,Unbind this item? This will remove #ball of its upgrades#nb!
@@ -1967,17 +1967,17 @@ UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
 UI_FITTINGROOM_BG,Background,Background
 UI_OPTION_PRECISECURSOR,Pixel-Perfect Cursor Selection,Pixel-Perfect Cursor Selection
-UI_WEBVIEW_OPEN,Please open your web browser to continue.,Please open your web browser to continue.
-UI_BATTLEPASS_JAN,January %d Pass,January %d Pass
-UI_BATTLEPASS_FEB,February %d Pass,February %d Pass
-UI_BATTLEPASS_MAR,March %d Pass,March %d Pass
+UI_WEBVIEW_OPEN,Please open your web browser to continue.,Open uw webbrowser om door te gaan.
+UI_BATTLEPASS_JAN,January %d Pass,Januari %d Pass
+UI_BATTLEPASS_FEB,February %d Pass,Februari %d Pass
+UI_BATTLEPASS_MAR,March %d Pass,Maart %d Pass
 UI_BATTLEPASS_APR,April %d Pass,April %d Pass
-UI_BATTLEPASS_MAY,May %d Pass,May %d Pass
-UI_BATTLEPASS_JUN,June %d Pass,June %d Pass
-UI_BATTLEPASS_JUL,July %d Pass,July %d Pass
-UI_BATTLEPASS_AUG,August %d Pass,August %d Pass
+UI_BATTLEPASS_MAY,May %d Pass,Mei %d Pass
+UI_BATTLEPASS_JUN,June %d Pass,Juni %d Pass
+UI_BATTLEPASS_JUL,July %d Pass,Juli %d Pass
+UI_BATTLEPASS_AUG,August %d Pass,Augustus %d Pass
 UI_BATTLEPASS_SEP,September %d Pass,September %d Pass
-UI_BATTLEPASS_OCT,October %d Pass,October %d Pass
+UI_BATTLEPASS_OCT,October %d Pass,Oktober %d Pass
 UI_BATTLEPASS_NOV,November %d Pass,November %d Pass
 UI_BATTLEPASS_DEC,December %d Pass,December %d Pass
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,Log In for %s Consecutive Days
