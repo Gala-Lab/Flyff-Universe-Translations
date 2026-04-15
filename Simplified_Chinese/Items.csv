@@ -9178,8 +9178,8 @@ PROPITEM_TXT_200303,This purchase gives you many advantages during the Lunar Pas
 PROPITEM_TXT_200304,Common Bank,仓库通用
 PROPITEM_TXT_200305,Cloak of Finland,芬兰披风
 PROPITEM_TXT_200306,This Cloak has a full length depiction of the flag of Finland on it.,This Cloak has a full length depiction of the flag of Finland on it.
-PROPITEM_TXT_400307,Pyramid Guardian Shield,金字塔守护者之盾
-PROPITEM_TXT_400308,Pyramid Keeper Shield,金字塔守卫者之盾
+PROPITEM_TXT_400307,Pyramid Guardian Shield,金字塔守卫之盾
+PROPITEM_TXT_400308,Pyramid Keeper Shield,金字塔护卫之盾
 PROPITEM_TXT_400309,Grrr Axe,Grrr Axe
 PROPITEM_TXT_400310,Merman Bow,人鱼战士之弓
 PROPITEM_TXT_400311,Merman Stick,人鱼战士魔棒
@@ -9187,16 +9187,16 @@ PROPITEM_TXT_400312,Regal Kumai Stick,Regal Kumai Stick
 PROPITEM_TXT_400313,Kraken Knuckle,克拉肯拳套
 PROPITEM_TXT_400314,Enchanted Shaman Staff,魔化萨满的法杖
 PROPITEM_TXT_400315,Merman Staff,人鱼战士法杖
-PROPITEM_TXT_400316,Pyramid Guardian Sword,金字塔守护者之剑
-PROPITEM_TXT_400317,Pyramid Keeper Sword,金字塔守卫者之剑
-PROPITEM_TXT_400318,Pyramid Guardian Big Sword,金字塔守护者大剑
-PROPITEM_TXT_400319,Pyramid Keeper Big Sword,金字塔守卫者大剑
+PROPITEM_TXT_400316,Pyramid Guardian Sword,金字塔守卫之剑
+PROPITEM_TXT_400317,Pyramid Keeper Sword,金字塔护卫之剑
+PROPITEM_TXT_400318,Pyramid Guardian Big Sword,金字塔守卫大剑
+PROPITEM_TXT_400319,Pyramid Keeper Big Sword,金字塔护卫大剑
 PROPITEM_TXT_400320,Enchanted Shaman Wand,魔化萨满的魔杖
 PROPITEM_TXT_400321,Kraken Yo-Yo,克拉肯飞轮
 PROPITEM_TXT_400322,Kraken's Head,克拉肯头盔
 PROPITEM_TXT_400323,Siren's Head,Siren's Head
-PROPITEM_TXT_400324,Pyramid Guardian's Head,金字塔守护者的头盔
-PROPITEM_TXT_400325,Pyramid Keeper's Head,金字塔守卫者的头盔
+PROPITEM_TXT_400324,Pyramid Guardian's Head,金字塔守卫的头盔
+PROPITEM_TXT_400325,Pyramid Keeper's Head,金字塔护卫的头盔
 PROPITEM_TXT_400326,Legends of Leren Mountains,Legends of Leren Mountains
 PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,Quest Item: A book of myths and legends about the history of the Leren Mountains.
 PROPITEM_TXT_400328,Flaris Fungi,Flaris Fungi
@@ -24106,12 +24106,12 @@ PROPITEM_TXT_155057,Hellhound Tooth,地狱犬之牙
 PROPITEM_TXT_155058,This tooth is hard and very sharp.,这颗牙齿坚硬且非常锋利。
 PROPITEM_TXT_155059,Heart of Chief Keokuk,酋长基奥卡克的心脏
 PROPITEM_TXT_155060,"Believe it or not, the Chieftain of the Lycan Tribe had a heart…",信不信由你，狼人部落的首领也曾有过一颗心……
-PROPITEM_TXT_155061,Magic Clock of Asylum (5 Min),禁域魔法时钟 (5分钟)
-PROPITEM_TXT_155062,Re-entry cooldown for Asylum has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,禁域再次进入冷却时间已减少 5 分钟。\n本物品今日的剩余使用次数与其他禁域魔法时钟共享。
-PROPITEM_TXT_155063,Magic Clock of Asylum (10 Min),禁域魔法时钟 (10分钟)
-PROPITEM_TXT_155064,Re-entry cooldown for Asylum has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,禁域再次进入冷却时间已减少 10 分钟。\n本物品今日的剩余使用次数与其他禁域魔法时钟共享。
+PROPITEM_TXT_155061,Magic Clock of Asylum (5 Min),庇护所魔法时钟 (5分钟)
+PROPITEM_TXT_155062,Re-entry cooldown for Asylum has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,庇护所再次进入冷却时间已减少 5 分钟。\n本物品今日的剩余使用次数与其他庇护所魔法时钟共享。
+PROPITEM_TXT_155063,Magic Clock of Asylum (10 Min),庇护所魔法时钟 (10分钟)
+PROPITEM_TXT_155064,Re-entry cooldown for Asylum has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,庇护所再次进入冷却时间已减少 10 分钟。\n本物品今日的剩余使用次数与其他庇护所魔法时钟共享。
 PROPITEM_TXT_155065,Orcus's Tablet,奥库斯之石板
-PROPITEM_TXT_155066,"Ancient runes are shown on this tablet, maybe they contain secrets to the mystery of the Asylum.",这块石板上刻有古代符文，也许它们藏有关于禁域之谜的秘密。
+PROPITEM_TXT_155066,"Ancient runes are shown on this tablet, maybe they contain secrets to the mystery of the Asylum.",这块石板上刻有古代符文，也许它们藏有关于庇护所之谜的秘密。
 PROPITEM_TXT_155067,Bead of Nergal,内尔伽勒之念珠
 PROPITEM_TXT_155068,A violet bead which once was found around the waist of Nergal.,一颗曾在内尔伽勒腰间发现的紫色念珠。
 PROPITEM_TXT_155069,Hel's charm,赫尔之护身符
@@ -24551,7 +24551,7 @@ PROPITEM_TXT_155502,Maw of Judgement,审判之噬
 PROPITEM_TXT_155503,Oracle,神谕
 PROPITEM_TXT_155504,Scepter of Disorder,混沌神权
 PROPITEM_TXT_155505,Roika's Stave,创世残脉
-PROPITEM_TXT_155506,Curtana,慈悲
+PROPITEM_TXT_155506,Curtana,慈悲之剑
 PROPITEM_TXT_155507,Celestial Edge,天界裁断
 PROPITEM_TXT_155508,Bringer of Souls,灵魂引渡者
 PROPITEM_TXT_155509,Butcher's Carnage,血腥盛宴
