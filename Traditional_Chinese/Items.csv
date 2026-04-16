@@ -13366,38 +13366,38 @@ PROPITEM_TXT_131462,Dragon's Consumable Package,Dragon's Consumable Package
 PROPITEM_TXT_131463,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll and 10x Grilled Eel. All items are also linked.","A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll and 10x Grilled Eel. All items are also linked."
 PROPITEM_TXT_131464,Dragon's Transy Package,Dragon's Transy Package
 PROPITEM_TXT_131465,"A package containing 1x Transy, 1x Item Transy (B) and 1x Scroll of Name Change. All items are also linked.","A package containing 1x Transy, 1x Item Transy (B) and 1x Scroll of Name Change. All items are also linked."
-PROPITEM_TXT_131796,[Personal House NPC] Casanova,[個人小屋 NPC] Casanova
-PROPITEM_TXT_131797,This NPC will grant you the following bonus when placed on the Personal House: EXP +5%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：經驗值 +5%。
-PROPITEM_TXT_131798,[Personal House NPC] Misun,[個人小屋 NPC] Misun
-PROPITEM_TXT_131799,This NPC will grant you the following bonus when placed on the Personal House: Drop Rate +5%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：掉落率 +5%。
-PROPITEM_TXT_131800,[Personal House NPC] Punk,[個人小屋 NPC] Punk
-PROPITEM_TXT_131801,This NPC will grant you the following bonus when placed on the Personal House: 2 Inventory Slots.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：額外 2 個背包欄位。
-PROPITEM_TXT_131802,[Personal House NPC] Temas,[個人小屋 NPC] Temas
-PROPITEM_TXT_131803,This NPC will grant you the following bonus when placed on the Personal House: Speed +5%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：速度 +5%。
-PROPITEM_TXT_131804,[Personal House NPC] BB Wolf,[個人小屋 NPC] BB Wolf
-PROPITEM_TXT_131805,This NPC will grant you the following bonus when placed on the Personal House: Jump Height +30.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：跳躍高度 +30。
-PROPITEM_TXT_131806,[Personal House NPC] Chacha,[個人小屋 NPC] Chacha
-PROPITEM_TXT_131807,This NPC will grant you the following bonus when placed on the Personal House: Flying Speed +5%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：飛行速度 +5%。
-PROPITEM_TXT_131808,[Personal House NPC] Hatter,[個人小屋 NPC] Hatter
-PROPITEM_TXT_131809,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage +3%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：PvE 傷害 +3%。
-PROPITEM_TXT_131810,[Personal House NPC] Alice,[個人小屋 NPC] Alice
-PROPITEM_TXT_131811,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage Reduction +3%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：PvE 傷害減免 +3%。
-PROPITEM_TXT_131812,[Personal House NPC] Rulu,[個人小屋 NPC] Rulu
-PROPITEM_TXT_131813,This NPC will grant you the following bonus when placed on the Personal House: Experience Loss Reduction +3%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：經驗值損失減少 +3%。
-PROPITEM_TXT_131814,[Personal House NPC] Demon,[個人小屋 NPC] Demon
-PROPITEM_TXT_131815,This NPC will grant you the following bonus when placed on the Personal House: HP Restored on revive +500.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：復活時回復 HP +500。
-PROPITEM_TXT_131816,[Personal House NPC] Gevil,[個人小屋 NPC] Gevil
-PROPITEM_TXT_131817,This NPC will grant you the following bonus when placed on the Personal House: MP Restored on revive +100.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：復活時回復 MP +100。
-PROPITEM_TXT_131818,[Personal House NPC] Sevil,[個人小屋 NPC] Sevil
-PROPITEM_TXT_131819,This NPC will grant you the following bonus when placed on the Personal House: FP Restored on revive +50.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：復活時回復 FP +50。
-PROPITEM_TXT_131820,[Personal House NPC] Lala,[個人小屋 NPC] Lala
-PROPITEM_TXT_131821,This NPC will grant you the following bonus when placed on the Personal House: Dungeon Free Entry +1.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：地下城免費進入次數 +1。
-PROPITEM_TXT_131822,[Personal House NPC] Tino,[個人小屋 NPC] Tino
-PROPITEM_TXT_131823,This NPC will grant you the following bonus when placed on the Personal House: Added Vendor Shop Day(s) +1.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：商店販售天數 +1。
-PROPITEM_TXT_131824,[Personal House NPC] Cachu,[個人小屋 NPC] Cachu
-PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：隊伍經驗值 +10%。
-PROPITEM_TXT_131826,[Personal House NPC] Pang,[個人小屋 NPC] Pang
-PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.,當將此 NPC 放置於個人小屋時，將帶給你以下加成：Buff 僅限 120 級以下角色。
+PROPITEM_TXT_131796,[Personal House NPC] Casanova,[小屋 NPC] Casanova
+PROPITEM_TXT_131797,This NPC will grant you the following bonus when placed on the Personal House: EXP +5%.,當將此 NPC 放置於小屋時，將帶給你以下加成：經驗值 +5%。
+PROPITEM_TXT_131798,[Personal House NPC] Misun,[小屋 NPC] Misun
+PROPITEM_TXT_131799,This NPC will grant you the following bonus when placed on the Personal House: Drop Rate +5%.,當將此 NPC 放置於小屋時，將帶給你以下加成：掉落率 +5%。
+PROPITEM_TXT_131800,[Personal House NPC] Punk,[小屋 NPC] Punk
+PROPITEM_TXT_131801,This NPC will grant you the following bonus when placed on the Personal House: 2 Inventory Slots.,當將此 NPC 放置於小屋時，將帶給你以下加成：額外 2 個背包欄位。
+PROPITEM_TXT_131802,[Personal House NPC] Temas,[小屋 NPC] Temas
+PROPITEM_TXT_131803,This NPC will grant you the following bonus when placed on the Personal House: Speed +5%.,當將此 NPC 放置於小屋時，將帶給你以下加成：速度 +5%。
+PROPITEM_TXT_131804,[Personal House NPC] BB Wolf,[小屋 NPC] BB Wolf
+PROPITEM_TXT_131805,This NPC will grant you the following bonus when placed on the Personal House: Jump Height +30.,當將此 NPC 放置於小屋時，將帶給你以下加成：跳躍高度 +30。
+PROPITEM_TXT_131806,[Personal House NPC] Chacha,[小屋 NPC] Chacha
+PROPITEM_TXT_131807,This NPC will grant you the following bonus when placed on the Personal House: Flying Speed +5%.,當將此 NPC 放置於小屋時，將帶給你以下加成：飛行速度 +5%。
+PROPITEM_TXT_131808,[Personal House NPC] Hatter,[小屋 NPC] Hatter
+PROPITEM_TXT_131809,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：PvE 傷害 +3%。
+PROPITEM_TXT_131810,[Personal House NPC] Alice,[小屋 NPC] Alice
+PROPITEM_TXT_131811,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage Reduction +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：PvE 傷害減免 +3%。
+PROPITEM_TXT_131812,[Personal House NPC] Rulu,[小屋 NPC] Rulu
+PROPITEM_TXT_131813,This NPC will grant you the following bonus when placed on the Personal House: Experience Loss Reduction +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：經驗值損失減少 +3%。
+PROPITEM_TXT_131814,[Personal House NPC] Demon,[小屋 NPC] Demon
+PROPITEM_TXT_131815,This NPC will grant you the following bonus when placed on the Personal House: HP Restored on revive +500.,當將此 NPC 放置於小屋時，將帶給你以下加成：復活時回復 HP +500。
+PROPITEM_TXT_131816,[Personal House NPC] Gevil,[小屋 NPC] Gevil
+PROPITEM_TXT_131817,This NPC will grant you the following bonus when placed on the Personal House: MP Restored on revive +100.,當將此 NPC 放置於小屋時，將帶給你以下加成：復活時回復 MP +100。
+PROPITEM_TXT_131818,[Personal House NPC] Sevil,[小屋 NPC] Sevil
+PROPITEM_TXT_131819,This NPC will grant you the following bonus when placed on the Personal House: FP Restored on revive +50.,當將此 NPC 放置於小屋時，將帶給你以下加成：復活時回復 FP +50。
+PROPITEM_TXT_131820,[Personal House NPC] Lala,[小屋 NPC] Lala
+PROPITEM_TXT_131821,This NPC will grant you the following bonus when placed on the Personal House: Dungeon Free Entry +1.,當將此 NPC 放置於小屋時，將帶給你以下加成：地下城免費進入次數 +1。
+PROPITEM_TXT_131822,[Personal House NPC] Tino,[小屋 NPC] Tino
+PROPITEM_TXT_131823,This NPC will grant you the following bonus when placed on the Personal House: Added Vendor Shop Day(s) +1.,當將此 NPC 放置於小屋時，將帶給你以下加成：商店販售天數 +1。
+PROPITEM_TXT_131824,[Personal House NPC] Cachu,[小屋 NPC] Cachu
+PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.,當將此 NPC 放置於小屋時，將帶給你以下加成：隊伍經驗值 +10%。
+PROPITEM_TXT_131826,[Personal House NPC] Pang,[小屋 NPC] Pang
+PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.,當將此 NPC 放置於小屋時，將帶給你以下加成：Buff 僅限 120 級以下角色。
 PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[公會飛船 NPC] Gira
 PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：MP 消耗減少 +10%。
 PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[公會飛船 NPC] Affe
