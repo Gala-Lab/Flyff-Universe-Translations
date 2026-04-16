@@ -469,7 +469,7 @@ UI_GUILDNOTICE_NEW_TIP,Clear notice text,編輯新公告
 UI_GUILDNOTICE_SAVE_TIP,Save notice,發送公告。公告內容將會以訊息與密語方式傳達給其他公會成員。
 UI_GUILDLOGO_TITLE,Set Guild Logo,設定公會徽章
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,解散公會確認
-UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",您想解散公會嗎? 請注意，如果您的公會擁有公會船，您也將失去公會船的所有權。
+UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",您想解散公會嗎? 請注意，如果您的公會擁有公會飛船，您也將失去公會飛船的所有權。
 UI_GUILD_PAY,Salary,薪水
 UI_GUILD_PAY_SETUP,Setup,設定
 UI_GUILD_GRADE_MEMBER,Members,成員
@@ -2060,18 +2060,18 @@ UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#n
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,公會出價
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,出價
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,輸入您想出價的金額。#b#u使用來自您的公會銀行的佩尼亞進行出價。#nu#nb
-UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,目前沒有對此公會船隻的出價。
-UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,傳送到您的公會船隻
-UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,%s 的公會船隻
+UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,目前沒有對此公會飛船的出價。
+UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,傳送到您的公會飛船
+UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,%s 的公會飛船
 UI_GUILD_TAB_HOUSING,Ship,艦隊
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,下一次文物放置：
 UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,選擇文物位置的剩餘時間：
 UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,傳送到艦隊
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,當前公會船隻獎勵
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,當前公會飛船獎勵
 UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,您確定要讓公會的文物在此生成嗎？#b#cffff0000注意：將從您的公會銀行中扣除 %s 佩尼亞費用。#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公會船隻管理
-UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,公會船隻文物在某處....
-UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,您的公會不擁有公會船隻。
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公會飛船管理
+UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,公會飛船文物在某處....
+UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,您的公會不擁有公會飛船。
 UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",如果您的公會擁有公會艦隊，您必須每隔一個星期六在指定位置之一放置一個文物。放置文物花費 #b#u%s 佩尼亞#nu#nb。\n\n如果您的公會不擁有公會艦隊，您可以為下一場文物戰役註冊 #b#u%s 佩尼亞#nu#nb 以有機會獲得一個。\n您最多可以在戰役開始前 1 小時申請或取消。\n\n\n一旦文物被放置，您的公會必須在 PK 頻道上防守它以抵禦其他玩家。如果您失敗，您將失去公會艦隊的所有權。\n\n如果您成功防守它，#b部分註冊費將被退款。#nb
 UI_HOUSINGSETUP_PRESETS,Presets,預設
 UI_HOUSINGSETUP_MANAGE,Management,管理
