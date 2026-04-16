@@ -889,8 +889,8 @@ TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to 
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Solo los personajes sin cambio de segunda clase pueden aplicar a este asedio de Gremio de Nivel 60.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,El asedio del Gremio Nivel 80 se realiza durante esta semana.
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,El asedio del Gremio Nivel 60 se realiza durante esta semana.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,El Asedio de Gremios de nivel 80 de hoy no se llevará a cabo debido a la falta de participantes.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,El Asedio de Gremios de nivel 60 de hoy no se llevará a cabo debido a la falta de participantes.
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,El asedio del Gremio Nivel 80 ha terminado.
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,El asedio del Gremio Nivel 60 ha terminado.
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s Se ha enviado a tu Inventario o Buzón.
@@ -1225,28 +1225,28 @@ TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
 TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
 TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
-TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
-TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
-TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
-TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
-TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
-TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
-TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
-TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
-TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
-TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
-TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
-TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
-TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
-TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
-TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
-TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
-TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
-TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
-TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
-TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,No puedes usar habilidades de grupo en esta área.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,"Por favor, espera un momento antes de publicar otro mensaje en el libro de visitas."
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,Aún hay jugadores en tu casa. No puedes cambiar la plantilla hasta que no quede nadie dentro.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s no tiene suficiente Penya para inscribirse en la Carrera Arcoíris.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s está realizando otra acción.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Los equipos se asignarán aleatoriamente después de %d segundos
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,La teletransportación ya no está disponible.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Las invitaciones a miembros del equipo están en curso.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s ya se ha registrado para la carrera.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s ya ha recibido una invitación.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Error al registrarse en la Carrera Arcoíris.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,Actualmente no es posible inscribirse.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,Solo puedes invitar a usuarios que estén en línea.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,La invitación al equipo de la Carrera Arcoíris ha sido cancelada.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s ha rechazado la invitación.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,No puedes jugar Asalto a Kalgas durante la misión maestra.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,El %s pertenece a otro jugador.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,No eres miembro de un equipo.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,No puedes recoger este objeto.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,El otro jugador no acepta apuestas de duelo.
 TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,Has recibido %dx %s.
-TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Recibido %dx %s
 TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
 TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
 TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
@@ -1412,68 +1412,68 @@ TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform t
 TEXTCLIENT_APP_LIFE,Life Skills,Vida
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,Necesitas equipar un %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Por favor verifique la herramienta correcta.
-TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
-TEXTCLIENT_GATHERING_HOE,hoe,hoe
-TEXTCLIENT_GATHERING_AXE,axe,axe
-TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
-TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
-TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
-TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
-TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
-TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
-TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
-TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
-TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
-TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
-TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
-TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
-TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
-TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
-TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
-TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
-TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
-TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
-TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
-TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
-TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
-TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
-TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
-TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
-TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
-TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
-TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
-TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
-TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
-TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
-TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
-TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
-TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
-TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Recolección fallida.
+TEXTCLIENT_GATHERING_HOE,hoe,azada
+TEXTCLIENT_GATHERING_AXE,axe,hacha
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pico
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Pesca fallida.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Demasiados jugadores están usando este recurso. Por favor, inténtalo más tarde.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,%s Reparado por %s puntos.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,Aún no puedes cambiar tu especialidad.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Has cambiado tu especialidad con éxito.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,"Error al usar el objeto de reducción de producción. Por favor, verifica tu estado de producción."
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,No tienes suficientes ingredientes.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,No se pueden verificar tus ingredientes.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,Ya estás produciendo este objeto.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,El tiempo de producción se ha reducido en %d minutos.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,El inventario de la tienda errante se ha actualizado correctamente.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No hay espacio en el inventario, se necesitan %d espacios vacíos."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,Solo puedes pescar cerca de un cuerpo de agua.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,Necesitas equipar una caña de pescar.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Tu caña de pescar debe ser reparada.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,No hay suficiente cebo.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,No puedes pescar.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,No tienes la habilidad %s. Debes completar la misión de [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,No tienes suficientes puntos de maestría.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,No puedes producir este objeto sin el título requerido.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,Necesitas añadir los ingredientes correctos.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,Este objeto no requiere reparación.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Mejora del producto fallida.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,¡Mejora del producto exitosa!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,La receta de %s ha sido desbloqueada.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,Ya no puedes apilar este objeto. Este objeto solo puede apilarse %d veces.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,No se puede encontrar cebo.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,No has aprendido la habilidad requerida aún.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,Has recibido %s como recompensa por tu clasificación de maestría de vida.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,No se pudo enviar la recompensa de clasificación de maestría de vida.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,"La pesca falló. Por favor, muévete a otro lugar e inténtalo de nuevo."
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,Has configurado tu casa de pareja con éxito.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,Actualmente no tienes una casa de pareja.
 TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,Estás demasiado lejos.
-TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
-TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
-TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
-TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
-TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
-TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,Debes usar esa mascota al menos una vez antes de ponerla en el inventario de mascotas.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,No puedes poner huevos en el inventario de mascotas.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,Has excedido el número máximo de invitados.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,El tiempo de entrada para la partida del torneo es ahora.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,No puedes usar un preset de equipo mientras atacas.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,Actualmente no hay carreras disponibles para entrar.
 TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,No eres un jugador registrado.
 TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,No puedes ingresar al canal actual.
-TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
-TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
-TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
-TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.,You must complete the quest %s to use this emote.
-TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
-TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,You can now use the emote %s!
-TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,The emote %s has expired.
-TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
-TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,This feature is only available with the Extended Flyff Pass.
-TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
-TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
-TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
-TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
-TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
-TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
-TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,El producto %s no puede almacenarse en el inventario ni en el banco si supera %d unidades.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,No puedes cosechar esto ahora.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,No puedes cosechar esto aquí.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.,Debes completar la misión %s para usar este emote.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,No puedes usar este objeto en un entorno PvP.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,¡Ahora puedes usar el emote %s!
+TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,El emote %s ha expirado.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,¡No puedes eliminar una Bendición del Demonio!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,Esta función solo está disponible con el Flyff Pass Extendido.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,Ya has usado todas tus teletransportaciones diarias.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,No puedes teletransportarte a esta tienda porque está en un canal diferente.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Cosechas %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Cosechas infinitas
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,Se obtuvo el mismo nivel. No se consumieron pergaminos.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,El rango seleccionado ha sido reajustado a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Luchadores legendarios, imbuidos con el espíritu de la guerra."
 TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
 TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
 TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."

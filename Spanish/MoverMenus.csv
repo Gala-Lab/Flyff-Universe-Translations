@@ -62,7 +62,7 @@ MMI_142,Store Pet,Guardar Mascota
 MMI_272,Exchange RPS Coupon,Canjear Cupón RPS
 MMI_309,Card Upgrade,Mejorar Carta
 MMI_310,Weapon Socket Card Reshuffle,Reorganización Cartas de Arma
-MMI_311,Couple proposal,Couple proposal
+MMI_311,Couple proposal,Propuesta de pareja
 MMI_1000,Drop Filter,Filtro de Objetos
 MMI_1001,Report,Reportar
 MMI_1002,Inspect,Inspeccionar
@@ -133,13 +133,13 @@ MMI_1072,Kalgas Assault Enter,Kalgas Assault Enter
 MMI_1073,Kalgas Assault Rank,Kalgas Assault Rank
 MMI_1074,Kalgas Assault Info,Kalgas Assault Info
 MMI_1075,Kalgas Chip Shop,Kalgas Chip Shop
-MMI_1076,Couple's Storage,Couple's Storage
-MMI_1077,Create Ultimate Jewel,Create Ultimate Jewel
-MMI_1078,Fuse Ultimate Jewel,Fuse Ultimate Jewel
+MMI_1076,Couple's Storage,Almacenamiento para parejas
+MMI_1077,Create Ultimate Jewel,Crear Joya Definitiva
+MMI_1078,Fuse Ultimate Jewel,Fusionar Joya Definitiva
 MMI_1079,Teleport,Teleport
-MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
-MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
-MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
+MMI_1080,Sea Shell Upgrading,Mejora de Concha Marina
+MMI_1081,Fuse Rainbow Jewel,Fusionar Joya Arcoíris
+MMI_1082,Dismantle Rainbow Jewel,Desmantelar Joya Arcoíris
 MMI_1083,Pet Training,Pet Training
 MMI_1084,Teleport,Teleport
 MMI_1085,Individual Race (Item),Individual Race (Item)
@@ -154,33 +154,33 @@ MMI_1093,Enter Madrigal Tournament,Enter Madrigal Tournament
 MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
 MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
 MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-MMI_1097,Remove Ultimate Jewel,Remove Ultimate Jewel
-MMI_1098,Customize,Customize
-MMI_1099,Enter Couple House,Enter Couple House
-MMI_1100,Select Couple House Template,Select Couple House Template
-MMI_1101,Wandering Shop,Wandering Shop
-MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemy
-MMI_1103,Product Upgrade,Product Upgrade
-MMI_1104,Life Mastery Ranking,Life Mastery Ranking
-MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranking Reward
-MMI_1106,Alchemy,Alchemy
-MMI_1107,Cooking,Cooking
-MMI_1108,Carpentry,Carpentry
-MMI_1109,Smithing,Smithing
-MMI_1110,Enter Race,Enter Race
-MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Cooking
-MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Carpentry
-MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Smithing
-MMI_1115,Join Boss Raid,Join Boss Raid
+MMI_1097,Remove Ultimate Jewel,Eliminar Joya Definitiva
+MMI_1098,Customize,Personalizar
+MMI_1099,Enter Couple House,Entrar a la Casa de Pareja
+MMI_1100,Select Couple House Template,Seleccionar plantilla de Casa de Pareja
+MMI_1101,Wandering Shop,Tienda errante
+MMI_1102,Master Chip Shop - Alchemy,Tienda de Master Chips - Alquimia
+MMI_1103,Product Upgrade,Mejora de producto
+MMI_1104,Life Mastery Ranking,Clasificación de maestría de vida
+MMI_1105,Life Mastery Ranking Reward,Recompensa de clasificación de maestría de vida
+MMI_1106,Alchemy,Alquimia
+MMI_1107,Cooking,Cocina
+MMI_1108,Carpentry,Carpintería
+MMI_1109,Smithing,Herrería
+MMI_1110,Enter Race,Entrar a la carrera
+MMI_1111,Master Chip Shop - Cooking,Tienda de Master Chips - Cocina
+MMI_1112,Master Chip Shop - Carpentry,Tienda de Master Chips - Carpintería
+MMI_1113,Master Chip Shop - Smithing,Tienda de Master Chips - Herrería
+MMI_1115,Join Boss Raid,Unirse a la incursión de jefe
 MMI_1120,3rd Anniversary Egg Upgrade Event,3rd Anniversary Egg Upgrade Event
 MMI_1121,Champion Coin Exchange,Champion Coin Exchange
-MMI_1116,Synthesize Ultimate Jewel,Synthesize Ultimate Jewel
-MMI_1117,Convert Ultimate Jewel,Convert Ultimate Jewel
-MMI_2025,PTS Exchange (Equipment),PTS Exchange (Equipment)
-MMI_2026,Give Feedback,Give Feedback
-MMI_2027,PTS Exchange (Materials),PTS Exchange (Materials)
-MMI_2028,PTS Exchange (Essentials),PTS Exchange (Essentials)
-MMI_2029,PTS Exchange (Jewelry),PTS Exchange (Jewelry)
-MMI_2030,PTS Exchange (Other Equipment),PTS Exchange (Other Equipment)
-MMI_2031,Reset Cooldowns,Reset Cooldowns
-MMI_2032,PTS Exchange (New Equipment),PTS Exchange (New Equipment)
+MMI_1116,Synthesize Ultimate Jewel,Sintetizar Joya Definitiva
+MMI_1117,Convert Ultimate Jewel,Convertir Joya Definitiva
+MMI_2025,PTS Exchange (Equipment),Intercambio PTS (Equipo)
+MMI_2026,Give Feedback,Enviar comentarios
+MMI_2027,PTS Exchange (Materials),Intercambio PTS (Materiales)
+MMI_2028,PTS Exchange (Essentials),Intercambio PTS (Esenciales)
+MMI_2029,PTS Exchange (Jewelry),Intercambio PTS (Joyería)
+MMI_2030,PTS Exchange (Other Equipment),Intercambio PTS (Otro equipo)
+MMI_2031,Reset Cooldowns,Restablecer tiempos de reutilización
+MMI_2032,PTS Exchange (New Equipment),Intercambio PTS (Nuevo equipo)

@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+﻿#bMejora de elemento#nb
 
-Infusing an item with an element increases its effectiveness against enemies of weaker elements, but decreases its effectiveness against enemies of stronger elements.
-#cffff0000From +3 onward, a failed upgrade will destroy the item unless a Scroll of SProtect is used.
-Low Scroll of SProtect prevents destruction but reduces the upgrade level on failure.#nc
+Imbuir un objeto con un elemento aumenta su efectividad contra enemigos de elementos más débiles, pero reduce su efectividad contra enemigos de elementos más fuertes.
+#cffff0000A partir de +3, una mejora fallida destruirá el objeto a menos que se use un Pergamino de SProtect.
+El Pergamino de SProtect de baja calidad evita la destrucción, pero reduce el nivel de mejora en caso de fallo.#nc

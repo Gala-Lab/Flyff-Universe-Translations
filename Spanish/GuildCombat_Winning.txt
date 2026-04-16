@@ -1,14 +1,14 @@
-﻿#b#cff0000ff Winning Conditions #nb#nc
+﻿#b#cff0000ff Condiciones de victoria #nb#nc
 
-※ Priority
-  1. Highest final points
-  2. Highest total remaining revival opportunities of surviving players
-  3. Lowest average level of surviving players
+※ Prioridad
+  1. Mayor cantidad de puntos finales
+  2. Mayor número total de oportunidades de reanimación restantes de los jugadores supervivientes
+  3. Menor nivel promedio de los jugadores supervivientes
 
-#b#cff0000ff Point Gain #nb#nc
-※ Defeating an enemy player grants 2 points.
+#b#cff0000ff Obtención de puntos #nb#nc
+※ Derrotar a un jugador enemigo otorga 2 puntos.
 
-#b#cff0000ff Bonus Point Gain (Bonuses can stack) #nb#nc
-※ Defeating the Defender grants 1 bonus point.
-※ Defeating an enemy player with 0 remaining revival opportunities grants 1 bonus point.
-※ Each remaining revival opportunity of surviving players grants 1 bonus point.
+#b#cff0000ff Obtención de puntos adicionales (los bonos se pueden acumular) #nb#nc
+※ Derrotar al Defensor otorga 1 punto adicional.
+※ Derrotar a un jugador enemigo con 0 oportunidades de reanimación restantes otorga 1 punto adicional.
+※ Cada oportunidad de reanimación restante de los jugadores supervivientes otorga 1 punto adicional.

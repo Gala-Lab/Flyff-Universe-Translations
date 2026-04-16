@@ -2578,65 +2578,65 @@ UI_COUPLE_RING_SLOTS,Storage Slots: %d,Storage Slots: %d
 UI_COUPLE_MOTION_TITLE,Couple Emotes,Couple Emotes
 UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,Tu pareja está solicitando el %s movimiento. ¿Aceptas?
 UI_APP_LIFE_TIP,View and manage life skills.,Abre la ventana de contenido de vida.
-UI_LIFE_GATHERING_TAB,Gathering,Gathering
+UI_LIFE_GATHERING_TAB,Gathering,Recolección
 UI_LIFE_PRODUCTION_TAB,Production,Producción
 UI_LIFE_TITLE,Life,Vida
-UI_LIFE_MASTERY_EFFECT,Mastery Details,Mastery Details
-UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identified Resources
-UI_LIFE_HARVESTING_INFORMATION,Resource Information,Resource Information
-UI_LIFE_EXPERTBTN,Set as Expertise,Set as Expertise
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
+UI_LIFE_MASTERY_EFFECT,Mastery Details,Detalles de maestría
+UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Recursos identificados
+UI_LIFE_HARVESTING_INFORMATION,Resource Information,Información de recursos
+UI_LIFE_EXPERTBTN,Set as Expertise,Establecer como especialidad
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Tasa de éxito de recolección +%d%%\nTasa de gran éxito de recolección +%d%%\n%sSi no se alcanzan 100 de maestría, se reduce un 10%% de la maestría el lunes a las 00:00(Experto) Tasa de gran éxito de recolección +10%%#nc"
 UI_LIFE_MASTERY,Mastery,Dominio
-UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Change Expertise In: %s
+UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Cambiar especialidad en: %s
 UI_REPAIR_TITLE,Repair,Reparar
-UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
-UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
-UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Auto-Skip Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.
-UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Gather Herbs #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,Guess which bait the fish will bite.
-UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%)
+UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),¿Deseas reparar %s?\n(%s)
+UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),¿Deseas reparar %s?\n(%s%%)
+UI_LIFE_FISHING_MINIGAME,Minigame,Minijuego
+UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Auto-Saltar Minijuego
+UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Omitir el minijuego significa que no obtendrás el aumento de éxito de pesca por ganar. ¿Continuar?
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Omitir el minijuego significa que no obtendrás el aumento de éxito de pesca por ganar. ¿Continuar?
+UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Selección de cebo
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Selecciona el cebo que deseas usar para pescar. El cebo seleccionado afecta la rareza de los peces que puedes capturar.
+UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Recolectar hierbas #cffc32f07#b%d/%d#nb#nc
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,Adivina qué cebo morderá el pez.
+UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Adivinar correctamente aumenta tu tasa de éxito de pesca.\n(Tasa de éxito actual: %.1f%%)
 UI_SEC,%d sec,%d seg
 UI_CONFIRM,Confirm,Confirmar
 UI_LIFE_FISHING_TIME,Fishing Time:,Tiempo de Pesca:
-UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Number of Fish Caught:
-UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Number of Trophy Fish Caught:
+UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Número de intentos:
+UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Número de peces capturados:
+UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Número de peces trofeo capturados:
 UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Tasa de éxito:
 UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d seg
 UI_TIMES,%d time(s),%d tiempo(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Estado de Pesca
-UI_WAITING,Waiting,Waiting
+UI_WAITING,Waiting,Esperando
 UI_LIFE_RECIPEBTN,Recipes,Recipes
 UI_LIFE_RECIPES,Recipes,Recipes
 UI_LIFE_RECIPES_CATEGORY,Category,Categoría
 UI_LIFE_RECIPES_DETAILS,Recipe,Detalles
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
-UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
-UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Ninguna receta seleccionada
+UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Maestría requerida: %d\nTítulo requerido: [%s]\nIngredientes requeridos:
+UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Maestría requerida: %d\nIngredientes requeridos:
 UI_LIFE_PRODUCTION_TITLE,Production,Producción
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Tasa de éxito
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Tiempo de producción por ciclo
-UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
-UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Required Mastery: %d
+UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Maestría requerida: %d\nTítulo requerido: [%s]
+UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Maestría requerida: %d
 UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Ingrediente
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Bebida
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Píldora
 UI_ALL,All,Todo
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
-UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
+UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Agrega materiales para producir. Si no se selecciona ninguna receta, se intentará una receta oculta. Al producir de forma aleatoria, solo se realizará un intento de producción."
+UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,La producción está actualmente en curso.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Tiempo Pendiente
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,El objeto se utiliza inmediatamente.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Common herb found throughout the world. Yields Common herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Common herb with a typical appearance. Yields Common-Uncommon herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Tree commonly found throughout the world. Yields Common logs.
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
+UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Hierba común encontrada en todo el mundo. Produce hierbas comunes.
+UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Hierba común con apariencia típica. Produce hierbas comunes-poco comunes.
+UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Árbol común encontrado en todo el mundo. Produce troncos comunes.
+UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Árbol con apariencia típica. Produce troncos comunes-poco comunes.
+UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Roca común encontrada en todo el mundo. Produce minerales comunes.
+UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Roca con apariencia típica. Produce minerales comunes-poco comunes.
 UI_PRODUCTION_INGREDIENT,Ingredients,Ingrediente
 UI_PRODUCTION_FOOD,Food,Comida
 UI_PRODUCTION_BUFF,Buffs,Impulso
@@ -2655,39 +2655,39 @@ UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
 UI_TOOLTIP_PRODUCTION_GRADE_A,A,A
 UI_TOOLTIP_PRODUCTION_GRADE_OVER_A,A+,A+
-UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00","If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00"
-UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Gathering Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,(Expert) Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Woodcutting Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,(Expert) Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Mining Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,(Expert) Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Fishing Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,(Expert) Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alchemy Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alchemy Great Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Cooking Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Cooking Great Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Smithing Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Smithing Great Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
-UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
+UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00","Si se obtiene menos de %d de maestría, la maestría disminuirá en %d%% el lunes a las 00:00"
+UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Tasa de éxito de recolección +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Tasa de gran éxito de recolección +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,(Experto) Tasa de gran éxito de recolección +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Tasa de éxito de tala +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Tasa de gran éxito de tala +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,(Experto) Tasa de gran éxito de tala +%d%%
+UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Tasa de éxito de minería +%d%%
+UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Tasa de gran éxito de minería +%d%%
+UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,(Experto) Tasa de gran éxito de minería +%d%%
+UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Tasa de éxito de pesca +%d%%
+UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Tasa de gran éxito de pesca +%d%%
+UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,(Experto) Tasa de gran éxito de pesca +%d%%
+UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Tasa de éxito de alquimia +%d%%
+UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Tasa de gran éxito de alquimia +%d%%
+UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Tasa de éxito de cocina +%d%%
+UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Tasa de gran éxito de cocina +%d%%
+UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Tasa de éxito de herrería +%d%%
+UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Tasa de gran éxito de herrería +%d%%
+UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Tasa de éxito de carpintería +%d%%
+UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Tasa de gran éxito de carpintería +%d%%
+UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Experto) Obtén un objeto no vinculado por gran éxito
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Tiempo de producción:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Número de intentos:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Número de éxitos:
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Tasa de éxito:
-UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
-UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Actualización del producto
+UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,"Por favor, inserta los materiales."
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Intercambia objetos de producción de nivel inferior por una probabilidad de obtener una versión de nivel superior del objeto.\nProporción de intercambio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Refrescar Tienda
-UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
-UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
-UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
+UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,¿Usar un Ticket de Actualización de Comerciante Errante para refrescar el inventario de la tienda?
+UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Usar %s para refrescar el inventario de la tienda
+UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Clasificaciones de Maestría
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rango
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Nombre del Personaje
 UI_LIFE_MASTERY_RANKING_JOB,Job,Clase
@@ -2696,56 +2696,56 @@ UI_LIFE_MASTERY_RANKING_CLOSE,Close,Cerrar
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Recompensas de clasificación de maestría
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Reclamar Recompensas
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
-UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
+UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Título, %s x %d"
 UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Recompensas
-UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
+UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Títulos de logros
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Títulos independientes
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,tiempo pendiente : \n%ddía(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Herb with a unique fragrance. Yields Common-Rare herbs.
-UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Rare herb that is difficult to find. Yields Common-Very Rare herbs.
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Legendary herb known to few. Yields Rare-Very Rare herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Tree with a unique appearance. Yields Common-Rare logs.
-UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Rare tree that is difficult to find. Yields Common-Very Rare logs.
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
-UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
+UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Hierba con una fragancia única. Produce hierbas comunes-raras.
+UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Hierba rara difícil de encontrar. Produce hierbas comunes-muy raras.
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Hierba legendaria conocida por pocos. Produce hierbas raras-muy raras.
+UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Árbol con una apariencia única. Produce troncos comunes-raros.
+UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Árbol raro difícil de encontrar. Produce troncos comunes-muy raros.
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Árbol legendario conocido por pocos. Produce troncos raros-muy raros.
+UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Roca con una apariencia única. Produce minerales comunes-raros.
+UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Roca rara difícil de encontrar. Produce minerales comunes-muy raros.
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Roca legendaria conocida por pocos. Produce minerales raros-muy raros.
 UI_LIFE_PRODUCTION_START,Production Start,Inicio de producción 
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Una vez que la producción ha comenzado, no se puede cancelar. ¿Quieres seguir adelante y empezar la producción?\n\n#cffffc000Tiempo de producción necesario: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Una vez que la producción ha comenzado, no se puede cancelar. ¿Quieres seguir adelante y empezar la producción?\n\n#cffffc000Tiempo de producción necesario: %s~%s#nc"
-UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,Cook Food #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,Perform Alchemy #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,Perform Carpentry #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,Smith Items #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Minar minerales #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Tala árboles #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Pescar #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,Cocinar alimentos #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,Realizar alquimia #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,Realizar carpintería #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,Forjar objetos #cffc32f07#b%d/%d#nb#nc
 UI_CHAT_COPYNAME,Copy name,Copiar Nombre
-UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,Enter the Rainbow Race now?
+UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,"La Carrera Arcoíris comenzará en %d minutos.\nNo puedes participar en la Carrera Arcoíris en el canal actual.\n\nPor favor, entra a través del NPC Oficial de la Carrera Arcoíris ubicado en %s Darken.\n\nPresiona OK para moverte a %s."
+UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,La Carrera Arcoíris comenzará en %d minutos.\nNo puedes participar en la Carrera Arcoíris en el canal actual.\n\nPresiona OK para moverte a %s.
+UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,La Carrera Arcoíris ha comenzado.\nNo puedes participar en la Carrera Arcoíris en el canal actual.\n\nPresiona OK para moverte a %s.
+UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,¿Entrar a la Carrera Arcoíris ahora?
 UI_CREATENPC_TITLE,Create NPC,Crear NPC
 UI_CREATENPC_AGRESSIVE,Aggressive,Agresivo
-UI_CREATENPC_NOWNER,No Owner,No Owner
-UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
+UI_CREATENPC_NOWNER,No Owner,Sin propietario
+UI_CREATENPC_NOEXPLOSS,No Exp Loss,Sin pérdida de EXP
 UI_CREATEITEM_FLAGS,Flags,Banderas
 UI_CREATEITEM_TIME,Time (Sec),Tiempo (Seg)
 UI_CREATEITEM_CHARGED,Charged,Cargado
-UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
-UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
-UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
-UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
-UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
+UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Tasa de éxito de alquimia
+UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Tasa de éxito de cocina
+UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Tasa de éxito de carpintería
+UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Tasa de éxito de herrería
+UI_HOUSINGSETUP_GATHERING,Gathering,Recolección
 UI_HOUSINGSETUP_NEXTHARVEST,Ready in:,Listos en
-UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Ready to Harvest
-UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Harvest Cooldown
-UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,Harvests: %d/%d
-UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Infinite Harvests
-UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Harvest Cooldown:
-UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Growth Time:
+UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Listo para cosechar
+UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Tiempo de reutilización de cosecha
+UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,Cosechas: %d/%d
+UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Cosechas infinitas
+UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Tiempo de reutilización de cosecha:
+UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Tiempo de crecimiento:
 UI_QUEST_MOTION,Emote: %s,Emote: %s
-UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Required Quest: %s
+UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Misión requerida: %s
 UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,Daño PvE
 UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Dmg Resist
 UI_GENERALAWAKE_START,Start,Iniciar
@@ -2764,28 +2764,28 @@ UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,Pet Inventory Slots
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
-UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
-UI_TELEPORT_ARENA,Exit the arena?,Exit the arena?
-UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
-UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
-UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,You ran out of blessings.
-UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Weekly Ranking
-UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanent Ranking
-UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
+UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Misión completada
+UI_TELEPORT_ARENA,Exit the arena?,Salir de la Arena?
+UI_NEWYEARPASS_2025,2025 New Year Pass,Pase de Año Nuevo 2025 
+UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Recolectar %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Recolectar recursos (hierbas, troncos, minerales, bayas) #cffc32f07#b%d/%d#nb#nc"
+UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,Te has quedado sin bendiciones.
+UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Clasificación semanal
+UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Clasificación permanente
+UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Título:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: ,Rango Actual:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
+UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,Sin clasificar.
 UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Puntos de Primavera: %d Pts
 UI_QUEST_PT_JAN2024_2,Spring Points: ????,Puntos de Primavera: ????
 UI_EVENT_JAN2024_NAME,Spring Point Exchange,Puntos de Primavera Intercambio
 UI_JAN2024_POINT_NAME,Spring Points,Puntos de Primavera
 UI_POINTS,%d Pts,%d Pts
-UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
-UI_STANDBY,Standby,Standby
-UI_DEAD,Dead,Dead
-UI_NOW_SPECTATING,Spectating %s,Spectating %s
-UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
+UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Recolectar recursos (hierbas, troncos, minerales, bayas) #cffc32f07#b%d/%d#nb#nc"
+UI_STANDBY,Standby,En espera
+UI_DEAD,Dead,Muerto
+UI_NOW_SPECTATING,Spectating %s,Espectando %s
+UI_EASTER_EGG_MISSION,Gather Easter Eggs,Recolectar huevos de Pascua
+UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,Roca común encontrada en todo el mundo. Produce minerales comunes.
 UI_TARGET_HEALTH,Health: ,Salud: 
 UI_TARGET_PENYA,- Penya: ,- Penya: 
 UI_ACHIEVEMENTS_LIFE_TAB,Life,Vida
@@ -2793,7 +2793,7 @@ UI_MENU_REFRESH,Refresh,Actualizar
 UI_MENU_MESSAGE,Message,Mensajes
 UI_MENU_SUMMON,Summon,Invocar
 UI_MENU_KICK,Kick,Echar
-UI_MENU_SNOOP,Snoop,Snoop
+UI_MENU_SNOOP,Snoop,Espiar
 UI_MENU_MUTE,Mute,Silenciar
 UI_MENU_UNMUTE,Unmute,Quitar silencio
 UI_MENU_FREEZE,Freeze,Congelar
