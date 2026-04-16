@@ -1228,7 +1228,7 @@ TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are
 TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,No puedes usar habilidades de grupo en esta área.
 TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,"Por favor, espera un momento antes de publicar otro mensaje en el libro de visitas."
 TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,Aún hay jugadores en tu casa. No puedes cambiar la plantilla hasta que no quede nadie dentro.
-TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s No tiene suficiente Penya para inscribirse en la Carrera Arcoíris.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s no tiene suficiente Penya para inscribirse en la Carrera Arcoíris.
 TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s está realizando otra acción.
 TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Los equipos se asignarán aleatoriamente después de %d segundos
 TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,La teletransportación ya no está disponible.
@@ -1440,7 +1440,7 @@ TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct in
 TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,Este objeto no requiere reparación.
 TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Mejora del producto fallida.
 TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,¡Mejora del producto exitosa!
-TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,La %s's receta ha sido desbloqueada.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,La receta de %s ha sido desbloqueada.
 TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,Ya no puedes apilar este objeto. Este objeto solo puede apilarse %d veces.
 TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,No se puede encontrar cebo.
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,No has aprendido la habilidad requerida aún.

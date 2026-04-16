@@ -2589,12 +2589,12 @@ UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Succe
 UI_LIFE_MASTERY,Mastery,Dominio
 UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Cambiar especialidad en: %s
 UI_REPAIR_TITLE,Repair,Reparar
-UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),¿Deseas reparar? %s?\n(%s)
-UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),¿Deseas reparar? %s?\n(%s%%)
+UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),¿Deseas reparar %s?\n(%s)
+UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),¿Deseas reparar %s?\n(%s%%)
 UI_LIFE_FISHING_MINIGAME,Minigame,Minijuego
 UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Auto-Saltar Minijuego
 UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Omitir el minijuego significa que no obtendrás el aumento de éxito de pesca por ganar. ¿Continuar?
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Omitir el minijuego significa que no obtendrás el aumento de éxito de pesca por ganar. ¿Continuar? 
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Omitir el minijuego significa que no obtendrás el aumento de éxito de pesca por ganar. ¿Continuar?
 UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Selección de cebo
 UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Selecciona el cebo que deseas usar para pescar. El cebo seleccionado afecta la rareza de los peces que puedes capturar.
 UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Recolectar hierbas #cffc32f07#b%d/%d#nb#nc
@@ -2714,7 +2714,7 @@ UI_LIFE_PRODUCTION_START,Production Start,Inicio de producción
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Una vez que la producción ha comenzado, no se puede cancelar. ¿Quieres seguir adelante y empezar la producción?\n\n#cffffc000Tiempo de producción necesario: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Una vez que la producción ha comenzado, no se puede cancelar. ¿Quieres seguir adelante y empezar la producción?\n\n#cffffc000Tiempo de producción necesario: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Minar minerales #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Talas árboles #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Tala árboles #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Pescar #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,Cocinar alimentos #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,Realizar alquimia #cffc32f07#b%d/%d#nb#nc
