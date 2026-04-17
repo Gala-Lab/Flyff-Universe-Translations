@@ -5,12 +5,12 @@ MMI_2,Trade,交易
 MMI_3,Attack,攻擊
 MMI_4,Message,訊息
 MMI_5,Add to my list,追加到即時通
-MMI_6,Invite to join party,邀請加入劇團
-MMI_7,Invite to join guild,邀請加入公會
+MMI_6,Invite to join party,劇團邀請
+MMI_7,Invite to join guild,公會邀請
 MMI_8,Place of Resurrection,指定場所
 MMI_9,Bank,銀行
 MMI_10,Duel,決鬥
-MMI_11,Request party duel,申請劇團決鬥
+MMI_11,Request party duel,發起劇團決鬥
 MMI_12,Follow,跟隨
 MMI_13,Beauty Shop,美容院
 MMI_14,Repair,修理
@@ -32,7 +32,7 @@ MMI_32,Remove piercing card,移除穿洞卡
 MMI_33,Lineup Setup,組織參加名單
 MMI_34,Claim Guild Penya,領取獎金和申請費用
 MMI_35,Reward Information,獎金資訊
-MMI_36,Claim MVP Penya Reward,領取MVP獎金
+MMI_36,Claim MVP Penya Reward,領取 MVP 獎金
 MMI_37,Participation Information,參加資格
 MMI_38,Basic Rules,基本規則
 MMI_39,Winning Conditions,勝利條件
@@ -47,7 +47,7 @@ MMI_53,Create Jewels,製作寶石
 MMI_54,Create Unique Weapon,製作獨特武器
 MMI_59,Remove Element,移除元素
 MMI_71,Remove Level Reduction,移除裝備降等效果
-MMI_74,Get Buffed!,獲得Buff！
+MMI_74,Get Buffed!,獲得 Buff！
 MMI_75,Exchange Rare Item Pieces,交換稀有物品碎片
 MMI_76,Exchange Card Pieces,交換卡片碎片
 MMI_79,Remove Premium Item Blessing,移除女神祝福
@@ -69,7 +69,7 @@ MMI_1002,Inspect,檢查
 MMI_1003,Unbinding,解除綁定
 MMI_1004,Exchange,交換
 MMI_1005,Combat Power Ranking,戰鬥力排名
-MMI_1006,Giant Hunt Ranking ,BOSS擊殺排名
+MMI_1006,Giant Hunt Ranking ,Boss 擊殺排名
 MMI_1007,Accessory Upgrade,飾品升級
 MMI_1008,Mute,靜音
 MMI_1009,Unmute,解除靜音
@@ -81,20 +81,20 @@ MMI_1014,Exchange Dice,交換骰子
 MMI_1015,Pet Sacrificing,寵物犧牲
 MMI_1016,Red Chip Shop,紅籌碼商店
 MMI_1017,Cosmetic Wardrobe,外觀衣櫥
-MMI_1018,Lv80 GS Apply,Lv80公會戰申請
-MMI_1019,Lv80 GS Status,Lv80公會戰狀態
-MMI_1020,Lv80 GS Cancel,Lv80公會戰取消
-MMI_1021,Lv80 GS Enter,加入Lv80公會戰
-MMI_1022,Lv80 GS Lineup Setup,Lv80公會戰名單
-MMI_1023,Lv80 GS Ranking,Lv80公會戰排名
-MMI_1024,Lv80 GS Information,Lv80公會戰資訊
-MMI_1025,Lv60 GS Apply,Lv60公會戰申請
-MMI_1026,Lv60 GS Status,Lv60公會戰狀態
-MMI_1027,Lv60 GS Cancel,Lv60公會戰取消
-MMI_1028,Lv60 GS Enter,加入Lv60公會戰
-MMI_1029,Lv60 GS Lineup Setup,Lv60公會戰名單
-MMI_1030,Lv60 GS Ranking,Lv60公會戰排名
-MMI_1031,Lv60 GS Information,Lv60公會戰資訊
+MMI_1018,Lv80 GS Apply,Lv.80 公會戰申請
+MMI_1019,Lv80 GS Status,Lv.80 公會戰狀態
+MMI_1020,Lv80 GS Cancel,Lv.80 公會戰取消
+MMI_1021,Lv80 GS Enter,加入Lv.80 公會戰
+MMI_1022,Lv80 GS Lineup Setup,Lv.80 公會戰名單
+MMI_1023,Lv80 GS Ranking,Lv.80 公會戰排名
+MMI_1024,Lv80 GS Information,Lv.80 公會戰資訊
+MMI_1025,Lv60 GS Apply,Lv.60 公會戰申請
+MMI_1026,Lv60 GS Status,Lv.60 公會戰狀態
+MMI_1027,Lv60 GS Cancel,Lv.60 公會戰取消
+MMI_1028,Lv60 GS Enter,加入Lv.60 公會戰
+MMI_1029,Lv60 GS Lineup Setup,Lv.60 公會戰名單
+MMI_1030,Lv60 GS Ranking,Lv.60 公會戰排名
+MMI_1031,Lv60 GS Information,Lv.60 公會戰資訊
 MMI_1032,Blue Chip Shop,藍籌碼商店
 MMI_1033,Valentine's Letter Exchange,情人節情書交換
 MMI_1034,Dungeon,副本
@@ -111,7 +111,7 @@ MMI_1047,Join FWC PVP Arena,加入 FWC PVP 競技場
 MMI_1046,FWC PVP Ranking,FWC PVP 排名
 MMI_1048,Spectate FWC PVP Contest,觀看 FWC PVP 比賽
 MMI_1049,Rock Paper Scissors,剪刀石頭布
-MMI_1050,W-Token Shop,W-代幣商店
+MMI_1050,W-Token Shop,W 代幣商店
 MMI_1051,Costume Box Upgrade,服裝箱升級
 MMI_1054,Exchange Rings,交換戒指
 MMI_1055,Dismantle Item,分解物品
@@ -135,7 +135,7 @@ MMI_1074,Kalgas Assault Info,卡爾加斯突擊戰資訊
 MMI_1075,Kalgas Chip Shop,卡爾加斯籌碼商店
 MMI_1076,Couple's Storage,情侶銀行
 MMI_1077,Create Ultimate Jewel,創建終極寶石
-MMI_1078,Fuse Ultimate Jewel,融合終極寶石 (3~6合1)
+MMI_1078,Fuse Ultimate Jewel,融合終極寶石 (3~6 合 1)
 MMI_1079,Teleport,傳送
 MMI_1080,Sea Shell Upgrading,海貝升級
 MMI_1081,Fuse Rainbow Jewel,合成彩虹寶石
