@@ -824,7 +824,7 @@ UI_MAP_MARK_CHANGE_NAME,Set Name,設定名稱
 UI_MAP_MARK,Position,位置
 UI_MAP_MARK_NAME_TITLE,Set Map Mark Name,位置名稱變更
 UI_MAP_MARK_NAME_INPUT,Enter a new name for the mark:,請輸入標記的新名稱：
-UI_TOOLTIP_EQUIPPED,[ Equipped ],[ 已裝備 ]
+UI_TOOLTIP_EQUIPPED,[ Equipped ],[使用中]
 UI_TOOLTIP_ACTIVESELF,Also Cast on You,同時施放於你身上
 UI_TOOLTIP_ACTIVETARGET,Also Cast on Target,同時施放於目標
 UI_TOOLTIP_CHANGEIFHAS,If you have %s,如果您擁有 %s
