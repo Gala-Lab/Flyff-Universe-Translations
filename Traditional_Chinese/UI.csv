@@ -1261,11 +1261,11 @@ UI_CASHSHOP_PENYA_VIP,Penya (VIP),金幣 (VIP)
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b無法交易或出售#nb。
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次購買#b不是商品#nb。
 UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,爆擊抗性
-UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,減少 PvP 傷害
-UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,減少 PvE 傷害
+UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,玩家傷害減免
+UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,怪物傷害減免
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抗性
-UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvP 傷害
-UI_TOOLTIP_DST_PVE_DMG,PvE Damage,PvE 傷害
+UI_TOOLTIP_DST_PVP_DMG,PvP Damage,對玩家傷害
+UI_TOOLTIP_DST_PVE_DMG,PvE Damage,對怪物傷害
 UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,羅煞狂爆拳傷害
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,生命數：%d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,移除 Buff
@@ -2747,8 +2747,8 @@ UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,收成冷卻時間：
 UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,成長時間：
 UI_QUEST_MOTION,Emote: %s,表情：%s
 UI_TOOLTIP_REQ_QUEST,Required Quest: %s,要求任務：%s
-UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE 傷害
-UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,減少 PvE 承受傷害
+UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,對怪物傷害
+UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,怪物傷害減免
 UI_GENERALAWAKE_START,Start,開始
 UI_GENERALAWAKE_HEADERITEM,Item to Awake:,要受祝福的物品：
 UI_GENERALAWAKESLOT_INDEX,Stat %d,屬性%d
@@ -3198,8 +3198,8 @@ UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP 界線：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP 界線：低於 %d%%
 UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,凹陷暴擊傷害
 UI_TOOLTIP_TRAP_RANGE,Trap Range,陷阱範圍
-UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,3 米範圍內的傷害
-UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,5 米範圍以外的傷害
+UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,三米範圍內的傷害
+UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,五米範圍以外的傷害
 UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n當前加成：
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,自動攻擊堆疊層數機率
@@ -3209,8 +3209,8 @@ UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,減少 HP 消耗
 UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,擊殺流血敵人時恢復 HP
 UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,左手傷害
 UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,HP 降低時減少承受傷害
-UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,減少 3 轉技能冷卻時間
-UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,3 轉技能傷害
+UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,減少三轉技能冷卻時間
+UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,三轉技能傷害
 UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,減少聖歌冷卻時間
 UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,施放聖歌時減少承受傷害
 UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,施放聖歌時增加移動速度

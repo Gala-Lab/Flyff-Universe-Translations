@@ -13379,9 +13379,9 @@ PROPITEM_TXT_131805,This NPC will grant you the following bonus when placed on t
 PROPITEM_TXT_131806,[Personal House NPC] Chacha,[小屋 NPC] 恰恰
 PROPITEM_TXT_131807,This NPC will grant you the following bonus when placed on the Personal House: Flying Speed +5%.,當將此 NPC 放置於小屋時，將帶給你以下加成：飛行速度 +5%。
 PROPITEM_TXT_131808,[Personal House NPC] Hatter,[小屋 NPC] 帽客
-PROPITEM_TXT_131809,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：PvE 傷害 +3%。
+PROPITEM_TXT_131809,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：對怪物傷害 +3%。
 PROPITEM_TXT_131810,[Personal House NPC] Alice,[小屋 NPC] 愛麗絲
-PROPITEM_TXT_131811,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage Reduction +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：PvE 傷害減免 +3%。
+PROPITEM_TXT_131811,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage Reduction +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：怪物傷害減免 +3%。
 PROPITEM_TXT_131812,[Personal House NPC] Rulu,[小屋 NPC] 露露
 PROPITEM_TXT_131813,This NPC will grant you the following bonus when placed on the Personal House: Experience Loss Reduction +3%.,當將此 NPC 放置於小屋時，將帶給你以下加成：經驗值損失減少 +3%。
 PROPITEM_TXT_131814,[Personal House NPC] Demon,[小屋 NPC] 惡魔
@@ -13433,9 +13433,9 @@ PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on t
 PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[公會飛船 NPC] 西米德
 PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：掉落率增加 +5%。
 PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[公會飛船 NPC] 科德
-PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：PvP 傷害 +3%。
+PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：對玩家傷害 +3%。
 PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[公會飛船 NPC] 安努拉
-PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：PvP 傷害減免 +3%。
+PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：玩家傷害減免 +3%。
 PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[公會飛船 NPC] 維克爾
 PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：PvP 近戰／遠程格擋 +3%。
 PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[公會飛船 NPC] 索茲
@@ -17232,10 +17232,10 @@ PROPITEM_TXT_800148,Rune of Attack,攻擊符文
 PROPITEM_TXT_800149,Rune of Defense,防禦符文
 PROPITEM_TXT_800150,Rune of Attack Speed,攻擊速度符文
 PROPITEM_TXT_800151,Rune of Speed,移動速度符文
-PROPITEM_TXT_800152,Rune of Critical Chance,暴擊率符文
+PROPITEM_TXT_800152,Rune of Critical Chance,暴擊符文
 PROPITEM_TXT_800153,Rune of Critical Bonus,暴擊傷害符文
-PROPITEM_TXT_800154,Rune of Hit Rate,命中率符文
-PROPITEM_TXT_800155,Rune of Magic Resist,魔抗符文
+PROPITEM_TXT_800154,Rune of Hit Rate,命中符文
+PROPITEM_TXT_800155,Rune of Magic Resist,魔法抵抗符文
 PROPITEM_TXT_800156,Rune of Critical Resistance,暴擊抵抗符文
 PROPITEM_TXT_800157,Rune of Block Melee,近距離格擋符文
 PROPITEM_TXT_800158,Rune of Block Range,遠距離格擋符文
