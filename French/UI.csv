@@ -1030,7 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Commencer
 UI_TOOLTIP_COMBO_CIRCLE,Link,Continuer
 UI_TOOLTIP_COMBO_FINISH,Finisher,Terminer
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Dégâts de base : %d ~ %d
-UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Multiplicateur de dégâts : %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Augmentation des dégâts
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Augmentation des soins
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Augmentation de la durée
