@@ -13408,21 +13408,21 @@ PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[公會飛船 NPC] 拉繆 (FP)
 PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：FP 增加 +10%。
 PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[公會飛船 NPC] 奎特 (HP)
 PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：HP 增加 +10%。
-PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[公會飛船 NPC] 杜隆 (神器 HP)
+PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[公會飛船 NPC] 杜隆 (神器) (HP)
 PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：戰鬥神器 HP +10%。
-PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[公會飛船 NPC] 多菲 (神器防禦)
+PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[公會飛船 NPC] 多菲 (神器) (防禦)
 PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：戰鬥神器防禦力 +10%。
-PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[公會飛船 NPC] 富巴 (神器回復)
+PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[公會飛船 NPC] 富巴 (神器) (回復)
 PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：戰鬥神器回復 +10%。
-PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[公會飛船 NPC] 巴可 (神器成員 HP)
+PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[公會飛船 NPC] 巴可 (神器) (成員 HP)
 PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：靠近神器時公會成員 HP +500。
-PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[公會飛船 NPC] 威克 (神器成員攻擊)
+PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[公會飛船 NPC] 威克 (神器) (成員攻擊)
 PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：靠近神器時公會成員攻擊力 +3%。
-PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[公會飛船 NPC] 維娜 (神器成員防禦)
+PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[公會飛船 NPC] 維娜 (神器) (成員防禦)
 PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：靠近神器時公會成員防禦力 +3%。
-PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[公會飛船 NPC] 皮奇 (神器成員攻速)
+PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[公會飛船 NPC] 皮奇 (神器) (成員攻速)
 PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：靠近神器時公會成員攻速 +5%。
-PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[公會飛船 NPC] 凱奇 (神器成員施法)
+PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[公會飛船 NPC] 凱奇 (神器) (成員施法)
 PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：靠近神器時公會成員施法 +5%。
 PROPITEM_TXT_131854,[Guild Ship NPC] Met,[公會飛船 NPC] 梅特 (掉率)
 PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,當將此 NPC 放置於公會飛船時，將帶給你以下加成：掉落率增加 +5%。
@@ -14531,14 +14531,14 @@ PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[公會飛船 NPC] 阿斐 (FP
 PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[公會飛船 NPC] 夏姆 (MP) (7 天)
 PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[公會飛船 NPC] 拉繆 (FP) (7 天)
 PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[公會飛船 NPC] 奎特 (HP) (7 天)
-PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[公會飛船 NPC] 杜隆 (神器 HP) (7 天)
-PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[公會飛船 NPC] 多菲 (神器防禦) (7 天)
-PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[公會飛船 NPC] 富巴 (神器回復) (7 天)
-PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[公會飛船 NPC] 巴可 (神器成員 HP) (7 天)
-PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[公會飛船 NPC] 威克 (神器成員攻擊) (7 天)
-PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[公會飛船 NPC] 維娜 (神器成員防禦) (7 天)
-PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[公會飛船 NPC] 皮奇 (神器成員攻速) (7 天)
-PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[公會飛船 NPC] 凱奇 (神器成員施法) (7 天)
+PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[公會飛船 NPC] 杜隆 (神器) (HP) (7 天)
+PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[公會飛船 NPC] 多菲 (神器) (防禦) (7 天)
+PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[公會飛船 NPC] 富巴 (神器) (回復) (7 天)
+PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[公會飛船 NPC] 巴可 (神器) (成員 HP) (7 天)
+PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[公會飛船 NPC] 威克 (神器) (成員攻擊) (7 天)
+PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[公會飛船 NPC] 維娜 (神器) (成員防禦) (7 天)
+PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[公會飛船 NPC] 皮奇 (神器) (成員攻速) (7 天)
+PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[公會飛船 NPC] 凱奇 (神器) (成員施法) (7 天)
 PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[公會飛船 NPC] 梅特 (掉率) (7 天)
 PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[公會飛船 NPC] 伊格 (掉率) (7 天)
 PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[公會飛船 NPC] 威菲爾德 (掉率) (7 天)
