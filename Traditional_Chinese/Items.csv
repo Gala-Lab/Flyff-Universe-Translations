@@ -12450,6 +12450,17 @@ PROPITEM_TXT_150022,Blue Star Suit (F),藍星服裝 (女)
 PROPITEM_TXT_150023,Blue Star Shoes (F),藍星鞋子 (女)
 PROPITEM_TXT_150024,Blue Star 10% Set (F),藍星 10% 套裝 (女)
 PROPITEM_TXT_150025,The Blue Star 10% Set for female characters.,女角色使用的藍星 10% 套裝。
+PROPITEM_TXT_150026,Yellow Star 8% Set,黃星 8% 套裝
+PROPITEM_TXT_150027,Yellow Star Hat (M),黃星帽子 (男)
+PROPITEM_TXT_150028,Yellow Star Suit (M),黃星服裝 (男)
+PROPITEM_TXT_150029,Yellow Star Shoes (M),黃星鞋子 (男)
+PROPITEM_TXT_150030,Yellow Star Backpack,黃星背包
+PROPITEM_TXT_122500,Shining Oricalkum,閃耀奧里哈鋼
+PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,用於將普通武器轉化為終極武器。
+PROPITEM_TXT_122502,Ultimate Orb,終極寶珠
+PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,用於將普通武器轉化為終極武器。
+PROPITEM_TXT_122504,Scroll of Ultimate Power,終極之力卷軸
+PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,重置終極武器和某些史詩武器的固定屬性數值。
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,終極加成卷軸
 PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,重置升級終極武器時應用的附加隨機屬性種類和數值。
 PROPITEM_TXT_122508,Sunstone,晶石
@@ -12709,7 +12720,7 @@ PROPITEM_TXT_131020,"A package containing 4x Scroll of Amplification ES, 10x Scr
 PROPITEM_TXT_131021,Coral Growth Package B,珊瑚生長禮包 B
 PROPITEM_TXT_131022,"A package containing 4x Scroll of Amplification ES, 8x Scroll of Amplification ES140, 8x Flask Box and 7x 1 Day Scroll of Combined Party Effects. All items are also linked.",禮包內含 4 張經驗加成卷軸 ES、8 張經驗加成卷軸 ES140、8 個藥劑盒和 7 張 1 天組合組隊效果卷軸。所有物品均為綁定。
 PROPITEM_TXT_131023,Coral Ultimate Package A,珊瑚終極禮包 A
-PROPITEM_TXT_131024,A package containing 2 Shining Oricalkum and 2x Ultimate Orb. All items are also linked.,禮包內含 2 個閃耀奧利卡姆和 2 個終極寶珠。所有物品均為綁定。
+PROPITEM_TXT_131024,A package containing 2 Shining Oricalkum and 2x Ultimate Orb. All items are also linked.,禮包內含 2 個閃耀奧里哈鋼和 2 個終極寶珠。所有物品均為綁定。
 PROPITEM_TXT_131025,Military 2023 10% Red Set,2023 軍裝套裝 10% 紅色
 PROPITEM_TXT_131026,Military 2023 Red Hat (M),2023 軍裝帽子 紅色 (男)
 PROPITEM_TXT_131027,Military 2023 Red Suit (M),2023 軍裝服裝 紅色 (男)
@@ -25121,7 +25132,7 @@ PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,2026 黃色年糕湯
 PROPITEM_TXT_135049,[Event] 2026 New Year Gift Box 1,[活動] 2026 新年禮盒 1
 PROPITEM_TXT_135050,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES and 5x Repair Hammer.",新年活動首個獎勵！ \n 可獲得 5x 力量之石、1x 蒲燒鰻魚、1x 經驗加成卷軸 ES 和 5x 修復錘。
 PROPITEM_TXT_135051,[Event] 2026 New Year Gift Box 2,[活動] 2026 新年禮盒 2
-PROPITEM_TXT_135052,"Second reward for New Year Event!\nYou can earn 2x Flask Box, 5x Scroll of Velocity, 1x Scroll of Gprotect/Power Scroll and New Amplification ES Scroll Select Box.",新年活動第二重獎勵！ \n 可取得 2x 藥劑盒、5x 速度捲軸、1xGprotect/強力捲軸和新版經驗加成卷軸 ES 選擇箱。
+PROPITEM_TXT_135052,"Second reward for New Year Event!\nYou can earn 2x Flask Box, 5x Scroll of Velocity, 1x Scroll of Gprotect/Power Scroll and New Amplification ES Scroll Select Box.",新年活動第二階段獎勵！\n可獲得 2x 藥水盒、5x 速度卷軸、1x 穿洞防爆卷/力量卷軸和新版經驗加成卷軸選擇箱。
 PROPITEM_TXT_135053,[Event] 2026 New Year Gift Box 3,[活動] 2026 新年禮盒 3
 PROPITEM_TXT_135054,"Third reward for New Year Event!\nYou can earn 1x Noble Jockey Red Set, 4x Elemental Attack Stone Select Box, 4x Elemental Defense Stone Select Box, 2x Scroll of Element Change and 1x Extra Bag (30 Days).",新年活動第三階段獎勵！\n可獲得 1x Noble Jockey 紅色套裝、4x 屬性攻擊石自選箱、4x 屬性防禦石自選箱、2x 屬性變更卷軸與 1x 額外背包 (30 天)。
 PROPITEM_TXT_135055,White Stripes Red Set,白條紋套裝 紅色
