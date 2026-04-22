@@ -1096,10 +1096,10 @@ UI_KEYBIND_TITLE,Keys,快捷鍵
 UI_KEYBIND_RESET,Reset,重新分配
 UI_UPGRADECARD_TITLE,Upgrade Suit Socket Cards,穿洞卡片升級
 UI_UPGRADECARD_REGISTER,Insert suit cards.,登錄穿洞卡片。
-UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,合成 10 張穿洞卡片，以獲得 1 張更高級的穿洞卡片。
-UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,合成武器穿洞卡片
+UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,融合 10 張穿洞卡片，以獲得 1 張更高級的穿洞卡片。
+UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重置
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,登錄武器穿洞卡片。
-UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,合成 3 張武器穿洞卡片，以獲得 1 張相同等級的穿洞卡片。
+UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,融合 3 張武器穿洞卡片，以獲得 1 張相同等級的穿洞卡片。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,如果合成卡片，登錄的卡片就會消失。\n您想繼續嗎?
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,轉換為角色綁定
 UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",該物品將變為角色綁定物品，無法再出售給 NPC。您可以使用此方法堆疊綁定狀態不同的相同物品 (原本無法堆疊的物品)。請注意：角色綁定物品無法交易，且此操作無法撤銷。
@@ -2504,9 +2504,9 @@ UI_MATOURNAMENT_BETTING_NOREWARD,None,無
 UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除終極寶石
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",從該物品中移除選中的終極寶石? #b#cffff0000如果沒有使用寶石鑷子，寶石將會被破壞。#nc#nb
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,合成終極寶石
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合終極寶石
 UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,登錄終極寶石原石。
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,合成 3 至 6 個終極寶石，可獲得 1 個更高等級的終極寶石。
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 個終極寶石，可獲得 1 個更高等級的終極寶石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,終極寶石原石將被消耗。 \n您是否要繼續?
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功：#b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,建立終極寶石原石
