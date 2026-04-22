@@ -1363,10 +1363,10 @@ TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!
 TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,嗚…終極寶石製作失敗…
 TEXTCLIENT_COUPLENOTARGET,You must select a player first.,您必須先選擇一名玩家。
 TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,您的求婚已被拒絕。
-TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,您的分手請求被拒絕了。
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,您的分手請求已被拒絕。
 TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!",您們現在是情侶了，恭喜！
 TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,對方已經有情侶了。
-TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s 和 %s 成為情侶了！
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s 和 %s 在一起了 >///<
 TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,已使用情侶技能：%s。
 TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,您正在使用情侶技能：%s。
 TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,您的情侶點數不足。
