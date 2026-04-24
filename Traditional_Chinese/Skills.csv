@@ -385,7 +385,7 @@ PROPSKILL_TXT_100036,Shade's Cruel Bargain,闇影的殘酷契約
 PROPSKILL_TXT_100037,"Monsters explode on death, but have an increased drop rate.",所有怪物死亡時會爆炸，但增加物品掉落率。
 PROPSKILL_TXT_100038,Iblis Touched,伊普里斯的恩寵
 PROPSKILL_TXT_100039,"Monsters reflect damage, but have an increased drop rate.",怪物擁有反彈傷害，但增加物品掉落率。
-PROPSKILL_TXT_100040,Rhisis' Assistance,黎席斯的協助
+PROPSKILL_TXT_100040,Rhisis' Assistance,黎希絲的協助
 PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.",怪物每秒回復部分生命值，但可獲得更多經驗。
 PROPSKILL_TXT_100042,"Monsters have increased movement speed, but take increased damage.",增加怪物的移動速度，但怪物的承受傷害也增加。
 PROPSKILL_TXT_100043,Dagger from Within,噬魂之刃
@@ -801,7 +801,7 @@ PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on n
 PROPSKILL_TXT_150221,Stun Resistance,眩暈抗性
 PROPSKILL_TXT_150222,DoT Resistance,持續傷害抗性
 PROPSKILL_TXT_150223,Area Increase,範圍擴大
-PROPSKILL_TXT_150224,Soul of Rhisis,萊斯神之魂
+PROPSKILL_TXT_150224,Soul of Rhisis,黎希絲之魂
 PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱聖歌，為周圍友方及自身提供傷害減免。吟唱期間使用其他技能將中斷吟唱。聖歌的效果隨持續吟唱時間逐步增強。
 PROPSKILL_TXT_150226,Effect Increase,效果增強
 PROPSKILL_TXT_150228,Duration Increase,持續時間延長
@@ -864,7 +864,7 @@ PROPSKILL_TXT_150304,Knuckle Power,拳套之力
 PROPSKILL_TXT_150305,Bubble's Blessing,波卜爾的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,施放一道光環，提升友方的暴擊傷害與攻擊力。可再次施放以取消該效果。
 PROPSKILL_TXT_150309,Range Extension,射程提升
-PROPSKILL_TXT_150310,Touch of Rhisis,萊斯神之觸
+PROPSKILL_TXT_150310,Touch of Rhisis,黎希絲之觸
 PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光環，提升附近友軍的防禦力與格擋率。無法與其他光環同時使用。可再次施放取消。
 PROPSKILL_TXT_150315,Ire of Iblis,伊普利之怒
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,生成一道光環，提升友方暴擊抗性。可再次施放取消。
