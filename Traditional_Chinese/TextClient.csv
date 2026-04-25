@@ -1519,7 +1519,7 @@ TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,紅隊
 TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,藍隊
 TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,綠隊
 TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,黃隊
-TEXTCLIENT_PVPMATCH_KILL,[%s] %s,【%s】%s
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,物品或金幣已被移除，請稍候。
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,您必須到達 %d 級才能發送郵件。
 TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,由於收件人的設定為不允許接受，發送失敗。
