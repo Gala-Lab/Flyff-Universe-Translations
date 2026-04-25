@@ -324,7 +324,7 @@ PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum F
 PROPSKILL_TXT_100000,Moon Beam,月光
 PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",召喚月光讓敵人虛弱，當有此減益技能效果的狀態下，所受的所有傷害都會增加
 PROPSKILL_TXT_100002,Shade's Support,闇影的賜福
-PROPSKILL_TXT_100003,Protects the monster from stun and rooting debuffs.,保護怪物免受眩暈和定身 Debuff 效果的影響。
+PROPSKILL_TXT_100003,Protects the monster from stun and rooting debuffs.,保護怪物免受眩暈和定身減益效果的影響。
 PROPSKILL_TXT_100004,Shade's Boost,闇影的鼓舞
 PROPSKILL_TXT_100005,Increases the monster's movement speed.,增加怪物的移動速度。
 PROPSKILL_TXT_100006,Dragon's Grace,龍的恩典
@@ -561,10 +561,10 @@ PROPSKILL_TXT_150059,Arcane Enchantment,奧術附魔
 PROPSKILL_TXT_150060,Provide Elemental status to the skills..,為技能賦予元素屬性狀態。
 PROPSKILL_TXT_150061,Increased Element,增加元素
 PROPSKILL_TXT_150062,Decreased Element,減少元素
-PROPSKILL_TXT_150063,Elemental Debuff,元素 Debuff
+PROPSKILL_TXT_150063,Elemental Debuff,元素減益效果
 PROPSKILL_TXT_150064,Laughter of La Croix,聖十字之笑
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,你可以無視一次控制或虛弱類減益效果。
-PROPSKILL_TXT_150066,Successfull Debuff,減益生效
+PROPSKILL_TXT_150066,Successfull Debuff,減益效果生效
 PROPSKILL_TXT_150067,Additional Shield,額外護盾
 PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的詛咒
 PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.",以奇美拉之靈詛咒目標，對其造成傷害並將其變異為獨眼蝙蝠。變異期間目標無法攻擊。該技能在完全蓄力後，成功機率將提升 30%。
@@ -578,7 +578,7 @@ PROPSKILL_TXT_150077,Shield,盾
 PROPSKILL_TXT_150078,Hexe's Lament,怨縛悲鳴
 PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.",對目標周圍區域造成傷害，並有機率使被命中的敵人陷入詛咒狀態，剝奪其發動暴擊的能力。技能完全蓄力後，持續時間將延長，且攻擊頻率提高。
 PROPSKILL_TXT_150080,Aoe Range,群體範圍
-PROPSKILL_TXT_150081,Debuff increase,增加 Debuff
+PROPSKILL_TXT_150081,Debuff increase,增加減益效果
 PROPSKILL_TXT_150082,Damage increase,增加傷害
 PROPSKILL_TXT_150083,Damnation Surge,咒術奔湧
 PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.",根據你施加的虛弱類減益效果數量，以此倍增其效果。
@@ -588,7 +588,7 @@ PROPSKILL_TXT_150088,Enhanced Blinkpool,強化空間轉換
 PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,使用空間轉換後移速短暫提升。
 PROPSKILL_TXT_150090,Additional damage disable,限制效果時追加傷害
 PROPSKILL_TXT_150091,Additional damage weaken,虛弱效果時追加傷害
-PROPSKILL_TXT_150092,Debuff Damage Reduction,Debuff 減少承受傷害
+PROPSKILL_TXT_150092,Debuff Damage Reduction,減益效果減少承受傷害
 PROPSKILL_TXT_150093,Shield Crush,破盾重擊
 PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,揮舞你的盾牌，有一定機率擊暈敵人。
 PROPSKILL_TXT_150095,Increased Range,增加範圍
@@ -700,7 +700,7 @@ PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,禁域‧首領詛咒
 PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,禁域揭露了你的弱點。受到首領造成的傷害提高 5%。
 PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,禁域‧首領降臨詛咒
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,在禁域的詛咒之下，你的防禦開始動搖。首領級敵人對你造成的傷害提高 10%。
-PROPSKILL_TXT_140064,Trap: Debuff,陷阱：減益
+PROPSKILL_TXT_140064,Trap: Debuff,陷阱：減益效果
 PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,部署一個陷阱，造成傷害並有 15% 的機率使目標減速。
 PROPSKILL_TXT_140066,Pit,陷坑
 PROPSKILL_TXT_140067,You have stepped on a trap.,你踩到了一個陷阱。

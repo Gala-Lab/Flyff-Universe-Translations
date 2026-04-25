@@ -3188,7 +3188,7 @@ UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,暴擊印記機率
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),完成 #cffc32f07#b%d/%d#nb#nc 每日任務。
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,每層限制效果增加傷害
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,每層虛弱效果增加傷害
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),每層 Debuff 減少承受傷害 (上限 8 層)
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),每層減益效果減少承受傷害 (上限 8 層)
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(限制效果)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(虛弱效果)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(無法移動)
@@ -3275,7 +3275,7 @@ UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,怪物經驗值/掉落獲得
 UI_TOOLTIP_TENACITY,Tenacity,韌性
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,靈魂昇揚
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 版本通行證
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff 持續時間
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,減益效果持續時間
 UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,插入相同類型終極寶石機率
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 新年通行證
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,已在衣櫥中
