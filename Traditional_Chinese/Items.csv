@@ -3427,7 +3427,7 @@ PROPITEM_TXT_006056,Pine Seeding,驚喜禮物箱
 PROPITEM_TXT_006058,Surprising Gift Box,驚喜禮物箱
 PROPITEM_TXT_006059,Gift box,禮物盒
 PROPITEM_TXT_006060,Blue Tanjaku,藍色許願板
-PROPITEM_TXT_006062,Guild Battle Royale Ticket,公會大亂鬥門票
+PROPITEM_TXT_006062,Guild Battle Royale Ticket,公會大亂鬥入場券
 PROPITEM_TXT_006063,This rare golden ticket is a requirement for entry into the Guild Battle Royale. Visit the FlyFF Community Forums or the FlyFF Wiki for details on how to use this ticket.,這張稀有的金票是進入公會大亂鬥的必備品，拜訪社群或維基瞭解如何使用
 PROPITEM_TXT_006072,Gift Box 1,禮物盒 1
 PROPITEM_TXT_006074,Gift Box 2,禮物盒 2
@@ -9045,9 +9045,9 @@ PROPITEM_TXT_200150,$250 Golden Ticket,$250 的黃金門票
 PROPITEM_TXT_200151,Congratulations! Winning this item will earn you a real $250.00 gift card at the end of the Lottery Wheel event!,恭喜！贏得此項目將在彩票轉輪活動結束時，為您贏得一張真正的 $250 元禮品卡！
 PROPITEM_TXT_200152,Lottery Coin,彩票幣
 PROPITEM_TXT_200153,This item allows you to spin the Lottery Wheel! Get enough and let's go! Double click on it to open the lottery window!,這個道具可以讓你轉彩票轉輪！足夠了，我們走吧！雙點擊它打開彩票窗口！
-PROPITEM_TXT_200154,5000 fCoins,5000 f 幣
-PROPITEM_TXT_200155,Win this reward and you'll automatically get free bonus fCoins to spend in the shop!,贏得此獎勵，您將自動獲得可在商店消費的免費 f 幣獎勵！
-PROPITEM_TXT_200156,3000 fCoins,3000 f 幣
+PROPITEM_TXT_200154,5000 fCoins,5000 fCoins
+PROPITEM_TXT_200155,Win this reward and you'll automatically get free bonus fCoins to spend in the shop!,贏得此獎勵，您將自動獲得可在商店消費的免費 fCoins 獎勵！
+PROPITEM_TXT_200156,3000 fCoins,3000 fCoins
 PROPITEM_TXT_200167,2023 New Year Costume Select Box,2023 年新年服裝選擇箱
 PROPITEM_TXT_200168,2023 New Year Hat (M),2023 新年帽 (男)
 PROPITEM_TXT_200169,2023 New Year Suit (M),2023 新年衣服 (男)
@@ -9777,10 +9777,10 @@ PROPITEM_TXT_110301,Cacti's Lucky Box,仙人掌幸運箱
 PROPITEM_TXT_110302,This box contains a Cacti Set with Speed bonus. You can select your gender after opening the Lucky Box.,這個箱子包含一個帶有速度獎勵的仙人掌套裝。 您可以在打開幸運箱後選擇您的性別。
 PROPITEM_TXT_230114,PK Chip,PK 籌碼
 PROPITEM_TXT_230115,Exchange this PK chip to Waforu for wonderful rewards!,將此 PK 籌碼兌換給瓦普勒，即可獲得獎勵！
-PROPITEM_TXT_230116,1 Day Kebaras Ticket,卡巴拉斯一日卷
-PROPITEM_TXT_230117,You have unlimited access to Kebaras  area for 1 day after activating this Ticket. Kebaras contains monsters from level 16 to 140.,激活此門票後，您可以在 1 天內無限次進入卡巴拉斯區域。卡巴拉斯包含 16 到 140 級的怪物。
-PROPITEM_TXT_230118,6 hours Tower Ticket,6 小時塔樓門票
-PROPITEM_TXT_230119,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.,激活此門票後，您可以在 6 小時內無限制地進入塔樓區域。 塔包含 89 級到 160 級的怪物。
+PROPITEM_TXT_230116,1 Day Kebaras Ticket,卡巴拉斯入場券 (1 天)
+PROPITEM_TXT_230117,You have unlimited access to Kebaras  area for 1 day after activating this Ticket. Kebaras contains monsters from level 16 to 140.,激活此入場券後，您可以在 1 天內無限次進入卡巴拉斯區域。卡巴拉斯包含 16 到 140 級的怪物。
+PROPITEM_TXT_230118,6 hours Tower Ticket,遺忘之塔入場券 (6 小時)
+PROPITEM_TXT_230119,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.,激活此入場券後，您可以在 6 小時內無限制地進入塔樓區域。 塔包含 89 級到 160 級的怪物。
 PROPITEM_TXT_230120,Change your name color for 7 days!,改變你的名字顏色 7 天！
 PROPITEM_TXT_230121,Scroll of Name Color (Blue),名稱顏色捲軸 (藍色)
 PROPITEM_TXT_230122,Scroll of Name Color (Beige),名稱顏色捲軸 (淺褐色)
