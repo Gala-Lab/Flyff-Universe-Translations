@@ -1821,7 +1821,7 @@ PROPQUEST_INC_132092,Complete the mission.,完成任務。
 PROPQUEST_INC_132093,Destroy the pumpkins 2,摧毀南瓜 2
 PROPQUEST_INC_132094,Complete the mission.,完成任務。
 PROPQUEST_INC_132095,Thanksgiving Turkey,感恩節火雞
-PROPQUEST_INC_132096,Help the mayor cook his turkey for thanksgiving.\nHunt monsters (Lv. -10 to Lv. +10 from your level) to earn [Event] Turkeys.,幫市長在感恩節前把火雞料理完成。\n獵殺怪物(等級在你等級 -10 到 +10 之間)來獲得[Event] 火雞。
+PROPQUEST_INC_132096,Help the mayor cook his turkey for thanksgiving.\nHunt monsters (Lv. -10 to Lv. +10 from your level) to earn [Event] Turkeys.,幫市長在感恩節前把火雞料理完成。\n獵殺怪物 (等級在你等級 -10 到 +10 之間) 來獲得 [Event] 火雞。
 PROPQUEST_INC_132097,"Hello, adventurer! I'm planning to cook a turkey for the village. Do you have a moment to help?",你好，冒險者！我正打算為村子裡準備一隻感恩節火雞，你現在方便幫個忙嗎？
 PROPQUEST_INC_132098,"Great! Actually, I tried to cook it myself, but while I left the ingredients outside, monsters stole them all! Can you help me get them back?",太好了！其實我本來想自己料理，但我把材料放在外面時，全都被怪物偷走了！你能幫我把它們找回來嗎？
 PROPQUEST_INC_132099,That's a shame. I'll try to figure something out on my own.,真可惜。我只好自己再想辦法了。
@@ -1842,10 +1842,10 @@ PROPQUEST_INC_110313,Hero Grade (3),英雄等級 (3)
 PROPQUEST_INC_110314,I need you to reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,我需要你達到 160 級，並帶來 $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$。只有真正的英雄才能辦到！
 PROPQUEST_INC_110315,Reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.,達到 160 級，並帶來 $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$。
 PROPQUEST_INC_110316,Rumble from the Depths,深淵的震響
-PROPQUEST_INC_110317,(H-Hiii…!) T-tremors... w-waves... taller than a Clockworks... (Gulp) A... a deafening noise... Wh-what’s going on?!,(嗚、嗚呀……！)震動……浪……比時空毀滅者還高……(吞口水)還有……震耳欲聾的聲音……這、這到底是怎麼回事！？
+PROPQUEST_INC_110317,(H-Hiii…!) T-tremors... w-waves... taller than a Clockworks... (Gulp) A... a deafening noise... Wh-what’s going on?!,(嗚、嗚呀……！) 震動……浪……比時空毀滅者還高……(吞口水) 還有……震耳欲聾的聲音……這、這到底是怎麼回事！？
 PROPQUEST_INC_132103,What?! You’re not aware??! But where have you been?! Honestly… We can never count on you to keep an eye on our precious world…,什麼？！你竟然不知道？！那你這段時間到底跑去哪了？！說真的……我們根本不能指望你照看我們珍貴的世界……
-PROPQUEST_INC_132104,"Well… listen. It doesn’t matter, I’ll need you. I have no idea what happened, or even where exactly… (hesitation) But I feel like the deafening noise came from the Krakens side.",唉……聽著，這不重要，我需要你。我完全不知道發生了什麼，甚至不確定具體地點……(遲疑)但我感覺那震耳欲聾的聲音是從克拉肯那一帶傳來的。
-PROPQUEST_INC_132105,"I would have gone myself, but you see… (looking away) I still have a lot to do, and there are other adventurers I need to take care of… (coughs) And don’t think I’m scared, okay! It has nothing to do with that, absolutely nothing!",我本來是想自己去的，但你看……(移開視線)我還有很多事情要處理，而且還有其他冒險者需要我照顧……(咳嗽)你可別以為我是害怕，知道嗎！絕對不是，完全不是！
+PROPQUEST_INC_132104,"Well… listen. It doesn’t matter, I’ll need you. I have no idea what happened, or even where exactly… (hesitation) But I feel like the deafening noise came from the Krakens side.",唉……聽著，這不重要，我需要你。我完全不知道發生了什麼，甚至不確定具體地點……(遲疑) 但我感覺那震耳欲聾的聲音是從克拉肯那一帶傳來的。
+PROPQUEST_INC_132105,"I would have gone myself, but you see… (looking away) I still have a lot to do, and there are other adventurers I need to take care of… (coughs) And don’t think I’m scared, okay! It has nothing to do with that, absolutely nothing!",我本來是想自己去的，但你看……(移開視線) 我還有很多事情要處理，而且還有其他冒險者需要我照顧……(咳嗽) 你可別以為我是害怕，知道嗎！絕對不是，完全不是！
 PROPQUEST_INC_132106,Find the location of the events and see what’s happening there,找出事件發生的位置，看看那裡到底發生了什麼事。
 PROPQUEST_INC_132107,"Ah! Finally, someone reliable! I knew I could count on you. Go quickly, check near the Krakens side, and come back to tell me what you find. I’m sure you’ll do an excellent job! But… be careful, alright? That rumble wasn’t normal...",啊！終於來了個可靠的人！我就知道可以指望你。快去吧，到克拉肯那一帶查看，然後回來告訴我你發現了什麼。我相信你一定會做得很好！不過……要小心，好嗎？那陣轟鳴聲很不尋常……
 PROPQUEST_INC_132108,"What?! You’re not going?! Really… We can’t count on anyone… Fine, do as you wish, but remember that this world needs protectors, not cowards. And don’t come complaining if things get worse without you!",什麼？！你不去？！真是的……誰都靠不住……好吧，隨你便。但記住，這個世界需要的是守護者，不是懦夫。到時候情況變得更糟，可別回來抱怨！
@@ -1879,11 +1879,11 @@ PROPQUEST_INC_132135,"You’re back? But… have you not delivered the sample to
 PROPQUEST_INC_132136,Trophies from the Depths,來自深淵的戰利品
 PROPQUEST_INC_132137,"Hello, who are you?... Oh, you must be the adventurer Estly told me about! Nice to meet you. How can I assist you?",你好，你是誰？……喔，你一定就是艾斯特利提過的那位冒險者！很高興見到你。我能怎麼幫你呢？
 PROPQUEST_INC_132138,"Oh, you want me to interpret the results of this analysis to check, using the archives, if this water is indeed from the city of Herneos?",喔，你是想請我利用檔案資料來解讀這份分析結果，好確認這些水是否真的來自赫爾尼奧斯遺都？
-PROPQUEST_INC_132139,"(Smirking) But nothing comes for free, you know! I heard there are all-new monsters, never seen before, over there…",(露出笑意)不過你知道的，天下可沒有白吃的午餐！我聽說那邊出現了從未見過的全新怪物……
+PROPQUEST_INC_132139,"(Smirking) But nothing comes for free, you know! I heard there are all-new monsters, never seen before, over there…",(露出笑意) 不過你知道的，天下可沒有白吃的午餐！我聽說那邊出現了從未見過的全新怪物……
 PROPQUEST_INC_132140,"While I compare the results, could you bring me samples or souvenirs from each creature? That would allow me to enrich our archives on these strange appearances.",在我比對結果的期間，你能不能幫我帶回每種生物的樣本或紀念物？這樣我就能把這些奇異現象補進我們的檔案裡。
 PROPQUEST_INC_132141,"Bring back $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$, $QUEST_END_ITEM_COUNT,2$x $QUEST_END_ITEM_NAME,2$, $QUEST_END_ITEM_COUNT,3$x $QUEST_END_ITEM_NAME,3$","把 $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$、$QUEST_END_ITEM_COUNT,2$x $QUEST_END_ITEM_NAME,2$、$QUEST_END_ITEM_COUNT,3$x $QUEST_END_ITEM_NAME,3$ 帶回來"
 PROPQUEST_INC_132142,"Ah, wonderful! I knew you’d be up for the task. These new creatures are unlike anything we've documented, so any samples you bring will be invaluable. While you’re collecting them, I’ll start the comparison. Come back once you have the items, and we’ll see what these archives reveal about Herneos.",啊，太好了！我就知道你願意接下這個任務。這些新生物和我們記錄過的任何東西都不同，所以你帶回的任何樣本都會非常珍貴。你去收集的同時，我會開始比對分析。等你帶著物品回來後，我們就能看看這些檔案究竟會揭露赫爾尼奧斯遺都的什麼秘密。
-PROPQUEST_INC_132143,"Really? You’re refusing? (Sighs) I suppose not everyone appreciates the importance of history… But fine, go ahead just remember that these discoveries are rare. Who knows if you'll get another chance to contribute to our knowledge of Herneos.",真的？你要拒絕？(嘆氣)看來不是每個人都懂歷史的重要性……算了，隨你吧。但請記住，這類發現極其罕見。誰知道你還有沒有下一次機會，能為我們對赫爾尼奧斯遺都的認識做出貢獻。
+PROPQUEST_INC_132143,"Really? You’re refusing? (Sighs) I suppose not everyone appreciates the importance of history… But fine, go ahead just remember that these discoveries are rare. Who knows if you'll get another chance to contribute to our knowledge of Herneos.",真的？你要拒絕？(嘆氣) 看來不是每個人都懂歷史的重要性……算了，隨你吧。但請記住，這類發現極其罕見。誰知道你還有沒有下一次機會，能為我們對赫爾尼奧斯遺都的認識做出貢獻。
 PROPQUEST_INC_132144,"Ohhh, thank you for these souvenirs! I can finally… continue my collection... uh, enrich the city archives! (clears throat) Yes, of course, the archives!",喔喔喔，謝謝你帶回這些紀念品！我終於可以……繼續我的收藏了……呃，是充實城市檔案館！咳咳，對，當然是檔案館！
 PROPQUEST_INC_132145,"Ah, you’re back? But… I don’t see any of the samples I asked for. These souvenirs from the creatures are essential to my research, you know! Please, gather them quickly and return. The archives await your findings!",啊，你回來了？可是……我沒看到我請你帶回來的樣本。這些生物身上的紀念品對我的研究至關重要，知道嗎！拜託，趕快去收集後回來吧。檔案館正等著你的發現！
 PROPQUEST_INC_132146,Unveiling Herneos,揭開赫爾尼奧斯遺都的面紗
@@ -1891,7 +1891,7 @@ PROPQUEST_INC_132147,"Ah, yes, the analysis results… So, according to our arch
 PROPQUEST_INC_132148,Go tell Sovann it is indeed Herneos,去告訴索萬，這裡的確就是赫爾尼奧斯遺都
 PROPQUEST_INC_132149,Fantastic! Thank you so much for delivering the news. Sovann will be thrilled or perhaps a bit anxious to hear it. Go quickly and let him know that Herneos has indeed resurfaced. We might be on the brink of something monumental!,太棒了！非常感謝你傳遞這個消息。索萬聽到後一定會非常激動，或者也許有點不安。快去告訴他，赫爾尼奧斯遺都確實已經重現了。我們也許正站在某件重大事件的開端！
 PROPQUEST_INC_132150,"Wait… you’re not going to tell him? This is crucial information! Herneos is real, and Sovann needs to know. Fine, if you won’t go, but don’t say I didn’t warn you… Discoveries like this don’t come every day, and neither does the chance to be part of history.",等等……你不打算告訴他？這可是關鍵情報！赫爾尼奧斯遺都真的存在，而且索萬必須知道。好吧，如果你不去，那就算了，但別說我沒提醒你……像這樣的發現可不是每天都有，更不是每天都有機會成為歷史的一部分。
-PROPQUEST_INC_132151,What?? It’s really the lost city of Herneos?! (in awe) It’s incredible to see this iconic city again!,什麼！？真的是失落之城赫爾尼奧斯遺都！？(驚嘆)真令人難以置信，竟然又能見到這座傳奇之城！
+PROPQUEST_INC_132151,What?? It’s really the lost city of Herneos?! (in awe) It’s incredible to see this iconic city again!,什麼！？真的是失落之城赫爾尼奧斯遺都！？(驚嘆) 真令人難以置信，竟然又能見到這座傳奇之城！
 PROPQUEST_INC_132152,"Oh, you’re back… but you still haven’t told Sovann? This is monumental news... Herneos has been confirmed! Please, don’t delay any longer. Sovann must hear this right away; the implications are too important to keep to ourselves!",喔，你回來了……但你還沒告訴索萬嗎？這可是劃時代的大消息……赫爾尼奧斯遺都已經被證實了！拜託，別再拖延了。索萬必須立刻知道，這件事的重要性不能被隱瞞！
 PROPQUEST_INC_132153,Herneos: The Golden Legacy,赫爾尼奧斯遺都：黃金遺產
 PROPQUEST_INC_132154,"Listen, you should check if the treasure is still there! What treasure?! The treasure of Herneos, of course! You can’t miss it: gold, jewels, valuable items... a true legend!",聽著，你應該去確認寶藏還在不在！什麼寶藏！？當然是赫爾尼奧斯遺都的寶藏！你不能錯過：黃金、寶石、貴重物品……真正的傳奇寶藏！
@@ -1901,15 +1901,15 @@ PROPQUEST_INC_132157,"Yes! I knew you wouldn’t pass up a chance like this. The
 PROPQUEST_INC_132158,"You’re… refusing? Are you serious?! This is the legendary treasure of Herneos! Opportunities like this don’t come around twice, you know. Fine, but don’t say I didn’t give you the chance to be part of something unforgettable.",你……拒絕？你是認真的嗎？！這可是赫爾尼奧斯遺都的傳說寶藏！這種機會可不會有第二次。好吧，但別說我沒給你成為傳奇一部分的機會。
 PROPQUEST_INC_132159,"The treasure is still there?! Great news! But… it’s possible that all is not lost, if we act quickly. Very quickly.",寶藏還在！？太好了！不過……如果我們行動夠快，也許還不算太遲。非常、非常快地行動。
 PROPQUEST_INC_132160,Cutting Shade's Power,削弱闇影的勢力
-PROPQUEST_INC_132161,"I know it’s a lot to ask, but… could you start by eliminating the two generals of Shade’s army that you spotted in Herneos? (determined look) That should slow down Shade’s advance and considerably weaken her right hand.",我知道這要求很多，但是……你能不能先去解決你在赫爾尼奧斯遺都發現的那兩名闇影軍團將軍？(神情堅定)這應該能拖慢闇影的進軍，並大幅削弱她的右手。
+PROPQUEST_INC_132161,"I know it’s a lot to ask, but… could you start by eliminating the two generals of Shade’s army that you spotted in Herneos? (determined look) That should slow down Shade’s advance and considerably weaken her right hand.",我知道這要求很多，但是……你能不能先去解決你在赫爾尼奧斯遺都發現的那兩名闇影軍團將軍？(神情堅定) 這應該能拖慢闇影的進軍，並大幅削弱她的右手。
 PROPQUEST_INC_132162,"Kill $QUEST_END_KILL_NAME$ & $QUEST_END_KILL_NAME,2$ the two generals of Shade at Herneos","在赫爾尼奧斯遺都擊殺闇影的兩名將軍：$QUEST_END_KILL_NAME$ 與 $QUEST_END_KILL_NAME,2$"
 PROPQUEST_INC_132163,"Thank you! With Shade’s generals out of the way, we might actually stand a chance. I know it won’t be easy, but you’re the only one who can do it. Go now, and show them that we won’t let Herneos fall under Shade’s control!",謝謝你！只要除掉闇影的將軍，我們或許真的還有一線希望。我知道這不容易，但只有你辦得到。快去吧，讓他們知道我們不會讓赫爾尼奧斯遺都落入闇影的掌控！
 PROPQUEST_INC_132164,"What?! You’re backing out now? This is no time for hesitation! Shade’s forces are closing in, and without your help, we may not be able to hold them back. But fine, if you won’t act, we’ll have to hope someone else is up for the challenge…",什麼？！你現在要退縮？現在可不是猶豫的時候！闇影 的部隊正在逼近，沒有你的幫助，我們也許撐不住。好吧，如果你不願行動，那我們只能寄望別人願意挺身而出了……
-PROPQUEST_INC_132165,What?! You did it already?! (beaming smile) I can’t believe it! It’s incredible to count on you. You’re our true savior!,什麼？！你已經完成了！？(笑容燦爛)我真不敢相信！有你在真是太可靠了。你真的是我們的救世主！
+PROPQUEST_INC_132165,What?! You did it already?! (beaming smile) I can’t believe it! It’s incredible to count on you. You’re our true savior!,什麼？！你已經完成了！？(笑容燦爛) 我真不敢相信！有你在真是太可靠了。你真的是我們的救世主！
 PROPQUEST_INC_132166,"You’re back... but the two generals of Shade are still standing? Every moment they’re left unchecked, Herneos is at greater risk. We’re counting on you to stop them. There’s no time to lose!",你回來了……但闇影的兩名將軍還活著？每多拖一刻，赫爾尼奧斯遺都的風險就更高。我們全靠你阻止他們了，已經沒有時間能浪費！
 PROPQUEST_INC_132167,The Final Battle for Herneos,赫爾尼奧斯遺都的最終決戰
 PROPQUEST_INC_132168,"Now that you’ve weakened the boss by taking out the two generals of Shade’s army, it would be wise for you to face her right hand before he regains his full power.",既然你已經透過擊敗闇影軍團的兩位將軍削弱了首領，那麼在她的右手恢復全盛力量之前，現在正是你去面對他的最佳時機。
-PROPQUEST_INC_132169,"Me, go with you?!? (nervous laugh) Oh no, no… they always say not to change a winning team, and our way of teaming up is simply perfect, don’t you think?",我？跟你一起去？！(緊張地笑)喔不不不……人家不是都說不要隨便更動勝利組合嗎？我們現在這種合作方式不是就很完美嗎？
+PROPQUEST_INC_132169,"Me, go with you?!? (nervous laugh) Oh no, no… they always say not to change a winning team, and our way of teaming up is simply perfect, don’t you think?",我？跟你一起去？！(緊張地笑) 喔不不不……人家不是都說不要隨便更動勝利組合嗎？我們現在這種合作方式不是就很完美嗎？
 PROPQUEST_INC_132170,"And if you succeed, don’t forget to stop by the mayor of Flarine, he will surely reward you generously for this achievement!",如果你成功了，別忘了去找布拉里斯市的市長，他一定會為了這項壯舉慷慨地獎勵你！
 PROPQUEST_INC_132171,Kill $QUEST_END_KILL_NAME$ and return back to me.,擊殺 $QUEST_END_KILL_NAME$，然後回來找我。
 PROPQUEST_INC_132172,"Amazing! I knew I could count on you to see this through. Facing Shade’s right hand won’t be easy, but if anyone can do it, it’s you. Just remember if you succeed, don’t forget to see the mayor in Flarine. I’m sure he’ll have a worthy reward for you. Good luck, hero!",太棒了！我就知道你一定能一路撐到這裡。對付闇影的右手絕非易事，但如果有人辦得到，那一定是你。只要記住，成功之後別忘了去見布拉里斯市的市長，我相信他一定會給你一份配得上這份功績的獎勵。祝你好運，英雄！
@@ -1917,7 +1917,7 @@ PROPQUEST_INC_132173,"What?! You’re refusing? After all we’ve done to get th
 PROPQUEST_INC_132174,"Back already? But Shade’s right hand is still out there, gathering strength! This is our final chance to stop her influence from spreading through Herneos. Please finish what you started. All of Madrigal is depending on you!",這麼快就回來了？可是闇影的右手還在外頭集結力量！這是我們最後一次阻止她的勢力擴散到赫爾尼奧斯遺都的機會。拜託，完成你開始的事吧。整個瑪德利賈都在等著你！
 PROPQUEST_INC_132175,You did it! You've defeated Shade’s right hand! This is a monumental victory for Madrigal that will be remembered for ages. You’ve truly saved Herneos and brought hope back to our people.,你做到了！你擊敗了闇影的右手！這是瑪德利賈足以流傳千古的重大勝利。你真的拯救了赫爾尼奧斯遺都，也為我們的人民帶回了希望。
 PROPQUEST_INC_132176,Gratitude of the Mayor,市長的謝意
-PROPQUEST_INC_132177,"(Incredulous look) You did it… You really defeated Shade’s right hand?! (sigh of relief) I can’t believe it, this is incredible!",(難以置信的神情)你做到了……你真的擊敗了闇影的右手？！(鬆了一口氣)我簡直不敢相信，這實在太驚人了！
+PROPQUEST_INC_132177,"(Incredulous look) You did it… You really defeated Shade’s right hand?! (sigh of relief) I can’t believe it, this is incredible!",(難以置信的神情) 你做到了……你真的擊敗了闇影的右手？！(鬆了一口氣) 我簡直不敢相信，這實在太驚人了！
 PROPQUEST_INC_132178,"Thanks to you, we finally have real hope to repel the darkness threatening Madrigal. You accomplished the impossible, where so many others would have failed.",多虧了你，我們終於真正看見了擊退威脅瑪德利賈黑暗勢力的希望。你完成了不可能的任務，那是許多人都做不到的事。
 PROPQUEST_INC_132179,"Take this… It’s a well-deserved reward. As the Mayor of Flaris, I thank you from the bottom of my heart for your courage and bravery!",收下這個吧……這是你應得的獎勵。身為布拉里斯的市長，我由衷感謝你的勇氣與英勇！
 PROPQUEST_INC_132180,"I don’t know what Shade is planning next, but with you by our side, I’m sure we can face any danger. Thank you… really, thank you from the bottom of my heart, hero.",我不知道闇影接下來還有什麼打算，但只要有你在身邊，我相信我們能面對任何危險。謝謝你……真的，打從心底謝謝你，英雄。
@@ -2005,7 +2005,7 @@ PROPQUEST_INC_132261,How fortunate we are to have an adventurer like you! Actual
 PROPQUEST_INC_132262,Too bad... Come back when you can.,太可惜了……等你有空再回來吧。
 PROPQUEST_INC_132263,"Thanks to you, the expedition will set off without a hitch! Thank you!",多虧有你，遠征隊終於能順利出發了！謝謝你！
 PROPQUEST_INC_132264,"Uh... Are we there yet? No, no, no... I didn't mean to push you, but... I'd appreciate it if you could find them soon!",呃……還沒好嗎？不、不、不……我不是想催你，但是……如果你能快點找回來，我會非常感激！
-PROPQUEST_INC_132265,Hunt monsters (within 10Lv range from your level) to earn [Event] Supplies,狩獵怪物(等級與你相差 10 級以內)以獲得[活動] 補給品。
+PROPQUEST_INC_132265,Hunt monsters (within 10Lv range from your level) to earn [Event] Supplies,狩獵怪物 (等級與你相差 10 級以內) 以獲得 [活動] 補給品。
 PROPQUEST_INC_132266,Looks like you're a new comer. Did you pick up the items one-by-one? I'll give you a newcomer's pet for you.,看來你是新來的。你是一個一個慢慢撿道具的嗎？我送你一隻新手寵物吧。
 PROPQUEST_INC_132267,Find Easter Eggs,尋找復活節彩蛋
 PROPQUEST_INC_132268,What is Lifestyle?,什麼是生活技能？
@@ -2028,7 +2028,7 @@ PROPQUEST_INC_132284,"A shipment of experimental materials was en route here, bu
 PROPQUEST_INC_132285,Too bad... Come back when you can.,太可惜了……等你有空再回來吧。
 PROPQUEST_INC_132286,"With this, we can proceed with the experiments without delay. You have my deepest thanks. This may very well allow us to craft equipment superior to what you currently wear. Rest assured, I’ll make you the first to benefit from it.",有了這些，我們就能毫不耽擱地繼續實驗。非常感謝你。這很可能能讓我們打造出比你現在身上裝備還更優秀的裝備。放心吧，我一定會讓你成為第一個受惠的人。
 PROPQUEST_INC_132287,"Hm... still gathering? No rush, of course—but I must admit, I expected someone like you to have completed it by now!",嗯……還在收集嗎？當然，不急啦——不過我得承認，像你這樣的人，我本來以為早就完成了！
-PROPQUEST_INC_132288,Hunt monsters (Lv. -10) to earn 3 Experiment Material Boxes,狩獵怪物(Lv. -10)以取得 3 個實驗材料箱。
+PROPQUEST_INC_132288,Hunt monsters (Lv. -10) to earn 3 Experiment Material Boxes,狩獵怪物 (Lv. -10) 以取得 3 個實驗材料箱。
 PROPQUEST_INC_132289,Revolutionary’s Secret Journal,革命者的秘密日誌
 PROPQUEST_INC_132290,Ugh... C-can you do me a favor...?,呃……你、你可以幫我一個忙嗎……？
 PROPQUEST_INC_132291,Thank you... I’ll stay hidden and recover. I’m counting on you.,謝謝你……我會先躲起來休養。我就拜託你了。
@@ -2166,7 +2166,7 @@ PROPQUEST_INC_150113,"That’s still not enough to convince me. I don’t even k
 PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.",如果你真的想證明自己，那就打敗百夏足首領，然後把證據帶給我。
 PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.",以你目前的等級來說，這可能有點困難。我能理解。
 PROPQUEST_INC_150116,Still not done? When exactly do you plan to enter the village?,還沒完成？你到底打算什麼時候進村？
-PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.",(真的假的……？)只是那些你也打得這麼辛苦？哈……算了，至少你有試過。進去吧，會有人帶你入村。
+PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.",(真的假的……？) 只是那些你也打得這麼辛苦？哈……算了，至少你有試過。進去吧，會有人帶你入村。
 PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,獵殺 11 名百夏足首領，並帶回 1 塊百骨。
 PROPQUEST_INC_150119,New Town Life?,新城鎮生活？
 PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off.",歡迎，陌生人。你現在來到了艾爾倫鎮，米尤朗人的避難所。等等，你打敗了百夏足首領？啊，原來你中了他的圈套。我派他出去訓練只是因為他總是偷懶。
@@ -2315,9 +2315,9 @@ PROPQUEST_INC_150262,Belia… please…,貝莉雅……拜託了……
 PROPQUEST_INC_150263,Huh? You’re saying I smell like what? What kind of nonsense is that?,蛤？你說我聞起來像什麼？你在胡說八道什麼啊？
 PROPQUEST_INC_150264,Meet with Belia,與貝莉雅會面
 PROPQUEST_INC_150265,An Incident! 5,突發事件！5
-PROPQUEST_INC_150266,"(Lycan) Damn it… how did you figure it out? I thought I’d fooled all these clueless cats, thanks to the Scroll of Skrolls our god gave me.",(萊坎)可惡……你到底是怎麼看穿的？我還以為靠著我們神明賜下的斯克羅捲軸，已經把這群蠢貓全都騙過去了。
-PROPQUEST_INC_150267,(Lycan) You’ve ruined too many of our plans already. Don’t think you’ll get away so easily. We’ll meet again.,(萊坎)你已經壞了我們太多計畫。別以為你能這麼輕易脫身。我們還會再見面的。
-PROPQUEST_INC_150268,(Lycan) You think we’d just let you walk away after uncovering our secret?,(萊坎)你以為揭穿了我們的秘密後，我們還會讓你活著離開嗎？
+PROPQUEST_INC_150266,"(Lycan) Damn it… how did you figure it out? I thought I’d fooled all these clueless cats, thanks to the Scroll of Skrolls our god gave me.",(萊坎) 可惡……你到底是怎麼看穿的？我還以為靠著我們神明賜下的斯克羅捲軸，已經把這群蠢貓全都騙過去了。
+PROPQUEST_INC_150267,(Lycan) You’ve ruined too many of our plans already. Don’t think you’ll get away so easily. We’ll meet again.,(萊坎) 你已經壞了我們太多計畫。別以為你能這麼輕易脫身。我們還會再見面的。
+PROPQUEST_INC_150268,(Lycan) You think we’d just let you walk away after uncovering our secret?,(萊坎) 你以為揭穿了我們的秘密後，我們還會讓你活著離開嗎？
 PROPQUEST_INC_150269,"What… I don’t remember the past few days at all. Are you saying they did that to me? Adventurer, you saved me. Thank you so much.",什麼……我根本不記得這幾天發生了什麼。你是說，是他們對我做了那些事？冒險者，是你救了我。真的非常謝謝你。
 PROPQUEST_INC_150270,Magic disguises… I never thought they were real. Belia taught our children—who knows what would’ve happened if that Lycan had stayed hidden. Thank you. I’ll report this to the elder.,魔法偽裝……我從沒想過那是真的。貝莉雅還在教我們的孩子——如果那個萊坎一直躲著不被發現，後果真不敢想像。謝謝你。我會把這件事報告給長老。
 PROPQUEST_INC_150271,Obtain “Fragment of Scroll”,取得「捲軸碎片」
@@ -2421,7 +2421,7 @@ PROPQUEST_INC_150368,Who’s there? Come out and identify yourself!,是誰在那
 PROPQUEST_INC_150369,Meet with [Elder] Silar,與【長老】席拉爾會面
 PROPQUEST_INC_150370,Conflicted Orders,矛盾的命令
 PROPQUEST_INC_150371,"Ah, you must be the adventurer. What brings you here? Reinforcements? I never sent such a request. Who told you that?",啊，你就是那位冒險者。你來這裡做什麼？援軍？我可從沒發出過這種請求。是誰告訴你的？
-PROPQUEST_INC_150372,(Wolf howls) What was that? Is someone out there?,(狼嚎聲)那是什麼？外面有人嗎？
+PROPQUEST_INC_150372,(Wolf howls) What was that? Is someone out there?,(狼嚎聲) 那是什麼？外面有人嗎？
 PROPQUEST_INC_150373,What is that man thinking…? He’s always been suspicious.,那個人到底在想什麼……他一直都很可疑。
 PROPQUEST_INC_150374,Why aren’t you checking the situation outside? What’s going on?,你為什麼還不去看看外面的狀況？到底發生什麼事了？
 PROPQUEST_INC_150375,"No, outside…! A whole group of Lycan mages appeared out of nowhere.",不，外面……！有一整群萊坎法師憑空冒了出來。
