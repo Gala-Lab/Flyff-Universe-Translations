@@ -61,7 +61,7 @@ CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be se
 CLIENT_HELP_INC_000059,Status Menu,狀態視窗
 CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",你可以用 T 鍵切換狀態視窗視窗，他可以看到你角色的所有狀態，包括 HP、MP、FP、Exp 和 BT
 CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",你的 HP 會因你的體力增加，越多 HP 你會存活更久；MP 是魔法使施展魔法攻擊或神職者施展輔助技能時所需，如果提升能力值中的智力，就會使 MP 最大量上升；FP 是勇者和雜技使用攻擊技能時所需要的點數，如果提升能力值中的體力，就會使 FP 點數增加。
-CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP(角色經驗值) 是角色等級上升時所需的經驗值，經驗值只有在打怪或完成任務時，才能夠獲得；BT 是特別的經驗加成，透過公會屋可以獲得，詳細請看幫助選單。
+CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP (角色經驗值) 是角色等級上升時所需的經驗值，經驗值只有在打怪或完成任務時，才能夠獲得；BT 是特別的經驗加成，透過公會屋可以獲得，詳細請看幫助選單。
 CLIENT_HELP_INC_000063,Character Menu,角色視窗
 CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",按下 H 鍵開啟，此視窗會顯示關於角色的各種情報。『基本』頁面中，可以看到角色的名字、職業、等級、伺服器名稱、頻道情報等基本的說明，在『詳細』頁面中，當前使用的裝備和等級顯示角色狀態，PVP/PK 追蹤你的 PVP 訊息。
 CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",當你升等時將獲得能力點，可以在這選單上使用。升級時會獲得能力點數，並且可以增加基礎能力
@@ -525,7 +525,7 @@ CLIENT_HELP_INC_000523,placholder 36,佔位文字 36
 CLIENT_HELP_INC_000524,Strength,力量
 CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,增加法杖和弓以外的武器攻擊力。
 CLIENT_HELP_INC_000526,Stamina,體力
-CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.",提升 HP(生命值)、FP(體力值)、防禦力及 FP 的恢復量。
+CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.",提升 HP (生命值)、FP (體力值)、防禦力及 FP 的恢復量。
 CLIENT_HELP_INC_000528,Dexterity,敏捷
 CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.",影響到角色的命中率、迴避、攻擊速度、暴擊機率及弓箭系列武器的攻擊力。
 CLIENT_HELP_INC_000530,Intelligence,智力
@@ -615,7 +615,7 @@ CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal ban
 CLIENT_HELP_INC_000614,Station,航空站
 CLIENT_HELP_INC_000615,This shop sells Flight related items like Flight gears as well as guide’s player on how to fly.,販賣飛行器與飛行物品的地方，您也可在這裡得知一些飛行相關的知識。
 CLIENT_HELP_INC_000616,Duel,對戰
-CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,是指玩家之間的戰鬥。與一般無差別格鬥的 PK 不同的是，雙方都答應對戰後，才能進行的 PvP(Player Vs Player) 對戰。
+CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,是指玩家之間的戰鬥。與一般無差別格鬥的 PK 不同的是，雙方都答應對戰後，才能進行的 PvP (Player Vs Player) 對戰。
 CLIENT_HELP_INC_000618,Fame,名譽
 CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,在對戰中獲的很多勝利時，名譽自然會上升。而隨著名譽的上升，可以獲得各種的號稱。
 CLIENT_HELP_INC_000620,Guild Combat Center,公會戰鬥中心

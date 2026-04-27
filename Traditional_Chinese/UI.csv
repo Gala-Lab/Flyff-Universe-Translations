@@ -402,7 +402,7 @@ UI_QUEST_MODIFY_KARMA1,Collected Karma Point: %d,獲得的惡名點數：%d
 UI_QUEST_MODIFY_KARMA2,Collected Karma Point: ????,獲得的惡名點數：????
 UI_QUEST_ADD_KARMA1,Added Karma Point: %d,追加的惡名點數：%d
 UI_QUEST_ADD_KARMA2,Added Karma Point: ????,追加的惡名點數：????
-UI_QUEST_ITEM1,Item: %s(%d),物品：%s(%d)
+UI_QUEST_ITEM1,Item: %s(%d),物品：%s (%d)
 UI_QUEST_ITEM2,Item: ????,物品：????
 UI_QUEST_COND_COMPLETED,Quest completed.,已完成的任務。
 UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,剩餘時間：#b%d分#nb
@@ -644,7 +644,7 @@ UI_PERSONAL_SHOP_CHAT_INFO,Activity,情報
 UI_PERSONAL_SHOP_CHAT_SEND,Send,傳送
 UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s 剛剛進入了。
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s 離開了。
-UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已購買 %s(%d)，花費了 %lld 金幣
+UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已購買 %s (%d)，花費了 %lld 金幣
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認出售商城物品
 UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,這是商城物品，確定要出售嗎?\n一旦出售將無法取回。
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[角色綁定]
@@ -948,7 +948,7 @@ UI_GUILDCOMBAT_PERSON_RATE,Player Rankings,個人排名：
 UI_TOOLTIP_EXPBOX,#b%s's EXP box#nb\nTime left: %s,#b%s的經驗盒#nb\n時間還剩下：%s
 UI_GUILDCOMBAT_JOIN_READY,You will enter the combat area when one of your guildmates is defeated.,當您的公會成員之一死亡時，您將獲得進入資格。
 UI_GUILDCOMBAT_JOIN_READY2,Prepare yourself!,做好準備！
-UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] defeated [%s]%s [%s] and gained %d points.,[%s]%s [%s] 已擊殺 [%s]%s [%s] 並獲得 %d 分
+UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] defeated [%s]%s [%s] and gained %d points.,[%s] %s [%s] 已擊殺 [%s] %s [%s] 並獲得 %d 分
 UI_GUILDCOMBAT_LOG_MASTER,Guild Master,公會會長
 UI_GUILDCOMBAT_LOG_DEFENDER,Defender,關鍵人物
 UI_GUILDCOMBAT_RESULT_TITLE,Guild Siege Results,公會戰結果
