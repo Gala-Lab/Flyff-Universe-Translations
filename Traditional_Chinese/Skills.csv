@@ -506,7 +506,7 @@ PROPSKILL_TXT_FWC_202501,Grinder's Blessing,研磨機的祝福
 PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,瑪德利賈的精英們將為您指引方向！
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,巴布樂的財富
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,瑪德利賈最幸運的指引你！
-PROPSKILL_TXT_150000,Harlequin's Greeting,謔影戲禮
+PROPSKILL_TXT_150000,Harlequin's Greeting,謔影奇襲
 PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",使用迅捷步法，瞬間傳送至目標身後並發起疾速攻擊。
 PROPSKILL_TXT_150002,Shadow Attack,暗影襲擊
 PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.",瞬間傳送至目標身後並造成傷害。若在隱身狀態下使用此技能，隨後三秒內的首次普通攻擊將必定暴擊，且技能冷卻時間縮短。
@@ -519,7 +519,7 @@ PROPSKILL_TXT_150009,Reduced Cooldown,減少冷卻時間
 PROPSKILL_TXT_150010,Alter Ego,雙重自我
 PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.",進入隱身狀態，並在原地生成一個分身。該分身將向隨機方向移動，反彈所受傷害，並在消亡時爆炸。
 PROPSKILL_TXT_150012,Maintain Ego,維繫自我
-PROPSKILL_TXT_150014,Special Yo-Yo Mastery,特殊飛輪精通
+PROPSKILL_TXT_150014,Special Yo-Yo Mastery,特化飛輪精通
 PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.",使用後提升普通攻擊傷害、多重打擊機率及飛輪的攻擊距離。
 PROPSKILL_TXT_150016,Auto Attack,自動攻擊
 PROPSKILL_TXT_150017,Range,攻擊距離
@@ -562,7 +562,7 @@ PROPSKILL_TXT_150060,Provide Elemental status to the skills..,為技能賦予元
 PROPSKILL_TXT_150061,Increased Element,增加元素
 PROPSKILL_TXT_150062,Decreased Element,減少元素
 PROPSKILL_TXT_150063,Elemental Debuff,元素減益效果
-PROPSKILL_TXT_150064,Laughter of La Croix,聖十字之笑
+PROPSKILL_TXT_150064,Laughter of La Croix,聖十字護佑
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,你可以無視一次控制或虛弱類減益效果。
 PROPSKILL_TXT_150066,Successfull Debuff,減益效果生效
 PROPSKILL_TXT_150067,Additional Shield,額外護盾
