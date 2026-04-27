@@ -440,11 +440,11 @@ PROPSKILL_TXT_100091,Bubble's Bulwark,巴布樂的庇護
 PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",由喜悅之神巴布樂，賦予的強力護盾，提升防禦力以抵擋敵方傷害。
 PROPSKILL_TXT_100093,Guild's Enhancement,公會強化
 PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,捐贈 G-Tokens，提升公會強化等級！
-PROPSKILL_TXT_100095,Spiritual Overcharge,靈能爆發機率
-PROPSKILL_TXT_100096,Healing Grace,聖癒之光機率
-PROPSKILL_TXT_100097,Prankster's Escape,惡作劇逃脫機率
-PROPSKILL_TXT_100098,Last Stand,背水一戰機率
-PROPSKILL_TXT_100099,Aura Burst,光環能量釋放機率
+PROPSKILL_TXT_100095,Spiritual Overcharge,靈能超載
+PROPSKILL_TXT_100096,Healing Grace,聖癒恩典
+PROPSKILL_TXT_100097,Prankster's Escape,惡作劇逃脫
+PROPSKILL_TXT_100098,Last Stand,背水一戰
+PROPSKILL_TXT_100099,Aura Burst,靈氣爆發
 PROPSKILL_TXT_100100,Supercharged,能量過載
 PROPSKILL_TXT_100101,Crackling energy envelops the target. Increases the Drop Chance and Experience of this monster by 10%.,一股噼啪作響的能量包覆著目標，使其物品掉落率與經驗值提升 10%。
 PROPSKILL_TXT_100102,Static,靜電
@@ -452,7 +452,7 @@ PROPSKILL_TXT_100103,Sparks of power drain your strength. Run away to prevent it
 PROPSKILL_TXT_100104,Tethered,束縛
 PROPSKILL_TXT_100105,You are bound by a tether! Create distance to break it!,你已被束縛！遠離敵人以解除束縛！
 PROPSKILL_TXT_100106,Slowed,緩速
-PROPSKILL_TXT_100107,Waterbomb,水炸彈機率
+PROPSKILL_TXT_100107,Waterbomb,水炸彈
 PROPSKILL_TXT_100108,Jungle Fever,叢林熱
 PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever breaks.",疾病逐漸擴散全身，並持續惡化中。
 PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark 慶祝增益
@@ -922,7 +922,7 @@ PROPSKILL_TXT_150376,Increased Suffocate Chance,窒息機率提升
 PROPSKILL_TXT_150377,Earth Counter,大地反擊
 PROPSKILL_TXT_150378,Stormveil Cloak,風暴帷幕
 PROPSKILL_TXT_150379,EVA Storm,雷霆風暴
-PROPSKILL_TXT_150380,Increased Shock Chance,觸電機率提升
+PROPSKILL_TXT_150380,Increased Shock Chance,觸電率提升
 PROPSKILL_TXT_150381,Thunder Strike,雷霆鏈擊
 PROPSKILL_TXT_150382,Water Counter,水之反制
 PROPSKILL_TXT_150383,Voltguard,伏特衛盾
@@ -1081,7 +1081,7 @@ PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your mo
 PROPSKILL_TXT_150545,Suffocate stack chance is increased.,窒息層數疊加機率提升。
 PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.",你正處於窒息狀態。當堆疊到 5 層 時，會隨機進入睡眠、眩暈或麻痺中的一種異常狀態。
 PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.",向目標發射一顆閃電球，可在附近敵人之間彈射。有機率對命中的敵人造成觸電 (Shock)。若命中已觸電目標，則必定造成最大傷害。
-PROPSKILL_TXT_150548,Shock chance is increased.,觸電機率提升。
+PROPSKILL_TXT_150548,Shock chance is increased.,觸電率提升。
 PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.",在指定區域召喚風暴雲，週期性用閃電攻擊附近敵人。閃電必定施加觸電 (Shock) 效果；對已觸電的目標造成最大傷害。
 PROPSKILL_TXT_150550,Strike interval is shorter.,攻擊間隔縮短。
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.",撕裂地面，召喚石柱攻擊敵人並降低其移動速度。石柱持續時間結束後會爆炸，對附近敵人造成額外傷害。
@@ -1126,7 +1126,7 @@ PROPSKILL_TXT_150589,Speed Reduction,減速
 PROPSKILL_TXT_150590,Target's movement speed is reduced.,目標的移動速度降低。
 PROPSKILL_TXT_150591,Skill scaling is improved.,技能成長加成提升。
 PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,滿級時，最大層數上限提升至 8 層。
-PROPSKILL_TXT_150593,Death's Rush,死神突襲
+PROPSKILL_TXT_150593,Death's Rush,奪魂掠襲
 PROPSKILL_TXT_150594,The God of Death gazes upon you.,死神正凝視著你。
 PROPSKILL_TXT_150595,Infusion,元素灌注
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.",將你使用的任意元素技能注入你武器當前生效的元素屬性，並覆蓋該技能原本的元素屬性。

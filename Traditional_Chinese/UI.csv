@@ -255,7 +255,7 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻擊速率
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,吸血
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻擊力和 HP
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,減少防禦力、命中率
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,死亡突襲機率
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,奪魂掠襲率
 UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安庫噬魂
 UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆蘭之怒
 UI_TOOLTIP_LOCOMOTION,Movement,移動
@@ -2026,15 +2026,15 @@ UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆捲軸
 UI_ULTIMATE_PREFIX,[Ultimate],[終極]
-UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰機率
-UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射機率
-UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫機率
-UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖癒之光機率
-UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能爆發機率
-UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,光環能量釋放機率
-UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水炸彈機率
-UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,傷害減速率
-UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奧術洞悉機率
+UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰觸發率
+UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射觸發率
+UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫觸發率
+UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖癒恩典觸發率
+UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能超載觸發率
+UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,靈氣爆發率
+UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水炸彈觸發率
+UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,緩速觸發率
+UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奧術洞悉觸發率
 UI_MSGBOX_DISMANTLE,Dismantle,拆卸
 UI_PLAYERHOUSINGBUY_TITLE,Select House Template,選擇房屋範本
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,選擇您房屋的範本。\n\n#b#cffff0000 更改您的房屋範本將移除所有當前放置的裝飾品和 NPC！將它們保存到預設以便稍後恢復。#nc#nb
@@ -3276,7 +3276,7 @@ UI_TOOLTIP_TENACITY,Tenacity,韌性
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,靈魂昇揚
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 版本通行證
 UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,減益效果持續時間
-UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,插入相同類型終極寶石機率
+UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,同型寶石鑲嵌成功率
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 新年通行證
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,已在衣櫥中
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,不在衣櫥中
