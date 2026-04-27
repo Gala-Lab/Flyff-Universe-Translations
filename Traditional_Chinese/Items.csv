@@ -6342,7 +6342,7 @@ PROPITEM_TXT_100090,Channel Shout,頻道大聲公
 PROPITEM_TXT_100091,This item allows you to shout a single message across the whole channel. You don't need to be level 20 to use it.,可讓你傳送一則訊息到整個伺服器，不需等級限制。您無需達到 20 級即可使用它。
 PROPITEM_TXT_100092,Mob Weapon: Critical Knockback Hit,致命擊退攻擊
 PROPITEM_TXT_100093,Mob Weapon: Flame Geyser,烈焰噴泉
-PROPITEM_TXT_100094,Scroll of Bonus,增幅捲軸
+PROPITEM_TXT_100094,Scroll of Bonus,武具增幅捲軸
 PROPITEM_TXT_100095,This scroll gives a random bonus to your weapon or shield. If the item already has a bonus it will be overwritten.,可使用在武器或盾牌上獲得額外的能力增幅，若你的物品已獲得加成的話，將會覆蓋掉
 PROPITEM_TXT_100096,Scroll of Weapon Bonus,武器增幅捲軸
 PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If the weapon already has a bonus it will be overwritten.,可使用在武器上獲得額外的能力增幅，若你的物品已獲得加成的話，將會覆蓋掉
@@ -13090,7 +13090,7 @@ PROPITEM_TXT_131394,Select which effect you want!,選擇你想要的特效！
 PROPITEM_TXT_131395,Remi's Supply Package,蕾米補給禮包
 PROPITEM_TXT_131396,"A package containing 5x Amplification ES Scroll Select Box, 10x Power Scroll, 10x Amplification Elixir Box and 10x Amplification Potion Box. All items are also linked.",禮包內含 5x 經驗加成捲軸 ES 選擇箱、10x 力量捲軸、10x 增幅藥劑箱和 10x 增幅藥水箱。 所有物品也都歸屬綁定在一起。
 PROPITEM_TXT_131397,Remi's Gear Bonus Package,蕾米裝備加成禮包
-PROPITEM_TXT_131398,A package containing 10x Scroll of Bonus and 10x Stat Scroll Box. All items are also linked.,禮包內含 10x 增幅捲軸與 10x 能力值捲軸箱。所有物品皆為綁定。
+PROPITEM_TXT_131398,A package containing 10x Scroll of Bonus and 10x Stat Scroll Box. All items are also linked.,禮包內含 10x 武具增幅捲軸與 10x 能力值捲軸箱。所有物品皆為綁定。
 PROPITEM_TXT_131399,Remi's Skin Package,蕾米造型禮包
 PROPITEM_TXT_131400,A package containing 1x December Weapon Skin Box and 1x Effect Selection Box (15 Day). All items are also linked.,禮包內含 1x 12 月武器造型箱與 1x 特效選擇箱 (15 天)。所有物品皆為綁定。
 PROPITEM_TXT_131449,Effect Selection Box (7 Days),特效選擇箱 (7 天)
