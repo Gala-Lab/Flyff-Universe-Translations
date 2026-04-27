@@ -552,7 +552,7 @@ TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild 
 TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,%s 公會與 %s 公會已同意休戰。
 TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,%s 公會與 %s 公會之間的決鬥打成平手。
 TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,您目前沒有參加公會決鬥或已經是投降狀態。
-TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s ( %s 公會 ) 已投降。
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s (%s 公會) 已投降。
 TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,對方公會已拒絕休戰。
 TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.",%s 公會的一名戰士 %s 被擊殺。
 TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,您無法同時使用變身球和輝光效果的物品。

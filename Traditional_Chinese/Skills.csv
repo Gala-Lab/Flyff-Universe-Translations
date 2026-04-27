@@ -744,7 +744,7 @@ PROPSKILL_TXT_150155,Cimetiere's Scream,西梅泰爾的尖嘯
 PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.",在目標區域短暫召喚西梅泰爾之靈，對周圍敵人造成傷害並有機率施加沉默效果。
 PROPSKILL_TXT_150158,Debuff Chance,減益機率
 PROPSKILL_TXT_150160,Aether Rend,以太撕裂
-PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,移除目標身上的若干控制與虛弱減益效果，移除數量取決於【邪能爆裂】與【詛咒奔湧】的當前疊層數。此技能將消耗上述兩種技能的所有疊層，其傷害隨你身上的減益與虛弱效果強度提升。
+PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,移除目標身上的若干控制與虛弱減益效果，移除數量取決於 [邪能爆裂] 與 [詛咒奔湧] 的當前疊層數。此技能將消耗上述兩種技能的所有疊層，其傷害隨你身上的減益與虛弱效果強度提升。
 PROPSKILL_TXT_150162,Additional Buffs,追加增益
 PROPSKILL_TXT_150163,Additional Damage,追加傷害
 PROPSKILL_TXT_150165,Yo-Yo Storm,輪舞颶風
