@@ -241,7 +241,7 @@ UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,反彈傷害
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,減少 MP 消耗
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,減少 FP 消耗
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,施法速度
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,行動速度
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,施展速度
 UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,投射物速度
 UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,限制效果
 UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,虛弱效果
