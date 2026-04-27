@@ -1540,7 +1540,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,您
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,您在大師任務中無法使用此物品。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,您在進行轉職任務期間，無法使用此物品。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,因為您不在戰鬥區域內，您無法攻擊怪物。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s 將 終極‧%s 成功精煉至 %s+%d！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s 將 [終極] %s 成功精煉至 %s+%d！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,付款成功！\n您的帳號已增加 fCoins。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,付款過程中出現未知錯誤。\n請重試。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,您已恢復在副本中失去的經驗值。
