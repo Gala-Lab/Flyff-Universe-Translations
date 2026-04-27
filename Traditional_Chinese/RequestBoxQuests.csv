@@ -206,14 +206,14 @@ PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,迷你耍寶
 PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,寶雅尋求幫助，想減少飛行胖波尼的數量，因為牠們正在造成得肯與布拉里斯之間的交通問題。你能幫忙擊殺 15 隻嗎？
 PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,你可以在布拉里斯和得肯大陸之間找到飛行胖波尼。
 PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,紅蠍尖牙狩獵
-PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,阿爾瑪尼請求協助減少紅蠍尖牙的數量，因為牠們正在槁瑜潭山脈造成造林上的問題。你能幫忙擊殺 15 隻嗎？
-PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,你可以在槁瑜潭山脈上空找到紅蠍尖牙。
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,阿爾瑪尼請求協助減少紅蠍尖牙的數量，因為牠們正在古坦山脈造成造林上的問題。你能幫忙擊殺 15 隻嗎？
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,你可以在古坦山脈上空找到紅蠍尖牙。
 PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!",嘿，看啊，是會飛的老鼠！
 PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?",阿爾瑪尼要求清剿長翼，因為牠們一直在襲擊平民。你能幫忙擊殺 15 隻嗎？
 PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,你可以在山區時空毀滅者牢籠的東南方找到長翼。
 PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,地炎飛龍寶寶
 PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?",阿爾瑪尼要求在法夫尼爾成長為龍之前先將牠們消滅！你能幫忙擊殺 15 隻嗎？
-PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.",你可以在得肯第三區布里肯的火山附近找到法夫尼爾。
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.",你可以在得肯第三區布里肯遺廠的火山附近找到法夫尼爾。
 PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,史前鳥類
 PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,阿爾瑪尼要求清剿格魯達。牠們已是迫在眉睫的威脅！你能幫忙擊殺 15 隻嗎？
 PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.",你可以在死寂荒原以西的山脈上空找到格魯達。
@@ -225,13 +225,13 @@ PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Long
 PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,你可以在山區時空毀滅者牢籠的東南方找到飛行中的魔翼兵之王。
 PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),地炎飛龍寶寶 (2)
 PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,阿爾瑪尼正在尋求進一步協助，處理法夫尼爾的威脅。你能擊敗龍寶寶之王嗎？
-PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.",你可以在得肯第三區布里肯的火山附近找到飛行中的龍寶寶之王。
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.",你可以在得肯第三區布里肯遺廠的火山附近找到飛行中的龍寶寶之王。
 PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),史前鳥類 (2)
 PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,阿爾瑪尼正在尋求進一步協助，處理格魯達的威脅。你能擊敗魔翼龍之王嗎？
 PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.",你可以在死寂荒原以西的山脈上空找到飛行中的 $QUEST_END_KILL_NAME$。
 PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),紅蠍尖牙狩獵 (2)
 PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,阿爾瑪尼正在尋求進一步協助，處理紅蠍尖牙的威脅。你能擊敗變異巨眼怪之王嗎？
-PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,你可以在槁瑜潭山脈上空找到飛行中的變異巨眼怪之王。
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,你可以在古坦山脈上空找到飛行中的變異巨眼怪之王。
 PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,你可以從任何類型的變種蝙蝠俠獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,您可以從任何類型的獨眼野熊獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,你可以從任何類型的麻普中獲得 $QUEST_END_ITEM_NAME$。
