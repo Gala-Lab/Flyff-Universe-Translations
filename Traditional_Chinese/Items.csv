@@ -2967,12 +2967,12 @@ PROPITEM_TXT_005120,Blinkwing of Darkon,得肯傳送卷
 PROPITEM_TXT_005121,Teleport to Darkon,可以傳送到得肯的捲軸
 PROPITEM_TXT_005122,Blinkwing of Darkon 1,得肯 1 傳送卷
 PROPITEM_TXT_005123,Teleport to Darkon 1,可以傳送到得肯 1 的捲軸
-PROPITEM_TXT_005124,Blinkwing of Darkon 3,得肯 3 傳送卷
-PROPITEM_TXT_005125,Teleport to Darkon 3,可以傳送到得肯 3 的捲軸
+PROPITEM_TXT_005124,Blinkwing of Darkon 3,得肯第三區傳送卷
+PROPITEM_TXT_005125,Teleport to Darkon 3,可以傳送到得肯第三區的捲軸
 PROPITEM_TXT_005126,Blinkwing of Dekane,塔凱黎斯礦山傳送卷
 PROPITEM_TXT_005127,Teleport to the Dekane Mine,可以傳送到塔凱黎斯礦山的捲軸
 PROPITEM_TXT_005128,Blinkwing of Mars,邁爾斯礦山傳送卷
-PROPITEM_TXT_005129,Teleport to the Mars Dungeon,可以傳送到邁爾斯礦山的捲軸
+PROPITEM_TXT_005129,Teleport to the Mars Dungeon,可以傳送到邁爾斯密殿的捲軸
 PROPITEM_TXT_005130,Magic Broom,魔法掃帚
 PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,最大飛行速度：29 km/h
 PROPITEM_TXT_005132,Kestrel Broom,紅隼掃帚
@@ -3242,8 +3242,8 @@ PROPITEM_TXT_005730,W Card,W 卡
 PROPITEM_TXT_005732,X Card,X 卡
 PROPITEM_TXT_005734,Y Card,Y 卡
 PROPITEM_TXT_005736,Z Card,Z 卡
-PROPITEM_TXT_005744,Mars Dungeon Key,邁爾斯地城鑰匙
-PROPITEM_TXT_005745,Quest Item: Opens a sealed room in the Mars Dungeon.,[任務道具] 用來開啟邁爾斯地城一個封閉的房間。
+PROPITEM_TXT_005744,Mars Dungeon Key,邁爾斯密殿鑰匙
+PROPITEM_TXT_005745,Quest Item: Opens a sealed room in the Mars Dungeon.,[任務道具] 用來開啟邁爾斯密殿中一個封閉的房間。
 PROPITEM_TXT_005746,Dungeon Tarin Root,污染的蜥蜴草根
 PROPITEM_TXT_005747,Quest item that drops from Mutant Fefern.,[任務道具] 棲息在密殿的蜥蜴草所掉落的乾枯受污染的蜥蜴草根。
 PROPITEM_TXT_005748,Dungeon Star Stone,酸化星石
@@ -3439,7 +3439,7 @@ PROPITEM_TXT_006081,Julia's reply to Boboku.,喬艾倫寫給波哥的回覆
 PROPITEM_TXT_006084,Key of Kebaras Island,卡巴拉斯島入出境鑰匙
 PROPITEM_TXT_006085,Quest Item: The way to get off of Kebaras Island.,離開卡巴拉斯島時需要的鑰匙
 PROPITEM_TXT_006086,Bead of Sin,罪業的舍利子
-PROPITEM_TXT_006087,Quest Item: Turn these in to get the Key of Kebaras Island.,可從罪惡深重的怪物身上取得，收集起來可減輕罪行。
+PROPITEM_TXT_006087,Quest Item: Turn these in to get the Key of Kebaras Island.,可從罪惡深重的怪物身上取得，收集後可兌換卡巴拉斯島入出境鑰匙。
 PROPITEM_TXT_006088,No Disguise,解除變身卷
 PROPITEM_TXT_006089,Return to normal form,解除變身狀態
 PROPITEM_TXT_006090,Divine Shield,霹靂卷
@@ -7290,7 +7290,7 @@ PROPITEM_TXT_100730,Berries harvested all the way from Flaris to the Garden of R
 PROPITEM_TXT_100731,Lightberry,燈莓
 PROPITEM_TXT_100732,Berries harvested from Darkon 1 and 2. These berries are used to craft all kinds of Pet Candy above D tier.,從得肯 1 區和 2 區收穫的莓果，這些莓果用於製作 D 級以上的各種寵物糖果。
 PROPITEM_TXT_100733,Exoberry,外莓
-PROPITEM_TXT_100734,The most exotic type of berry. Harvested from Darkon 3 and Azria. These berries are used to craft A tier Pet Candy.,最具異國情調的莓果，從得肯 3 區和阿茲里亞收成。 這些莓果用於製作 A 級寵物糖果。
+PROPITEM_TXT_100734,The most exotic type of berry. Harvested from Darkon 3 and Azria. These berries are used to craft A tier Pet Candy.,最具異國情調的莓果，從得肯第三區和阿茲里亞收成。這些莓果用於製作 A 級寵物糖果。
 PROPITEM_TXT_100735,Pet Candy (F),寵物糖果 (F)
 PROPITEM_TXT_100736,Used to level up Eggs and F tier pets. Also used to fill the energy gauge of F tier pets.,用於升級蛋和 F 級寵物，也用於填充 F 級寵物的能量槽。
 PROPITEM_TXT_100737,Pet Candy (E),寵物糖果 (E)
@@ -16561,7 +16561,7 @@ PROPITEM_TXT_725671,Eastern Warrior Red Horse,東方武者紅色戰馬
 PROPITEM_TXT_725672,Eastern Warrior Purple Horse,東方武者紫色戰馬
 PROPITEM_TXT_725673,Eastern Warrior Black Horse,東方武者黑色戰馬
 PROPITEM_TXT_725674,Ticket Wallet,票券收納包
-PROPITEM_TXT_725675,This wallet gives you 60 additional Kebaras and Tower Ticket item slots.,此收納包可提供 60 個額外的 Kebaras 與高塔票券道具欄位。
+PROPITEM_TXT_725675,This wallet gives you 60 additional Kebaras and Tower Ticket item slots.,此收納包可提供 60 個額外的卡巴拉斯與高塔票券道具欄位。
 PROPITEM_TXT_725676,Jewelry Pack,首飾套裝
 PROPITEM_TXT_725677,This bag can hold up to 5 Jewelry parts.,此背包最多可存放 5 個飾品部件。
 PROPITEM_TXT_725678,Festival Package,節日禮包
@@ -19545,15 +19545,15 @@ PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and
 PROPITEM_TXT_145003,Pet Reroll Scroll,寵物重置捲軸
 PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.",允許你重新隨機一個寵物階級的等級。一旦選擇重置某個階級，其他所有階級將無法再使用重置捲軸進行重置。
 PROPITEM_TXT_145005,Scale of Luminfin,輝鱗的鱗片
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,從赫涅奧斯的輝鱗處獲得的任務物品。這塊流光魚鱗片似乎會發出熒光。
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,從赫爾尼奧斯遺都的輝鱗處獲得的任務物品。這塊流光魚鱗片似乎會發出熒光。
 PROPITEM_TXT_145007,Magic water stone,魔法水石頭
 PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,任務物品：幫助識別區域的神奇水之石。
 PROPITEM_TXT_145009,Magic Water Stone analysis results,魔法水石頭分析結果
-PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?",任務物品：魔法水石頭的分析結果，這真的是赫涅奧斯嗎？
+PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?",任務物品：魔法水石頭的分析結果，這真的是赫爾尼奧斯遺都嗎？
 PROPITEM_TXT_145011,Dreadfin Tooth,恐鰭齒
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,從赫尼奧斯的恐鰭處獲得的任務物品。恐鰭肯定在戰鬥中失去了這顆牙齒。
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,從赫爾尼奧斯遺都的恐鰭處獲得的任務物品。恐鰭肯定在戰鬥中失去了這顆牙齒。
 PROPITEM_TXT_145013,Dreadscale Medallion,怖鱗徽記
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,一件從赫涅奧斯的怖鱗身上獲得的任務物品。怖鱗們相信這枚勳章能提升它們的力量。
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,一件從赫爾尼奧斯遺都的怖鱗身上獲得的任務物品。怖鱗們相信這枚勳章能提升它們的力量。
 PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),隨機房屋 NPC 箱 (7 天)
 PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,內含一個隨機的 7 天房屋 NPC。該 NPC 將是角色綁定的。
 PROPITEM_TXT_145017,Shop Advertisement (Gold),商店廣告 (金色)
@@ -24134,7 +24134,7 @@ PROPITEM_TXT_155104,Mysterious Orb,神祕寶珠
 PROPITEM_TXT_155105,"A strange sphere, bathed in supernatural light.",一顆沐浴在超自然光輝中的奇異球體。
 PROPITEM_TXT_155106,[190] Scroll of Amplification ES,[190] 經驗加成捲軸
 PROPITEM_TXT_155107,,
-PROPITEM_TXT_155108,Obtained by completing all story quests from Eillun!,完成艾倫的所有故事任務即可獲得！
+PROPITEM_TXT_155108,Obtained by completing all story quests from Eillun!,完成艾爾倫的所有故事任務即可獲得！
 PROPITEM_TXT_155109,HP/MP Statted Ankou's Mask,HP/MP 屬性安庫面具
 PROPITEM_TXT_155110,Magic Power Statted Ankou's Mask,魔力屬性安庫面具
 PROPITEM_TXT_155111,Attack Statted Ankou's Mask,攻擊屬性安庫面具
