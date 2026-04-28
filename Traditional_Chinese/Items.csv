@@ -6427,11 +6427,11 @@ PROPITEM_TXT_008056,Sapphire,藍寶石
 PROPITEM_TXT_008058,Ruby,紅寶石
 PROPITEM_TXT_008060,Topaz,黃玉
 PROPITEM_TXT_100123,Shining Power Dice 4,閃耀的能量骰子 D (4)
-PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
+PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,用於製作特殊武器的稀有骰子。
 PROPITEM_TXT_100125,Shining Power Dice 6,閃耀的能量骰子 C (6)
-PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
+PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,用於製作特殊武器的稀有骰子。
 PROPITEM_TXT_100127,Shining Power Dice 12,閃耀的能量骰子 S (12)
-PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,用於製作獨特武器的稀有骰子。
+PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,用於製作特殊武器的稀有骰子。
 PROPITEM_TXT_008976,Cloud Piece,雲朵碎片
 PROPITEM_TXT_008977,Gather 10 of these to get a Cloud Box from Peach.,收集 10 個碎片到波奇那兌換雲朵禮盒吧。
 PROPITEM_TXT_008982,Topaz Piece,黃玉碎片
@@ -10348,11 +10348,11 @@ PROPITEM_TXT_110657,Blue Pill Package,藍色藥丸禮包
 PROPITEM_TXT_110658,Open this package to receive 10x Blue Pills!,打開此禮包即可收到 10 顆藍色藥丸！
 PROPITEM_TXT_110659,Yellow Pill Package,黃色藥丸禮包
 PROPITEM_TXT_110660,Open this package to receive 10x Yellow Pills!,打開此禮包即可收到 10x 黃色藥丸！
-PROPITEM_TXT_110777,Used to craft level 60 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 60 級獨特武器。
-PROPITEM_TXT_110778,Used to craft level 75 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 75 級獨特武器。
-PROPITEM_TXT_110779,Used to craft level 90 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 90 級獨特武器。
-PROPITEM_TXT_110780,Used to craft level 105 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 105 級獨特武器。
-PROPITEM_TXT_110781,Used to craft level 120 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 120 級獨特武器。
+PROPITEM_TXT_110777,Used to craft level 60 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 60 級特殊武器。
+PROPITEM_TXT_110778,Used to craft level 75 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 75 級特殊武器。
+PROPITEM_TXT_110779,Used to craft level 90 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 90 級特殊武器。
+PROPITEM_TXT_110780,Used to craft level 105 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 105 級特殊武器。
+PROPITEM_TXT_110781,Used to craft level 120 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 120 級特殊武器。
 PROPITEM_TXT_110782,Used in various gear upgrades. Found by harvesting Guru Catchers.,用於各種裝備升級。 透過收成大師礦獸發現。
 PROPITEM_TXT_110783,Used in various gear upgrades. Found by harvesting Krasec Catchers.,用於各種裝備升級。 透過收成克拉塞克礦獸發現。
 PROPITEM_TXT_110784,Used in various gear upgrades. Found by harvesting Erons Catchers.,用於各種裝備升級。 透過收成埃倫斯礦獸發現。
@@ -12710,7 +12710,7 @@ PROPITEM_TXT_722046,Rainbow Race Honorable Box,彩虹競賽榮譽寶箱
 PROPITEM_TXT_122105,Cloak of Coral,珊瑚披風
 PROPITEM_TXT_122106,Meteo Bike (Silver),流星摩托車 (銀)
 PROPITEM_TXT_622046,Amethyst,紫水晶
-PROPITEM_TXT_622047,Used to craft level 150 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 150 級獨特武器。
+PROPITEM_TXT_622047,Used to craft level 150 unique weapons at Peach in Central Flarine.,用於在中央布拉里斯的波奇處製作 150 級特殊武器。
 PROPITEM_TXT_622048,Pink Crystal,粉色水晶
 PROPITEM_TXT_622049,Can be obtained with certain rate by hunting monsters.\nCan exchange with various items by gathering crystals and taking it to NPC Gujane,可以透過狩獵怪物以一定的機率獲得。\n 可以透過收集水晶並將其帶到 NPC 古賈內來交換各種物品
 PROPITEM_TXT_622050,Violet Crystal,紫色水晶
@@ -24684,8 +24684,8 @@ PROPITEM_TXT_902148,Knotty Scarecrow Weapon Set,結繩稻草人武器套組
 PROPITEM_TXT_902149,Select which Knotty Scarecrow Weapon you want to receive!,選擇您想要的結繩稻草人武器！
 PROPITEM_TXT_902150,Ultimate Accessory Select Box,終極配件選擇盒
 PROPITEM_TXT_902151,Select which Ultimate Accessory you want!,選擇您想要的終極配件！
-PROPITEM_TXT_902152,Unique Weapon Random Box,獨特武器隨機盒
-PROPITEM_TXT_902153,You can obtain one Unique-tier weapon at random.,您可以隨機獲得獨特級武器。
+PROPITEM_TXT_902152,Unique Weapon Random Box,特殊武器隨機盒
+PROPITEM_TXT_902153,You can obtain one Unique-tier weapon at random.,您可以隨機獲得特殊級武器。
 PROPITEM_TXT_902154,[Event] Smith's Experimental Material,[活動] 史密斯的實驗材料
 PROPITEM_TXT_902155,This is the material needed for the smiths' technology research. Let's take it to the Mayor.,這是鐵匠們進行技術研究所需的材料。我們把它交給市長吧。
 PROPITEM_TXT_902156,Smith's Elixir Box,史密斯的長生不老藥盒

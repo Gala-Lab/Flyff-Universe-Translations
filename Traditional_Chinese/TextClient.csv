@@ -828,8 +828,8 @@ TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,寶石製造失敗。
 TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,恭喜您在戰鬥力排名中位列 %d (%s)！
 TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,這次的 PvP 擊殺不會計算，因為不久前你們已經決鬥過了。
 TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,請為武器選擇正確的寶石。
-TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,恭喜！轉換為獨特武器成功了！
-TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,嗚…轉換為獨特武器失敗了…
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,恭喜！轉換為特殊武器成功了！
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,嗚…轉換為特殊武器失敗了…
 TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,該玩家目前在其他頻道中。
 TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,該玩家目前處於安全區。
 TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,您已經在目的地附近了！
