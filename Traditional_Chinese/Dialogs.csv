@@ -791,7 +791,7 @@ NPC_000864,"Are you ready to create your new guild? If you are not, please go I 
 NPC_CREATEGUILD,Create Guild,創立公會
 NPC_KEEPGOING,Keep Going,繼續進行
 NPC_000868,Leave my sight if you lack the necessary skills to succeed!,還沒承接任務的人，我可幫不了你！
-NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.",與聖因特市長交談並完成任務。然後收集喜怒哀樂寶石。\n#b 要求：\n必須劇團的團長，且所有團員都必須在 70 到 75 等之間。
+NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.",與聖音特市長交談並完成任務。然後收集喜怒哀樂寶石。\n#b 要求：\n必須劇團的團長，且所有團員都必須在 70 到 75 等之間。
 NPC_000870,"You can't do this by yourself, you fool! Come back when you find some friends",只有我一個人，什麼事情都做不到好耶~
 NPC_000871,You will need to wait before you can challenge Iblis Leanes again.,想挑戰是嗎？等我一下吧~
 NPC_000873,"I cannot help you until you bring me the Rubies of Joy, Anger and Sorrow.",先把寶物都收集到吧！
@@ -1038,7 +1038,7 @@ NPC_100092,Go back home before you get frostbite!,在凍傷之前快回家吧！
 NPC_100093,"I've watched over the Storm Peak mountain trails for many years, ensuring the safety of all who venture forth.",多年來我一直守望著風暴峰的山道，確保所有踏上旅途的人都能平安通行。
 NPC_100094,"One day you will see, that the Frostiae peak ahead holds a dark secret.",總有一天你會看到，前方的霜峰峰隱藏著一個黑暗的秘密。
 NPC_100095,Azria Mine,阿茲里亞礦
-NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",我不應該說什麼，但在瑪德利賈周圍還有其他廢棄的礦井，其蘊含的能量甚至比德肯內的礦井還要強大。 其中一個地雷隱藏在阿茲里亞的山區。
+NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",我不應該說什麼，但在瑪德利賈周圍還有其他廢棄的礦井，其蘊含的能量甚至比得肯內的礦井還要強大。 其中一個地雷隱藏在阿茲里亞的山區。
 NPC_100097,"My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets.",我的名字是小草兒，在你們這些生物出現之前很久，我的祖先就住在得肯山區。 不..我不是那些被困住的高矮人之一。
 NPC_100098,My people are all gone.. I am alone here.,我的人都走了.. 我一個人在這裡。
 NPC_100099,I have lived here for what feels like an eternity collecting materials that may one day save Madrigal.,我住在這裡感覺像是永恆的收集材料，有一天可能會拯救瑪德利賈。
