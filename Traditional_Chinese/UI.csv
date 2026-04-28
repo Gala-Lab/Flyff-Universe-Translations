@@ -742,7 +742,7 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,與 %s 決鬥結束，獲得勝利
 UI_CASHSHOP_RELOAD,TOP-UP,儲值
 UI_CASHSHOP_LEGALINFO,Legal Information,法規資訊
 UI_CASHSHOP_GSC,General Sales Conditions,一般銷售條款
-UI_CASHSHOP_SHOWALL,Show All,顯示全部
+UI_CASHSHOP_SHOWALL,Show All,全部
 UI_CASHSHOP_SEARCH,Search:,搜尋：
 UI_CASHSHOP_SORT_DEFAULT,Default,預設
 UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),名稱 (A - Z)
@@ -1767,18 +1767,18 @@ UI_EVENTS_REWARD_RECEIVED,Received,已收到
 UI_EVENTS_COSTUME_COMPLETED,Completed,完成
 UI_EVENTS_COSTUME_SCORE,(%d),(%d)
 UI_APP_EVENTS_TIP,Displays the events menu.,顯示活動選單。
-UI_COSTUMECOLLECTION_GRP1,Lucky Costumes,幸運服裝
-UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,外星章魚\n服裝套裝
-UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,騎手\n服裝套裝
-UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,鯊魚寶寶\n服裝套裝
-UI_COSTUMECOLLECTION_GRP2,Existing Costumes,現有服裝
-UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 動力盔甲\n服裝套裝
-UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,太空武士\n服裝套裝
-UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,休閒韓服\n服裝套裝
-UI_COSTUMECOLLECTION_GRP3,Event Costumes,活動服裝
-UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),特務\n服裝套裝\n(7 天)
-UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),長頸鹿\n服裝套裝\n(7 天)
-UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),蒸汽龐克\n服裝套裝\n(7 天)
+UI_COSTUMECOLLECTION_GRP1,Lucky Costumes,幸運時裝
+UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,外星章魚\n時裝套裝
+UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,騎手\n時裝套裝
+UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,鯊魚寶寶\n時裝套裝
+UI_COSTUMECOLLECTION_GRP2,Existing Costumes,現有時裝
+UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 動力盔甲\n時裝套裝
+UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,太空武士\n時裝套裝
+UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,休閒韓服\n時裝套裝
+UI_COSTUMECOLLECTION_GRP3,Event Costumes,活動時裝
+UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),特務\n時裝套裝\n(7 天)
+UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),長頸鹿\n時裝套裝\n(7 天)
+UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),蒸汽龐克\n時裝套裝\n(7 天)
 UI_COSTUMECOLLECTION_PART1,Hat,頭盔
 UI_COSTUMECOLLECTION_PART2,Suit,衣服
 UI_COSTUMECOLLECTION_PART3,Gloves,手套
@@ -1845,7 +1845,7 @@ UI_PIERCINGPASS,Piercing Pass,穿洞通行證
 UI_UPGRADEPASS,Upgrade Pass,升級通行證
 UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,元素升級通行證
 UI_PARTYPASS,Party Pass,隊伍通行證
-UI_COSTUMEPASS,Costume Pass,服裝通行證
+UI_COSTUMEPASS,Costume Pass,時裝通行證
 UI_BATTLEPASS_MISSION_PETSKILL,Use Your Pet's Grace Skill,使用寵物的恩典
 UI_BATTLEPASS_MISSION_PIERCING,"Attempt Piercing on Weapon, Shield, or Suit",嘗試穿洞武器、盾牌或衣服
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,嘗試元素升級
@@ -1963,10 +1963,10 @@ UI_TOOLTIP_DST_SPEED_ALL,Attack & Casting Speed,攻擊和施法速度
 UI_GUILDBUFF_MEMBER,Member,成員
 UI_GUILDBUFF_NONE,There is no donation yet. ,還沒有捐獻。
 UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,購買要求為 %d 級或更高
-UI_COSTUME_BOX_ITEM,Costume Box,服裝盒
+UI_COSTUME_BOX_ITEM,Costume Box,時裝盒
 UI_COSTUME_BOX_MATERIAL,Repair Hammer,修理錘
 UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,成功：#b%s#nb
-UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,服裝盒升級等級已降低
+UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,時裝盒升級等級已降低
 UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,購買限制：%d / %d
 UI_FITTINGROOM_BG,Background,背景
