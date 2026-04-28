@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -6112,7 +6112,7 @@ PROPITEM_TXT_008507,Makes the maximum amount of pet food with the materials avai
 PROPITEM_TXT_009330,Scroll of Pet Recovery,Parchemin de vie pour familier
 PROPITEM_TXT_009331,Increases the life of a raised pet by 1,Parchemin rajoutant une vie à un familier.
 PROPITEM_TXT_009242,Feed Bag (6 hrs),Sac de Nourriture (6h)
-PROPITEM_TXT_009243,Does not reduce the energy of Raised pets for 6 hours when used.,"Avec ce sac, vous pouvez nourrir votre familier automatiquement si vous avez de la nourriture dans votre inventaire. Vous pouvez l'empiler jusqu'à 99 fois (24 jours 18h)."
+PROPITEM_TXT_009243,Does not reduce the energy of Raised pets for 6 hours when used.,N'affecte pas l'énergie des animaux élevés pendant 6 heures lors de son utilisation.
 PROPITEM_TXT_009265,Feed Bag (1 day),Sac de Nourriture (1 jour)
 PROPITEM_TXT_009266,Feed Bag (7 days),Sac de Nourriture (7 jours)
 PROPITEM_TXT_009267,Feed Bag (15 days),Sac de Nourriture (15 jours)
@@ -26593,27 +26593,103 @@ PROPITEM_TXT_903683,[FWC 2026 Support Kit],[Kit de support FWC 2026]
 PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","Un kit contenant 1x boîte de sélection de sac métiers (15 jours), 2x sac supplémentaire (7 jours), 2x parchemin de résurrection, 2x parchemin de Vivacité, 3x pierre Arès et 3x parchemin de puissance. Tous les objets sont liés au personnage."
 PROPITEM_TXT_903685,Extra Bag (7 days),Sac supplémentaire (7 jours)
 PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,Augmente la capacité d’inventaire de 24 objets pour les personnages. Vous ne pouvez en utiliser que 2 en même temps. Dure 7 jours.
-PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 Mycard Promotion Box A
-PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.","A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked."
-PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 Mycard Promotion Box B
-PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.","A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked."
-PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 Mycard Promotion Box C
-PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.","A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked."
-PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,Rose Pink Yukata Costume Set Select Box
-PROPITEM_TXT_903694,Select which Gender you want to receive!,Select which Gender you want to receive!
-PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[Event] 2026 Spring Gift Box
-PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),Madrigal Flying Selection Box (15 days)
-PROPITEM_TXT_903695,FWC Convenience Pack,FWC Convenience Pack
-PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked."
-PROPITEM_TXT_903697,FWC Hunter's Pack,FWC Hunter's Pack
-PROPITEM_TXT_903698,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked."
-PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),Hyper Pickup Pet Package (15 Days)
-PROPITEM_TXT_903700,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked.","A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked."
-PROPITEM_TXT_903701,School Life Costume Select Box 3,School Life Costume Select Box 3
-PROPITEM_TXT_903702,Select your favorite School Life Costume,Select your favorite School Life Costume
-PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,Japanese Piggy Pet Select Box
-PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,Select your favorite Japanese Piggy Pet
-PROPITEM_TXT_903705,Flying Sheep Pet Select Box,Flying Sheep Pet Select Box
-PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,Select your favorite Flying Sheep Pet
-PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),Madrigal PickupPet Selection Box (15 Days)
-PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),Select your favorite Pickup Pet (15 Days)
+PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,Boîte promotionnelle Mycard FWC 2026 A
+PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.","Un pack contenant 10x Aile de téléportation de Madrigal, 5x Boîte de flacons, 5x Pierre Upcut, 5x Vital Drink X ou Refresher Hold, 5x Activition, 5x Anguille grillée et 1x Boîte de sélection de parchemin d’amplification ES [20~140]. Tous les objets sont liés."
+PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,Boîte promotionnelle Mycard FWC 2026 B
+PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.","Un pack contenant 3x Parchemin de vitesse, 2x Boîte de sélection de pierre d’attaque élémentaire, 2x Boîte de sélection de ballon (6 h), 5x Parchemin de puissance, 1x Sac supplémentaire (15 jours), 3x Boîte de sélection de parchemin d’amplification ES [20~160], 1x Boîte de sélection de costume Yukata rose et 1x Ensemble d’armes Lucky Neko. Tous les objets sont liés."
+PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,Boîte promotionnelle Mycard FWC 2026 C
+PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.","Un pack contenant 4x Boîte de sélection de pierre d’attaque élémentaire, 5x Boîte de flacons, 2x Parchemin de puissance, 1x Parchemin de reroll de familier, 1x Sac supplémentaire (30 jours), 4x Boîte de sélection de parchemin d’amplification ES [20~160], 1x Ensemble d’armes Magical Kid rouge et 1x Ensemble Fantasy Guardian rouge 10 %. Tous les objets sont liés."
+PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,Boîte de sélection de costume Yukata rose
+PROPITEM_TXT_903694,Select which Gender you want to receive!,Sélectionnez le genre que vous souhaitez recevoir !
+PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[Événement] Boîte cadeau de printemps 2026
+PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),Boîte de sélection de vol Madrigal (15 jours)
+PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,Curtana ultime dorée FWC 2026
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,Celestial Edge ultime dorée FWC 2026
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,Butcher's Carnage ultime dorée FWC 2026
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,Harbinger ultime dorée FWC 2026
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,Maw of Judgement ultime dorée FWC 2026
+PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,Oracle ultime dorée FWC 2026
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,Sceptre du désordre ultime doré FWC 2026
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,Bâton de Roika ultime doré FWC 2026
+PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,Dementia ultime dorée FWC 2026
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,Dragon's Rain ultime dorée FWC 2026
+PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate,K Fang ultime dorée FWC 2026
+PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,Casque Runthiel doré FWC 2026
+PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,Armure Runthiel dorée FWC 2026
+PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,Gantelets Runthiel dorés FWC 2026
+PROPITEM_TXT_155843,2026 FWC Golden Runthiel Boots,Bottes Runthiel dorées FWC 2026
+PROPITEM_TXT_155844,2026 FWC Golden Runthien Helmet,Casque Runthien doré FWC 2026
+PROPITEM_TXT_155845,2026 FWC Golden Runthien Suit,Armure Runthien dorée FWC 2026
+PROPITEM_TXT_155846,2026 FWC Golden Runthien Gauntlets,Gantelets Runthien dorés FWC 2026
+PROPITEM_TXT_155847,2026 FWC Golden Runthien Boots,Bottes Runthien dorées FWC 2026
+PROPITEM_TXT_155848,2026 FWC Golden Zaythor Helmet,Casque Zaythor doré FWC 2026
+PROPITEM_TXT_155849,2026 FWC Golden Zaythor Suit,Armure Zaythor dorée FWC 2026
+PROPITEM_TXT_155850,2026 FWC Golden Zaythor Gauntlets,Gantelets Zaythor dorés FWC 2026
+PROPITEM_TXT_155851,2026 FWC Golden Zaythor Boots,Bottes Zaythor dorées FWC 2026
+PROPITEM_TXT_155852,2026 FWC Golden Zaythar Helmet,Casque Zaythar doré FWC 2026
+PROPITEM_TXT_155853,2026 FWC Golden Zaythar Suit,Armure Zaythar dorée FWC 2026
+PROPITEM_TXT_155854,2026 FWC Golden Zaythar Gauntlets,Gantelets Zaythar dorés FWC 2026
+PROPITEM_TXT_155855,2026 FWC Golden Zaythar Boots,Bottes Zaythar dorées FWC 2026
+PROPITEM_TXT_155856,2026 FWC Golden Chyrelle Helmet,Casque Chyrelle doré FWC 2026
+PROPITEM_TXT_155857,2026 FWC Golden Chyrelle Suit,Armure Chyrelle dorée FWC 2026
+PROPITEM_TXT_155858,2026 FWC Golden Chyrelle Gauntlets,Gantelets Chyrelle dorés FWC 2026
+PROPITEM_TXT_155859,2026 FWC Golden Chyrelle Boots,Bottes Chyrelle dorées FWC 2026
+PROPITEM_TXT_155860,2026 FWC Golden Chyrella Helmet,Casque Chyrella doré FWC 2026
+PROPITEM_TXT_155861,2026 FWC Golden Chyrella Suit,Armure Chyrella dorée FWC 2026
+PROPITEM_TXT_155862,2026 FWC Golden Chyrella Gauntlets,Gantelets Chyrella dorés FWC 2026
+PROPITEM_TXT_155863,2026 FWC Golden Chyrella Boots,Bottes Chyrella dorées FWC 2026
+PROPITEM_TXT_155864,2026 FWC Golden Lenvire Helmet,Casque Lenvire doré FWC 2026
+PROPITEM_TXT_155865,2026 FWC Golden Lenvire Suit,Armure Lenvire dorée FWC 2026
+PROPITEM_TXT_155866,2026 FWC Golden Lenvire Gauntlets,Gantelets Lenvire dorés FWC 2026
+PROPITEM_TXT_155867,2026 FWC Golden Lenvire Boots,Bottes Lenvire dorées FWC 2026
+PROPITEM_TXT_155868,2026 FWC Golden Lenvira Helmet,Casque Lenvira doré FWC 2026
+PROPITEM_TXT_155869,2026 FWC Golden Lenvira Suit,Armure Lenvira dorée FWC 2026
+PROPITEM_TXT_155870,2026 FWC Golden Lenvira Gauntlets,Gantelets Lenvira dorés FWC 2026
+PROPITEM_TXT_155871,2026 FWC Golden Lenvira Boots,Bottes Lenvira dorées FWC 2026
+PROPITEM_TXT_155872,2026 FWC Golden Etranor Helmet,Casque Etranor doré FWC 2026
+PROPITEM_TXT_155873,2026 FWC Golden Etranor Suit,Armure Etranor dorée FWC 2026
+PROPITEM_TXT_155874,2026 FWC Golden Etranor Gauntlets,Gantelets Etranor dorés FWC 2026
+PROPITEM_TXT_155875,2026 FWC Golden Etranor Boots,Bottes Etranor dorées FWC 2026
+PROPITEM_TXT_155876,2026 FWC Golden Etranar Helmet,Casque Etranar doré FWC 2026
+PROPITEM_TXT_155877,2026 FWC Golden Etranar Suit,Armure Etranar dorée FWC 2026
+PROPITEM_TXT_155878,2026 FWC Golden Etranar Gauntlets,Gantelets Etranar dorés FWC 2026
+PROPITEM_TXT_155879,2026 FWC Golden Etranar Boots,Bottes Etranar dorées FWC 2026
+PROPITEM_TXT_155880,2026 FWC Golden Kevric Helmet,Casque Kevric doré FWC 2026
+PROPITEM_TXT_155881,2026 FWC Golden Kevric Suit,Armure Kevric dorée FWC 2026
+PROPITEM_TXT_155882,2026 FWC Golden Kevric Gauntlets,Gantelets Kevric dorés FWC 2026
+PROPITEM_TXT_155883,2026 FWC Golden Kevric Boots,Bottes Kevric dorées FWC 2026
+PROPITEM_TXT_155884,2026 FWC Golden Kevricar Helmet,Casque Kevricar doré FWC 2026
+PROPITEM_TXT_155885,2026 FWC Golden Kevricar Suit,Armure Kevricar dorée FWC 2026
+PROPITEM_TXT_155886,2026 FWC Golden Kevricar Gauntlets,Gantelets Kevricar dorés FWC 2026
+PROPITEM_TXT_155887,2026 FWC Golden Kevricar Boots,Bottes Kevricar dorées FWC 2026
+PROPITEM_TXT_155888,2026 FWC Golden Ustamel Helmet,Casque Ustamel doré FWC 2026
+PROPITEM_TXT_155889,2026 FWC Golden Ustamel Suit,Armure Ustamel dorée FWC 2026
+PROPITEM_TXT_155890,2026 FWC Golden Ustamel Gauntlets,Gantelets Ustamel dorés FWC 2026
+PROPITEM_TXT_155891,2026 FWC Golden Ustamel Boots,Bottes Ustamel dorées FWC 2026
+PROPITEM_TXT_155892,2026 FWC Golden Ustamen Helmet,Casque Ustamen doré FWC 2026
+PROPITEM_TXT_155893,2026 FWC Golden Ustamen Suit,Armure Ustamen dorée FWC 2026
+PROPITEM_TXT_155894,2026 FWC Golden Ustamen Gauntlets,Gantelets Ustamen dorés FWC 2026
+PROPITEM_TXT_155895,2026 FWC Golden Ustamen Boots,Bottes Ustamen dorées FWC 2026
+PROPITEM_TXT_155896,2026 FWC Golden Virashon Helmet,Casque Virashon doré FWC 2026
+PROPITEM_TXT_155897,2026 FWC Golden Virashon Suit,Armure Virashon dorée FWC 2026
+PROPITEM_TXT_155898,2026 FWC Golden Virashon Gauntlets,Gantelets Virashon dorés FWC 2026
+PROPITEM_TXT_155899,2026 FWC Golden Virashon Boots,Bottes Virashon dorées FWC 2026
+PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,Casque Verashan doré FWC 2026
+PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,Armure Verashan dorée FWC 2026
+PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,Gantelets Verashan dorés FWC 2026
+PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,Bottes Verashan dorées FWC 2026
+PROPITEM_TXT_903695,FWC Convenience Pack,Pack de confort FWC
+PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 10x Aile de téléportation de Madrigal, 10x Parchemin de vitesse, 5x Parchemin de résurrection, 5x Activition, 3x Boîte de potions et 5x Vital Drink X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_903697,FWC Hunter's Pack,Pack du chasseur FWC
+PROPITEM_TXT_903698,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked.","Un pack contenant 5x Parchemin d’amplification ES, 5x Parchemin de puissance, 5x Boîte de flacons et 2x Anguille grillée. Tous les objets sont liés."
+PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),Pack de familier ramasseur hyper (15 jours)
+PROPITEM_TXT_903700,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked.","Un pack contenant 1x Boîte de sélection de familier ramasseur Madrigal (15 jours), 1x Parchemin d’augmentation de ramassage (15 jours) et 1x Parchemin de portée de ramassage (15 jours). Tous les objets sont liés."
+PROPITEM_TXT_903701,School Life Costume Select Box 3,Boîte de sélection des costumes pour la vie scolaire 3
+PROPITEM_TXT_903702,Select your favorite School Life Costume,Sélectionnez votre costume vie scolaire préféré
+PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,Boîte de sélection de familier cochon japonais
+PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,Sélectionnez votre familier cochon japonais préféré
+PROPITEM_TXT_903705,Flying Sheep Pet Select Box,Boîte de sélection de familier mouton volant
+PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,Sélectionnez votre familier mouton volant préféré
+PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),Boîte de sélection de familier ramasseur Madrigal (15 jours)
+PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),Sélectionnez votre familier ramasseur préféré (15 jours)
+PROPITEM_TXT_903709,Thumbs Up Emote,Émote pouce levé
