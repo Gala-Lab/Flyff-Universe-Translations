@@ -3194,7 +3194,7 @@ UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(虛弱效果)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(無法移動)
 UI_ACTIVE_SKILLS,Active Skills,主動技能
 UI_PASSIVE_SKILLS,Passive Skills,被動技能
-UI_MASTER_SKILLS,Master Variations,大師分支
+UI_MASTER_SKILLS,Master Variations,專精變體
 UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首領傷害
 UI_TOOLTIP_DMG_TICK,Damage Tick,傷害頻率
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP 界線：%d%%
@@ -3241,7 +3241,7 @@ UI_TOOLTIP_MAGICBOTH,Wand or Staff,魔杖或法杖
 UI_TOOLTIP_YOBO,Yo-Yo or Bow,溜刃或弓
 UI_TOOLTIP_SWAXE,Sword or Axe,劍或斧
 UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,武器
-UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
+UI_TOOLTIP_SKILLLOCK,Locks:,互斥變體：
 UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,額外的技能頁
 UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,切換技能頁
 UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,切換技能頁
