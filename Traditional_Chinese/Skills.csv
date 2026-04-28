@@ -1080,9 +1080,9 @@ PROPSKILL_TXT_150543,Stolen health is increased.,吸血量提升。
 PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.",在自身周圍召喚狂風，提升移動速度並對附近敵人造成傷害。處於狂風狀態時，你的攻擊有機率施加窒息層數。當目標疊滿 5 層窒息 時，會隨機陷入眩暈、睡眠或麻痺。
 PROPSKILL_TXT_150545,Suffocate stack chance is increased.,窒息層數疊加機率提升。
 PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.",你正處於窒息狀態。當堆疊到 5 層 時，會隨機進入睡眠、眩暈或麻痺中的一種異常狀態。
-PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.",向目標發射一顆閃電球，可在附近敵人之間彈射。有機率對命中的敵人造成觸電 (Shock)。若命中已觸電目標，則必定造成最大傷害。
+PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.",向目標發射一顆閃電球，可在附近敵人之間彈射。有機率對命中的敵人造成觸電。若命中已觸電目標，則必定造成最大傷害。
 PROPSKILL_TXT_150548,Shock chance is increased.,觸電率提升。
-PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.",在指定區域召喚風暴雲，週期性用閃電攻擊附近敵人。閃電必定施加觸電 (Shock) 效果；對已觸電的目標造成最大傷害。
+PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.",在指定區域召喚風暴雲，週期性用閃電攻擊附近敵人。閃電必定施加觸電ㄑ效果；對已觸電的目標造成最大傷害。
 PROPSKILL_TXT_150550,Strike interval is shorter.,攻擊間隔縮短。
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.",撕裂地面，召喚石柱攻擊敵人並降低其移動速度。石柱持續時間結束後會爆炸，對附近敵人造成額外傷害。
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.",在指定區域創造一片沼澤，降低敵人移動速度並造成持續傷害。沼澤內的敵人無法使用位移技能。
