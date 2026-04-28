@@ -284,20 +284,20 @@ UI_PARTY_POINT,Points:,點數：
 UI_PARTY_EXPSHARE,EXP Share,經驗值分配
 UI_PARTY_EXPMODE_LEVEL,Level,等級
 UI_PARTY_EXPMODE_LEVEL_TIP,EXP is distributed among party members based on their levels.,經驗值會依照劇團成員的等級分配。
-UI_PARTY_EXPMODE_CONTRIB,Contribution,貢獻
+UI_PARTY_EXPMODE_CONTRIB,Contribution,貢獻程度
 UI_PARTY_EXPMODE_CONTRIB_TIP,"EXP is distributed among party members based on their contribution in combat. Contributions include attacking, healing, and tanking.",經驗值會依照劇團成員在戰鬥中的貢獻程度分配，包括攻擊、治癒與承受傷害。
 UI_PARTY_LOOT,Loot Distribution,物品分配
-UI_PARTY_LOOTMODE_IND,Free-for-All,個人分配
-UI_PARTY_LOOTMODE_IND_TIP,Loot goes to whoever picks it up. Anyone can loot and keep what they collect.,這是自由分配模式，劇團成員可獲得自己撿到的所有物品。
+UI_PARTY_LOOTMODE_IND,Free-for-All,自由撿取
+UI_PARTY_LOOTMODE_IND_TIP,Loot goes to whoever picks it up. Anyone can loot and keep what they collect.,撿取的物品將由撿取者獲得，任何人都可以撿取並保留他們收集的物品。
 UI_PARTY_LOOTMODE_SEQ,Sequentially,順序分配
-UI_PARTY_LOOTMODE_SEQ_TIP,Loot is distributed to party members in order.,撿取的物品將依序分配給劇團成員。
+UI_PARTY_LOOTMODE_SEQ_TIP,Loot is distributed to party members in order.,撿取的物品將依照劇團成員的順序分配。
 UI_PARTY_LOOTMODE_MAN,Leader Only,團長分配
-UI_PARTY_LOOTMODE_MAN_TIP,All loot goes to the party leader. The party leader can then distribute it at their discretion.,撿取的物品將由團長獲得，團長可自行分配給劇團成員。
+UI_PARTY_LOOTMODE_MAN_TIP,All loot goes to the party leader. The party leader can then distribute it at their discretion.,撿取的物品將由團長獲得，團長可以自行決定如何分配。
 UI_PARTY_LOOTMODE_RAND,Randomly,隨機分配
 UI_PARTY_LOOTMODE_RAND_TIP,Loot is distributed randomly among party members.,撿取的物品將隨機分配給劇團成員。
 UI_PARTY_LOOTMODE_KILL,Top Damage,最大傷害分配
 UI_PARTY_LOOTMODE_KILL_TIP,Loot goes to the player who inflicted the most damage to the monster.,撿取的物品將分配給對怪物造成最多傷害的劇團成員。
-UI_PARTY_SEARCHMODE,Joining via Finder,搜尋模式
+UI_PARTY_SEARCHMODE,Joining via Finder,透過尋找加入
 UI_PARTY_TRANSFER,Transfer,團長交接
 UI_PARTY_LEAVE,Leave,退出
 UI_PARTY_KICK,Kick,踢出
