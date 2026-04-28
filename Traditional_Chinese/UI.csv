@@ -674,9 +674,9 @@ UI_PIERCING_TITLE,Piercing,穿洞
 UI_PIERCING_PIERCE_ITEM,Pierce Item,穿洞物品
 UI_PIERCING_ITEM,Item,物品
 UI_PIERCING_MATERIAL,Power Dice,能量骰子
-UI_PIERCING_PROTECTSCROLL,GProtect,穿洞防爆卷
+UI_PIERCING_PROTECTSCROLL,GProtect,穿洞防爆卷軸
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,要進行穿洞精煉嗎?
-UI_PIERCING_UNSAFE,"Without a Scroll of GProtect, the item will be destroyed if piercing fails.",如果沒有使用穿洞防爆卷，精煉失敗時物品會消失。
+UI_PIERCING_UNSAFE,"Without a Scroll of GProtect, the item will be destroyed if piercing fails.",如果沒有使用穿洞防爆卷軸，精煉失敗時物品會消失。
 UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,刪除穿洞卡片
 UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,是否移除裝備上選擇的穿洞卡片?#b#cffff0000移除的卡片將會消失。#nc#nb
 UI_PIERCING_REMOVE_OK,Remove,移除
@@ -686,17 +686,17 @@ UI_ELEMENT_ATTEMPTS,Element upgrade attempts: %d,元素精煉次數：%d
 UI_PIERCING_ATTEMPTS,Piercing attempts: %d,穿洞次數：%d
 UI_ACCESSORY_TITLE,Accessory Upgrade,飾品精煉
 UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,精煉物品
-UI_ACCESSORY_PROTECTSCROLL,AProtect,飾品防爆卷
-UI_ACCESSORY_UNSAFE,"Without a Scroll of AProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用飾品防爆卷，精煉失敗時物品會消失。
+UI_ACCESSORY_PROTECTSCROLL,AProtect,飾品防爆卷軸
+UI_ACCESSORY_UNSAFE,"Without a Scroll of AProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用飾品防爆卷軸，精煉失敗時物品會消失。
 UI_UPGRADE_TITLE,Upgrade,精煉
 UI_UPGRADE_ITEM,Item,物品
 UI_UPGRADE_MATERIAL,Power Dice/Card,能量骰子/卡片
-UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷
-UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,終極精煉防爆卷
+UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷軸
+UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,終極精煉防爆卷軸
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,太陽石
 UI_UPGRADE_CHANCESCROLL,SFusion,精煉卷軸
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",精煉失敗時精煉等級會降低，但是物品不會消失。
-UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用精煉防爆卷，精煉失敗時物品會消失。
+UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用精煉防爆卷軸，精煉失敗時物品會消失。
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,您想要精煉這個物品嗎?
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,移除元素精煉
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,確認移除
@@ -1516,7 +1516,7 @@ UI_SELECTSERVER_ASIA,Asia,亞洲
 UI_SELECTSERVER_LABEL,Select your Server and Channel:,選擇您的伺服器和頻道：
 UI_GUILDBANK_BAGS,Bags,包
 UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,使用公會背包擴充來擴大公會銀行。
-UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.",如果沒有使用卡片防爆卷，合成失敗時物品會消失。
+UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.",如果沒有使用卡片防爆卷軸，合成失敗時物品會消失。
 UI_WORLD_LOCK,Locked,鎖住
 UI_WORLD_UNLOCK,Unlocked,解鎖
 UI_GUILD_LASTSEEN,Last Seen:,最後一次登入：
