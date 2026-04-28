@@ -239,7 +239,7 @@ TEXTCLIENT_CONNREFUSE,Do not post connection status.,No publicar el estado de co
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,La Lista de Ignorados está llena. Por favor deja de ignorar a alguien o vuelve a entrar para resetear tu Lista de Ignorados.
 TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,No deberías ignorarte a ti mismo. ¡Puede que tengas algo importante que decir!
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,Ese personaje ya está en tu Lista de Ignorados.
-TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s ha sido ignorado. Escribe /Unignore <NAME> para quitarlo de tu Lista de Ignorados.
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s ha sido ignorado. Escribe /unignore <NAME> para quitarlo de tu Lista de Ignorados.
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s ya no está ignorado.
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,Ese personaje no está en tu Lista de Ignorados.
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Por favor quítate el objeto primero.
@@ -1207,8 +1207,8 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's arti
 TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,The owner of this guild ship has dismantled the guild!
 TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,The guild ship's artifact has been destroyed. The ship is now unclaimed.
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
-TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
-TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,El registro no es posible debido al bajo nivel.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,Te has registrado exitosamente.
 TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
 TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
 TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
@@ -1220,7 +1220,7 @@ TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
 TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
-TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,No hay suficientes monedas de oro.
 TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
 TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
@@ -1525,8 +1525,8 @@ TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach lev
 TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
 TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
 TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Has recibido %s x%d.
-TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
-TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,El objeto ha sido mejorado.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,Este objeto no se puede mejorar.
 TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
 TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
 TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.

@@ -6,7 +6,7 @@ PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a tar
 PROPTROUPESKILL_TXT_000004,Retreat,撤退
 PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,團長命令團員撤退。
 PROPTROUPESKILL_TXT_000008,Precision,精準
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升團長周圍所有團員下一次攻擊的爆擊率 (0.5% x 團員數量)。
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升團長周圍所有團員下一次攻擊的暴擊率 (0.5% x 團員數量)。
 PROPTROUPESKILL_TXT_000010,Linked Attack,聲援團長
 PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,每位在團長周圍的團員，會為團長提供 5% 的傷害加成。
 PROPTROUPESKILL_TXT_000012,Lucky Drop,幸運降臨
