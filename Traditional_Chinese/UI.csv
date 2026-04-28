@@ -976,8 +976,8 @@ UI_NAVIGATOR_SHIP,Ship,飛船
 UI_OPTION_TOON_STYLE,Outline,人物描邊
 UI_OPTION_RIM_OUTLINE,Rim Outlines,邊緣輪廓
 UI_APP_WIKI_TIP,Browse the Flyffipedia,使用 Wiki 得到說明
-UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,我向你發起剪刀-石頭-布挑戰！
-UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,剪刀-石頭-布
+UI_ROSHAMBO_OPEN_CONFIRM,I challenge you to a game of Rock-Paper-Scissors!,我向你發起剪刀石頭布挑戰！
+UI_ROSHAMBO_TITLE,Rock-Paper-Scissors,剪刀石頭布
 UI_ROSHAMBO_VS,VS,VS
 UI_ROSHAMBO_SCISSOR,Scissors,剪刀
 UI_ROSHAMBO_ROCK,Rock,石頭
@@ -2177,7 +2177,7 @@ UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the it
 UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,成功的升級會增加獎勵。失敗的升級可能會降級或破壞物品。\n繼續嗎？
 UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,蛋使用成就活動
 UI_EGG_USE_EVENT,Egg Use,蛋使用
-UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!",在活動期間使用蛋以獲得獎勵。\n當使用的蛋總數達到特定里程碑時，即可獲得獎勵。\n獎勵受蛋顏色限制，所以要加快速度-先到先得！
+UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!",在活動期間使用蛋以獲得獎勵。\n當使用的蛋總數達到特定里程碑時，即可獲得獎勵。\n獎勵受蛋顏色限制，所以要加快速度 - 先到先得！
 UI_EGG_USE_RED_EGG,Red Egg,紅色彩蛋
 UI_EGG_USE_ORANGE_EGG,Orange Egg,橘色彩蛋
 UI_EGG_USE_YELLOW_EGG,Yellow Egg,黃色彩蛋
