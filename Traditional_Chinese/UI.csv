@@ -2504,16 +2504,16 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,最後期限
 UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,輸入競價金額。
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,競價金幣
 UI_MATOURNAMENT_BETTING_NOREWARD,None,無
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除終極寶石
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除終極寶石/符文
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",從該物品中移除選中的終極寶石? #b#cffff0000如果沒有使用寶石鑷子，寶石將會被破壞。#nc#nb
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",從該物品中移除選中的終極寶石或符文? #b#cffff0000如果沒有使用鑲嵌鑷子，寶石或符文將會被破壞。#nc#nb
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合終極寶石
 UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,登錄終極寶石原石。
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 個終極寶石，可獲得 1 個更高等級的終極寶石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,終極寶石原石將被消耗。 \n您是否要繼續?
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功：#b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,建立終極寶石原石
-UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,插入終極寶石原石。
+UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,插入終極寶石原石材料。
 UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",※ 插入一顆終極寶石原石，有機會獲得 1 顆一級寶石或寶石碎片。使用切割刀 (可在 Flyff 商店購買) 可保證從原石中提取出寶石碎片或一級寶石。\n※ 插入 10 個寶石碎片，有機會合成 1 顆一級寶石。如果合成失敗，部分寶石碎片將被返還。使用魔力石 (可在 Flyff 商店購買) 可保證在合成失敗時，全部寶石碎片都能被返還。
 UI_COUPLE_PROPOSAL,Couple Proposal,情侶求婚
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s 向您求婚了！接受他的求婚，成為一對情侶吧?
