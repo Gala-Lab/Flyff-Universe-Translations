@@ -958,7 +958,7 @@ TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,本週 %s 的
 TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,%s 沒有獲勝公會。
 TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,使用 PK 票時，無法在非 PK 頻道傳送。
 TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,耗時 %s 通關副本！
-TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,恭喜！您擊殺了 %s！首領生成時將擁有額外加成！
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,恭喜！您擊殺了 %s！首領出現時將擁有額外加成！
 TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,其他玩家正在使用中！請稍候…
 TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,只有當增益效果與物品：%s 完全相同時，才能疊加。當前增益物品：%s。
 TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,已完成時裝收集活動。
