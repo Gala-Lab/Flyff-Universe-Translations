@@ -6342,12 +6342,12 @@ PROPITEM_TXT_100090,Channel Shout,頻道大聲公
 PROPITEM_TXT_100091,This item allows you to shout a single message across the whole channel. You don't need to be level 20 to use it.,可讓你傳送一則訊息到整個伺服器，不需等級限制。您無需達到 20 級即可使用它。
 PROPITEM_TXT_100092,Mob Weapon: Critical Knockback Hit,致命擊退攻擊
 PROPITEM_TXT_100093,Mob Weapon: Flame Geyser,烈焰噴泉
-PROPITEM_TXT_100094,Scroll of Bonus,武具增幅卷軸
-PROPITEM_TXT_100095,This scroll gives a random bonus to your weapon or shield. If the item already has a bonus it will be overwritten.,可使用在武器或盾牌上獲得額外的能力增幅，若你的物品已獲得加成的話，將會覆蓋掉
-PROPITEM_TXT_100096,Scroll of Weapon Bonus,武器增幅卷軸
-PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If the weapon already has a bonus it will be overwritten.,可使用在武器上獲得額外的能力增幅，若你的物品已獲得加成的話，將會覆蓋掉
-PROPITEM_TXT_100098,Scroll of Shield Bonus,盾牌增幅卷軸
-PROPITEM_TXT_100099,This scroll gives a random bonus to your shield. If the shield already has a bonus it will be overwritten.,可使用在盾牌上獲得額外的能力增幅，若你的物品已獲得加成的話，將會覆蓋掉
+PROPITEM_TXT_100094,Scroll of Bonus,武具喚醒卷軸
+PROPITEM_TXT_100095,This scroll gives a random bonus to your weapon or shield. If the item already has a bonus it will be overwritten.,此卷軸會給予你的武器或盾牌一個隨機的加成，如果物品已經有加成了，將會被覆蓋掉。
+PROPITEM_TXT_100096,Scroll of Weapon Bonus,武器喚醒卷軸
+PROPITEM_TXT_100097,This scroll gives a random skill bonus to your weapon. If the weapon already has a bonus it will be overwritten.,此卷軸會給予你的武器一個隨機的技能加成，如果武器已經有加成了，將會被覆蓋掉。
+PROPITEM_TXT_100098,Scroll of Shield Bonus,盾牌喚醒卷軸
+PROPITEM_TXT_100099,This scroll gives a random bonus to your shield. If the shield already has a bonus it will be overwritten.,此卷軸會給予你的盾牌一個隨機的加成，如果盾牌已經有加成了，將會被覆蓋掉。
 PROPITEM_TXT_008916,Scroll of Reduction B,裝備降等卷軸 B
 PROPITEM_TXT_008917,"Reduces the required level to use an item by 5. Once changed, it cannot be traded or dropped. You cannot stack scrolls of reduction on a single item. Visit Jewel Manager Peach in Flarine to remove the reduction.",減少物品的裝備要求等級 5，一旦更改後，將無法交易或丟棄，需要尋找布拉里斯的 [寶石專家] 波奇移除效果。
 PROPITEM_TXT_008918,Scroll of Reduction A,裝備降等卷軸 A
@@ -9577,17 +9577,17 @@ PROPITEM_TXT_013675,This box contains an entire Reconnaissance Set for a Male Ch
 PROPITEM_TXT_013676,Reconnaissance Set (F),諜影特務套裝 (女)
 PROPITEM_TXT_013677,This box contains an entire Reconnaissance Set for a Female Character.,這個箱子包含一個女角色使用的完整諜影特務套裝。
 PROPITEM_TXT_110114,Smelting Scroll Package A,精煉卷軸禮包 A
-PROPITEM_TXT_110115,"A package containing 5x Scroll of SProtect, 4x Scroll of GProtect, 8x Scroll of AProtect and 4x Scroll of Weapon Bonus. All items are also linked.",包含 5x 精煉防爆卷軸、4x 穿洞防爆卷軸、8x 飾品防爆卷軸和 4x 武器增幅卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
+PROPITEM_TXT_110115,"A package containing 5x Scroll of SProtect, 4x Scroll of GProtect, 8x Scroll of AProtect and 4x Scroll of Weapon Bonus. All items are also linked.",包含 5x 精煉防爆卷軸、4x 穿洞防爆卷軸、8x 飾品防爆卷軸和 4x 武器喚醒卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
 PROPITEM_TXT_110116,Smelting Scroll Package B,精煉卷軸禮包 B
-PROPITEM_TXT_110117,"A package containing 10x Scroll of SProtect, 8x Scroll of GProtect, 16x Scroll of AProtect and 8x Scroll of Weapon Bonus. All items are also linked.",包含 10x 精煉防爆卷軸、8x 穿洞防爆卷軸、16x 飾品防爆卷軸和 8x 武器增幅卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
+PROPITEM_TXT_110117,"A package containing 10x Scroll of SProtect, 8x Scroll of GProtect, 16x Scroll of AProtect and 8x Scroll of Weapon Bonus. All items are also linked.",包含 10x 精煉防爆卷軸、8x 穿洞防爆卷軸、16x 飾品防爆卷軸和 8x 武器喚醒卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
 PROPITEM_TXT_110118,Smelting Scroll Package C,精煉卷軸禮包 C
-PROPITEM_TXT_110119,"A package containing 15x Scroll of SProtect, 12x Scroll of GProtect, 24x Scroll of AProtect and 12x Scroll of Weapon Bonus. All items are also linked.",包含 15x 精煉防爆卷軸、12x 穿洞防爆卷軸、24x 飾品防爆卷軸和 12x 武器增幅卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
+PROPITEM_TXT_110119,"A package containing 15x Scroll of SProtect, 12x Scroll of GProtect, 24x Scroll of AProtect and 12x Scroll of Weapon Bonus. All items are also linked.",包含 15x 精煉防爆卷軸、12x 穿洞防爆卷軸、24x 飾品防爆卷軸和 12x 武器喚醒卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
 PROPITEM_TXT_110120,Smelting Scroll Package D,精煉卷軸禮包 D
-PROPITEM_TXT_110121,"A package containing 30x Scroll of SProtect, 24x Scroll of GProtect, 48x Scroll of AProtect and 24x Scroll of Weapon Bonus. All items are also linked.",包含 30x 精煉防爆卷軸、24x 穿洞防爆卷軸、48x 飾品防爆卷軸和 24x 武器增幅卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
+PROPITEM_TXT_110121,"A package containing 30x Scroll of SProtect, 24x Scroll of GProtect, 48x Scroll of AProtect and 24x Scroll of Weapon Bonus. All items are also linked.",包含 30x 精煉防爆卷軸、24x 穿洞防爆卷軸、48x 飾品防爆卷軸和 24x 武器喚醒卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
 PROPITEM_TXT_110122,Update Consumable Package,更新耗材禮包
 PROPITEM_TXT_110123,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold and 20x Scroll of Return. All items are also linked.",一個包含 15x 力量之石、15x 無限活力多或無限魔力多和 20x 回程卷軸的禮包，所有物品皆為歸屬。
 PROPITEM_TXT_110124,Update Smelting Scroll Package A,更新精煉卷軸禮包 A
-PROPITEM_TXT_110125,A package containing 25x Scroll of SProtect and 25x Scroll of Weapon Bonus. All items are also linked.,包含 25x 精煉防爆卷軸和 25x 武器增幅卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
+PROPITEM_TXT_110125,A package containing 25x Scroll of SProtect and 25x Scroll of Weapon Bonus. All items are also linked.,包含 25x 精煉防爆卷軸和 25x 武器喚醒卷軸卷軸的禮包，所有道具都是被鏈接歸屬。
 PROPITEM_TXT_110126,Update Smelting Scroll Package B,更新精煉卷軸禮包 B
 PROPITEM_TXT_110127,A package containing 25x Scroll of GProtect and 45x Scroll of AProtect. All items are also linked.,包含 25x 穿洞防爆卷軸和 45x 飾品防爆卷軸的禮包，所有物品皆為歸屬。
 PROPITEM_TXT_110128,Update ES Scroll Package,更新經驗卷軸禮包
@@ -13090,7 +13090,7 @@ PROPITEM_TXT_131394,Select which effect you want!,選擇你想要的特效！
 PROPITEM_TXT_131395,Remi's Supply Package,蕾米補給禮包
 PROPITEM_TXT_131396,"A package containing 5x Amplification ES Scroll Select Box, 10x Power Scroll, 10x Amplification Elixir Box and 10x Amplification Potion Box. All items are also linked.",禮包內含 5x 經驗加成卷軸 ES 選擇箱、10x 力量卷軸、10x 增幅藥劑箱和 10x 增幅藥水箱。 所有物品也都歸屬綁定在一起。
 PROPITEM_TXT_131397,Remi's Gear Bonus Package,蕾米裝備加成禮包
-PROPITEM_TXT_131398,A package containing 10x Scroll of Bonus and 10x Stat Scroll Box. All items are also linked.,禮包內含 10x 武具增幅卷軸與 10x 能力值卷軸箱。所有物品皆為綁定。
+PROPITEM_TXT_131398,A package containing 10x Scroll of Bonus and 10x Stat Scroll Box. All items are also linked.,禮包內含 10x 武具喚醒卷軸與 10x 能力值卷軸箱。所有物品皆為綁定。
 PROPITEM_TXT_131399,Remi's Skin Package,蕾米造型禮包
 PROPITEM_TXT_131400,A package containing 1x December Weapon Skin Box and 1x Effect Selection Box (15 Day). All items are also linked.,禮包內含 1x 12 月武器造型箱與 1x 特效選擇箱 (15 天)。所有物品皆為綁定。
 PROPITEM_TXT_131449,Effect Selection Box (7 Days),特效選擇箱 (7 天)
@@ -13824,7 +13824,7 @@ PROPITEM_TXT_131467,"A package containing 1x Bank Extra Bag (1 Day), 10x Power D
 PROPITEM_TXT_131468,MyCard Event Box A,MyCard 活動禮盒 A 款促銷道具
 PROPITEM_TXT_131469,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 Days) and 1x Lunar Costume Select Box. All items are also linked.",禮包內含 10x 力量卷軸、10x 力量之石、1x 硝基助推進器 (7 天) 與 1x 過年服裝選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_131470,MyCard Event Box B,MyCard 活動禮盒 B 款促銷道具
-PROPITEM_TXT_131471,"A package containing 1x Bank Extra Bag (15 Days), 10x Power Scroll, 50x Scroll of SProtect, 20x Scroll of Weapon Bonus and 1x Lunar Costume Select Box. All items are also linked.",禮包內含 1x 銀行背包擴充 (15 天)、10x 力量卷軸、50x 精煉防爆卷軸、20x 武器增幅卷軸與 1x 過年服裝選擇箱。所有物品皆為綁定。
+PROPITEM_TXT_131471,"A package containing 1x Bank Extra Bag (15 Days), 10x Power Scroll, 50x Scroll of SProtect, 20x Scroll of Weapon Bonus and 1x Lunar Costume Select Box. All items are also linked.",禮包內含 1x 銀行背包擴充 (15 天)、10x 力量卷軸、50x 精煉防爆卷軸、20x 武器喚醒卷軸與 1x 過年服裝選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_131500,Orphanage Box,孤兒院禮盒
 PROPITEM_TXT_131501,This Box contains various rewards! Collect as much as possible.,此箱子包含各種獎勵，盡可能多蒐集吧。
 PROPITEM_TXT_206420,Items that drop from monster kills. Can randomly acquire letter items when used.,打倒怪物時掉落的道具。使用後可隨機獲得字母道具。
@@ -15246,7 +15246,7 @@ PROPITEM_TXT_724395,2nd Anniversary Costume Lucky Box,兩週年服裝幸運箱
 PROPITEM_TXT_724397,2nd Anniversary Growth Package,兩週年成長套組
 PROPITEM_TXT_724398,"A package containing 1x Amplification ES Scroll Box, 10x Scroll of Resurrection, 10x Upcut Stone, 10x Def-Upcut Stone and 1x 2nd Anniversary Gift Box C. All items are also linked.",內含 1x 經驗加成卷軸 ES 箱、10x 復活卷軸、10x 力量之石、10x 防禦之石和 1x 兩週年禮盒 C 的包裝。所有物品皆為綁定。
 PROPITEM_TXT_724399,2nd Anniversary Scroll Package,兩週年卷軸禮包
-PROPITEM_TXT_724400,"A package containing 1x 15 Days Scroll of Party Exp, 1x 15 Days Scroll of Party Skill, 1x Scroll of Party Amplification (15 Days), 1x Enhanced Party Skill Range 15 and 1x 2nd Anniversary Gift Box B. All items are also linked.",內含 1x 15 天隊伍經驗卷軸、1x 15 天隊伍技能卷軸、1x 15 天隊伍增幅卷軸、1x 強化隊伍技能範圍 15 與 1x 兩週年禮盒 B。所有物品皆為綁定。
+PROPITEM_TXT_724400,"A package containing 1x 15 Days Scroll of Party Exp, 1x 15 Days Scroll of Party Skill, 1x Scroll of Party Amplification (15 Days), 1x Enhanced Party Skill Range 15 and 1x 2nd Anniversary Gift Box B. All items are also linked.",內含 1x 15 天隊伍經驗卷軸、1x 15 天隊伍技能卷軸、1x 15 天隊伍喚醒卷軸、1x 強化隊伍技能範圍 15 與 1x 兩週年禮盒 B。所有物品皆為綁定。
 PROPITEM_TXT_724401,FWC Supply Pack,FWC 補給包
 PROPITEM_TXT_724403,Gift of Strength (3 Days),力量的禮物 (3 天)
 PROPITEM_TXT_724404,"A package containing 1x Adventurer's Fortune Flask (3 Days), 3x Scroll of Amplification, 3x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.",內含 1x 冒險家的財富瓶 (3 天)，3x 經驗加成卷軸，3x 蒲燒鰻魚與 5x 無限活力多或無限魔力多。所有物品皆為綁定。
@@ -23347,7 +23347,7 @@ PROPITEM_TXT_901499,This box contains a Nobility Set with Speed Bonus. You can s
 PROPITEM_TXT_901500,Cute Costume Select Box 1,可愛風時裝選擇箱 1
 PROPITEM_TXT_901501,Select which Costume you want to receive,選擇您想要接收的服裝
 PROPITEM_TXT_901502,Summer Smelting Scroll Package,夏季熔煉卷軸禮包
-PROPITEM_TXT_901503,A package containing 20x Scroll of SProtect and 5x Scroll of Weapon Bonus. All items are also linked.,內含 20x 精煉防爆卷軸與 5x 武器增幅卷軸。所有物品皆為綁定。
+PROPITEM_TXT_901503,A package containing 20x Scroll of SProtect and 5x Scroll of Weapon Bonus. All items are also linked.,內含 20x 精煉防爆卷軸與 5x 武器喚醒卷軸。所有物品皆為綁定。
 PROPITEM_TXT_901504,Animal Costume Select Box 1,動物風時裝選擇箱 1
 PROPITEM_TXT_901505,Select which Costume you want to receive,選擇您想要接收的服裝
 PROPITEM_TXT_901506,Autumn Buff Lucky Box,秋季增益幸運箱
@@ -24939,16 +24939,16 @@ PROPITEM_TXT_155813,Orcus Great Sword,奧耳庫斯大劍
 PROPITEM_TXT_155814,Mara's Soul Wand,瑪拉靈魂魔杖
 PROPITEM_TXT_155815,Keokuk Warlock Wand,基奧卡克術士魔杖
 PROPITEM_TXT_155816,Orcus Yo-Yo,奧耳庫斯溜刃
-PROPITEM_TXT_155817,Scroll of Weapon Bonus Augmentation,武器增幅卷軸
+PROPITEM_TXT_155817,Scroll of Weapon Bonus Augmentation,武器喚醒卷軸
 PROPITEM_TXT_155818,"This powerful scroll randomly changes the % value of your weapon's skill bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.",這個強大的卷軸會隨機改變你的武器技能加成的百分比值，同時保持相同的技能。新的百分比值可以高於、等於或低於目前值。
-PROPITEM_TXT_155819,Scroll of Shield Bonus Augmentation,盾牌增幅卷軸
+PROPITEM_TXT_155819,Scroll of Shield Bonus Augmentation,盾牌喚醒卷軸
 PROPITEM_TXT_155820,"This powerful scroll randomly changes the % value of your shield's s bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.",這個強大的卷軸會隨機改變你的盾牌加值的百分比值，同時保持相同的技能。新的百分比值可以高於、等於或低於目前值。
-PROPITEM_TXT_155821,Scroll of Weapon Bonus (1st Jobs),武器增幅卷軸 (一轉技能)
-PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這卷軸為你的武器提供第一份工作的隨機技能增幅。如果武器已經有增幅，它將被覆蓋。
-PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),武器增幅卷軸 (二轉技能)
-PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這卷軸為你的武器提供第二份工作的隨機技能增幅。如果武器已經有增幅，它將被覆蓋。
-PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),武器增幅卷軸 (三轉技能)
-PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這卷軸為你的武器提供第三份工作的隨機技能增幅。如果武器已經有增幅，它將被覆蓋。
+PROPITEM_TXT_155821,Scroll of Weapon Bonus (1st Jobs),武器喚醒卷軸 (一轉技能)
+PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這個卷軸會給你的武器一個來自一轉技能的隨機技能加成。如果武器已經有加成，它將被覆蓋。
+PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),武器喚醒卷軸 (二轉技能)
+PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這個卷軸會給你的武器一個來自二轉技能的隨機技能加成。如果武器已經有加成，它將被覆蓋。
+PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),武器喚醒卷軸 (三轉技能)
+PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,這個卷軸會給你的武器一個來自三轉技能的隨機技能加成。如果武器已經有加成，它將被覆蓋。
 PROPITEM_TXT_135002,1.5 Update Pass,1.5 更新通行證
 PROPITEM_TXT_135003,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season,此次購買將使您在 1.5 更新通行證季節結束之前獲得許多優勢
 PROPITEM_TXT_135004,Hellhound,地獄犬
