@@ -17203,16 +17203,16 @@ PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be
 PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，HP +400。僅可附加 1 次。
 PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，HP +450。僅可附加 1 次。
 PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，HP +500。僅可附加 1 次。
-PROPITEM_TXT_800123,Shining Onyx (1),閃耀瑪瑙 (1)
-PROPITEM_TXT_800124,Shining Onyx (2),閃耀瑪瑙 (2)
-PROPITEM_TXT_800125,Shining Onyx (3),閃耀瑪瑙 (3)
-PROPITEM_TXT_800126,Shining Onyx (4),閃耀瑪瑙 (4)
-PROPITEM_TXT_800127,Shining Onyx (5),閃耀瑪瑙 (5)
-PROPITEM_TXT_800128,Shining Onyx (6),閃耀瑪瑙 (6)
-PROPITEM_TXT_800129,Shining Onyx (7),閃耀瑪瑙 (7)
-PROPITEM_TXT_800130,Shining Onyx (8),閃耀瑪瑙 (8)
-PROPITEM_TXT_800131,Shining Onyx (9),閃耀瑪瑙 (9)
-PROPITEM_TXT_800132,Shining Onyx (10),閃耀瑪瑙 (10)
+PROPITEM_TXT_800123,Shining Onyx (1),閃耀黑瑪瑙 (1)
+PROPITEM_TXT_800124,Shining Onyx (2),閃耀黑瑪瑙 (2)
+PROPITEM_TXT_800125,Shining Onyx (3),閃耀黑瑪瑙 (3)
+PROPITEM_TXT_800126,Shining Onyx (4),閃耀黑瑪瑙 (4)
+PROPITEM_TXT_800127,Shining Onyx (5),閃耀黑瑪瑙 (5)
+PROPITEM_TXT_800128,Shining Onyx (6),閃耀黑瑪瑙 (6)
+PROPITEM_TXT_800129,Shining Onyx (7),閃耀黑瑪瑙 (7)
+PROPITEM_TXT_800130,Shining Onyx (8),閃耀黑瑪瑙 (8)
+PROPITEM_TXT_800131,Shining Onyx (9),閃耀黑瑪瑙 (9)
+PROPITEM_TXT_800132,Shining Onyx (10),閃耀黑瑪瑙 (10)
 PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +10。僅可附加 1 次。
 PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +20。僅可附加 1 次。
 PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +30。僅可附加 1 次。
@@ -17223,8 +17223,8 @@ PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +80。僅可附加 1 次。
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +90。僅可附加 1 次。
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,鑲嵌於終極武器時，攻擊力 +100。僅可附加 1 次。
-PROPITEM_TXT_800143,Jewel Tweezers,寶石鑷子
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可獲得附著的寶石且不產生破壞。
+PROPITEM_TXT_800143,Jewel Tweezers,鑲嵌鑷子
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可以無損取出鑲嵌的寶石或符文，並保留該物品。
 PROPITEM_TXT_800145,Rune of Increasing HP,HP 提升符文
 PROPITEM_TXT_800146,Rune of Increasing MP,MP 提升符文
 PROPITEM_TXT_800147,Rune of Increasing FP,FP 提升符文
@@ -17265,7 +17265,7 @@ PROPITEM_TXT_800181,Shining Sapphire Piece,閃耀藍寶石碎片
 PROPITEM_TXT_800182,Shining Emerald Piece,閃耀綠寶石碎片
 PROPITEM_TXT_800183,Shining Diamond Piece,閃耀鑽石碎片
 PROPITEM_TXT_800184,Shining Amethyst Piece,閃耀紫水晶碎片
-PROPITEM_TXT_800185,Shining Onyx Piece,閃耀瑪瑙碎片
+PROPITEM_TXT_800185,Shining Onyx Piece,閃耀黑瑪瑙碎片
 PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,集齊併合成 10 個碎片，即可獲得一枚完整寶石。
 PROPITEM_TXT_800187,Ultimate Jewel Box,終極珍寶箱
 PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",箱子內包含多種可鑲嵌於終極武器的終極寶石、符文及碎片。集齊 10 枚同類碎片即可合成完整寶石。
@@ -22787,7 +22787,7 @@ PROPITEM_TXT_900946,"A package containing 10x Smelting Scroll Box, 20x Power Dic
 PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,打開 77 節日終極卷軸禮包
 PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,包含 3x 終極加成卷軸和 5x 終極之力卷軸的套裝。所有物品皆為綁定。
 PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,打開 77 節日終極精煉包
-PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",套裝包含 3x 終極精煉防爆卷軸、3x 高級法力石、3x 法力石、3x 寶石鑷子和 3x 切割刀。所有物品皆為綁定。
+PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",套裝包含 3x 終極精煉防爆卷軸、3x 高級法力石、3x 法力石、3x 鑲嵌鑷子和 3x 切割刀。所有物品皆為綁定。
 PROPITEM_TXT_900951,2025 Swimsuit 10% Yellow Set,2025 泳裝黃色套裝 10%
 PROPITEM_TXT_900952,2025 Swimsuit Yellow Sunglasses,2025 泳裝黃色太陽眼鏡
 PROPITEM_TXT_900953,2025 Swimsuit Yellow Hat (M),2025 泳裝黃色帽子 (男)
@@ -25395,7 +25395,7 @@ PROPITEM_TXT_902531,A package containing 3x Scroll of Ultimate Bonus II and 5x S
 PROPITEM_TXT_902532,Scroll of Weapon Bonus(Job) Select box,武器加成卷軸 (職業) 選擇箱
 PROPITEM_TXT_902533,Select which Scroll you want to receive !,選擇您想要接收的卷軸！
 PROPITEM_TXT_902534,Winter Jewel All Inclusive Package,冬季寶石全包套組
-PROPITEM_TXT_902535,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.",套裝包含 3x 寶石鑷子、3x 切割刀、1x 寶石合成機率增加卷軸選擇盒、2x 寶石轉化下卷軸和 2x 寶石轉化卷軸。所有物品皆為綁定。
+PROPITEM_TXT_902535,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.",套裝包含 3x 鑲嵌鑷子、3x 切割刀、1x 寶石合成機率增加卷軸選擇盒、2x 寶石轉化下卷軸和 2x 寶石轉化卷軸。所有物品皆為綁定。
 PROPITEM_TXT_902536,Year of Red Horse Hunting Pack,紅馬之年狩獵包
 PROPITEM_TXT_902537,"A package containing 5x Def-Upcut Stone, 5x Activation, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.",包含 5x 防禦之石、5x 無限技能卷軸、5x 蒲燒鰻魚和 5x 無限活力多或無限魔力多的套裝。所有物品皆為綁定。
 PROPITEM_TXT_902538,Glory Wings Package,榮耀之翼套組
@@ -25538,7 +25538,7 @@ PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplifica
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,2026 MyCard 平台新年促銷活動禮盒 B
 PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activation, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.",內含 5x [20~160] 經驗加成卷軸 ES 選擇箱、5x 力量卷軸、5x 藥劑盒、5x 無限技能卷軸、5x 防禦之石、1x 黑曜烈焰紅色武器套組，以及 1x 獵人套裝選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,2026 MyCard 平台新年促銷活動禮盒 C
-PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.",內含 3x [20~160] 經驗加成卷軸 ES 選擇箱、2x 力量卷軸、2x 氣球選擇箱 (6 小時)、2x 寶石鑷子、2x 切割刀、1x Reaper 武器外觀箱、1x 背包擴充 (30 天)、4x 精煉防爆卷軸，以及 1x 闇影獵人 10% 黑色套裝選擇箱。所有物品皆為綁定。
+PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.",內含 3x [20~160] 經驗加成卷軸 ES 選擇箱、2x 力量卷軸、2x 氣球選擇箱 (6 小時)、2x 鑲嵌鑷子、2x 切割刀、1x Reaper 武器外觀箱、1x 背包擴充 (30 天)、4x 精煉防爆卷軸，以及 1x 闇影獵人 10% 黑色套裝選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_902673,FWC 2026 Pre-registration Reward Package,FWC 2026 預先註冊獎勵禮包
 PROPITEM_TXT_902674,This package contains FWC 2026 Pre-registration rewards.,此禮包包含 FWC 2026 預先註冊獎勵。
 PROPITEM_TXT_902675,Valentine's Sweets Box,情人節糖果盒
