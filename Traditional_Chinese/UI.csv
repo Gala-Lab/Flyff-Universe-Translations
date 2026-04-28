@@ -694,16 +694,16 @@ UI_UPGRADE_MATERIAL,Power Dice/Card,能量骰子/卡片
 UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,終極精煉防爆卷
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,太陽石
-UI_UPGRADE_CHANCESCROLL,SFusion,精煉捲軸
+UI_UPGRADE_CHANCESCROLL,SFusion,精煉卷軸
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",精煉失敗時精煉等級會降低，但是物品不會消失。
 UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果沒有使用精煉防爆卷，精煉失敗時物品會消失。
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,您想要精煉這個物品嗎?
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,移除元素精煉
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,確認移除
 UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,是否要移除此裝備的元素精煉? #b#cffff0000此操作無法復原。#nc#nb
-UI_REVIVAL_CASH_SHOP_TIP,Open the Flyff Shop to buy a Scroll of Resurrection,開啟 Flyff 商店購買復活捲軸。
+UI_REVIVAL_CASH_SHOP_TIP,Open the Flyff Shop to buy a Scroll of Resurrection,開啟 Flyff 商店購買復活卷軸。
 UI_REVIVAL_REVIVAL,Current Location,原地復活
-UI_REVIVAL_REVIVAL_TIP,Use a Scroll of Resurrection to revive at your current location,使用復活捲軸在目前位置復活。
+UI_REVIVAL_REVIVAL_TIP,Use a Scroll of Resurrection to revive at your current location,使用復活卷軸在目前位置復活。
 UI_COMMITEM_DIALOG_TITLE,Use Item,使用物品
 UI_RESTATE_CONFIRM_TITLE,Confirm Stat Reset,能力點重置確認
 UI_RESTATE_CONFIRM_ALL,"This will reset all character stats, and the points will be returned to you. Continue?",這將重置角色全能力值，點數將返還給您。繼續嗎?
@@ -1009,7 +1009,7 @@ UI_TOOLTIP_ABILITY,Bonus,能力值
 UI_PET_HP,Energy: %d / %d,能量：%d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
 UI_PET_DEAD,(DEAD),(死亡)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,捲軸重置等級:
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,卷軸重置等級:
 UI_TARGET_CLEAR,Clear target,取消目標
 UI_OPTION_TAB_UI,Interface,介面
 UI_OPTION_AUTO_ATTACK,Auto Attack,自動攻擊
@@ -1105,7 +1105,7 @@ UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,轉換為角色綁定
 UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",該物品將變為角色綁定物品，無法再出售給 NPC。您可以使用此方法堆疊綁定狀態不同的相同物品 (原本無法堆疊的物品)。請注意：角色綁定物品無法交易，且此操作無法撤銷。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,轉換後的物品無法復原。\n您想繼續嗎?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,該物品無法轉換。
-UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,此捲軸將永久增加你公會成員上限 5 人。只對您目前的公會有效，不會影響您之後加入的任何公會。您確認使用嗎?
+UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,此卷軸將永久增加你公會成員上限 5 人。只對您目前的公會有效，不會影響您之後加入的任何公會。您確認使用嗎?
 UI_GUILD_TOOLTIP_EXP,EXP:,經驗值：
 UI_GUILD_TOOLTIP_GOLD,Penya:,金幣：
 UI_GUILD_TOOLTIP_LEVEL,#bNext level: %d#nb,#b下一個等級 %d#nb
@@ -1160,7 +1160,7 @@ UI_ACHIEVEMENTS_AVAILABLE,Available,可領取
 UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,這項成就已完成！
 UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,需要的劇團等級：%d
 UI_TOOLTIP_PARTY_POINTS,Required Points: %d,需要的點數：%d
-UI_PARTY_PERMANENT_CONFIRM,This scroll will transform your party into a permanent party. Offline members will no longer be removed automatically. This scroll applies only to your current party and will not affect any party you create or join later. Use it now?,此捲軸可將您的劇團變為永久劇團，離線的成員將不再自動移除。只套用於您目前的劇團，不會影響您之後建立或加入的任何劇團。立即使用?
+UI_PARTY_PERMANENT_CONFIRM,This scroll will transform your party into a permanent party. Offline members will no longer be removed automatically. This scroll applies only to your current party and will not affect any party you create or join later. Use it now?,此卷軸可將您的劇團變為永久劇團，離線的成員將不再自動移除。只套用於您目前的劇團，不會影響您之後建立或加入的任何劇團。立即使用?
 UI_PARTY_PERMANENT,Permanent Party,永久劇團
 UI_SEARCHPARTY_TITLE,Search Party,搜尋劇團
 UI_SEARCHGUILD_TITLE,Search Guild,搜尋公會
@@ -1398,7 +1398,7 @@ UI_CHARINFO_EXPRATE,EXP Rate,經驗值加成
 UI_CHARINFO_EXPRATE_TIP,Your personal EXP rate. Does not include server and event rates.,您個人的經驗值加成，不包含伺服器和活動經驗加成。
 UI_TOOLTIP_ITEM_BINDING,Binding,綁定
 UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,該材料會使目標物品被角色綁定。
-UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000這項操作將物品綁定到您的角色，您可以使用解除綁定捲軸來解除物品綁定。#nc
+UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000這項操作將物品綁定到您的角色，您可以使用解除綁定卷軸來解除物品綁定。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,此物品現在已綁定您的角色。
 UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[角色綁定]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,可以被解除綁定。
@@ -1469,7 +1469,7 @@ UI_TRANSMUTE_TITLE,Item Transmutation,衣櫥
 UI_TRANSMUTE_DESTROY,"By transmuting this item, it will become account-linked. You can undo the transmutation by using a Revert Transmutation Scroll on it. Do you want to continue?",轉換此物品後，它將與帳號綁定。您可以使用「外觀復原咒文書」移除轉換。您是否藥繼續?
 UI_TRANSMUTE_PRIMARY,Item to Transmute,外觀轉換道具
 UI_TRANSMUTE_HEADER,You have #b%d#nb items in your wardrobe.,你有 #b%d#nb 件衣櫥物品。
-UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,使用一個#b轉換捲軸#nb\n為您的衣櫥添加更多物品。
+UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,使用一個#b轉換卷軸#nb\n為您的衣櫥添加更多物品。
 UI_TRANSMUTE_OUTPUT,Result,結果
 UI_TRANSMUTE_PRIMARY_TIP,Insert an item to transmute.,放置要外觀轉換的物品。
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,放置要作為外觀犧牲的物品。
@@ -1925,7 +1925,7 @@ UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get tel
 UI_SERVERTRANSFER_TITLE,Server Transfer,伺服器轉移
 UI_SERVERTRANSFER_MSG,Select server:,選擇伺服器：
 UI_SERVERTRANSFER_BASE_DESC,Select the server you want to transfer your character to. Please check our website for the exact transfer rules.,請選擇您要將角色轉移到的伺服器。請造訪我們的網站檢視具體的轉移規則。
-UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,請注意，轉移請求會在指定日期執行，因此在使用捲軸後不會立即轉移。
+UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,請注意，轉移請求會在指定日期執行，因此在使用卷軸後不會立即轉移。
 UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC 伺服器轉移
 UI_SERVERTRANSFER_FWC_DESC,"Select the server you want to transfer your character to. The transfer will take place after the FWC server closes, and you can still play on your character until then. If you're not sure where you want to transfer, you can close this window and choose the next time you log in. Once you confirm your server, you can't change your choice.",請選擇您要將角色轉移到的伺服器。轉移將在 FWC 伺服器關閉後執行，在此之前您仍然可以使用您的角色進行遊戲。如果您不確定要轉移到哪個伺服器，您可以關閉此窗口，並在下次登入時選擇。一旦您確認了伺服器，您將無法更改您的選擇。
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,自由攝影機
@@ -2021,10 +2021,10 @@ UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the f
 UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,請輸入要升級的物品。
 UI_MATERIAL_ITEM_PUT,Please input a material item first.,請先輸入材料物品。
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,該物品無法使用。
-UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",沒有 XProtect 捲軸，升級失敗時物品將被摧毀。
+UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",沒有 XProtect 卷軸，升級失敗時物品將被摧毀。
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
-UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆捲軸
+UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆卷軸
 UI_ULTIMATE_PREFIX,[Ultimate],[終極]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰觸發率
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射觸發率
@@ -2327,7 +2327,7 @@ UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,
 UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,今日已使用數量：%d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,將齒輪或附件升級到 +%s 或更高等級
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,擊殺怪物
-UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,使用復活捲軸復活自己嗎？
+UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,使用復活卷軸復活自己嗎？
 UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,催化劑
 UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,通知管理
 UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,隱私管理
@@ -3220,7 +3220,7 @@ UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,施放聖歌時增加移動速
 UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,鑲嵌相同類型的寶石
 UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?",已插入相同類型的寶石。再次插入的成功機率為 #cffff0000%d%%#nc。如果失敗，寶石將被摧毀。是否繼續?
 UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,登錄終極寶石。
-UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,您可以使用寶石轉換捲軸轉換終極寶石。寶石的等級決定了所需的捲軸種類。
+UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,您可以使用寶石轉換卷軸轉換終極寶石。寶石的等級決定了所需的卷軸種類。
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,等級 %d 寶石
 UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,該寶石將被隨機轉換為同等級的另一顆寶石。是否繼續?
 UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.",合成 3 顆相同等級的寶石 (不限類型) 必定會隨機獲得一顆更高等級的寶石。合成過程中欄位的寶石會被消耗掉，合成的寶石會放入您的背包中。
