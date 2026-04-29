@@ -1057,33 +1057,33 @@ PROPMOVER_TXT_210096,Tanuki Protector,浣熊守衛者
 PROPMOVER_TXT_210097,Wildwood Stalker,叢林追獵者
 PROPMOVER_TXT_210098,Wildwood Chieftain,叢林酋長
 PROPMOVER_TXT_210099,Beast King Khan,百獸之王‧可汗
-PROPMOVER_TXT_210100,Small Kingster,小型霸王蝦
+PROPMOVER_TXT_210100,Small Kingster,小霸王蝦
 PROPMOVER_TXT_110101,Kingster,霸王蝦
-PROPMOVER_TXT_110102,Captain Kingster,大型霸王蝦
-PROPMOVER_TXT_110103,Small Kraken,部下克拉肯
+PROPMOVER_TXT_110102,Captain Kingster,霸王蝦頭目
+PROPMOVER_TXT_110103,Small Kraken,克拉肯部下
 PROPMOVER_TXT_110104,Kraken,克拉肯
-PROPMOVER_TXT_110105,Captain Kraken,頭目克拉肯
-PROPMOVER_TXT_110106,Small Creper,部下克雷普
+PROPMOVER_TXT_110105,Captain Kraken,克拉肯頭目
+PROPMOVER_TXT_110106,Small Creper,克雷普部下
 PROPMOVER_TXT_110107,Creper,克雷普
-PROPMOVER_TXT_110108,Captain Creper,頭目克雷普
-PROPMOVER_TXT_110109,Small Naga,小型那伽
+PROPMOVER_TXT_110108,Captain Creper,克雷普頭目
+PROPMOVER_TXT_110109,Small Naga,小那伽
 PROPMOVER_TXT_110110,Naga,那伽
-PROPMOVER_TXT_110111,Captain Naga,大型那伽
-PROPMOVER_TXT_110112,Small Atrox,小型巨齒蛉
+PROPMOVER_TXT_110111,Captain Naga,那伽頭目
+PROPMOVER_TXT_110112,Small Atrox,小巨齒蛉
 PROPMOVER_TXT_110113,Atrox,巨齒蛉
-PROPMOVER_TXT_110114,Captain Atrox,大型巨齒蛉
-PROPMOVER_TXT_110115,Small Okean,小型皇冠海妖
+PROPMOVER_TXT_110114,Captain Atrox,巨齒蛉頭目
+PROPMOVER_TXT_110115,Small Okean,小皇冠海妖
 PROPMOVER_TXT_110116,Okean,皇冠海妖
-PROPMOVER_TXT_110117,Captain Okean,大型皇冠海妖
-PROPMOVER_TXT_110118,Small Tigar,小型熱帶虎
+PROPMOVER_TXT_110117,Captain Okean,皇冠海妖頭目
+PROPMOVER_TXT_110118,Small Tigar,小熱帶虎
 PROPMOVER_TXT_110119,Tigar,熱帶虎
-PROPMOVER_TXT_110120,Captain Tigar,大型熱帶虎
+PROPMOVER_TXT_110120,Captain Tigar,熱帶虎頭目
 PROPMOVER_TXT_110121,Small Dorian,多利安部下
 PROPMOVER_TXT_110122,Dorian,多利安
 PROPMOVER_TXT_110123,Captain Dorian,多利安頭目
-PROPMOVER_TXT_110124,Small Meral,強襲海盜士兵
-PROPMOVER_TXT_110125,Meral,強襲海盜隊長
-PROPMOVER_TXT_110126,Captain Meral,強襲海盜指揮官
+PROPMOVER_TXT_110124,Small Meral,海盜嘍囉
+PROPMOVER_TXT_110125,Meral,海盜
+PROPMOVER_TXT_110126,Captain Meral,海盜船長
 PROPMOVER_TXT_110127,Giant Kingster,巨型霸王蝦
 PROPMOVER_TXT_110128,Giant Kraken,巨型克拉肯
 PROPMOVER_TXT_110129,Giant Creper,巨型克雷普
@@ -1092,7 +1092,7 @@ PROPMOVER_TXT_110131,Giant Atrox,巨型巨齒蛉
 PROPMOVER_TXT_110132,Giant Okean,巨型皇冠海妖
 PROPMOVER_TXT_110133,Giant Tigar,巨型熱帶虎
 PROPMOVER_TXT_110134,Giant Dorian,巨型多利安
-PROPMOVER_TXT_110135,Giant Meral,強襲海盜統帥
+PROPMOVER_TXT_110135,Giant Meral,海賊王
 PROPMOVER_TXT_110136,Violet Kingster,邪惡霸王蝦
 PROPMOVER_TXT_110137,Violet Kraken,邪惡克拉肯
 PROPMOVER_TXT_110138,Violet Creper,邪惡克雷普
@@ -1101,7 +1101,7 @@ PROPMOVER_TXT_110140,Violet Atrox,邪惡巨齒蛉
 PROPMOVER_TXT_110141,Violet Okean,邪惡皇冠海妖
 PROPMOVER_TXT_110142,Violet Tigar,邪惡熱帶虎
 PROPMOVER_TXT_110143,Violet Dorian,邪惡多利安
-PROPMOVER_TXT_110144,Violet Meral,邪惡強襲海盜
+PROPMOVER_TXT_110144,Violet Meral,邪惡海賊王
 PROPMOVER_TXT_110145,Blue Flying Sheep,藍色飛羊
 PROPMOVER_TXT_110146,Yellow Flying Sheep,黃色飛羊
 PROPMOVER_TXT_110147,Red Flying Sheep,紅色飛羊
@@ -1210,7 +1210,7 @@ PROPMOVER_TXT_400237,[Event] Small Asuras,[活動] 小阿修羅
 PROPMOVER_TXT_400238,[Event] Mammoth,[活動] 猛獁象
 PROPMOVER_TXT_400239,[Event] Asuras,[活動] 阿修羅
 PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[活動] 食人猛獁象
-PROPMOVER_TXT_400241,[Event] Meral,[活動] 強襲海盜隊長
+PROPMOVER_TXT_400241,[Event] Meral,[活動] 海盜
 PROPMOVER_TXT_400026,Blue Pixel Rabbit,藍色像素兔
 PROPMOVER_TXT_400027,Red Pixel Rabbit,紅色像素兔
 PROPMOVER_TXT_400028,Green Pixel Rabbit,綠色像素兔
@@ -1375,7 +1375,7 @@ PROPMOVER_TXT_400389,Lord Dorian,變異槍魚之王
 PROPMOVER_TXT_400390,Lord Okean,皇冠海妖之王
 PROPMOVER_TXT_400391,Lord Naga,那伽之王
 PROPMOVER_TXT_400392,Overlord Naga,那伽霸主
-PROPMOVER_TXT_400393,Overlord Meral,強襲海盜隊長霸主
+PROPMOVER_TXT_400393,Overlord Meral,海盜霸主
 PROPMOVER_TXT_400394,Lord Tigar,熱帶虎之王
 PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,粉櫻復活節兔兔
 PROPMOVER_TXT_400396,Green Guardian Easter Bunny,碧翠復活節兔兔
