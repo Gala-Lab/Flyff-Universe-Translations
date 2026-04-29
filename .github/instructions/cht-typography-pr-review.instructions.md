@@ -1,8 +1,7 @@
 ---
-name: chinese-typography-pr-review
+name: cht-typography-pr-review
 description: "Apply CJK typography and mixed-text spacing normalization for game UI translations."
 applyTo: 
-  - "Simplified_Chinese/**"
   - "Traditional_Chinese/**"
 ---
 
