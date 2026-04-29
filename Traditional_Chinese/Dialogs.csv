@@ -7,7 +7,7 @@ NPC_EXIT,Exit,離開方法
 NPC_HOWTOFLY,How to Fly,飛行操作
 NPC_COMBATFLYING,Combat Flying,飛行戰鬥
 NPC_IDCARD,ID CARD,身分證
-NPC_WHATABOUTTHEMINE,What about the mine?,塔凱黎斯礦坑
+NPC_WHATABOUTTHEMINE,What about the mine?,迪肯礦坑
 NPC_MOVE,Move,移動
 NPC_FORHONOR,For Honor!,獵殺怪物
 NPC_FORFUN,For Fun!,無聊嗎～
@@ -17,7 +17,7 @@ NPC_NO_ENTER,No_Enter,不_入場
 NPC_WHEREAMI,Where am I?,場所
 NPC_MAKEANAPPOINTMENT,Make an appointment,指定場所
 NPC_FINALIZESTATSELECTION,Finalize Stat selection,能力值初始化
-NPC_DEKANEMINE,Dekane Mine,塔凱黎斯礦坑
+NPC_DEKANEMINE,Dekane Mine,迪肯礦坑
 NPC_CELL,Cell,飛兒
 NPC_AZRIAMINE,Azria Mine,阿茲里亞礦
 NPC_CURSEDSYMBOL,Cursed Symbol,受詛咒的徽記
@@ -123,13 +123,13 @@ NPC_000130,We are here to protect the will of the Heroes. Are you worthy to beco
 NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",我擔心那些過於追隨闇影、伊布利斯和巴布樂的人，最後終將被他們毀滅。追隨英雄的道路，你就不會迷失方向。
 NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.",我是 [爆咒師守護者] 卡班沛，守護著爆咒師英雄羅瓦特的意志。
 NPC_000133,The power of Roentel will protect and guide you.,以羅瓦特的力量為榮！
-NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,塔凱黎斯礦坑深處蘊藏著稀有金屬與礦物。
+NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,迪肯礦坑深處蘊藏著稀有金屬與礦物。
 NPC_000135,You looking for some adventure? Why not discover the mystery of the curse of Darkon? ,你對冒險很好奇喔？那你可以去嘗試解除得肯的秘密喔～
 NPC_000136,"Now's not the time for pleasantries, my simple-minded friend. Besides, I know you don't actually care. No one does...",向我問好喔…沒想到會有人來向我問好耶…不要囉唆了啦！快說你來找我的目的是什麼？
 NPC_000137,"Fine, leave if you want to! I don't need your help, fool! ",你想去就去吧！反正不會有人管我！
 NPC_000138,"Have you ever heard the name Neverant? Few know it now, but long ago it was the top-ranking mining guild in Darkon. I used to be a member of that guild.",以前有一個礦坑…那個礦坑很大呢～可是這個礦坑現在已經不存在了，當時我也是那個礦坑的礦工了呢～
-NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart by a terrible curse that emanated from the mine itself. Ironic, isn't it?",礦坑現在已經不存在了，被詛咒的塔凱黎斯變成了沒落的礦坑..可憐的礦坑~
-NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.,如果你想去的話，可以去這裡西邊的塔凱黎斯礦坑看看。我可不敢踏進那裡半步。
+NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart by a terrible curse that emanated from the mine itself. Ironic, isn't it?",礦坑現在已經不存在了，被詛咒的迪肯變成了沒落的礦坑..可憐的礦坑~
+NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.,如果你想去的話，可以去這裡西邊的迪肯礦坑看看。我可不敢踏進那裡半步。
 NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted nomad shields Penya can buy!,趁風的盾牌店開始營業了！金幣就可以買到最好的精心製作的遊牧盾牌！這裡是有賣上等的防具，請好好挑選！
 NPC_000142,"Well, what are you gonna do for me? Hmmm?",有什麼可以幫忙的嗎？
 NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ",卡恩商人組織有販售瑪德利賈賣最好的商品喔！！
@@ -504,7 +504,7 @@ NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If y
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",我是伊斯魯爾‧特里尼蒂，是布拉里斯城的嚮導之一。 如果您需要任何幫助或資訊，可詢問我或我的雙胞胎姐妹！
 NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,奇怪，今天又哪裡壞掉了呢？我好想念金貝勒喔……
 NPC_000580,"Would you do me a favor, please?",能幫我個忙嗎?
-NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...",最近聽說賣到聖音特和得肯的機器一直故障，可能是我用了來自塔凱黎斯礦坑的劣質建材吧……唉。
+NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...",最近聽說賣到聖音特和得肯的機器一直故障，可能是我用了來自迪肯礦坑的劣質建材吧……唉。
 NPC_000582,"My name is Jeff Prosis and I am the Machine Developer of Flarine. Kimberley, my wife, is a guide in Saint City.",我是布拉里斯開發負責研究員傑夫，在聖音特的解說員金貝勒是我的老婆啦！
 NPC_000583,"Say hello to my wife, Kimberly, in Saint City if you happen to see her, will you?",下次再跟我說說其他的故事，再見囉！
 NPC_000584,"Iblis above! Ddukguk has disappeared! Oh, what should I do now. Please, somebody help me!!!",年糕湯..年糕湯不見了..啊，我以後要怎麼辦啊!有誰可以幫我啊!
@@ -931,7 +931,7 @@ NPC_001657,"Oh, Darkon is already a desolated place. Darkon will become a desola
 NPC_001659,"I'm Elaine, I'm the leader of the Darkon Clear Blue!",我是耶拉伊，我是得肯清藍的首領！
 NPC_001660,"A healthy Mother nature is the most important for us all. But alas, it seems no one understands.",對我們所有人來說，健康的大地之母是最重要的。 但是，唉，似乎沒有人明白。
 NPC_001661,Nobody can follow me up here. They know what beauty is! Hahahah!,沒有人可以追到我這裡。 他們肯定知道什麼是美！ 哈哈哈！
-NPC_001662,I'm exploring the Dekane Dungeon to do important research. Geez you really are annoying!,我正在探索「塔凱黎斯礦坑」，進行重要的研究。 哎呀，你真的很煩人！
+NPC_001662,I'm exploring the Dekane Dungeon to do important research. Geez you really are annoying!,我正在探索「迪肯礦坑」，進行重要的研究。 哎呀，你真的很煩人！
 NPC_001664,"I'm Ainher, revival of Psykeeper hero~Hoho~ I know I'm perfect!!",我是愛內爾，念力師英雄的復活~呵呵~我知道我很完美！！
 NPC_001665,"I'm busy, so, can you please get out of my sight and stop bothering me?",我很忙，所以，你能不能離開我的視線，不要再打擾我了？
 NPC_001666,Last lesson.. This is the last..,最後一課...真的是最後..
@@ -968,12 +968,12 @@ NPC_100022,"You seem to me very tired, look at that messy hair! How about a litt
 NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,我是瑪德利賈唯一的理髮師！ 我整天都開著。全年無休!!
 NPC_100024,Come back anytime you want!,你隨時都可以過來!~
 NPC_100025,"Durandil swords are really great, too bad you can't mine with them...",杜蘭迪爾劍真的很棒，可惜你不能用它們來挖掘......
-NPC_100026,"I am Dekane, the creator of this mine.",我是「塔凱黎斯」，是這個礦坑的創造者
+NPC_100026,"I am Dekane, the creator of this mine.",我是「迪肯」，是這個礦坑的創造者
 NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,我喜歡像你這樣勇敢的人！ 這是封印密室大門的鑰匙。 祝你好運！
 NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,確實，對於冒險者來說，打敗龍並非易事。 準備好後再來試試運氣。#bThe bottom of the mine#nb
 NPC_100029,See you bye bye!,再見~~掰掰
-NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",你好，你在這裡做什麼?\n1.[戰鬥 “地炎飛龍”][IDS_NPC_ 炎時]\n2.[你是誰？][IDS_NPC_ 塔凱黎斯]。
-NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",我是「塔凱黎斯」，這個礦坑的創造者。 既然你已經證明了自己，我就可以告訴你礦井底部的真正問題。
+NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",你好，你在這裡做什麼?\n1.[戰鬥 “地炎飛龍”][IDS_NPC_ 炎時]\n2.[你是誰？][IDS_NPC_ 迪肯]。
+NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",我是「迪肯」，這個礦坑的創造者。 既然你已經證明了自己，我就可以告訴你礦井底部的真正問題。
 NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","這個秘密房間裡，沉睡了很久以前由「闇影」創造的遠古時代的龍。 想要打敗他們，你就需要一支裝備精良的隊伍。 啊，但是有一個細節我忘了說，你需要 1,000,000 個金幣，你需要收集 50 個「噬血蜈蚣的背甲」並且擊殺了 50 隻「模範奇昆勞動者」就能來打開大門。 您和您的團隊準備好接受這個挑戰了嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc"
 NPC_100033,Would you like to take up the challenge again?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc,你想再次接受挑戰嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc
 NPC_100034,Sorry but you are not rich enough.,抱歉，你還不夠有錢。
@@ -1038,7 +1038,7 @@ NPC_100092,Go back home before you get frostbite!,在凍傷之前快回家吧！
 NPC_100093,"I've watched over the Storm Peak mountain trails for many years, ensuring the safety of all who venture forth.",多年來我一直守望著風暴峰的山道，確保所有踏上旅途的人都能平安通行。
 NPC_100094,"One day you will see, that the Frostiae peak ahead holds a dark secret.",總有一天你會看到，前方的霜峰峰隱藏著一個黑暗的秘密。
 NPC_100095,Azria Mine,阿茲里亞礦
-NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",我不應該說什麼，但在瑪德利賈周圍還有其他廢棄的礦井，其蘊含的能量甚至比得肯內的礦井還要強大。 其中一個地雷隱藏在阿茲里亞的山區。
+NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",我不應該說什麼，但在瑪德利賈周圍還有其他被遺棄的礦井，裡面包含的力量甚至比迪肯更強大。 其中一個礦井就隱藏在阿茲里亞的山區。
 NPC_100097,"My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets.",我的名字是小草兒，在你們這些生物出現之前很久，我的祖先就住在得肯山區。 不..我不是那些被困住的高矮人之一。
 NPC_100098,My people are all gone.. I am alone here.,我的人都走了.. 我一個人在這裡。
 NPC_100099,I have lived here for what feels like an eternity collecting materials that may one day save Madrigal.,我住在這裡感覺像是永恆的收集材料，有一天可能會拯救瑪德利賈。
