@@ -113,10 +113,10 @@ PROPMOVER_TXT_000222,Small Steam Walker,蒸氣機械嘍囉
 PROPMOVER_TXT_000224,Steam Walker,蒸氣機械
 PROPMOVER_TXT_000226,Captain Steam Walker,蒸氣機械頭目
 PROPMOVER_TXT_000228,Giant Steam Walker,巨型蒸氣機械
-PROPMOVER_TXT_000230,Small Steel Knight,機械騎士嘍囉
-PROPMOVER_TXT_000232,Steel Knight,機械騎士
-PROPMOVER_TXT_000234,Captain Steel Knight,機械騎士頭目
-PROPMOVER_TXT_000236,Giant Steel Knight,巨型機械騎士
+PROPMOVER_TXT_000230,Small Steel Knight,騎士機械嘍囉
+PROPMOVER_TXT_000232,Steel Knight,騎士機械
+PROPMOVER_TXT_000234,Captain Steel Knight,騎士機械頭目
+PROPMOVER_TXT_000236,Giant Steel Knight,巨型騎士機械
 PROPMOVER_TXT_000238,Small Nutty Wheel,刀牙機械嘍囉
 PROPMOVER_TXT_000240,Nutty Wheel,刀牙機械
 PROPMOVER_TXT_000242,Captain Nutty Wheel,刀牙機械頭目
@@ -133,10 +133,10 @@ PROPMOVER_TXT_000262,Small Elderguard,戰士機械嘍囉
 PROPMOVER_TXT_000264,Elderguard,戰士機械
 PROPMOVER_TXT_000266,Captain Elderguard,戰士機械頭目
 PROPMOVER_TXT_000268,Giant Elderguard,巨型戰士機械
-PROPMOVER_TXT_000270,Small Garbagespider,清掃夫機械嘍囉
-PROPMOVER_TXT_000272,Garbagespider,清掃夫機械
-PROPMOVER_TXT_000274,Captain Garbagespider,清掃夫機械頭目
-PROPMOVER_TXT_000276,Giant Garbagespider,巨型清掃夫機械
+PROPMOVER_TXT_000270,Small Garbagespider,清道夫機械嘍囉
+PROPMOVER_TXT_000272,Garbagespider,清道夫機械
+PROPMOVER_TXT_000274,Captain Garbagespider,清道夫機械頭目
+PROPMOVER_TXT_000276,Giant Garbagespider,巨型清道夫機械
 PROPMOVER_TXT_000278,Small Crane Machinery,工程機械嘍囉
 PROPMOVER_TXT_000280,Crane Machinery,工程機械
 PROPMOVER_TXT_000282,Captain Crane Machinery,工程機械頭目
@@ -348,9 +348,9 @@ PROPMOVER_TXT_000746,Criminal Hobo,罪惡的獨刀
 PROPMOVER_TXT_000748,Criminal Cardpuppet,罪惡的發條娃娃
 PROPMOVER_TXT_000750,Criminal Basque,罪惡的巴斯克
 PROPMOVER_TXT_000752,Criminal Leyena,罪惡的血狼
-PROPMOVER_TXT_000754,Criminal Steel Knight,罪惡機械騎士
+PROPMOVER_TXT_000754,Criminal Steel Knight,罪惡騎士機械
 PROPMOVER_TXT_000756,Criminal Volt,罪惡的機械戰車
-PROPMOVER_TXT_000758,Criminal Garbagespider,罪惡的清掃夫機械
+PROPMOVER_TXT_000758,Criminal Garbagespider,罪惡的清道夫機械
 PROPMOVER_TXT_000760,Criminal Greemong,罪惡的史萊膿
 PROPMOVER_TXT_000762,Criminal Hoppre,罪惡的假面蝗蟲
 PROPMOVER_TXT_000764,Criminal Iren,罪惡的刀尾蚊
@@ -602,12 +602,12 @@ PROPMOVER_TXT_100097,Violet Medumet,邪惡美杜梅
 PROPMOVER_TXT_100063,Violet Leyena,邪惡萊耶娜
 PROPMOVER_TXT_100064,Violet Trangfoma,邪惡電工兵
 PROPMOVER_TXT_100065,Violet Steam Walker,邪惡蒸氣機械
-PROPMOVER_TXT_100068,Violet Steel Knight,邪惡機械騎士
+PROPMOVER_TXT_100068,Violet Steel Knight,邪惡騎士機械
 PROPMOVER_TXT_100069,Violet Nutty Wheel,邪惡刀牙機械
 PROPMOVER_TXT_100066,Violet Driller,邪惡暴鑽機械
 PROPMOVER_TXT_100067,Violet Volt,邪惡機械戰車
 PROPMOVER_TXT_100070,Violet Elderguard,邪惡戰士機械
-PROPMOVER_TXT_100071,Violet Garbagespider,邪惡清掃夫機械
+PROPMOVER_TXT_100071,Violet Garbagespider,邪惡清道夫機械
 PROPMOVER_TXT_100072,Violet Crane Machinery,邪惡工程機械
 PROPMOVER_TXT_100074,Violet Greemong,邪惡史萊膿
 PROPMOVER_TXT_100076,Violet Nuctuvehicle,邪惡礦車獸
