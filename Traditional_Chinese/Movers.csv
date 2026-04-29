@@ -113,10 +113,10 @@ PROPMOVER_TXT_000222,Small Steam Walker,蒸氣機械嘍囉
 PROPMOVER_TXT_000224,Steam Walker,蒸氣機械
 PROPMOVER_TXT_000226,Captain Steam Walker,蒸氣機械頭目
 PROPMOVER_TXT_000228,Giant Steam Walker,巨型蒸氣機械
-PROPMOVER_TXT_000230,Small Steel Knight,騎士機械嘍囉
-PROPMOVER_TXT_000232,Steel Knight,騎士機械
-PROPMOVER_TXT_000234,Captain Steel Knight,騎士機械頭目
-PROPMOVER_TXT_000236,Giant Steel Knight,巨型騎士機械
+PROPMOVER_TXT_000230,Small Steel Knight,機械騎士嘍囉
+PROPMOVER_TXT_000232,Steel Knight,機械騎士
+PROPMOVER_TXT_000234,Captain Steel Knight,機械騎士頭目
+PROPMOVER_TXT_000236,Giant Steel Knight,巨型機械騎士
 PROPMOVER_TXT_000238,Small Nutty Wheel,刀牙機械嘍囉
 PROPMOVER_TXT_000240,Nutty Wheel,刀牙機械
 PROPMOVER_TXT_000242,Captain Nutty Wheel,刀牙機械頭目
@@ -164,7 +164,7 @@ PROPMOVER_TXT_000332,Giant Greemong,巨型史萊膿
 PROPMOVER_TXT_000336,Roy,毒花老大
 PROPMOVER_TXT_000338,Cardinal Guardian,毒花首領
 PROPMOVER_TXT_000350,Small Carrierbomb,賓拉當轟炸兵
-PROPMOVER_TXT_000352,Carrierbomb,海三轟炸兵
+PROPMOVER_TXT_000352,Carrierbomb,轟炸兵
 PROPMOVER_TXT_000354,Captain Carrierbomb,鳥山轟炸機
 PROPMOVER_TXT_000356,Giant Carrierbomb,粉大轟炸兵
 PROPMOVER_TXT_000382,Clockworks,時空毀滅者
@@ -348,7 +348,7 @@ PROPMOVER_TXT_000746,Criminal Hobo,罪惡的獨刀
 PROPMOVER_TXT_000748,Criminal Cardpuppet,罪惡的發條娃娃
 PROPMOVER_TXT_000750,Criminal Basque,罪惡的巴斯克
 PROPMOVER_TXT_000752,Criminal Leyena,罪惡的血狼
-PROPMOVER_TXT_000754,Criminal Steel Knight,罪惡騎士機械
+PROPMOVER_TXT_000754,Criminal Steel Knight,罪惡機械騎士
 PROPMOVER_TXT_000756,Criminal Volt,罪惡的機械戰車
 PROPMOVER_TXT_000758,Criminal Garbagespider,罪惡的清掃夫機械
 PROPMOVER_TXT_000760,Criminal Greemong,罪惡的史萊膿
@@ -505,7 +505,7 @@ PROPMOVER_TXT_001460,Tiny Tanuki,勇猛的卡頓
 PROPMOVER_TXT_001466,Inisis,伊尼斯
 PROPMOVER_TXT_001496,Mini Santa,聖誕老人
 PROPMOVER_TXT_001498,Mini Snowman,冬季雪人
-PROPMOVER_TXT_001504,Little Lykan,哈伊布立德 拉肯
+PROPMOVER_TXT_001504,Little Lykan,小拉肯
 PROPMOVER_TXT_001554,Joey,沙漠狐狸
 PROPMOVER_TXT_001556,Spike,勇猛獵犬
 PROPMOVER_TXT_001558,Lumia,小雪女
@@ -602,7 +602,7 @@ PROPMOVER_TXT_100097,Violet Medumet,邪惡美杜梅
 PROPMOVER_TXT_100063,Violet Leyena,邪惡萊耶娜
 PROPMOVER_TXT_100064,Violet Trangfoma,邪惡電工兵
 PROPMOVER_TXT_100065,Violet Steam Walker,邪惡蒸氣機械
-PROPMOVER_TXT_100068,Violet Steel Knight,邪惡騎士機械
+PROPMOVER_TXT_100068,Violet Steel Knight,邪惡機械騎士
 PROPMOVER_TXT_100069,Violet Nutty Wheel,邪惡刀牙機械
 PROPMOVER_TXT_100066,Violet Driller,邪惡暴鑽機械
 PROPMOVER_TXT_100067,Violet Volt,邪惡機械戰車
@@ -678,7 +678,7 @@ PROPMOVER_TXT_100110,Baby Longwing,長翼寶貝
 PROPMOVER_TXT_100111,Baby Saphyryan,冰原狼寶貝
 PROPMOVER_TXT_100112,Baby Mushpang,咚咚菇寶貝
 PROPMOVER_TXT_100113,Baby Wagsaac,拳頭花寶貝
-PROPMOVER_TXT_100114,Baby Steel Knight,幼小騎士機械
+PROPMOVER_TXT_100114,Baby Steel Knight,機械小騎士
 PROPMOVER_TXT_100115,Baby Nautrepy,酷帥鼠寶貝
 PROPMOVER_TXT_100116,Small Meteonyker,地炎飛龍嘍囉
 PROPMOVER_TXT_100117,Berserk Meteonyker,狂暴地炎飛龍
@@ -726,7 +726,7 @@ PROPMOVER_TXT_100158,Red Alien Octopus,紅色外星章魚
 PROPMOVER_TXT_100159,White Alien Octopus,白色外星章魚
 PROPMOVER_TXT_100160,Green Alien Octopus,綠色外星章魚
 PROPMOVER_TXT_100161,Black Alien Octopus,黑色外星章魚
-PROPMOVER_TXT_100162,Baby Peakyturtle,可愛的戰車蟲
+PROPMOVER_TXT_100162,Baby Peakyturtle,可愛的尖刺犰狳
 PROPMOVER_TXT_100163,Baby Rock Muscle,可愛的牛唄唄
 PROPMOVER_TXT_100164,Baby Giggle Box,可愛的整人箱
 PROPMOVER_TXT_100165,Baby Totemia,可愛的疊疊樂
@@ -1108,14 +1108,14 @@ PROPMOVER_TXT_110147,Red Flying Sheep,紅色飛羊
 PROPMOVER_TXT_110148,Purple Flying Sheep,紫色飛羊
 PROPMOVER_TXT_110149,Pink Flying Sheep,粉紅飛羊
 PROPMOVER_TXT_110150,Black Flying Sheep,黑色飛羊
-PROPMOVER_TXT_210151,Rainbow Race Officer,彩虹賽道管理者
+PROPMOVER_TXT_210151,Rainbow Race Officer,彩虹競賽管理者
 PROPMOVER_TXT_210152,Water Totem Pole,水之圖騰
 PROPMOVER_TXT_210153,Wind Totem Pole,風之圖騰
 PROPMOVER_TXT_210154,Earth Totem Pole,土之圖騰
 PROPMOVER_TXT_210155,Fire Totem Pole,火之圖騰
 PROPMOVER_TXT_210156,Electric Totem Pole,雷之圖騰
 PROPMOVER_TXT_210157,Twinstrike Den Mother,雙頭蛇後
-PROPMOVER_TXT_210158,The Wilds Guard,荒野叢境守護者
+PROPMOVER_TXT_210158,The Wilds Guard,荒野叢境守衛
 PROPMOVER_TXT_210159,Pau Pau,包包
 PROPMOVER_TXT_210160,Kammie,卡米
 PROPMOVER_TXT_210161,BoBu,波布

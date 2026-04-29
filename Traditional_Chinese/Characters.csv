@@ -65,7 +65,7 @@ CHARACTER_INC_000267,Broom,掃帚
 CHARACTER_INC_000268,Board,滑板
 CHARACTER_INC_000272,Bolpor,艾爾夫
 CHARACTER_INC_000273,Food,食物
-CHARACTER_INC_000280,Eshylop,艾雪琳
+CHARACTER_INC_000280,Eshylop,愛雪琳
 CHARACTER_INC_000284,Haven,海音
 CHARACTER_INC_000285,Wand,魔杖
 CHARACTER_INC_000286,Staff,法杖
@@ -138,7 +138,7 @@ CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高階杜爾沛] 克利培
 CHARACTER_INC_000480,[Assist Instructor] Kidmen,[神職者訓練助教] 凱德尼克
 CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高階杜爾沛] 海珊
 CHARACTER_INC_000484,Rudvihil,蘿特泰斯
-CHARACTER_INC_000486,Ancimys,[魔法箱子] 安奇米斯
+CHARACTER_INC_000486,Ancimys,安奇米斯
 CHARACTER_INC_000488,[Historian] Martinyc,[歷史學者] 馬特尼提特
 CHARACTER_INC_000490,[Mayor of Flarine],[布拉里斯市長]
 CHARACTER_INC_000492,[Public Official of Flarine],[布拉里斯公務員]
@@ -215,19 +215,19 @@ CHARACTER_INC_000671,[Pet Tamer],[召喚獸馴練師]
 CHARACTER_INC_000704,Buff Pang,[新手指導員] 胖胖
 CHARACTER_INC_000706,[Arena Manager] Harold,[自由競技場管理員] 海洛德
 CHARACTER_INC_000708,[Arena Store] Deek,[自由競技場商人] 迪克
-CHARACTER_INC_000712,[Arena Manager] Lay,[自由競技場管理員] 雷
+CHARACTER_INC_000712,[Arena Manager] Lay,[自由競技場管理員] 雷伊
 CHARACTER_INC_000738,Card Master,卡片大師
 CHARACTER_INC_000742,[Jewel Manager] Peach,[寶石專家] 波奇
 CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC] 頑童丹丹"
 CHARACTER_INC_000847,[Mentor] Inisis,[大師傅] 伊希尼斯
 CHARACTER_INC_001067,Reonan,雷奧南
-CHARACTER_INC_001069,Nerco,諾可
+CHARACTER_INC_001069,Nerco,尼羅可
 CHARACTER_INC_001071,Hael,哈爾
-CHARACTER_INC_001073,Handel,赫蒂爾
-CHARACTER_INC_001075,Zoro,佐洛
-CHARACTER_INC_001077,Elaine,伊萊恩
-CHARACTER_INC_001079,Ainher,艾茵荷
-CHARACTER_INC_001081,Reodos,瑞爾朵絲
+CHARACTER_INC_001073,Handel,賀丹爾
+CHARACTER_INC_001075,Zoro,索羅
+CHARACTER_INC_001077,Elaine,耶拉伊
+CHARACTER_INC_001079,Ainher,愛內爾
+CHARACTER_INC_001081,Reodos,列奧德斯
 CHARACTER_INC_001083,Sury,修利
 CHARACTER_INC_001115,Luzina,盧齊娜
 CHARACTER_INC_001117,Nersha,內爾莎
@@ -239,10 +239,10 @@ CHARACTER_INC_100004,YaoRin,姚琳
 CHARACTER_INC_100005,Zaoma,奏瑪
 CHARACTER_INC_100008,Dekane,塔凱黎斯
 CHARACTER_INC_100009,Launch Buff Pang,啟動 [新手指導員] 胖胖
-CHARACTER_INC_100010,Gigaka,吉查卡
+CHARACTER_INC_100010,Gigaka,機嘎卡
 CHARACTER_INC_100011,Miriun,美立安
 CHARACTER_INC_100012,Auxilior,輔助者
-CHARACTER_INC_100013,Mawrang,夏巫郎
+CHARACTER_INC_100013,Mawrang,馬巫郎
 CHARACTER_INC_100014,Buur,布爾
 CHARACTER_INC_100015,Gloves,手套
 CHARACTER_INC_100016,Kumah,庫瑪
@@ -269,11 +269,11 @@ CHARACTER_INC_000728,Rankashin,森林守衛者
 CHARACTER_INC_100028,Kebaras Pang,卡巴拉斯胖胖
 CHARACTER_INC_100029,Pink Easter Bunny,粉色復活節兔子
 CHARACTER_INC_100030,Galaxy Scout,銀河斥候
-CHARACTER_INC_100031,Birthday Baker,生日糕點師
+CHARACTER_INC_100031,Birthday Baker,生日蛋糕烘焙師
 CHARACTER_INC_100032,[FWC Manager] Ava,[FWC 管理員] 艾娃
 CHARACTER_INC_100033,Gacha Machine,扭蛋機
 CHARACTER_INC_100034,Bach,巴赫
-CHARACTER_INC_100035,Private Leo,列兵‧里奧
+CHARACTER_INC_100035,Private Leo,列兵里奧
 CHARACTER_INC_100036,Noah,諾亞
 CHARACTER_INC_100037,Conch,海螺
 CHARACTER_INC_100038,Traveling Merchant,流浪商人
@@ -425,6 +425,6 @@ CHARACTER_INC_150047,Mysterious Adventurer,神祕冒險者
 CHARACTER_INC_150048,Jarl (Dying),[族長] 雅爾 (瀕死)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS 管理員] Mewdev
 CHARACTER_INC_150050,Miorang,米奧朗
-CHARACTER_INC_150051,Cheirang,[事務所] 琪朗
+CHARACTER_INC_150051,Cheirang,琪朗
 CHARACTER_INC_150052,[Village Chief] Huntrang,[村長] 魂鬥郎
 CHARACTER_INC_150053,[Arena Manager] Aerin,[競技場管理員] 艾琳
