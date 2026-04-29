@@ -4,7 +4,7 @@ DUASYLUM_WLD_000001,Ankou's Cell,安庫囚殿
 DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),勒倫峽谷 (獨立副本)
 DUHERNEOS_WLD_000000,Herneos (Dungeon),赫爾尼奧斯遺都 (副本)
 DUDADK_WLD_000000,Dekane Mine (Dungeon),塔凱黎斯礦山 (副本)
-WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),邁爾斯礦山 (副本)
+WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),邁爾斯礦坑 (副本)
 DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),守護者祭壇 (獨立副本)
 DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),黎希絲墓窟 (獨立副本)
 DURUSTIA_WLD_000000,The Wilds,荒野叢境
@@ -51,7 +51,7 @@ WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to e
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,勒倫山脈中部的隱藏處
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,航線 布拉里斯市 ↔ 聖音特市
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,航線 布拉里斯市 ↔ 得肯第一區
-WDMADRIGAL_WLD_000005,Line Flarine ↔ Mars Mine,航線 布拉里斯市 ↔ 邁爾斯礦山
+WDMADRIGAL_WLD_000005,Line Flarine ↔ Mars Mine,航線 布拉里斯市 ↔ 邁爾斯礦坑
 WDMADRIGAL_WLD_000006,Line Saint City ↔ Garden of Rhisis,航線 聖音特市 ↔ 黎希絲庭院
 WDMADRIGAL_WLD_000007,Line Saint City ↔ Fantasy Desert,航線 聖音特市 ↔ 夢幻沙漠
 WDMADRIGAL_WLD_000008,Line Darkon 1 ↔ Darken,航線 得肯第一區 ↔ 得肯
@@ -130,8 +130,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,亡者之泉
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.",傳說亡者的靈魂會聚集在這裡。\n根據傳說，泉水使此地的萬物生生不息。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,勒倫山脈北部
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,勒倫山脈的北部地區\n邁爾斯礦山與亡者之泉坐落與此。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,邁爾斯礦山
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,勒倫山脈的北部地區\n邁爾斯礦坑與亡者之泉坐落與此。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,邁爾斯礦坑
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.",很久以前被採礦人發現的地方，是一個已開發的礦山\n現在已被氾濫的魔物們佔領。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,蘿特泰斯的豪宅
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,布拉里斯的富人們住在蘿特泰斯的豪宅裡。
