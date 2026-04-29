@@ -16,7 +16,7 @@ PROPMOVER_TXT_000028,Giant Burudeng,終極藍甲蟲
 PROPMOVER_TXT_000030,Small Pukepuke,噗卡噗卡嘍囉
 PROPMOVER_TXT_000032,Pukepuke,噗卡噗卡
 PROPMOVER_TXT_000034,Captain Pukepuke,噗卡噗卡頭目
-PROPMOVER_TXT_000036,Giant Pukepuke,巨大噗卡噗卡
+PROPMOVER_TXT_000036,Giant Pukepuke,巨型噗卡噗卡
 PROPMOVER_TXT_000038,Small Peakyturtle,尖刺小犰狳
 PROPMOVER_TXT_000040,Peakyturtle,尖刺犰狳
 PROPMOVER_TXT_000042,Captain Peakyturtle,尖刺犰狳頭目
@@ -32,7 +32,7 @@ PROPMOVER_TXT_000060,Giant Doridoma,好大的多魯
 PROPMOVER_TXT_000062,Young Lawolf,布魯狼嘍囉
 PROPMOVER_TXT_000064,Lawolf,布魯狼
 PROPMOVER_TXT_000066,Grownup Lawolf,布魯狼頭目
-PROPMOVER_TXT_000068,Giant Lawolf,巨大布魯狼
+PROPMOVER_TXT_000068,Giant Lawolf,巨型布魯狼
 PROPMOVER_TXT_000070,1st Class Fefern,小蜥蜴草
 PROPMOVER_TXT_000072,Fefern,蜥蜴草
 PROPMOVER_TXT_000074,2nd Class Fefern,毒蜥蜴草
@@ -160,7 +160,7 @@ PROPMOVER_TXT_000324,Bishop Popcrank,超級不恐怖小丑
 PROPMOVER_TXT_000326,Small Greemong,史萊膿嘍囉
 PROPMOVER_TXT_000328,Greemong,史萊膿
 PROPMOVER_TXT_000330,Captain Greemong,史萊膿頭目
-PROPMOVER_TXT_000332,Giant Greemong,巨大史萊膿
+PROPMOVER_TXT_000332,Giant Greemong,巨型史萊膿
 PROPMOVER_TXT_000336,Roy,毒花老大
 PROPMOVER_TXT_000338,Cardinal Guardian,毒花首領 
 PROPMOVER_TXT_000350,Small Carrierbomb,賓拉當轟炸兵
@@ -171,19 +171,19 @@ PROPMOVER_TXT_000382,Clockworks,時空毀滅者
 PROPMOVER_TXT_000392,Small Nuctuvehicle,菜鳥礦車獸
 PROPMOVER_TXT_000394,Nuctuvehicle,水手礦車獸
 PROPMOVER_TXT_000396,Captain Nuctuvehicle,礦車獸頭目
-PROPMOVER_TXT_000398,Giant Nuctuvehicle,巨大礦車獸
+PROPMOVER_TXT_000398,Giant Nuctuvehicle,巨型礦車獸
 PROPMOVER_TXT_000400,Young Syliaca,小獅頭魚
 PROPMOVER_TXT_000402,Syliaca,獅頭魚
-PROPMOVER_TXT_000404,Grownup Syliaca,獅頭魚老大
-PROPMOVER_TXT_000406,Giant Syliaca,巨大獅頭魚
+PROPMOVER_TXT_000404,Grownup Syliaca,獅頭魚頭目
+PROPMOVER_TXT_000406,Giant Syliaca,巨型獅頭魚
 PROPMOVER_TXT_000408,Small Risem,小石妖
 PROPMOVER_TXT_000410,Risem,石妖
-PROPMOVER_TXT_000412,Captain Risem,石妖老大
+PROPMOVER_TXT_000412,Captain Risem,石妖頭目
 PROPMOVER_TXT_000414,Giant Risem,石妖魔頭
 PROPMOVER_TXT_000416,Small Zombiger,腐屍礦工嘍囉
 PROPMOVER_TXT_000418,Zombiger,腐屍礦工
 PROPMOVER_TXT_000420,Captain Zombiger,腐屍礦工頭目
-PROPMOVER_TXT_000422,Giant Zombiger,巨大腐屍礦工
+PROPMOVER_TXT_000422,Giant Zombiger,巨型腐屍礦工
 PROPMOVER_TXT_000424,Small Flybat,小獨眼血蝙蝠
 PROPMOVER_TXT_000426,Flybat,獨眼血蝙蝠
 PROPMOVER_TXT_000428,Captain Flybat,凶惡獨眼血蝙蝠
@@ -195,7 +195,7 @@ PROPMOVER_TXT_000438,Giant Bucrow,巴斯克霸主
 PROPMOVER_TXT_000440,Small Scorpicon,血紅蠍幼蟲
 PROPMOVER_TXT_000442,Scorpicon,血紅蠍成蟲
 PROPMOVER_TXT_000444,Captain Scorpicon,兇猛血紅蠍
-PROPMOVER_TXT_000446,Giant Scorpicon,巨大血紅蠍
+PROPMOVER_TXT_000446,Giant Scorpicon,巨型血紅蠍
 PROPMOVER_TXT_000448,Small Trangfoma,電工兵學徒
 PROPMOVER_TXT_000450,Trangfoma,電工兵
 PROPMOVER_TXT_000452,Captain Trangfoma,電工兵師傅
@@ -383,7 +383,7 @@ PROPMOVER_TXT_000816,Hazardous Violet Trillipy,凶惡劇毒蜈蚣
 PROPMOVER_TXT_000818,Blood Trillipy,噬血蜈蚣
 PROPMOVER_TXT_000820,Hazardous Blood Trillipy,凶惡噬血蜈蚣
 PROPMOVER_TXT_000822,Chimeradon,變種蝙蝠俠
-PROPMOVER_TXT_000824,Giant Chimeradon,巨大的變種蝙蝠俠
+PROPMOVER_TXT_000824,Giant Chimeradon,巨型的變種蝙蝠俠
 PROPMOVER_TXT_000826,Meteonyker,地炎飛龍
 PROPMOVER_TXT_000828,Baby Lawolf,布魯狼寶貝
 PROPMOVER_TXT_000830,Baby Aibatt,可愛的獨眼蝙蝠 
@@ -567,15 +567,15 @@ PROPMOVER_TXT_002230,Earl Vermelho,伯爵維爾梅略
 PROPMOVER_TXT_100000,Small Gorruda,格魯達嘍囉
 PROPMOVER_TXT_100001,Gorruda,格魯達
 PROPMOVER_TXT_100002,Captain Gorruda,格魯達頭目
-PROPMOVER_TXT_100003,Giant Gorruda,巨大格魯達
+PROPMOVER_TXT_100003,Giant Gorruda,巨型格魯達
 PROPMOVER_TXT_100004,Young Fafnir,小法夫尼爾
 PROPMOVER_TXT_100005,Fafnir,法夫尼爾
 PROPMOVER_TXT_100006,Grownup Fafnir,成人法夫尼爾
-PROPMOVER_TXT_100007,Giant Fafnir,巨大法夫尼爾
+PROPMOVER_TXT_100007,Giant Fafnir,巨型法夫尼爾
 PROPMOVER_TXT_100008,Small Longwing,小長翼
 PROPMOVER_TXT_100009,Longwing,長翼
 PROPMOVER_TXT_100010,Captain Longwing,長翼頭目
-PROPMOVER_TXT_100011,Giant Longwing,巨大長翼
+PROPMOVER_TXT_100011,Giant Longwing,巨型長翼
 PROPMOVER_TXT_100012,Neparuba,尼帕魯巴
 PROPMOVER_TXT_100013,Captain Neparuba,尼帕魯巴頭目
 PROPMOVER_TXT_100014,Boss Neparuba,尼帕魯巴魔王
@@ -583,15 +583,15 @@ PROPMOVER_TXT_100015,Giant Neparuba,巨型尼帕魯巴
 PROPMOVER_TXT_100016,Small Zenma,紅蠍尖牙嘍囉
 PROPMOVER_TXT_100017,Zenma,紅蠍尖牙
 PROPMOVER_TXT_100018,Captain Zenma,紅蠍尖牙頭目
-PROPMOVER_TXT_100019,Giant Zenma,巨大紅蠍尖牙
+PROPMOVER_TXT_100019,Giant Zenma,巨型紅蠍尖牙
 PROPMOVER_TXT_100020,Small Zendros,曾德羅斯嘍囉
 PROPMOVER_TXT_100021,Zendros,曾德羅斯
 PROPMOVER_TXT_100022,Captain Zendros,曾德羅斯頭目
-PROPMOVER_TXT_100023,Giant Zendros,巨大曾德羅斯
+PROPMOVER_TXT_100023,Giant Zendros,巨型曾德羅斯
 PROPMOVER_TXT_100024,Small Medumet,美杜梅嘍囉
 PROPMOVER_TXT_100025,Medumet,美杜梅
 PROPMOVER_TXT_100026,Captain Medumet,美杜梅頭目
-PROPMOVER_TXT_100027,Giant Medumet,巨大美杜梅
+PROPMOVER_TXT_100027,Giant Medumet,巨型美杜梅
 PROPMOVER_TXT_100028,Training Dummy,訓練假人
 PROPMOVER_TXT_100029,Fire Training Dummy,消防訓練假人
 PROPMOVER_TXT_100030,Water Training Dummy,水上訓練假人
@@ -855,43 +855,43 @@ PROPMOVER_TXT_001186,Asmodan,撒旦
 PROPMOVER_TXT_001100,Small Harpy,部下神鷹 
 PROPMOVER_TXT_001102,Harpy,神鷹 
 PROPMOVER_TXT_001104,Captain Harpy,頭目神鷹 
-PROPMOVER_TXT_001106,Giant Harpy,巨大神鷹 
+PROPMOVER_TXT_001106,Giant Harpy,巨型神鷹 
 PROPMOVER_TXT_001108,Small Gullah,部下原野之靈 
 PROPMOVER_TXT_001110,Gullah,原野之靈 
 PROPMOVER_TXT_001112,Captain Gullah,頭目原野之靈 
-PROPMOVER_TXT_001114,Giant Gullah,巨大原野之靈 
+PROPMOVER_TXT_001114,Giant Gullah,巨型原野之靈 
 PROPMOVER_TXT_001116,Small Abraxas,部下飛蛾 
 PROPMOVER_TXT_001118,Abraxas,飛蛾 
 PROPMOVER_TXT_001120,Captain Abraxas,頭目飛蛾 
-PROPMOVER_TXT_001122,Giant Abraxas,巨大飛蛾 
+PROPMOVER_TXT_001122,Giant Abraxas,巨型飛蛾 
 PROPMOVER_TXT_001124,Small Hague,部下女巫 
 PROPMOVER_TXT_001126,Hague,女巫 
 PROPMOVER_TXT_001128,Captain Hague,頭目女巫 
-PROPMOVER_TXT_001130,Giant Hague,巨大女巫 
+PROPMOVER_TXT_001130,Giant Hague,巨型女巫 
 PROPMOVER_TXT_001132,Small Tengu,部下圖特 
 PROPMOVER_TXT_001134,Tengu,圖特 
 PROPMOVER_TXT_001136,Captain Tengu,頭目圖特 
-PROPMOVER_TXT_001138,Giant Tengu,巨大圖特 
+PROPMOVER_TXT_001138,Giant Tengu,巨型圖特 
 PROPMOVER_TXT_001140,Small Asterius,部下羊首獅身 
 PROPMOVER_TXT_001142,Asterius,羊首獅身 
 PROPMOVER_TXT_001144,Captain Asterius,頭目羊首獅身 
-PROPMOVER_TXT_001146,Giant Asterius,巨大羊首獅身 
+PROPMOVER_TXT_001146,Giant Asterius,巨型羊首獅身 
 PROPMOVER_TXT_001148,Small Dantalian,部下泰坦利安 
 PROPMOVER_TXT_001150,Dantalian,泰坦利安 
 PROPMOVER_TXT_001152,Captain Dantalian,頭目泰坦利安 
-PROPMOVER_TXT_001154,Giant Dantalian,巨大泰坦利安 
+PROPMOVER_TXT_001154,Giant Dantalian,巨型泰坦利安 
 PROPMOVER_TXT_001156,Small Gannessa,部下卡內薩 
 PROPMOVER_TXT_001158,Gannessa,卡內薩 
 PROPMOVER_TXT_001160,Captain Gannessa,頭目卡內薩 
-PROPMOVER_TXT_001162,Giant Gannessa,巨大卡內薩 
+PROPMOVER_TXT_001162,Giant Gannessa,巨型卡內薩 
 PROPMOVER_TXT_001164,Small Asuras,部下阿修羅 
 PROPMOVER_TXT_001166,Asuras,阿修羅 
 PROPMOVER_TXT_001168,Captain Asuras,阿修羅頭目 
-PROPMOVER_TXT_001170,Giant Asuras,巨大阿修羅 
+PROPMOVER_TXT_001170,Giant Asuras,巨型阿修羅 
 PROPMOVER_TXT_001172,Small Catsy,部下凱西貓 
 PROPMOVER_TXT_001174,Catsy,凱西貓 
 PROPMOVER_TXT_001176,Giant Catsy,頭目凱西貓 
-PROPMOVER_TXT_001178,Captain Catsy,巨大凱西貓 
+PROPMOVER_TXT_001178,Captain Catsy,巨型凱西貓 
 PROPMOVER_TXT_001218,Knight 2,騎士 2
 PROPMOVER_TXT_001220,Knight 1,騎士 1
 PROPMOVER_TXT_001221,Queen Long Legs,長腿女王
@@ -1086,12 +1086,12 @@ PROPMOVER_TXT_110125,Meral,強襲海盜隊長
 PROPMOVER_TXT_110126,Captain Meral,強襲海盜指揮官
 PROPMOVER_TXT_110127,Giant Kingster,巨型霸王蝦
 PROPMOVER_TXT_110128,Giant Kraken,巨型克拉肯
-PROPMOVER_TXT_110129,Giant Creper,巨大克雷普
+PROPMOVER_TXT_110129,Giant Creper,巨型克雷普
 PROPMOVER_TXT_110130,Giant Naga,巨型那伽
 PROPMOVER_TXT_110131,Giant Atrox,巨型巨齒蛉
 PROPMOVER_TXT_110132,Giant Okean,巨型皇冠海妖
 PROPMOVER_TXT_110133,Giant Tigar,巨型熱帶虎
-PROPMOVER_TXT_110134,Giant Dorian,巨大多利安
+PROPMOVER_TXT_110134,Giant Dorian,巨型多利安
 PROPMOVER_TXT_110135,Giant Meral,強襲海盜統帥
 PROPMOVER_TXT_110136,Violet Kingster,墮落的霸王蝦
 PROPMOVER_TXT_110137,Violet Kraken,紫羅蘭克拉肯
@@ -1468,7 +1468,7 @@ PROPMOVER_TXT_500011,Weevs,維夫斯
 PROPMOVER_TXT_500012,Small Hundur Sharpfoot,小百夏足
 PROPMOVER_TXT_500013,Hundur Sharpfoot,百夏足
 PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,百夏足首領
-PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,巨大百夏足
+PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,巨型百夏足
 PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,紫色百夏足
 PROPMOVER_TXT_500017,Small Samoset,小型薩莫塞特
 PROPMOVER_TXT_500018,Samoset,薩莫塞特
