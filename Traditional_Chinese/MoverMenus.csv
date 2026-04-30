@@ -21,7 +21,7 @@ MMI_18,Guild Statistics Rankings,公會統計排名
 MMI_21,Register Bounty,註冊懸賞金
 MMI_22,Bounty List,懸賞金名單
 MMI_24,View equipment,查看裝備
-MMI_25,Mailbox,郵件
+MMI_25,Mailbox,郵箱
 MMI_26,Apply,套用
 MMI_27,Status,狀態
 MMI_28,Cancel,取消
@@ -39,15 +39,15 @@ MMI_39,Winning Conditions,勝利條件
 MMI_40,Application Fee Information,申請費用資訊
 MMI_41,The refund of application fee,退還申請費用
 MMI_42,Cosmetic Upgrades,變化臉部造型
-MMI_44,Rock-Paper-Scissors,剪刀-石頭-布
+MMI_44,Rock-Paper-Scissors,剪刀石頭布
 MMI_49,Pet State,寵物狀態
 MMI_50,Un-summon pet,取消召喚寵物
 MMI_51,Create Shining Power Dice,製作閃耀的能量骰子
 MMI_53,Create Jewels,製作寶石
-MMI_54,Create Unique Weapon,製作獨特武器
+MMI_54,Create Unique Weapon,製作傳說武器
 MMI_59,Remove Element,移除元素
 MMI_71,Remove Level Reduction,移除裝備降等效果
-MMI_74,Get Buffed!,獲得 Buff！
+MMI_74,Get Buffed!,獲得增益！
 MMI_75,Exchange Rare Item Pieces,交換稀有物品碎片
 MMI_76,Exchange Card Pieces,交換卡片碎片
 MMI_79,Remove Premium Item Blessing,移除女神祝福
@@ -112,7 +112,7 @@ MMI_1046,FWC PVP Ranking,FWC PVP 排名
 MMI_1048,Spectate FWC PVP Contest,觀看 FWC PVP 比賽
 MMI_1049,Rock Paper Scissors,剪刀石頭布
 MMI_1050,W-Token Shop,W 代幣商店
-MMI_1051,Costume Box Upgrade,服裝箱升級
+MMI_1051,Costume Box Upgrade,時裝盒升級
 MMI_1054,Exchange Rings,交換戒指
 MMI_1055,Dismantle Item,分解物品
 MMI_1056,Purchase Guild Ship,購買公會飛船
@@ -125,7 +125,7 @@ MMI_1062,Remove,移除
 MMI_1063,Exchange Earrings,交換耳環
 MMI_1064,Exchange Necklaces,交換項鍊
 MMI_1065,Rainbow Race,彩虹競賽
-MMI_1066,Create Ultimate Weapon,製作終極武器
+MMI_1066,Create Ultimate Weapon,製作究極武器
 MMI_1069,Open Guest Book,打開留言簿
 MMI_1070,Orphanage Keeper Shop,孤兒守護者商店
 MMI_1071,Kalgas Assault Registration,卡爾加斯突擊戰登記
@@ -154,7 +154,7 @@ MMI_1093,Enter Madrigal Tournament,進入瑪德利賈錦標賽
 MMI_1094,Madrigal Tournament Ranking,瑪德利賈錦標賽排名
 MMI_1095,Madrigal Tournament Reward,瑪德利賈錦標賽獎勵
 MMI_1096,Madrigal Tournament Bidding,瑪德利賈錦標賽競標
-MMI_1097,Remove Ultimate Jewel,移除終極寶石
+MMI_1097,Remove Ultimate Jewel,移除終極寶石/符文
 MMI_1098,Customize,個人化
 MMI_1099,Enter Couple House,進入情侶小屋
 MMI_1100,Select Couple House Template,選擇情侶小屋模板

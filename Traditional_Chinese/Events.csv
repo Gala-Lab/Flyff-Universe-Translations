@@ -3,14 +3,14 @@ UI_EVENT_EXPBOOST,EXP Boost!,經驗值加成提升！
 UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,飾品升級！
 UI_EVENT_WEAPONPIERCING,Weapon Piercing!,武器穿洞！
 UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,劇團的經驗值提升！
-UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,發現黃金獨眼蝙蝠！
-UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中獵殺黃金獨眼蝙蝠並獲得物品掉落率加成！
+UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,尋找黃金獨眼蝙蝠！
+UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中擊殺黃金獨眼蝙蝠，獲得更高的掉寶率！
 UI_EVENT_NIGHTBOOST,Night Boost!,夜間提升！
 UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,遊戲中夜間經驗值加成 +30%！
 UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,夜幕降臨了！經驗值加成 x1.3 倍！
 UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...",太陽出來了，經驗值加成 x1.3 倍結束了…
 UI_EVENT_EASTER,Easter Event,復活節活動
-UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,完成蛋蛋樂草原即可獲得粉紅色復活節彩蛋！
+UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,完成彩蛋草甸即可獲得粉紅色復活節彩蛋！
 UI_EVENT_SPRING,Spring Event!,春天活動！
 UI_EVENT_DIAMONDINTHESKY,Diamond in the Sky,天空中的鑽石
 UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,摧毀夜空中的星星以獲得星星碎片！
@@ -25,16 +25,16 @@ UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive r
 UI_EVENT_FWC,Flyff World Championship,Flyff 世界錦標賽
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,FWC 等級達成
 UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,活動期間達到新等級並獲得獎勵！僅限 Flyff 世界錦標賽伺服器！
-UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,在 [FWC Manager] Ava 處兌換 FWC 裝備即可獲得更多獎勵！
-UI_EVENT_FWC_DESC,The #bFlyff World Championship#nb is a global competition. Join this server with boosted EXP and Drops and compete for exceptional prizes!,#bFlyff 世界錦標賽#nb 是一項全球性賽事，將於 2023 年 9 月 7 日結束。加入此伺服器，即可獲得經驗和物品掉落率加成，並贏得豐厚獎品！
+UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,在 [FWC 管理員] 艾娃處兌換 FWC 裝備即可獲得更多獎勵！
+UI_EVENT_FWC_DESC,The #bFlyff World Championship#nb is a global competition. Join this server with boosted EXP and Drops and compete for exceptional prizes!,#bFlyff 世界錦標賽#nb 是一項全球性賽事，將於 2023 年 9 月 7 日結束。加入此伺服器，即可獲得經驗和物品掉落率，並贏得豐厚獎品！
 UI_EVENT_MOCOMOCHI,Mocomochi!,摩可摩奇！
 UI_EVENT_UPGRADING,Upgrading!,強化升級！
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,幸運抽獎！
 UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quests, then spend them at the Gacha Machine to receive exceptional rewards!",透過擊敗怪物或完成扭蛋機 NPC 的任務來賺取金幣並獲得特殊獎勵！
-UI_EVENT_DROPBOOST,Drop Boost!,物品掉落率加成提升！
+UI_EVENT_DROPBOOST,Drop Boost!,物品掉落率提升！
 UI_EVENT_SUITPIERCING,Suit Piercing!,衣服穿洞！
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff 音樂祭！
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,從怪物身上收集音符和樂譜捲軸並與 NPC 巴赫交換。
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,從怪物身上收集音符和樂譜卷軸並與 NPC 巴赫交換。
 UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,經驗值加成 +30%！
 UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,劇團的經驗值 +30%！
 UI_EVENT_SECRETBOOST,Secret Boost!,秘密提升！
@@ -52,8 +52,8 @@ UI_EVENT_TRICKORTREAT,Trick or Treat,不給糖就搗蛋
 UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,萬聖節世界魔王
 UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,抓住聖誕老人小偷
 UI_EVENT_NEWYEAR,New Year,新年
-UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,首領物品掉落率加成提升！
-UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本首領物品掉落率加成 +20%！
+UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,首領掉寶率提升！
+UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,副本首領掉寶率 +20%！
 UI_EVENT_WEATHERBOOST,Weather Boost!,天氣提升！
 UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,v1.3 更新調查！爭取特別獎勵！
 UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,克隆雪人的攻擊
@@ -73,7 +73,7 @@ UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all 
 UI_EVENT_ANNIVERSARY2_CAKE,Cake,蛋糕
 UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,傳奇的情侶戒指
 UI_EVENT_EXPBOOST_DESC_100,Experience x2!,經驗值加成 x2 倍！
-UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,物品掉落率加成 x2 倍！
+UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,物品掉落率 x2 倍！
 UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,副本冷卻時間
 UI_EVENT_UPGRADEBOOST,Upgrade Boost!,強化升級提升！
 UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,強化升級機率 x2 倍！
@@ -110,7 +110,7 @@ UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,三週年世界首
 UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC 預測活動
 UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC 預測活動！
 UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,是時候強化升級了！
-UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,活動期間，成功將一件物品升級至 +1 至 +10 的等級即可獲得獎勵。 完成全部 10 個階段即可獲得終極飾品選擇箱。
+UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,活動期間，成功將一件物品升級至 +1 至 +10 的等級即可獲得獎勵。 完成全部 10 個階段即可獲得究極飾品選擇箱。
 UI_EVENT_PTS,Public Test Server,公開測試伺服器
 UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.",物品掉落率提升，副本冷卻時間縮短，還有更多精彩內容！請造訪 Discord 以獲取更多資訊。
 UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 年情人節

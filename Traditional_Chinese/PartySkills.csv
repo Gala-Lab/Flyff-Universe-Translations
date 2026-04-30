@@ -6,11 +6,11 @@ PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a tar
 PROPTROUPESKILL_TXT_000004,Retreat,撤退
 PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,團長命令團員撤退。
 PROPTROUPESKILL_TXT_000008,Precision,精準
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升團長周圍所有團員下一次攻擊的爆擊率 (0.5% x 團員數量)。
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升團長周圍所有團員下一次攻擊的暴擊率 (0.5% x 團員數量)。
 PROPTROUPESKILL_TXT_000010,Linked Attack,聲援團長
 PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,每位在團長周圍的團員，會為團長提供 5% 的傷害加成。
 PROPTROUPESKILL_TXT_000012,Lucky Drop,幸運降臨
-PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,增加怪物獨特物品掉落率。
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,增加怪物寶物掉落率。
 PROPTROUPESKILL_TXT_000014,Resting,寂靜的祝福
 PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",讓劇團成員的恢復速度提升為 1.5 倍。如果團長的職業是神職者，則恢復速度提升為 1.8 倍。
 PROPTROUPESKILL_TXT_000016,Gift Box,愛的禮物
