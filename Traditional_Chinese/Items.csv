@@ -19539,7 +19539,7 @@ PROPITEM_TXT_826198,Dance 11 Emote,舞蹈 11 表情動作
 PROPITEM_TXT_826199,Provides a new emote for your character!,為你的角色新增一種表情動作！
 PROPITEM_TXT_826200,Card and Dice Bag,卡片與骰子收納袋
 PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",這個袋子可為你額外提供 10 個卡片、卡片碎片、骰子及骰子碎片的物品欄位。
-PROPITEM_TXT_145000,Blessing of the Demon,惡魔的祝福
+PROPITEM_TXT_145000,Blessing of the Demon,惡魔契印
 PROPITEM_TXT_145001,Card and Dice Bag,卡片與骰子收納袋
 PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",這個袋子可為你額外提供 10 個卡片、卡片碎片、骰子及骰子碎片的物品欄位。
 PROPITEM_TXT_145003,Pet Reroll Scroll,寵物重置卷軸
@@ -19809,7 +19809,7 @@ PROPITEM_TXT_201076,Shop Advertisement (Purple),商店廣告 (紫色)
 PROPITEM_TXT_201077,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a purple adorner. It is consumed when opening the shop and disappears when closing it.,此卷軸可讓你的個人商店或販售商店以紫色標記顯示在搜尋商店結果的最上方。開啟商店時會消耗，關閉商店後效果消失。
 PROPITEM_TXT_201078,Shop Advertisement (Pink),商店廣告 (粉色)
 PROPITEM_TXT_201079,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a pink adorner. It is consumed when opening the shop and disappears when closing it.,此卷軸可讓你的個人商店或販售商店以粉色標記顯示在搜尋商店結果的最上方。開啟商店時會消耗，關閉商店後效果消失。
-PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),可為商城時裝與披風附加額外屬性。目標道具會變為不可交易，除非使用女神的祝福覆寫該狀態。 (無法透過寶石管理員 Peach 移除)
+PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),可為商城時裝與披風附加額外屬性。目標道具會變為不可交易，除非使用女神賜福覆寫該狀態。 (無法透過寶石管理員 Peach 移除)
 PROPITEM_TXT_201082,Kalgas' Fury Sword,卡爾加斯之怒劍
 PROPITEM_TXT_201083,Kalgas' Fury Axe,卡爾加斯之怒斧
 PROPITEM_TXT_201084,Kalgas' Fury Big Sword,卡爾加斯之怒巨劍
@@ -20205,7 +20205,7 @@ PROPITEM_TXT_826642,"A package containing 10x The Seeds of Love, 1x Scroll of Pi
 PROPITEM_TXT_826643,Christmas Special  Package 2,聖誕特別禮包 2
 PROPITEM_TXT_826644,"A package containing 10x The Seeds of Love, 1x Nitro Booster (7 Days) and 1x Piyoko. All items are also linked.",禮包內含 10x 愛之種子、1x 氮氣加速器 (7 天)，以及 1x 皮悠凱。所有物品皆為綁定。
 PROPITEM_TXT_826645,Candy Cane Costume Return Package,糖杖時裝回歸禮包
-PROPITEM_TXT_826646,"A package containing 1x Candy Cane Costume Lucky Box, 3x Blessing of the Goddess and 10x Elemental Attack Stone Select Box. All items are also linked.",禮包內含 1x 糖杖時裝幸運箱、3x 女神的祝福，以及 10x 屬性攻擊石選擇箱。所有物品皆為綁定。
+PROPITEM_TXT_826646,"A package containing 1x Candy Cane Costume Lucky Box, 3x Blessing of the Goddess and 10x Elemental Attack Stone Select Box. All items are also linked.",禮包內含 1x 糖杖時裝幸運箱、3x 女神賜福，以及 10x 屬性攻擊石選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_826647,Baby Cobra Set,幼年眼鏡蛇套組
 PROPITEM_TXT_826648,A package containing 1x Baby Cobra and 1x Scroll of PickUp Boost (15 Days). All items are also linked.,禮包內含 1x 幼年眼鏡蛇與 1x 自動拾取加速卷軸 (15 天)。所有物品皆為綁定。
 PROPITEM_TXT_826649,Snake Hunting Pack,獵蛇禮包
@@ -20232,7 +20232,7 @@ PROPITEM_TXT_826669,"First reward for New Year Event!\nYou can earn 5x Upcut Sto
 PROPITEM_TXT_826670,[Event] 2025 New Year Gift Box 2,[活動] 2025 新年禮盒 2
 PROPITEM_TXT_826671,"Second reward for New Year Event!\nYou can earn 1x Ad product selection box, 1x Angel Vendor Shop 7 days, 1x Scroll of Gprotect or Power Scroll, and 10x Wandering Merchant Refresh Ticket",新年活動的第二階段獎勵！\n 可獲得 1x 廣告商品選擇箱、1x 天使商店 (7 天)、1x Gprotect 卷軸或力量卷軸，以及 10x 流浪商人刷新券。
 PROPITEM_TXT_826672,[Event] 2025 New Year Gift Box 3,[活動] 2025 新年禮盒 3
-PROPITEM_TXT_826673,"This is the Third Reward for the Year of the Snake Event. Within this gift box, you'll receive the following; 1x Snake Samurai Greent Set, 5x Blessing of the Demon, and 2x Pet Transmute",這是蛇年活動的第三階段獎勵。開啟此禮盒後，你將獲得以下道具：1x 蛇武士綠色套裝、5x 惡魔的祝福，以及 2x 寵物轉化道具。
+PROPITEM_TXT_826673,"This is the Third Reward for the Year of the Snake Event. Within this gift box, you'll receive the following; 1x Snake Samurai Greent Set, 5x Blessing of the Demon, and 2x Pet Transmute",這是蛇年活動的第三階段獎勵。開啟此禮盒後，你將獲得以下道具：1x 蛇武士綠色套裝、5x 惡魔契印，以及 2x 寵物轉化道具。
 PROPITEM_TXT_826674,Ad product selection box,廣告商品選擇箱
 PROPITEM_TXT_826675,You can get 1 from a variety of advertisement products,可從多種廣告商品中選擇獲得 1 項。
 PROPITEM_TXT_826686,Northern Warrior Black Hat (M),北境戰士黑色帽子 (男)
@@ -24801,7 +24801,7 @@ PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scrol
 PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),究極之力幸運盒卷軸 (1-100)
 PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,打開這個盒子你就有機會獲得 1 到 100 究極之力卷軸。
 PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),女神與惡魔的福盒 (1-100)
-PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,打開這個盒子你就有機會獲得 1 到 100 女神或惡魔的祝福。
+PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,打開這個盒子你就有機會獲得 1 到 100 女神或惡魔契印。
 PROPITEM_TXT_134990,Cloak of Equilibrium,平衡斗篷
 PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.",一件華麗的斗篷，可以在有限的時間內提供強大的力量。一款平衡性良好的斗篷，可增強整體能力。斗篷上的選項將在 1.5 版本後刪除，僅作為裝飾物品。
 PROPITEM_TXT_134992,Cloak of Ascension,飛升斗篷

@@ -1441,7 +1441,7 @@ UI_PARTY_EXPBONUS,EXP Bonus,經驗值加成
 UI_PARTY_EXPBONUS_TIP,"EXP bonus for party members. Active members are those participating in combat. Contributions include attacking, healing, and tanking.",劇團成員可獲得的經驗值加成。活躍成員是指參與戰鬥的成員，包括攻擊、治癒與承受傷害。
 UI_PARTY_EXPBONUS_ACTIVE,x Active,參與人員
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,被祝福的物品不能被丟棄或交易。
-UI_TOOLTIP_BLESSING,Goddess Blessing,女神的祝福
+UI_TOOLTIP_BLESSING,Goddess Blessing,女神賜福
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,單擊攻擊
 UI_GEM_CREATE,Extract,抽取
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,戰鬥力排名
@@ -2761,12 +2761,12 @@ UI_PRIVATE_SHOP_ADS,Shop Advertisement:,商店廣告物品：
 UI_SEARCHSHOP_ADVERTISED,Advertised,廣告
 UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,您的商店廣告物品將會被消耗。
 UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,您的商店廣告物品無法重複使用。
-UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神的祝福
-UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,惡魔的祝福
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,惡魔祝福
+UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神賜福
+UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,惡魔契印
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,惡魔契印
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,寵物銀行空間
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,使用祝福?
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,使用祝福後，物品將在祝福生效期間與綁定。繼續嗎? 女神的祝福可以由寶石管理員 NPC 移除。
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,使用祝福後，物品將在祝福生效期間與綁定。繼續嗎? 女神賜福可以由寶石管理員 NPC 移除。
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.",尚未完全理解此配方，因此每種材料只會使用 1 個。
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,任務已完成
 UI_TELEPORT_ARENA,Exit the arena?,離開競技場?
