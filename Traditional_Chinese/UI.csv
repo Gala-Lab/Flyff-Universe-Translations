@@ -2725,7 +2725,7 @@ UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,進行煉金
 UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,進行木工 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,鍛造道具 #cffc32f07#b%d/%d#nb#nc
 UI_CHAT_COPYNAME,Copy name,複製名稱
-UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,彩虹競速將於 %d 分鐘後開始。\n你無法在目前頻道參加彩虹競速。\n\n請透過位於 %s 達肯的彩虹競速管理員 NPC 進入。\n\n按下確定可移動至 %s。
+UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,彩虹競速將於 %d 分鐘後開始。\n你無法在目前頻道參加彩虹競速。\n\n請透過位於 %s 得肯的彩虹競速管理員 NPC 進入。\n\n按下確定可移動至 %s。
 UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,彩虹競速將於 %d 分鐘後開始。\n你無法在目前頻道參加彩虹競速。\n\n按下確定可移動至 %s。
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,彩虹競速已開始。\n你無法在目前頻道參加彩虹競速。\n\n按下確定可移動至 %s。
 UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,要立即進入彩虹競速嗎？
