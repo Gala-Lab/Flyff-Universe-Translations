@@ -1167,11 +1167,11 @@ UI_SEARCHGUILD_TITLE,Search Guild,搜尋公會
 UI_GROUPSEARCH,Search,搜尋
 UI_TOOLTIP_TRANSMUTE,Transmutation:,外觀轉換：
 UI_TOOLTIP_RARITY,Rarity:,稀有度：
-UI_TOOLTIP_RARITY_NORMAL,Common,一般
-UI_TOOLTIP_RARITY_RARE,Uncommon,罕見
+UI_TOOLTIP_RARITY_NORMAL,Common,普通
+UI_TOOLTIP_RARITY_RARE,Uncommon,精良
 UI_TOOLTIP_RARITY_STRONG,Rare,稀有
-UI_TOOLTIP_RARITY_UNIQUE,Unique,特殊
-UI_TOOLTIP_RARITY_VERYRARE,Very Rare,非常稀有
+UI_TOOLTIP_RARITY_UNIQUE,Unique,傳說
+UI_TOOLTIP_RARITY_VERYRARE,Very Rare,史詩
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,終極
 UI_WORLD_CASTING,Casting,施法中
 UI_WORLD_HARVESTING,Harvesting,收成
@@ -1460,7 +1460,7 @@ UI_TOOLTIP_DURATION_VENDOR,Shop Time:,商店時間：
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,可套用在另一件披風上。
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,僅限 GM 登入，請使用一般客戶端遊玩。
 UI_CONVERTWEAP_WEAPON,Weapon,武器
-UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在視窗放置一般武器即可將其升級為特殊武器。
+UI_CONVERTWEAP_WEAPON_TIP,Insert a common weapon to upgrade it to a Unique weapon.,在視窗放置一般武器即可將其升級為傳說武器。
 UI_CONVERTWEAP_DICE,Shining Power Dice,閃耀的能量骰子
 UI_CONVERTWEAP_DICE_TIP,You need to use Shining Power Dice.,你需要使用閃耀的能量骰子。
 UI_CONVERTWEAP_GEM,Jewel,寶石
