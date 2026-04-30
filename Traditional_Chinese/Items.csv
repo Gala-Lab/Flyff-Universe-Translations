@@ -6520,10 +6520,10 @@ PROPITEM_TXT_010539,"Increases Max HP by +300 and Attack Power by 10% for 1 hour
 PROPITEM_TXT_010540,Ancient Flowerpot of Love,古老的愛情盆栽
 PROPITEM_TXT_010541,"Increases Max HP by +300, Attack Power by 15%, and Exp gain by 10% for 1 hour. Once expired, the item is consumed.",最大上限 HP+300 和攻擊力 +15%，持續 1 小時，時間一到將會消失
 PROPITEM_TXT_010574,Power Scroll,力量卷軸
-PROPITEM_TXT_010575,"Increases your Health Points (HP) by +150 and your Attack Power (ATK) by +100 for one hour. Once it wears off, it becomes a Charged Power Scroll.",HP+150 和攻擊力 +100，持續 1 小時，時間一到將會變成超級力量卷軸
-PROPITEM_TXT_010576,Charged Power Scroll,超級力量卷軸
-PROPITEM_TXT_010577,"Increases your Health Points (HP) by +300 and your Attack Power (ATK) by +200 for one hour. Once it wears off, it becomes a Super Charged Power Scroll.",HP+300 和攻擊力 +200，持續 1 小時，時間一到將會變成究極力量卷軸
-PROPITEM_TXT_010578,Super Charged Power Scroll,究極力量卷軸
+PROPITEM_TXT_010575,"Increases your Health Points (HP) by +150 and your Attack Power (ATK) by +100 for one hour. Once it wears off, it becomes a Charged Power Scroll.",HP+150 和攻擊力 +100，持續 1 小時，時間一到將會變成充能力量卷軸
+PROPITEM_TXT_010576,Charged Power Scroll,充能力量卷軸
+PROPITEM_TXT_010577,"Increases your Health Points (HP) by +300 and your Attack Power (ATK) by +200 for one hour. Once it wears off, it becomes a Super Charged Power Scroll.",HP+300 和攻擊力 +200，持續 1 小時，時間一到將會變成超能力量卷軸
+PROPITEM_TXT_010578,Super Charged Power Scroll,超能力量卷軸
 PROPITEM_TXT_010579,Increases your Health Points (HP) by +600 and your Attack Power (ATK) by +300 for one hour.,HP+600 和攻擊力 +300，持續 1 小時
 PROPITEM_TXT_008924,Blessing of the Goddess,女神祝福
 PROPITEM_TXT_008925,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless the blessing is removed by Jewel Manager Peach in Flarine.,對高級商店的外觀物品和披風附加能力，物品將會變成無法交易狀態，除非到 [寶石專家] 波奇那移除效果
@@ -16009,9 +16009,9 @@ PROPITEM_TXT_725138,A package containing 1x Baby Penguin and 1x Scroll of PickUp
 PROPITEM_TXT_725139,Gift of the Champion (3 Days),冠軍禮物 (3 天)
 PROPITEM_TXT_725140,"A package containing 1x Champion's Bounty Flask (3 Days), 3x Power Scroll, 5x Vital Drink X or Refresher Hold and 10x Activation. All items are also linked.",內含 1x 冠軍賞金強效藥水瓶 (3 天)、3x 力量卷軸、5x 無限活力多或無限魔力多與 10x 無限技能卷。所有物品皆為綁定。
 PROPITEM_TXT_725141,Gift of the Champion (15 Days),冠軍禮物 (15 天)
-PROPITEM_TXT_725142,"A package containing 1x Champion's Bounty Flask (15 Days), 3x Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activation. All items are also linked.",內含 1x 冠軍賞金強效藥水瓶 (15 天)、3x 超級力量卷軸、10x 無限活力多或無限魔力多與 10x 無限技能卷。所有物品皆為綁定。
+PROPITEM_TXT_725142,"A package containing 1x Champion's Bounty Flask (15 Days), 3x Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activation. All items are also linked.",內含 1x 冠軍賞金強效藥水瓶 (15 天)、3x 充能力量卷軸、10x 無限活力多或無限魔力多與 10x 無限技能卷。所有物品皆為綁定。
 PROPITEM_TXT_725143,Gift of the Champion (30 Days),冠軍禮物 (30 天)
-PROPITEM_TXT_725144,"A package containing 1x Champion's Bounty Flask (30 Days), 5x Super Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activation. All items are also linked.",內含 1x 冠軍賞金強效藥水瓶 (30 天)、5x 究極力量卷軸、10x 無限活力多或無限魔力多與 10x 無限技能卷。所有物品皆為綁定。
+PROPITEM_TXT_725144,"A package containing 1x Champion's Bounty Flask (30 Days), 5x Super Charged Power Scroll, 10x Vital Drink X or Refresher Hold and 10x Activation. All items are also linked.",內含 1x 冠軍賞金強效藥水瓶 (30 天)、5x 超能力量卷軸、10x 無限活力多或無限魔力多與 10x 無限技能卷。所有物品皆為綁定。
 PROPITEM_TXT_725145,Luxury Housing Pack,豪華住宅包
 PROPITEM_TXT_725146,Luxury Housing Pack,豪華住宅包
 PROPITEM_TXT_725147,Luxury Housing Pack,豪華住宅包
