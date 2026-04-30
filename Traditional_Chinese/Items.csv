@@ -2570,19 +2570,19 @@ PROPITEM_TXT_004650,Scroll of Name Change,改名卷軸
 PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.",讓玩家變更角色名稱。雙擊右鍵使用，然後重新選擇角色名稱後，按下 OK 即可。
 PROPITEM_TXT_004652,Scroll of Class Change,轉職卷軸
 PROPITEM_TXT_004653,Changes Job,可以轉其他職業
-PROPITEM_TXT_004654,Scroll of Holy,神聖的卷軸
+PROPITEM_TXT_004654,Scroll of Holy,神聖卷軸
 PROPITEM_TXT_004655,Recovers from any negative status condition.,可從異常狀況中恢復
-PROPITEM_TXT_004656,Scroll of Forgive,寬恕的卷軸
+PROPITEM_TXT_004656,Scroll of Forgive,寬恕卷軸
 PROPITEM_TXT_004657,Reduces PK Value,紅人使用時，可以幫助紅人消失一個階段的惡名點數
 PROPITEM_TXT_004658,Scroll of Selected Party,特優劇團卷軸
 PROPITEM_TXT_004659,Upgrade Party Level to 10,劇團等級直接提升到 10 級
 PROPITEM_TXT_004660,Box of Change,幻化之箱
 PROPITEM_TXT_004661,Contains a Scroll of Name Change and Transy,變性卷軸+改名卷軸
-PROPITEM_TXT_004662,Scroll of Blessing,祝福的卷軸
+PROPITEM_TXT_004662,Scroll of Blessing,祝福卷軸
 PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),使用後馬上變為祝福狀態，祝福狀態時死亡不會失去經驗值，祝福狀態可以維持到角色死亡。 (紅人狀態下死亡，將會保留原本死亡後所喪失經驗值之 10%)
 PROPITEM_TXT_004664,Scroll of Resurrection,復活卷軸
 PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)",角色死亡時身上有此物品可原地立即復活並且不會失去經驗值。 (紅人狀態下死亡，將會保留原本死亡後所喪失經驗值之 10%)
-PROPITEM_TXT_004666,Scroll of Velocity,敏銳的卷軸
+PROPITEM_TXT_004666,Scroll of Velocity,敏銳卷軸
 PROPITEM_TXT_004667,Increases Moving Speed by 30% and Jump Height,增加 30% 的移動速度和跳躍高度
 PROPITEM_TXT_004668,Box of Lucky,幸運之箱
 PROPITEM_TXT_004669,What on earth is in this box?,猜猜裡面有什麼?
@@ -3055,7 +3055,7 @@ PROPITEM_TXT_005422,Mysterious Red Gem,神秘的紅寶石
 PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,[任務道具] 在巴布樂平原中發現的紅色寶石。
 PROPITEM_TXT_005424,Book of Laola,拉宇的著作
 PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,[任務道具] 拉宇的著作，對於高譚提拉來說非常有參考價值。
-PROPITEM_TXT_005426,Scroll of Gothante,高譚提拉的卷軸
+PROPITEM_TXT_005426,Scroll of Gothante,高譚提拉卷軸
 PROPITEM_TXT_005427,Quest Item: Scroll with important information for Matinyc.,[任務道具] 高譚提拉寫好，要交給馬特尼提特的重要訊息。
 PROPITEM_TXT_005464,Soulstone of Hero,英雄的靈魂石
 PROPITEM_TXT_005465,Quest Item: Gem with a piece of a Hero's soul in it.,[任務道具] 擁有英雄的靈魂的寶石。
@@ -4071,7 +4071,7 @@ PROPITEM_TXT_007465,"Quest Item: A rubbed copy of the Iblis Revelation, depictin
 PROPITEM_TXT_007466,Pattern of Iblis Guardian,伊普里司的紋樣
 PROPITEM_TXT_007467,Quest Item: A special pattern protected by the Iblis Guardian.,[任務道具] 守護伊普里司祭壇的怪物，所掉落的紋樣
 PROPITEM_TXT_007468,Ex Scroll of Amplification ES (A),特殊經驗值加成卷軸 ES
-PROPITEM_TXT_007470,Scroll of Blessing (Event),特殊祝福的卷軸 (歸屬)
+PROPITEM_TXT_007470,Scroll of Blessing (Event),特殊祝福卷軸 (歸屬)
 PROPITEM_TXT_007471,Prevents the loss of Exp. through death,"一使用就變成祝福的狀態,如果在祝福的狀態下玩家死亡時，不會掉經驗值"
 PROPITEM_TXT_007472,Riding Cloud Box,飛行禮物盒 (筋斗雲)
 PROPITEM_TXT_007473,Contains random items and a small chance for a Riding Cloud,含有隨機道具並有小機率獲得筋斗雲
@@ -7275,7 +7275,7 @@ PROPITEM_TXT_100715,Low Grilled Eel,低等鰻魚
 PROPITEM_TXT_100716,Provides +25% HP for 30 minutes.,提供 +25% 生命值，持續 30 分鐘。
 PROPITEM_TXT_100717,Low Upcut Stone,低等力量之石
 PROPITEM_TXT_100718,"A Magic Stone that increases your Attack Power (ATK) by 10%. Lasts 1 Hour. If you listen closely, you can hear it humming slightly.",增加攻擊力 (ATK) 10% 的魔法石，持續 1 小時。 如果你仔細聽，你可以聽到它輕微的嗡嗡聲。
-PROPITEM_TXT_100719,Low Scroll of Velocity,低等敏銳的卷軸
+PROPITEM_TXT_100719,Low Scroll of Velocity,低等敏銳卷軸
 PROPITEM_TXT_100720,Increases Moving Speed by 15% and Jump Height,增加 15% 的移動速度和跳躍高度
 PROPITEM_TXT_100721,Low Def-Upcut Stone,低等防禦之石
 PROPITEM_TXT_100722,Adds 10% Defense for 1 hour.,增加 10% 防禦，持續 1 小時。
@@ -9040,7 +9040,7 @@ PROPITEM_TXT_200145,"Contains several useful items for the average adventurer in
 PROPITEM_TXT_200146,Silver Lucky Box,銀色幸運箱
 PROPITEM_TXT_200147,"Contains several useful items for the average adventurer including Scrolls of Amplification ES, Flask box and Vital Drink X or Refresher Hold select box.",包含幾個對普通冒險家有用的道具，包括經驗加成卷軸、藥水箱和無限活力多或無限魔力多選擇箱。
 PROPITEM_TXT_200148,Bronze Lucky Box,銅色幸運箱
-PROPITEM_TXT_200149,"Contains several useful items for the average adventurer including Bull Hamstern, Elixir box and Scrolls of Velocity.",包含一些對普通冒險家有用的道具，包括飛鼠肉，藥水箱和敏銳的卷軸。
+PROPITEM_TXT_200149,"Contains several useful items for the average adventurer including Bull Hamstern, Elixir box and Scrolls of Velocity.",包含一些對普通冒險家有用的道具，包括飛鼠肉，藥水箱和敏銳卷軸。
 PROPITEM_TXT_200150,$250 Golden Ticket,$250 的黃金門票
 PROPITEM_TXT_200151,Congratulations! Winning this item will earn you a real $250.00 gift card at the end of the Lottery Wheel event!,恭喜！贏得此項目將在彩票轉輪活動結束時，為您贏得一張真正的 $250 元禮品卡！
 PROPITEM_TXT_200152,Lottery Coin,彩票幣
@@ -15663,7 +15663,7 @@ PROPITEM_TXT_724814,Fake Couple Ring,假情侶戒指
 PROPITEM_TXT_724815,A ring that look very similar to the legendary couple ring. Let's take this to Defconn for now,一枚與傳說中的情侶戒指非常相似的戒指。現在先把它帶去給迪康吧。
 PROPITEM_TXT_724816,Defconn's Reward Box,迪康活動專屬獎勵禮盒道具
 PROPITEM_TXT_724817,"This is a reward box given to you by Defcon as a reward for your efforts. When used, you can get 1 of various rewards based on chances.",這是迪康送給您的獎勵箱，作為您努力的獎勵。使用時，根據機率可以獲得 1 種各式獎勵。
-PROPITEM_TXT_724818,Vagrant's Scroll Bag,流浪者的卷軸包
+PROPITEM_TXT_724818,Vagrant's Scroll Bag,流浪者卷軸包
 PROPITEM_TXT_724819,"A package containing 10x Scroll of Return Town, 10x Scroll of Resurrection, 10x Scroll of Velocity and 10x Activation. All items are also linked.",內含 10x 回城卷軸、10x 復活卷軸、10x 速度卷軸與 10x 無限技能卷軸。所有物品皆為綁定。
 PROPITEM_TXT_724820,Space Engineer 10% Green Set,太空工程師綠色套裝 10%
 PROPITEM_TXT_724821,Space Engineer 10% Green Set (M),太空工程師綠色套裝 10% (男)
@@ -26590,13 +26590,13 @@ PROPITEM_TXT_903680,White Nala,白色虎紋娜菈
 PROPITEM_TXT_903681,Blue Nala,藍色虎紋娜菈
 PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.",娜菈帶著狂野熱情與無畏決心勇往直前。比起謹慎，這位虎紋夥伴更顯得躍躍欲試，以無與倫比的活力與忠誠決心載著騎乘者奔赴冒險。最高速度：64 km/h。
 PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 支援套組]
-PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ",內含 1x 生活風格背包選擇箱 (15 天)、2x 背包擴充 (7 天)、2x 復活卷軸、2x 敏銳的卷軸、3x 防禦之石與 3x 力量卷軸。所有物品皆為綁定。
+PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ",內含 1x 生活風格背包選擇箱 (15 天)、2x 背包擴充 (7 天)、2x 復活卷軸、2x 敏銳卷軸、3x 防禦之石與 3x 力量卷軸。所有物品皆為綁定。
 PROPITEM_TXT_903685,Extra Bag (7 days),背包擴充 (7 天)
 PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,為角色增加 24 個攜帶欄位上限。同時間最多只能使用 2 個。持續 7 天。
 PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 MyCard 平台促銷活動禮盒 A 款道具
 PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.",內含 10x 瑪德利賈回城卷軸、5x 藥劑箱、5x 力量之石、5x 無限活力多或無限魔力多、5x 無限技能卷軸、5x 蒲燒鰻魚與 1x [20~140] 經驗加成卷軸 ES 選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 MyCard 平台促銷活動禮盒 B 款道具
-PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.",內含 3x 敏銳的卷軸、2x 元素攻擊石選擇箱、2x 氣球選擇箱 (6 小時)、5x 力量卷軸、1x 背包擴充 (15 天)、3x [20~160] 經驗加成卷軸 ES 選擇箱、1x 玫瑰粉浴衣套裝選擇箱與 1x 幸運招財貓武器套組。所有物品皆為綁定。
+PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.",內含 3x 敏銳卷軸、2x 元素攻擊石選擇箱、2x 氣球選擇箱 (6 小時)、5x 力量卷軸、1x 背包擴充 (15 天)、3x [20~160] 經驗加成卷軸 ES 選擇箱、1x 玫瑰粉浴衣套裝選擇箱與 1x 幸運招財貓武器套組。所有物品皆為綁定。
 PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 MyCard 平台促銷活動禮盒 C 款道具
 PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.",內含 4x 元素攻擊石選擇箱、5x 藥水箱、2x 力量卷軸、1x 寵物重置卷軸、1x 背包擴充 (30 天)、4x [20~160] 經驗加成卷軸 ES 選擇箱、1x 魔法兒童紅色武器套組與 1x 夢幻守護者套裝 10% 紅色。所有物品皆為綁定。
 PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,玫瑰粉浴衣套裝選擇箱
