@@ -1090,7 +1090,7 @@ TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,此
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,嗚…精煉大失敗了…
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,恭喜！精煉大成功！
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,此物品無法對目標使用。
-TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器商店的「製作終極武器」選單中使用此物品。
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器商店的「製作究極武器」選單中使用此物品。
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,您必須先選擇目標物品。
 TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,您必須是公會成員才能競標公會飛船。
 TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,只有公會會長才能購買公會飛船。
@@ -1352,7 +1352,7 @@ TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.
 TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,無法進入瑪德利賈錦標賽。
 TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,該物品不允許鑲嵌寶石。
 TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,該物品沒有空間鑲嵌一個終極寶石。
-TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,只有鑲嵌寶石的終極武器才能使用。
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,只有鑲嵌寶石的究極武器才能使用。
 TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,您需要選擇一顆要移除的寶石！
 TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,您選擇的插槽中沒有寶石！
 TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,您的終極寶石已成功取下。
@@ -1540,7 +1540,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,您
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,您在大師任務中無法使用此物品。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,您在進行轉職任務期間，無法使用此物品。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,因為您不在戰鬥區域內，您無法攻擊怪物。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s 將 [終極] %s 成功精煉至 %s+%d！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s 將 [究極] %s 成功精煉至 %s+%d！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,付款成功！\n您的帳號已增加 fCoins。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,付款過程中出現未知錯誤。\n請重試。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,您已恢復在副本中失去的經驗值。

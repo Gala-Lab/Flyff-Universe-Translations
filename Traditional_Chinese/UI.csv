@@ -692,7 +692,7 @@ UI_UPGRADE_TITLE,Upgrade,精煉
 UI_UPGRADE_ITEM,Item,物品
 UI_UPGRADE_MATERIAL,Power Dice/Card,能量骰子/卡片
 UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷軸
-UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,終極精煉防爆卷軸
+UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,究極精煉防爆卷軸
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,太陽石
 UI_UPGRADE_CHANCESCROLL,SFusion,精煉卷軸
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",精煉失敗時精煉等級會降低，但是物品不會消失。
@@ -1172,7 +1172,7 @@ UI_TOOLTIP_RARITY_RARE,Uncommon,精良
 UI_TOOLTIP_RARITY_STRONG,Rare,稀有
 UI_TOOLTIP_RARITY_UNIQUE,Unique,傳說
 UI_TOOLTIP_RARITY_VERYRARE,Very Rare,史詩
-UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,終極
+UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,究極
 UI_WORLD_CASTING,Casting,施法中
 UI_WORLD_HARVESTING,Harvesting,收成
 UI_WORLD_OPENING,Opening,開啟中
@@ -2007,13 +2007,13 @@ UI_RAINBOWRACE_APP_TIP,Register for the Rainbow Race,申請參加彩虹競賽。
 UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,檢視上一次比賽的排名。
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,目前尚未開放申請。
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,下一場比賽：
-UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,製作終極武器
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",終極武器轉換\n您可以為等級 140 級或以上的裝備製作終極武器。 您可以將 +10 武器轉換為終極武器。 轉換不會失敗，需要 3 個閃耀奧里哈鋼、3 個終極寶珠和 1 億金幣。終極武器轉換後將保留所有元素升級和穿洞狀態。
+UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,製作究極武器
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",究極武器轉換\n您可以為等級 140 級或以上的裝備製作究極武器。 您可以將 +10 武器轉換為究極武器。 轉換不會失敗，需要 3 個閃耀奧里哈鋼、3 個終極寶珠和 1 億金幣。究極武器轉換後將保留所有元素升級和穿洞狀態。
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,您想繼續嗎?
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,無法用在此物品上
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,您只能轉換已達到最高等級的物品。
-UI_ULTIMATECONVERTIBLE,Can be converted to Ultimate,可轉換為終極武器。
-UI_ULTIMATE_RANDOMSTAT,Random Ultimate Stats,隨機終極屬性
+UI_ULTIMATECONVERTIBLE,Can be converted to Ultimate,可轉換為究極武器。
+UI_ULTIMATE_RANDOMSTAT,Random Ultimate Stats,隨機究極屬性
 UI_RESTAT_TITLE,Re-Stat,能力值重置
 UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),您希望將固定能力值升級應用到以下物品嗎？\n(%s)
 UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),您希望將隨機能力值升級應用到以下物品嗎？\n(%s)
@@ -2025,7 +2025,7 @@ UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destr
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆卷軸
-UI_ULTIMATE_PREFIX,[Ultimate],[終極]
+UI_ULTIMATE_PREFIX,[Ultimate],[究極]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰觸發率
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射觸發率
 UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫觸發率
@@ -2112,20 +2112,20 @@ UI_REPORT_DISCORD,"To report a player, please send a message through our Discord
 UI_GUILDSHIP_UNKNOWN,Unknown Guild,未知公會
 UI_GUILDSHIP_VACANT,Unclaimed Ship,未認領的艦隊
 UI_OPTION_WINDOWS_FONT,PC Flyff Font,PC Flyff 字型
-UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,製作終極武器
-UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on how many you create.,在活動期間建立終極武器以獲得獎勵！\n您可以根據建立的數量獲得額外獎勵。
+UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,製作究極武器
+UI_CREATE_ULTIMATE_WEAPON_DESC,Create Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on how many you create.,在活動期間建立究極武器以獲得獎勵！\n您可以根據建立的數量獲得額外獎勵。
 UI_CREATE_ULTIMATE_WEAPON_LVL1,1 time,1 次
 UI_CREATE_ULTIMATE_WEAPON_LVL2,2 times,2 次
 UI_CREATE_ULTIMATE_WEAPON_LVL3,3 times,3 次
 UI_CREATE_ULTIMATE_WEAPON_LVL4,4 times,4 次
 UI_CREATE_ULTIMATE_WEAPON_LVL5,5 times,5 次
-UI_UPGRADE_ULTIMATE_WEAPON,Upgrade Ultimate Weapon,終極武器精煉
-UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on the upgrade level.,在活動期間升級終極武器以獲得獎勵！\n您可以根據升級等級獲得額外獎勵。
-UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieve Ultimate Upgrade +1,達成終極精煉 +1
-UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieve Ultimate Upgrade +2,達成終極精煉 +2
-UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,達成終極精煉 +3
-UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,達成終極精煉 +4
-UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,達成終極精煉 +5
+UI_UPGRADE_ULTIMATE_WEAPON,Upgrade Ultimate Weapon,究極武器精煉
+UI_UPGRADE_ULTIMATE_WEAPON_DESC,Upgrade Ultimate weapons during the event period to earn rewards!\nYou can earn additional rewards based on the upgrade level.,在活動期間升級究極武器以獲得獎勵！\n您可以根據升級等級獲得額外獎勵。
+UI_UPGRADE_ULTIMATE_WEAPON_LVL1,Achieve Ultimate Upgrade +1,達成究極精煉 +1
+UI_UPGRADE_ULTIMATE_WEAPON_LVL2,Achieve Ultimate Upgrade +2,達成究極精煉 +2
+UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,達成究極精煉 +3
+UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,達成究極精煉 +4
+UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,達成究極精煉 +5
 UI_RAINBOWRACE_RANKING,Leaderboard,排行榜
 UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000結果將被帳戶綁定，因為某些材料是帳戶綁定的。#nc
 UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000結果將被綁定，因為某些材料是綁定的。#nc
@@ -3285,4 +3285,4 @@ UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,廣告 ID：
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA：
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,廣告個人化：
 UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,廣告使用者資料：
-UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,終極精煉機率
+UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,究極精煉機率

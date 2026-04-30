@@ -582,8 +582,8 @@ CLIENT_HELP_INC_000580,Earth Upgrade,地元素精煉
 CLIENT_HELP_INC_000581,"When you refine an item with the Earth property, you’ll need an Earth Property Card. When an item is imbued with the Earth Property the item becomes weak to Wind but stronger against Electricity.",使用地元素卡精煉後，可讓物品賦予地元素的能力。武器擁有地元素時，針對怕地元素的怪物會有提升的攻擊威力！而防具擁有地元素時，可提升雷元素攻擊的抵抗力。
 CLIENT_HELP_INC_000582,General Upgrade,一般精煉
 CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice are required to upgrade, there are 5 types of Power Dice, 4, 6, 8, 10 and 12.",一般精煉指的是非元素升級。升級需要能量骰子，能量骰子共有 5 種類型，分別為 D、C、B、A 和 S。
-CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,終極武器精煉
-CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.",+10 精煉的傳說武器透過終極武器變換後，能夠製作出更強的終極武器。此終極武器與目前精煉一樣，最多可以精煉到 +10。可以使用精煉道具閃耀奧里哈鋼在武器上做精煉，如果失敗時，道具就會被破壞掉。精煉數值在 +6 以上時，會產生能夠合成各種能力寶石的插槽。最大可以在 5 個插槽上合成寶石道具。
+CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,究極武器精煉
+CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.",+10 精煉的傳說武器透過究極武器變換後，能夠製作出更強的究極武器。此究極武器與目前精煉一樣，最多可以精煉到 +10。可以使用精煉道具閃耀奧里哈鋼在武器上做精煉，如果失敗時，道具就會被破壞掉。精煉數值在 +6 以上時，會產生能夠合成各種能力寶石的插槽。最大可以在 5 個插槽上合成寶石道具。
 CLIENT_HELP_INC_000586,placholder 39,佔位文字 39
 CLIENT_HELP_INC_000587,placholder 40,佔位文字 40
 CLIENT_HELP_INC_000588,placholder 41,佔位文字 41
@@ -708,7 +708,7 @@ CLIENT_HELP_INC_100002,Flyff Pass,特別通行證
 CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Flyff Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.",完成每日、每週與賽季任務即可獲得獎勵！\n\n別忘了在 Flyff Pass 賽季結束前領取您的獎勵。\n\n透過賽季任務獲得的點數不計入每週上限。
 CLIENT_HELP_INC_100004,Equipment Switch,裝備切換
 CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.",建立裝備預設，讓您隨時使用您的套裝、武器和飾品。 透過簡單的快捷方式，您可以輕鬆地裝備它們，沒有任何麻煩。
-CLIENT_HELP_INC_100006,Create ultimate weapon,打造終極武器
+CLIENT_HELP_INC_100006,Create ultimate weapon,打造究極武器
 CLIENT_HELP_INC_100007,Kalgas Assault Revival,卡爾加斯突擊復興
 CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Flyff Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).",在卡爾加斯突擊中，每次死亡重生都需要一定的時間，並隨著重生次數的增加而增加 (最多 1 分鐘)。\n花費卡爾加斯幣可以讓你重生，無需等待，並且該物品可以在商城購買。\n卡爾加斯銀幣只能使用一次，而卡爾加斯金幣可以無限次復活。\n*卡爾加斯金幣每次使用時需要增加數量 (最多 20 個)。
 CLIENT_HELP_INC_100009,Couple Menu,情侶選單
