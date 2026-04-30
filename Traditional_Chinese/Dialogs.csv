@@ -7,7 +7,7 @@ NPC_EXIT,Exit,離開方法
 NPC_HOWTOFLY,How to Fly,飛行操作
 NPC_COMBATFLYING,Combat Flying,飛行戰鬥
 NPC_IDCARD,ID CARD,身分證
-NPC_WHATABOUTTHEMINE,What about the mine?,迪肯礦坑
+NPC_WHATABOUTTHEMINE,What about the mine?,塔凱黎斯礦坑
 NPC_MOVE,Move,移動
 NPC_FORHONOR,For Honor!,獵殺怪物
 NPC_FORFUN,For Fun!,無聊嗎～
@@ -17,7 +17,7 @@ NPC_NO_ENTER,No_Enter,不_入場
 NPC_WHEREAMI,Where am I?,場所
 NPC_MAKEANAPPOINTMENT,Make an appointment,指定場所
 NPC_FINALIZESTATSELECTION,Finalize Stat selection,能力值初始化
-NPC_DEKANEMINE,Dekane Mine,迪肯礦坑
+NPC_DEKANEMINE,Dekane Mine,塔凱黎斯礦坑
 NPC_CELL,Cell,飛兒
 NPC_AZRIAMINE,Azria Mine,阿茲里亞礦
 NPC_CURSEDSYMBOL,Cursed Symbol,受詛咒的徽記
@@ -123,13 +123,13 @@ NPC_000130,We are here to protect the will of the Heroes. Are you worthy to beco
 NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",我擔心那些過於追隨闇影、伊普里司和巴布樂的人，最後終將被他們毀滅。追隨英雄的道路，你就不會迷失方向。
 NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.",我是 [爆咒師守護者] 卡班沛，守護著爆咒師英雄羅瓦特的意志。
 NPC_000133,The power of Roentel will protect and guide you.,以羅瓦特的力量為榮！
-NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,迪肯礦坑深處蘊藏著稀有金屬與礦物。
+NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,塔凱黎斯礦坑深處蘊藏著稀有金屬與礦物。
 NPC_000135,You looking for some adventure? Why not discover the mystery of the curse of Darkon? ,你對冒險很好奇喔？那你可以去嘗試解除得肯的秘密喔～
 NPC_000136,"Now's not the time for pleasantries, my simple-minded friend. Besides, I know you don't actually care. No one does...",向我問好喔…沒想到會有人來向我問好耶…不要囉唆了啦！快說你來找我的目的是什麼？
 NPC_000137,"Fine, leave if you want to! I don't need your help, fool! ",你想去就去吧！反正不會有人管我！
 NPC_000138,"Have you ever heard the name Neverant? Few know it now, but long ago it was the top-ranking mining guild in Darkon. I used to be a member of that guild.",以前有一個礦坑…那個礦坑很大呢～可是這個礦坑現在已經不存在了，當時我也是那個礦坑的礦工了呢～
 NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart by a terrible curse that emanated from the mine itself. Ironic, isn't it?",礦坑現在已經不存在了，被詛咒的迪肯變成了沒落的礦坑..可憐的礦坑~
-NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.,如果你想去的話，可以去這裡西邊的迪肯礦坑看看。我可不敢踏進那裡半步。
+NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.,如果你想去的話，可以去這裡西邊的塔凱黎斯礦坑看看。我可不敢踏進那裡半步。
 NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted nomad shields Penya can buy!,趁風的盾牌店開始營業了！金幣就可以買到最好的精心製作的遊牧盾牌！這裡是有賣上等的防具，請好好挑選！
 NPC_000142,"Well, what are you gonna do for me? Hmmm?",有什麼可以幫忙的嗎？
 NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ",卡恩商人組織有販售瑪德利賈賣最好的商品喔！！
@@ -504,7 +504,7 @@ NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If y
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",我是伊斯魯爾‧特里尼蒂，是布拉里斯城的嚮導之一。 如果您需要任何幫助或資訊，可詢問我或我的雙胞胎姐妹！
 NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,奇怪，今天又哪裡壞掉了呢？我好想念金貝勒喔……
 NPC_000580,"Would you do me a favor, please?",能幫我個忙嗎?
-NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...",最近聽說賣到聖音特和得肯的機器一直故障，可能是我用了來自迪肯礦坑的劣質建材吧……唉。
+NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...",最近聽說賣到聖音特和得肯的機器一直故障，可能是我用了來自塔凱黎斯礦坑的劣質建材吧……唉。
 NPC_000582,"My name is Jeff Prosis and I am the Machine Developer of Flarine. Kimberley, my wife, is a guide in Saint City.",我是布拉里斯開發負責研究員傑夫，在聖音特的解說員金貝勒是我的老婆啦！
 NPC_000583,"Say hello to my wife, Kimberly, in Saint City if you happen to see her, will you?",下次再跟我說說其他的故事，再見囉！
 NPC_000584,"Iblis above! Ddukguk has disappeared! Oh, what should I do now. Please, somebody help me!!!",年糕湯..年糕湯不見了..啊，我以後要怎麼辦啊!有誰可以幫我啊!
@@ -931,7 +931,7 @@ NPC_001657,"Oh, Darkon is already a desolated place. Darkon will become a desola
 NPC_001659,"I'm Elaine, I'm the leader of the Darkon Clear Blue!",我是耶拉伊，我是得肯清藍的首領！
 NPC_001660,"A healthy Mother nature is the most important for us all. But alas, it seems no one understands.",對我們所有人來說，健康的大地之母是最重要的。 但是，唉，似乎沒有人明白。
 NPC_001661,Nobody can follow me up here. They know what beauty is! Hahahah!,沒有人可以追到我這裡。 他們肯定知道什麼是美！ 哈哈哈！
-NPC_001662,I'm exploring the Dekane Dungeon to do important research. Geez you really are annoying!,我正在探索「迪肯礦坑」，進行重要的研究。 哎呀，你真的很煩人！
+NPC_001662,I'm exploring the Dekane Dungeon to do important research. Geez you really are annoying!,我正在探索「塔凱黎斯礦坑」，進行重要的研究。 哎呀，你真的很煩人！
 NPC_001664,"I'm Ainher, revival of Psykeeper hero~Hoho~ I know I'm perfect!!",我是愛內爾，念力師英雄的復活~呵呵~我知道我很完美！！
 NPC_001665,"I'm busy, so, can you please get out of my sight and stop bothering me?",我很忙，所以，你能不能離開我的視線，不要再打擾我了？
 NPC_001666,Last lesson.. This is the last..,最後一課...真的是最後..
