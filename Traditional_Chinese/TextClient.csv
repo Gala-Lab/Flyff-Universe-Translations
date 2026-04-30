@@ -795,7 +795,7 @@ TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this pl
 TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s 目前不在線上。
 TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,您的背包空間增加了 %d！
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s 將 %s 成功精煉至 %s+%d！
-TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s 將 [角色綁定] %s 成功精煉至 %s+%d！
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s 將 [綁定] %s 成功精煉至 %s+%d！
 TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s 到達了 %d 級！
 TEXTCLIENT_APP_GACHA,Gacha,轉蛋
 TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,盒子已成功重置。

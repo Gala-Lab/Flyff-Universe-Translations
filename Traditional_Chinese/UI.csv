@@ -647,7 +647,7 @@ UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s 離開了。
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已購買 %s (%d)，花費了 %lld 金幣
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認出售商城物品
 UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,這是商城物品，確定要出售嗎?\n一旦出售將無法取回。
-UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[角色綁定]
+UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[綁定]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[帳號綁定]
 UI_BEAUTY_SHOP_TITLE,Hair Salon,美容院
 UI_BEAUTY_SHOP_RESET,Reset,重新分配
@@ -1101,8 +1101,8 @@ UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重置
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,登錄武器穿洞卡片。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,融合 3 張武器穿洞卡片，以獲得 1 張相同等級的穿洞卡片。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,如果合成卡片，登錄的卡片就會消失。\n您想繼續嗎?
-UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,轉換為角色綁定
-UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",該物品將變為角色綁定物品，無法再出售給 NPC。您可以使用此方法堆疊綁定狀態不同的相同物品 (原本無法堆疊的物品)。請注意：角色綁定物品無法交易，且此操作無法撤銷。
+UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,轉換為綁定
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",該物品將變為綁定物品，無法再出售給 NPC。您可以使用此方法堆疊綁定狀態不同的相同物品 (原本無法堆疊的物品)。請注意：綁定物品無法交易，且此操作無法撤銷。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,轉換後的物品無法復原。\n您想繼續嗎?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,該物品無法轉換。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,此卷軸將永久增加你公會成員上限 5 人。只對您目前的公會有效，不會影響您之後加入的任何公會。您確認使用嗎?
@@ -1297,7 +1297,7 @@ UI_CHAT_TITLE,Chat,聊天
 UI_CHAT_FILTERS,Filters,過濾
 UI_CHAT_VIEW_LANGUAGES,View Languages,檢視語言
 UI_CHAT_YOUR_LANGUAGE,Your Language,您的語言
-UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,轉換為角色綁定
+UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,轉換為綁定
 UI_INVENTORY_PUTCHAT,Link in Chat,發布鏈結到聊天室
 UI_INVENTORY_LOCK,Mark Favorite,我的最愛
 UI_INVENTORY_UNLOCK,Unmark Favorite,移除我的最愛
@@ -1397,10 +1397,10 @@ UI_CHANGECHAR_MSG,Select character and channel:,選擇角色和伺服器：
 UI_CHARINFO_EXPRATE,EXP Rate,經驗值加成
 UI_CHARINFO_EXPRATE_TIP,Your personal EXP rate. Does not include server and event rates.,您個人的經驗值加成，不包含伺服器和活動經驗加成。
 UI_TOOLTIP_ITEM_BINDING,Binding,綁定
-UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,該材料會使目標物品被角色綁定。
+UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,該材料會使目標物品被綁定。
 UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000這項操作將物品綁定到您的角色，您可以使用解除綁定卷軸來解除物品綁定。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,此物品現在已綁定您的角色。
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[角色綁定]
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[綁定]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,可以被解除綁定。
 UI_BINDING_TITLE,Binding,綁定
 UI_BINDING_CONFIRM,Do you want to continue?,您要繼續嗎?
@@ -2128,7 +2128,7 @@ UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,達成終極精煉 +
 UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,達成終極精煉 +5
 UI_RAINBOWRACE_RANKING,Leaderboard,排行榜
 UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000結果將被帳號綁定，因為某些材料是帳號綁定的。#nc
-UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000結果將被角色綁定，因為某些材料是角色綁定的。#nc
+UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000結果將被綁定，因為某些材料是綁定的。#nc
 UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,彩虹競賽
 UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to the starting point? If you decline, you will be disqualified with no refund.",彩虹競賽即將開始。 您想傳送到起點嗎? 拒絕將取消您的比賽資格，且不予退款。
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,2023 年聖誕節通行證
@@ -2766,7 +2766,7 @@ UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,惡魔的祝福
 UI_TOOLTIP_FREEBLESSING,Demon Blessing,惡魔祝福
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,寵物銀行空間
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,使用祝福?
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,使用祝福後，物品將在祝福生效期間與角色綁定。繼續嗎? 女神的祝福可以由寶石管理員 NPC 移除。
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,使用祝福後，物品將在祝福生效期間與綁定。繼續嗎? 女神的祝福可以由寶石管理員 NPC 移除。
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.",尚未完全理解此配方，因此每種材料只會使用 1 個。
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,任務已完成
 UI_TELEPORT_ARENA,Exit the arena?,離開競技場?
@@ -3148,7 +3148,7 @@ UI_ADDATTRIBUTE_START,Start,開始
 UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,待升級物品
 UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,您的材料用完了。
 UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,升級物品?
-UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,升級此物品後，該物品將變為角色綁定。是否繼續?
+UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,升級此物品後，該物品將變為綁定。是否繼續?
 UI_OPTION_PVPMATCH_CAPTION,PvP Match/Contest Captions,玩家對戰比賽/競賽字幕
 UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This server is used to test upcoming features. For more information, please visit our website.",你可透過下方表單申請成為公開測試伺服器的測試員。此伺服器用於測試即將推出的新功能。更多資訊請參閱我們的官方網站。
 UI_PTS_POPUP_TITLE,Public Test Server Form,公開測試伺服器申請表
