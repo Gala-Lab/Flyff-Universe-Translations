@@ -383,7 +383,7 @@ PROPSKILL_TXT_100034,Curse of the Drowned Rangda,來自溺亡蘭達的詛咒
 PROPSKILL_TXT_100035,"Monsters have increased attack, but take increased damage.",增加怪物的攻擊力，但怪物的承受傷害也增加。
 PROPSKILL_TXT_100036,Shade's Cruel Bargain,闇影的殘酷契約
 PROPSKILL_TXT_100037,"Monsters explode on death, but have an increased drop rate.",所有怪物死亡時會爆炸，但增加物品掉落率。
-PROPSKILL_TXT_100038,Iblis Touched,伊布利斯的恩寵
+PROPSKILL_TXT_100038,Iblis Touched,伊普里斯的恩寵
 PROPSKILL_TXT_100039,"Monsters reflect damage, but have an increased drop rate.",怪物擁有反彈傷害，但增加物品掉落率。
 PROPSKILL_TXT_100040,Rhisis' Assistance,黎席斯的協助
 PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.",怪物每秒回復部分生命值，但可獲得更多經驗。
@@ -392,7 +392,7 @@ PROPSKILL_TXT_100043,Dagger from Within,噬魂之刃
 PROPSKILL_TXT_100044,"Monsters have increased Critical Chance, but grant increased EXP.",增加怪物的暴擊率，但可獲得更多經驗。
 PROPSKILL_TXT_100045,Phantom Pain,幻痛
 PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have an increased drop rate.",怪物有機率連續攻擊兩次，但增加物品掉落率。
-PROPSKILL_TXT_100047,Drain of Iblis,伊布利斯的契約
+PROPSKILL_TXT_100047,Drain of Iblis,伊普里斯的契約
 PROPSKILL_TXT_100048,"Monsters gain lifesteal, but take increased damage.",怪物擁有吸血能力，但怪物的承受傷害也增加。
 PROPSKILL_TXT_100049,Shade's Adrenaline,闇影的爆發
 PROPSKILL_TXT_100050,"Monsters have increased Attack Speed, but have an increased drop rate.",增加怪物的攻擊速度，但增加物品掉落率。
@@ -434,8 +434,8 @@ PROPSKILL_TXT_100085,Blessing of the Golden Aibatt,黃金獨眼蝙蝠的祝福
 PROPSKILL_TXT_100086,"Blessed by the Golden Aibatt's generosity, this monster grants 10% increased EXP and drop rates when defeated.",受到黃金獨眼蝙蝠慷慨的祝福，擊敗此怪物可獲得 10% 額外經驗和物品掉落率。
 PROPSKILL_TXT_100087,Shade's Swiftness,闇影之迅
 PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.","由恐懼之神闇影,賦予的風之祝福,提升玩家的敏捷與移動速度。"
-PROPSKILL_TXT_100089,Iblis' Fortitude,伊布利斯之魄
-PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.",由敬仰之神伊布利斯，賦予的生命祝福，提升最大生命值能承受更多傷害。
+PROPSKILL_TXT_100089,Iblis' Fortitude,伊普里斯之魄
+PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.",由敬仰之神伊普里斯，賦予的生命祝福，提升最大生命值能承受更多傷害。
 PROPSKILL_TXT_100091,Bubble's Bulwark,巴布樂的庇護
 PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",由喜悅之神巴布樂，賦予的強力護盾，提升防禦力以抵擋敵方傷害。
 PROPSKILL_TXT_100093,Guild's Enhancement,公會強化
@@ -866,7 +866,7 @@ PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and At
 PROPSKILL_TXT_150309,Range Extension,射程提升
 PROPSKILL_TXT_150310,Touch of Rhisis,黎席斯之觸
 PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光環，提升附近友軍的防禦力與格擋率。無法與其他光環同時使用。可再次施放取消。
-PROPSKILL_TXT_150315,Ire of Iblis,伊布利斯之怒
+PROPSKILL_TXT_150315,Ire of Iblis,伊普里斯之怒
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,生成一道光環，提升友方暴擊抗性。可再次施放取消。
 PROPSKILL_TXT_150320,Meditate,冥想
 PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.",進入冥想狀態，降低所受傷害、縮短自然 HP 恢復間隔，並提升治療效果。可再次施放來取消。
