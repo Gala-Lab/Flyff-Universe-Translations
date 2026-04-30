@@ -1489,10 +1489,10 @@ PROPQUEST_INC_110177,"If you’re not interested in the Christmas spirit, it’s
 PROPQUEST_INC_110178,You did it! Thanks to you Christmas is saved! Unless the monsters destroy the snowmen and take back the carrots...,你做到了！ 多虧了你，聖誕節得救了！ 除非怪物毀掉雪人，奪回胡蘿蔔……
 PROPQUEST_INC_110179,"Well, I guess picking up snow and carrots is too hard for you, huh...",好吧，看來對你來說，撿雪和胡蘿蔔還是太難了，是嗎……
 PROPQUEST_INC_110180,"The polar bear asked me to bring back $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots by midnight.","北極熊讓我在午夜前帶回 $QUEST_END_ITEM_COUNT,2$個雪球和 $QUEST_END_ITEM_COUNT$ 個胡蘿蔔。"
-PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",歡迎，英雄！又有新的委託要你清除遺忘之塔中的 $QUEST_END_KILL_NAME$。可以請你擊殺 50 隻 $QUEST_END_KILL_NAME$，完成後再回來找我嗎？
+PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",歡迎，英雄！又有新的委託要你清除深淵之塔中的 $QUEST_END_KILL_NAME$。可以請你擊殺 50 隻 $QUEST_END_KILL_NAME$，完成後再回來找我嗎？
 PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",作得好，我們將有大量的 $QUEST_END_ITEM_NAME$ 來滿足所有的要求！
 PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",你還沒擊敗 $QUEST_END_KILL_NAME$ 嗎？沒關係，完成後再回來吧。
-PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,歡迎回來的英雄！ 有報告稱遺忘之塔出現了新的威脅。 請找出並擺脫 $QUEST_END_KILL_NAME$。
+PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,歡迎回來的英雄！ 有報告稱深淵之塔出現了新的威脅。 請找出並擺脫 $QUEST_END_KILL_NAME$。
 PROPQUEST_INC_110185,"Thank you hero, the $QUEST_END_KILL_NAME$ threat has been eliminated.",謝謝英雄，$QUEST_END_KILL_NAME$ 威脅已被消除。
 PROPQUEST_INC_110186,"You weren't able to kill the $QUEST_END_KILL_NAME$ yet? That's alright, please return after you've won against the giant!",你還沒能殺死 $QUEST_END_KILL_NAME$？ 沒關係，打敗巨人後請回來！
 PROPQUEST_INC_110187,The Tower is filled with dangerous masquerpets. I understand if you do not wish to take the risk.,塔內充滿了危險的怪物。 如果您不想冒險，我可以理解。
@@ -1526,17 +1526,17 @@ PROPQUEST_INC_110214,$QUEST_END_ITEM_NAME$ drops from any type of Asterius.,$QUE
 PROPQUEST_INC_110215,$QUEST_END_ITEM_NAME$ drops from any type of Dantalian.,$QUEST_END_ITEM_NAME$ 掉落自任何類型的但他林。
 PROPQUEST_INC_110216,$QUEST_END_ITEM_NAME$ drops from any type of Gannessa.,$QUEST_END_ITEM_NAME$ 掉落自任何類型的 卡內薩
 PROPQUEST_INC_110217,$QUEST_END_ITEM_NAME$ drops from any type of Asuras.,$QUEST_END_ITEM_NAME$ 掉落自任何類型的阿修羅。
-PROPQUEST_INC_110218,The $QUEST_END_KILL_NAME$ has been spotted on the first floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在遺忘之塔的一樓。
-PROPQUEST_INC_110219,The $QUEST_END_KILL_NAME$ has been spotted on the second floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在遺忘之塔的二樓。
-PROPQUEST_INC_110220,The $QUEST_END_KILL_NAME$ has been spotted on the third floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在遺忘之塔的三樓。
-PROPQUEST_INC_110221,The $QUEST_END_KILL_NAME$ has been spotted on the fourth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 在遺忘之塔的四樓被發現。
-PROPQUEST_INC_110222,The $QUEST_END_KILL_NAME$ has been spotted on the fifth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在遺忘之塔的五樓。
+PROPQUEST_INC_110218,The $QUEST_END_KILL_NAME$ has been spotted on the first floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在深淵之塔的一樓。
+PROPQUEST_INC_110219,The $QUEST_END_KILL_NAME$ has been spotted on the second floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在深淵之塔的二樓。
+PROPQUEST_INC_110220,The $QUEST_END_KILL_NAME$ has been spotted on the third floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在深淵之塔的三樓。
+PROPQUEST_INC_110221,The $QUEST_END_KILL_NAME$ has been spotted on the fourth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 在深淵之塔的四樓被發現。
+PROPQUEST_INC_110222,The $QUEST_END_KILL_NAME$ has been spotted on the fifth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在深淵之塔的五樓。
 PROPQUEST_INC_110223,Clockworks War (Medium),時空毀滅者之戰 (中等)
 PROPQUEST_INC_110224,Clockworks War (Hard),時空毀滅者之戰 (困難)
 PROPQUEST_INC_110225,Meteonyker,地炎飛龍
 PROPQUEST_INC_110226,Meteonyker (Medium),地炎飛龍 (中等)
 PROPQUEST_INC_110227,Meteonyker (Hard),地炎飛龍 (困難)
-PROPQUEST_INC_110228,Forsaken Tower Daily Quests,遺忘之塔每日任務
+PROPQUEST_INC_110228,Forsaken Tower Daily Quests,深淵之塔每日任務
 PROPQUEST_INC_110229,Dungeon Card Reward,副本卡片獎勵
 PROPQUEST_INC_110230,Weapon Piercing Box (D),武器穿洞箱 (D)
 PROPQUEST_INC_110231,Weapon Piercing Box (C),武器穿洞箱 (C)
@@ -1785,8 +1785,8 @@ PROPQUEST_INC_132079,The Mystery of the Shady Eye,暗影之眼的謎團
 PROPQUEST_INC_132080,The Mystery of the Shady Eye (2),暗影之眼的謎團 (2)
 PROPQUEST_INC_132081,The Cursed Wing of Destiny,被詛咒的命運之翼
 PROPQUEST_INC_132082,The Cursed Wing of Destiny (2),被詛咒的命運之翼 (2)
-PROPQUEST_INC_132083,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.,有人在遺忘之塔第六層發現了 $QUEST_END_KILL_NAME$ 的蹤跡。
-PROPQUEST_INC_132086,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.,有人在遺忘之塔第七層發現了 $QUEST_END_KILL_NAME$ 的蹤跡。
+PROPQUEST_INC_132083,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.,有人在深淵之塔第六層發現了 $QUEST_END_KILL_NAME$ 的蹤跡。
+PROPQUEST_INC_132086,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.,有人在深淵之塔第七層發現了 $QUEST_END_KILL_NAME$ 的蹤跡。
 PROPQUEST_INC_132087,Disarming the Maleficars,解除瑪勒菲卡爾的武裝
 PROPQUEST_INC_132088,Disarming the Maleficars (2),解除瑪勒菲卡爾的武裝 (2)
 PROPQUEST_INC_132089,Stealing gems from the cursed guardian,從被詛咒的守護者手中奪取寶石
