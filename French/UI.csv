@@ -2317,8 +2317,8 @@ UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,Dégâts critiques JcJ
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,Chance de critique JcJ
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Bonus de drop de Penya
 UI_OPTION_UNDERWATER,Underwater Effect,Effet sous-marin
-UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,Êtes-vous sûr de vouloir ressusciter au Lodelight ?
-UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,Êtes-vous sûr de vouloir ressusciter au Lodestar ?
+UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,Êtes-vous sûr de vouloir ressusciter au Havre de vie ?
+UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,Êtes-vous sûr de vouloir ressusciter au Cristal de vie ?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,Voulez-vous acheter %dx %s (x%d) pour %s ?
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,Écrire dans le livre d’or de la maison d’un ami
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Achat réussi !
