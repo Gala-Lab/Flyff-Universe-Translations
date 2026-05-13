@@ -237,21 +237,21 @@ TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,Party & guild invites refus
 TEXTCLIENT_CONNAGREE,Post connection status,Post connection status
 TEXTCLIENT_CONNREFUSE,Do not post connection status.,Do not post connection status.
 TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.
-TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,You shouldn't ignore yourself. You might have something important to say!
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,Sinun ei pitäisi sivuuttaa itseäsi. Sinulla voi olla jotain tärkeää sanottavaa!
 TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,That character is already on your Ignore List.
 TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.,%s has been ignored. Type /unignore <NAME> to remove them from your Ignore List.
 TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s is now unignored.
 TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,That character is not on your Ignore List.
 TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Please unequip the item first.
 TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,You can not use the premium items.
-TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.","You cannot send a message to yourself, silly."
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.","Et voi lähettää viestiä itsellesi, typerä."
 TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,%s's mail box is full.
 TEXTCLIENT_LACKMONEY,You do not have enough Penya.,You do not have enough Penya.
 TEXTCLIENT_CANNOTPOST,You cannot send this item.,You cannot send this item.
 TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Unknown user
-TEXTCLIENT_POST_ERROR,You have failed to send.,You have failed to send.
-TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Your mail has been sent successfully.
-TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","An error occured, please retry the operation."
+TEXTCLIENT_POST_ERROR,You have failed to send.,Lähetys epäonnistui.
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Sähköpostisi on lähetetty onnistuneesti.
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Tapahtui virhe, yritä toimintoa uudelleen."
 TEXTCLIENT_REALTIME,Real Time - %s,Real Time - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Madrigal Time - %s
 TEXTCLIENT_NEW_QUEST,New Quest,New Quest
@@ -1207,8 +1207,8 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's arti
 TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,The owner of this guild ship has dismantled the guild!
 TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,The guild ship's artifact has been destroyed. The ship is now unclaimed.
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
-TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
-TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,Ilmoittautuminen ei ole mahdollista alhaisen tason vuoksi.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,Olet onnistuneesti rekisteröitynyt.
 TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
 TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
 TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.

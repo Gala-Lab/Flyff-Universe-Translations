@@ -49,7 +49,7 @@ UI_OPTION_TEXHIGH,High,High
 UI_OPTION_TEXMID,Medium,Medium
 UI_OPTION_TEXLOW,Low,Low
 UI_OPTION_WEATHER,Weather,Weather
-UI_OPTION_LANGUAGE,Language,Language
+UI_OPTION_LANGUAGE,Language,Kieli
 UI_OPTION_SAVE,Save,Save
 UI_NAVIGATOR_PLAYER,Player,Player
 UI_NAVIGATOR_PARTY,Party,Ryhmä
@@ -74,7 +74,7 @@ UI_CHARINFO_BASE,Base,Base
 UI_CHARINFO_NAME,Name,Name
 UI_CHARINFO_LOGIN,Login,Login
 UI_CHARINFO_JOB,Job,Job
-UI_CHARINFO_LEVEL,Level,Level
+UI_CHARINFO_LEVEL,Level,Taso
 UI_CHARINFO_SERVER,Server,Server
 UI_CHARINFO_CHANNEL,Channel,Channel
 UI_CHARINFO_DETAIL,Detail,Detail
@@ -279,10 +279,10 @@ UI_PARTY_INFO,Members,Members
 UI_PARTY_SKILL,Skills,Taidot
 UI_PARTY_SETTINGS,Settings,Settings
 UI_PARTY_NAME,Name:,Name:
-UI_PARTY_LEVEL,Level:,Level:
+UI_PARTY_LEVEL,Level:,Taso:
 UI_PARTY_POINT,Points:,Points:
 UI_PARTY_EXPSHARE,EXP Share,EXP Share
-UI_PARTY_EXPMODE_LEVEL,Level,Level
+UI_PARTY_EXPMODE_LEVEL,Level,Taso
 UI_PARTY_EXPMODE_LEVEL_TIP,EXP is distributed among party members based on their levels.,EXP is distributed among party members based on their levels.
 UI_PARTY_EXPMODE_CONTRIB,Contribution,Contribution
 UI_PARTY_EXPMODE_CONTRIB_TIP,"EXP is distributed among party members based on their contribution in combat. Contributions include attacking, healing, and tanking.","EXP is distributed among party members based on their contribution in combat. Contributions include attacking, healing, and tanking."
@@ -328,7 +328,7 @@ UI_MESSENGER_MOVE,Moving,Moving
 UI_MESSENGER_FRIEND,Friend,Friend
 UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
 UI_MESSENGER_SORT_STATE,State,State
-UI_MESSENGER_SORT_LEVEL,Level,Level
+UI_MESSENGER_SORT_LEVEL,Level,Taso
 UI_MESSENGER_SORT_NAME,Name,Name
 UI_MESSENGER_SORT_JOB,Job,Job
 UI_INSTANTMSG_JOIN,has logged into the game.,has logged into the game.
@@ -448,7 +448,7 @@ UI_GUILD_NAME_BUTTON,Change Name,Change Name
 UI_GUILD_MASTER,Guild Master:,Guild Master:
 UI_GUILD_EXP,EXP:,EXP:
 UI_GUILD_PENYA,Penya:,Penya:
-UI_GUILD_LEVEL,Level:,Level:
+UI_GUILD_LEVEL,Level:,Taso:
 UI_GUILD_MEMBER,Members:,Members:
 UI_GUILD_DISCORD_TIP,Join the guild Discord server,Join the guild Discord server
 UI_GUILD_LOGO,Logo:,Logo:
@@ -774,7 +774,7 @@ UI_CREATEITEM_TITLE,Create Item,Create Item
 UI_CREATEITEM_TYPE,Type,Type
 UI_CREATEITEM_SEX,Sex,Sex
 UI_CREATEITEM_JOB,Job,Job
-UI_CREATEITEM_LEVEL,Level,Level
+UI_CREATEITEM_LEVEL,Level,Taso
 UI_CREATEITEM_QTY,Qty,Qty
 UI_CREATEITEM_ITEM,Item,Item
 UI_CREATEITEM_CREATE,Create,Create
@@ -1138,13 +1138,13 @@ UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster(s) to
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Item(s) to use: %s.
 UI_ACHIEVEMENTS_REWARD,Reward List,Reward List
 UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,Title: #b%s#nb
-UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Level %d
+UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Taso %d
 UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Claimed
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,Penya:
 UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,Item(s): %s
 UI_ACHIEVEMENTS_REWARD_ATK,Increased Attack against target(s): %d%%,Increased Attack against target(s): %d%%
 UI_ACHIEVEMENTS_PROGRESSION,Achievement Progress,Achievement Progress
-UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Level %d
+UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Taso %d
 UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attack +%s%%
 UI_ACHIEVEMENTS_NOTITLE,(No Title),(No Title)
 UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Hide your title.,Hide your title.
@@ -1200,7 +1200,7 @@ UI_GROUPSEARCH_PARTYNAME,Party Name,Party Name
 UI_GROUPSEARCH_GUILDNAME,Guild Name,Guild Name
 UI_GROUPSEARCH_LEADER,Leader,Leader
 UI_GROUPSEARCH_MASTER,Master,Mestari
-UI_GROUPSEARCH_LEVEL,Level,Level
+UI_GROUPSEARCH_LEVEL,Level,Taso
 UI_GROUPSEARCH_MEMBERS,Members,Members
 UI_GROUPSEARCH_BUFFS,Buffs,Buffs
 UI_GROUPSEARCH_LEADERLEVEL,Leader Level,Leader Level
@@ -1295,8 +1295,8 @@ UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
 UI_TIMEINFO_SESSION,Session Duration,Session Duration
 UI_CHAT_TITLE,Chat,Chat
 UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Your Language
+UI_CHAT_VIEW_LANGUAGES,View Languages,Näytä kielet
+UI_CHAT_YOUR_LANGUAGE,Your Language,Sinun kielesi
 UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,Convert to Soul-Linked
 UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
 UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
@@ -1347,7 +1347,7 @@ UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
 UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
 UI_BOUNTYLIST_HEADER_NAME,Target,Target
-UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
+UI_BOUNTYLIST_HEADER_LEVEL,Level,Taso
 UI_BOUNTYLIST_HEADER_REWARD,Bounty,Bounty
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
 UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
@@ -1419,7 +1419,7 @@ UI_EXPSTOP_RELOAD_LABEL,Charges:,Charges:
 UI_EXPSTOP_RELOAD_CONFIRM,Pay %s Penya to reload the EXP Lock gauge?,Pay %s Penya to reload the EXP Lock gauge?
 UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Ranking
 UI_ARENA_RANKING_NAME,Name,Name
-UI_ARENA_RANKING_LEVEL,Level,Level
+UI_ARENA_RANKING_LEVEL,Level,Taso
 UI_ARENA_RANKING_JOB,Job,Job
 UI_ARENA_RANKING_KILLS,Kills,Kills
 UI_ARENA_RANKING_DEATHS,Deaths,Deaths
@@ -1594,54 +1594,54 @@ UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,Lv.60 Guild Sieg
 UI_OPTION_EVENTLIGHT,Event Light,Event Light
 UI_LEVELREACH,Level Reach,Level Reach
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!","Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!"
-UI_LEVELREACH_LVL01,Level 1,Level 1
-UI_LEVELREACH_LVL02,Level 2,Level 2
-UI_LEVELREACH_LVL15,Level 15,Level 15
-UI_LEVELREACH_LVL16,Level 16,Level 16
-UI_LEVELREACH_LVL20,Level 20,Level 20
-UI_LEVELREACH_LVL30,Level 30,Level 30
-UI_LEVELREACH_LVL40,Level 40,Level 40
-UI_LEVELREACH_LVL45,Level 45,Level 45
-UI_LEVELREACH_LVL60,Level 60,Level 60
-UI_LEVELREACH_LVL80,Level 80,Level 80
-UI_LEVELREACH_LVL100,Level 100,Level 100
-UI_LEVELREACH_LVL110,Level 110,Level 110
-UI_LEVELREACH_LVL120,Level 120,Level 120
-UI_LEVELREACH_LVL125,Level 125,Level 125
-UI_LEVELREACH_LVL126,Level 126,Level 126
-UI_LEVELREACH_LVL130,Level 130,Level 130
-UI_LEVELREACH_LVL131,Level 131,Level 131
-UI_LEVELREACH_LVL135,Level 135,Level 135
-UI_LEVELREACH_LVL136,Level 136,Level 136
-UI_LEVELREACH_LVL139,Level 139,Level 139
-UI_LEVELREACH_LVL140,Level 140,Level 140
-UI_LEVELREACH_LVL141,Level 141,Level 141
-UI_LEVELREACH_LVL143,Level 143,Level 143
-UI_LEVELREACH_LVL145,Level 145,Level 145
-UI_LEVELREACH_LVL147,Level 147,Level 147
-UI_LEVELREACH_LVL149,Level 149,Level 149
-UI_LEVELREACH_LVL150,Level 150,Level 150
-UI_LEVELREACH_LVL152,Level 152,Level 152
-UI_LEVELREACH_LVL154,Level 154,Level 154
-UI_LEVELREACH_LVL156,Level 156,Level 156
-UI_LEVELREACH_LVL158,Level 158,Level 158
-UI_LEVELREACH_LVL160,Level 160,Level 160
-UI_LEVELREACH_LVL161,Level 161,Level 161
-UI_LEVELREACH_LVL162,Level 162,Level 162
-UI_LEVELREACH_LVL163,Level 163,Level 163
-UI_LEVELREACH_LVL164,Level 164,Level 164
-UI_LEVELREACH_LVL165,Level 165,Level 165
-UI_LEVELREACH_LVL169,Level 169,Level 169
-UI_LEVELREACH_LVL170,Level 170,Level 170
-UI_LEVELREACH_LVL172,Level 172,Level 172
-UI_LEVELREACH_LVL175,Level 175,Level 175
-UI_LEVELREACH_LVL178,Level 178,Level 178
-UI_LEVELREACH_LVL180,Level 180,Level 180
-UI_LEVELREACH_LVL181,Level 181,Level 181
-UI_LEVELREACH_LVL184,Level 184,Level 184
-UI_LEVELREACH_LVL185,Level 185,Level 185
-UI_LEVELREACH_LVL187,Level 187,Level 187
-UI_LEVELREACH_LVL190,Level 190,Level 190
+UI_LEVELREACH_LVL01,Level 1,Taso 1
+UI_LEVELREACH_LVL02,Level 2,Taso 2
+UI_LEVELREACH_LVL15,Level 15,Taso 15
+UI_LEVELREACH_LVL16,Level 16,Taso 16
+UI_LEVELREACH_LVL20,Level 20,Taso 20
+UI_LEVELREACH_LVL30,Level 30,Taso 30
+UI_LEVELREACH_LVL40,Level 40,Taso 40
+UI_LEVELREACH_LVL45,Level 45,Taso 45
+UI_LEVELREACH_LVL60,Level 60,Taso 60
+UI_LEVELREACH_LVL80,Level 80,Taso 80
+UI_LEVELREACH_LVL100,Level 100,Taso 100
+UI_LEVELREACH_LVL110,Level 110,Taso 110
+UI_LEVELREACH_LVL120,Level 120,Taso 120
+UI_LEVELREACH_LVL125,Level 125,Taso 125
+UI_LEVELREACH_LVL126,Level 126,Taso 126
+UI_LEVELREACH_LVL130,Level 130,Taso 130
+UI_LEVELREACH_LVL131,Level 131,Taso 131
+UI_LEVELREACH_LVL135,Level 135,Taso 135
+UI_LEVELREACH_LVL136,Level 136,Taso 136
+UI_LEVELREACH_LVL139,Level 139,Taso 139
+UI_LEVELREACH_LVL140,Level 140,Taso 140
+UI_LEVELREACH_LVL141,Level 141,Taso 141
+UI_LEVELREACH_LVL143,Level 143,Taso 143
+UI_LEVELREACH_LVL145,Level 145,Taso 145
+UI_LEVELREACH_LVL147,Level 147,Taso 147
+UI_LEVELREACH_LVL149,Level 149,Taso 149
+UI_LEVELREACH_LVL150,Level 150,Taso 150
+UI_LEVELREACH_LVL152,Level 152,Taso 152
+UI_LEVELREACH_LVL154,Level 154,Taso 154
+UI_LEVELREACH_LVL156,Level 156,Taso 156
+UI_LEVELREACH_LVL158,Level 158,Taso 158
+UI_LEVELREACH_LVL160,Level 160,Taso 160
+UI_LEVELREACH_LVL161,Level 161,Taso 161
+UI_LEVELREACH_LVL162,Level 162,Taso 162
+UI_LEVELREACH_LVL163,Level 163,Taso 163
+UI_LEVELREACH_LVL164,Level 164,Taso 164
+UI_LEVELREACH_LVL165,Level 165,Taso 165
+UI_LEVELREACH_LVL169,Level 169,Taso 169
+UI_LEVELREACH_LVL170,Level 170,Taso 170
+UI_LEVELREACH_LVL172,Level 172,Taso 172
+UI_LEVELREACH_LVL175,Level 175,Taso 175
+UI_LEVELREACH_LVL178,Level 178,Taso 178
+UI_LEVELREACH_LVL180,Level 180,Taso 180
+UI_LEVELREACH_LVL181,Level 181,Taso 181
+UI_LEVELREACH_LVL184,Level 184,Taso 184
+UI_LEVELREACH_LVL185,Level 185,Taso 185
+UI_LEVELREACH_LVL187,Level 187,Taso 187
+UI_LEVELREACH_LVL190,Level 190,Taso 190
 UI_GIANTHUNTING,Giant Hunting,Giant Hunting
 UI_WORLDCUP,GET'EM B'ALL,GET'EM B'ALL
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,GET'EM B'ALL Scoreboard
@@ -2272,7 +2272,7 @@ UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random
 UI_RAINBOWRACE_RANDOMMATCHING,Random Match,Random Match
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,Team Up with a Friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,Invite Friend
-UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
+UI_RAINBOWRACE_FRIEND_LEVEL,Level,Taso
 UI_RAINBOWRACE_FRIEND_NAME,Name,Name
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
 UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.
@@ -2289,7 +2289,7 @@ UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,No participation info
 UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Playtime Minutes #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Housing Entry Count #cffc32f07#b%d/%d#nb#nc
 UI_CHATFILTER_TEAM,Team,Team
-UI_CHAT_TEAM_TIP,Send messages to your team members.,Send messages to your team members.
+UI_CHAT_TEAM_TIP,Send messages to your team members.,Lähetä viestejä tiimisi jäsenille.
 UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit a Friend's House,Visit a Friend's House
 UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter an Instanced Dungeon,Enter an Instanced Dungeon
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,Visit a Friend's House and Press the Heart Button
@@ -3124,7 +3124,7 @@ UI_PVPMATCHRECAP_TITLE,Match Data,Match Data
 UI_PVPMATCHRECAP_TITLE_2,Match Result,Match Result
 UI_PVPMATCHRECAP_NAME,Name,Name
 UI_PVPMATCHRECAP_JOB,Job,Job
-UI_PVPMATCHRECAP_LEVEL,Level,Level
+UI_PVPMATCHRECAP_LEVEL,Level,Taso
 UI_PVPMATCHRECAP_WINNER,Winner,Winner
 UI_PVPMATCHRECAP_LOSER,Loser,Loser
 UI_PVPMATCHRECAP_TOTAL,Total,Total

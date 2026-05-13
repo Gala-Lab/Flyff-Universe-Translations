@@ -1,9 +1,9 @@
 ﻿Key,English,Finnish
-NPC_WHOAREYOU,Who are you?,Who are you?
-NPC_GOODBYE,Goodbye!,Goodbye!
+NPC_WHOAREYOU,Who are you?,Kuka sinä olet?
+NPC_GOODBYE,Goodbye!,Hyvästi!
 NPC_CARGO,CARGO,CARGO
-NPC_WHATSGOINGON,What's going on?,What's going on?
-NPC_EXIT,Exit,Exit
+NPC_WHATSGOINGON,What's going on?,Mitä tapahtuu?
+NPC_EXIT,Exit,Lopeta
 NPC_HOWTOFLY,How to Fly,How to Fly
 NPC_COMBATFLYING,Combat Flying,Combat Flying
 NPC_IDCARD,ID CARD,ID CARD
@@ -14,7 +14,7 @@ NPC_FORFUN,For Fun!,For Fun!
 NPC_MEHJUSTBECAUSE,"Meh, just because?","Meh, just because?"
 NPC_YES_ENTER,Yes_Enter,Yes_Enter
 NPC_NO_ENTER,No_Enter,No_Enter
-NPC_WHEREAMI,Where am I?,Where am I?
+NPC_WHEREAMI,Where am I?,Missä minä olen?
 NPC_MAKEANAPPOINTMENT,Make an appointment,Make an appointment
 NPC_FINALIZESTATSELECTION,Finalize Stat selection,Finalize Stat selection
 NPC_DEKANEMINE,Dekane Mine,Dekane Kaivos
@@ -54,7 +54,7 @@ NPC_000061,"*Snort!* A human, eh? Very interesting... I haven't seen one of you 
 NPC_000062,Feel free to come see me whenever you are in need of magical goods.,Feel free to come see me whenever you are in need of magical goods.
 NPC_000063,Nice to meet you. Have you also come to research the magical fields surrounding the islands?,Nice to meet you. Have you also come to research the magical fields surrounding the islands?
 NPC_000064,My name is Ciel and I am doing research on the various magical phenomena in the area.,My name is Ciel and I am doing research on the various magical phenomena in the area.
-NPC_000065,Farewell!,Farewell!
+NPC_000065,Farewell!,Jäähyväiset!
 NPC_000066,Come to me if you seek absolution.,Come to me if you seek absolution.
 NPC_000067,Are you here for confession?,Are you here for confession?
 NPC_000068,Your aura shines brightly. May it never again lose its brilliance.,Your aura shines brightly. May it never again lose its brilliance.
@@ -101,14 +101,14 @@ NPC_000108,"Greetings, traveler! You are welcome to visit the Erons Factory as l
 NPC_000109,My name is Amadolka Liviehindekinas. I am in charge of security here at the Erons Factory. Why do you ask?,My name is Amadolka Liviehindekinas. I am in charge of security here at the Erons Factory. Why do you ask?
 NPC_000110,"Be careful out there, traveler! I'll stand guard here!","Be careful out there, traveler! I'll stand guard here!"
 NPC_000111,I'm such a coward! *Cries*,I'm such a coward! *Cries*
-NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.
+NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,"Kirous on poistettu nyt kolmatta kertaa. Älä joudu kiroutumaan uudestaan, muuten se on varmasti viimeinen kerta."
 NPC_000113,I'm the Mysterious Teller of Tales! Wanna hear something spooky?,I'm the Mysterious Teller of Tales! Wanna hear something spooky?
 NPC_000114,Stop by anytime you wanna hear a spooky story!,Stop by anytime you wanna hear a spooky story!
 NPC_000115,ID Card,ID Card
-NPC_000116,Hello there! How are you today!,Hello there! How are you today!
-NPC_000117,"Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly.","Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly."
-NPC_000118,That's none of your business and I'll thank you to stay out of my personal affairs.,That's none of your business and I'll thank you to stay out of my personal affairs.
-NPC_000119,"Alright, hope to see you soon!","Alright, hope to see you soon!"
+NPC_000116,Hello there! How are you today!,Tervehdys! Miten voit tänään!
+NPC_000117,"Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly.","Ai niin? Jos sinulla on jotain sanottavaa, sano se. Muuten jätä minut rauhaan. Olen erittäin kiireinen näiden teräspaneelien kiinnittämisessä napauttamalla jalkaani toistuvasti."
+NPC_000118,That's none of your business and I'll thank you to stay out of my personal affairs.,"Se ei kuulu sinulle, ja kiitän sinua siitä, että pysyt poissa henkilökohtaisista asioistani."
+NPC_000119,"Alright, hope to see you soon!","Selvä, toivottavasti nähdään pian!"
 NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trillipy room in the mines, right? You should find Andre. I heard he spends most of his time in a forest filled with many ancient trees.","Oh! You're asking about the ID Card that grants access to the Trillipy room in the mines, right? You should find Andre. I heard he spends most of his time in a forest filled with many ancient trees."
 NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!","Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!"
 NPC_000122,What do you want already?! I've got things to do!,What do you want already?! I've got things to do!
@@ -134,18 +134,18 @@ NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted 
 NPC_000142,"Well, what are you gonna do for me? Hmmm?","Well, what are you gonna do for me? Hmmm?"
 NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ","We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? "
 NPC_000144,"I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal.","I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal."
-NPC_000145,Take care! Tell your friends about us!,Take care! Tell your friends about us!
-NPC_000146,"So, have you completed that which you needed to in order to proceed?","So, have you completed that which you needed to in order to proceed?"
-NPC_000147,What do you want?,What do you want?
-NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. 
-NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.
-NPC_000150,"Farewell, strange one.","Farewell, strange one."
+NPC_000145,Take care! Tell your friends about us!,Pidä huolta! Kerro meistä ystävillesi!
+NPC_000146,"So, have you completed that which you needed to in order to proceed?","Oletko siis suorittanut sen, mitä tarvitsit jatkaaksesi?"
+NPC_000147,What do you want?,Mitä haluat?
+NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,Et voinut toivoa ymmärtäväsi mitä tämän portin takana piilee. En välitä kuinka paljon olet tehnyt tutkimusta.
+NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,"Älä huolehdi sellaisista asioista. Kuka minä olen, sillä ei ole sinulle merkitystä. Sinun tarvitsee vain tietää, että olen täällä suojellakseni tätä porttia."
+NPC_000150,"Farewell, strange one.","Hyvästi, outo."
 NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!","Hey, you there! Help me! Let me out of here right now! Argh!!!"
 NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!","Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!"
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.","Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas."
 NPC_000154,What?! HEY! I thought you were going to release me. I'll get you for this!,What?! HEY! I thought you were going to release me. I'll get you for this!
 NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,Follow the teachings of Lillip and you will discover the secrets of the elements.
-NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.","Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere."
+NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.","Hei ystävä. Kuuntele, tapahtuipa mitä tahansa tässä maailmassa, et saa menettää toivoa. Niin kauan kuin seuraamme sankarien polkua, pysymme sinnikkäinä."
 NPC_000157,"My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip.","My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip."
 NPC_000158,"Farewell, young one. May Lillip guide and protect you.","Farewell, young one. May Lillip guide and protect you."
 NPC_000159,"Heren, your legacy will carry on and your courage will not be forgotten.","Heren, your legacy will carry on and your courage will not be forgotten."
@@ -208,16 +208,16 @@ NPC_000248,*Ugh* I've got a headache the size of Madrigal!,*Ugh* I've got a head
 NPC_000249,"It is your duty, don't forget that.","It is your duty, don't forget that."
 NPC_000250,"I am so glad to be working in Flarine. There is this strange sound coming that cave over there, though. It sounds like a giant creature of some sort. I'd stay away from there if I were you...","I am so glad to be working in Flarine. There is this strange sound coming that cave over there, though. It sounds like a giant creature of some sort. I'd stay away from there if I were you..."
 NPC_000251,"Well, you certainly are curious, aren't you? I'm Hent, the Acrobat Trainer of Flarine. It's a pleasure to meet you! Say, do you have any aspirin? ","Well, you certainly are curious, aren't you? I'm Hent, the Acrobat Trainer of Flarine. It's a pleasure to meet you! Say, do you have any aspirin? "
-NPC_000252,Farewell!,Farewell!
+NPC_000252,Farewell!,Jäähyväiset!
 NPC_000253,"Curenen, hear me now! I wish to follow your will!","Curenen, hear me now! I wish to follow your will!"
-NPC_000254,"There's something you need to do, adventurer.","There's something you need to do, adventurer."
+NPC_000254,"There's something you need to do, adventurer.","Sinun on tehtävä jotain, seikkailija."
 NPC_000255,The sky wept and the earth trembled when the Heroes began the final battle.,The sky wept and the earth trembled when the Heroes began the final battle.
 NPC_000256,"As one of the 8 Priests of Altar, I honor the Jester Hero Curenen. My duty is to protect the will of Curenen and to help successors of the Jester Hero realize their dreams.","As one of the 8 Priests of Altar, I honor the Jester Hero Curenen. My duty is to protect the will of Curenen and to help successors of the Jester Hero realize their dreams."
 NPC_000257,May the blessing of Curenen be with you always.,May the blessing of Curenen be with you always.
 NPC_000258,"Only the wisdom of Lillip, the Elementor Hero, can save us from certain doom.","Only the wisdom of Lillip, the Elementor Hero, can save us from certain doom."
-NPC_000259,"Eight stars stood strong against those who would seek our demise. At the very last moment, the eight stars shone as one.","Eight stars stood strong against those who would seek our demise. At the very last moment, the eight stars shone as one."
+NPC_000259,"Eight stars stood strong against those who would seek our demise. At the very last moment, the eight stars shone as one.","Kahdeksan tähteä oli vahvasti niitä vastaan, jotka etsivät meidän kuolemaamme. Aivan viime hetkellä kahdeksan tähteä loistivat yhtenä."
 NPC_000260,"Hello, my name is Horison Keloan, the Elementor Master. I'm a descendant of the very first Elementor Master and my job is to help guide adventurers on the path of Lillip.","Hello, my name is Horison Keloan, the Elementor Master. I'm a descendant of the very first Elementor Master and my job is to help guide adventurers on the path of Lillip."
-NPC_000261,"Remember the stars, adventurer. Remember the stars.","Remember the stars, adventurer. Remember the stars."
+NPC_000261,"Remember the stars, adventurer. Remember the stars.","Muista tähdet, seikkailija. Muista tähdet."
 NPC_000262,"Heren, please spread your heroic presence throughout the world.","Heren, please spread your heroic presence throughout the world."
 NPC_000263,I believe the tears of Rhisis will flow from the sky to wake the Heroes in our time of need. ,I believe the tears of Rhisis will flow from the sky to wake the Heroes in our time of need. 
 NPC_000264,"Jeperdy Soce is the name, my child. I'm one the 8 priests of Heren, the Blade Hero. I am delivering the will of Heren to his potential successors.","Jeperdy Soce is the name, my child. I'm one the 8 priests of Heren, the Blade Hero. I am delivering the will of Heren to his potential successors."
@@ -238,23 +238,23 @@ NPC_000278,May the sword of Billaon cut through those who wish to destroy us.,Ma
 NPC_000279,This is a terrible location for my shield shop! Why can't I be closer to the mayor?!,This is a terrible location for my shield shop! Why can't I be closer to the mayor?!
 NPC_000280,I don't understand why we have to sell our goods over here. We hardly get any customers. Bolpor and Haven have prime locations! It's just not fair!,I don't understand why we have to sell our goods over here. We hardly get any customers. Bolpor and Haven have prime locations! It's just not fair!
 NPC_000281,"Krinton's the name, and shields are my game. I make the toughest shields in town. I am following in the footsteps of Lucky, the original proprietor of this store.","Krinton's the name, and shields are my game. I make the toughest shields in town. I am following in the footsteps of Lucky, the original proprietor of this store."
-NPC_000282,"Thank you, come again! But don't expect any discounts...","Thank you, come again! But don't expect any discounts..."
+NPC_000282,"Thank you, come again! But don't expect any discounts...","Kiitos, tule uudestaan! Mutta älä odota alennuksia..."
 NPC_000283,Mmmm I love the way my flowers smell. So pure and sweet.,Mmmm I love the way my flowers smell. So pure and sweet.
 NPC_000284,What do you think of my flower garden? I've been working on it for a very long time. It's so peaceful here that it's easy to forget all the terrible things going on in the world.,What do you think of my flower garden? I've been working on it for a very long time. It's so peaceful here that it's easy to forget all the terrible things going on in the world.
 NPC_000285,"I am the Great Magician Laola. I may look young, but I am at least 200 years older than you, my child. Never judge a person by their looks. I've had a long life, and many adventures.","I am the Great Magician Laola. I may look young, but I am at least 200 years older than you, my child. Never judge a person by their looks. I've had a long life, and many adventures."
-NPC_000286,Be careful out there. There are many dangerous creatures around.,Be careful out there. There are many dangerous creatures around.
+NPC_000286,Be careful out there. There are many dangerous creatures around.,Ole varovainen siellä. Ympärillä on monia vaarallisia olentoja.
 NPC_000287,I live for the thrill of the adventure! Woooo!,I live for the thrill of the adventure! Woooo!
 NPC_000288,"Hey, you there! I've got a job for you. No questions, just do it! Hahaha!","Hey, you there! I've got a job for you. No questions, just do it! Hahaha!"
 NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?
 NPC_000290,"I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself.","I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself."
-NPC_000291,Was it something I said?,Was it something I said?
+NPC_000291,Was it something I said?,Sanoinko minä jotain?
 NPC_000292,"Billaon, our Hero. We will follow your spirit.","Billaon, our Hero. We will follow your spirit."
 NPC_000293,"He will smile, and the world will smile back. He is in our thoughts, our dreams, our hopes. He will not fail us, or leave us unprotected. He, is Billaon.","He will smile, and the world will smile back. He is in our thoughts, our dreams, our hopes. He will not fail us, or leave us unprotected. He, is Billaon."
 NPC_000294,"My name is Lobiet Lee and I am one of the 8 priests of Billaon, the Knight Hero. I am here to deliver the will of Billaon to his future successor.","My name is Lobiet Lee and I am one of the 8 priests of Billaon, the Knight Hero. I am here to deliver the will of Billaon to his future successor."
 NPC_000295,"Billaon will be watching over you, always.","Billaon will be watching over you, always."
 NPC_000296,"Oh, I am so sleepy! Do you have a question? Then you should ask me, Pang!","Oh, I am so sleepy! Do you have a question? Then you should ask me, Pang!"
-NPC_000297,Choose what you want to do.,Choose what you want to do.
-NPC_000298,Hello this is the place where silly humans visit.,Hello this is the place where silly humans visit.
+NPC_000297,Choose what you want to do.,Valitse mitä haluat tehdä.
+NPC_000298,Hello this is the place where silly humans visit.,"Hei, tämä on paikka, jossa typerät ihmiset vierailevat."
 NPC_000299,"Hello I am Darkon Pang, the youngest of the Pang brothers. We manage the Lodelights.","Hello I am Darkon Pang, the youngest of the Pang brothers. We manage the Lodelights."
 NPC_000300,"Choose the Lodelight where you want to revive.\nIf you want to revive somewhere else, just designate the place. Got it?","Choose the Lodelight where you want to revive.\nIf you want to revive somewhere else, just designate the place. Got it?"
 NPC_000301,"Bye! See you soon, after you die that is!","Bye! See you soon, after you die that is!"
@@ -293,7 +293,7 @@ NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha
 NPC_000334,Good bye. Never forget the way of the Acrobat. Ha ha ha,Good bye. Never forget the way of the Acrobat. Ha ha ha
 NPC_000335,"No one can stop you from jumping into it, even though you know that it is extremely hot.","No one can stop you from jumping into it, even though you know that it is extremely hot."
 NPC_000336,Cell,Cell
-NPC_000337,What? What do you want?,What? What do you want?
+NPC_000337,What? What do you want?,Mitä? Mitä haluat?
 NPC_000338,I know you were here before. I believe you have the ability to overcome the dangers.,I know you were here before. I believe you have the ability to overcome the dangers.
 NPC_000339,Speaking to me is already dangerous as it is. What do you want?,Speaking to me is already dangerous as it is. What do you want?
 NPC_000340,Everything is the same. Or is there something special about you? Ha ha Everything is the same.,Everything is the same. Or is there something special about you? Ha ha Everything is the same.
@@ -301,7 +301,7 @@ NPC_000341,"You MUST be crazy if you want to know about the mine behind me! If y
 NPC_000342,..,..
 NPC_000343,Oh Cell! He is really a bother. I have written this message for him. Please deliver it to him.,Oh Cell! He is really a bother. I have written this message for him. Please deliver it to him.
 NPC_000344,"Do you want to get the best weapon in Madrigal? Then come here, you will not regret it.","Do you want to get the best weapon in Madrigal? Then come here, you will not regret it."
-NPC_000345,"Come on, choose one. Which one do you want?","Come on, choose one. Which one do you want?"
+NPC_000345,"Come on, choose one. Which one do you want?","Tule, valitse yksi. Kumman haluat?"
 NPC_000346,"Even though I am very young, many people say that I am the best weapon manufacturer in all of Madrigal.","Even though I am very young, many people say that I am the best weapon manufacturer in all of Madrigal."
 NPC_000347,"My name is Remine Crowd, and I run the Weapon Shop here in Darken.","My name is Remine Crowd, and I run the Weapon Shop here in Darken."
 NPC_000348,Please visit me again!,Please visit me again!
@@ -452,7 +452,7 @@ NPC_000500,Glory to Kion,Glory to Kion
 NPC_000501,Tucani! Would you PLEASE stop singing that stupid song? I have a headache...,Tucani! Would you PLEASE stop singing that stupid song? I have a headache...
 NPC_000502,"Humans look down us because we used to do their work for them. But as 'smart' as humans may be, we are far stronger. We are by no means, inferior. Understand?","Humans look down us because we used to do their work for them. But as 'smart' as humans may be, we are far stronger. We are by no means, inferior. Understand?"
 NPC_000503,"Yeah, not gonna happen. If you didn't already figure it out, we don't particularly like you people. So unless you have some sort of business to discuss, I suggest you leave. Now.","Yeah, not gonna happen. If you didn't already figure it out, we don't particularly like you people. So unless you have some sort of business to discuss, I suggest you leave. Now."
-NPC_000504,It's about time you left...,It's about time you left...
+NPC_000504,It's about time you left...,Sinun on aika lähteä...
 NPC_000505,Only the bravest of adventurers should dare to enter. Are you prepared?,Only the bravest of adventurers should dare to enter. Are you prepared?
 NPC_000506,"You are brave, young one. Go with honor.","You are brave, young one. Go with honor."
 NPC_000507,"If you have any doubts whatsoever, you should just quit now. Too much blood has been spilled already over all of this.","If you have any doubts whatsoever, you should just quit now. Too much blood has been spilled already over all of this."
@@ -483,7 +483,7 @@ NPC_000531,Draw your weapon and cut down everything that stands in your way! A M
 NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary."
 NPC_000533,"Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. ","Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. "
 NPC_000534,"Keep your pride, courage and hope!","Keep your pride, courage and hope!"
-NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Welcome! If you need any help or information, please don't hesitate to ask."
+NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Tervetuloa! Jos tarvitset apua tai tietoa, älä epäröi kysyä."
 NPC_000539,"Hi there, I have a quest for you!","Hi there, I have a quest for you!"
 NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,Welcome to Madrigal. You look lost! Is there anything I can help you with?
 NPC_000541,"I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!","I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!"
@@ -860,7 +860,7 @@ NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,New to M
 NPC_001033,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!
 NPC_001034,"I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?","I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?"
 NPC_001035,Enjoy your stay in Madrigal!,Enjoy your stay in Madrigal!
-NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the arena!","Hey, you two! Stop that bickering, it's pointless! Take it to the arena!"
+NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the arena!","Hei te kaksi! Lopettakaa se riitely, se on turhaa! Vie se areenalle!"
 NPC_001047,"In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties.","In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties."
 NPC_001048,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.
 NPC_001049,Another one bites the dust!,Another one bites the dust!
@@ -950,10 +950,10 @@ NPC_100004,Hello my name is Zaoma.,Hello my name is Zaoma.
 NPC_100005,Oh really! you're not who I thought you were.,Oh really! you're not who I thought you were.
 NPC_100006,I'm an old man.,I'm an old man.
 NPC_100007,Goodbye.,Goodbye.
-NPC_100008,Hello my name is Locku.,Hello my name is Locku.
-NPC_100009,You are not our friend.,You are not our friend.
+NPC_100008,Hello my name is Locku.,"Hei, nimeni on Locku."
+NPC_100009,You are not our friend.,Et ole ystävämme.
 NPC_100010,I am the leader of the MewMew people.,I am the leader of the MewMew people.
-NPC_100011,Goodbye.,Goodbye.
+NPC_100011,Goodbye.,Hyvästi.
 NPC_100012,"Hi, I'm Letana.","Hi, I'm Letana."
 NPC_100013,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.
 NPC_100014,I am the hunter of the MewMew people.,I am the hunter of the MewMew people.
@@ -981,9 +981,9 @@ NPC_100035,"It's alright, young successor. Only the bravest of souls can hope to
 NPC_100036,There are other brave souls locked in fierce combat with Meteonyker at the moment. Their deaths will be swift. You must wait.,There are other brave souls locked in fierce combat with Meteonyker at the moment. Their deaths will be swift. You must wait.
 NPC_100037,"You defeated Meteonyker? Excellent work, successor!","You defeated Meteonyker? Excellent work, successor!"
 NPC_100038,"Welcome! Don't forget to complete quests, they give many #bexperience and rewards#nb! Hope you will enjoy the game!","Welcome! Don't forget to complete quests, they give many #bexperience and rewards#nb! Hope you will enjoy the game!"
-NPC_100039,Who goes there?,Who goes there?
+NPC_100039,Who goes there?,Kuka sinne menee?
 NPC_100040,I am Gigaka! Protector of these lands.,I am Gigaka! Protector of these lands.
-NPC_100041,Watch yourself.,Watch yourself.
+NPC_100041,Watch yourself.,Varo itseäsi.
 NPC_100042,Welcome to Azria!,Welcome to Azria!
 NPC_100043,"Stay safe out there, traveler.","Stay safe out there, traveler."
 NPC_100044,Stay safe.,Stay safe.
@@ -1063,15 +1063,15 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,"Kuka osallistuu #bfinaaliin Manila#nb ja voittaa #bFlyff World Championship 2026#nb-mestaruuden? Todista, että olet paras!"
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!","Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!"
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!","Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!"
 NPC_100124,May the best win!,May the best win!
 NPC_100125,"I am an automated machine intended to replace and eliminate humans. However, I am also designed to deliver rewards in exchange for coins.","I am an automated machine intended to replace and eliminate humans. However, I am also designed to deliver rewards in exchange for coins."
 NPC_100126,"We will probably meet again, and I might have more items for you next time!","We will probably meet again, and I might have more items for you next time!"
 NPC_100127,"Hi, I am Private Leo. I got separated from my group after entering this dungeon.","Hi, I am Private Leo. I got separated from my group after entering this dungeon."
-NPC_100128,"Thank you for saving me, I owe you one!","Thank you for saving me, I owe you one!"
-NPC_100129,Let's get out of here!,Let's get out of here!
+NPC_100128,"Thank you for saving me, I owe you one!","Kiitos, että pelastit minut, olen sinulle yhden velkaa!"
+NPC_100129,Let's get out of here!,Mennään pois täältä!
 NPC_400000,Collect some #bW-Token#nb from masquerpets and I will give you nice rewards!,Collect some #bW-Token#nb from masquerpets and I will give you nice rewards!
 NPC_100130,"Upgrade Costume Boxes with Repair Hammer that drops when you hunt a monster, and get various items!","Upgrade Costume Boxes with Repair Hammer that drops when you hunt a monster, and get various items!"
 NPC_100131,"I'm the guardian of The Wilds, a wild and savage realm. What brings you here?","I'm the guardian of The Wilds, a wild and savage realm. What brings you here?"
@@ -1079,8 +1079,8 @@ NPC_100132,Always another group thinking they can conquer 'The Wilds.' Let's see
 NPC_100133,"Stay safe out there. Remember, not all who wander find their way back.","Stay safe out there. Remember, not all who wander find their way back."
 NPC_100134,"A wise decision, my friend. You're about to embark on a journey that will carve your legend. Brace yourself, for the untamed awaits.","A wise decision, my friend. You're about to embark on a journey that will carve your legend. Brace yourself, for the untamed awaits."
 NPC_100135,"Life's full of choices, and 'The Wilds' isn't for everyone. If you ever hunger for adventure, remember where I stand.","Life's full of choices, and 'The Wilds' isn't for everyone. If you ever hunger for adventure, remember where I stand."
-NPC_100136,Interested in having your very own room?,Interested in having your very own room?
-NPC_100137,You now have the opportunity to claim your own space! Invite a few friends or organize exclusive meetings with your guildmates.,You now have the opportunity to claim your own space! Invite a few friends or organize exclusive meetings with your guildmates.
+NPC_100136,Interested in having your very own room?,Kiinnostaako oma huone?
+NPC_100137,You now have the opportunity to claim your own space! Invite a few friends or organize exclusive meetings with your guildmates.,Sinulla on nyt mahdollisuus lunastaa oma tila! Kutsu muutama ystävä tai järjestä ainutlaatuisia tapaamisia kiltasi jäsenten kanssa.
 NPC_100138,I specialize in crafting top-notch furniture and other household items to adorn your room. I'm renowned as the finest carpenter around!,I specialize in crafting top-notch furniture and other household items to adorn your room. I'm renowned as the finest carpenter around!
 NPC_100139,Owning a splendid home can rejuvenate and fortify you for battles in Madrigal.,Owning a splendid home can rejuvenate and fortify you for battles in Madrigal.
 NPC_100140,Does your guild aspire to have its own house?,Does your guild aspire to have its own house?
@@ -1131,7 +1131,7 @@ NPC_100184,"In order for me to give you a quest, all partners of your couple mus
 NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!","I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!"
 NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.","Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me."
 NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.","Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it."
-NPC_100188,We reuse our food - of course joking!,We reuse our food - of course joking!
+NPC_100188,We reuse our food - of course joking!,Käytämme ruokaamme uudelleen - tietysti vitsi!
 NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,Hello there! I may have something useful for you. Would you mind taking a look in my bag?
 NPC_100190,I'm just walking around and selling stuff.,I'm just walking around and selling stuff.
 NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","I don't know what items will be available when, so come back whenever you have time. Hehe"
@@ -1149,7 +1149,7 @@ NPC_150005,"Hey, look at those clouds. Doesn’t that one look like a cat’s fa
 NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?","Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?"
 NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?","This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?"
 NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.","I'm Karr. If you drop your guard during wartime, that moment might be your last."
-NPC_150009,…Do you need something?,…Do you need something?
+NPC_150009,…Do you need something?,…Tarvitsetko jotain?
 NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,My name’s Zerke. Keep your questions short. I’ll help if I can.
 NPC_150011,"It feels good to protect something, doesn’t it?","It feels good to protect something, doesn’t it?"
 NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,I'm Elin. My job is to make sure everyone coming through here stays safe.
@@ -1333,15 +1333,15 @@ NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for wor
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ","My apologies, there are no quests available for an adventurer of your talent and skill at this time. "
 NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
-NPC_150190,Farewell!,Farewell!
+NPC_150190,Farewell!,Jäähyväiset!
 NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
 NPC_150192,"So what can you do for me, huh?","So what can you do for me, huh?"
 NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
 NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
-NPC_150195,Farewell!,Farewell!
+NPC_150195,Farewell!,Jäähyväiset!
 NPC_150196,"Welcome to Eillun! Please, enjoy your stay!","Welcome to Eillun! Please, enjoy your stay!"
 NPC_150197,"Hello, traveler. I have some missions for you!","Hello, traveler. I have some missions for you!"
 NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
-NPC_150200,Farewell!,Farewell!
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
+NPC_150200,Farewell!,Jäähyväiset!
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,"Olen havainnut tietoturvaongelman, joka vaatii välitöntä huomiota. Pystytkö käsittelemään sitä?"
