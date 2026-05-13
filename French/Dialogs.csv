@@ -1,4 +1,4 @@
-﻿Key,English,French
+Key,English,French
 NPC_WHOAREYOU,Who are you?,Présentation
 NPC_GOODBYE,Goodbye!,Au revoir
 NPC_CARGO,CARGO,CARGO
@@ -466,7 +466,7 @@ NPC_000514,"Worry not, Hormes. We will not fail. ","Ha ha, ne te lamente pas tan
 NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.","Une grande étoile s'évanouit derrière le ciel écarlate, et les autres étoiles brillent alors de plus belle."
 NPC_000516,"My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?","Je suis le Sage des Assassins, Guabrill Elldoradin. J'étudie et médite sur la vie de Heren, le Héros des Assassins."
 NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,"Ils resteront dans la mémoire collective, de génération en génération… car ils furent des Héros."
-NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb","Si vous êtes courageux et habile, venez ici ! #b#cff0000ffLa Guerre des Guildes vous attend !#nc#nb"
+NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb","#b#cffffdd66Rassemblez-vous, guerriers de Madrigal ! La Guerre des Guildes débute ici. Inscrivez votre guilde et gravez votre nom dans la légende !#nc#n"
 NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ","Si vous être brave et sage, vous devriez vous confronter aux autres aventuriers. Et ceci est possible ici, maintenant !"
 NPC_000520,"It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena.","Je suis le manager des Guerres de Guildes, je m'occupe des inscriptions."
 NPC_000521,For Glory!,Pour l'honneur de la Guilde !
@@ -1063,8 +1063,8 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Qui participera aux #bfinals à Manille#nb et remportera le #bFlyff World Championship 2026#nb ? Prouvez que vous êtes le meilleur !
-NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!","Bienvenue, compétiteur ! Je suis Ava, la responsable du Championnat Flyff World. Je vous offrirai le meilleur équipement possible pour gagner la compétition !"
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,"Qui atteindra les #bFinales de Manille#nb et remportera le #bChampionnat du monde Flyff 2026#nb ? #b#cffffdd66Astral réussira-t-il une nouvelle fois à s’imposer ?#nc#n"
+NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!","Bienvenue, compétiteur ! Je suis Ava, la responsable du Championnat du monde Flyff 2026. Je vous offrirai le meilleur équipement possible pour gagner la compétition !"
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!","Hm je sens que tu es le meilleur compétiteur JcE ! Non, attendez... Peut-être en JcJ ? Je ne sais pas. Bonne chance !"
 NPC_100124,May the best win!,Que le meilleur gagne !
 NPC_100125,"I am an automated machine intended to replace and eliminate humans. However, I am also designed to deliver rewards in exchange for coins.","Je suis une machine automatisée destinée à remplacer et à éliminer les humains. Cependant, je suis également conçu pour offrir des récompenses en échange de pièces de monnaie."
