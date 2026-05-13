@@ -1,6 +1,6 @@
 ﻿Key,English,Traditional_Chinese
 CLIENT_FAQ_INC_000000,How can I be resurrected?,要如何復活？
-CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",當人物死亡後，會出現復活視窗，您可以在復活視窗中選擇『城鎮之星』，在最近的城鎮中復活。 如果你有“復活捲軸”或對你施放復活技能，你可以在你死去的地方立即復活。
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",當人物死亡後，會出現復活視窗，您可以在復活視窗中選擇『城鎮之星』，在最近的城鎮中復活。 如果你有“復活卷軸”或對你施放復活技能，你可以在你死去的地方立即復活。
 CLIENT_FAQ_INC_000002,Where are the monsters?,怪物在那裡？
 CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,城鎮的外面有凶猛的怪物出沒，請多多注意唷！
 CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,如何選定或取消目標呢？
@@ -14,7 +14,7 @@ CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting
 CLIENT_FAQ_INC_000012,How do I gain my health back?,食物無法將 HP 補滿。
 CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,用來恢復 HP 的物品會有恢復的上限值。請確定食物的恢復量後，選擇適合自己 HP 的食物。
 CLIENT_FAQ_INC_000014,How do I get a Job?,如何轉職？
-CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到 15 級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖因特開始，雜技師任務在達肯開始。
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到 15 級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖音特開始，雜技師任務在得肯開始。
 CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,等級 15 級之後經驗值不會累積了。
 CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",等級到了 15 級之後，就無法再獲得經驗值了，必需要去執行第 1 次『轉職任務』，在成功轉職之後才能再繼續獲得經驗值。等級 15 級之後，一定要去和想要轉的職業的教官見面，並執行任務。
 CLIENT_FAQ_INC_000018,,
@@ -34,7 +34,7 @@ CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choo
 CLIENT_FAQ_INC_000032,Where can I get a quest?,任務要去哪裡接？
 CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,想要接任務，必須先到達適合的等級或職業，之後再去找 NPC 對話，即可接一些任務。喜歡玩任務嗎？那就要常常與 NPC 對話喔。
 CLIENT_FAQ_INC_000034,What is a duel?,什麼是對戰？
-CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",對戰就是指玩家與玩家之間的對決。意思就是說雙方必須達成協議之後，進行 PvP(Player VS Player)。與 PK 不同之處在於 PVP 不會受到懲罰。
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",對戰就是指玩家與玩家之間的對決。意思就是說雙方必須達成協議之後，進行 PvP (Player VS Player)。與 PK 不同之處在於 PVP 不會受到懲罰。
 CLIENT_FAQ_INC_000036,How can I become famous?,如何提升名譽值？
 CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,在對戰時獲得很多勝利時，名譽自然就會上升。隨著名譽的上升，可以獲得各種稱號。
 CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,什麼是惡名點數？
@@ -44,7 +44,7 @@ CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting th
 CLIENT_FAQ_INC_000042,What is a guild?,何謂公會?
 CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",公會比劇團的規模更大，是由許多人所組成的組織。隨著公會的成長，能夠使用公會銀行、公會披風、公會戰、1：1 公會戰等的功能。
 CLIENT_FAQ_INC_000044,Where can we form a guild?,公會要在哪裡創呢?
-CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖因特市區的 [城鎮服務處] 找 NPC 海蓮娜說話。創公會時，角色的等級必需要 40 級以上，等級到了 40 級之後，透過任務就能夠創立公會。
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖音特城的 [城鎮服務處] 找 NPC 海蓮娜說話。創公會時，角色的等級必需要 40 級以上，等級到了 40 級之後，透過任務就能夠創立公會。
 CLIENT_FAQ_INC_000046,How about a Party?,要如何轉換成巡迴劇團？
 CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,劇團等級升到 10 級之後，按下劇團視窗裡面的『Change』按鈕即可轉換成巡迴劇團。
 CLIENT_FAQ_INC_000048,How to invite other players?,如何邀請其他成員？

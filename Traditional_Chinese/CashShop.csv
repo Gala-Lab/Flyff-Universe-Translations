@@ -1,25 +1,25 @@
 ﻿Key,English,Traditional_Chinese
-CS_LIMITED_OFFER,Limited Offer,限量優惠
+CS_LIMITED_OFFER,Limited Offer,限時優惠
 CS_NEW_COSTUME,New Costume,新時裝
 CS_NEW_PICKUP_PET,New Pickup Pet,新撿寵
-CS_FASHION,Fashion,時尚服裝
-CS_FASHION_SETS,Fashion Sets,時尚套裝
-CS_FASHION_PIECES,Fashion Pieces,時尚單品
+CS_FASHION,Fashion,時裝
+CS_FASHION_SETS,Fashion Sets,套裝
+CS_FASHION_PIECES,Fashion Pieces,部件
 CS_CLOAKS,Cloaks,披風
-CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,面具 & 眼部 & 頭髮
+CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,配件
 CS_PICKUP_PETS,Pickup Pets,撿寵
 CS_FLYING,Flying,飛行器
 CS_CONSUMABLES,Consumables,消耗品
 CS_RECOVERY,Recovery,恢復
-CS_SCROLL,Scroll,捲軸
-CS_BUFF,Buff,Buff
-CS_BLINKWING,Blink Wing,傳送卷
-CS_TRANS,Trans,變身卷
+CS_SCROLL,Scroll,卷軸
+CS_BUFF,Buff,增益效果
+CS_BLINKWING,Blink Wing,傳送卷軸
+CS_TRANS,Trans,變身卷軸
 CS_MATERIAL,Material,材料
-CS_PROTECTION,Protection,防爆卷
-CS_AWAKES,Awakes,增幅卷
+CS_PROTECTION,Protection,防爆卷軸
+CS_AWAKES,Awakes,喚醒卷軸
 CS_UPGRADE,Upgrade,精煉
-CS_RANDOM,Random,能力值隨機卷
+CS_RANDOM,Random,能力值隨機卷軸
 CS_STONE,Stone,元素石
 CS_VENDOR_SHOP,Vendor Shop,行動商店
 CS_FLASK_POTION,Flask & Potion,藥水
@@ -35,7 +35,7 @@ CS_HOUSING,Housing,小屋
 CS_EVENT,Event,活動
 CS_WORLD_TEMPLATE,World Template,世界模板
 CS_WORLD_THEME_PACK,Theme Pack,主題包
-CS_WORLD_BUNDLE_PACK,Bundle Pack,捆綁包
-CS_WORLD_SINGLE_PACK,Single Pack,單獨包
+CS_WORLD_BUNDLE_PACK,Bundle Pack,組合包
+CS_WORLD_SINGLE_PACK,Single Pack,單件包
 CS_NPC,NPC,NPC
 CS_COUPLE,Couple,情侶
