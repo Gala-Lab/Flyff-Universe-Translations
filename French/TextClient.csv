@@ -778,7 +778,7 @@ TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,Cette compétence est 
 TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,Vous avez reçu %s Penya - Total : %s
 TEXTCLIENT_REAPITEM_SHORT,Received %s,Vous avez reçu %s
 TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s a reçu %s
-TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Maintenance dans %s
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Début de la maintenance dans : %s
 TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,La maintenance a été annulée
 TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,Le prix de %s% ne peut excéder %s% Penya.
 TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,La boutique de votre Marchand a été ouverte.
