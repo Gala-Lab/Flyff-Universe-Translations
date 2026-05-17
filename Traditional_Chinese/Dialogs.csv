@@ -170,8 +170,8 @@ NPC_000177,"Aenn, the Ringmaster Hero, was one of the most important of all of o
 NPC_000178,"Hi! It is very nice to meet you. My name is Ellend Eledyo and I am the Ringmaster Master. Pretty cool title, huh? I love it, and what's more, I love guiding pupils on the path of the Ringmaster Hero, Aenn.",你好！ 很高興認識你。 我的名字是愛嵐‧依莉迪歐，我是守護者首領。 很酷的名號吧？ 我喜歡它，更重要的是，我喜歡引導學生走上大師英雄阿利安諾的道路。
 NPC_000179,Pray to Aenn for protection and you will have it.,向阿利安諾祈求保護，你就會得到它。
 NPC_000180,A great creature is imprisoned here. Are you ready to challenge him?,等待你們的挑戰喔~
-NPC_000181,"Why do you wish to challenge Clockworks?\n1 [For Honor!][IDS_NPC_ForHonor] \n2 [For Fun!][IDS_NPC_ForFun] \n3 [Meh, just because?][IDS_NPC_MehJustBecause]",有什麼事啊？\n1.[獵殺怪物][]\n2.[無聊嗎～][]\n3.[管你的！][]
-NPC_000182,"Are you sure you're ready for this? Alright, successor, would you like to challenge Clockworks again?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",您確定您準備好了嗎？好吧，繼任者，想再一次挑戰時空毀滅者了嗎？\n[是][是_進入]/[不][不_入場]\n\n#cffff0000 所有參與的工會成員必須靠近你才能進入。#nc
+NPC_000181,"Why do you wish to challenge Clockworks?\n1 [For Honor!][IDS_NPC_ForHonor] \n2 [For Fun!][IDS_NPC_ForFun] \n3 [Meh, just because?][IDS_NPC_MehJustBecause]",為什麼你想挑戰時空毀滅者？\n1.[為了榮耀！][IDS_NPC_ForHonor]\n2.[為了好玩！][IDS_NPC_ForFun]\n3.[嗯，只是想試試？][IDS_NPC_MehJustBecause]
+NPC_000182,"Are you sure you're ready for this? Alright, successor, would you like to challenge Clockworks again?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",您確定準備好了嗎？好吧，繼任者，想再次挑戰時空毀滅者嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000所有參與的公會成員必須靠近你才能進入。#nc
 NPC_000183,"You defeated Clockworks? Excellent work, successor!",實現了你的理想嗎？恭喜你喔！
 NPC_000184,"Only the honorable combatant is worthy of facing Clockworks. You are brave, successor. \nAre you ready to challenge Clockworks?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",只有光榮的戰士才有辦法面對時空毀滅者。展現勇氣吧，英雄的繼承人。\n你準備好挑戰時空毀滅者了嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc
 NPC_000185,This isn't a game you fool! Clockworks will tear you to pieces! Come back when you decide to be serious about this.,要好好珍惜這世上的一切！
@@ -349,7 +349,7 @@ NPC_000394,"A piece of advice? A Mercenary's weapon is their livelihood. You mus
 NPC_000395,"Hello, I'm Andy Kimu, the Mercenary Master of Flarine. The pay is good, but they make me wear this ridiculous looking robe. It's so itchy! I stroke my beard all day just to keep my mind off of it.",我是布拉里斯專業的轉職幫手安迪凱，擔任勇者的轉職。雖然進入這個行業沒有很久，但是我會盡力而為的。
 NPC_000396,"Rhisis will be with you, always, young one.",年輕的黎席斯將永遠和你在一起。
 NPC_000397,Hmm Aha! Why not ask the vagrants? Maybe they can handle this.,嗯.. 啊!你去拜託其他冒險者如何?那些人應該可以幫你解決問題的。
-NPC_000398,Merry Christmas! I hope everything goes well this time!,希望今年的聖誕節會幸福喔，Happy 聖誕!!
+NPC_000398,Merry Christmas! I hope everything goes well this time!,聖誕快樂！希望這次一切順利！
 NPC_000399,My name is Saint Aramy and I am one of the Santa's in the Madrigal Christmas Society. Nice to meet you,我是擔任瑪德利賈聖誕協會的聖誕老公公聖音特亞羅梅。歡迎啊~
 NPC_000400,Hey! Merry Christmas!,喔耶！聖誕快樂~
 NPC_000401,Hmm It is very hard to track Noie's Planet in the Amedus galaxy. Maybe I have to use the chaos theory.,天上的星星數都數不清，如果用混沌理論來說明，會不會比較容易了解！
@@ -435,7 +435,7 @@ NPC_000480,"I am Captain Elic Eward of the Madrigal Job Training Center. If you 
 NPC_000481,"Remember, every party needs an Assist! Don't leave home without us!",不要忘記幫助自己這句話，加油!
 NPC_000482,Yay! I am so happy! Bubble smiles on us!,我好高興喔~巴布樂正對著我們微笑！
 NPC_000483,"I may not look like much, but I'm very powerful. I'm ready for anything! The Soldiers of Kion will prevail!",潘不大能相信陌生人，你可別見怪！
-NPC_000484,"My name is Eoners Archer and I am one of the hired soldiers of Kion. We are here to protect the citizens of Flarine, as long as the money is right. \n*wink*",我的名字是「恩內爾思」，我是凱英的僱傭兵之一。 只要錢到位，我們就會在這保護所有布拉里斯的公民。*眨眼*
+NPC_000484,"My name is Eoners Archer and I am one of the hired soldiers of Kion. We are here to protect the citizens of Flarine, as long as the money is right. \n*wink*",我的名字是「恩內爾思」，我是凱英的僱傭兵之一。只要錢到位，我們就會在這保護所有布拉里斯的公民。\n*眨眼*
 NPC_000485,Love to Kion!!,為了傭兵團的光榮勝利！
 NPC_000486,"Welcome to Flarine! Please, enjoy your stay!",布拉里斯的市民們，一切都會順利的，一切都會順利..
 NPC_000487,"Flarine is the capital city of Madrigal. It may be a small city, but it's certainly the most beautiful. Feel free to come see me if you ever need anything.",布拉里斯是瑪德利賈的首府。 它可能是一個小城市，但它肯定是最美麗的。 如果您需要任何東西，請隨時來找我。
@@ -970,9 +970,9 @@ NPC_100024,Come back anytime you want!,你隨時都可以過來!~
 NPC_100025,"Durandil swords are really great, too bad you can't mine with them...",杜蘭迪爾劍真的很棒，可惜你不能用它們來挖掘......
 NPC_100026,"I am Dekane, the creator of this mine.",我是「迪肯」，是這個礦坑的創造者
 NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,我喜歡像你這樣勇敢的人！ 這是封印密室大門的鑰匙。 祝你好運！
-NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,確實，對於冒險者來說，打敗龍並非易事。 準備好後再來試試運氣。#bThe bottom of the mine#nb
+NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,確實，對冒險者來說，擊敗龍並非易事。完成任務 #b礦井底部#nb 後，再來試試你的運氣吧。
 NPC_100029,See you bye bye!,再見~~掰掰
-NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",你好，你在這裡做什麼?\n1.[戰鬥 “地炎飛龍”][IDS_NPC_ 炎時]\n2.[你是誰？][IDS_NPC_ 迪肯]。
+NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",你好，你在這裡做什麼？\n1.[挑戰地炎飛龍][IDS_NPC_Meteo]\n2.[你是誰？][IDS_NPC_Dekane]
 NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",我是「迪肯」，這個礦坑的創造者。 既然你已經證明了自己，我就可以告訴你礦井底部的真正問題。
 NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","這個秘密房間裡，沉睡了很久以前由「闇影」創造的遠古時代的龍。 想要打敗他們，你就需要一支裝備精良的隊伍。 啊，但是有一個細節我忘了說，你需要 1,000,000 個金幣，你需要收集 50 個「噬血蜈蚣的背甲」並且擊殺了 50 隻「模範奇昆勞動者」就能來打開大門。 您和您的團隊準備好接受這個挑戰了嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc"
 NPC_100033,Would you like to take up the challenge again?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc,你想再次接受挑戰嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc
@@ -1006,7 +1006,7 @@ NPC_100060,,
 NPC_100061,You are ready to challenge the Red Meteonyker. Are you sure you would like to enter?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the party members participating must be close to you to enter.#nc,你已準備好挑戰炙焰飛龍。你確定要進入嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000 所有參與的成員必須靠近你才能進入。#nc
 NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,你必須去與庫瑪交談以複製熔岩祕境鑰匙。
 NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",大家好，我是阿茲里亞胖胖，胖胖兄弟中年紀最大的，我們管理生命光塔。
-NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004f#cfff60000 80 級公會戰申請中心#cff8a004fis開放！#nc#nb
+NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004f#cfff6000080 級公會戰申請中心#cff8a004f開放中！#nc#nb
 NPC_100065,Good Luck!,好運！
 NPC_100066,#b#cff8a004fEnjoy the #cfff60000Level 60 Guild Siege #cff8a004fbefore your second class!#nc#nb,#b#cff8a004f在第二個職業前好好享受#cfff60000 60 等級公會戰#cff8a004f！#nc#nb
 NPC_100067,"With global warming, I’m gonna end up living in a freezer..",隨著全球暖化，我最終會住在冰箱裡..
@@ -1063,7 +1063,7 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,誰會前往 #b馬尼拉總決賽#nb，贏下 #b2025 飛飛世界錦標賽#nb 呢？證明你就是最強的吧！
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,誰會前往 #b馬尼拉總決賽#nb，贏下 #b2026 飛飛世界錦標賽#nb 呢？證明你就是最強的吧！
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",歡迎你，參賽者！我是 [FWC 管理員] 艾娃，飛飛世界錦標賽的管理員。我會和你交換最頂級的裝備，助你贏得這場賽事！
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",嗯，我感覺你會是最強的 PvE 參賽者！不，等等……也可能是 PvP？哈，我也說不準。祝你好運！
 NPC_100124,May the best win!,願最強者獲勝！
@@ -1136,7 +1136,7 @@ NPC_100189,Hello there! I may have something useful for you. Would you mind taki
 NPC_100190,I'm just walking around and selling stuff.,我只是四處走走，順便賣點東西。
 NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe",我也不知道什麼時候會有什麼商品上架，所以你有空就再回來看看吧，嘿嘿。
 NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.",啊哈，你眼神裡有股勁！讓我想起我年輕時那段混小子的歲月，當時我連自己的靴帶都還綁不太好。那時我正面迎上一場足以擊沉最兇猛船隻的風暴——但你看，我現在還活得好好的！想在這片海上活下來，得有點骨氣，而我看你正好就有那份膽識。
-NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!",啊oy！我是索萬船長，瑪德利賈海上的惡名之災！我在無數戰役中與人刀劍相交、炮火對轟，其中還有不少是和 Shade 本人的黑暗勢力正面交鋒。能從那種遭遇中活下來的人可沒幾個！若有危險要面對，或寶藏可奪，你大可相信老索萬一定到過那裡！
+NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!",嘿呀！我是索萬船長，瑪德利賈海上的惡名之災！我在無數戰役中與人刀劍相交、炮火對轟，其中還有不少是和闇影本人的黑暗勢力正面交鋒。能從那種遭遇中活下來的人可沒幾個！若有危險要面對，或寶藏可奪，你大可相信老索萬一定到過那裡！
 NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!",當你啟程穿越這片危險海域與魔幻大地時，要記住，瑪德利賈的美麗和它的致命一樣令人著迷。保持警覺吧，勇敢的旅人——冒險或許正向你招手，但危機也潛伏在每一道浪濤之下。願你一路順風，直到我們再次相逢，願潮汐都站在你這邊！
 NPC_100195,"Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!",嘿！像你這樣的新面孔，替這些老帆又點起了新火花。有你這樣的夥伴在，我說不定真能找到下一場偉大航海冒險的靈感！
 NPC_100196,"Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!",在汪洋大海上航行，可不只是力量的考驗——那是一門藝術，是勇氣、機智與對未知渴望的交織。若你的心渴望探索的刺激與刀劍交鋒的熱血，那就記住，我會在這裡，隨時準備迎接你投身那些狂野而壯闊的遠航！

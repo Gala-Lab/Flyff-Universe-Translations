@@ -94,7 +94,7 @@ UI_CHARINFO_CHANGEPAGE_TOOLTIP,Switch to a different stat page,切換數值頁
 UI_CHARINFO_PLUSMINUS_TOOLTIP,"After allocating your stat points, press Confirm.",在更改能力點後，按下套用。
 UI_CHARINFO_STR_TOOLTIP,Increases the weapon's Attack Power (#cffb40000except wands and bows#nc).,增加武器的攻擊力 (#cffb40000法杖除外#nc)
 UI_CHARINFO_STA_TOOLTIP,"Increases Defense, Max HP, and Max FP.\nIncreases HP and FP recovery rate.",增加防禦力、最大生命、最大活力。\n增加生命、活力回復率
-UI_CHARINFO_DEX_TOOLTIP,"Increases Attack Speed, Parry, Block and Critical Chance.\n#cffb40000Increases bow damage.#nc",增加攻擊速度\n增加迴避、格擋\n增加暴擊率。\n#cffb40000增加弓的攻擊力。#nc
+UI_CHARINFO_DEX_TOOLTIP,"Increases Attack Speed, Parry, Block and Critical Chance.\n#cffb40000Increases bow damage.#nc",增加攻擊速度、迴避、格擋與暴擊率。\n#cffb40000增加弓的攻擊力。#nc
 UI_CHARINFO_INT_TOOLTIP,Increases Max MP.\nIncreases Magic Attack Power.,增加最大魔力值\n魔法攻擊力
 UI_CHARINFO_GP_TOOLTIP,"After allocating your stat points, press Confirm.",在更改能力點後，按下套用。
 UI_CHARINFO_PVP_DUELFAME,Duel Fame,決鬥名聲
@@ -646,7 +646,7 @@ UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s 剛剛進入了。
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s 離開了。
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已購買 %s (%d)，花費了 %lld 金幣
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,確認出售商城物品
-UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,這是商城物品，確定要出售嗎?\n一旦出售將無法取回。
+UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,這是商城物品，確定要出售嗎？
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[綁定]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[帳戶綁定]
 UI_BEAUTY_SHOP_TITLE,Hair Salon,美容院
@@ -1030,7 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,階段
 UI_TOOLTIP_COMBO_CIRCLE,Link,迴圈
 UI_TOOLTIP_COMBO_FINISH,Finisher,完成
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基礎傷害：%d ~ %d
-UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,傷害倍率：%.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,傷害轉換比例
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,治癒量轉換比例
 UI_TOOLTIP_SCALE_TIME,Time Scaling,持續時間轉換比例
@@ -1100,7 +1100,7 @@ UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,
 UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,武器穿洞卡片重置
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,登錄武器穿洞卡片。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,融合 3 張武器穿洞卡片，以獲得 1 張相同等級的穿洞卡片。
-UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,如果合成卡片，登錄的卡片就會消失。\n您想繼續嗎?
+UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,重新抽選將消耗作為材料的卡片。要繼續嗎？
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,轉換為綁定
 UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",該物品將變為綁定物品，無法再出售給 NPC。您可以使用此方法堆疊綁定狀態不同的相同物品 (原本無法堆疊的物品)。請注意：綁定物品無法交易，且此操作無法撤銷。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,轉換後的物品無法復原。\n您想繼續嗎?
@@ -2278,7 +2278,7 @@ UI_RAINBOWRACE_FRIEND_APPLICATION,Application,申請
 UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,與 %s 一起參加彩虹競賽雙人組 (%s) ? 報名費為 %lld 金幣。
 UI_RAINBOWRACE_ITEM,Item,道具
 UI_RAINBOWRACE_SPEED,Speed,速度
-UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s 邀請您參加彩虹競賽 (雙人組隊賽 - %s)。\n報名費為 %lld 金幣。接受嗎？
+UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s 邀請您參加彩虹競賽 (雙人組隊賽 - %s)。\n報名費為 %lld 金幣\n接受嗎？
 UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,您已報名參加彩虹競賽 (個人賽 - %s)。\n您已花費 %lld 金幣。
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,您已報名參加彩虹競賽 (雙人組隊賽 - %s)。\n您已花費 %lld 金幣。
 UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,您已報名參加彩虹競賽 (雙人組隊賽 - %s) 和 %s 組隊。\n您已花費 %lld 金幣。
@@ -2589,7 +2589,7 @@ UI_LIFE_MASTERY_EFFECT,Mastery Details,精通效果
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,已辨識資源
 UI_LIFE_HARVESTING_INFORMATION,Resource Information,資源資訊
 UI_LIFE_EXPERTBTN,Set as Expertise,設為專精
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc",採集成功率 +%d%%\n採集大成功率 +%d%%\n%s 若於週一 00:00 前獲得的精通不足 100，精通將減少 10%%\n(專精) 採集大成功率 +10%%#nc
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc",採集成功率 +%d%%\n採集大成功率 +%d%%\n%s若獲得的精通不足 100，將於週一 00:00 減少 10%% 精通(專精) 採集大成功率 +10%%#nc
 UI_LIFE_MASTERY,Mastery,精通
 UI_LIFE_EXPERT_TIME,Change Expertise In: %s,距離變更專精：%s
 UI_REPAIR_TITLE,Repair,修理
