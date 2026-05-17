@@ -2293,16 +2293,16 @@ PROPITEM_TXT_004300,Gale Card,強風卡片
 PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,使裝備附有風元素：+1 ~ +5 可使用
 PROPITEM_TXT_004302,Cyclone Card,颶風卡片
 PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,使裝備附有風元素：+6 ~ +10 可使用
-PROPITEM_TXT_004304,Power Dice 4,能量骰子 D (4)
-PROPITEM_TXT_004305,General Upgrade: +1 to +5,用於裝備精煉：+1 ~ +5 可使用
-PROPITEM_TXT_004306,Power Dice 6,能量骰子 C (6)
-PROPITEM_TXT_004307,General Upgrade: +6 to +10,用於裝備精煉：+6 ~ +10 可使用
-PROPITEM_TXT_004308,Power Dice 8,能量骰子 B (8)
-PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),用於穿洞和飾品升級 (中等成功率)
-PROPITEM_TXT_004310,Power Dice 10,能量骰子 A (10)
-PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),用於穿洞和飾品升級 (高成功率)
-PROPITEM_TXT_004312,Power Dice 12,能量骰子 S (12)
-PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),用於裝備精煉：+1 ~ +10 可使用 (高成功率)
+PROPITEM_TXT_004304,Power Dice 4,能量骰子 D
+PROPITEM_TXT_004305,General Upgrade: +1 to +5,能量骰子 4 點，用於裝備精煉：+1 ~ +5 可使用
+PROPITEM_TXT_004306,Power Dice 6,能量骰子 C
+PROPITEM_TXT_004307,General Upgrade: +6 to +10,能量骰子 6 點，用於裝備精煉：+6 ~ +10 可使用
+PROPITEM_TXT_004308,Power Dice 8,能量骰子 B
+PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),能量骰子 8 點，用於穿洞和飾品升級 (中等成功率)
+PROPITEM_TXT_004310,Power Dice 10,能量骰子 A
+PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),能量骰子 10 點，用於穿洞和飾品升級 (高成功率)
+PROPITEM_TXT_004312,Power Dice 12,能量骰子 S
+PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),能量骰子 12 點，用於裝備精煉：+1 ~ +10 可使用 (高成功率)
 PROPITEM_TXT_004314,Volcano Card (2%),火山卡片 (2%)
 PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),提升 HP 2% 的鑲嵌卡片
 PROPITEM_TXT_004316,Volcano Card (4%),火山卡片 (4%)
@@ -6426,12 +6426,12 @@ PROPITEM_TXT_008054,Emerald,綠寶石
 PROPITEM_TXT_008056,Sapphire,藍寶石
 PROPITEM_TXT_008058,Ruby,紅寶石
 PROPITEM_TXT_008060,Topaz,黃玉
-PROPITEM_TXT_100123,Shining Power Dice 4,閃耀的能量骰子 D (4)
-PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,用於製作傳說武器的稀有骰子。
-PROPITEM_TXT_100125,Shining Power Dice 6,閃耀的能量骰子 C (6)
-PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,用於製作傳說武器的稀有骰子。
-PROPITEM_TXT_100127,Shining Power Dice 12,閃耀的能量骰子 S (12)
-PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,用於製作傳說武器的稀有骰子。
+PROPITEM_TXT_100123,Shining Power Dice 4,閃耀的能量骰子 D
+PROPITEM_TXT_100124,Rare dice for the creation of Unique Weapons.,閃耀的能量骰子 4 點，用於製作傳說武器的稀有骰子。
+PROPITEM_TXT_100125,Shining Power Dice 6,閃耀的能量骰子 C
+PROPITEM_TXT_100126,Rare dice for the creation of Unique Weapons.,閃耀的能量骰子 6 點，用於製作傳說武器的稀有骰子。
+PROPITEM_TXT_100127,Shining Power Dice 12,閃耀的能量骰子 S
+PROPITEM_TXT_100128,Rare dice for the creation of Unique Weapons.,閃耀的能量骰子 12 點，用於製作傳說武器的稀有骰子。
 PROPITEM_TXT_008976,Cloud Piece,雲朵碎片
 PROPITEM_TXT_008977,Gather 10 of these to get a Cloud Box from Peach.,收集 10 個碎片到波奇那兌換雲朵禮盒吧。
 PROPITEM_TXT_008982,Topaz Piece,黃玉碎片
@@ -6496,16 +6496,16 @@ PROPITEM_TXT_009040,Orange Cotton Candy,橘色棉花糖
 PROPITEM_TXT_009041,Increases Hit Rate by 5 for 30 minutes.,命中率 +5，持續 30 分鐘。
 PROPITEM_TXT_009048,Lucky Cloud Box,幸運的雲朵箱子
 PROPITEM_TXT_009049,Random box that contains Cotton Candies and a chance to get a Flying Cloud.,含有隨機棉花糖的箱子，有機會得到筋斗雲
-PROPITEM_TXT_100129,Power Dice 4 Piece,能量骰子 D (4) 碎片
-PROPITEM_TXT_100130,Gather 10 of these to get a Power Dice 4 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 D (4) 吧
-PROPITEM_TXT_100131,Power Dice 6 Piece,能量骰子 C (6) 碎片
-PROPITEM_TXT_100132,Gather 10 of these to get a Power Dice 6 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 C (6) 吧
-PROPITEM_TXT_100133,Power Dice 8 Piece,能量骰子 B (8) 碎片
-PROPITEM_TXT_100134,Gather 10 of these to get a Power Dice 8 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 B (8) 吧
-PROPITEM_TXT_100135,Power Dice 10 Piece,能量骰子 A (10) 碎片
-PROPITEM_TXT_100136,Gather 10 of these to get a Power Dice 10 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 A (10) 吧
-PROPITEM_TXT_100137,Power Dice 12 Piece,能量骰子 S (12) 碎片
-PROPITEM_TXT_100138,Gather 10 of these to get a Power Dice 12 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 S (12) 吧
+PROPITEM_TXT_100129,Power Dice 4 Piece,能量骰子 D 碎片
+PROPITEM_TXT_100130,Gather 10 of these to get a Power Dice 4 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 D 吧
+PROPITEM_TXT_100131,Power Dice 6 Piece,能量骰子 C 碎片
+PROPITEM_TXT_100132,Gather 10 of these to get a Power Dice 6 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 C 吧
+PROPITEM_TXT_100133,Power Dice 8 Piece,能量骰子 B 碎片
+PROPITEM_TXT_100134,Gather 10 of these to get a Power Dice 8 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 B 吧
+PROPITEM_TXT_100135,Power Dice 10 Piece,能量骰子 A 碎片
+PROPITEM_TXT_100136,Gather 10 of these to get a Power Dice 10 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 A 吧
+PROPITEM_TXT_100137,Power Dice 12 Piece,能量骰子 S 碎片
+PROPITEM_TXT_100138,Gather 10 of these to get a Power Dice 12 from Peach.,蒐集 10 個碎片到波奇那兌換能量骰子 S 吧
 PROPITEM_TXT_013190,Mob Weapon: Zombie,喪屍
 PROPITEM_TXT_100139,Secret Drop Boost,秘密的掉落提升
 PROPITEM_TXT_100140,You just found a secret Drop boost! Enjoy it!,你發現了隱藏的掉落提升!享受他吧!
@@ -7891,15 +7891,15 @@ PROPITEM_TXT_101257,Refined Vallus Helmet,精煉瓦勒斯頭盔
 PROPITEM_TXT_101258,Refined Vallus Suit,精煉瓦勒斯服裝
 PROPITEM_TXT_101259,Refined Vallus Gauntlets,精煉瓦勒斯手套
 PROPITEM_TXT_101260,Refined Vallus Boots,精煉瓦勒斯靴子
-PROPITEM_TXT_101261,30 Days Scroll of Party Exp,30 天劇團經驗加成卷軸
+PROPITEM_TXT_101261,30 Days Scroll of Party Exp,劇團經驗加成卷軸 (30 天)
 PROPITEM_TXT_101262,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",當團長啟用時，劇團經驗獲得率提高 50%。 (自啟用後持續 30 天，即使已離線任然有效)
-PROPITEM_TXT_101263,30 Days Scroll of Party Skill,30 天劇團技能加成卷軸
+PROPITEM_TXT_101263,30 Days Scroll of Party Skill,劇團技能加成卷軸 (30 天)
 PROPITEM_TXT_101264,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",允許將劇團技能疊加，結合其持續時間，但不疊加效果，當團長啟用它時有效。 (自啟用後持續 30 天，即使已離線任然有效)
 PROPITEM_TXT_101265,Scroll of Party Amplification (30 Days),劇團點數無限制卷軸 (30 天)
 PROPITEM_TXT_101266,Your party will get twice the number of points when reaching a new level. Lasts 30 days. Note that the counter on this item will continue to count down even when logged out.,當你的劇團達到一個新的等級時，你將獲得兩倍的積分，持續 30 天。 請注意，即使離線，此項目上的計數器也會持續計時。
-PROPITEM_TXT_101267,15 Days Scroll of Combined Party Effects,15 天劇團組合效果卷軸
+PROPITEM_TXT_101267,15 Days Scroll of Combined Party Effects,劇團組合效果卷軸 (15 天)   
 PROPITEM_TXT_101268,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 15 days from activation, even if logged off)",增加劇團經驗獲得率 50% 並增強劇團技能，抵消距離限制。 允許將劇團技能疊加，結合其持續時間，但不疊加效果。 當你的劇團達到一個新的等級時，你的劇團將獲得兩倍的積分。當團長啟用它時有效。 (自啟用後持續 15 天，即使已離線任然有效)
-PROPITEM_TXT_101269,30 Days Scroll of Combined Party Effects,30 天劇團組合效果卷軸
+PROPITEM_TXT_101269,30 Days Scroll of Combined Party Effects,劇團組合效果卷軸 (30 天)
 PROPITEM_TXT_101270,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",增加劇團經驗獲得率 50% 並增強劇團技能，抵消距離限制。 允許將劇團技能疊加，結合其持續時間，但不疊加效果。 當你的劇團達到一個新的等級時，你的劇團將獲得兩倍的積分。當團長啟用它時有效。 (自啟用後持續 30 天，即使已離線任然有效)
 PROPITEM_TXT_101271,Party Scroll Package (15 Days),劇團卷軸禮包 (15 天)
 PROPITEM_TXT_101272,"This box contains 1x 15 Days Scroll of Party Exp, 1x 15 Days Scroll of Party Skill, 1x Scroll of Party Amplification (15 Days) and 1x Enhanced Party Skill Range 15.",此禮盒包含 1x 15 天劇團經驗卷軸、1x 15 天劇團技能卷軸、1x 劇團點數無限制卷軸 (15 天) 和 1x 增強劇團技能範圍 15。
