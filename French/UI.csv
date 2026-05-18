@@ -3286,11 +3286,11 @@ UI_DEBUG_DEVICE_EEA,EEA: ,EEA:
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Personnalisation des annonces :
 UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Données utilisateur de l'annonce :
 UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Taux de réussite d’amélioration Ultime
-UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Retrieve the Birthday Banner!
-UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded."
-UI_ITEM_EXCHANGE_TITLE,Item Exchange,Item Exchange
-UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A]."
-UI_4TH_ANNIV_PASS,4th Anniversary Pass,4th Anniversary Pass
-UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4th Anniversary Boss Instance Event
-UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Lycan Hunting Carnival,Lycan Hunting Carnival
-UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt Lycan monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Hunt Lycan monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!
+UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Récupérez la bannière d’anniversaire !
+UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","La bannière a été déchirée lors d’une attaque de monstres !\nSi vous retrouvez les morceaux et me les rapportez, je m’assurerai que vous soyez récompensé."
+UI_ITEM_EXCHANGE_TITLE,Item Exchange,Échange d’objets
+UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","En consommant des Penya, vous pouvez échanger un fragment de bannière alphabétique que vous possédez contre un autre fragment selon des probabilités définies.\nIl existe une faible chance d’obtenir un objet Golden Ticket, qui donne une [4th Anniversary Supply Box A]."
+UI_4TH_ANNIV_PASS,4th Anniversary Pass,Pass du 4e anniversaire
+UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,Événement instance de boss du 4e anniversaire
+UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Lycan Hunting Carnival,Carnaval de chasse aux Lycans
+UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt Lycan monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Chassez les monstres Lycan dans la région de Kaillun pendant l’événement afin d’atteindre les objectifs de chaque étape ! Tous les joueurs du serveur peuvent recevoir des récompenses à chaque objectif atteint !
