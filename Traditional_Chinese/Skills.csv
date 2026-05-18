@@ -181,7 +181,7 @@ PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surroun
 PROPSKILL_TXT_000182,Psychic Square,絕對結界
 PROPSKILL_TXT_000183,Damages the target enemy and enemies surrounding them with a psychic blast.,將敵人拉進自己的精神世界，使所有進入結界的敵人受到嚴重的傷害。
 PROPSKILL_TXT_000184,Firebird,浴火鳳凰
-PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,召喚火鳥對敵人進行火元素攻擊。
+PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,發射火焰彈攻擊敵人，讓敵人被高大的火焰包圍。
 PROPSKILL_TXT_000186,Fire Mastery,火元素精通
 PROPSKILL_TXT_000187,Enhances the power of Fire spells.,提升火元素的攻擊力。
 PROPSKILL_TXT_000190,Lightning Strike,天之裂痕
@@ -189,7 +189,7 @@ PROPSKILL_TXT_000191,Calls down a devastating bolt of lightning upon the enemy.,
 PROPSKILL_TXT_000192,Lightning Mastery,雷元素精通
 PROPSKILL_TXT_000193,Enhances the power of Electric spells.,提升雷元素的攻擊力。
 PROPSKILL_TXT_000194,Electric Shock,雷鳴落震
-PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",召喚出強烈的電磁場，使周圍所有的怪物受到攻擊，並引起麻痺使防禦力降低。
+PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",召喚出雷電的力量，對周圍的敵人造成傷害並降低他們的魔法防禦力。
 PROPSKILL_TXT_000196,Stone Spear,石槍術
 PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.",將銳利的石槍投向敵人。
 PROPSKILL_TXT_000198,Earth Mastery,地元素精通
@@ -201,7 +201,7 @@ PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting 
 PROPSKILL_TXT_000204,Water Mastery,水元素精通
 PROPSKILL_TXT_000205,Enhances the power of Water spells.,提升水元素的攻擊力。
 PROPSKILL_TXT_000206,Poison Cloud,毒雲密佈
-PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",召喚毒雲，並使用風與毒進行攻擊。
+PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",在敵人頭上召喚出毒雲，對周圍的敵人造成持續的傷害。
 PROPSKILL_TXT_000208,Void,真空之擊
 PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,把對方的周圍變成真空狀態後，進行風元素攻擊。
 PROPSKILL_TXT_000210,Wind Mastery,風元素精通
@@ -209,13 +209,13 @@ PROPSKILL_TXT_000211,Enhances the power of Wind spells.,提升風元素的攻擊
 PROPSKILL_TXT_000212,Windfield,狂風怒吼
 PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed.",有效時間內，將特定地區變成強風區域，使所有該區範圍內的敵人移動速度變慢。
 PROPSKILL_TXT_000214,Meteo Shower,紅石星塵
-PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,召喚隕石來攻擊周圍所有的敵人，使敵人受到火與地元素的攻擊。
+PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,召喚流星雨來攻擊周圍所有的敵人。
 PROPSKILL_TXT_000216,Lightning Storm,雷風狂襲
-PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.",用電擊對周圍的敵人造成傷害，有機會減少暴擊傷害。
+PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.",召喚雷電風暴來攻擊周圍所有的敵人，有機會減少暴擊傷害。
 PROPSKILL_TXT_000218,Sandstorm,沙塵風暴
-PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",引發沙塵風暴，讓周圍所有的敵人受到風與地元素的攻擊，有機會減少敵人命中率
+PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",將敵人包圍在沙塵暴中，對周圍的敵人造成傷害，有機會降低目標的命中率。
 PROPSKILL_TXT_000220,Blizzard,雪山崩塌
-PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",引發雪崩，使周圍所有的敵人受到水與地元素的攻擊，有機會造成敵人暈眩。
+PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",召喚暴風雪來攻擊周圍所有的敵人，有機會將敵人擊暈。
 PROPSKILL_TXT_000222,Yo-Yo Mastery,溜刃研習
 PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,增加使用溜刃時的攻擊力。
 PROPSKILL_TXT_000224,Bow Mastery,弓研習
