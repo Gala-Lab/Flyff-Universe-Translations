@@ -450,9 +450,9 @@ TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfull
 TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,無法使用在此物品上。
 TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,商城物品無法被精煉。
 TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,錯誤的物品。
-TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,您可以在武器商店的穿洞視窗中使用此物品。
-TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,您可以在武器商店的升級視窗中使用此物品。
-TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,您可以在防具商店的升級視窗中使用此物品。
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,您可以在武器店的穿洞視窗中使用此物品。
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,您可以在武器店的升級視窗中使用此物品。
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,您可以在防具店的升級視窗中使用此物品。
 TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,在背包中點擊兩次使用它。
 TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,該物品無法使用元素精煉。
 TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,你不能在同一個物品上使用兩個不同的元素。
@@ -1090,7 +1090,7 @@ TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,此
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,嗚…精煉大失敗了…
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,恭喜！精煉大成功！
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,此物品無法對目標使用。
-TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器商店的「製作究極武器」選單中使用此物品。
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器店的「製作究極武器」選單中使用此物品。
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,您必須先選擇目標物品。
 TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,您必須是公會成員才能競標公會飛船。
 TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,只有公會會長才能購買公會飛船。

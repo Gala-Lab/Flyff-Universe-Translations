@@ -600,11 +600,11 @@ CLIENT_HELP_INC_000598,Lodestar,城鎮之星
 CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,位在城鎮廣場的一座大型建築物。此建築物會將分散到四周的生命，召喚到此處復活。當您沒有在戰鬥場附近的生命光柱儲存復活點時，就會前往生命光塔復活。
 CLIENT_HELP_INC_000600,Lodelight,生命光塔
 CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,與生命光塔相似，但是城鎮之星分佈在大陸各個地方，您可指定其中一處復活。
-CLIENT_HELP_INC_000602,Weapon shop,武器商店
+CLIENT_HELP_INC_000602,Weapon shop,武器店
 CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.",販賣見習生；一轉職業：勇者、神職者、雜技師等及二轉職業：騎士、暗殺者、念力師、研術者、守護者、爆咒師、操偶師、浪人的武器。
 CLIENT_HELP_INC_000604,Armor shop,防具店
 CLIENT_HELP_INC_000605,"This place sells armor for Mercenaries, Assists, and Acrobats.",販賣見習生、勇者、神職者的防具裝備。
-CLIENT_HELP_INC_000606,Magic store,魔法商店
+CLIENT_HELP_INC_000606,Magic store,魔法店
 CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best suited for Magicians.",販賣魔法使的武器、防具和魔法物品。
 CLIENT_HELP_INC_000608,Food shop,餐飲店
 CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,販賣幫助恢復生命力的各種食品。
@@ -622,7 +622,7 @@ CLIENT_HELP_INC_000620,Guild Combat Center,公會戰鬥中心
 CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會戰及 1:1 公會戰參加申請，還有可以進行大戰的地方。只有在第 1 頻道可以使用。
 CLIENT_HELP_INC_000622,Other inquiries,其他事項
 CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,如需更多資訊，請前往官方網站：$WEBSITE$。祝您遊戲愉快。
-CLIENT_HELP_INC_000624,Beauty shop,美容商店
+CLIENT_HELP_INC_000624,Beauty shop,美容店
 CLIENT_HELP_INC_000625,You can change your hair style and color. The price varies based on the color and style you choose.,可以變換頭髮樣式和頭髮顏色。改變頭髮樣式和顏色，價格根據你的選擇有所不同。
 CLIENT_HELP_INC_000626,Private Shop,個人商店
 CLIENT_HELP_INC_000627,Items can be conveniently presented for sale to through this option. You can set the quantity and the price.,可以將自己擁有的物品，販賣給其他的玩家。您可以替自己想要販賣的物品定下適當的價格與數量後，放入個人商店中販售。
