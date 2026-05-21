@@ -2410,6 +2410,8 @@ UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Nama Toko (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Penjual
 UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Nama Item (A - Z)
 UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Nama Item (Z - A)
+UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),Channel (1 - %u)
+UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),Channel (%u - 1)
 UI_SEARCHSHOP_LOCATION,Show Location,Show Location
 UI_SEARCHSHOP_MESSAGE,Message Seller,Pesan Penjual
 UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),Teleport (%d / %d)
@@ -3138,6 +3140,8 @@ UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
 UI_OPTION_MAIL_EVERYONE,Everyone,Semua Orang
 UI_OPTION_MAIL_FRIENDS,Friends,Teman-teman
 UI_OPTION_MAIL_SYSTEM,System Only,Hanya Sistem
+UI_OPTION_WHISPER_MODE,Allow Whispers From,Allow Whispers From
+UI_OPTION_WHISPER_NONE,No One,No One
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,Use Consumable Items
