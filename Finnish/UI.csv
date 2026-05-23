@@ -1060,10 +1060,10 @@ UI_NEWCHAR_HAIR,Hair,Hair
 UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
 UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press Scroll Lock to cycle zoom levels.,%dX Zoom. Press Scroll Lock to cycle zoom levels.
 UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
-UI_KEYBIND_MOVE_FORWARD,Move Forward,Move Forward
-UI_KEYBIND_MOVE_BACKWARD,Move Backward,Move Backward
-UI_KEYBIND_TURN_LEFT,Turn Left,Turn Left
-UI_KEYBIND_TURN_RIGHT,Turn Right,Turn Right
+UI_KEYBIND_MOVE_FORWARD,Move Forward,Siirry eteenpäin
+UI_KEYBIND_MOVE_BACKWARD,Move Backward,Siirry taaksepäin
+UI_KEYBIND_TURN_LEFT,Turn Left,Käänny vasemmalle
+UI_KEYBIND_TURN_RIGHT,Turn Right,Käänny oikealle
 UI_KEYBIND_JUMP,Jump,Hyppy
 UI_KEYBIND_WALK,Toggle Run/Walk,Toggle Run/Walk
 UI_KEYBIND_SKILL_COMBO,Action Slot,Action Slot
@@ -1324,7 +1324,7 @@ UI_OPTION_BLOOMQUALITY,Bloom Quality,Bloom Quality
 UI_OPTION_BLOOMQUALITY_TIP,Adjusts bloom blur size and intensity.,Adjusts bloom blur size and intensity.
 UI_OPTION_COLORBLIND,Colorblind Mode,Colorblind Mode
 UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.,Changes the colorblind filter mode.
-UI_OPTION_CAMERAFOCUS,Camera Focus,Camera Focus
+UI_OPTION_CAMERAFOCUS,Camera Focus,Kameran tarkennus
 UI_OPTION_CAMERAFOCUSINFO,Toggles automatic camera zoom and focus when interacting with objects and NPCs.,Toggles automatic camera zoom and focus when interacting with objects and NPCs.
 UI_MESSAGE_TIME,%s Ago,%s Ago
 UI_MESSAGE_CLEAR,Clear messages,Clear messages
@@ -1719,7 +1719,7 @@ UI_TICKETCHANGE,Change Layer!,Change Layer!
 UI_TICKET,Ticket Area,Ticket Area
 UI_TICKETCHANNELSEL,Select a Layer,Select a Layer
 UI_TICKETCHANNEL,Layer,Layer
-UI_TICKETLEAVE,Leave Area,Leave Area
+UI_TICKETLEAVE,Leave Area,Poistu alueelta
 UI_TARGETITEMLEVEL,Required Target Level: %d,Required Target Level: %d
 UI_DUNGEON_REQ_ITEM,Required Items:,Required Items:
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,Daily Entries: %d / %d
@@ -2717,8 +2717,8 @@ UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ore
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start,Production Start
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Jatketaanko?\n\n#cffffc000Tuotantoaika: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Kun tuotanto on alkanut, sitä ei voi peruuttaa. Jatketaanko?\n\n#cffffc000Tuotantoaika: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
