@@ -2410,8 +2410,8 @@ UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Nom de la boutique (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Vendeur
 UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Nom de l’objet (A - Z)
 UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Nom de l’objet (Z - A)
-UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),Channel (1 - %u)
-UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),Channel (%u - 1)
+UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),Canal (1 - %u)
+UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),Canal (%u - 1)
 UI_SEARCHSHOP_LOCATION,Show Location,Afficher l’emplacement
 UI_SEARCHSHOP_MESSAGE,Message Seller,Envoyer un message au vendeur
 UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),Téléporter %d / %d
@@ -3140,8 +3140,8 @@ UI_OPTION_MAIL_MODE,Allow Mails From,Autoriser les mails de
 UI_OPTION_MAIL_EVERYONE,Everyone,Tous
 UI_OPTION_MAIL_FRIENDS,Friends,Amis
 UI_OPTION_MAIL_SYSTEM,System Only,Seulement système
-UI_OPTION_WHISPER_MODE,Allow Whispers From,Allow Whispers From
-UI_OPTION_WHISPER_NONE,No One,No One
+UI_OPTION_WHISPER_MODE,Allow Whispers From,Autoriser les messages privés de
+UI_OPTION_WHISPER_NONE,No One,Personne
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Entrée gratuite du donjon
 UI_FWC_PASS_2025,2025 FWC Championship Pass,Pass championnat FWC 2025
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,Utilisation d'objets consommables

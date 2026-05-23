@@ -1548,7 +1548,7 @@ TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered exp
 TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,Vous ne pouvez pas retirer un membre du groupe tant que vous êtes dans le même donjon.
 TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,Vous ne pouvez pas transférer le rôle de leader à un membre qui n’est pas dans le même donjon.
 TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,Vous ne pouvez pas quitter le groupe en tant que leader dans le donjon.
-TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,The instance dungeon has ended. Please try again in a moment.
-TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s has no daily entries remaining.
-TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s is already in another instance.
-TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.
+TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,Le donjon d’instance est terminé. Veuillez réessayer dans un instant.
+TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s n’a plus d’entrées quotidiennes restantes.
+TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s est déjà dans une autre instance.
+TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Attention : « %s » est un joueur normal. Ne visitez aucun site web et ne communiquez jamais vos identifiants. Le seul site officiel est $WEBSITE$. Méfiez-vous des arnaques et des sites de phishing.
