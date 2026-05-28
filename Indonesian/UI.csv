@@ -2717,8 +2717,8 @@ UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ore
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start,Mulai Produksi
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Setelah produksi dimulai, tidak dapat dibatalkan. Apakah kamu ingin melanjutkan dengan memulai produksi?\n\n#cffffc000Waktu produksi yang dibutuhkan: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Setelah produksi dimulai, tidak dapat dibatalkan. Apakah kamu ingin melanjutkan dengan memulai produksi?\n\n#cffffc000Waktu produksi yang dibutuhkan: %s~%s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Setelah produksi dimulai, Ini tidak dapat dibatalkan. Melanjutkan?\n\n#cffffc000Waktu produksi yang dibutuhkan: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Setelah produksi dimulai, Ini tidak dapat dibatalkan. Melanjutkan?\n\n#cffffc000Waktu produksi yang dibutuhkan: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
@@ -3136,12 +3136,12 @@ UI_BTN_ADD_ALL,Add all,Tambah Semua
 UI_FULL_COLLECTION_REWARD,Full Collection Reward,Full Collection Reward
 UI_ADD_ALL_CONFIRM,The letters will be registered automatically from top to bottom. Continue?,The letters will be registered automatically from top to bottom. Continue?
 UI_TRADE_CONFIRM_BLOCK,An item or Penya has been removed. Please wait %d seconds.,An item or Penya has been removed. Please wait %d seconds.
-UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
+UI_OPTION_MAIL_MODE,Allow Mails From,Izinkan Pesanan Dari
 UI_OPTION_MAIL_EVERYONE,Everyone,Semua Orang
 UI_OPTION_MAIL_FRIENDS,Friends,Teman-teman
 UI_OPTION_MAIL_SYSTEM,System Only,Hanya Sistem
-UI_OPTION_WHISPER_MODE,Allow Whispers From,Allow Whispers From
-UI_OPTION_WHISPER_NONE,No One,No One
+UI_OPTION_WHISPER_MODE,Allow Whispers From,Izinkan Bisikan Dari
+UI_OPTION_WHISPER_NONE,No One,Tidak ada seorang pun
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,Use Consumable Items
