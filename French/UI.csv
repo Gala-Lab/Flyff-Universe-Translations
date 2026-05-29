@@ -2283,7 +2283,7 @@ UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,Vous vous êtes inscrit pour participer à la course Arc-en-Ciel Duo équipe (%s).\n\nVous avez dépensé %lld penya
 UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,Vous vous êtes inscrit pour participer à la course Arc-en-Ciel Duo équipe (%s) avec '%s'.\n\nVous avez dépensé %lld penya
 UI_RAINBOWRACE_TITLE,Rainbow Race,Course Arc-en-Ciel
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Équip.(L)
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Équip.(G)
 UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Réinit.équipement
 UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,Aucune information de participation
 UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Minutes de jeu #cffc32f07#b%d/%d#nb#nc
