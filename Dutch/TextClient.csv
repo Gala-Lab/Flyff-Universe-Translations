@@ -651,6 +651,7 @@ TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,The Guild Siege is now
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Please join after a while.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Voorbereidingen aan de gang
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,A character with third class is not eligible for Lv165 guild siege.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Welcome to the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,You can zoom the camera using the [Scroll Lock] key.
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,You are the Guild Master! Defeating the Defender grants 1 bonus point.
@@ -887,6 +888,7 @@ TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Thank you f
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Purchase the Extended %s to receive more rewards!
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Only characters level 80 or less can apply to this Lv80 Guild Siege.
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,The Lv80 Guild Siege is held for this week.
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,The Lv60 Guild Siege is held for this week.
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
@@ -1447,6 +1449,7 @@ TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Not enough Penya.
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
@@ -1552,3 +1555,21 @@ TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try ag
 TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s has no daily entries remaining.
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s is already in another instance.
 TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.
+TEXTCLIENT_APP_DONATION,Donation,Donation
+TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Congratulations for becoming the Lord of the week!
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,There is no Lord this week.
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,The Lord of the week is %s. Congratulations!
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Server data synchronization in progress. Please try again shortly.
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Invalid floor selection. Please try again.
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Your level is too low to enter this floor.
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Ranking settlement in progress. Please try again later.
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Failed to initialize the floor. Please try again.
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,A Mysterious Castle Retry Coupon is required to challenge this floor.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.

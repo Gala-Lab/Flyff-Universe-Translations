@@ -7525,7 +7525,7 @@ PROPITEM_TXT_100961,Cyclops X Life Gem,サイクロプス X ライフジェム
 PROPITEM_TXT_102038,Tooth of Leyena,レイエナの歯
 PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,飢えたモンスターの歯。町のチョンジャンに持っていって!
 PROPITEM_TXT_008902,Red Chips,レッドチップ
-PROPITEM_TXT_008903,Guild Siege reward. Used to buy items from Waforu.,ギルドコンバットの報酬。ワポールからアイテムを購入するのに使用できます。
+PROPITEM_TXT_008903,Old Guild Siege reward. Used to buy items from Waforu.,ギルドコンバットの報酬。ワポールからアイテムを購入するのに使用できます。
 PROPITEM_TXT_009208,Obsidian Cruentus Armor Set (M),オブシディアン・ブラッディー・ナイトセット(男の子用)
 PROPITEM_TXT_009209,Level 120 PvP Knight Set.,ナイトのLv120PvP用装備セットが入っています
 PROPITEM_TXT_009210,Obsidian Noctis Armor Set (M),オブシディアン・ブラッディー・ブレードセット(男の子用)
@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,カルガス金貨
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",カルガスアサルト参加時に何度でも使用できるインスタントリスポーンアイテムを使用すると、開始地点で待ち時間なしですぐにリスポーンします。
 PROPITEM_TXT_131427,Kalgas Chip,カルガスチップ
-PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,このカルガスチップをワフォルと交換して、素敵な報酬を手に入れましょう!
+PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,このカルガスチップをワフォルと交換して、素敵な報酬を手に入れましょう!
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,バレンタイン2024 レッド10%セット
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),バレンタイン2024 10%レッドセット(M)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,男の子キャラクター用バレンタイン2024 10%レッドセット
@@ -17358,7 +17358,7 @@ PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Quest item that drops f
 PROPITEM_TXT_140052,Cursed Wing,Cursed Wing
 PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Quest item that drops from Skelmaw
 PROPITEM_TXT_131906,Yellow Chips,Yellow Chips
-PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Madrigal Tournament reward (Used to buy items from Waforu).
+PROPITEM_TXT_131907,Old Madrigal Tournament reward (Used to buy items from Waforu).,Old Madrigal Tournament reward (Used to buy items from Waforu).
 PROPITEM_TXT_131908,This will give you a new template for your couple house!,This will give you a new template for your couple house!
 PROPITEM_TXT_131909,Blank House Template (M) (Couple),Blank House Template (M) (Couple)
 PROPITEM_TXT_131910,Beach World Template (M) (Couple),Beach World Template (M) (Couple)
@@ -28885,3 +28885,677 @@ PROPITEM_TXT_905851,Blue Runewhale,Blue Runewhale
 PROPITEM_TXT_905852,Gold Runewhale,Gold Runewhale
 PROPITEM_TXT_905853,Dark Runewhale,Dark Runewhale
 PROPITEM_TXT_905854,"An ancient guardian of the endless seas, this majestic whale carries its rider with silent grace through the skies. Maximum Speed: 64 km/h.","An ancient guardian of the endless seas, this majestic whale carries its rider with silent grace through the skies. Maximum Speed: 64 km/h."
+PROPITEM_TXT_905855,1.5.5 Update Boboko's Summer Smelting Scroll Package,1.5.5 Update Boboko's Summer Smelting Scroll Package
+PROPITEM_TXT_905856,A package containing 20x Scroll of SProtect and 3x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,A package containing 20x Scroll of SProtect and 3x Scroll of Weapon Bonus(Job) Select box. All items are also linked.
+PROPITEM_TXT_905857,FWC 2026 100-Day Starter Pack,FWC 2026 100-Day Starter Pack
+PROPITEM_TXT_905858,"A package containing 5x Scroll of Amplification ES, 1x Extra Bag (30 days), 5x Scroll of Velocity, 5x Grilled Eel and 1x Effect Selection Box (7 Days). All items are also linked.","A package containing 5x Scroll of Amplification ES, 1x Extra Bag (30 days), 5x Scroll of Velocity, 5x Grilled Eel and 1x Effect Selection Box (7 Days). All items are also linked."
+PROPITEM_TXT_905859,FWC 2026 100-Day Celebration Pack,FWC 2026 100-Day Celebration Pack
+PROPITEM_TXT_905860,"A package containing 10x Scroll of SProtect, 10x Scroll of AProtect and 1x Effect Selection Box (7 Days). All items are also linked.","A package containing 10x Scroll of SProtect, 10x Scroll of AProtect and 1x Effect Selection Box (7 Days). All items are also linked."
+PROPITEM_TXT_905861,Effect Selection Box (7 Days),Effect Selection Box (7 Days)
+PROPITEM_TXT_905862,Choose your favorite effect !,Choose your favorite effect !
+PROPITEM_TXT_905863,Japanese Street Punk 10% Turquoise Set,Japanese Street Punk 10% Turquoise Set
+PROPITEM_TXT_905864,Japanese Street Punk Turquoise Katana,Japanese Street Punk Turquoise Katana
+PROPITEM_TXT_905865,Japanese Street Punk Turquoise Mask,Japanese Street Punk Turquoise Mask
+PROPITEM_TXT_905866,Japanese Street Punk Turquoise Hat (M),Japanese Street Punk Turquoise Hat (M)
+PROPITEM_TXT_905867,Japanese Street Punk Turquoise Suit (M),Japanese Street Punk Turquoise Suit (M)
+PROPITEM_TXT_905868,Japanese Street Punk Turquoise Shoes (M),Japanese Street Punk Turquoise Shoes (M)
+PROPITEM_TXT_905869,Japanese Street Punk Turquoise Hands (M),Japanese Street Punk Turquoise Hands (M)
+PROPITEM_TXT_905870,Japanese Street Punk 10% Turquoise Set (M),Japanese Street Punk 10% Turquoise Set (M)
+PROPITEM_TXT_905871,The Japanese Street Punk 10% Turquoise Set for male characters.,The Japanese Street Punk 10% Turquoise Set for male characters.
+PROPITEM_TXT_905872,Japanese Street Punk Turquoise Hat (F),Japanese Street Punk Turquoise Hat (F)
+PROPITEM_TXT_905873,Japanese Street Punk Turquoise Suit (F),Japanese Street Punk Turquoise Suit (F)
+PROPITEM_TXT_905874,Japanese Street Punk Turquoise Shoes (F),Japanese Street Punk Turquoise Shoes (F)
+PROPITEM_TXT_905875,Japanese Street Punk Turquoise Hands (F),Japanese Street Punk Turquoise Hands (F)
+PROPITEM_TXT_905876,Japanese Street Punk 10% Turquoise Set (F),Japanese Street Punk 10% Turquoise Set (F)
+PROPITEM_TXT_905877,The Japanese Street Punk 10% Turquoise Set for female characters.,The Japanese Street Punk 10% Turquoise Set for female characters.
+PROPITEM_TXT_905878,Japanese Street Punk 8% Oxblood Set,Japanese Street Punk 8% Oxblood Set
+PROPITEM_TXT_905879,Japanese Street Punk Oxblood Katana,Japanese Street Punk Oxblood Katana
+PROPITEM_TXT_905880,Japanese Street Punk Oxblood Mask,Japanese Street Punk Oxblood Mask
+PROPITEM_TXT_905881,Japanese Street Punk Oxblood Hat (M),Japanese Street Punk Oxblood Hat (M)
+PROPITEM_TXT_905882,Japanese Street Punk Oxblood Suit (M),Japanese Street Punk Oxblood Suit (M)
+PROPITEM_TXT_905883,Japanese Street Punk Oxblood Shoes (M),Japanese Street Punk Oxblood Shoes (M)
+PROPITEM_TXT_905884,Japanese Street Punk Oxblood Hands (M),Japanese Street Punk Oxblood Hands (M)
+PROPITEM_TXT_905885,Japanese Street Punk 8% Oxblood Set (M),Japanese Street Punk 8% Oxblood Set (M)
+PROPITEM_TXT_905886,The Japanese Street Punk 8% Oxblood Set for male characters.,The Japanese Street Punk 8% Oxblood Set for male characters.
+PROPITEM_TXT_905887,Japanese Street Punk Oxblood Hat (F),Japanese Street Punk Oxblood Hat (F)
+PROPITEM_TXT_905888,Japanese Street Punk Oxblood Suit (F),Japanese Street Punk Oxblood Suit (F)
+PROPITEM_TXT_905889,Japanese Street Punk Oxblood Shoes (F),Japanese Street Punk Oxblood Shoes (F)
+PROPITEM_TXT_905890,Japanese Street Punk Oxblood Hands (F),Japanese Street Punk Oxblood Hands (F)
+PROPITEM_TXT_905891,Japanese Street Punk 8% Oxblood Set (F),Japanese Street Punk 8% Oxblood Set (F)
+PROPITEM_TXT_905892,The Japanese Street Punk 8% Oxblood Set for female characters.,The Japanese Street Punk 8% Oxblood Set for female characters.
+PROPITEM_TXT_905893,Japanese Street Punk 6% Pink Set,Japanese Street Punk 6% Pink Set
+PROPITEM_TXT_905894,Japanese Street Punk Pink Katana,Japanese Street Punk Pink Katana
+PROPITEM_TXT_905895,Japanese Street Punk Pink Mask,Japanese Street Punk Pink Mask
+PROPITEM_TXT_905896,Japanese Street Punk Pink Hat (M),Japanese Street Punk Pink Hat (M)
+PROPITEM_TXT_905897,Japanese Street Punk Pink Suit (M),Japanese Street Punk Pink Suit (M)
+PROPITEM_TXT_905898,Japanese Street Punk Pink Shoes (M),Japanese Street Punk Pink Shoes (M)
+PROPITEM_TXT_905899,Japanese Street Punk Pink Hands (M),Japanese Street Punk Pink Hands (M)
+PROPITEM_TXT_905900,Japanese Street Punk 6% Pink Set (M),Japanese Street Punk 6% Pink Set (M)
+PROPITEM_TXT_905901,The Japanese Street Punk 6% Pink Set for male characters.,The Japanese Street Punk 6% Pink Set for male characters.
+PROPITEM_TXT_905902,Japanese Street Punk Pink Hat (F),Japanese Street Punk Pink Hat (F)
+PROPITEM_TXT_905903,Japanese Street Punk Pink Suit (F),Japanese Street Punk Pink Suit (F)
+PROPITEM_TXT_905904,Japanese Street Punk Pink Shoes (F),Japanese Street Punk Pink Shoes (F)
+PROPITEM_TXT_905905,Japanese Street Punk Pink Hands (F),Japanese Street Punk Pink Hands (F)
+PROPITEM_TXT_905906,Japanese Street Punk 6% Pink Set (F),Japanese Street Punk 6% Pink Set (F)
+PROPITEM_TXT_905907,The Japanese Street Punk 6% Pink Set for female characters.,The Japanese Street Punk 6% Pink Set for female characters.
+PROPITEM_TXT_905908,Japanese Street Punk 4% Blue Set,Japanese Street Punk 4% Blue Set
+PROPITEM_TXT_905909,Japanese Street Punk Blue Katana,Japanese Street Punk Blue Katana
+PROPITEM_TXT_905910,Japanese Street Punk Blue Mask,Japanese Street Punk Blue Mask
+PROPITEM_TXT_905911,Japanese Street Punk Blue Hat (M),Japanese Street Punk Blue Hat (M)
+PROPITEM_TXT_905912,Japanese Street Punk Blue Suit (M),Japanese Street Punk Blue Suit (M)
+PROPITEM_TXT_905913,Japanese Street Punk Blue Shoes (M),Japanese Street Punk Blue Shoes (M)
+PROPITEM_TXT_905914,Japanese Street Punk Blue Hands (M),Japanese Street Punk Blue Hands (M)
+PROPITEM_TXT_905915,Japanese Street Punk 4% Blue Set (M),Japanese Street Punk 4% Blue Set (M)
+PROPITEM_TXT_905916,The Japanese Street Punk 4% Blue Set for male characters.,The Japanese Street Punk 4% Blue Set for male characters.
+PROPITEM_TXT_905917,Japanese Street Punk Blue Hat (F),Japanese Street Punk Blue Hat (F)
+PROPITEM_TXT_905918,Japanese Street Punk Blue Suit (F),Japanese Street Punk Blue Suit (F)
+PROPITEM_TXT_905919,Japanese Street Punk Blue Shoes (F),Japanese Street Punk Blue Shoes (F)
+PROPITEM_TXT_905920,Japanese Street Punk Blue Hands (F),Japanese Street Punk Blue Hands (F)
+PROPITEM_TXT_905921,Japanese Street Punk 4% Blue Set (F),Japanese Street Punk 4% Blue Set (F)
+PROPITEM_TXT_905922,The Japanese Street Punk 4% Blue Set for female characters.,The Japanese Street Punk 4% Blue Set for female characters.
+PROPITEM_TXT_905923,Japanese Street Punk 2% Navy Set,Japanese Street Punk 2% Navy Set
+PROPITEM_TXT_905924,Japanese Street Punk Navy Katana,Japanese Street Punk Navy Katana
+PROPITEM_TXT_905925,Japanese Street Punk Navy Mask,Japanese Street Punk Navy Mask
+PROPITEM_TXT_905926,Japanese Street Punk Navy Hat (M),Japanese Street Punk Navy Hat (M)
+PROPITEM_TXT_905927,Japanese Street Punk Navy Suit (M),Japanese Street Punk Navy Suit (M)
+PROPITEM_TXT_905928,Japanese Street Punk Navy Shoes (M),Japanese Street Punk Navy Shoes (M)
+PROPITEM_TXT_905929,Japanese Street Punk Navy Hands (M),Japanese Street Punk Navy Hands (M)
+PROPITEM_TXT_905930,Japanese Street Punk 2% Navy Set (M),Japanese Street Punk 2% Navy Set (M)
+PROPITEM_TXT_905931,The Japanese Street Punk 2% Navy Set for male characters.,The Japanese Street Punk 2% Navy Set for male characters.
+PROPITEM_TXT_905932,Japanese Street Punk Navy Hat (F),Japanese Street Punk Navy Hat (F)
+PROPITEM_TXT_905933,Japanese Street Punk Navy Suit (F),Japanese Street Punk Navy Suit (F)
+PROPITEM_TXT_905934,Japanese Street Punk Navy Shoes (F),Japanese Street Punk Navy Shoes (F)
+PROPITEM_TXT_905935,Japanese Street Punk Navy Hands (F),Japanese Street Punk Navy Hands (F)
+PROPITEM_TXT_905936,Japanese Street Punk 2% Navy Set (F),Japanese Street Punk 2% Navy Set (F)
+PROPITEM_TXT_905937,The Japanese Street Punk 2% Navy Set for female characters.,The Japanese Street Punk 2% Navy Set for female characters.
+PROPITEM_TXT_905938,Japanese Street Punk 2% Red Set,Japanese Street Punk 2% Red Set
+PROPITEM_TXT_905939,Japanese Street Punk Red Katana,Japanese Street Punk Red Katana
+PROPITEM_TXT_905940,Japanese Street Punk Red Mask,Japanese Street Punk Red Mask
+PROPITEM_TXT_905941,Japanese Street Punk Red Hat (M),Japanese Street Punk Red Hat (M)
+PROPITEM_TXT_905942,Japanese Street Punk Red Suit (M),Japanese Street Punk Red Suit (M)
+PROPITEM_TXT_905943,Japanese Street Punk Red Shoes (M),Japanese Street Punk Red Shoes (M)
+PROPITEM_TXT_905944,Japanese Street Punk Red Hands (M),Japanese Street Punk Red Hands (M)
+PROPITEM_TXT_905945,Japanese Street Punk 2% Red Set (M),Japanese Street Punk 2% Red Set (M)
+PROPITEM_TXT_905946,The Japanese Street Punk 2% Red Set for male characters.,The Japanese Street Punk 2% Red Set for male characters.
+PROPITEM_TXT_905947,Japanese Street Punk Red Hat (F),Japanese Street Punk Red Hat (F)
+PROPITEM_TXT_905948,Japanese Street Punk Red Suit (F),Japanese Street Punk Red Suit (F)
+PROPITEM_TXT_905949,Japanese Street Punk Red Shoes (F),Japanese Street Punk Red Shoes (F)
+PROPITEM_TXT_905950,Japanese Street Punk Red Hands (F),Japanese Street Punk Red Hands (F)
+PROPITEM_TXT_905951,Japanese Street Punk 2% Red Set (F),Japanese Street Punk 2% Red Set (F)
+PROPITEM_TXT_905952,The Japanese Street Punk 2% Red Set for female characters.,The Japanese Street Punk 2% Red Set for female characters.
+PROPITEM_TXT_905953,Japanese Street Punk Costume Lucky Box,Japanese Street Punk Costume Lucky Box
+PROPITEM_TXT_905954,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_905955,Violet Japanese Street Punk Bike,Violet Japanese Street Punk Bike
+PROPITEM_TXT_905956,Red Japanese Street Punk Bike,Red Japanese Street Punk Bike
+PROPITEM_TXT_905957,Green Japanese Street Punk Bike,Green Japanese Street Punk Bike
+PROPITEM_TXT_905958,"Inspired by Japan's legendary street riders, this bold machine blends rebellious style with classic craftsmanship for an unforgettable ride. Maximum Speed: 64 km/h.","Inspired by Japan's legendary street riders, this bold machine blends rebellious style with classic craftsmanship for an unforgettable ride. Maximum Speed: 64 km/h."
+PROPITEM_TXT_905959,Japanese Warrior 10% Blue Set,Japanese Warrior 10% Blue Set
+PROPITEM_TXT_905960,Japanese Warrior Blue Katana,Japanese Warrior Blue Katana
+PROPITEM_TXT_905961,Japanese Warrior Blue Hat (M),Japanese Warrior Blue Hat (M)
+PROPITEM_TXT_905962,Japanese Warrior Blue Suit (M),Japanese Warrior Blue Suit (M)
+PROPITEM_TXT_905963,Japanese Warrior Blue Shoes (M),Japanese Warrior Blue Shoes (M)
+PROPITEM_TXT_905964,Japanese Warrior Blue Hands (M),Japanese Warrior Blue Hands (M)
+PROPITEM_TXT_905965,Japanese Warrior 10% Blue Set (M),Japanese Warrior 10% Blue Set (M)
+PROPITEM_TXT_905966,The Japanese Warrior 10% Blue Set for male characters.,The Japanese Warrior 10% Blue Set for male characters.
+PROPITEM_TXT_905967,Japanese Warrior Blue Hat (F),Japanese Warrior Blue Hat (F)
+PROPITEM_TXT_905968,Japanese Warrior Blue Suit (F),Japanese Warrior Blue Suit (F)
+PROPITEM_TXT_905969,Japanese Warrior Blue Shoes (F),Japanese Warrior Blue Shoes (F)
+PROPITEM_TXT_905970,Japanese Warrior Blue Hands (F),Japanese Warrior Blue Hands (F)
+PROPITEM_TXT_905971,Japanese Warrior 10% Blue Set (F),Japanese Warrior 10% Blue Set (F)
+PROPITEM_TXT_905972,The Japanese Warrior 10% Blue Set for female characters.,The Japanese Warrior 10% Blue Set for female characters.
+PROPITEM_TXT_905973,Japanese Warrior 8% Red Set,Japanese Warrior 8% Red Set
+PROPITEM_TXT_905974,Japanese Warrior Red Katana,Japanese Warrior Red Katana
+PROPITEM_TXT_905975,Japanese Warrior Red Hat (M),Japanese Warrior Red Hat (M)
+PROPITEM_TXT_905976,Japanese Warrior Red Suit (M),Japanese Warrior Red Suit (M)
+PROPITEM_TXT_905977,Japanese Warrior Red Shoes (M),Japanese Warrior Red Shoes (M)
+PROPITEM_TXT_905978,Japanese Warrior Red Hands (M),Japanese Warrior Red Hands (M)
+PROPITEM_TXT_905979,Japanese Warrior 8% Red Set (M),Japanese Warrior 8% Red Set (M)
+PROPITEM_TXT_905980,The Japanese Warrior 8% Red Set for male characters.,The Japanese Warrior 8% Red Set for male characters.
+PROPITEM_TXT_905981,Japanese Warrior Red Hat (F),Japanese Warrior Red Hat (F)
+PROPITEM_TXT_905982,Japanese Warrior Red Suit (F),Japanese Warrior Red Suit (F)
+PROPITEM_TXT_905983,Japanese Warrior Red Shoes (F),Japanese Warrior Red Shoes (F)
+PROPITEM_TXT_905984,Japanese Warrior Red Hands (F),Japanese Warrior Red Hands (F)
+PROPITEM_TXT_905985,Japanese Warrior 8% Red Set (F),Japanese Warrior 8% Red Set (F)
+PROPITEM_TXT_905986,The Japanese Warrior 8% Red Set for female characters.,The Japanese Warrior 8% Red Set for female characters.
+PROPITEM_TXT_905987,Japanese Warrior 6% Green Set,Japanese Warrior 6% Green Set
+PROPITEM_TXT_905988,Japanese Warrior Green Katana,Japanese Warrior Green Katana
+PROPITEM_TXT_905989,Japanese Warrior Green Hat (M),Japanese Warrior Green Hat (M)
+PROPITEM_TXT_905990,Japanese Warrior Green Suit (M),Japanese Warrior Green Suit (M)
+PROPITEM_TXT_905991,Japanese Warrior Green Shoes (M),Japanese Warrior Green Shoes (M)
+PROPITEM_TXT_905992,Japanese Warrior Green Hands (M),Japanese Warrior Green Hands (M)
+PROPITEM_TXT_905993,Japanese Warrior 6% Green Set (M),Japanese Warrior 6% Green Set (M)
+PROPITEM_TXT_905994,The Japanese Warrior 6% Green Set for male characters.,The Japanese Warrior 6% Green Set for male characters.
+PROPITEM_TXT_905995,Japanese Warrior Green Hat (F),Japanese Warrior Green Hat (F)
+PROPITEM_TXT_905996,Japanese Warrior Green Suit (F),Japanese Warrior Green Suit (F)
+PROPITEM_TXT_905997,Japanese Warrior Green Shoes (F),Japanese Warrior Green Shoes (F)
+PROPITEM_TXT_905998,Japanese Warrior Green Hands (F),Japanese Warrior Green Hands (F)
+PROPITEM_TXT_905999,Japanese Warrior 6% Green Set (F),Japanese Warrior 6% Green Set (F)
+PROPITEM_TXT_906000,The Japanese Warrior 6% Green Set for female characters.,The Japanese Warrior 6% Green Set for female characters.
+PROPITEM_TXT_906001,Japanese Warrior 4% Violet Set,Japanese Warrior 4% Violet Set
+PROPITEM_TXT_906002,Japanese Warrior Violet Katana,Japanese Warrior Violet Katana
+PROPITEM_TXT_906003,Japanese Warrior Violet Hat (M),Japanese Warrior Violet Hat (M)
+PROPITEM_TXT_906004,Japanese Warrior Violet Suit (M),Japanese Warrior Violet Suit (M)
+PROPITEM_TXT_906005,Japanese Warrior Violet Shoes (M),Japanese Warrior Violet Shoes (M)
+PROPITEM_TXT_906006,Japanese Warrior Violet Hands (M),Japanese Warrior Violet Hands (M)
+PROPITEM_TXT_906007,Japanese Warrior 4% Violet Set (M),Japanese Warrior 4% Violet Set (M)
+PROPITEM_TXT_906008,The Japanese Warrior 4% Violet Set for male characters.,The Japanese Warrior 4% Violet Set for male characters.
+PROPITEM_TXT_906009,Japanese Warrior Violet Hat (F),Japanese Warrior Violet Hat (F)
+PROPITEM_TXT_906010,Japanese Warrior Violet Suit (F),Japanese Warrior Violet Suit (F)
+PROPITEM_TXT_906011,Japanese Warrior Violet Shoes (F),Japanese Warrior Violet Shoes (F)
+PROPITEM_TXT_906012,Japanese Warrior Violet Hands (F),Japanese Warrior Violet Hands (F)
+PROPITEM_TXT_906013,Japanese Warrior 4% Violet Set (F),Japanese Warrior 4% Violet Set (F)
+PROPITEM_TXT_906014,The Japanese Warrior 4% Violet Set for female characters.,The Japanese Warrior 4% Violet Set for female characters.
+PROPITEM_TXT_906015,Japanese Warrior 2% Forest Set,Japanese Warrior 2% Forest Set
+PROPITEM_TXT_906016,Japanese Warrior Forest Katana,Japanese Warrior Forest Katana
+PROPITEM_TXT_906017,Japanese Warrior Forest Hat (M),Japanese Warrior Forest Hat (M)
+PROPITEM_TXT_906018,Japanese Warrior Forest Suit (M),Japanese Warrior Forest Suit (M)
+PROPITEM_TXT_906019,Japanese Warrior Forest Shoes (M),Japanese Warrior Forest Shoes (M)
+PROPITEM_TXT_906020,Japanese Warrior Forest Hands (M),Japanese Warrior Forest Hands (M)
+PROPITEM_TXT_906021,Japanese Warrior 2% Forest Set (M),Japanese Warrior 2% Forest Set (M)
+PROPITEM_TXT_906022,The Japanese Warrior 2% Forest Set for male characters.,The Japanese Warrior 2% Forest Set for male characters.
+PROPITEM_TXT_906023,Japanese Warrior Forest Hat (F),Japanese Warrior Forest Hat (F)
+PROPITEM_TXT_906024,Japanese Warrior Forest Suit (F),Japanese Warrior Forest Suit (F)
+PROPITEM_TXT_906025,Japanese Warrior Forest Shoes (F),Japanese Warrior Forest Shoes (F)
+PROPITEM_TXT_906026,Japanese Warrior Forest Hands (F),Japanese Warrior Forest Hands (F)
+PROPITEM_TXT_906027,Japanese Warrior 2% Forest Set (F),Japanese Warrior 2% Forest Set (F)
+PROPITEM_TXT_906028,The Japanese Warrior 2% Forest Set for female characters.,The Japanese Warrior 2% Forest Set for female characters.
+PROPITEM_TXT_906029,Japanese Warrior 2% White Set,Japanese Warrior 2% White Set
+PROPITEM_TXT_906030,Japanese Warrior White Katana,Japanese Warrior White Katana
+PROPITEM_TXT_906031,Japanese Warrior White Hat (M),Japanese Warrior White Hat (M)
+PROPITEM_TXT_906032,Japanese Warrior White Suit (M),Japanese Warrior White Suit (M)
+PROPITEM_TXT_906033,Japanese Warrior White Shoes (M),Japanese Warrior White Shoes (M)
+PROPITEM_TXT_906034,Japanese Warrior White Hands (M),Japanese Warrior White Hands (M)
+PROPITEM_TXT_906035,Japanese Warrior 2% White Set (M),Japanese Warrior 2% White Set (M)
+PROPITEM_TXT_906036,The Japanese Warrior 2% White Set for male characters.,The Japanese Warrior 2% White Set for male characters.
+PROPITEM_TXT_906037,Japanese Warrior White Hat (F),Japanese Warrior White Hat (F)
+PROPITEM_TXT_906038,Japanese Warrior White Suit (F),Japanese Warrior White Suit (F)
+PROPITEM_TXT_906039,Japanese Warrior White Shoes (F),Japanese Warrior White Shoes (F)
+PROPITEM_TXT_906040,Japanese Warrior White Hands (F),Japanese Warrior White Hands (F)
+PROPITEM_TXT_906041,Japanese Warrior 2% White Set (F),Japanese Warrior 2% White Set (F)
+PROPITEM_TXT_906042,The Japanese Warrior 2% White Set for female characters.,The Japanese Warrior 2% White Set for female characters.
+PROPITEM_TXT_906043,Blue Pocket Shinobi,Blue Pocket Shinobi
+PROPITEM_TXT_906044,"Small in size but swift in action, Pocket Shinobi faithfully follows its master, silently collecting every piece of loot along the way.","Small in size but swift in action, Pocket Shinobi faithfully follows its master, silently collecting every piece of loot along the way."
+PROPITEM_TXT_906045,Red Pocket Shinobi,Red Pocket Shinobi
+PROPITEM_TXT_906046,Green Pocket Shinobi,Green Pocket Shinobi
+PROPITEM_TXT_906047,Violet Pocket Shinobi,Violet Pocket Shinobi
+PROPITEM_TXT_906048,Forest Pocket Shinobi,Forest Pocket Shinobi
+PROPITEM_TXT_906049,White Pocket Shinobi,White Pocket Shinobi
+PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,Japanese Warrior Costume Lucky Box
+PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_161000,Primordial Runthiel Helmet,Primordial Runthiel Helmet
+PROPITEM_TXT_161001,Primordial Runthiel Suit,Primordial Runthiel Suit
+PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,Primordial Runthiel Gauntlets
+PROPITEM_TXT_161003,Primordial Runthiel Boots,Primordial Runthiel Boots
+PROPITEM_TXT_161004,Primordial Runthien Helmet,Primordial Runthien Helmet
+PROPITEM_TXT_161005,Primordial Runthien Suit,Primordial Runthien Suit
+PROPITEM_TXT_161006,Primordial Runthien Gauntlets,Primordial Runthien Gauntlets
+PROPITEM_TXT_161007,Primordial Runthien Boots,Primordial Runthien Boots
+PROPITEM_TXT_161008,Primordial Zaythor Helmet,Primordial Zaythor Helmet
+PROPITEM_TXT_161009,Primordial Zaythor Suit,Primordial Zaythor Suit
+PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,Primordial Zaythor Gauntlets
+PROPITEM_TXT_161011,Primordial Zaythor Boots,Primordial Zaythor Boots
+PROPITEM_TXT_161012,Primordial Zaythar Helmet,Primordial Zaythar Helmet
+PROPITEM_TXT_161013,Primordial Zaythar Suit,Primordial Zaythar Suit
+PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,Primordial Zaythar Gauntlets
+PROPITEM_TXT_161015,Primordial Zaythar Boots,Primordial Zaythar Boots
+PROPITEM_TXT_161016,Primordial Chyrelle Helmet,Primordial Chyrelle Helmet
+PROPITEM_TXT_161017,Primordial Chyrelle Suit,Primordial Chyrelle Suit
+PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,Primordial Chyrelle Gauntlets
+PROPITEM_TXT_161019,Primordial Chyrelle Boots,Primordial Chyrelle Boots
+PROPITEM_TXT_161020,Primordial Chyrella Helmet,Primordial Chyrella Helmet
+PROPITEM_TXT_161021,Primordial Chyrella Suit,Primordial Chyrella Suit
+PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,Primordial Chyrella Gauntlets
+PROPITEM_TXT_161023,Primordial Chyrella Boots,Primordial Chyrella Boots
+PROPITEM_TXT_161024,Primordial Lenvire Helmet,Primordial Lenvire Helmet
+PROPITEM_TXT_161025,Primordial Lenvire Suit,Primordial Lenvire Suit
+PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,Primordial Lenvire Gauntlets
+PROPITEM_TXT_161027,Primordial Lenvire Boots,Primordial Lenvire Boots
+PROPITEM_TXT_161028,Primordial Lenvira Helmet,Primordial Lenvira Helmet
+PROPITEM_TXT_161029,Primordial Lenvira Suit,Primordial Lenvira Suit
+PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,Primordial Lenvira Gauntlets
+PROPITEM_TXT_161031,Primordial Lenvira Boots,Primordial Lenvira Boots
+PROPITEM_TXT_161032,Primordial Etranor Helmet,Primordial Etranor Helmet
+PROPITEM_TXT_161033,Primordial Etranor Suit,Primordial Etranor Suit
+PROPITEM_TXT_161034,Primordial Etranor Gauntlets,Primordial Etranor Gauntlets
+PROPITEM_TXT_161035,Primordial Etranor Boots,Primordial Etranor Boots
+PROPITEM_TXT_161036,Primordial Etranar Helmet,Primordial Etranar Helmet
+PROPITEM_TXT_161037,Primordial Etranar Suit,Primordial Etranar Suit
+PROPITEM_TXT_161038,Primordial Etranar Gauntlets,Primordial Etranar Gauntlets
+PROPITEM_TXT_161039,Primordial Etranar Boots,Primordial Etranar Boots
+PROPITEM_TXT_161040,Primordial Kevric Helmet,Primordial Kevric Helmet
+PROPITEM_TXT_161041,Primordial Kevric Suit,Primordial Kevric Suit
+PROPITEM_TXT_161042,Primordial Kevric Gauntlets,Primordial Kevric Gauntlets
+PROPITEM_TXT_161043,Primordial Kevric Boots,Primordial Kevric Boots
+PROPITEM_TXT_161044,Primordial Kevricar Helmet,Primordial Kevricar Helmet
+PROPITEM_TXT_161045,Primordial Kevricar Suit,Primordial Kevricar Suit
+PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,Primordial Kevricar Gauntlets
+PROPITEM_TXT_161047,Primordial Kevricar Boots,Primordial Kevricar Boots
+PROPITEM_TXT_161048,PvP Ustamel Helmet,PvP Ustamel Helmet
+PROPITEM_TXT_161049,PvP Ustamel Suit,PvP Ustamel Suit
+PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvP Ustamel Gauntlets
+PROPITEM_TXT_161051,PvP Ustamel Boots,PvP Ustamel Boots
+PROPITEM_TXT_161052,PvP Ustamen Helmet,PvP Ustamen Helmet
+PROPITEM_TXT_161053,PvP Ustamen Suit,PvP Ustamen Suit
+PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvP Ustamen Gauntlets
+PROPITEM_TXT_161055,PvP Ustamen Boots,PvP Ustamen Boots
+PROPITEM_TXT_161056,PvP Virashon Helmet,PvP Virashon Helmet
+PROPITEM_TXT_161057,PvP Virashon Suit,PvP Virashon Suit
+PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvP Virashon Gauntlets
+PROPITEM_TXT_161059,PvP Virashon Boots,PvP Virashon Boots
+PROPITEM_TXT_161060,PvP Verashan Helmet,PvP Verashan Helmet
+PROPITEM_TXT_161061,PvP Verashan Suit,PvP Verashan Suit
+PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvP Verashan Gauntlets
+PROPITEM_TXT_161063,PvP Verashan Boots,PvP Verashan Boots
+PROPITEM_TXT_161064,Leafloop,Leafloop
+PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.","A tiny vine coiled in a spiral, brimming with gentle nature magic."
+PROPITEM_TXT_161066,Silent Petal,Silent Petal
+PROPITEM_TXT_161067,"A delicate purple petal with a subtle, whispering magical aura.","A delicate purple petal with a subtle, whispering magical aura."
+PROPITEM_TXT_161068,Thorny Shroom,Thorny Shroom
+PROPITEM_TXT_161069,"A small red mushroom with sharp thorns, releasing tiny poisonous spores.","A small red mushroom with sharp thorns, releasing tiny poisonous spores."
+PROPITEM_TXT_161070,Petal Charm,Petal Charm
+PROPITEM_TXT_161071,A pink flower petal used since ancient times in charms and magical potions.,A pink flower petal used since ancient times in charms and magical potions.
+PROPITEM_TXT_161072,Mossy Shroom,Mossy Shroom
+PROPITEM_TXT_161073,"A small mushroom covered in moss, looking a bit moldy… yuck, but still magical.","A small mushroom covered in moss, looking a bit moldy… yuck, but still magical."
+PROPITEM_TXT_161074,Mystred,Mystred
+PROPITEM_TXT_161075,"A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers.","A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers."
+PROPITEM_TXT_161076,Mutated Vine Core,Mutated Vine Core
+PROPITEM_TXT_161077,"A pulsating core of twisted vines, radiating a faint and unstable corrupt energy.","A pulsating core of twisted vines, radiating a faint and unstable corrupt energy."
+PROPITEM_TXT_913710,Glow Footsteps,Glow Footsteps
+PROPITEM_TXT_913711,New footstep effect,New footstep effect
+PROPITEM_TXT_913712,Sparkle Footsteps,Sparkle Footsteps
+PROPITEM_TXT_913713,New footstep effect,New footstep effect
+PROPITEM_TXT_913714,Scroll of PProtect,Scroll of PProtect
+PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
+PROPITEM_TXT_913716,Yellow Chips 2,Yellow Chips 2
+PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,Madrigal Tournament reward (Used to buy items from Waforu).
+PROPITEM_TXT_913718,PvP Runthiel Armor Set (M),PvP Runthiel Armor Set (M)
+PROPITEM_TXT_913719,Level 180 PvP Templar Set.,Level 180 PvP Templar Set.
+PROPITEM_TXT_913720,PvP Runthien Armor Set (F),PvP Runthien Armor Set (F)
+PROPITEM_TXT_913721,Level 180 PvP Templar Set.,Level 180 PvP Templar Set.
+PROPITEM_TXT_913722,PvP Zaythor Armor Set (M),PvP Zaythor Armor Set (M)
+PROPITEM_TXT_913723,Level 180 PvP Slayer Set.,Level 180 PvP Slayer Set.
+PROPITEM_TXT_913724,PvP Zaythar Armor Set (F),PvP Zaythar Armor Set (F)
+PROPITEM_TXT_913725,Level 180 PvP Slayer Set.,Level 180 PvP Slayer Set.
+PROPITEM_TXT_913726,PvP Chyrelle Armor Set (M),PvP Chyrelle Armor Set (M)
+PROPITEM_TXT_913727,Level 180 PvP Harlequin Set.,Level 180 PvP Harlequin Set.
+PROPITEM_TXT_913728,PvP Chyrella Armor Set (F),PvP Chyrella Armor Set (F)
+PROPITEM_TXT_913729,Level 180 PvP Harlequin Set.,Level 180 PvP Harlequin Set.
+PROPITEM_TXT_913730,PvP Lenvire Armor Set (M),PvP Lenvire Armor Set (M)
+PROPITEM_TXT_913731,Level 180 PvP Crackshooter Set.,Level 180 PvP Crackshooter Set.
+PROPITEM_TXT_913732,PvP Lenvira Armor Set (F),PvP Lenvira Armor Set (F)
+PROPITEM_TXT_913733,Level 180 PvP Crackshooter Set.,Level 180 PvP Crackshooter Set.
+PROPITEM_TXT_913734,PvP Etranor Armor Set (M),PvP Etranor Armor Set (M)
+PROPITEM_TXT_913735,Level 180 PvP Seraph Set.,Level 180 PvP Seraph Set.
+PROPITEM_TXT_913736,PvP Etranar Armor Set (F),PvP Etranar Armor Set (F)
+PROPITEM_TXT_913737,Level 180 PvP Seraph Set.,Level 180 PvP Seraph Set.
+PROPITEM_TXT_913738,PvP Kevric Armor Set (M),PvP Kevric Armor Set (M)
+PROPITEM_TXT_913739,Level 180 PvP Forcemaster Set.,Level 180 PvP Forcemaster Set.
+PROPITEM_TXT_913740,PvP Kevricar Armor Set (F),PvP Kevricar Armor Set (F)
+PROPITEM_TXT_913741,Level 180 PvP Forcemaster Set.,Level 180 PvP Forcemaster Set.
+PROPITEM_TXT_913742,PvP Ustamel Armor Set (M),PvP Ustamel Armor Set (M)
+PROPITEM_TXT_913743,Level 180 PvP Mentalist Set.,Level 180 PvP Mentalist Set.
+PROPITEM_TXT_913744,PvP Ustamen Armor Set (F),PvP Ustamen Armor Set (F)
+PROPITEM_TXT_913745,Level 180 PvP Mentalist Set.,Level 180 PvP Mentalist Set.
+PROPITEM_TXT_913746,PvP Virashon Armor Set (M),PvP Virashon Armor Set (M)
+PROPITEM_TXT_913747,Level 180 PvP Arcanist Set.,Level 180 PvP Arcanist Set.
+PROPITEM_TXT_913748,PvP Verashan Armor Set (F),PvP Verashan Armor Set (F)
+PROPITEM_TXT_913749,Level 180 PvP Arcanist Set.,Level 180 PvP Arcanist Set.
+PROPITEM_TXT_913750,1 Hour Kebaras 2 Ticket,1 Hour Kebaras 2 Ticket
+PROPITEM_TXT_913751,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.
+PROPITEM_TXT_913752,1 Day Kebaras 2 Ticket,1 Day Kebaras 2 Ticket
+PROPITEM_TXT_913753,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.
+PROPITEM_TXT_913754,Kalgas Chip 2,Kalgas Chip 2
+PROPITEM_TXT_913755,Exchange this Kalgas chip to Waforu for wonderful rewards!,Exchange this Kalgas chip to Waforu for wonderful rewards!
+PROPITEM_TXT_913756,Red Chips 2,Red Chips 2
+PROPITEM_TXT_913757,Guild Siege reward. Used to buy items from Waforu.,Guild Siege reward. Used to buy items from Waforu.
+PROPITEM_TXT_913758,Purple Spirit Shard,Purple Spirit Shard
+PROPITEM_TXT_913759,That's strange... It seems to be a fragment of Drifter's soul.,That's strange... It seems to be a fragment of Drifter's soul.
+PROPITEM_TXT_913760,Red Spirit Shard,Red Spirit Shard
+PROPITEM_TXT_913761,That's strange... It seems to be a fragment of Maiden's soul.,That's strange... It seems to be a fragment of Maiden's soul.
+PROPITEM_TXT_913762,Orange Spirit Shard,Orange Spirit Shard
+PROPITEM_TXT_913763,That's strange... It seems to be a fragment of Reaver's soul.,That's strange... It seems to be a fragment of Reaver's soul.
+PROPITEM_TXT_913764,Blue Spirit Shard,Blue Spirit Shard
+PROPITEM_TXT_913765,That's strange... It seems to be a fragment of Mystica's soul.,That's strange... It seems to be a fragment of Mystica's soul.
+PROPITEM_TXT_913766,Green Spirit Shard,Green Spirit Shard
+PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,That's strange... It seems to be a fragment of Anae's soul.
+PROPITEM_TXT_913768,Black Spirit Shard,Black Spirit Shard
+PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,That's strange... It seems to be a fragment of Rifter's soul.
+PROPITEM_TXT_913770,Phantasmal Shield,Phantasmal Shield
+PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.
+PROPITEM_TXT_913772,Book of Thorns,Book of Thorns
+PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.
+PROPITEM_TXT_913774,Soul of Entaness,Soul of Entaness
+PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.
+PROPITEM_TXT_913776,Sword of Whisper,Sword of Whisper
+PROPITEM_TXT_913777,Sword of Mist,Sword of Mist
+PROPITEM_TXT_913778,Phantasmal Slayer,Phantasmal Slayer
+PROPITEM_TXT_913779,Specter's Axe ,Specter's Axe 
+PROPITEM_TXT_913780,Clever of the mist,Clever of the mist
+PROPITEM_TXT_913781,Knuckle of Madness,Knuckle of Madness
+PROPITEM_TXT_913782,Mirage,Mirage
+PROPITEM_TXT_913783,Wand of apparitions,Wand of apparitions
+PROPITEM_TXT_913784,Staff of Ethereal Dreams,Staff of Ethereal Dreams
+PROPITEM_TXT_913785,Bow of Echoes,Bow of Echoes
+PROPITEM_TXT_913786,Jewel of Nightmare,Jewel of Nightmare
+PROPITEM_TXT_913787,Sword of Whisper Ultimate,Sword of Whisper Ultimate
+PROPITEM_TXT_913788,Sword of Mist Ultimate,Sword of Mist Ultimate
+PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,Phantasmal Slayer Ultimate
+PROPITEM_TXT_913790,Specter's Axe Ultimate,Specter's Axe Ultimate
+PROPITEM_TXT_913791,Clever of the mist Ultimate,Clever of the mist Ultimate
+PROPITEM_TXT_913792,Knuckle of Madness Ultimate,Knuckle of Madness Ultimate
+PROPITEM_TXT_913793,Mirage Ultimate,Mirage Ultimate
+PROPITEM_TXT_913794,Wand of apparitions Ultimate,Wand of apparitions Ultimate
+PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,Staff of Ethereal Dreams Ultimate
+PROPITEM_TXT_913796,Bow of Echoes Ultimate,Bow of Echoes Ultimate
+PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,Jewel of Nightmare Ultimate
+PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5 Update Pass
+PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season
+PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5 Update Lucky Box
+PROPITEM_TXT_913801,You can obtain 1 random gift when you use it.,You can obtain 1 random gift when you use it.
+PROPITEM_TXT_913802,Mob Weapon: Mystica,Mob Weapon: Mystica
+PROPITEM_TXT_913803,Cloak of Majesty,Cloak of Majesty
+PROPITEM_TXT_913804,Baby Okean,Baby Okean
+PROPITEM_TXT_913805,Lord-exclusive pick-up pet.,Lord-exclusive pick-up pet.
+PROPITEM_TXT_1902501,Caveman Chief Overlap Damage Attack 1,Caveman Chief Overlap Damage Attack 1
+PROPITEM_TXT_1902502,Caveman Chief Pull Target Attack 2,Caveman Chief Pull Target Attack 2
+PROPITEM_TXT_1902503,Caveman Chief Knock Back Attack 3,Caveman Chief Knock Back Attack 3
+PROPITEM_TXT_1902504,Caveman Chief Meteor Attack 4,Caveman Chief Meteor Attack 4
+PROPITEM_TXT_1902505,Caveman Chief Whirl Wind Attack 5,Caveman Chief Whirl Wind Attack 5
+PROPITEM_TXT_1902506,Caveman Chief Whirl Wind Attack 6,Caveman Chief Whirl Wind Attack 6
+PROPITEM_TXT_1902507,Temple Guardian Overlap Damage Attack 1,Temple Guardian Overlap Damage Attack 1
+PROPITEM_TXT_1902508,Temple Guardian Attack 2,Temple Guardian Attack 2
+PROPITEM_TXT_1902509,Temple Guardian Knock Back Attack 3,Temple Guardian Knock Back Attack 3
+PROPITEM_TXT_1902510,Temple Guardian Attack 4,Temple Guardian Attack 4
+PROPITEM_TXT_1902511,Temple Guardian Slow Attack 5,Temple Guardian Slow Attack 5
+PROPITEM_TXT_1902512,Temple Guardian Stun Attack 6,Temple Guardian Stun Attack 6
+PROPITEM_TXT_1902513,Great Kraken Overlap Damage Attack 1,Great Kraken Overlap Damage Attack 1
+PROPITEM_TXT_1902514,Great Kraken Attack 2,Great Kraken Attack 2
+PROPITEM_TXT_1902515,Great Kraken Attack 3,Great Kraken Attack 3
+PROPITEM_TXT_1902516,Great Kraken Meteor Attack 4,Great Kraken Meteor Attack 4
+PROPITEM_TXT_1902517,Great Kraken Attack 5,Great Kraken Attack 5
+PROPITEM_TXT_1902518,Great Kraken Attack 6,Great Kraken Attack 6
+PROPITEM_TXT_1902519,Pyramid Guardian Overlap Damage Attack 1,Pyramid Guardian Overlap Damage Attack 1
+PROPITEM_TXT_1902520,Pyramid Guardian Attack 2,Pyramid Guardian Attack 2
+PROPITEM_TXT_1902521,Pyramid Guardian Attack 3,Pyramid Guardian Attack 3
+PROPITEM_TXT_1902522,Pyramid Guardian Meteor Attack 4,Pyramid Guardian Meteor Attack 4
+PROPITEM_TXT_1902523,Pyramid Guardian Attack 5,Pyramid Guardian Attack 5
+PROPITEM_TXT_1902524,Pyramid Guardian Attack 6,Pyramid Guardian Attack 6
+PROPITEM_TXT_1902525,Crystal Demon Lord Overlap Damage Attack 1,Crystal Demon Lord Overlap Damage Attack 1
+PROPITEM_TXT_1902526,Crystal Demon Lord Attack 2,Crystal Demon Lord Attack 2
+PROPITEM_TXT_1902527,Crystal Demon Lord Fly Back Attack 3,Crystal Demon Lord Fly Back Attack 3
+PROPITEM_TXT_1902528,Crystal Demon Lord Knock Back Attack 4,Crystal Demon Lord Knock Back Attack 4
+PROPITEM_TXT_1902529,Crystal Demon Lord Attack 5,Crystal Demon Lord Attack 5
+PROPITEM_TXT_1902530,Crystal Demon Lord Attack 6,Crystal Demon Lord Attack 6
+PROPITEM_TXT_1902531,Beast King Khan Attack 1,Beast King Khan Attack 1
+PROPITEM_TXT_1902532,Beast King Khan Attack 2,Beast King Khan Attack 2
+PROPITEM_TXT_1902533,Beast King Khan Attack 3,Beast King Khan Attack 3
+PROPITEM_TXT_1902534,Beast King Khan Attack 4,Beast King Khan Attack 4
+PROPITEM_TXT_1902535,Beast King Khan Attack 5,Beast King Khan Attack 5
+PROPITEM_TXT_1902536,Beast King Khan Attack 6,Beast King Khan Attack 6
+PROPITEM_TXT_1902537,Ankou Attack 1,Ankou Attack 1
+PROPITEM_TXT_1902538,Ankou Attack 2,Ankou Attack 2
+PROPITEM_TXT_1902539,Ankou Attack 3,Ankou Attack 3
+PROPITEM_TXT_1902540,Ankou Attack 4,Ankou Attack 4
+PROPITEM_TXT_1902541,Ankou Attack 5,Ankou Attack 5
+PROPITEM_TXT_1902542,Ankou Attack 6,Ankou Attack 6
+PROPITEM_TXT_1902543,Tentakle Attack 1,Tentakle Attack 1
+PROPITEM_TXT_1902560,Mysterious Castle Retry Coupon,Mysterious Castle Retry Coupon
+PROPITEM_TXT_1902561,Grants 1 extra Mysterious Castle Floor Challenge attempt.,Grants 1 extra Mysterious Castle Floor Challenge attempt.
+PROPITEM_TXT_1902562,Mysterious Box Lv1,Mysterious Box Lv1
+PROPITEM_TXT_1902563,You can obtain Lv.1 Mysterious Accessory and Upgrade item.,You can obtain Lv.1 Mysterious Accessory and Upgrade item.
+PROPITEM_TXT_1902564,Mysterious Box Lv2,Mysterious Box Lv2
+PROPITEM_TXT_1902565,You can obtain Lv.2 Mysterious Accessory and Upgrade item.,You can obtain Lv.2 Mysterious Accessory and Upgrade item.
+PROPITEM_TXT_1902566,Mysterious Box Lv3,Mysterious Box Lv3
+PROPITEM_TXT_1902567,You can obtain Lv.3 Mysterious Accessory and Upgrade item.,You can obtain Lv.3 Mysterious Accessory and Upgrade item.
+PROPITEM_TXT_1902568,Mysterious Box Lv4,Mysterious Box Lv4
+PROPITEM_TXT_1902569,You can obtain Lv.4 Mysterious Accessory and Upgrade item.,You can obtain Lv.4 Mysterious Accessory and Upgrade item.
+PROPITEM_TXT_1902570,Mysterious Lv1 Random Consumable Box,Mysterious Lv1 Random Consumable Box
+PROPITEM_TXT_1902571,"You can randomly obtain a Lv.1 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,","You can randomly obtain a Lv.1 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,"
+PROPITEM_TXT_1902572,Mysterious Lv2 Random Consumable Box,Mysterious Lv2 Random Consumable Box
+PROPITEM_TXT_1902573,"You can randomly obtain a Lv.2 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,","You can randomly obtain a Lv.2 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,"
+PROPITEM_TXT_1902574,Mysterious Lv3 Random Consumable Box,Mysterious Lv3 Random Consumable Box
+PROPITEM_TXT_1902575,"You can randomly obtain a Lv.3 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,","You can randomly obtain a Lv.3 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,"
+PROPITEM_TXT_1902576,Mysterious Lv4 Random Consumable Box,Mysterious Lv4 Random Consumable Box
+PROPITEM_TXT_1902577,"You can randomly obtain a Lv.4 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,","You can randomly obtain a Lv.4 Mysterious Accessory Upgrade item or Vital Drink X or Refresher Hold,"
+PROPITEM_TXT_1902578,Mysterious Accessory Lv1 Selection Box,Mysterious Accessory Lv1 Selection Box
+PROPITEM_TXT_1902579,You can choose 1 out of 3 types of Lv.1 Mysterious Accessory,You can choose 1 out of 3 types of Lv.1 Mysterious Accessory
+PROPITEM_TXT_1902580,Mysterious Accessory Lv2 Selection Box,Mysterious Accessory Lv2 Selection Box
+PROPITEM_TXT_1902581,You can choose 1 out of 3 types of Lv.2 Mysterious Accessory,You can choose 1 out of 3 types of Lv.2 Mysterious Accessory
+PROPITEM_TXT_1902582,Mysterious Accessory Lv3 Selection Box,Mysterious Accessory Lv3 Selection Box
+PROPITEM_TXT_1902583,You can choose 1 out of 3 types of Lv.3 Mysterious Accessory,You can choose 1 out of 3 types of Lv.3 Mysterious Accessory
+PROPITEM_TXT_1902584,Mysterious Accessory Lv4 Selection Box,Mysterious Accessory Lv4 Selection Box
+PROPITEM_TXT_1902585,You can choose 1 out of 3 types of Lv.4 Mysterious Accessory,You can choose 1 out of 3 types of Lv.4 Mysterious Accessory
+PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,Guild Siege reward (used to buy items from Waforu).
+PROPITEM_TXT_1902587,Blossom,Blossom
+PROPITEM_TXT_1902589,Kebaras Costume Fragment,Kebaras Costume Fragment
+PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,Exchange these in Kebaras 2 for unique cosmetics.
+PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,Blinkwing of Mysterious Castle
+PROPITEM_TXT_1902592,Teleport to Mysterious Castle,Teleport to Mysterious Castle
+PROPITEM_TXT_1902593,Asmodan Red Suit (M),Asmodan Red Suit (M)
+PROPITEM_TXT_1902594,Asmodan Red Head (M),Asmodan Red Head (M)
+PROPITEM_TXT_1902595,Asmodan Red Hands (M),Asmodan Red Hands (M)
+PROPITEM_TXT_1902596,Asmodan Red Shoes (M),Asmodan Red Shoes (M)
+PROPITEM_TXT_1902597,Asmodan Red Suit (F),Asmodan Red Suit (F)
+PROPITEM_TXT_1902598,Asmodan Red Head (F),Asmodan Red Head (F)
+PROPITEM_TXT_1902599,Asmodan Red Hands (F),Asmodan Red Hands (F)
+PROPITEM_TXT_1902600,Asmodan Red Shoes (F),Asmodan Red Shoes (F)
+PROPITEM_TXT_1902601,Asmodan Red Wings,Asmodan Red Wings
+PROPITEM_TXT_1902602,Asmodan Red Set Select Box,Asmodan Red Set Select Box
+PROPITEM_TXT_1902603,Asmodan Red Set (F),Asmodan Red Set (F)
+PROPITEM_TXT_1902604,Asmodan Red Set (M),Asmodan Red Set (M)
+PROPITEM_TXT_1902605,Red Crystal Demon Lord Head,Red Crystal Demon Lord Head
+PROPITEM_TXT_1902606,Red Crystal Demon Lord Cloak,Red Crystal Demon Lord Cloak
+PROPITEM_TXT_1902607,Snow King Khan Cloak,Snow King Khan Cloak
+PROPITEM_TXT_1902608,Red Siren's Head,Red Siren's Head
+PROPITEM_TXT_1902609,Red Wings of the Siren,Red Wings of the Siren
+PROPITEM_TXT_1902610,Dark Skeleton General Head,Dark Skeleton General Head
+PROPITEM_TXT_1902611,Purple Skeleton General Wings,Purple Skeleton General Wings
+PROPITEM_TXT_1902612,Demon Pyramid Keeper's Head,Demon Pyramid Keeper's Head
+PROPITEM_TXT_1902613,Gold Soldier Tangz hair,Gold Soldier Tangz hair
+PROPITEM_TXT_1902614,Gray Veduque Hair,Gray Veduque Hair
+PROPITEM_TXT_1902615,Gray Veduque Hornhair,Gray Veduque Hornhair
+PROPITEM_TXT_1902616,Red Veduque Mask,Red Veduque Mask
+PROPITEM_TXT_1902617,Red Veduque Cloak,Red Veduque Cloak
+PROPITEM_TXT_1902618,Crystal Demon Set,Crystal Demon Set
+PROPITEM_TXT_1902619,A package containing Red Crystal Demon Lord Cloak and Red Crystal Demon Lord Head.,A package containing Red Crystal Demon Lord Cloak and Red Crystal Demon Lord Head.
+PROPITEM_TXT_1902620,Veduque Set,Veduque Set
+PROPITEM_TXT_1902621,"A package containing Gray Veduque Mask, Gray Veduque Cloak, Gray Veduque Hair and Gray Veduque Hornhair.","A package containing Gray Veduque Mask, Gray Veduque Cloak, Gray Veduque Hair and Gray Veduque Hornhair."
+PROPITEM_TXT_1902622,Siren Set,Siren Set
+PROPITEM_TXT_1902623,A package containing Red Siren's Head and Red Wings of the Siren.,A package containing Red Siren's Head and Red Wings of the Siren.
+PROPITEM_TXT_1902624,Skeleton General Set,Skeleton General Set
+PROPITEM_TXT_1902625,A package containing Dark Skeleton General Head and Red Skeleton General Wings.,A package containing Dark Skeleton General Head and Red Skeleton General Wings.
+PROPITEM_TXT_1902626,Kebaras Set,Kebaras Set
+PROPITEM_TXT_1902627,A package containing Gold Soldier Tangz hair and Snow King Khan Cloak.,A package containing Gold Soldier Tangz hair and Snow King Khan Cloak.
+PROPITEM_TXT_1902628,1.5.5 Update Power-up Package,1.5.5 Update Power-up Package
+PROPITEM_TXT_1902629,"A package containing 5x Scroll of Element Change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.","A package containing 5x Scroll of Element Change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked."
+PROPITEM_TXT_1902630,1.5.5 Update Hunting Expedition Package,1.5.5 Update Hunting Expedition Package
+PROPITEM_TXT_1902631,"A package containing 10x Scroll of Food Shop, 10x Def-Upcut Stone, 20x Potion Box, 20x Flask Box and 4x Power Scroll. All items are also linked.","A package containing 10x Scroll of Food Shop, 10x Def-Upcut Stone, 20x Potion Box, 20x Flask Box and 4x Power Scroll. All items are also linked."
+PROPITEM_TXT_1902632,1.5.5 Update Hunter's Inventory,1.5.5 Update Hunter's Inventory
+PROPITEM_TXT_1902633,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.","A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked."
+PROPITEM_TXT_1902634,1.5.5 Update Boss Hunt Pack,1.5.5 Update Boss Hunt Pack
+PROPITEM_TXT_1902635,"A package containing 10x Flask Box, 10x Amplification Elixir Box, 10x Amplification Potion Box, 10x Upcut Stone, 10x Activation and 1x Personal House NPC(7 days) Select Box. All items are also linked.","A package containing 10x Flask Box, 10x Amplification Elixir Box, 10x Amplification Potion Box, 10x Upcut Stone, 10x Activation and 1x Personal House NPC(7 days) Select Box. All items are also linked."
+PROPITEM_TXT_1902636,Reonan Set,Reonan Set
+PROPITEM_TXT_1902637,Reonan Cloak,Reonan Cloak
+PROPITEM_TXT_1902638,Reonan Hat (M),Reonan Hat (M)
+PROPITEM_TXT_1902639,Reonan Suit (M),Reonan Suit (M)
+PROPITEM_TXT_1902640,Reonan Shoes (M),Reonan Shoes (M)
+PROPITEM_TXT_1902641,Reonan Hands (M),Reonan Hands (M)
+PROPITEM_TXT_1902642,Reonan Set (M),Reonan Set (M)
+PROPITEM_TXT_1902643,The Reonan Set for male characters.,The Reonan Set for male characters.
+PROPITEM_TXT_1902644,Reonan Hat (F),Reonan Hat (F)
+PROPITEM_TXT_1902645,Reonan Suit (F),Reonan Suit (F)
+PROPITEM_TXT_1902647,Reonan Hands (F),Reonan Hands (F)
+PROPITEM_TXT_1902646,Reonan Shoes (F),Reonan Shoes (F)
+PROPITEM_TXT_1902648,Reonan Set (F),Reonan Set (F)
+PROPITEM_TXT_1902649,The Reonan Set for female characters.,The Reonan Set for female characters.
+PROPITEM_TXT_1902650,Reonan Costume Lucky Box,Reonan Costume Lucky Box
+PROPITEM_TXT_1902651,This box contains a Reonan Set. You can select your gender after opening the Lucky Box.,This box contains a Reonan Set. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_1902652,Royal Vanguard Sword,Royal Vanguard Sword
+PROPITEM_TXT_1902653,Royal Vanguard Axe,Royal Vanguard Axe
+PROPITEM_TXT_1902654,Royal Vanguard Big Sword,Royal Vanguard Big Sword
+PROPITEM_TXT_1902655,Royal Vanguard Big Axe,Royal Vanguard Big Axe
+PROPITEM_TXT_1902656,Royal Vanguard Stick,Royal Vanguard Stick
+PROPITEM_TXT_1902657,Royal Vanguard Knuckle,Royal Vanguard Knuckle
+PROPITEM_TXT_1902658,Royal Vanguard Bow,Royal Vanguard Bow
+PROPITEM_TXT_1902659,Royal Vanguard Yo-Yo,Royal Vanguard Yo-Yo
+PROPITEM_TXT_1902660,Royal Vanguard Staff,Royal Vanguard Staff
+PROPITEM_TXT_1902661,Royal Vanguard Wand,Royal Vanguard Wand
+PROPITEM_TXT_1902662,Royal Vanguard Shield,Royal Vanguard Shield
+PROPITEM_TXT_1902663,Royal Vanguard Force Gem,Royal Vanguard Force Gem
+PROPITEM_TXT_1902664,Royal Vanguard Book,Royal Vanguard Book
+PROPITEM_TXT_1902665,Royal  Vanguard Weapon Set,Royal  Vanguard Weapon Set
+PROPITEM_TXT_1902666,Select which Royal Vanguard Weapon you want to receive!,Select which Royal Vanguard Weapon you want to receive!
+PROPITEM_TXT_1902667,Royal Abyss Sword,Royal Abyss Sword
+PROPITEM_TXT_1902668,Royal Abyss Axe,Royal Abyss Axe
+PROPITEM_TXT_1902669,Royal Abyss Big Sword,Royal Abyss Big Sword
+PROPITEM_TXT_1902670,Royal Abyss Big Axe,Royal Abyss Big Axe
+PROPITEM_TXT_1902671,Royal Abyss Stick,Royal Abyss Stick
+PROPITEM_TXT_1902672,Royal Abyss Knuckle,Royal Abyss Knuckle
+PROPITEM_TXT_1902673,Royal Abyss Bow,Royal Abyss Bow
+PROPITEM_TXT_1902674,Royal Abyss Yo-Yo,Royal Abyss Yo-Yo
+PROPITEM_TXT_1902675,Royal Abyss Staff,Royal Abyss Staff
+PROPITEM_TXT_1902676,Royal Abyss Wand,Royal Abyss Wand
+PROPITEM_TXT_1902677,Royal Abyss Shield,Royal Abyss Shield
+PROPITEM_TXT_1902678,Royal Abyss Force Gem,Royal Abyss Force Gem
+PROPITEM_TXT_1902679,Royal Abyss Book,Royal Abyss Book
+PROPITEM_TXT_1902680,Royal  Abyss Weapon Set,Royal  Abyss Weapon Set
+PROPITEM_TXT_1902681,Select which Royal Abyss Weapon you want to receive!,Select which Royal Abyss Weapon you want to receive!
+PROPITEM_TXT_1902682,Reonan Kalgas Set,Reonan Kalgas Set
+PROPITEM_TXT_1902683,Reonan Kalgas Cloak,Reonan Kalgas Cloak
+PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),Reonan Kalgas Hat (M)
+PROPITEM_TXT_1902685,Reonan Kalgas Suit (M),Reonan Kalgas Suit (M)
+PROPITEM_TXT_1902686,Reonan Kalgas Shoes (M),Reonan Kalgas Shoes (M)
+PROPITEM_TXT_1902687,Reonan Kalgas Hands (M),Reonan Kalgas Hands (M)
+PROPITEM_TXT_1902688,Reonan Kalgas Set (M),Reonan Kalgas Set (M)
+PROPITEM_TXT_1902689,The Reonan Kalgas Set for male characters.,The Reonan Kalgas Set for male characters.
+PROPITEM_TXT_1902690,Reonan Kalgas Hat (F),Reonan Kalgas Hat (F)
+PROPITEM_TXT_1902691,Reonan Kalgas Suit (F),Reonan Kalgas Suit (F)
+PROPITEM_TXT_1902692,Reonan Kalgas Hands (F),Reonan Kalgas Hands (F)
+PROPITEM_TXT_1902693,Reonan Kalgas Shoes (F),Reonan Kalgas Shoes (F)
+PROPITEM_TXT_1902694,Reonan Kalgas Set (F),Reonan Kalgas Set (F)
+PROPITEM_TXT_1902695,The Reonan Kalgas Set for female characters.,The Reonan Kalgas Set for female characters.
+PROPITEM_TXT_1902696,WCN Login issue FWC Compensation Box (7days),WCN Login issue FWC Compensation Box (7days)
+PROPITEM_TXT_1902697,WCN Login issue Compensation Box (7days),WCN Login issue Compensation Box (7days)
+PROPITEM_TXT_1902698,This is a package containing rewards for the WCN login issue.,This is a package containing rewards for the WCN login issue.
+PROPITEM_TXT_1902699,Veiled Wardens 10% Green Set,Veiled Wardens 10% Green Set
+PROPITEM_TXT_1902700,Veiled Wardens Green Mantle,Veiled Wardens Green Mantle
+PROPITEM_TXT_1902701,Veiled Wardens Green Hat (M),Veiled Wardens Green Hat (M)
+PROPITEM_TXT_1902702,Veiled Wardens Green Suit (M),Veiled Wardens Green Suit (M)
+PROPITEM_TXT_1902703,Veiled Wardens Green Shoes (M),Veiled Wardens Green Shoes (M)
+PROPITEM_TXT_1902704,Veiled Wardens Green Hands (M),Veiled Wardens Green Hands (M)
+PROPITEM_TXT_1902705,Veiled Wardens 10% Green Set (M),Veiled Wardens 10% Green Set (M)
+PROPITEM_TXT_1902706,The Veiled Wardens 10% Green Set for male characters.,The Veiled Wardens 10% Green Set for male characters.
+PROPITEM_TXT_1902707,Veiled Wardens Green Hat (F),Veiled Wardens Green Hat (F)
+PROPITEM_TXT_1902708,Veiled Wardens Green Suit (F),Veiled Wardens Green Suit (F)
+PROPITEM_TXT_1902709,Veiled Wardens Green Shoes (F),Veiled Wardens Green Shoes (F)
+PROPITEM_TXT_1902710,Veiled Wardens Green Hands (F),Veiled Wardens Green Hands (F)
+PROPITEM_TXT_1902711,Veiled Wardens 10% Green Set (F),Veiled Wardens 10% Green Set (F)
+PROPITEM_TXT_1902712,The Veiled Wardens 10% Green Set for female characters.,The Veiled Wardens 10% Green Set for female characters.
+PROPITEM_TXT_1902713,Veiled Wardens 10% Blue Set,Veiled Wardens 10% Blue Set
+PROPITEM_TXT_1902714,Veiled Wardens Blue Mantle,Veiled Wardens Blue Mantle
+PROPITEM_TXT_1902715,Veiled Wardens Blue Hat (M),Veiled Wardens Blue Hat (M)
+PROPITEM_TXT_1902716,Veiled Wardens Blue Suit (M),Veiled Wardens Blue Suit (M)
+PROPITEM_TXT_1902717,Veiled Wardens Blue Shoes (M),Veiled Wardens Blue Shoes (M)
+PROPITEM_TXT_1902718,Veiled Wardens Blue Hands (M),Veiled Wardens Blue Hands (M)
+PROPITEM_TXT_1902719,Veiled Wardens 10% Blue Set (M),Veiled Wardens 10% Blue Set (M)
+PROPITEM_TXT_1902720,The Veiled Wardens 10% Blue Set for male characters.,The Veiled Wardens 10% Blue Set for male characters.
+PROPITEM_TXT_1902721,Veiled Wardens Blue Hat (F),Veiled Wardens Blue Hat (F)
+PROPITEM_TXT_1902722,Veiled Wardens Blue Suit (F),Veiled Wardens Blue Suit (F)
+PROPITEM_TXT_1902723,Veiled Wardens Blue Shoes (F),Veiled Wardens Blue Shoes (F)
+PROPITEM_TXT_1902724,Veiled Wardens Blue Hands (F),Veiled Wardens Blue Hands (F)
+PROPITEM_TXT_1902725,Veiled Wardens 10% Blue Set (F),Veiled Wardens 10% Blue Set (F)
+PROPITEM_TXT_1902726,The Veiled Wardens 10% Blue Set for female characters.,The Veiled Wardens 10% Blue Set for female characters.
+PROPITEM_TXT_1902727,Veiled Wardens 8% Cyan Set,Veiled Wardens 8% Cyan Set
+PROPITEM_TXT_1902728,Veiled Wardens Cyan Mantle,Veiled Wardens Cyan Mantle
+PROPITEM_TXT_1902729,Veiled Wardens Cyan Hat (M),Veiled Wardens Cyan Hat (M)
+PROPITEM_TXT_1902730,Veiled Wardens Cyan Suit (M),Veiled Wardens Cyan Suit (M)
+PROPITEM_TXT_1902731,Veiled Wardens Cyan Shoes (M),Veiled Wardens Cyan Shoes (M)
+PROPITEM_TXT_1902732,Veiled Wardens Cyan Hands (M),Veiled Wardens Cyan Hands (M)
+PROPITEM_TXT_1902733,Veiled Wardens 8% Cyan Set (M),Veiled Wardens 8% Cyan Set (M)
+PROPITEM_TXT_1902734,The Veiled Wardens 8% Cyan Set for male characters.,The Veiled Wardens 8% Cyan Set for male characters.
+PROPITEM_TXT_1902735,Veiled Wardens Cyan Hat (F),Veiled Wardens Cyan Hat (F)
+PROPITEM_TXT_1902736,Veiled Wardens Cyan Suit (F),Veiled Wardens Cyan Suit (F)
+PROPITEM_TXT_1902737,Veiled Wardens Cyan Shoes (F),Veiled Wardens Cyan Shoes (F)
+PROPITEM_TXT_1902738,Veiled Wardens Cyan Hands (F),Veiled Wardens Cyan Hands (F)
+PROPITEM_TXT_1902739,Veiled Wardens 8% Cyan Set (F),Veiled Wardens 8% Cyan Set (F)
+PROPITEM_TXT_1902740,The Veiled Wardens 8% Cyan Set for female characters.,The Veiled Wardens 8% Cyan Set for female characters.
+PROPITEM_TXT_1902741,Veiled Wardens 8% Purple Set,Veiled Wardens 8% Purple Set
+PROPITEM_TXT_1902742,Veiled Wardens Purple Mantle,Veiled Wardens Purple Mantle
+PROPITEM_TXT_1902743,Veiled Wardens Purple Hat (M),Veiled Wardens Purple Hat (M)
+PROPITEM_TXT_1902744,Veiled Wardens Purple Suit (M),Veiled Wardens Purple Suit (M)
+PROPITEM_TXT_1902745,Veiled Wardens Purple Shoes (M),Veiled Wardens Purple Shoes (M)
+PROPITEM_TXT_1902746,Veiled Wardens Purple Hands (M),Veiled Wardens Purple Hands (M)
+PROPITEM_TXT_1902747,Veiled Wardens 8% Purple Set (M),Veiled Wardens 8% Purple Set (M)
+PROPITEM_TXT_1902748,The Veiled Wardens 8% Purple Set for male characters.,The Veiled Wardens 8% Purple Set for male characters.
+PROPITEM_TXT_1902749,Veiled Wardens Purple Hat (F),Veiled Wardens Purple Hat (F)
+PROPITEM_TXT_1902750,Veiled Wardens Purple Suit (F),Veiled Wardens Purple Suit (F)
+PROPITEM_TXT_1902751,Veiled Wardens Purple Shoes (F),Veiled Wardens Purple Shoes (F)
+PROPITEM_TXT_1902752,Veiled Wardens Purple Hands (F),Veiled Wardens Purple Hands (F)
+PROPITEM_TXT_1902753,Veiled Wardens 8% Purple Set (F),Veiled Wardens 8% Purple Set (F)
+PROPITEM_TXT_1902754,The Veiled Wardens 8% Purple Set for female characters.,The Veiled Wardens 8% Purple Set for female characters.
+PROPITEM_TXT_1902755,Veiled Wardens 6% Yellow Set,Veiled Wardens 6% Yellow Set
+PROPITEM_TXT_1902756,Veiled Wardens Yellow Mantle,Veiled Wardens Yellow Mantle
+PROPITEM_TXT_1902757,Veiled Wardens Yellow Hat (M),Veiled Wardens Yellow Hat (M)
+PROPITEM_TXT_1902758,Veiled Wardens Yellow Suit (M),Veiled Wardens Yellow Suit (M)
+PROPITEM_TXT_1902759,Veiled Wardens Yellow Shoes (M),Veiled Wardens Yellow Shoes (M)
+PROPITEM_TXT_1902760,Veiled Wardens Yellow Hands (M),Veiled Wardens Yellow Hands (M)
+PROPITEM_TXT_1902761,Veiled Wardens 6% Yellow Set (M),Veiled Wardens 6% Yellow Set (M)
+PROPITEM_TXT_1902762,The Veiled Wardens 6% Yellow Set for male characters.,The Veiled Wardens 6% Yellow Set for male characters.
+PROPITEM_TXT_1902763,Veiled Wardens Yellow Hat (F),Veiled Wardens Yellow Hat (F)
+PROPITEM_TXT_1902764,Veiled Wardens Yellow Suit (F),Veiled Wardens Yellow Suit (F)
+PROPITEM_TXT_1902765,Veiled Wardens Yellow Shoes (F),Veiled Wardens Yellow Shoes (F)
+PROPITEM_TXT_1902766,Veiled Wardens Yellow Hands (F),Veiled Wardens Yellow Hands (F)
+PROPITEM_TXT_1902767,Veiled Wardens 6% Yellow Set (F),Veiled Wardens 6% Yellow Set (F)
+PROPITEM_TXT_1902768,The Veiled Wardens 6% Yellow Set for female characters.,The Veiled Wardens 6% Yellow Set for female characters.
+PROPITEM_TXT_1902769,Veiled Wardens 4% Red Set,Veiled Wardens 4% Red Set
+PROPITEM_TXT_1902770,Veiled Wardens Red Mantle,Veiled Wardens Red Mantle
+PROPITEM_TXT_1902771,Veiled Wardens Red Hat (M),Veiled Wardens Red Hat (M)
+PROPITEM_TXT_1902772,Veiled Wardens Red Suit (M),Veiled Wardens Red Suit (M)
+PROPITEM_TXT_1902773,Veiled Wardens Red Shoes (M),Veiled Wardens Red Shoes (M)
+PROPITEM_TXT_1902774,Veiled Wardens Red Hands (M),Veiled Wardens Red Hands (M)
+PROPITEM_TXT_1902775,Veiled Wardens 4% Red Set (M),Veiled Wardens 4% Red Set (M)
+PROPITEM_TXT_1902776,The Veiled Wardens 4% Red Set for male characters.,The Veiled Wardens 4% Red Set for male characters.
+PROPITEM_TXT_1902777,Veiled Wardens Red Hat (F),Veiled Wardens Red Hat (F)
+PROPITEM_TXT_1902778,Veiled Wardens Red Suit (F),Veiled Wardens Red Suit (F)
+PROPITEM_TXT_1902779,Veiled Wardens Red Shoes (F),Veiled Wardens Red Shoes (F)
+PROPITEM_TXT_1902780,Veiled Wardens Red Hands (F),Veiled Wardens Red Hands (F)
+PROPITEM_TXT_1902781,Veiled Wardens 4% Red Set (F),Veiled Wardens 4% Red Set (F)
+PROPITEM_TXT_1902782,The Veiled Wardens 4% Red Set for female characters.,The Veiled Wardens 4% Red Set for female characters.
+PROPITEM_TXT_1902783,Veiled Wardens 2% Orange Set,Veiled Wardens 2% Orange Set
+PROPITEM_TXT_1902784,Veiled Wardens Orange Mantle,Veiled Wardens Orange Mantle
+PROPITEM_TXT_1902785,Veiled Wardens Orange Hat (M),Veiled Wardens Orange Hat (M)
+PROPITEM_TXT_1902786,Veiled Wardens Orange Suit (M),Veiled Wardens Orange Suit (M)
+PROPITEM_TXT_1902787,Veiled Wardens Orange Shoes (M),Veiled Wardens Orange Shoes (M)
+PROPITEM_TXT_1902788,Veiled Wardens Orange Hands (M),Veiled Wardens Orange Hands (M)
+PROPITEM_TXT_1902789,Veiled Wardens 2% Orange Set (M),Veiled Wardens 2% Orange Set (M)
+PROPITEM_TXT_1902790,The Veiled Wardens 2% Orange Set for male characters.,The Veiled Wardens 2% Orange Set for male characters.
+PROPITEM_TXT_1902791,Veiled Wardens Orange Hat (F),Veiled Wardens Orange Hat (F)
+PROPITEM_TXT_1902792,Veiled Wardens Orange Suit (F),Veiled Wardens Orange Suit (F)
+PROPITEM_TXT_1902793,Veiled Wardens Orange Shoes (F),Veiled Wardens Orange Shoes (F)
+PROPITEM_TXT_1902794,Veiled Wardens Orange Hands (F),Veiled Wardens Orange Hands (F)
+PROPITEM_TXT_1902795,Veiled Wardens 2% Orange Set (F),Veiled Wardens 2% Orange Set (F)
+PROPITEM_TXT_1902796,The Veiled Wardens 2% Orange Set for female characters.,The Veiled Wardens 2% Orange Set for female characters.
+PROPITEM_TXT_1902797,Veiled Wardens 2% Beige Set,Veiled Wardens 2% Beige Set
+PROPITEM_TXT_1902798,Veiled Wardens Beige Mantle,Veiled Wardens Beige Mantle
+PROPITEM_TXT_1902799,Veiled Wardens Beige Hat (M),Veiled Wardens Beige Hat (M)
+PROPITEM_TXT_1902800,Veiled Wardens Beige Suit (M),Veiled Wardens Beige Suit (M)
+PROPITEM_TXT_1902801,Veiled Wardens Beige Shoes (M),Veiled Wardens Beige Shoes (M)
+PROPITEM_TXT_1902802,Veiled Wardens Beige Hands (M),Veiled Wardens Beige Hands (M)
+PROPITEM_TXT_1902803,Veiled Wardens 2% Beige Set (M),Veiled Wardens 2% Beige Set (M)
+PROPITEM_TXT_1902804,The Veiled Wardens 2% Beige Set for male characters.,The Veiled Wardens 2% Beige Set for male characters.
+PROPITEM_TXT_1902805,Veiled Wardens Beige Hat (F),Veiled Wardens Beige Hat (F)
+PROPITEM_TXT_1902806,Veiled Wardens Beige Suit (F),Veiled Wardens Beige Suit (F)
+PROPITEM_TXT_1902807,Veiled Wardens Beige Shoes (F),Veiled Wardens Beige Shoes (F)
+PROPITEM_TXT_1902808,Veiled Wardens Beige Hands (F),Veiled Wardens Beige Hands (F)
+PROPITEM_TXT_1902809,Veiled Wardens 2% Beige Set (F),Veiled Wardens 2% Beige Set (F)
+PROPITEM_TXT_1902810,The Veiled Wardens 2% Beige Set for female characters.,The Veiled Wardens 2% Beige Set for female characters.
+PROPITEM_TXT_1902811,Veiled Wardens Costume Lucky Box,Veiled Wardens Costume Lucky Box
+PROPITEM_TXT_1902812,This box contains a Veiled Wardens Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Veiled Wardens Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_1902813,Veiled Wardens Green Shield,Veiled Wardens Green Shield
+PROPITEM_TXT_1902814,Veiled Wardens Blue Shield,Veiled Wardens Blue Shield
+PROPITEM_TXT_1902815,Veiled Wardens Cyan Shield,Veiled Wardens Cyan Shield
+PROPITEM_TXT_1902816,Veiled Wardens Purple Shield,Veiled Wardens Purple Shield
+PROPITEM_TXT_1902817,Veiled Wardens Yellow Shield,Veiled Wardens Yellow Shield
+PROPITEM_TXT_1902818,Veiled Wardens Red Shield,Veiled Wardens Red Shield
+PROPITEM_TXT_1902819,Veiled Wardens Orange Shield,Veiled Wardens Orange Shield
+PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,Veiled Wardens Beige Shield

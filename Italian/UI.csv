@@ -693,6 +693,7 @@ UI_UPGRADE_ITEM,Item,Oggetto
 UI_UPGRADE_MATERIAL,Power Dice/Card,Dado di Potenza/Carta
 UI_UPGRADE_PROTECTSCROLL,SProtect,S-Protezione
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,X-Protezione
+UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PProtect
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Pietrasola
 UI_UPGRADE_CHANCESCROLL,SFusion,S-Fusione
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",Il livello dell'attributo diminuirà in caso di fallimento. Non perderai l'oggetto.
@@ -1581,6 +1582,11 @@ UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,Lv.80 Guild Siege Infor
 UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,Lv.60 Guild Siege Information
 UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,Apply for Lv.80 Guild Siege
 UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,Apply for Lv.60 Guild Siege
+UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - Cancel Application
+UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,Do you want to withdraw from the Level 165 Guild Siege?
+UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,Do you join the Level 165 Guild Siege?
+UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Level 165 GS Information
+UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,Apply for Level 165 GS
 UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds
 UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds
 UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,Lv.80 Guild Siege Application Status
@@ -1591,6 +1597,11 @@ UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,Lv.80 Guild Siege Results
 UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,Lv.60 Guild Siege Results
 UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,Lv.80 Guild Siege Player Rankings
 UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,Lv.60 Guild Siege Player Rankings
+UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds
+UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Level 165 GS Applications
+UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Level 165 GS Line Up
+UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Level 165 Guild & Member Ranking
+UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Level 165 Guild Member Ranking
 UI_OPTION_EVENTLIGHT,Event Light,Event Light
 UI_LEVELREACH,Level Reach,Level Reach
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!","Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!"
@@ -1721,6 +1732,8 @@ UI_TICKETCHANNELSEL,Select a Layer,Select a Layer
 UI_TICKETCHANNEL,Layer,Layer
 UI_TICKETLEAVE,Leave Area,Leave Area
 UI_TARGETITEMLEVEL,Required Target Level: %d,Required Target Level: %d
+UI_RECOMMENDEDLEVEL,Recommended Level: %s,Recommended Level: %s
+UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Stats x%.2f)
 UI_DUNGEON_REQ_ITEM,Required Items:,Required Items:
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,Daily Entries: %d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Loot Distribution
@@ -2471,7 +2484,7 @@ UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,Registration fee:
 UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Maximum players per team: ,Maximum players per team: 
 UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,Registered guilds (%d):
 UI_MATOURNAMENT_REGISTER,Register,Register
-UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 3 players. Registration is available Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 3 players. Registration is available Monday through %s from 00:00:00 to %s."
+UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s."
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,Registered teams (%d):
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,Random
 UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,Select Entry Zone
@@ -2621,6 +2634,7 @@ UI_LIFE_RECIPEBTN,Recipes,Recipes
 UI_LIFE_RECIPES,Recipes,Ricette
 UI_LIFE_RECIPES_CATEGORY,Category,Categorie
 UI_LIFE_RECIPES_DETAILS,Recipe,Recipe
+UI_LIFE_RECIPES_GRADE,Grade,Grade
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nessuna ricetta selezionata
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
@@ -2629,6 +2643,8 @@ UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Success Rate
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Required Mastery: %d
+UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Required Mastery:
+UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,Required Title:
 UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Ingredients
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Drinks
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Pills
@@ -2693,6 +2709,7 @@ UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to o
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
+UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,Buy with %s
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rank
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Character Name
@@ -2717,6 +2734,10 @@ UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ore
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start,Production Start
+UI_LIFE_CRAFT_START,Start,Start
+UI_LIFE_CRAFT_STOP,Stop,Stop
+UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
+UI_LIFE_CRAFT_RESET,Reset,Reset
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
@@ -3298,3 +3319,69 @@ UI_4TH_ANNIV_PASS,4th Anniversary Pass,4th Anniversary Pass
 UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4th Anniversary Boss Instance Event
 UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server Hunting Carnival
 UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!
+UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Donate Penya to receive server wide buffs!
+UI_APP_LORD_TIP,Manage lord skills as the lord.,Manage lord skills as the lord.
+UI_APP_LORD_TARGETNAME,Enter the target's name,Enter the target's name
+UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.
+UI_DONATION_NEXTEVENT,Next Event:,Next Event:
+UI_DONATION_CURRENTEVENT,Current Event:,Current Event:
+UI_DONATION_MINDONATION,Minimum Donation:,Minimum Donation:
+UI_DONATION_GOAL,Goal,Goal
+UI_DONATION_BUFF,Buff,Buff
+UI_DONATION_DONATOR,Donator,Donator
+UI_DONATION_DONATE,Donate,Donate
+UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.
+UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 Update Pass
+UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
+UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Donate %s penya
+UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Apply %s Theme
+UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
+UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
+UI_DONATION_TOTALDONATION,Total Donation:,Total Donation:
+UI_DONATION_MYDONATION,My Donation:,My Donation:
+UI_DONATION_RANKING,Donation Ranking,Donation Ranking
+UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Current Lord: #b%s#nb
+UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Would you like to start the battle?\nEntering will consume an entry attempt.
+UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you like to leave the current floor?
+UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
+UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
+UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
+UI_MYSTCASTLE_RANKING,Ranking,Ranking
+UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
+UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
+UI_MYSTCASTLE_LIST_CLEAR,Clear,Clear
+UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Floor BOSS:\n    %s
+UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Entrance: %s\nMinimum Level: %d\nClear Time: %s
+UI_MYSTCASTLE_PARTY,Party,Party
+UI_MYSTCASTLE_SOLO,Solo,Solo
+UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Clear Rewards
+UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Free Entrance Used %d/%d
+UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking Settlement in progress
+UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
+UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
+UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
+UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
+UI_MYSTCASTLE_MY_RANKING,My Ranking:,My Ranking:
+UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
+UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
+UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
+UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
+UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
+UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Floor
+UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
+UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
+UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
+UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
+UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Floor Clear Reward
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Reward
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!

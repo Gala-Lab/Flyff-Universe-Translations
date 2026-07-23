@@ -11,6 +11,7 @@ DURUSTIA_WLD_000000,The Wilds,The Wilds
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),Iblis Temple (ดันเจี้ยน)
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),Storm Peak (อินสแตนซ์ดันเจี้ยน)
 DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),Envy Depths (อินสแตนซ์ดันเจี้ยน)
+DUUPRESIA_WLD_000000,Euphresia,Euphresia
 DUVOLKANE_WLD_000000,Volkane,Volkane
 DUVOLKANE_WLD_000001,Volkane (Dungeon),Volkane (ดันเจี้ยน)
 WDARENA_WLD_000000,Arena,Arena
@@ -46,6 +47,10 @@ WDKEBARAS_WLD_000000,Lodelight,Lodelight
 WDKEBARAS_WLD_000001,This is a safe place.,ที่นี่ปลอดภัย
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",ยินดีต้อนรับสู่เมือง Kebaras!\nเมืองนี้เคยเป็นที่กักขังเหล่าอาชญากรเมื่อนานมาแล้ว...
+WDKEBARAS2_WLD_000000,Lodelight,Lodelight
+WDKEBARAS2_WLD_000001,This is a safe place.,This is a safe place.
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,Kebaras 2
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,Mysterious Castle
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,สถานที่แห่งนี้ไม่มีการอ้างอิงบนแผนที่ ไม่มีใครรู้วิธีเข้าไปข้างใน...
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,ที่ลี้ภัยของ Middle Leren Mountains
@@ -250,6 +255,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,Darkon 3\nVillag
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,Euphresia
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.","Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare."
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,พื้นที่นอกสำรวจใน Madrigal
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Game Master เท่านั้นที่จะสามารถช่วยคุณออกไปได้
@@ -258,3 +265,4 @@ WDREALM_WLD_000001,This is a safe place.,ที่นี่ปลอดภัย
 WDREALM_WLD_000002,This is a safe place.,ที่นี่ปลอดภัย
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,คุณได้เข้าสู่ battle zone!!!
 WDHEAVEN06_1_WLD_000003,Secret Room,Secret Room
+WDUPRESIA_WLD_000000,Euphresia,Euphresia

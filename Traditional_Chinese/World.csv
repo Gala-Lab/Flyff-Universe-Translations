@@ -11,6 +11,7 @@ DURUSTIA_WLD_000000,The Wilds,荒野叢境
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),伊普里司神殿 (副本)
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),風暴峰 (獨立副本)
 DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),嫉妒深淵 (獨立副本)
+DUUPRESIA_WLD_000000,Euphresia,Euphresia
 DUVOLKANE_WLD_000000,Volkane,熔岩祕境
 DUVOLKANE_WLD_000001,Volkane (Dungeon),熔岩祕境 (副本)
 WDARENA_WLD_000000,Arena,競技場
@@ -46,6 +47,10 @@ WDKEBARAS_WLD_000000,Lodelight,生命光柱
 WDKEBARAS_WLD_000001,This is a safe place.,這裡是安全地區
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,卡巴拉斯
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯城鎮！\n這個地方很久以前是關押罪犯的監獄……
+WDKEBARAS2_WLD_000000,Lodelight,Lodelight
+WDKEBARAS2_WLD_000001,This is a safe place.,This is a safe place.
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,Kebaras 2
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的城堡
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地圖上沒有任何標示，沒人知道如何進入裡面……
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,勒倫山脈中部的隱藏處
@@ -250,6 +255,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,得肯第三區\
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,海尼爾遺都
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.",海尼爾遺都是一座美麗的水下天堂，擁有宏偉的建築。\n然而，陰影之手卻造成了混亂。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,艾爾倫村
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,Euphresia
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.","Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare."
 PROTOTYPE_WLD_000000,Prototype,原型
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,瑪德利賈大陸未知地區
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,你無法自行離開，請聯繫 GM 遊戲管理員。
@@ -258,3 +265,4 @@ WDREALM_WLD_000001,This is a safe place.,這裡是安全地區
 WDREALM_WLD_000002,This is a safe place.,這裡是安全地區
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,你進入了戰鬥區域！！!
 WDHEAVEN06_1_WLD_000003,Secret Room,秘密房間
+WDUPRESIA_WLD_000000,Euphresia,Euphresia

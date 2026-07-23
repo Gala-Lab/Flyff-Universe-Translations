@@ -216,6 +216,7 @@ CHARACTER_INC_000704,Buff Pang,Пингвид-иллюзионист
 CHARACTER_INC_000706,[Arena Manager] Harold,Мастер войны Гарольд
 CHARACTER_INC_000708,[Arena Store] Deek,Торговец Дик
 CHARACTER_INC_000712,[Arena Manager] Lay,Мастер войны Лай
+CHARACTER_INC_000736,Lord Manager,Lord Manager
 CHARACTER_INC_000738,Card Master,Аркания
 CHARACTER_INC_000742,[Jewel Manager] Peach,Ювелир Персеида
 CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,Злыдень
@@ -345,7 +346,7 @@ CHARACTER_INC_003244,[Guild Ship NPC] Lane,[NPC Гильдийского кор�
 CHARACTER_INC_003245,[Guild Ship NPC] Runni,[NPC Гильдийского корабля] Руни
 CHARACTER_INC_003246,[Guild Ship NPC] Pang,[NPC Гильдийского корабля] Панг
 CHARACTER_INC_000774,Orphanage Keeper,Оранжевый хвататель
-CHARACTER_INC_003247,Guest Book,Гостевая книга
+CHARACTER_INC_003247,Guest Book,Гостевая книга
 CHARACTER_INC_003248,Bomida,Бомида
 CHARACTER_INC_003249,Negie,Негл
 CHARACTER_INC_100100,Templates,Шаблоны
@@ -429,3 +430,9 @@ CHARACTER_INC_150051,Cheirang,Чаринг
 CHARACTER_INC_150052,[Village Chief] Huntrang,Вождь Раджакс
 CHARACTER_INC_150053,[Arena Manager] Aerin,[Менеджер Арены] Аринка
 CHARACTER_INC_150100,[Event] Getcha,[Евент] Гача
+CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165 Guild Siege Manager] Prune
+CHARACTER_INC_155001,[Captain] Baron,[Captain] Baron
+CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
+CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn
+CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Eillun Farmer] Dr. Root
+CHARACTER_INC_155005,Musha,Musha
