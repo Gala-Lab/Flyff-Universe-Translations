@@ -11,7 +11,7 @@ DURUSTIA_WLD_000000,The Wilds,Désiréa (Donjon Instancié)
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),Temple d'Ivillis (Donjon)
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),Pic de Tempête (Donjon Instancié)
 DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),Abîme de l'Envie (Donjon Instancié)
-DUUPRESIA_WLD_000000,Euphresia,Euphresia
+DUUPRESIA_WLD_000000,Euphresia,Euphrasia
 DUVOLKANE_WLD_000000,Volkane,Volcane
 DUVOLKANE_WLD_000001,Volkane (Dungeon),Volcane (Donjon)
 WDARENA_WLD_000000,Arena,Arène
@@ -47,12 +47,12 @@ WDKEBARAS_WLD_000000,Lodelight,Havre de Vie
 WDKEBARAS_WLD_000001,This is a safe place.,Cet endroit semble sûr…
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Bienvenue dans le village de Kebaras !\nIl y a bien longtemps, cet endroit était une prison pour les criminels..."
-WDKEBARAS2_WLD_000000,Lodelight,Lodelight
-WDKEBARAS2_WLD_000001,This is a safe place.,This is a safe place.
+WDKEBARAS2_WLD_000000,Lodelight,Havre de Vie
+WDKEBARAS2_WLD_000001,This is a safe place.,C'est un endroit sûr.
 WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,Kebaras 2
-WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals..."
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Bienvenue dans la ville de Kebaras 2 !\nIl y a longtemps, cet endroit servait de prison pour les criminels..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,Chateau mystérieux
-WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Cet endroit n'est pas sur la carte. Personne ne sait comment entrer à l'intérieur...
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Cet endroit n'est pas sur la carte. Plusieurs monstres de haut niveau sont enfermés à l'intérieur.
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge des Montagnes Centrales de Leren
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Ligne Flarine ↔ Saincity
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Ligne Flarine ↔ Darkon 1
@@ -255,8 +255,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,Darkon 3\nVillag
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos était un magnifique havre sous-marin à l'architecture splendide.\n Cependant, Shade a provoqué des dérèglements."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,Euphresia
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.","Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,Euphrasia
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.","Euphrasia était une zone humide magique et onirique, où d'immenses champignons lumineux et une faune enchantée prospéraient en parfaite harmonie.\nCependant, la colère ancestrale de Rhisis libéra une sombre corruption sur le sol, transformant la paisible forêt en un cauchemar traître, étouffé par les spores."
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Endroit inconnu sur Madrigal
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Seul un Maître de Jeu peut vous aider à sortir.
@@ -265,4 +265,4 @@ WDREALM_WLD_000001,This is a safe place.,Cet endroit semble sûr…
 WDREALM_WLD_000002,This is a safe place.,Cet endroit semble sûr…
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,Bienvenue dans la zone de combat !
 WDHEAVEN06_1_WLD_000003,Secret Room,Chambres Secrètes
-WDUPRESIA_WLD_000000,Euphresia,Euphresia
+WDUPRESIA_WLD_000000,Euphresia,Euphrasia
