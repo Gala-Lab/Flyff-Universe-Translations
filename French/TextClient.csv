@@ -1560,7 +1560,7 @@ TEXTCLIENT_APP_LORD,Lord Skills,Compétences du Souverain
 TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,L'événement de donation %s +%d%% a commencé !
 TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,L'événement de donation %s +%d% est terminé...
 TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,Vous avez donné %s Penya à l'événement %s.
-TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Félicitations, vous êtes devenu le Souverain de la semaine !
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,"Félicitations, vous êtes devenu le Souverain de la semaine !"
 TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,Il n'y a pas de Souverain cette semaine.
 TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,Le Souverain de la semaine est %s. Félicitations !
 TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Synchronisation des données du serveur en cours. Veuillez réessayer dans un instant.
