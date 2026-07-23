@@ -1159,69 +1159,69 @@ PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Spe
 PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.",Maudit l'ennemi et l'immobilise grâce à une magie sombre.
 PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,Inflige des dégâts sur la durée aux ennemis dans la zone.
 PROPSKILL_TXT_150625,Burn Damage,Dommages causés par les brûlures
-PROPSKILL_TXT_150626,Lord's Cheer,Lord's Cheer
-PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,Increases the experience and drop rate for yourself or one target.
-PROPSKILL_TXT_150628,Lord's Blessing,Lord's Blessing
-PROPSKILL_TXT_150629,Increases attack and defense for yourself or one target.,Increases attack and defense for yourself or one target.
-PROPSKILL_TXT_150630,Lord's Love,Lord's Love
-PROPSKILL_TXT_150631,Increases stats for yourself or one target.,Increases stats for yourself or one target.
-PROPSKILL_TXT_150632,Lord's Shout,Lord's Shout
-PROPSKILL_TXT_150633,Your shout text is colored in green.,Your shout text is colored in green.
-PROPSKILL_TXT_150634,Lord's Anger,Lord's Anger
+PROPSKILL_TXT_150626,Lord's Cheer,Encouragement du Souverain
+PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,Augmente l'expérience et le taux de drop pour vous-même ou une cible.
+PROPSKILL_TXT_150628,Lord's Blessing,Bénédiction du Souverain
+PROPSKILL_TXT_150629,Increases attack and defense for yourself or one target.,Augmente l'attaque et la défense pour vous-même ou une cible.
+PROPSKILL_TXT_150630,Lord's Love,Amour du Souverain
+PROPSKILL_TXT_150631,Increases stats for yourself or one target.,Augmente les statistiques pour vous-même ou une cible.
+PROPSKILL_TXT_150632,Lord's Shout,Cri du Souverain
+PROPSKILL_TXT_150633,Your shout text is colored in green.,Le texte de votre cri apparaît en vert.
+PROPSKILL_TXT_150634,Lord's Anger,Colère du Souverain
 PROPSKILL_TXT_150635,,
-PROPSKILL_TXT_150636,Lord's Call,Lord's Call
-PROPSKILL_TXT_150637,Summon the specified player to yourself.,Summon the specified player to yourself.
-PROPSKILL_TXT_150638,Lord's Teleport,Lord's Teleport
-PROPSKILL_TXT_150639,Teleport to the specified player.,Teleport to the specified player.
-PROPSKILL_TXT_150640,Lord's Party,Lord's Party
-PROPSKILL_TXT_150641,Any party skills used by you have increased duration. This skill is permanently enabled.,Any party skills used by you have increased duration. This skill is permanently enabled.
-PROPSKILL_TXT_100157,Overlap Damage,Overlap Damage
-PROPSKILL_TXT_100158,Overlap burning effect increases with each hit and deals extra damage at full stacks.,Overlap burning effect increases with each hit and deals extra damage at full stacks.
-PROPSKILL_TXT_100159,Pull Target,Pull Target
-PROPSKILL_TXT_100160,"Pulled toward the caster, unable to move.","Pulled toward the caster, unable to move."
-PROPSKILL_TXT_100161,Knock Back,Knock Back
-PROPSKILL_TXT_100162,Struck by a powerful blow and knocked back.,Struck by a powerful blow and knocked back.
-PROPSKILL_TXT_100163,Burning Impact,Burning Impact
-PROPSKILL_TXT_100164,"Ignited by the fiery impact, taking burn damage.","Ignited by the fiery impact, taking burn damage."
-PROPSKILL_TXT_100165,Toxic Impact,Toxic Impact
-PROPSKILL_TXT_100166,"Poisoned by the toxic impact, taking periodic damage.","Poisoned by the toxic impact, taking periodic damage."
-PROPSKILL_TXT_100167,Frost Impact,Frost Impact
-PROPSKILL_TXT_100168,"Slowed by the chilling impact, reducing movement and attack speed.","Slowed by the chilling impact, reducing movement and attack speed."
-PROPSKILL_TXT_100169,Shock Impact,Shock Impact
-PROPSKILL_TXT_100170,"Struck by a powerful impact, taking additional fixed damage.","Struck by a powerful impact, taking additional fixed damage."
-PROPSKILL_TXT_100171,Bleeding,Bleeding
-PROPSKILL_TXT_100172,Taking continuous damage from bleeding wounds.,Taking continuous damage from bleeding wounds.
-PROPSKILL_TXT_100173,Rampage,Rampage
-PROPSKILL_TXT_100174,"Enters a rampage state, increasing speed and attack power.","Enters a rampage state, increasing speed and attack power."
-PROPSKILL_TXT_100175,Overlap Defense Break,Overlap Defense Break
-PROPSKILL_TXT_100176,Overlap electric effect increases with each hit and lowers defense at full stacks.,Overlap electric effect increases with each hit and lowers defense at full stacks.
-PROPSKILL_TXT_100177,Defense Break,Defense Break
-PROPSKILL_TXT_100178,Reduces target's defense and magic resistance.,Reduces target's defense and magic resistance.
-PROPSKILL_TXT_100179,All Immunity,All Immunity
-PROPSKILL_TXT_100180,Protects the monster from all debuffs.,Protects the monster from all debuffs.
-PROPSKILL_TXT_100181,Slow,Slow
-PROPSKILL_TXT_100182,Reduces the target's movement speed for a short time.,Reduces the target's movement speed for a short time.
-PROPSKILL_TXT_100183,Stun,Stun
-PROPSKILL_TXT_100184,You are stunned and cannot move.,You are stunned and cannot move.
-PROPSKILL_TXT_100185,Groggy Weakness,Groggy Weakness
-PROPSKILL_TXT_100186,"While groggy, the target receives increased damage from all attacks.","While groggy, the target receives increased damage from all attacks."
-PROPSKILL_TXT_100187,Slow On Water,Slow On Water
-PROPSKILL_TXT_100188,Reduces movement speed while standing in water.,Reduces movement speed while standing in water.
-PROPSKILL_TXT_100189,Overlap Water Heal,Overlap Water Heal
-PROPSKILL_TXT_100190,Restores HP over time while the target is in water. Healing increases with each stack of the effect.,Restores HP over time while the target is in water. Healing increases with each stack of the effect.
-PROPSKILL_TXT_100191,Gathering Energy,Gathering Energy
-PROPSKILL_TXT_100192,Concentrates energy to greatly increase HP recovery for a short duration.,Concentrates energy to greatly increase HP recovery for a short duration.
-PROPSKILL_TXT_100193,Overlap Slow,Overlap Slow
-PROPSKILL_TXT_100194,"Reduces movement speed, with the slow effect becoming stronger as stacks increase.","Reduces movement speed, with the slow effect becoming stronger as stacks increase."
-PROPSKILL_TXT_100195,Overlap Freeze,Overlap Freeze
-PROPSKILL_TXT_100196,Applies a stacking chill effect that eventually freezes the target at full stacks.,Applies a stacking chill effect that eventually freezes the target at full stacks.
-PROPSKILL_TXT_100197,Freeze,Freeze
-PROPSKILL_TXT_100198,"Freezes the target, preventing movement and actions for a short duration.","Freezes the target, preventing movement and actions for a short duration."
-PROPSKILL_TXT_100199,Max HP Reduction,Max HP Reduction
-PROPSKILL_TXT_100200,Reduces the target's maximum HP for a short duration.,Reduces the target's maximum HP for a short duration.
-PROPSKILL_TXT_100201,Grabbed by Tentacle,Grabbed by Tentacle
-PROPSKILL_TXT_100202,"The target is restrained by a tentacle, unable to move and taking continuous damage.","The target is restrained by a tentacle, unable to move and taking continuous damage."
-PROPSKILL_TXT_100203,Stun,Stun
-PROPSKILL_TXT_100204,You are stunned and cannot move.,You are stunned and cannot move.
-PROPSKILL_TXT_100205,Sand Shield,Sand Shield
-PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Incoming damage is reduced to 1 for 5 seconds.
+PROPSKILL_TXT_150636,Lord's Call,Appel du Souverain
+PROPSKILL_TXT_150637,Summon the specified player to yourself.,Invoque le joueur sélectionné à vos côtés.
+PROPSKILL_TXT_150638,Lord's Teleport,Téléportation du Souverain
+PROPSKILL_TXT_150639,Teleport to the specified player.,Vous téléporte auprès du joueur sélectionné.
+PROPSKILL_TXT_150640,Lord's Party,Groupe du Souverain
+PROPSKILL_TXT_150641,Any party skills used by you have increased duration. This skill is permanently enabled.,La durée des compétences de groupe que vous utilisez est augmentée. Cette compétence est activée en permanence.
+PROPSKILL_TXT_100157,Overlap Damage,Dégâts cumulés
+PROPSKILL_TXT_100158,Overlap burning effect increases with each hit and deals extra damage at full stacks.,L'effet de brûlure se cumule à chaque coup et inflige des dégâts supplémentaires lorsque les charges sont au maximum.
+PROPSKILL_TXT_100159,Pull Target,Attire la cible
+PROPSKILL_TXT_100160,"Pulled toward the caster, unable to move.","Attiré vers le lanceur, la cible est incapable de se déplacer."
+PROPSKILL_TXT_100161,Knock Back,Repoussement
+PROPSKILL_TXT_100162,Struck by a powerful blow and knocked back.,Frappé par un puissant coup et repoussé.
+PROPSKILL_TXT_100163,Burning Impact,Impact brûlant
+PROPSKILL_TXT_100164,"Ignited by the fiery impact, taking burn damage.","Enflammé par l'impact ardent et subissant des dégâts de brûlure."
+PROPSKILL_TXT_100165,Toxic Impact,Impact toxique
+PROPSKILL_TXT_100166,"Poisoned by the toxic impact, taking periodic damage.","Empoisonné par l'impact toxique et subissant des dégâts périodiques."
+PROPSKILL_TXT_100167,Frost Impact,Impact glacial
+PROPSKILL_TXT_100168,"Slowed by the chilling impact, reducing movement and attack speed.","Ralenti par l'impact glacial, réduisant la vitesse de déplacement et la vitesse d'attaque."
+PROPSKILL_TXT_100169,Shock Impact,Impact électrique
+PROPSKILL_TXT_100170,"Struck by a powerful impact, taking additional fixed damage.","Frappé par un puissant impact et subissant des dégâts fixes supplémentaires."
+PROPSKILL_TXT_100171,Bleeding,Saignement
+PROPSKILL_TXT_100172,Taking continuous damage from bleeding wounds.,Subit des dégâts continus à cause de blessures qui saignent.
+PROPSKILL_TXT_100173,Rampage,Rage
+PROPSKILL_TXT_100174,"Enters a rampage state, increasing speed and attack power.","Entre dans un état de rage, augmentant sa vitesse et sa puissance d'attaque."
+PROPSKILL_TXT_100175,Overlap Defense Break,Brèche de défense cumulée
+PROPSKILL_TXT_100176,Overlap electric effect increases with each hit and lowers defense at full stacks.,L'effet électrique se cumule à chaque coup et réduit la défense lorsque les charges sont au maximum.
+PROPSKILL_TXT_100177,Defense Break,Brèche de défense
+PROPSKILL_TXT_100178,Reduces target's defense and magic resistance.,Réduit la défense et la résistance magique de la cible.
+PROPSKILL_TXT_100179,All Immunity,Immunité totale
+PROPSKILL_TXT_100180,Protects the monster from all debuffs.,Protège le monstre contre tous les effets négatifs.
+PROPSKILL_TXT_100181,Slow,Ralentissement
+PROPSKILL_TXT_100182,Reduces the target's movement speed for a short time.,Réduit temporairement la vitesse de déplacement de la cible.
+PROPSKILL_TXT_100183,Stun,Étourdissement
+PROPSKILL_TXT_100184,You are stunned and cannot move.,Vous êtes étourdi et ne pouvez plus bouger.
+PROPSKILL_TXT_100185,Groggy Weakness,Faiblesse pendant l'étourdissement
+PROPSKILL_TXT_100186,"While groggy, the target receives increased damage from all attacks.","Pendant qu'elle est étourdie, la cible subit davantage de dégâts de toutes les attaques."
+PROPSKILL_TXT_100187,Slow On Water,Ralentissement dans l'eau
+PROPSKILL_TXT_100188,Reduces movement speed while standing in water.,Réduit la vitesse de déplacement lorsque la cible se trouve dans l'eau.
+PROPSKILL_TXT_100189,Overlap Water Heal,Soin aquatique cumulé
+PROPSKILL_TXT_100190,Restores HP over time while the target is in water. Healing increases with each stack of the effect.,Restaure progressivement les PV lorsque la cible se trouve dans l'eau. Les soins augmentent avec chaque charge de l'effet.
+PROPSKILL_TXT_100191,Gathering Energy,Accumulation d'énergie
+PROPSKILL_TXT_100192,Concentrates energy to greatly increase HP recovery for a short duration.,Concentre son énergie pour augmenter considérablement la récupération des PV pendant une courte durée.
+PROPSKILL_TXT_100193,Overlap Slow,Ralentissement cumulé
+PROPSKILL_TXT_100194,"Reduces movement speed, with the slow effect becoming stronger as stacks increase.","Réduit la vitesse de déplacement, l'effet de ralentissement devenant plus puissant à mesure que les charges augmentent."
+PROPSKILL_TXT_100195,Overlap Freeze,Gel cumulé
+PROPSKILL_TXT_100196,Applies a stacking chill effect that eventually freezes the target at full stacks.,Applique un effet de froid cumulable qui finit par geler la cible lorsque les charges sont au maximum.
+PROPSKILL_TXT_100197,Freeze,Gel
+PROPSKILL_TXT_100198,"Freezes the target, preventing movement and actions for a short duration.","Gèle la cible, l'empêchant de se déplacer et d'agir pendant une courte durée."
+PROPSKILL_TXT_100199,Max HP Reduction,Réduction des PV max.
+PROPSKILL_TXT_100200,Reduces the target's maximum HP for a short duration.,Réduit temporairement les PV maximum de la cible.
+PROPSKILL_TXT_100201,Grabbed by Tentacle,Attrapé par un tentacule
+PROPSKILL_TXT_100202,"The target is restrained by a tentacle, unable to move and taking continuous damage.","La cible est immobilisée par un tentacule et subit des dégâts continus."
+PROPSKILL_TXT_100203,Stun,Étourdissement
+PROPSKILL_TXT_100204,You are stunned and cannot move.,Vous êtes étourdi et ne pouvez plus bouger.
+PROPSKILL_TXT_100205,Sand Shield,Bouclier de sable
+PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Les dégâts reçus sont réduits à 1 pendant 5 secondes.
