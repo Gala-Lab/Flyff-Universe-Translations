@@ -326,7 +326,7 @@ TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Niveau du métier spécialis
 TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Augmentation des points de compétence
 TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Vous avez appris %s. Vous pouvez désormais attribuer des points de compétence à cette capacité.
 TEXTCLIENT_FLYLVLUP,Flying level up!,Votre expérience de vol a augmenté.
-TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des Flèches ou le piège ou la Fiole approprié(e) pour utiliser cette compétence.
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des flèches, des conjurations, des mantras ou la fiole correspondante pour utiliser cette compétence.
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Qui ose me défier ?!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Tu ne sembles pas connaître la peur !!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Prépare toi à souffrir !
@@ -651,7 +651,7 @@ TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,La Guerre des Guildes 
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Merci de vous joindre d'ici un moment.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Préparatifs en cours
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Un Vagabond ne peut pas participer à la Guerre des Guildes.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,A character with third class is not eligible for Lv165 guild siege.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,Un personnage ayant atteint la troisième classe ne peut pas participer au siège de guilde de niveau 165.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Bienvenue à la Guerre des Guildes.
 TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,Préparez-vous au combat !
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,"Soyez victorieux pour l'honneur de votre guilde ! En tant que maître de guilde, un bonus vous sera attribué pour tout adversaire vaincu."
@@ -888,7 +888,7 @@ TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Merci d'avo
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Achetez le %s étendu pour recevoir plus de récompenses !
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Seuls les personnages de niveau 80 ou moins peuvent s'inscrire à la Guerre de Guildes niv. 80.
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Seuls les personnages n'ayant pas terminé leur deuxième avancement de classe peuvent participer à la Guerre de Guildes niv. 60.
-TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Seuls les personnages n'ayant pas terminé leur changement de troisième classe peuvent participer à ce siège de guilde de niveau 165.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,La Guerre de Guildes niv. 80 aura lieu cette semaine.
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,La Guerre de Guildes niv. 60 aura lieu cette semaine.
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Le siège de guilde de niveau 80 d'aujourd'hui n'aura pas lieu faute de participants.
@@ -1449,7 +1449,7 @@ TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Impossible de trouver l’ap
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,Vous n’avez pas encore appris la compétence requise.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,Vous avez reçu %s en récompense de votre classement de maîtrise de vie.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Impossible d’envoyer la récompense de classement de maîtrise de vie.
-TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Not enough Penya.
+TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Pas assez de Penya.
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Échec de la pêche. Veuillez vous déplacer et réessayer.
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,Vous avez installé votre maison de couple avec succès.
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,Vous ne possédez actuellement aucune maison de couple.
@@ -1556,20 +1556,20 @@ TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s n’a p
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s est déjà dans une autre instance.
 TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Attention : « %s » est un joueur normal. Ne visitez aucun site web et ne communiquez jamais vos identifiants. Le seul site officiel est $WEBSITE$. Méfiez-vous des arnaques et des sites de phishing.
 TEXTCLIENT_APP_DONATION,Donation,Donation
-TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
-TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
-TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
-TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
-TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Congratulations for becoming the Lord of the week!
-TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,There is no Lord this week.
-TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,The Lord of the week is %s. Congratulations!
-TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Server data synchronization in progress. Please try again shortly.
-TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Invalid floor selection. Please try again.
-TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Your level is too low to enter this floor.
-TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Ranking settlement in progress. Please try again later.
-TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Failed to initialize the floor. Please try again.
-TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,A Mysterious Castle Retry Coupon is required to challenge this floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
-TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
-TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.
+TEXTCLIENT_APP_LORD,Lord Skills,Compétences du Souverain
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,L'événement de donation %s +%d%% a commencé !
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,L'événement de donation %s +%d% est terminé...
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,Vous avez donné %s Penya à l'événement %s.
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,"Félicitations, vous êtes devenu le Souverain de la semaine !"
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,Il n'y a pas de Souverain cette semaine.
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,Le Souverain de la semaine est %s. Félicitations !
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Synchronisation des données du serveur en cours. Veuillez réessayer dans un instant.
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Sélection d'étage invalide. Veuillez réessayer.
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Votre niveau est trop bas pour accéder à cet étage.
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Le classement est en cours de finalisation. Veuillez réessayer plus tard.
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Échec de l'initialisation de l'étage. Veuillez réessayer.
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,Un Coupon de nouvelle tentative du Château mystérieux est nécessaire pour tenter cet étage.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,Vous avez reçu une récompense pour avoir terminé un nouvel étage.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,Vous ne pouvez pas recevoir la récompense pour avoir terminé un nouvel étage. Consultez votre boîte aux lettres.
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Impossible d'utiliser le Coupon de nouvelle tentative du Château mystérieux.
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Seul le Souverain peut utiliser ce menu.

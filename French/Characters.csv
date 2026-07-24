@@ -216,7 +216,7 @@ CHARACTER_INC_000704,Buff Pang,[Buff] Pang
 CHARACTER_INC_000706,[Arena Manager] Harold,[Chef de l'Arène] Harold
 CHARACTER_INC_000708,[Arena Store] Deek,[Marchand de l'Arène] Deek
 CHARACTER_INC_000712,[Arena Manager] Lay,[Chef de l'Arène] Ray
-CHARACTER_INC_000736,Lord Manager,Lord Manager
+CHARACTER_INC_000736,Lord Manager,Chancelier
 CHARACTER_INC_000738,Card Master,Maître des Cartes
 CHARACTER_INC_000742,[Jewel Manager] Peach,[Joaillier] Angie
 CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,[Champion de Flyffoumi] Démian
@@ -260,7 +260,7 @@ CHARACTER_INC_100024,Polar Bear,Ours Polaire
 CHARACTER_INC_100025,Fu Lion King,Roi Lion Fu
 CHARACTER_INC_100026,Cupid,Cupidon
 CHARACTER_INC_100027,[Master Quests] Leila,[Quêtes Master] Leila
-CHARACTER_INC_000722,Secret Room Manager,Manager de la chambre secrète
+CHARACTER_INC_000722,Secret Room Manager,Gardien de la Tour Oubliée
 CHARACTER_INC_000723,Leren Chasm Guard,Garde du Gouffre de Leren
 CHARACTER_INC_000724,Rhisis Catacombs Guard,Garde des Catacombes de Rhisis
 CHARACTER_INC_000725,Envy Depths Guard,Garde de l'Abîme de l'Envie
@@ -430,9 +430,9 @@ CHARACTER_INC_150051,Cheirang,Cheirang
 CHARACTER_INC_150052,[Village Chief] Huntrang,[Chef du village] Huntran
 CHARACTER_INC_150053,[Arena Manager] Aerin,[Chef de l'Arène] Aerin
 CHARACTER_INC_150100,[Event] Getcha,[Événement] Getcha
-CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165 Guild Siege Manager] Prune
-CHARACTER_INC_155001,[Captain] Baron,[Captain] Baron
-CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
-CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn
-CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Eillun Farmer] Dr. Root
+CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Gestionnaire de Guerre de Guilde niv. 165] Prune
+CHARACTER_INC_155001,[Captain] Baron,[Capitaine] Baron
+CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Agriculteur d'Eillun] Germe
+CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Agriculteur d'Eillun] Épine
+CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Agriculteur d'Eillun] Dr. Racine
 CHARACTER_INC_155005,Musha,Musha
