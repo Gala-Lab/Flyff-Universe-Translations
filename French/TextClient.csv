@@ -326,7 +326,7 @@ TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Niveau du métier spécialis
 TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Augmentation des points de compétence
 TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Vous avez appris %s. Vous pouvez désormais attribuer des points de compétence à cette capacité.
 TEXTCLIENT_FLYLVLUP,Flying level up!,Votre expérience de vol a augmenté.
-TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des Flèches ou le piège ou la Fiole approprié(e) pour utiliser cette compétence.
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,Vous devez équiper des flèches, des conjurations, des mantras ou la fiole correspondante pour utiliser cette compétence.
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Qui ose me défier ?!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Tu ne sembles pas connaître la peur !!
 TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Prépare toi à souffrir !
