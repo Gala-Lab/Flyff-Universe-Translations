@@ -1,14 +1,14 @@
-﻿#b#cff0000ff Winning Conditions #nb#nc
+﻿#b#cff0000ff 勝利条件 #nb#nc
 
-※ Priority
-  1. Highest final points
-  2. Highest total remaining revival opportunities of surviving players
-  3. Lowest average level of surviving players
+※ 優先順位
+  1. 最終ポイントが最も高い
+  2. 生存プレイヤーの残り復活回数の合計が最も多い
+  3. 生存プレイヤーの平均レベルが最も低い
 
-#b#cff0000ff Point Gain #nb#nc
-※ Defeating an enemy player grants 2 points.
+#b#cff0000ff ポイント獲得 #nb#nc
+※ 敵プレイヤーを倒すと2ポイント獲得します。
 
-#b#cff0000ff Bonus Point Gain (Bonuses can stack) #nb#nc
-※ Defeating the Defender grants 1 bonus point.
-※ Defeating an enemy player with 0 remaining revival opportunities grants 1 bonus point.
-※ Each remaining revival opportunity of surviving players grants 1 bonus point.
+#b#cff0000ff ボーナスポイント獲得（ボーナスは重複可能） #nb#nc
+※ ディフェンダーを倒すと1ボーナスポイント獲得します。
+※ 残り復活回数が0の敵プレイヤーを倒すと1ボーナスポイント獲得します。
+※ 生存プレイヤーの残り復活回数1回につき、1ボーナスポイントを獲得します。

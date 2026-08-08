@@ -1,12 +1,12 @@
-﻿#cff0000ffRegistration#nc
-Kalgas Assault Match Time: Every %s %s ~ %s (Max. %d min)
-Minimum Level: %d
-Registration Time: Every %s %s ~ %s %s
-Entry Time: %s ~ %s
-Current Number of Registered Players: %d
+﻿#cff0000ff登録#nc
+カルガスアサルト開催時間：毎週%s %s～%s（最大%d分）
+最小レベル: %d
+登録時間：毎週%s %s～%s %s
+入場時間：%s～%s
+現在の登録プレイヤー数：%d
 
-※ Only players who have registered for Kalgas Assault may participate.
-※ Entry is not possible after the entry time has ended.
-※ A maximum of 200 players can participate per instance (100 vs 100).
-※ Ranking rewards are granted only if 20 or more players participate. If fewer than 20 players participate, only the winner reward is granted.
-※ Teams are selected randomly.
+※ カルガスアサルトに登録したプレイヤーのみ参加できます。
+※ 入場時間終了後は入場できません。
+※ 1インスタンスあたり最大200人が参加できます（100対100）。
+※ 順位報酬は20人以上参加した場合のみ付与されます。20人未満の場合、勝者報酬のみ付与されます。
+※ チームはランダムに選出されます。

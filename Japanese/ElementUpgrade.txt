@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+﻿#b属性精錬#nb
 
-Infusing an item with an element increases its effectiveness against enemies of weaker elements, but decreases its effectiveness against enemies of stronger elements.
-#cffff0000From +3 onward, a failed upgrade will destroy the item unless a Scroll of SProtect is used.
-Low Scroll of SProtect prevents destruction but reduces the upgrade level on failure.#nc
+アイテムに属性を付与すると、自身より弱い属性を持つ敵に対する効果が上がりますが、自身より強い属性を持つ敵に対する効果は下がります。
+#cffff0000+3以降は、精錬編(SProtect)を使用しない場合、失敗時にアイテムが破壊されます。
+下級精錬編(SProtect)を使用すると破壊は防げますが、失敗時に精錬レベルが下がります。#nc

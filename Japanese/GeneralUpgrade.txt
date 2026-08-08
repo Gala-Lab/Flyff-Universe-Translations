@@ -1,6 +1,6 @@
-﻿#bItem Upgrading#nb
+﻿#bアイテムの精錬#nb
 
-Upgrading an item increases its base stats and overall power or defenses.
-#cffff0000From +3 onward (+0 onward for ultimate items), a failed upgrade will destroy the item unless a protection scroll is used.
-Scroll of SProtect is used for normal items, Scroll of AProtect for normal accessories, and Scroll of XProtect for ultimate items.
-Low Scroll of SProtect can only be used when upgrading normal equipment, and reduces the upgrade level on failure.#nc
+アイテムを精錬すると、基本ステータスや全体的な攻撃力・防御力が上がります。
+#cffff0000+3以降（アルティマアイテムは+0以降）は、保護巻物を使用しない限り、精錬に失敗するとアイテムが破壊されます。
+通常アイテムには精錬編(SProtect)、通常アクセサリーにはアクセサリー編(AProtect)、アルティマアイテムにはアルティマ編(XProtect)を使用します。
+下級精錬編(SProtect)は通常装備の精錬時のみ使用でき、失敗時に精錬レベルが下がります。#nc
