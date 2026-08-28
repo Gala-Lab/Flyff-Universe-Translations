@@ -1096,7 +1096,7 @@ TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,こ
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,アップグレードは大失敗でした。
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,アップグレードは大成功!
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,この項目は対象には使用できません。
-TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティメット武器の作成」メニューで使用できます
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティマ武器の作成」メニューで使用できます
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,最初にターゲット項目を設定する必要があります。
 TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルド船に入札するには、ギルドの一員である必要があります。
 TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルド船を購入できるのはギルドリーダーだけです。
@@ -1547,7 +1547,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,ス
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,マスタークエスト中はこのアイテムを使用できません。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,転職クエスト中はこのアイテムを使用できません。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,戦闘エリア外にいるため、モンスターを攻撃できません。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sがアルティマ%sを%s+%dに強化しました！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sが%sをアルティマ%s+%dに強化しました！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,支払いが完了しました！\nfCoinがアカウントに追加されました。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,支払い中に不明なエラーが発生しました。\nもう一度お試しください。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,ダンジョンで失った経験値を回復しました。

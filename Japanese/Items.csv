@@ -4688,7 +4688,7 @@ PROPITEM_TXT_008856,NESCAFE 3-in-1 Original Hoverboard,NESCAFE 3-in-1 オリジ�
 PROPITEM_TXT_008857,,最高速度: 44km/h
 PROPITEM_TXT_008858,NESCAFE 3-in-1 Sweet 'n Creamy Hoverboard,NESCAFE 3-in-1 スイート＆クリーミー ホバーボード
 PROPITEM_TXT_008860,NESCAFE 3-in-1 Intense Hoverboard,NESCAFE 3-in-1 インテンス ホバーボード
-PROPITEM_TXT_008862,NESCAFE Ultimate 3-in-1 Hoverbike,NESCAFE アルティメット 3-in-1 ホバーバイク
+PROPITEM_TXT_008862,NESCAFE Ultimate 3-in-1 Hoverbike,NESCAFE アルティマ 3-in-1 ホバーバイク
 PROPITEM_TXT_008863,,最高速度：47km/h。
 PROPITEM_TXT_008782,Hera Hoverbike S,NEWバイクーン・ブルーム
 PROPITEM_TXT_008783,"Don't let the girlie colors fool you, this thing can move!",かわいらしい色して実は結構はやいんよ！
@@ -12457,11 +12457,11 @@ PROPITEM_TXT_150029,Yellow Star Shoes (M),イエロースターシューズ(M)
 PROPITEM_TXT_150030,Yellow Star Backpack,イエロースターバックパック
 PROPITEM_TXT_122500,Shining Oricalkum,輝くオリハルコン
 PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,通常の武器をアルティマ武器に変換する際に使用します。
-PROPITEM_TXT_122502,Ultimate Orb,アルティメットオーブ
+PROPITEM_TXT_122502,Ultimate Orb,アルティマオーブ
 PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,通常の武器をアルティマ武器に変換する際に使用します。
 PROPITEM_TXT_122504,Scroll of Ultimate Power,究極の力の巻物
 PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,アルティマ武器と特定のユニーク武器の固定ステータスの射程距離値をリセットします。
-PROPITEM_TXT_122506,Scroll of Ultimate Bonus,アルティメットボーナスの巻物
+PROPITEM_TXT_122506,Scroll of Ultimate Bonus,アルティマボーナスの巻物
 PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,アルティマ武器に適用されるランダムなステータスと値をリセットします。
 PROPITEM_TXT_122508,Sunstone,サンストーン
 PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,アルティマ武器のアップグレードに使用。
@@ -12540,45 +12540,45 @@ PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,ジ�
 PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアノスの王冠
 PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアノスの王冠。
 PROPITEM_TXT_160020,Champion's Ring,チャンピオンズリング
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,STRが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,STRが上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160022,Defender's Ring,ディフェンダーの指輪
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,STAが増加します。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,STAが増加します。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160024,Adept's Ring,アデプトの指輪
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,INTが増加します。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,INTが増加します。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160026,Marksman's Ring,マークスマンの指輪
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,DEXが増加します。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,DEXが増加します。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160028,Champion's Gore Necklace,チャンピオンズ ゴア ネックレス
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大HPが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大HPが上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160030,Adept's Mental Necklace,アデプトのメンタルネックレス
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大MPが上昇するサンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大MPが上昇するサンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160032,Defender's Peision Necklace,ディフェンダーズ・ペイシオン・ネックレス
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大FPが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大FPが上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160034,Champion's Demol Earring,チャンピオンズ・デモル・イヤリング
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160036,Defender's Plug Earring,ディフェンダーズプラグピアス
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160038,Defender's Gore Necklace,ディフェンダーズ・ゴア・ネックレス
 PROPITEM_TXT_160040,Marksman's Gore Necklace,マークスマンのゴアネックレス
 PROPITEM_TXT_160042,Adept's Gore Necklace,アデプトのゴアネックレス
 PROPITEM_TXT_160044,Marksman's Demol Earring,マークスマンのデモルイヤリング
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160046,Adept's Demol Earring,アデプトのデモル・イヤリング
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160048,Marksman's Mental Necklace,マークスマンのメンタルネックレス
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大MPが上昇するサンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大MPが上昇するサンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160050,Champion's Mental Necklace,チャンピオンのメンタルネックレス
 PROPITEM_TXT_160052,Champion's Peision Necklace,チャンピオンズ・ペイシオン・ネックレス
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大FPが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,最大FPが上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160054,Defender's Demol Earring,ディフェンダーのデモル・イヤリング
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,攻撃力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160056,Champion's Plug Earring,チャンピオンズプラグピアス
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160058,Adept's Plug Earring,アデプトのプラグピアス
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160060,Marksman's Plug Earring,マークスマン プラグピアス
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,防御力が上昇する。サンストーンでアルティマレベル5までアップグレードできます。
 PROPITEM_TXT_160062,Ultima,アルティマ
-PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,いつの日かアルティメットエネルギーを封じ込める強力なエッセンス。
+PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,いつの日かアルティマエネルギーを封じ込める強力なエッセンス。
 PROPITEM_TXT_160064,Blinkwing of Coral Island,コーラルアイランドのブリンクウィング
 PROPITEM_TXT_160065,Teleport to Coral Island,コーラルアイランドにテレポート
 PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,このハウジングパックには、家やギルド船を飾るためのさまざまなモデルが含まれています!
@@ -12719,8 +12719,8 @@ PROPITEM_TXT_131019,Coral Growth Package A,サンゴの成長パッケージA
 PROPITEM_TXT_131020,"A package containing 4x Scroll of Amplification ES, 10x Scroll of Resurrection, 1x Scroll of Element Change, 8x Grilled Eel 5x Power Scroll and 4x Box of Element Attack. All items are also linked.",戦神の巻物ESx4、復活の巻物x10、属性変更の巻物x1、グリルドイールx8、豪傑のスクロール(B)x5、属性攻撃のボックスx4が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_131021,Coral Growth Package B,サンゴの成長パッケージB
 PROPITEM_TXT_131022,"A package containing 4x Scroll of Amplification ES, 8x Scroll of Amplification ES140, 8x Flask Box and 7x 1 Day Scroll of Combined Party Effects. All items are also linked.",戦神の巻物ESx4、戦神の巻物ES140x8、秘薬ボックスx8、パーティーコンボの巻物（1日間）x7が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_131023,Coral Ultimate Package A,コーラルアルティメットパッケージA
-PROPITEM_TXT_131024,A package containing 2 Shining Oricalkum and 2x Ultimate Orb. All items are also linked.,輝くオリハルコンx2、アルティメットオーブx2が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_131023,Coral Ultimate Package A,コーラルアルティマパッケージA
+PROPITEM_TXT_131024,A package containing 2 Shining Oricalkum and 2x Ultimate Orb. All items are also linked.,輝くオリハルコンx2、アルティマオーブx2が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_131025,Military 2023 10% Red Set,ミリタリー2023 10%レッドセット
 PROPITEM_TXT_131026,Military 2023 Red Hat (M),ミリタリー 2023レッドハット（M）
 PROPITEM_TXT_131027,Military 2023 Red Suit (M),ミリタリー 2023 レッドスーツ (M)
@@ -17267,15 +17267,15 @@ PROPITEM_TXT_800183,Shining Diamond Piece,輝くダイヤモンドの欠片
 PROPITEM_TXT_800184,Shining Amethyst Piece,輝くアメジストの欠片
 PROPITEM_TXT_800185,Shining Onyx Piece,輝くオニキスの欠片
 PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,10個集めて加工することで、完成したジュエルを入手できる欠片です。
-PROPITEM_TXT_800187,Ultimate Jewel Box,アルティメットジュエルボックス
-PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",このボックスには、アルティマ武器に付与できる様々なアルティメットジュエル、ルーン、欠片が入っています。欠片は10個集めて加工することで、完成したジュエルにすることができます。
+PROPITEM_TXT_800187,Ultimate Jewel Box,アルティマジュエルボックス
+PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",このボックスには、アルティマ武器に付与できる様々なアルティマジュエル、ルーン、欠片が入っています。欠片は10個集めて加工することで、完成したジュエルにすることができます。
 PROPITEM_TXT_800189,Advanced Mana Stone,アドバンスド・マナストーン
 PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,合成に失敗した場合、1～3個のジュエルを回収できます。
 PROPITEM_TXT_800191,Mana Stone,マナストーン
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,作成に失敗した場合、ジュエルの欠片を全て回収できます。
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[パーソナルハウスNPC]クロック
-PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",パーソナルハウスに設置すると、次のボーナスを付与します:アルティメットジュエル機能\nそのジュエルを、アルティメットジュエル除去確率30%で入手できます。\nアルティメットジュエリー制作、合成成功率上昇
-PROPITEM_TXT_800195,Ultimate Jewel Gemstone,アルティメットジュエルの原石
+PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",パーソナルハウスに設置すると、次のボーナスを付与します:アルティマジュエル機能\nそのジュエルを、アルティマジュエル除去確率30%で入手できます。\nアルティマジュエリー制作、合成成功率上昇
+PROPITEM_TXT_800195,Ultimate Jewel Gemstone,アルティマジュエルの原石
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,この原石からは、1級ジュエルとジュエルの欠片を抽出できます。
 PROPITEM_TXT_800197,Cutting Knife,カッティングナイフ
 PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,原石からジュエルの欠片または1級ジュエルを抽出する際の成功を保証します。
@@ -19403,8 +19403,8 @@ PROPITEM_TXT_726192,"A package containing 3x Turkey Box, 3x Potion Select Box an
 PROPITEM_TXT_726193,2024 Thanksgiving Buff Package,サンクスギビング2024バフパッケージ
 PROPITEM_TXT_726194,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activation and 1x Thanksgiving Day Buff Select Box. All items are also linked.",パワーストーンx10、スタミナドリンクX または 魔力ドリンクゴールドx10、アクティビションx10、感謝祭バフセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726195,2024 Black Friday Costume Lucky Box,2024ブラックフライデーコスチュームラッキーボックス
-PROPITEM_TXT_726196,2024 Thanksgiving Ultimate Package,サンクスギビング2024アルティメットパッケージ
-PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.",アルティメットボーナスの巻物x1、究極の力の巻物x5、鍛冶屋の心得・アルティマx10、アドバンスド・マナストーンx5、マナストーンx5、カッティングナイフx10が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_726196,2024 Thanksgiving Ultimate Package,サンクスギビング2024アルティマパッケージ
+PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.",アルティマボーナスの巻物x1、究極の力の巻物x5、鍛冶屋の心得・アルティマx10、アドバンスド・マナストーンx5、マナストーンx5、カッティングナイフx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_801285,Turkeylicious 10% Red Set,ターキーリシャス 10%レッドセット
 PROPITEM_TXT_801286,Turkeylicious Red Tail,ターキーリシャスレッドテール
 PROPITEM_TXT_801287,Turkeylicious Red Hat (M),ターキーリシャスレッドハット(M)
@@ -22784,9 +22784,9 @@ PROPITEM_TXT_900943,Open 77 Festival Element Package,Open 77 フェスティバ�
 PROPITEM_TXT_900944,"A package containing 7x Scroll of Element Change, 7x Box of Element Attack and 7x Box of Element Defense. All items are also linked.",属性変更の巻物x7、属性攻撃のボックスx7、属性防御のボックスx7が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900945,Open 77 Festival Lucky Box Package,Open 77 フェスティバルラッキーボックスパッケージ
 PROPITEM_TXT_900946,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.",精錬編の巻物ボックスx10、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,Open 77 フェスティバルアルティメットスクロールパッケージ
-PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,アルティメットボーナスの巻物x3、究極の力の巻物x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,Open 77 フェスティバルアルティメットアップグレードパッケージ
+PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,Open 77 フェスティバルアルティマスクロールパッケージ
+PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,アルティマボーナスの巻物x3、究極の力の巻物x5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,Open 77 フェスティバルアルティマアップグレードパッケージ
 PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",鍛冶屋の心得・アルティマx3、アドバンスド・マナストーンx3、マナストーンx3、ジュエルツイーザーx3、カッティングナイフx3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900951,2025 Swimsuit 10% Yellow Set,2025スイムウェア 10%イエローセット
 PROPITEM_TXT_900952,2025 Swimsuit Yellow Sunglasses,2025スイムウェアイエローサングラス
@@ -24146,7 +24146,7 @@ PROPITEM_TXT_750000,Lower Scroll of Jewel Conversion,下級ジュエル変換の
 PROPITEM_TXT_750001,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.,1~5段階のジュエルが、同じ段階の中でランダムな別のジュエルに変化します。
 PROPITEM_TXT_750002,Scroll of Jewel Conversion,ジュエル変換の巻物
 PROPITEM_TXT_750003,Jewels of tier 6~10 will be randomly changed with jewels of the same tier.,6~10段階のジュエルが、同じ段階の中でランダムな別のジュエルに変化します。
-PROPITEM_TXT_750004,Random Ultimate Jewel,ランダムアルティメットジュエル
+PROPITEM_TXT_750004,Random Ultimate Jewel,ランダムアルティマジュエル
 PROPITEM_TXT_750005,Scroll of increased Topaz synthesis chance,トパーズ合成確率上昇の巻物
 PROPITEM_TXT_750006,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Topaz.",ジュエルの合成時に、トパーズの合成確率を2倍にします。
 PROPITEM_TXT_750007,Scroll of increased Ruby synthesis chance,ルビー合成確率上昇の巻物
@@ -24606,7 +24606,7 @@ PROPITEM_TXT_155557,Broken Dementia,Broken Dementia
 PROPITEM_TXT_155558,Battle-Worn Dementia,Battle-Worn Dementia
 PROPITEM_TXT_155559,Cursed Dementia,Cursed Dementia
 PROPITEM_TXT_155560,Dementia,Dementia
-PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,アルティメットボーナスの巻物II
+PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,アルティマボーナスの巻物II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,アルティマ武器に付与されたランダムなステータスと特殊オプションの値をリセットします。
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC2025ブラッディー・デスメッセンジャーセット（優勝者）
 PROPITEM_TXT_155564,FWC 2025 Bloody Death Messenger’s Scroll,FWC2025ブラッディー・デスメッセンジャーの巻物
@@ -24796,8 +24796,8 @@ PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),ラッキーボック�
 PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,このボックスを開けると、カード破壊防止の巻物を1～100個獲得できるチャンスがあります。
 PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),ラッキーボックス 鍛冶屋の心得・アルティマの巻物 (1-100)
 PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,このボックスを開けると、鍛冶屋の心得・アルティマの巻物を1～100個獲得できるチャンスがあります。
-PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),ラッキーボックス アルティメットボーナスの巻物 (1-10)
-PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,このボックスを開けると、アルティメットボーナスの巻物を1～10個獲得できるチャンスがあります。
+PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),ラッキーボックス アルティマボーナスの巻物 (1-10)
+PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,このボックスを開けると、アルティマボーナスの巻物を1～10個獲得できるチャンスがあります。
 PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),ラッキーボックス 究極の力の巻物 (1-100)
 PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,このボックスを開けると、究極の力の巻物を1～100個獲得できるチャンスがあります。
 PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),ラッキーボックス 女神と悪魔の祝福 (1-100)
@@ -24854,8 +24854,8 @@ PROPITEM_TXT_155658,Scroll of increased Jewel synthesis chance Select Box,ジュ
 PROPITEM_TXT_155659,Select which Scroll of increased Jewel synthesis chance you want to receive! This scroll will give you a 2x chance of synthesizing a selected Jewel.,受け取りたいジュエル合成確率上昇の巻物を選択してください！この巻物は、選択したジュエルの合成確率を2倍にします。
 PROPITEM_TXT_155660,1.5 Update Growth Package,1.5アップデート成長パッケージ
 PROPITEM_TXT_155661,"A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.",新・戦神の巻物ES選択ボックスx5、スタミナドリンクXまたは魔力ドリンクゴールドx5、神風の巻物x5、パワーストーンx5、豪傑のスクロール(B)x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,1.5アルティメットボーナスの巻物パッケージ
-PROPITEM_TXT_155663,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.,アルティメットボーナスの巻物x3、アルティメットボーナスの巻物IIx3が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,1.5アルティマボーナスの巻物パッケージ
+PROPITEM_TXT_155663,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.,アルティマボーナスの巻物x3、アルティマボーナスの巻物IIx3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_155664,[20~160] Amplification ES Scroll Bundle Select Box,[20~160]戦神の巻物ESバンドル選択ボックス
 PROPITEM_TXT_155665,"Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware.",受け取りたい戦神の巻物を選択してください！\n※このアイテムには戦神の巻物ES20、40、60、80、120、160のみが含まれます。ご注意ください。
 PROPITEM_TXT_155666,Turkeylicious Neon Pink Set,ターキーリシャスネオンピンクセット
@@ -25173,7 +25173,7 @@ PROPITEM_TXT_902309,PPXP 2025 Door Prize,PPXP 2025 ドア賞品
 PROPITEM_TXT_902310,"A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more.",ワールドフリフマント(フィリピン)、巻物、ストーン、ボックスなど様々なアイテムが含まれた特別パッケージ。
 PROPITEM_TXT_902311,2026 Special Lucky Box,2026スペシャルラッキーボックス
 PROPITEM_TXT_902312,A special lucky box containing various items with different probabilities.,それぞれ異なる確率で様々なアイテムが手に入る特別なラッキーボックス。
-PROPITEM_TXT_902313,Rhisis Ultimate Christmas Bundle,リシス アルティメットクリスマスバンドル
+PROPITEM_TXT_902313,Rhisis Ultimate Christmas Bundle,リシス アルティマクリスマスバンドル
 PROPITEM_TXT_902314,"A special Christmas bundle containing Cloak Selection Box, Scrolls, Stones, Boxes, Permanent Flying Board and Permanent Looter Pet.",マントセレクトボックス、巻物、ストーン、ボックス、永久空飛ぶボード、永久アイテム回収ペットが含まれた特別なクリスマスバンドル。
 PROPITEM_TXT_902315,Cloak Selection Box,マントセレクトボックス
 PROPITEM_TXT_902316,Select which Cloak you want to receive!,受け取りたいマントを選択してください！
@@ -25388,10 +25388,10 @@ PROPITEM_TXT_902524,Snow Masquerade Costume Lucky Box,雪の仮面舞踏会コ�
 PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの雪の仮面舞踏会セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902526,Winter Hunting Pack,ウィンターハンティングパック
 PROPITEM_TXT_902527,"A package containing 3x Activation, 3x Vital Drink X or Refresher Hold, 3x Scroll of Velocity, 3x Upcut Stone, 3x Def-Upcut Stone and 3x Power Scroll. All items are also linked.",アクティビションx3、スタミナドリンクX または 魔力ドリンクゴールドx3、神風の巻物x3、パワーストーンx3、ディフェンスストーンx3、豪傑のスクロール(B)x3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,ウィンターアルティメットボーナスパッケージA
-PROPITEM_TXT_902529,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティメットボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902530,Winter Ultimate Bonus Package B,ウィンターアルティメットボーナスパッケージB
-PROPITEM_TXT_902531,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティメットボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,ウィンターアルティマボーナスパッケージA
+PROPITEM_TXT_902529,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティマボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_902530,Winter Ultimate Bonus Package B,ウィンターアルティマボーナスパッケージB
+PROPITEM_TXT_902531,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティマボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902532,Scroll of Weapon Bonus(Job) Select box,武器ボーナス（職業）の巻物セレクトボックス
 PROPITEM_TXT_902533,Select which Scroll you want to receive !,受け取りたい巻物を選択してください！
 PROPITEM_TXT_902534,Winter Jewel All Inclusive Package,ウィンタージュエルオールインクルーシブパッケージ
@@ -25551,8 +25551,8 @@ PROPITEM_TXT_902681,Lunar Hanbok Costume Box (M),旧正月韓服コスチュー�
 PROPITEM_TXT_902682,A package containing 1x Hanbok (M) and 5x Hot Ddukguk.,韓服(M)x1、トック(お雑煮)x5が含まれたパッケージ。
 PROPITEM_TXT_902683,Lunar Hanbok Costume Box (F),旧正月韓服コスチュームボックス(F)
 PROPITEM_TXT_902684,A package containing 1x Hanbok (F) and 5x Hot Ddukguk.,韓服(F)x1、トック(お雑煮)x5が含まれたパッケージ。
-PROPITEM_TXT_902685,Valentine's Ultimate Package,バレンタインアルティメットパッケージ
-PROPITEM_TXT_902686,"A package containing 5x Scroll of Ultimate Bonus Select Box, 3x Scroll of Weapon Bonus(Job) Select box and 5x Chocolate Select Box. All items are also linked.",アルティメットボーナスの巻物セレクトボックスx5、武器ボーナス（職業）の巻物セレクトボックスx3、チョコレートセレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_902685,Valentine's Ultimate Package,バレンタインアルティマパッケージ
+PROPITEM_TXT_902686,"A package containing 5x Scroll of Ultimate Bonus Select Box, 3x Scroll of Weapon Bonus(Job) Select box and 5x Chocolate Select Box. All items are also linked.",アルティマボーナスの巻物セレクトボックスx5、武器ボーナス（職業）の巻物セレクトボックスx3、チョコレートセレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902687,POP Costume Select Box 1,POPコスチュームセレクトボックス1
 PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.",ネオ、ホワイトストライプ、グリッチポップ、ディスコセットの中からお好きなPOPコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_902689,Neo Robot Pet Select Box,ネオロボットペットセレクトボックス
@@ -25569,7 +25569,7 @@ PROPITEM_TXT_902699,Eye of Sincere Heart,誠実な心の目
 PROPITEM_TXT_902700,"A gaze of unwavering sincerity that sees only one person, increasing Hit Rate by 10%. Lasts for 30 minutes.",ただ一人だけを見つめる、揺るぎない誠実なまなざし。命中率を10%上昇させます。30分間持続します。
 PROPITEM_TXT_902701,Dew of Transparent Affection,透明な愛情の露
 PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.",複雑な思考が消え去り、愛する人の姿だけが目に映る。心を澄み渡らせ、魔法キャスティング時間を10%短縮します。30分間持続します。
-PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,アルティメットボーナスの巻物セレクトボックス
+PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,アルティマボーナスの巻物セレクトボックス
 PROPITEM_TXT_902704,Select which scroll you want to receive!,受け取りたい巻物を選択してください！
 PROPITEM_TXT_902705,Begging Emote,お願いエモート
 PROPITEM_TXT_902706,Button Mark 10% Green Set,ボタンマーク 10%グリーンセット
@@ -27015,10 +27015,10 @@ PROPITEM_TXT_903944,Military 2026 Costume Lucky Box,ミリタリー2026コスチ
 PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのミリタリー2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903946,4th Anniversary Appreciation Coupon,4周年記念感謝クーポン
 PROPITEM_TXT_903947,"A package containing 3x Scroll of Amplification ES, 1x Power Scroll, 1x Scroll of Resurrection, 1x Balloon Select Box (6h) and 5x Cracker Box. All items are also linked.",戦神の巻物ESx3、豪傑のスクロール(B)x1、復活の巻物x1、バルーンセレクトボックス(6時間)x1、クラッカーボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4周年記念アルティメットボーナスパッケージA
-PROPITEM_TXT_903949,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティメットボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4周年記念アルティメットボーナスパッケージB
-PROPITEM_TXT_903951,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティメットボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4周年記念アルティマボーナスパッケージA
+PROPITEM_TXT_903949,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティマボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4周年記念アルティマボーナスパッケージB
+PROPITEM_TXT_903951,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティマボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903952,An ancient weapon found deep within Ankou’s Asylum. It hums with the lingering power of the God of Death.,ベヒモス神殿の奥深くで発見された古代の武器。死神の力の残滓が今もなお響いている。
 PROPITEM_TXT_903953,"A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god.",ベヒモス神殿の深部より発見された謎めいた秘宝。失われた魂のささやきと、古の神の残滓が脈打っている。
 PROPITEM_TXT_903954,"A golden weapon reforged to commemorate Flyff World Championship 2026. It gleams with honor, prestige, and the lingering power of the God of Death.",Flyff World Championship 2026を記念して鍛え直された黄金の武器。栄誉と誉れ、そして死神の力の残滓を纏い輝いている。
@@ -27866,7 +27866,7 @@ PROPITEM_TXT_904832,"A package containing 1x Adventurer's Fortune Flask (3 Days)
 PROPITEM_TXT_904833,Madrigal Enhancement Pack,マドリガル強化パック
 PROPITEM_TXT_904834,"A package containing 20x Scroll of AProtect, 5x Scroll of SProtect and 5x Scroll of Amplification ES. All items are also linked.",鍛冶屋の心得・アクセサリー編x20、鍛冶屋の心得・精錬編x5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_904835,Flarine Enhancement Pack,フラリス強化パック
-PROPITEM_TXT_904836,"A package containing 20x Scroll of SProtect, 2x Scroll of Ultimate Bonus and 1x Scroll of Reduction A. All items are also linked.",鍛冶屋の心得・精錬編x20、アルティメットボーナスの巻物x2、装備レベル減少の巻物Ax1が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_904836,"A package containing 20x Scroll of SProtect, 2x Scroll of Ultimate Bonus and 1x Scroll of Reduction A. All items are also linked.",鍛冶屋の心得・精錬編x20、アルティマボーナスの巻物x2、装備レベル減少の巻物Ax1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_904837,Madrigal's Party Exp Pack (3 Days),マドリガルのパーティー経験値パック(3日)
 PROPITEM_TXT_904838,"A package containing 3x 1 Day Scroll of Combined Party Effects, 2x Scroll of Amplification ES and 5x Upcut Stone. All items are also linked.",パーティー効果統合の巻物(1日)x3、戦神の巻物ESx2、パワーストーンx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_904839,PlayPark All-Stars 2026 Door Prize,PlayPark オールスターズ 2026 ドア賞品

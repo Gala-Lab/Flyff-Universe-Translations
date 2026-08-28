@@ -2024,7 +2024,7 @@ UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,前走のラ�
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,現在、募集期間はございません。
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,次戦: 
 UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,アルティマ武器作成
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",アルティマ武器変換\n装備レベル140以上のアルティマ武器を作成できます。+10の武器をアルティマ武器に変換できます。変換は失敗せず、変換には3つの輝くオリハルコン、3つのアルティメットオーブ、1億ペニャが必要です。アルティマ武器は、すべての属性精錬とソケット数を保持したまま変換されます。
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",アルティマ武器変換\n装備レベル140以上のアルティマ武器を作成できます。+10の武器をアルティマ武器に変換できます。変換は失敗せず、変換には3つの輝くオリハルコン、3つのアルティマオーブ、1億ペニャが必要です。アルティマ武器は、すべての属性精錬とソケット数を保持したまま変換されます。
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,続行しますか?
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,このアイテムには使用できません。
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,アイテムは最大アップグレードレベルでのみ変換できます。
@@ -2041,7 +2041,7 @@ UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destr
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,保護の巻物
-UI_ULTIMATE_PREFIX,[Ultimate],[アルティメット]
+UI_ULTIMATE_PREFIX,[Ultimate],[アルティマ]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,ラストスタンドチャンス
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,リポスト反射のチャンス
 UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,いたずら好きの脱出チャンス
@@ -2532,7 +2532,7 @@ UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,素材�
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,アルティマジュエルを作成
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,アルティマジュエル素材を入れてください。
-UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",※アルティメットジュエルの原石を入れると、一定確率で1級ジュエルまたはジュエルの欠片を獲得できます。カッティングナイフ（Flyffショップで購入可能）を使用すると、原石からのジュエルの欠片または1級ジュエルの抽出が確定します。\n※ジュエルの欠片を10個入れると、一定確率で1級ジュエルを作成できます。作成に失敗した場合、一部のジュエルの欠片が返却されます。マナストーン（Flyffショップで購入可能）を使用すると、失敗時にジュエルの欠片が全て回収されることが確定します。
+UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",※アルティマジュエルの原石を入れると、一定確率で1級ジュエルまたはジュエルの欠片を獲得できます。カッティングナイフ（Flyffショップで購入可能）を使用すると、原石からのジュエルの欠片または1級ジュエルの抽出が確定します。\n※ジュエルの欠片を10個入れると、一定確率で1級ジュエルを作成できます。作成に失敗した場合、一部のジュエルの欠片が返却されます。マナストーン（Flyffショップで購入可能）を使用すると、失敗時にジュエルの欠片が全て回収されることが確定します。
 UI_COUPLE_PROPOSAL,Couple Proposal,カップルプロポーズ
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%sがあなたにプロポーズしています！プロポーズを受け入れ、カップルになりますか？
 UI_COUPLE_RING_REPLACE,Ring Replacement,リングの交換
