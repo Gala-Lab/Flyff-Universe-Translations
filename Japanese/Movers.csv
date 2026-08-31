@@ -365,11 +365,11 @@ PROPMOVER_TXT_000780,Keakoon Guard Leader,キクン警備長
 PROPMOVER_TXT_000782,Elite Keakoon Worker,エリートキクン労働者
 PROPMOVER_TXT_000784,Elite Keakoon Guard,エリートキクン警備
 PROPMOVER_TXT_000786,Elite Keakoon Worker Leader,エリートキクン作業長
-PROPMOVER_TXT_000788,Elite Keakoon Guard Leader,エリートキクン族長
+PROPMOVER_TXT_000788,Elite Keakoon Guard Leader,エリートキクン警備長
 PROPMOVER_TXT_000790,Mutant Keakoon Worker,ゲリラキクン労働者
 PROPMOVER_TXT_000792,Mutant Keakoon Guard,ゲリラキクン警備
 PROPMOVER_TXT_000794,Mutant Keakoon Worker Leader,ゲリラキクン作業長
-PROPMOVER_TXT_000796,Mutant Keakoon Guard Leader,ビエイ
+PROPMOVER_TXT_000796,Mutant Keakoon Guard Leader,ゲリラキクン警備長
 PROPMOVER_TXT_000798,Pink Roach,ピンクローチフル
 PROPMOVER_TXT_000800,Blue Roach,ブルーローチフル
 PROPMOVER_TXT_000802,Pink Roach Queen,ピンクローチクイーン
@@ -705,7 +705,7 @@ PROPMOVER_TXT_100137,Augu,アウグ
 PROPMOVER_TXT_100138,Mutant Augu,ミュータントアウグ
 PROPMOVER_TXT_100139,Ardent Augu,アーデントアウグ
 PROPMOVER_TXT_100140,Glacial Augu,グレイシャルアウグ
-PROPMOVER_TXT_100141,Violet Augu,ヴァイオレットアウグ
+PROPMOVER_TXT_100141,Violet Augu,バイオレット・アウグ
 PROPMOVER_TXT_100142,Ghost of the Forgotten Prince,プリンス・ゴースト
 PROPMOVER_TXT_100143,Ghost of the Forgotten King,キング・ゴースト
 PROPMOVER_TXT_100144,Ghost of the Forgotten Emperor,エンペラー・ゴースト
@@ -1233,7 +1233,7 @@ PROPMOVER_TXT_400245,Green Anniversary Cat,グリーンアニバーサリーキ�
 PROPMOVER_TXT_400246,Cyan Anniversary Cat,シアンアニバーサリーキャット
 PROPMOVER_TXT_400247,Blue Anniversary Cat,ブルーアニバーサリーキャット
 PROPMOVER_TXT_400248,White Anniversary Cat,ホワイトアニバーサリーキャット
-PROPMOVER_TXT_400249,Lord Trangfoma,ロードトランスフォーマ
+PROPMOVER_TXT_400249,Lord Trangfoma,ロード・トランフォーマ
 PROPMOVER_TXT_400250,Shadow of Clockworks,時計仕掛けの影
 PROPMOVER_TXT_400251,Blue Magical Toad,ブルーマジカルトード
 PROPMOVER_TXT_400252,Pink Magical Toad,ピンクマジカルトード
@@ -1620,7 +1620,7 @@ PROPMOVER_TXT_003070,Baby Okean,ベビーオケアノス
 PROPMOVER_TXT_500175,Condemned Fefern,堕落したフェフェルン
 PROPMOVER_TXT_500176,Condemned Wagsaac,堕落したワッグサック
 PROPMOVER_TXT_500177,Condemned Mr. Pumpkin,堕落したカボチャ男爵
-PROPMOVER_TXT_500178,Condemned Gigglebox,堕落したギグルボックス
+PROPMOVER_TXT_500178,Condemned Gigglebox,堕落したギッグルボックス
 PROPMOVER_TXT_500179,Condemned Hobo,堕落したホボー
 PROPMOVER_TXT_500180,Condemned Cardpuppet,堕落したカードパペット
 PROPMOVER_TXT_500181,Condemned Basque,堕落したバスキュー
