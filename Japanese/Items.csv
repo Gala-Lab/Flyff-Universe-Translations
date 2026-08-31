@@ -7522,7 +7522,7 @@ PROPITEM_TXT_100958,Teleport to Azria,アズリアにテレポート
 PROPITEM_TXT_100959,Pet Transmute,ペット変身
 PROPITEM_TXT_100960,This item will give a new random appearance to your pet. There is a chance to get rare visuals!,このアイテムは、ペットに新しいランダムな外観を与えます。レアビジュアルゲットのチャンスあり！
 PROPITEM_TXT_100961,Cyclops X Life Gem,サイクロプス X ライフジェム
-PROPITEM_TXT_102038,Tooth of Leyena,レイエナの歯
+PROPITEM_TXT_102038,Tooth of Leyena,レイーナの歯
 PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,飢えたモンスターの歯。町のチョンジャンに持っていって!
 PROPITEM_TXT_008902,Red Chips,レッドチップ
 PROPITEM_TXT_008903,Old Guild Siege reward. Used to buy items from Waforu.,ギルドコンバットの報酬。ワポールからアイテムを購入するのに使用できます。
@@ -8271,7 +8271,7 @@ PROPITEM_TXT_016864,Vampire set for Male characters,男の子用ヴァンパイ�
 PROPITEM_TXT_016865,Vampire Set (F),ヴァンパイアセット（F）
 PROPITEM_TXT_016866,Vampire set for Female characters,女の子用ヴァンパイアセット
 PROPITEM_TXT_101621,Trick or Treat Bag (Event),トリック・オア・トリートバッグ (イベント)
-PROPITEM_TXT_101622,A reward found on a Deviant Mr. Pumpkin!,逸脱したミスターパンプキンから報酬を見つけました。
+PROPITEM_TXT_101622,A reward found on a Deviant Mr. Pumpkin!,逸脱したカボチャ男爵から報酬を見つけました。
 PROPITEM_TXT_020601,Blue Snowboarder Set (M),ブルースノーボーダーセット（M）
 PROPITEM_TXT_020611,Blue Snowboarder Set (F),ブルースノーボーダーセット(F)
 PROPITEM_TXT_101623,Blue Snowboarder Set,ブルースノーボーダーセット
@@ -9446,8 +9446,8 @@ PROPITEM_TXT_230001,Used to enter dungeons.,ダンジョンに入るために使
 PROPITEM_TXT_130032,PK Chromatic Wings (7 Days),PKクロマチックウィングス(7日間)
 PROPITEM_TXT_130033,Shine like you're worth it.,あなたがそれだけの価値があるように輝いてください。
 PROPITEM_TXT_130034,Glaphan Cap,グラファンヘッド
-PROPITEM_TXT_130035,Watangka Mask,ワタンカマスク
-PROPITEM_TXT_130036,Adorned Watangka Mask,ジャイアントワタンカマスク
+PROPITEM_TXT_130035,Watangka Mask,ワタングカマスク
+PROPITEM_TXT_130036,Adorned Watangka Mask,ジャイアントワタングカマスク
 PROPITEM_TXT_130037,Regal Kumai Yo-Yo,リーガルクマイヨーヨー
 PROPITEM_TXT_130038,Radioactive Long Legs Bow,ラディオアクティブロングレッグボウ
 PROPITEM_TXT_130039,Skeleton General Bow,スケルトンジェネラルボウ
@@ -10695,7 +10695,7 @@ PROPITEM_TXT_300071,Bloodthirsty Iren Bow,血に飢えたアイレン・ボウ
 PROPITEM_TXT_300072,Adorned Bloodthirsty Iren Bow,血に飢えたアイレンの弓を飾る
 PROPITEM_TXT_300073,Corrupted Bloodthirsty Iren Bow,堕落した血に飢えたアイレンの弓
 PROPITEM_TXT_300074,Cyclops X Helmet,サイクロプスXヘルメット
-PROPITEM_TXT_300075,Corrupted Watangka Mask,堕落したワタンカマスク
+PROPITEM_TXT_300075,Corrupted Watangka Mask,堕落したワタングカマスク
 PROPITEM_TXT_300076,Adorned Cyclops X Helmet,装飾されたサイクロプスXヘルメット
 PROPITEM_TXT_300077,Mace of the Cyclops X,サイクロプスXのメイス
 PROPITEM_TXT_300078,Adorned Mace of the Cyclops X,サイクロプスXのメイスを飾る
@@ -11929,8 +11929,8 @@ PROPITEM_TXT_122095,Amplification Elixir Box,増幅エリクサーボックス
 PROPITEM_TXT_122096,A box containing an Elixir of Anti-Magic or Elixir of Flowing Thought or Elixir of the Sorcerer or Elixir of Evasion or Concoction of Profuse Bleeding. Select which elixir you want to receive.,いくつかのエリクサーの中から受け取りたいエリクサーを選択します。
 PROPITEM_TXT_122097,Amplification Potion Box,増幅ポーションボックス
 PROPITEM_TXT_122098,A box containing a Potion of Recklessness or Potion of Swiftness or Potion of Accuracy or Potion of Clarity. Select which potion you want to receive.,いくつかのポーションの中から受け取りたいポーションを選択します。
-PROPITEM_TXT_122099,Stale Mr. Pumpkin Trans,古いミスターパンプキントランス
-PROPITEM_TXT_122100,Transform into a Stale Mr. Pumpkin,古くなったミスター・パンプキンに変身
+PROPITEM_TXT_122099,Stale Mr. Pumpkin Trans,古カボチャ男爵・オーブ
+PROPITEM_TXT_122100,Transform into a Stale Mr. Pumpkin,古カボチャ男爵に変身
 PROPITEM_TXT_122101,Trick or Treat Token,トリック・オア・トリート・トークン
 PROPITEM_TXT_122102,"Obtained from defeating monsters. When you have 10 of these items, you can use them to play the lottery. ",モンスターを倒すことで入手できる。これらのアイテムが10個揃うと、それらを使って宝くじをプレイできます。
 PROPITEM_TXT_122103,Halloween Random Box,ハロウィンランダムボックス
@@ -12125,7 +12125,7 @@ PROPITEM_TXT_222099,White Phantocat,ホワイトファントキャット
 PROPITEM_TXT_222100,Exorcist Lucky Box,エクソシストラッキーボックス
 PROPITEM_TXT_222101,This box contains a Exorcist with Speed bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナスを持つエクソシストが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_222102,2023 Halloween Package,2023ハロウィンパッケージ
-PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.",パワーストーンx20、アクティビションx10、ハロウィンバルーンボックスx10、スタミナドリンクXまたは魔力ドリンクゴールドx20、ミスターパンプキンベンダーショップ 30 日x1が含まれるパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.",パワーストーンx20、アクティビションx10、ハロウィンバルーンボックスx10、スタミナドリンクXまたは魔力ドリンクゴールドx20、カボチャ男爵の売り子 30 日x1が含まれるパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_222104,Halloween Enchant Package A,ハロウィンエンチャントパッケージA
 PROPITEM_TXT_222105,A package containing 20x Scroll of AProtect and 1x Halloween Balloons Box. All items are also linked.,鍛冶屋の心得・アクセサリー編x20、ハロウィンバルーンボックスx1が含まれるパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_222106,Halloween Enchant Package B,ハロウィンエンチャントパッケージB
