@@ -1547,7 +1547,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,ス
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,マスタークエスト中はこのアイテムを使用できません。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,転職クエスト中はこのアイテムを使用できません。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,戦闘エリア外にいるため、モンスターを攻撃できません。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sが%sをアルティマ%s+%dに強化しました！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sがアルティマ%sを%s+%dに強化しました！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,支払いが完了しました！\nfCoinがアカウントに追加されました。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,支払い中に不明なエラーが発生しました。\nもう一度お試しください。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,ダンジョンで失った経験値を回復しました。
