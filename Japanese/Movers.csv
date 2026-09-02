@@ -88,7 +88,7 @@ PROPMOVER_TXT_000172,Giant Totemia,ジャイアント・トーテミア
 PROPMOVER_TXT_000174,Maid Cardpuppet,メイド・カードパペット
 PROPMOVER_TXT_000176,Cardpuppet,カードパペット
 PROPMOVER_TXT_000178,Manager Cardpuppet,マネージャ・カードパペット
-PROPMOVER_TXT_000180,Boss Cardpuppet,ボス・カードパペット
+PROPMOVER_TXT_000180,Boss Cardpuppet,ジャイアント・カードパペット
 PROPMOVER_TXT_000182,Small Tombstone Bearer,スモール・トムストンベアラー
 PROPMOVER_TXT_000184,Tombstone Bearer,トムストンベアラー
 PROPMOVER_TXT_000186,Captain Tombstone Bearer,キャプテン・トムストンベアラー
@@ -97,10 +97,10 @@ PROPMOVER_TXT_000190,Phantom Basque,バンタン・バスキュー
 PROPMOVER_TXT_000192,Basque,バスキュー
 PROPMOVER_TXT_000194,Lumping Basque,ランピング・バスキュー
 PROPMOVER_TXT_000196,Giant Basque,ジャイアント・バスキュー
-PROPMOVER_TXT_000198,Small Mage Prankster,スモールメイジ・プランクスター
+PROPMOVER_TXT_000198,Small Mage Prankster,スモール・メイジ・プランクスター
 PROPMOVER_TXT_000200,Prankster,プランクスター
-PROPMOVER_TXT_000202,Master Mage Prankster,マスターメイジ・プランクスター
-PROPMOVER_TXT_000204,Giantmage Prankster,ジャイアントメイジ・プランクスター
+PROPMOVER_TXT_000202,Master Mage Prankster,マスター・メイジ・プランクスター
+PROPMOVER_TXT_000204,Giantmage Prankster,ジャイアント・メイジ・プランクスター
 PROPMOVER_TXT_000206,Rough Wheelem,ラフ・ホイール
 PROPMOVER_TXT_000208,Wheelem,ホイール
 PROPMOVER_TXT_000210,Bouncing Wheelem,バウンシング・ホイール
@@ -302,7 +302,7 @@ PROPMOVER_TXT_000652,Shade,シェード
 PROPMOVER_TXT_000654,Stima,スティーマ
 PROPMOVER_TXT_000656,Phacham,ファチャム
 PROPMOVER_TXT_000658,Bubble,バブル
-PROPMOVER_TXT_000660,Rhine,ライン
+PROPMOVER_TXT_000660,Rhine,リーン
 PROPMOVER_TXT_000662,Roocky,ロッキー
 PROPMOVER_TXT_000664,Ollien,オリーン
 PROPMOVER_TXT_000666,Haven,ヘブン
@@ -481,7 +481,7 @@ PROPMOVER_TXT_001054,Baby Tiger,キプラタイガー
 PROPMOVER_TXT_001076,Small Maid Cardpuppet,てきぱきメイド
 PROPMOVER_TXT_001078,Small Mia,スモール・ミーア
 PROPMOVER_TXT_001080,Baby Black Dragon,ブラックドラゴン
-PROPMOVER_TXT_001196,Baby Yetti,ファミリア・イエティン
+PROPMOVER_TXT_001196,Baby Yetti,ファミリア・イエティ
 PROPMOVER_TXT_001300,[Guildwar Manager] Frankie,[ギルド対戦マネージャー]フランキー
 PROPMOVER_TXT_001302,[Guildwar Manager] Donaris,[ギルド対戦マネージャー]ドナリス
 PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1ギルド対戦マネージャー]アーモス
@@ -680,10 +680,10 @@ PROPMOVER_TXT_100112,Baby Mushpang,リトル・マッシュファング
 PROPMOVER_TXT_100113,Baby Wagsaac,リトル・ワッグサック
 PROPMOVER_TXT_100114,Baby Steel Knight,リトル・スチールナイト
 PROPMOVER_TXT_100115,Baby Nautrepy,リトル・ノートレー
-PROPMOVER_TXT_100116,Small Meteonyker,スモールメテオニカ
+PROPMOVER_TXT_100116,Small Meteonyker,スモール・メテオニカ
 PROPMOVER_TXT_100117,Berserk Meteonyker,バーサクメテオニカ
 PROPMOVER_TXT_100118,Cyclops X,サイクロプスX
-PROPMOVER_TXT_100119,Giant Cyclops X,ジャイアントサイクロプスX
+PROPMOVER_TXT_100119,Giant Cyclops X,ジャイアント・サイクロプスX
 PROPMOVER_TXT_100120,Katamaw,カタモー
 PROPMOVER_TXT_100121,Zefus,ゼファス
 PROPMOVER_TXT_100122,Gruntizer,グランタイザー
@@ -695,26 +695,26 @@ PROPMOVER_TXT_100127,Scorched Meteonyker,煉獄メテオニカ
 PROPMOVER_TXT_100128,Red Meteonyker,レッドメテオニカ
 PROPMOVER_TXT_100129,Baby Zendros,ベイビー・ゼンドロス
 PROPMOVER_TXT_100130,Baby Dumb Bull,ベイビー・ダンブル
-PROPMOVER_TXT_100131,Baby Bearnerky,ベイビーベアナーキー
+PROPMOVER_TXT_100131,Baby Bearnerky,ベイビーハニーシーカー
 PROPMOVER_TXT_100132,Yetti,イエティ
-PROPMOVER_TXT_100133,Mutant Yetti,ミュータントイエティ
-PROPMOVER_TXT_100134,Dark Yetti,ダークイエティ
-PROPMOVER_TXT_100135,Mad Yetti,マッドイエティ
-PROPMOVER_TXT_100136,Violet Yetti,バイオレットイエティ
+PROPMOVER_TXT_100133,Mutant Yetti,ミュータント・イエティ
+PROPMOVER_TXT_100134,Dark Yetti,ダーク・イエティ
+PROPMOVER_TXT_100135,Mad Yetti,ジャイアント・イエティ
+PROPMOVER_TXT_100136,Violet Yetti,バイオレット・イエティ
 PROPMOVER_TXT_100137,Augu,アウグ
-PROPMOVER_TXT_100138,Mutant Augu,ミュータントアウグ
-PROPMOVER_TXT_100139,Ardent Augu,アーデントアウグ
-PROPMOVER_TXT_100140,Glacial Augu,グレイシャルアウグ
+PROPMOVER_TXT_100138,Mutant Augu,ミュータント・アウグ
+PROPMOVER_TXT_100139,Ardent Augu,アーデント・アウグ
+PROPMOVER_TXT_100140,Glacial Augu,ジャイアント・アウグ
 PROPMOVER_TXT_100141,Violet Augu,バイオレット・アウグ
 PROPMOVER_TXT_100142,Ghost of the Forgotten Prince,プリンス・ゴースト
 PROPMOVER_TXT_100143,Ghost of the Forgotten King,キング・ゴースト
 PROPMOVER_TXT_100144,Ghost of the Forgotten Emperor,エンペラー・ゴースト
-PROPMOVER_TXT_100145,Ghost of the Forgotten Overlord,ロード・ゴースト
+PROPMOVER_TXT_100145,Ghost of the Forgotten Overlord,ジャイアント・ゴースト
 PROPMOVER_TXT_100146,Violet Ghost of the Forgotten Monarch,バイオレット・ゴースト
 PROPMOVER_TXT_100147,Mammoth,マンモス
 PROPMOVER_TXT_100148,Cannibal Mammoth,人食いマンモス
 PROPMOVER_TXT_100149,Ancient Mammoth,古代マンモス
-PROPMOVER_TXT_100150,Predator Mammoth,プレデターマンモス
+PROPMOVER_TXT_100150,Predator Mammoth,ジャイアント・マンモス
 PROPMOVER_TXT_100151,Violet Mammoth,バイオレットマンモス
 PROPMOVER_TXT_100152,Gigaka,ギガカ
 PROPMOVER_TXT_100153,Mawrang,マウラン
@@ -740,11 +740,11 @@ PROPMOVER_TXT_100172,Exoberry Carrier,エグゾベリーキャリア
 PROPMOVER_TXT_001068,Waforu,ワーポル
 PROPMOVER_TXT_001069,Mysterious Robed Girl,謎のローブ少女
 PROPMOVER_TXT_001442,Lasa,ラサ
-PROPMOVER_TXT_100173,Baby Giant Bang,ベビージャイアントヴァン
-PROPMOVER_TXT_100174,Baby Burudeng,ベビーブルデング
+PROPMOVER_TXT_100173,Baby Giant Bang,ベビージャイアント・ヴァン
+PROPMOVER_TXT_100174,Baby Burudeng,ベビーブルデン
 PROPMOVER_TXT_100175,Baby Iren,ベビーアイレン
 PROPMOVER_TXT_100176,Baby Mushpoie,ベビーマッシュポワ
-PROPMOVER_TXT_100177,Baby Flybrigen,ベビーフライブリゲン
+PROPMOVER_TXT_100177,Baby Flybrigen,ベビーフリビーリーズン
 PROPMOVER_TXT_100178,Baby Nuctuvehicle,ベビーナックトビークル
 PROPMOVER_TXT_100179,Criminal Medumet,犯罪メデュメット
 PROPMOVER_TXT_100180,Crystal Iphrine,クリスタルイフリン
@@ -781,7 +781,7 @@ PROPMOVER_TXT_100210,Lord Big Muscle,ロード・ビッグマッスル
 PROPMOVER_TXT_100211,Lord Krrr,ロード・グルルン
 PROPMOVER_TXT_100212,Lord Mushmoot,ロード・マージュムート
 PROPMOVER_TXT_100213,Lord Meteonyker,ロード・メテオニカ
-PROPMOVER_TXT_100214,Lord Red Meteonyker,ロード・レッド・メテオニカ
+PROPMOVER_TXT_100214,Lord Red Meteonyker,ロード・レッドメテオニカ
 PROPMOVER_TXT_100215,Lord Pumpkin,ロード・カボチャ男爵
 PROPMOVER_TXT_100216,Lord Lykanos,ロード・ライカン
 PROPMOVER_TXT_100217,Lord Drakul,ロード・ヴァンパイア
@@ -819,10 +819,10 @@ PROPMOVER_TXT_100255,White Winter Pixie,ホワイトウィンターピクシー
 PROPMOVER_TXT_100256,Fu Lion King,フーライオンキング
 PROPMOVER_TXT_100257,Black Winter Tiger,ブラックウィンタータイガー
 PROPMOVER_TXT_100258,Pink Winter Tiger,ピンクウィンタータイガー
-PROPMOVER_TXT_100259,Green Winter Tiger ,グリーンウィンタータイガー 
-PROPMOVER_TXT_100260,Purple Winter Tiger ,パープルウィンタータイガー 
-PROPMOVER_TXT_100261,Orange Winter Tiger ,オレンジウィンタータイガー 
-PROPMOVER_TXT_100262,Cyan Winter Tiger ,シアンウィンタータイガー 
+PROPMOVER_TXT_100259,Green Winter Tiger ,グリーンウィンタータイガー
+PROPMOVER_TXT_100260,Purple Winter Tiger ,パープルウィンタータイガー
+PROPMOVER_TXT_100261,Orange Winter Tiger ,オレンジウィンタータイガー
+PROPMOVER_TXT_100262,Cyan Winter Tiger ,シアンウィンタータイガー
 PROPMOVER_TXT_100263,Tonge,トンジュ
 PROPMOVER_TXT_100264,Fox,フォックス
 PROPMOVER_TXT_100265,Mermaid Beauty,マーメイド・ビューティ
@@ -963,7 +963,7 @@ PROPMOVER_TXT_110032,Purple Flying Bunny,パープルフライングバニー
 PROPMOVER_TXT_110033,Brown Flying Bunny,ブラウンフライングバニー
 PROPMOVER_TXT_110034,Black Flying Bunny,ブラックフライングバニー
 PROPMOVER_TXT_110035,White Flying Bunny,ホワイトフライングバニー
-PROPMOVER_TXT_110036,Hantiger,ハンティガー
+PROPMOVER_TXT_110036,Hantiger,ハンタイガー
 PROPMOVER_TXT_110037,Galaxy Scout,ギャラクシースカウト
 PROPMOVER_TXT_110038,Blue Hat Bunny,ブルーハットバニー
 PROPMOVER_TXT_110039,Dark Hat Bunny,ダークハットバニー
@@ -1010,7 +1010,7 @@ PROPMOVER_TXT_110080,Black Flying Froggy,ブラックフライングフロギー
 PROPMOVER_TXT_110081,Blue Flying Froggy,ブルーフライングフロギー
 PROPMOVER_TXT_002016,Rex Potato,イベントモンスター・ポテト大王
 PROPMOVER_TXT_002017,Prince Potato,プリンスポテト
-PROPMOVER_TXT_002159,Private Leo,プライベートレオ
+PROPMOVER_TXT_002159,Private Leo,スモール・レオ
 PROPMOVER_TXT_002160,Noah,ノア
 PROPMOVER_TXT_110082,Draco,ドラコ
 PROPMOVER_TXT_110083,Pink Axolotl,ピンクウーパールーパー
@@ -1170,8 +1170,8 @@ PROPMOVER_TXT_400023,White Cub,ホワイトカブ
 PROPMOVER_TXT_400024,Black Cub,ブラックカブ
 PROPMOVER_TXT_400025,Event Greemong,イベントグリーモン
 PROPMOVER_TXT_400200,[Event] Giant Wagsaac,[イベント]ジャイアント・ワッグサック
-PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[イベント]ジャイアント・ジャック・ザ・ハンマー
-PROPMOVER_TXT_400202,[Event] Giant Bucrow,[イベント]ジャイアントバクロウ
+PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[イベント]ジャイアント・ジャックザハンマー
+PROPMOVER_TXT_400202,[Event] Giant Bucrow,[イベント]ジャイアント・バクロウ
 PROPMOVER_TXT_400203,[Event] Giant Totemia,[イベント]ジャイアント・トーテミア
 PROPMOVER_TXT_400204,[Event] Giant Wheelem,[イベント]ジャイアント・ホイール
 PROPMOVER_TXT_400205,[Event] Giant Hoppre,[イベント]ジャイアント・ホップル
@@ -1180,10 +1180,10 @@ PROPMOVER_TXT_400207,[Event] Giant Watangka,[イベント]ジャイアント・�
 PROPMOVER_TXT_400208,[Event] Giant Fafnir,[イベント]ジャイアント・ファフニール
 PROPMOVER_TXT_400209,[Event] Giant Gorruda,[イベント]ジャイアント・ゴルーダ
 PROPMOVER_TXT_400210,[Event] Giant Medumet,[イベント]ジャイアント・メデュメット
-PROPMOVER_TXT_400211,[Event] Glacial Augu,[イベント]氷河のアウグ
-PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[イベント]ロード・ゴースト
+PROPMOVER_TXT_400211,[Event] Glacial Augu,[イベント]ジャイアント・アウグ
+PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[イベント]ジャイアント・ゴースト
 PROPMOVER_TXT_400213,[Event] Giant Asuras,[イベント]ジャイアント・アシュラ
-PROPMOVER_TXT_400214,[Event] Giant Tigar,[イベント]ジャイアントタイガー
+PROPMOVER_TXT_400214,[Event] Giant Tigar,[イベント]ジャイアント・タイガー
 PROPMOVER_TXT_400215,[Event] Captain Flybat,[イベント]キャプテン・フライバット
 PROPMOVER_TXT_400216,[Event] Mr. Pumpkin,[イベント]カボチャ男爵
 PROPMOVER_TXT_400217,[Event] Dumb Bull,[イベント]ダンブル
@@ -1191,22 +1191,22 @@ PROPMOVER_TXT_400218,[Event] Scorpicon,[イベント]スコーピオン
 PROPMOVER_TXT_400219,[Event] Wheelem,[イベント]ホイール
 PROPMOVER_TXT_400220,[Event] Steel Knight,[イベント]スチールナイト
 PROPMOVER_TXT_400221,[Event] Driller,[イベント]ドリラー
-PROPMOVER_TXT_400222,[Event] Captian Volt,[イベント]キャプテンボルト
+PROPMOVER_TXT_400222,[Event] Captian Volt,[イベント]キャプテン・ボルト
 PROPMOVER_TXT_400223,[Event] Greemong,[イベント]グリーモン
 PROPMOVER_TXT_400224,[Event] Iren,[イベント]アイレン
 PROPMOVER_TXT_400225,[Event] Watangka,[イベント]ワタングカ
 PROPMOVER_TXT_400226,[Event] Small Antiquery,[イベント]スモールアンティクエリー
 PROPMOVER_TXT_400227,[Event] Antiquery,[イベント]アンティクエリー
 PROPMOVER_TXT_400228,[Event] Luia,[イベント]ルイア
-PROPMOVER_TXT_400229,[Event] Small Gongury,[イベント]スモールゴングリー
+PROPMOVER_TXT_400229,[Event] Small Gongury,[イベント]スモール・ゴングリー
 PROPMOVER_TXT_400230,[Event] Harpy,[イベント]ハーピー
 PROPMOVER_TXT_400231,[Event] Kern,[イベント]ケルン
-PROPMOVER_TXT_400232,[Event] Small Medumet,[イベント]スモールメデュメット
+PROPMOVER_TXT_400232,[Event] Small Medumet,[イベント]スモール・メデュメット
 PROPMOVER_TXT_400233,[Event] Yetti,[イベント]イエティ
-PROPMOVER_TXT_400234,[Event] Small Dantalian,[イベント]スモールダンタリア
-PROPMOVER_TXT_400235,[Event] Mutant Augu,[イベント]ミュータントアウグ
+PROPMOVER_TXT_400234,[Event] Small Dantalian,[イベント]スモール・ダンタリア
+PROPMOVER_TXT_400235,[Event] Mutant Augu,[イベント]ミュータント・アウグ
 PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[イベント]キング・ゴースト
-PROPMOVER_TXT_400237,[Event] Small Asuras,[イベント]スモールアシュラ
+PROPMOVER_TXT_400237,[Event] Small Asuras,[イベント]スモール・アシュラ
 PROPMOVER_TXT_400238,[Event] Mammoth,[イベント]マンモス
 PROPMOVER_TXT_400239,[Event] Asuras,[イベント]アシュラ
 PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[イベント]人食いマンモス
@@ -1218,7 +1218,7 @@ PROPMOVER_TXT_400029,Pink Pixel Rabbit,ピンクピクセルラビット
 PROPMOVER_TXT_400030,Purple Pixel Rabbit,パープルピクセルラビット
 PROPMOVER_TXT_400031,Yellow Pixel Rabbit,イエローピクセルラビット
 PROPMOVER_TXT_001319,[Event] Leyena,[イベント]レイーナ
-PROPMOVER_TXT_001321,[Event] Giant Kraken,[イベント]ジャイアントクラーケン
+PROPMOVER_TXT_001321,[Event] Giant Kraken,[イベント]ジャイアント・クラーケン
 PROPMOVER_TXT_400032,[Event] Giggle Box,[イベント]ギッグルボックス
 PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[イベント]バイオレット・ギッグルボックス
 PROPMOVER_TXT_400034,Fox Spirit,フォックススピリット
@@ -1637,7 +1637,7 @@ PROPMOVER_TXT_500191,Condemned Shuhamma,堕落したシューハンマー
 PROPMOVER_TXT_500192,Condemned Glaphan,堕落したグラファン
 PROPMOVER_TXT_500193,Condemned Medumet,堕落したメデュメット
 PROPMOVER_TXT_210000,Primal Warlord Caveman Chief,プライマルウォーロード・ケイブマンチーフ
-PROPMOVER_TXT_210001,Forsaken Temple Guardian,見捨てられたテンプルガーディアン
+PROPMOVER_TXT_210001,Forsaken Temple Guardian,見捨てられたテンプル・ガーディアン
 PROPMOVER_TXT_210002,Abyssal Great Kraken,深淵のグレート・クラーケン
 PROPMOVER_TXT_210003,Abyssal Kraken Spawn,深淵のクラーケンスパウン
 PROPMOVER_TXT_210004,Cursed Pyramid Guardian,呪われたピラミッド・ガーディアン
@@ -1693,233 +1693,233 @@ PROPMOVER_TXT_550043,Lawolf,ラーウルフ
 PROPMOVER_TXT_550044,1st Class Fefern,1クラス・フェフェルン
 PROPMOVER_TXT_550045,Nyangnyang,ニャングニャング
 PROPMOVER_TXT_550046,Bang,ヴァン
-PROPMOVER_TXT_550047,Iblis Leanes,Iblis Leanes
-PROPMOVER_TXT_550048,Violet Wagsaac,Violet Wagsaac
-PROPMOVER_TXT_550049,Violet Flybat,Violet Flybat
-PROPMOVER_TXT_550050,Violet Mia,Violet Mia
-PROPMOVER_TXT_550051,Violet Mr. Pumpkin,Violet Mr. Pumpkin
-PROPMOVER_TXT_550052,Violet Jack the Hammer,Violet Jack the Hammer
-PROPMOVER_TXT_550053,Violet Giggle Box,Violet Giggle Box
-PROPMOVER_TXT_550054,Violet Totemia,Violet Totemia
-PROPMOVER_TXT_550055,Violet Cardpuppet,Violet Cardpuppet
-PROPMOVER_TXT_550056,Violet Dumb Bull,Violet Dumb Bull
-PROPMOVER_TXT_550057,Violet Bucrow,Violet Bucrow
-PROPMOVER_TXT_550058,Violet Rock Muscle,Violet Rock Muscle
-PROPMOVER_TXT_550059,Captain Wagsaac,Captain Wagsaac
-PROPMOVER_TXT_550060,Giant Flybat,Giant Flybat
-PROPMOVER_TXT_550061,Captain Mia,Captain Mia
-PROPMOVER_TXT_550062,Giant Mr. Pumpkin,Giant Mr. Pumpkin
-PROPMOVER_TXT_550063,Giant Jack the Hammer,Giant Jack the Hammer
-PROPMOVER_TXT_550064,Giant Giggle Box,Giant Giggle Box
-PROPMOVER_TXT_550065,Giant Totemia,Giant Totemia
-PROPMOVER_TXT_550066,Boss Cardpuppet,Boss Cardpuppet
-PROPMOVER_TXT_550067,Captain Dumb Bull,Captain Dumb Bull
-PROPMOVER_TXT_550068,Giant Bucrow,Giant Bucrow
-PROPMOVER_TXT_550069,Captain Rock Muscle,Captain Rock Muscle
-PROPMOVER_TXT_550070,Wagsaac,Wagsaac
-PROPMOVER_TXT_550071,Flybat,Flybat
-PROPMOVER_TXT_550072,Mia,Mia
-PROPMOVER_TXT_550073,Mr. Pumpkin,Mr. Pumpkin
-PROPMOVER_TXT_550074,Jack the Hammer,Jack the Hammer
-PROPMOVER_TXT_550075,Giggle Box,Giggle Box
-PROPMOVER_TXT_550076,Totemia,Totemia
-PROPMOVER_TXT_550077,Cardpuppet,Cardpuppet
-PROPMOVER_TXT_550078,Dumb Bull,Dumb Bull
-PROPMOVER_TXT_550079,Bucrow,Bucrow
-PROPMOVER_TXT_550080,Rock Muscle,Rock Muscle
-PROPMOVER_TXT_550081,Temple Guardian,Temple Guardian
-PROPMOVER_TXT_550082,Violet Tombstone Bearer,Violet Tombstone Bearer
-PROPMOVER_TXT_550083,Violet Basque,Violet Basque
-PROPMOVER_TXT_550084,Violet Scorpicon,Violet Scorpicon
-PROPMOVER_TXT_550085,Violet Wheelem,Violet Wheelem
-PROPMOVER_TXT_550086,Violet Flybrigen,Violet Flybrigen
-PROPMOVER_TXT_550087,Violet Prankster,Violet Prankster
-PROPMOVER_TXT_550088,Giant Tombstone Bearer,Giant Tombstone Bearer
-PROPMOVER_TXT_550089,Criminal Basque,Criminal Basque
-PROPMOVER_TXT_550090,Giant Scorpicon,Giant Scorpicon
-PROPMOVER_TXT_550091,Giant Wheelem,Giant Wheelem
-PROPMOVER_TXT_550092,Giant Flybrigen,Giant Flybrigen
-PROPMOVER_TXT_550093,Giantmage Prankster,Giantmage Prankster
-PROPMOVER_TXT_550094,Tombstone Bearer,Tombstone Bearer
-PROPMOVER_TXT_550095,Basque,Basque
-PROPMOVER_TXT_550096,Scorpicon,Scorpicon
-PROPMOVER_TXT_550097,Wheelem,Wheelem
-PROPMOVER_TXT_550098,Flybrigen,Flybrigen
-PROPMOVER_TXT_550099,Prankster,Prankster
-PROPMOVER_TXT_550100,Clockworks,Clockworks
-PROPMOVER_TXT_550101,Violet Nuctuvehicle,Violet Nuctuvehicle
-PROPMOVER_TXT_550102,Violet Zombiger,Violet Zombiger
-PROPMOVER_TXT_550103,Violet Carrierbomb,Violet Carrierbomb
-PROPMOVER_TXT_550104,Violet Greemong,Violet Greemong
-PROPMOVER_TXT_550105,Violet Syliaca,Violet Syliaca
-PROPMOVER_TXT_550106,Violet Elderguard,Violet Elderguard
-PROPMOVER_TXT_550107,Violet Volt,Violet Volt
-PROPMOVER_TXT_550108,Violet Steam Walker,Violet Steam Walker
-PROPMOVER_TXT_550109,Violet Nutty Wheel,Violet Nutty Wheel
-PROPMOVER_TXT_550110,Violet Steel Knight,Violet Steel Knight
-PROPMOVER_TXT_550111,Violet Garbagespider,Violet Garbagespider
-PROPMOVER_TXT_550112,Violet Trangfoma,Violet Trangfoma
-PROPMOVER_TXT_550113,Violet Crane Machinery,Violet Crane Machinery
-PROPMOVER_TXT_550114,Giant Nuctuvehicle,Giant Nuctuvehicle
-PROPMOVER_TXT_550115,Giant Zombiger,Giant Zombiger
-PROPMOVER_TXT_550116,Giant Carrierbomb,Giant Carrierbomb
-PROPMOVER_TXT_550117,Giant Greemong,Giant Greemong
-PROPMOVER_TXT_550118,Giant Syliaca,Giant Syliaca
-PROPMOVER_TXT_550119,Captain Elderguard,Captain Elderguard
-PROPMOVER_TXT_550120,Captain Volt,Captain Volt
-PROPMOVER_TXT_550121,Captain Steam Walker,Captain Steam Walker
-PROPMOVER_TXT_550122,Captain Nutty Wheel,Captain Nutty Wheel
-PROPMOVER_TXT_550123,Captain Steel Knight,Captain Steel Knight
-PROPMOVER_TXT_550124,Captain Garbagespider,Captain Garbagespider
-PROPMOVER_TXT_550125,Giant Trangfoma,Giant Trangfoma
-PROPMOVER_TXT_550126,Captain Crane Machinery,Captain Crane Machinery
-PROPMOVER_TXT_550127,Nuctuvehicle,Nuctuvehicle
-PROPMOVER_TXT_550128,Zombiger,Zombiger
-PROPMOVER_TXT_550129,Carrierbomb,Carrierbomb
-PROPMOVER_TXT_550130,Greemong,Greemong
-PROPMOVER_TXT_550131,Syliaca,Syliaca
-PROPMOVER_TXT_550132,Elderguard,Elderguard
-PROPMOVER_TXT_550133,Volt,Volt
-PROPMOVER_TXT_550134,Steam Walker,Steam Walker
-PROPMOVER_TXT_550135,Nutty Wheel,Nutty Wheel
-PROPMOVER_TXT_550136,Steel Knight,Steel Knight
-PROPMOVER_TXT_550137,Garbagespider,Garbagespider
-PROPMOVER_TXT_550138,Trangfoma,Trangfoma
-PROPMOVER_TXT_550139,Crane Machinery,Crane Machinery
-PROPMOVER_TXT_550140,Red Meteonyker,Red Meteonyker
-PROPMOVER_TXT_550141,Violet Dump,Violet Dump
-PROPMOVER_TXT_550142,Violet Boo,Violet Boo
-PROPMOVER_TXT_550143,Violet Mushpoie,Violet Mushpoie
-PROPMOVER_TXT_550144,Violet Iren,Violet Iren
-PROPMOVER_TXT_550145,Violet Watangka,Violet Watangka
-PROPMOVER_TXT_550146,Violet Luia,Violet Luia
-PROPMOVER_TXT_550147,Violet Fafnir,Violet Fafnir
-PROPMOVER_TXT_550148,Violet Kern,Violet Kern
-PROPMOVER_TXT_550149,Violet Glaphan,Violet Glaphan
-PROPMOVER_TXT_550150,Violet Grrr,Violet Grrr
-PROPMOVER_TXT_550151,Violet Bearnerky,Violet Bearnerky
-PROPMOVER_TXT_550152,Violet Chef Muffrin,Violet Chef Muffrin
-PROPMOVER_TXT_550153,Violet Popcrank,Violet Popcrank
-PROPMOVER_TXT_550154,Violet Gongury,Violet Gongury
-PROPMOVER_TXT_550155,Violet Shuhamma,Violet Shuhamma
-PROPMOVER_TXT_550156,Giant Dump,Giant Dump
-PROPMOVER_TXT_550157,Giant Boo,Giant Boo
-PROPMOVER_TXT_550158,Giant Mushpoie,Giant Mushpoie
-PROPMOVER_TXT_550159,Giant Iren,Giant Iren
-PROPMOVER_TXT_550160,Giant Watangka,Giant Watangka
-PROPMOVER_TXT_550161,Giant Luia,Giant Luia
-PROPMOVER_TXT_550162,Grownup Fafnir,Grownup Fafnir
-PROPMOVER_TXT_550163,Giant Kern,Giant Kern
-PROPMOVER_TXT_550164,Giant Glaphan,Giant Glaphan
-PROPMOVER_TXT_550165,Giant Grrr,Giant Grrr
-PROPMOVER_TXT_550166,General Bearnerky,General Bearnerky
-PROPMOVER_TXT_550167,Great Chef Muffrin,Great Chef Muffrin
-PROPMOVER_TXT_550168,Queen Popcrank,Queen Popcrank
-PROPMOVER_TXT_550169,Giant Gongury,Giant Gongury
-PROPMOVER_TXT_550170,Giant Shuhamma,Giant Shuhamma
-PROPMOVER_TXT_550171,Dump,Dump
-PROPMOVER_TXT_550172,Boo,Boo
-PROPMOVER_TXT_550173,Mushpoie,Mushpoie
-PROPMOVER_TXT_550174,Iren,Iren
-PROPMOVER_TXT_550175,Watangka,Watangka
-PROPMOVER_TXT_550176,Luia,Luia
-PROPMOVER_TXT_550177,Fafnir,Fafnir
-PROPMOVER_TXT_550178,Kern,Kern
-PROPMOVER_TXT_550179,Glaphan,Glaphan
-PROPMOVER_TXT_550180,Grrr,Grrr
-PROPMOVER_TXT_550181,Private Bearnerky,Private Bearnerky
-PROPMOVER_TXT_550182,Trainee Chef Muffrin,Trainee Chef Muffrin
-PROPMOVER_TXT_550183,Rook Popcrank,Rook Popcrank
-PROPMOVER_TXT_550184,Gongury,Gongury
-PROPMOVER_TXT_550185,Shuhamma,Shuhamma
-PROPMOVER_TXT_550186,Crystal Demon Lord,Crystal Demon Lord
-PROPMOVER_TXT_550187,Violet Medumet,Violet Medumet
-PROPMOVER_TXT_550188,Violet Yetti,Violet Yetti
-PROPMOVER_TXT_550189,Violet Mammoth,Violet Mammoth
-PROPMOVER_TXT_550190,Violet Ghost of the Forgotten Monarch,Violet Ghost of the Forgotten Monarch
-PROPMOVER_TXT_550191,Violet Augu,Violet Augu
-PROPMOVER_TXT_550192,Giant Medumet,Giant Medumet
-PROPMOVER_TXT_550193,Mad Yetti,Mad Yetti
-PROPMOVER_TXT_550194,Lord Mammoth,Lord Mammoth
-PROPMOVER_TXT_550195,Ghost of the Forgotten Lord,Ghost of the Forgotten Lord
-PROPMOVER_TXT_550196,Lord Augu,Lord Augu
-PROPMOVER_TXT_550197,Captain Medumet,Captain Medumet
-PROPMOVER_TXT_550198,Dark Yetti,Dark Yetti
-PROPMOVER_TXT_550199,Ancient Mammoth,Ancient Mammoth
-PROPMOVER_TXT_550200,Ghost of the Forgotten Emperor,Ghost of the Forgotten Emperor
-PROPMOVER_TXT_550201,Ardent Augu,Ardent Augu
-PROPMOVER_TXT_550202,Medumet,Medumet
-PROPMOVER_TXT_550203,Mutant Yetti,Mutant Yetti
-PROPMOVER_TXT_550204,Mammoth,Mammoth
-PROPMOVER_TXT_550205,Ghost of the Forgotten Prince,Ghost of the Forgotten Prince
-PROPMOVER_TXT_550206,Mutant Augu,Mutant Augu
-PROPMOVER_TXT_550207,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
-PROPMOVER_TXT_550208,Violet Atrox,Violet Atrox
-PROPMOVER_TXT_550209,Violet Creper,Violet Creper
-PROPMOVER_TXT_550210,Violet Meral,Violet Meral
-PROPMOVER_TXT_550211,Violet Tigar,Violet Tigar
-PROPMOVER_TXT_550212,Violet Naga,Violet Naga
-PROPMOVER_TXT_550213,Violet Kingster,Violet Kingster
-PROPMOVER_TXT_550214,Violet Okean,Violet Okean
-PROPMOVER_TXT_550215,Violet Dorian,Violet Dorian
-PROPMOVER_TXT_550216,Violet Kraken,Violet Kraken
-PROPMOVER_TXT_550217,Giant Atrox,Giant Atrox
-PROPMOVER_TXT_550218,Giant Creper,Giant Creper
-PROPMOVER_TXT_550219,Giant Meral,Giant Meral
-PROPMOVER_TXT_550220,Giant Tigar,Giant Tigar
-PROPMOVER_TXT_550221,Giant Naga,Giant Naga
-PROPMOVER_TXT_550222,Giant Kingster,Giant Kingster
-PROPMOVER_TXT_550223,Giant Okean,Giant Okean
-PROPMOVER_TXT_550224,Giant Dorian,Giant Dorian
-PROPMOVER_TXT_550225,Giant Kraken,Giant Kraken
-PROPMOVER_TXT_550226,Atrox,Atrox
-PROPMOVER_TXT_550227,Creper,Creper
-PROPMOVER_TXT_550228,Meral,Meral
-PROPMOVER_TXT_550229,Tigar,Tigar
-PROPMOVER_TXT_550230,Naga,Naga
-PROPMOVER_TXT_550231,Kingster,Kingster
-PROPMOVER_TXT_550232,Okean,Okean
-PROPMOVER_TXT_550233,Dorian,Dorian
-PROPMOVER_TXT_550234,Kraken,Kraken
-PROPMOVER_TXT_550235,[Queen of Thorns] Entaness,[Queen of Thorns] Entaness
-PROPMOVER_TXT_550236,Violet Hundur Sharpfoot,Violet Hundur Sharpfoot
-PROPMOVER_TXT_550237,Violet Kyouchish,Violet Kyouchish
-PROPMOVER_TXT_550238,Violet Samoset,Violet Samoset
-PROPMOVER_TXT_550239,Violet Kanonicus,Violet Kanonicus
-PROPMOVER_TXT_550240,Violet Mage Redcloud,Violet Mage Redcloud
-PROPMOVER_TXT_550241,Violet Taiaha,Violet Taiaha
-PROPMOVER_TXT_550242,Violet Hellhound,Violet Hellhound
-PROPMOVER_TXT_550243,Giant Hundur Sharpfoot,Giant Hundur Sharpfoot
-PROPMOVER_TXT_550244,Giant Kyouchish,Giant Kyouchish
-PROPMOVER_TXT_550245,Giant Samoset,Giant Samoset
-PROPMOVER_TXT_550246,Giant Kanonicus,Giant Kanonicus
-PROPMOVER_TXT_550247,Giant Mage Redcloud,Giant Mage Redcloud
-PROPMOVER_TXT_550248,Giant Taiaha,Giant Taiaha
-PROPMOVER_TXT_550249,Giant Hellhound,Giant Hellhound
-PROPMOVER_TXT_550250,Hundur Sharpfoot,Hundur Sharpfoot
-PROPMOVER_TXT_550251,Kyouchish,Kyouchish
-PROPMOVER_TXT_550252,Samoset,Samoset
-PROPMOVER_TXT_550253,Kanonicus,Kanonicus
-PROPMOVER_TXT_550254,Mage Redcloud,Mage Redcloud
-PROPMOVER_TXT_550255,Taiaha,Taiaha
-PROPMOVER_TXT_550256,Hellhound,Hellhound
-PROPMOVER_TXT_550257,Frostfang Tiger,Frostfang Tiger
-PROPMOVER_TXT_550258,Sunmane Lion,Sunmane Lion
-PROPMOVER_TXT_550259,Crimson Frog,Crimson Frog
-PROPMOVER_TXT_550260,Golden Butterfly,Golden Butterfly
-PROPMOVER_TXT_550261,King Croak,King Croak
-PROPMOVER_TXT_550262,Mischief Monkey,Mischief Monkey
-PROPMOVER_TXT_550263,Azure Butterfly,Azure Butterfly
-PROPMOVER_TXT_550264,Mummy Bear,Mummy Bear
-PROPMOVER_TXT_550265,Sir Whiskers,Sir Whiskers
-PROPMOVER_TXT_550266,Agent Bark,Agent Bark
-PROPMOVER_TXT_550267,Tiny Crusader,Tiny Crusader
-PROPMOVER_TXT_550268,Sergeant Bananas,Sergeant Bananas
-PROPMOVER_TXT_550269,Officer Paws,Officer Paws
-PROPMOVER_TXT_550270,Champion Teddy,Champion Teddy
-PROPMOVER_TXT_550271,Rosefang Tiger,Rosefang Tiger
-PROPMOVER_TXT_550272,Auric Lion,Auric Lion
-PROPMOVER_TXT_550273,Moonmane Lion,Moonmane Lion
-PROPMOVER_TXT_550274,Nightscale Dragon,Nightscale Dragon
-PROPMOVER_TXT_550275,Stormscale Dragon,Stormscale Dragon
-PROPMOVER_TXT_550276,Verdant Dragon,Verdant Dragon
+PROPMOVER_TXT_550047,Iblis Leanes,イブル
+PROPMOVER_TXT_550048,Violet Wagsaac,バイオレット・ワッグサック
+PROPMOVER_TXT_550049,Violet Flybat,バイオレット・フライバット
+PROPMOVER_TXT_550050,Violet Mia,バイオレット・ミーア
+PROPMOVER_TXT_550051,Violet Mr. Pumpkin,バイオレット・カボチャ男爵
+PROPMOVER_TXT_550052,Violet Jack the Hammer,バイオレット・ジャックザハンマー
+PROPMOVER_TXT_550053,Violet Giggle Box,バイオレット・ギッグルボックス
+PROPMOVER_TXT_550054,Violet Totemia,バイオレット・トーテミア
+PROPMOVER_TXT_550055,Violet Cardpuppet,バイオレット・カードパペット
+PROPMOVER_TXT_550056,Violet Dumb Bull,バイオレット・ダンブル
+PROPMOVER_TXT_550057,Violet Bucrow,バイオレット・バクロウ
+PROPMOVER_TXT_550058,Violet Rock Muscle,バイオレット・ロックマッスル
+PROPMOVER_TXT_550059,Captain Wagsaac,キャプテン・ワッグサック
+PROPMOVER_TXT_550060,Giant Flybat,ジャイアント・フライバット
+PROPMOVER_TXT_550061,Captain Mia,キャプテン・ミーア
+PROPMOVER_TXT_550062,Giant Mr. Pumpkin,ジャイアント・カボチャ男爵
+PROPMOVER_TXT_550063,Giant Jack the Hammer,ジャイアント・ジャックザハンマー
+PROPMOVER_TXT_550064,Giant Giggle Box,ジャイアント・ギッグルボックス
+PROPMOVER_TXT_550065,Giant Totemia,ジャイアント・トーテミア
+PROPMOVER_TXT_550066,Boss Cardpuppet,ジャイアント・カードパペット
+PROPMOVER_TXT_550067,Captain Dumb Bull,キャプテン・ダンブル
+PROPMOVER_TXT_550068,Giant Bucrow,ジャイアント・バクロウ
+PROPMOVER_TXT_550069,Captain Rock Muscle,キャプテン・ロックマッスル
+PROPMOVER_TXT_550070,Wagsaac,ワッグサック
+PROPMOVER_TXT_550071,Flybat,フライバット
+PROPMOVER_TXT_550072,Mia,ミーア
+PROPMOVER_TXT_550073,Mr. Pumpkin,カボチャ男爵
+PROPMOVER_TXT_550074,Jack the Hammer,ジャックザハンマー
+PROPMOVER_TXT_550075,Giggle Box,ギッグルボックス
+PROPMOVER_TXT_550076,Totemia,トーテミア
+PROPMOVER_TXT_550077,Cardpuppet,カードパペット
+PROPMOVER_TXT_550078,Dumb Bull,ダンブル
+PROPMOVER_TXT_550079,Bucrow,バクロウ
+PROPMOVER_TXT_550080,Rock Muscle,ロックマッスル
+PROPMOVER_TXT_550081,Temple Guardian,テンプル・ガーディアン
+PROPMOVER_TXT_550082,Violet Tombstone Bearer,バイオレット・トムストンベアラー
+PROPMOVER_TXT_550083,Violet Basque,バイオレット・バスキュー
+PROPMOVER_TXT_550084,Violet Scorpicon,バイオレット・スコーピオン
+PROPMOVER_TXT_550085,Violet Wheelem,バイオレット・ホイール
+PROPMOVER_TXT_550086,Violet Flybrigen,バイオレット・フリビーリーズン
+PROPMOVER_TXT_550087,Violet Prankster,バイオレット・プランクスター
+PROPMOVER_TXT_550088,Giant Tombstone Bearer,ジャイアント・トムストンベアラー
+PROPMOVER_TXT_550089,Criminal Basque,犯罪バスキュー
+PROPMOVER_TXT_550090,Giant Scorpicon,ジャイアント・スコーピオン
+PROPMOVER_TXT_550091,Giant Wheelem,ジャイアント・ホイール
+PROPMOVER_TXT_550092,Giant Flybrigen,ジャイアント・フリビーリーズン
+PROPMOVER_TXT_550093,Giantmage Prankster,ジャイアント・メイジ・プランクスター
+PROPMOVER_TXT_550094,Tombstone Bearer,トムストンベアラー
+PROPMOVER_TXT_550095,Basque,バスキュー
+PROPMOVER_TXT_550096,Scorpicon,スコーピオン
+PROPMOVER_TXT_550097,Wheelem,ホイール
+PROPMOVER_TXT_550098,Flybrigen,フリビーリーズン
+PROPMOVER_TXT_550099,Prankster,プランクスター
+PROPMOVER_TXT_550100,Clockworks,クロックワークス
+PROPMOVER_TXT_550101,Violet Nuctuvehicle,バイオレット・ナックトビークル
+PROPMOVER_TXT_550102,Violet Zombiger,バイオレット・ゾンビガー
+PROPMOVER_TXT_550103,Violet Carrierbomb,バイオレット・キャリアボム
+PROPMOVER_TXT_550104,Violet Greemong,バイオレット・グリーモン
+PROPMOVER_TXT_550105,Violet Syliaca,バイオレット・シーラカ
+PROPMOVER_TXT_550106,Violet Elderguard,バイオレット・エルダーガード
+PROPMOVER_TXT_550107,Violet Volt,バイオレット・ボルト
+PROPMOVER_TXT_550108,Violet Steam Walker,バイオレット・スチームウォーカー
+PROPMOVER_TXT_550109,Violet Nutty Wheel,バイオレット・ナッティフィール
+PROPMOVER_TXT_550110,Violet Steel Knight,バイオレット・スチールナイト
+PROPMOVER_TXT_550111,Violet Garbagespider,バイオレット・ガーベイジパイダー
+PROPMOVER_TXT_550112,Violet Trangfoma,バイオレット・トランフォーマ
+PROPMOVER_TXT_550113,Violet Crane Machinery,バイオレット・クレーンマシン
+PROPMOVER_TXT_550114,Giant Nuctuvehicle,ジャイアント・ナックトビークル
+PROPMOVER_TXT_550115,Giant Zombiger,ジャイアント・ゾンビガー
+PROPMOVER_TXT_550116,Giant Carrierbomb,ジャイアント・キャリアボム
+PROPMOVER_TXT_550117,Giant Greemong,ジャイアント・グリーモン
+PROPMOVER_TXT_550118,Giant Syliaca,ジャイアント・シーラカ
+PROPMOVER_TXT_550119,Captain Elderguard,キャプテン・エルダーガード
+PROPMOVER_TXT_550120,Captain Volt,キャプテン・ボルト
+PROPMOVER_TXT_550121,Captain Steam Walker,キャプテン・スチームウォーカー
+PROPMOVER_TXT_550122,Captain Nutty Wheel,キャプテン・ナッティフィール
+PROPMOVER_TXT_550123,Captain Steel Knight,キャプテン・スチールナイト
+PROPMOVER_TXT_550124,Captain Garbagespider,キャプテン・ガーベイジパイダー
+PROPMOVER_TXT_550125,Giant Trangfoma,ジャイアント・トランフォーマ
+PROPMOVER_TXT_550126,Captain Crane Machinery,キャプテン・クレーンマシン
+PROPMOVER_TXT_550127,Nuctuvehicle,ナックトビークル
+PROPMOVER_TXT_550128,Zombiger,ゾンビガー
+PROPMOVER_TXT_550129,Carrierbomb,キャリアボム
+PROPMOVER_TXT_550130,Greemong,グリーモン
+PROPMOVER_TXT_550131,Syliaca,シーラカ
+PROPMOVER_TXT_550132,Elderguard,エルダーガード
+PROPMOVER_TXT_550133,Volt,ボルト
+PROPMOVER_TXT_550134,Steam Walker,スチームウォーカー
+PROPMOVER_TXT_550135,Nutty Wheel,ナッティフィール
+PROPMOVER_TXT_550136,Steel Knight,スチールナイト
+PROPMOVER_TXT_550137,Garbagespider,ガーベイジパイダー
+PROPMOVER_TXT_550138,Trangfoma,トランフォーマ
+PROPMOVER_TXT_550139,Crane Machinery,クレーンマシン
+PROPMOVER_TXT_550140,Red Meteonyker,レッドメテオニカ
+PROPMOVER_TXT_550141,Violet Dump,バイオレット・ダンプ
+PROPMOVER_TXT_550142,Violet Boo,バイオレット・ブウ
+PROPMOVER_TXT_550143,Violet Mushpoie,バイオレット・マッシュポワ
+PROPMOVER_TXT_550144,Violet Iren,バイオレット・アイレン
+PROPMOVER_TXT_550145,Violet Watangka,バイオレット・ワタングカ
+PROPMOVER_TXT_550146,Violet Luia,バイオレット・ルイア
+PROPMOVER_TXT_550147,Violet Fafnir,バイオレット・ファフニール
+PROPMOVER_TXT_550148,Violet Kern,バイオレット・ケルン
+PROPMOVER_TXT_550149,Violet Glaphan,バイオレット・グラファン
+PROPMOVER_TXT_550150,Violet Grrr,バイオレット・グルルン
+PROPMOVER_TXT_550151,Violet Bearnerky,バイオレット・ハニーシーカー
+PROPMOVER_TXT_550152,Violet Chef Muffrin,バイオレット・マフリン・シェフ
+PROPMOVER_TXT_550153,Violet Popcrank,バイオレット・ポップクランク
+PROPMOVER_TXT_550154,Violet Gongury,バイオレット・ゴングリー
+PROPMOVER_TXT_550155,Violet Shuhamma,バイオレット・シューハンマー
+PROPMOVER_TXT_550156,Giant Dump,ジャイアント・ダンプ
+PROPMOVER_TXT_550157,Giant Boo,ジャイアント・ブウ
+PROPMOVER_TXT_550158,Giant Mushpoie,ジャイアント・マッシュポワ
+PROPMOVER_TXT_550159,Giant Iren,ジャイアント・アイレン
+PROPMOVER_TXT_550160,Giant Watangka,ジャイアント・ワタングカ
+PROPMOVER_TXT_550161,Giant Luia,ジャイアント・ルイア
+PROPMOVER_TXT_550162,Grownup Fafnir,グロウアップ・ファフニール
+PROPMOVER_TXT_550163,Giant Kern,ジャイアント・ケルン
+PROPMOVER_TXT_550164,Giant Glaphan,ジャイアント・グラファン
+PROPMOVER_TXT_550165,Giant Grrr,ジャイアント・グルルン
+PROPMOVER_TXT_550166,General Bearnerky,ジャイアント・ハニーシーカー
+PROPMOVER_TXT_550167,Great Chef Muffrin,ジャイアント・マフリン・シェフ
+PROPMOVER_TXT_550168,Queen Popcrank,ジャイアント・ポップクランク
+PROPMOVER_TXT_550169,Giant Gongury,ジャイアント・ゴングリー
+PROPMOVER_TXT_550170,Giant Shuhamma,ジャイアント・シューハンマー
+PROPMOVER_TXT_550171,Dump,ダンプ
+PROPMOVER_TXT_550172,Boo,ブウ
+PROPMOVER_TXT_550173,Mushpoie,マッシュポワ
+PROPMOVER_TXT_550174,Iren,アイレン
+PROPMOVER_TXT_550175,Watangka,ワタングカ
+PROPMOVER_TXT_550176,Luia,ルイア
+PROPMOVER_TXT_550177,Fafnir,ファフニール
+PROPMOVER_TXT_550178,Kern,ケルン
+PROPMOVER_TXT_550179,Glaphan,グラファン
+PROPMOVER_TXT_550180,Grrr,グルルン
+PROPMOVER_TXT_550181,Private Bearnerky,スモール・ハニーシーカー
+PROPMOVER_TXT_550182,Trainee Chef Muffrin,スモール・マフリン・シェフ
+PROPMOVER_TXT_550183,Rook Popcrank,キャプテン・ポップクランク
+PROPMOVER_TXT_550184,Gongury,ゴングリー
+PROPMOVER_TXT_550185,Shuhamma,シューハンマー
+PROPMOVER_TXT_550186,Crystal Demon Lord,クリスタル・デーモンロード
+PROPMOVER_TXT_550187,Violet Medumet,バイオレット・メデュメット
+PROPMOVER_TXT_550188,Violet Yetti,バイオレット・イエティ
+PROPMOVER_TXT_550189,Violet Mammoth,バイオレット・マンモス
+PROPMOVER_TXT_550190,Violet Ghost of the Forgotten Monarch,バイオレット・ゴースト
+PROPMOVER_TXT_550191,Violet Augu,バイオレット・アウグ
+PROPMOVER_TXT_550192,Giant Medumet,ジャイアント・メデュメット
+PROPMOVER_TXT_550193,Mad Yetti,ジャイアント・イエティ
+PROPMOVER_TXT_550194,Lord Mammoth,ロード・マンモス
+PROPMOVER_TXT_550195,Ghost of the Forgotten Lord,ロード・ゴースト
+PROPMOVER_TXT_550196,Lord Augu,ロード・アウグ
+PROPMOVER_TXT_550197,Captain Medumet,キャプテン・メデュメット
+PROPMOVER_TXT_550198,Dark Yetti,ダーク・イエティ
+PROPMOVER_TXT_550199,Ancient Mammoth,古代マンモス
+PROPMOVER_TXT_550200,Ghost of the Forgotten Emperor,エンペラー・ゴースト
+PROPMOVER_TXT_550201,Ardent Augu,アーデント・アウグ
+PROPMOVER_TXT_550202,Medumet,メデュメット
+PROPMOVER_TXT_550203,Mutant Yetti,ミュータント・イエティ
+PROPMOVER_TXT_550204,Mammoth,マンモス
+PROPMOVER_TXT_550205,Ghost of the Forgotten Prince,プリンス・ゴースト
+PROPMOVER_TXT_550206,Mutant Augu,ミュータント・アウグ
+PROPMOVER_TXT_550207,[Shade Lieutenant] Kriton,[シェードの右腕] クリトン
+PROPMOVER_TXT_550208,Violet Atrox,バイオレット・アトロックス
+PROPMOVER_TXT_550209,Violet Creper,バイオレット・シザークラブ
+PROPMOVER_TXT_550210,Violet Meral,バイオレット・メレー
+PROPMOVER_TXT_550211,Violet Tigar,バイオレット・タイガー
+PROPMOVER_TXT_550212,Violet Naga,バイオレット・ナーガ
+PROPMOVER_TXT_550213,Violet Kingster,バイオレット・キングスター
+PROPMOVER_TXT_550214,Violet Okean,バイオレット・オケアノス
+PROPMOVER_TXT_550215,Violet Dorian,バイオレット・ドリアン
+PROPMOVER_TXT_550216,Violet Kraken,バイオレット・クラーケン
+PROPMOVER_TXT_550217,Giant Atrox,ジャイアント・アトロックス
+PROPMOVER_TXT_550218,Giant Creper,ジャイアント・シザークラブ
+PROPMOVER_TXT_550219,Giant Meral,ジャイアント・メレー
+PROPMOVER_TXT_550220,Giant Tigar,ジャイアント・タイガー
+PROPMOVER_TXT_550221,Giant Naga,ジャイアント・ナーガ
+PROPMOVER_TXT_550222,Giant Kingster,ジャイアント・キングスター
+PROPMOVER_TXT_550223,Giant Okean,ジャイアント・オケアノス
+PROPMOVER_TXT_550224,Giant Dorian,ジャイアント・ドリアン
+PROPMOVER_TXT_550225,Giant Kraken,ジャイアント・クラーケン
+PROPMOVER_TXT_550226,Atrox,アトロックス
+PROPMOVER_TXT_550227,Creper,シザークラブ
+PROPMOVER_TXT_550228,Meral,メレー
+PROPMOVER_TXT_550229,Tigar,タイガー
+PROPMOVER_TXT_550230,Naga,ナーガ
+PROPMOVER_TXT_550231,Kingster,キングスター
+PROPMOVER_TXT_550232,Okean,オケアノス
+PROPMOVER_TXT_550233,Dorian,ドリアン
+PROPMOVER_TXT_550234,Kraken,クラーケン
+PROPMOVER_TXT_550235,[Queen of Thorns] Entaness,[棘の女王] エンタネス
+PROPMOVER_TXT_550236,Violet Hundur Sharpfoot,バイオレット・ワークウルフ
+PROPMOVER_TXT_550237,Violet Kyouchish,バイオレット・ライカンセンチネル
+PROPMOVER_TXT_550238,Violet Samoset,バイオレット・ライカンガード
+PROPMOVER_TXT_550239,Violet Kanonicus,バイオレット・ライカンアーチャー
+PROPMOVER_TXT_550240,Violet Mage Redcloud,バイオレット・ライカンソーサラー
+PROPMOVER_TXT_550241,Violet Taiaha,バイオレット・ライカンウォーリアー
+PROPMOVER_TXT_550242,Violet Hellhound,バイオレット・スケルトンジャッカル
+PROPMOVER_TXT_550243,Giant Hundur Sharpfoot,ジャイアント・ワークウルフ
+PROPMOVER_TXT_550244,Giant Kyouchish,ジャイアント・ライカンセンチネル
+PROPMOVER_TXT_550245,Giant Samoset,ジャイアント・ライカンガード
+PROPMOVER_TXT_550246,Giant Kanonicus,ジャイアント・ライカンアーチャー
+PROPMOVER_TXT_550247,Giant Mage Redcloud,ジャイアント・ライカンソーサラー
+PROPMOVER_TXT_550248,Giant Taiaha,ジャイアント・ライカンウォーリアー
+PROPMOVER_TXT_550249,Giant Hellhound,ジャイアント・スケルトンジャッカル
+PROPMOVER_TXT_550250,Hundur Sharpfoot,ワークウルフ
+PROPMOVER_TXT_550251,Kyouchish,ライカンセンチネル
+PROPMOVER_TXT_550252,Samoset,ライカンガード
+PROPMOVER_TXT_550253,Kanonicus,ライカンアーチャー
+PROPMOVER_TXT_550254,Mage Redcloud,ライカンソーサラー
+PROPMOVER_TXT_550255,Taiaha,ライカンウォーリアー
+PROPMOVER_TXT_550256,Hellhound,スケルトンジャッカル
+PROPMOVER_TXT_550257,Frostfang Tiger,フロストファングタイガー
+PROPMOVER_TXT_550258,Sunmane Lion,サンメインライオン
+PROPMOVER_TXT_550259,Crimson Frog,クリムゾンフロッグ
+PROPMOVER_TXT_550260,Golden Butterfly,ゴールデンバタフライ
+PROPMOVER_TXT_550261,King Croak,キングクローク
+PROPMOVER_TXT_550262,Mischief Monkey,ミスチーフモンキー
+PROPMOVER_TXT_550263,Azure Butterfly,アズールバタフライ
+PROPMOVER_TXT_550264,Mummy Bear,マミーベア
+PROPMOVER_TXT_550265,Sir Whiskers,サー・ウィスカーズ
+PROPMOVER_TXT_550266,Agent Bark,エージェントバーク
+PROPMOVER_TXT_550267,Tiny Crusader,タイニークルセイダー
+PROPMOVER_TXT_550268,Sergeant Bananas,サージェントバナナズ
+PROPMOVER_TXT_550269,Officer Paws,オフィサーポーズ
+PROPMOVER_TXT_550270,Champion Teddy,チャンピオンテディ
+PROPMOVER_TXT_550271,Rosefang Tiger,ローズファングタイガー
+PROPMOVER_TXT_550272,Auric Lion,オーリックライオン
+PROPMOVER_TXT_550273,Moonmane Lion,ムーンメインライオン
+PROPMOVER_TXT_550274,Nightscale Dragon,ナイトスケールドラゴン
+PROPMOVER_TXT_550275,Stormscale Dragon,ストームスケールドラゴン
+PROPMOVER_TXT_550276,Verdant Dragon,ヴァーダントドラゴン
