@@ -4540,8 +4540,8 @@ PROPITEM_TXT_009259,"A cute, little Maid Cardpuppet that follows its master arou
 PROPITEM_TXT_009260,Little Mia,小さなミーア
 PROPITEM_TXT_009261,"A cute, little Mia that follows its master around and picks up dropped items",主人の後をついて回り、落としたものを拾ってくれるかわいいミーアです。
 PROPITEM_TXT_009274,Baby Black Dragon,ブラックドラゴン
-PROPITEM_TXT_009610,Baby Yetti,ファミリア・イエティン
-PROPITEM_TXT_009611,This little guy picks up items for the highest level players.,ファミリア・イエティンを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
+PROPITEM_TXT_009610,Baby Yetti,ファミリア・イエティ
+PROPITEM_TXT_009611,This little guy picks up items for the highest level players.,ファミリア・イエティを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
 PROPITEM_TXT_010272,English Bulldog,ゴウダンブルドッグ
 PROPITEM_TXT_010273,English Bulldog that follows its owner around and picks up dropped items.,ゴウダンブルドッグを召喚し、ドロップしたアイテムを拾ってくれる収集ペット
 PROPITEM_TXT_010274,Naughty Ghost,幼いゴースト
@@ -4808,7 +4808,7 @@ PROPITEM_TXT_018741,Emerald Boots (M),エメラルドブーツ（男）
 PROPITEM_TXT_010745,A cute Red Riding Hood Hat for Female Characters. 'Beware of wolves in grandma's clothing'.,かわいい赤いずきんハット。「おばあちゃんの服を着たオオカミに注意してください」。
 PROPITEM_TXT_009847,Traditional German shoes for female characters.,伝統的なドイツの靴。
 PROPITEM_TXT_011173,Detective Hat for female characters.,探偵帽子。
-PROPITEM_TXT_010788,Yetti Gloves (F),イエティンハンド(女の子用)
+PROPITEM_TXT_010788,Yetti Gloves (F),イエティハンド(女の子用)
 PROPITEM_TXT_012902,Helmet of the Setting Sun (F),エビルシェードヘルム(女の子用)
 PROPITEM_TXT_010442,Spacesuit Gloves (F),コズミックグローブ(女の子用)
 PROPITEM_TXT_011931,The Chi Shoes for female characters. Channel your Chi and POWER UP!,チーシューズ。カイをチャネリングしてパワーアップ！
@@ -4937,7 +4937,7 @@ PROPITEM_TXT_016531,Dreamweaver Mask,ドリームウィーバーマスク
 PROPITEM_TXT_010187,This Cloak has a full length depiction of the flag of Colombia on it.,このマントにはコロンビアの国旗が描かれています。 
 PROPITEM_TXT_010250,Star Sign Cloak (Serpent),十三星座のマント(へびつかい座)
 PROPITEM_TXT_013788,Casanova Suit (M),ラブエンジェルジャケット(男の子用)
-PROPITEM_TXT_010776,Yetti Suit (M),イエティンニット(男の子用)
+PROPITEM_TXT_010776,Yetti Suit (M),イエティニット(男の子用)
 PROPITEM_TXT_014228,Colosseum Champion's Shoes (F),栄光のレッドシューズ(女の子用)
 PROPITEM_TXT_011999,Leprechaun Shoes for female characters. Useful for traversing rainbows when searching for pots of gold.,レプラコーンシューズ。金の壺を探すときに虹を横断するのに便利です。
 PROPITEM_TXT_011143,Power Armor Helmet for male characters with strong neck muscles.,パワーアーマーヘルメット。
@@ -4962,7 +4962,7 @@ PROPITEM_TXT_011155,The circuitry in this suit hums with the power to knock down
 PROPITEM_TXT_010941,Cyber Punk Hat for male characters. Who you callin' a punk?!,サイバーパンクハット。誰をパンクと呼んでいますか？！
 PROPITEM_TXT_012439,The female Yukata Set has a Bijin theme and is designed to reflect the beauty of all women!,女性用浴衣セットは「美人」をテーマに、女性の美しさを表現しています。
 PROPITEM_TXT_016035,Gloves of the Aibatt (F),ブリティッシュガントレット(女の子用)
-PROPITEM_TXT_010790,Yetti Shoes (F),イエティンフット(女の子用)
+PROPITEM_TXT_010790,Yetti Shoes (F),イエティフット(女の子用)
 PROPITEM_TXT_011134,Space Cadet Uniform (F),宇宙の制服衣装(女の子用)
 PROPITEM_TXT_015180,Warrior's Suit (F),勇士の衣装(女の子用)
 PROPITEM_TXT_009981,Traditional Chile Shoes for female characters.,伝統的なチリの靴。
@@ -5046,7 +5046,7 @@ PROPITEM_TXT_010222,Panda Shoes (F),パンダ後足(女の子用)
 PROPITEM_TXT_009942,Event Wind Wig (Brown) (M),シャギーヘアー・ブラウン(男の子用)(取引不可)
 PROPITEM_TXT_020385,Black Wedding Hat (F),ブラックウェディングハット(F)
 PROPITEM_TXT_015284,FWC 2011 Golden Suit (F),FWC1位記念ウェア（女の子用）
-PROPITEM_TXT_010784,Yetti Hat (F),イエティンキャップ(女の子用)
+PROPITEM_TXT_010784,Yetti Hat (F),イエティキャップ(女の子用)
 PROPITEM_TXT_018733,Regal Crown (F),帝王クラウン（女）
 PROPITEM_TXT_011156,FV-13 Power Armor Gloves (F),強鉄手袋(女の子用)
 PROPITEM_TXT_010188,Cloak of Mexico,ワールドフリフマント(メキシコ)
@@ -5125,7 +5125,7 @@ PROPITEM_TXT_013496,Mistletoe Shoes (F),ラブリィクリスマスブーツ(女
 PROPITEM_TXT_020380,Black Wedding Gloves for Male Characters.,ブラックウェディンググローブ(男の子用)。
 PROPITEM_TXT_009706,Modern Black Swimsuit (M),競泳用水着・ブラック(男の子用)
 PROPITEM_TXT_011805,A beautifully crafted cloak adorned with a symbol that represents the eleventh Lunar Year. The eleventh Lunar Year is dedicated to the Dog.,11番目の干支の年を表すシンボルで飾られた美しく細工されたマント。11番目の干支は戌です。
-PROPITEM_TXT_010778,Yetti Gloves (M),イエティンハンド(男の子用)
+PROPITEM_TXT_010778,Yetti Gloves (M),イエティハンド(男の子用)
 PROPITEM_TXT_011786,Cloak of the Ox,十二支マント(丑)
 PROPITEM_TXT_016819,Casual Beanie (M),Casual beanie
 PROPITEM_TXT_012265,This Cloak has a full length depiction of the flag of Nigeria on it .,このマントにはナイジェリアの国旗が描かれています。
@@ -5269,7 +5269,7 @@ PROPITEM_TXT_010206,Panda Hat (M),パンダの頭(男の子用)
 PROPITEM_TXT_009896,Traditional Philippines Shoes (M),フィリピンシューズ(男の子用)
 PROPITEM_TXT_020627,Red Snowman Gloves (F),レッドスノーマングローブ(F)
 PROPITEM_TXT_011023,Bathroom Slippers for male characters.,バスルームスリッパ。
-PROPITEM_TXT_010786,Yetti Suit (F),イエティンニット(女の子用)
+PROPITEM_TXT_010786,Yetti Suit (F),イエティニット(女の子用)
 PROPITEM_TXT_020620,Blue Snowman Shoes for Male Characters.,ブルースノーマンシューズ(男の子用)。
 PROPITEM_TXT_013580,Reconnaissance Hat (M),ミリタリーヘッドギア(男の子用)
 PROPITEM_TXT_016305,Sacred Snail Cloak,イイゼ！マント
@@ -5325,7 +5325,7 @@ PROPITEM_TXT_013802,Heartbreaker Shoes (F),ラブエンジェルシューズ(女
 PROPITEM_TXT_017037,Frog Gloves 2015 (F),けろけろ前足(女の子用)
 PROPITEM_TXT_010415,"Gothic Shoes for male characters. 'Darkness, pain, and sorrow'.",男の子用のゴシックシューズ。「闇、苦痛、悲哀」が己の全てだ。
 PROPITEM_TXT_008684,2008 Yukata (M),山吹の浴衣(男の子用)
-PROPITEM_TXT_010774,Yetti Hat (M),イエティンキャップ(男の子用)
+PROPITEM_TXT_010774,Yetti Hat (M),イエティキャップ(男の子用)
 PROPITEM_TXT_011791,A beautifully crafted cloak adorned with a symbol that represents the fourth Lunar Year. The fourth Lunar Year is dedicated to the Rabbit.,4番目の干支の年を表すシンボルで飾られた美しく細工されたマント。4番目の干支は兔です。
 PROPITEM_TXT_010246,Star Sign Cloak (Aquarius),十二星座のマント(みずがめ座)
 PROPITEM_TXT_010744,Red Riding Hood Hat (F),ストロベリーフード(女の子用)
@@ -5595,7 +5595,7 @@ PROPITEM_TXT_009800,Cloak of Venezuela,ワールドフリフマント(ベネズ�
 PROPITEM_TXT_010714,Red Cherry Blossom Geta (F),日和下駄(女の子用)
 PROPITEM_TXT_017192,Wedding Ring for Female Characters,結婚指輪
 PROPITEM_TXT_017907,Purple Bunny Yukata Suit (F),うさうさ浴衣(パープル)(女の子用)
-PROPITEM_TXT_010780,Yetti Shoes (M),イエティンフット(男の子用)
+PROPITEM_TXT_010780,Yetti Shoes (M),イエティフット(男の子用)
 PROPITEM_TXT_015082,Indonesia Cloak 1,Batik Indonesia
 PROPITEM_TXT_014172,Samba Hat (M),サンバハット(男の子用)
 PROPITEM_TXT_011962,Mad Hatter Gloves (M),マッドハッターグローブ(男の子用)
@@ -7997,10 +7997,10 @@ PROPITEM_TXT_101362,Shade Child Green Gloves (M),シェードチャイルドグ�
 PROPITEM_TXT_101363,Shade Child Black Gloves (M),シェードチャイルドブラックグローブ(M)
 PROPITEM_TXT_101364,Shade Child Yellow Gloves (M),シェードチャイルドイエローグローブ(M)
 PROPITEM_TXT_101365,Shade Child Gloves for male characters.,男の子用シェードチャイルドグローブ
-PROPITEM_TXT_010782,Yetti Set (M),イエティンセット(男の子用)
-PROPITEM_TXT_010783,This box contains a Male Yetti Set.,男の子用のイエティンセットが入っているボックス。
-PROPITEM_TXT_010792,Yetti Set (F),イエティンセット(女の子用)
-PROPITEM_TXT_010793,This box contains a Female Yetti Set.,女の子用のイエティンセットが入っているボックス。
+PROPITEM_TXT_010782,Yetti Set (M),イエティセット(男の子用)
+PROPITEM_TXT_010783,This box contains a Male Yetti Set.,男の子用のイエティセットが入っているボックス。
+PROPITEM_TXT_010792,Yetti Set (F),イエティセット(女の子用)
+PROPITEM_TXT_010793,This box contains a Female Yetti Set.,女の子用のイエティセットが入っているボックス。
 PROPITEM_TXT_101367,Clockworks +1 Ring Box,クロックワークス +1 リング ボックス
 PROPITEM_TXT_101368,"Select if you want to receive Strente +1, Intiret +1 or Dexion +1.",STR＋1、INT+1、DEX+1のいずれかを選択します。
 PROPITEM_TXT_101369,Clockworks +2 Ring Box,クロックワークス +2 リングボックス
