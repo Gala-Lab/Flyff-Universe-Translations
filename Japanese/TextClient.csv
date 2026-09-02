@@ -1096,7 +1096,7 @@ TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,こ
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,アップグレードは大失敗でした。
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,アップグレードは大成功!
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,この項目は対象には使用できません。
-TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティメット武器の作成」メニューで使用できます
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティマ武器の作成」メニューで使用できます
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,最初にターゲット項目を設定する必要があります。
 TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルド船に入札するには、ギルドの一員である必要があります。
 TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルド船を購入できるのはギルドリーダーだけです。
