@@ -2024,7 +2024,7 @@ UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,前走のラ�
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,現在、募集期間はございません。
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,次戦: 
 UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,アルティマ武器作成
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",アルティマ武器変換\n装備レベル140以上のアルティマ武器を作成できます。+10の武器をアルティマ武器に変換できます。変換は失敗せず、変換には3つの輝くオリハルコン、3つのアルティマオーブ、1億ペニャが必要です。アルティマ武器は、すべての属性精錬とソケット数を保持したまま変換されます。
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",レベル150以上のユニーク武器はアルティマ武器に変換できます。\n変換するには、ユニーク武器を+10までアップグレードしたうえで、輝くオリハルコン3つ、アルティマオーブ3つ、1億ペニャが必要です。アルティマ武器は、変換時にすべての属性精錬・ソケット・ステータスを保持します。
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,続行しますか?
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,このアイテムには使用できません。
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,アイテムは最大アップグレードレベルでのみ変換できます。
