@@ -745,6 +745,7 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,%s hat das Duell verloren!
 UI_CASHSHOP_RELOAD,TOP-UP,AUFLADEN
 UI_CASHSHOP_LEGALINFO,Legal Information,rechtliche Hinweise
 UI_CASHSHOP_GSC,General Sales Conditions,Allgemeine Verkaufsbedingungen
+UI_CASHSHOP_TOS,Terms of Service,Terms of Service
 UI_CASHSHOP_SHOWALL,Show All,Zeige alles
 UI_CASHSHOP_SEARCH,Search:,Suche:
 UI_CASHSHOP_SORT_DEFAULT,Default,Zurücksetzen
@@ -877,7 +878,7 @@ UI_APP_STATUS_TIP,View your character's status.,Charakter Status
 UI_APP_CHAT_TIP,Show/hide the chat window.,Öffnet das Chatfenster.
 UI_APP_QUIT_TIP,Exit the game.,Spiel beenden
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Kundensupport öffnen.
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,Datenschutzeinstellungen öffnen.
+UI_APP_PRIVACY_TIP,Open cookie settings.,Datenschutzeinstellungen öffnen.
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Ausloggen
 UI_APP_OPTION_TIP,Open the game's options window.,Optionen-Fenster des Spiels öffnen.
 UI_APP_MAP_TIP,View the world map.,Eine Karte der Welt
@@ -3487,3 +3488,5 @@ UI_WAVEDEFENSE_STATUS_LEAVE,Leave,Verlassen
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,"Bist du sicher, dass du das Match verlassen möchtest?"
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC-Meisterschaftspass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Tägliche Belohnung: %d / %d heute abgeholt
+UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."

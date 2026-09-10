@@ -723,7 +723,7 @@ PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies aff
 PROPSKILL_TXT_140093,Advanced Trap,Trampa avanzada
 PROPSKILL_TXT_140094,Increases your traps’ range.,Aumenta el alcance de tus trampas.
 PROPSKILL_TXT_140095,Devastating Sting,Aguijón devastador
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Aumenta el daño infligido por los ataques normales.
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,Aumenta el daño infligido por los ataques normales.
 PROPSKILL_TXT_140097,Nearby Shot,Disparo a distancia
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Aumenta el daño de los ataques automáticos cuando estás a más de 5 m de tu objetivo.
 PROPSKILL_TXT_140099,Feeble Arms,Brazos débiles
@@ -979,8 +979,8 @@ PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreas
 PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,Los golpes tienen probabilidad de inmovilizar enemigos.
 PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,La probabilidad de aplicar veneno aumenta por golpe.
 PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.","La duración del ataque en cadena aumenta, pero el número de ataques pasa de 3 a 8. El tiempo de reutilización aumenta."
-PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,Inflige daño adicional a objetivos dentro de 3 m.
-PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,Inflige daño adicional a objetivos a más de 5 m.
+PROPSKILL_TXT_150440,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets within 3m.,Inflige daño adicional a objetivos dentro de 3 m.
+PROPSKILL_TXT_150441,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets further than 5m.,Inflige daño adicional a objetivos a más de 5 m.
 PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.","La mejora se aplica a los miembros del grupo dentro del alcance, excluyéndote."
 PROPSKILL_TXT_150443,The chance to fire double arrows increases.,Aumenta la probabilidad de disparar flechas dobles.
 PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,Aumenta la distancia de retroceso del objetivo.

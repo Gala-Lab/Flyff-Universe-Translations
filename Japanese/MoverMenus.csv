@@ -2,7 +2,7 @@
 MMI_0,Dialog,ダイアログ
 MMI_1,Quest,クエスト
 MMI_2,Trade,取引
-MMI_3,Attack,攻撃力
+MMI_3,Attack,攻撃する
 MMI_4,Message,メッセージ
 MMI_5,Add to my list,メッセンジャーに追加
 MMI_6,Invite to join party,パーティーへ招待
@@ -82,20 +82,20 @@ MMI_1014,Exchange Dice,ダイスの交換
 MMI_1015,Pet Sacrificing,ペットサクリファイス
 MMI_1016,Red Chip Shop,レッドチップショップ
 MMI_1017,Cosmetic Wardrobe,コスメティックワードローブ
-MMI_1018,Lv80 GS Apply,Lv80 GS適用
-MMI_1019,Lv80 GS Status,Lv80 GSステータス
-MMI_1020,Lv80 GS Cancel,Lv80 GSキャンセル
-MMI_1021,Lv80 GS Enter,Lv80 GSジョイン
-MMI_1022,Lv80 GS Lineup Setup,Lv80 GSラインナップ
-MMI_1023,Lv80 GS Ranking,Lv80GSランキング
-MMI_1024,Lv80 GS Information,Lv80GS情報
-MMI_1025,Lv60 GS Apply,Lv60GS適用
-MMI_1026,Lv60 GS Status,Lv60 GSステータス
-MMI_1027,Lv60 GS Cancel,Lv60 GSキャンセル
-MMI_1028,Lv60 GS Enter,Lv60 GS ジョイン
-MMI_1029,Lv60 GS Lineup Setup,Lv60 GSラインナップ
-MMI_1030,Lv60 GS Ranking,Lv60GSランキング
-MMI_1031,Lv60 GS Information,Lv60GS情報
+MMI_1018,Lv80 GS Apply,Lv80 GS 申請
+MMI_1019,Lv80 GS Status,Lv80 GS 申請状況
+MMI_1020,Lv80 GS Cancel,Lv80 GS キャンセル
+MMI_1021,Lv80 GS Enter,Lv80 GS 入場
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GS チーム編成
+MMI_1023,Lv80 GS Ranking,Lv80 GS ランキング
+MMI_1024,Lv80 GS Information,Lv80 GS 情報
+MMI_1025,Lv60 GS Apply,Lv60 GS 申請
+MMI_1026,Lv60 GS Status,Lv60 GS 申請状況
+MMI_1027,Lv60 GS Cancel,Lv60 GS キャンセル
+MMI_1028,Lv60 GS Enter,Lv60 GS 入場
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GS チーム編成
+MMI_1030,Lv60 GS Ranking,Lv60 GS ランキング
+MMI_1031,Lv60 GS Information,Lv60 GS 情報
 MMI_1032,Blue Chip Shop,ブルーチップショップ
 MMI_1033,Valentine's Letter Exchange,バレンタインレター交換
 MMI_1034,Dungeon,ダンジョン
@@ -188,13 +188,13 @@ MMI_2032,PTS Exchange (New Equipment),PTS交換(新装備)
 MMI_2033,Item Exchange,アイテム交換
 MMI_1118,The Last Beacon,ザ・ラストビーコン
 MMI_1119,Re-join Last Beacon match,ザ・ラストビーコンのマッチに再参加
-MMI_1122,Lv165 GS Apply,Lv165 GS適用
-MMI_1123,Lv165 GS Status,Lv165 GSステータス
-MMI_1124,Lv165 GS Cancel,Lv165 GSキャンセル
-MMI_1125,Lv165 GS Join,Lv165 GSジョイン
-MMI_1126,Lv165 GS Line Up,Lv165 GSラインナップ
-MMI_1127,Lv165 GS Ranking,Lv165GSランキング
-MMI_1128,Lv165 GS Information,Lv165GS情報
+MMI_1122,Lv165 GS Apply,Lv165 GS 申請
+MMI_1123,Lv165 GS Status,Lv165 GS 申請状況
+MMI_1124,Lv165 GS Cancel,Lv165 GS キャンセル
+MMI_1125,Lv165 GS Join,Lv165 GS 入場
+MMI_1126,Lv165 GS Line Up,Lv165 GS チーム編成
+MMI_1127,Lv165 GS Ranking,Lv165 GS ランキング
+MMI_1128,Lv165 GS Information,Lv165 GS 情報
 MMI_1129,Yellow Chip Shop 2,イエローチップショップ2
 MMI_1130,Red Chip Shop 2,レッドチップショップ2
 MMI_1131,Kalgas Chip Shop 2,カルガスチップショップ2

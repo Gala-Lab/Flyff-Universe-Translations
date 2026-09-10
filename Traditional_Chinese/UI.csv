@@ -745,6 +745,7 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,%s 在決鬥中落敗！
 UI_CASHSHOP_RELOAD,TOP-UP,儲值
 UI_CASHSHOP_LEGALINFO,Legal Information,法規資訊
 UI_CASHSHOP_GSC,General Sales Conditions,一般銷售條款
+UI_CASHSHOP_TOS,Terms of Service,Terms of Service
 UI_CASHSHOP_SHOWALL,Show All,全部
 UI_CASHSHOP_SEARCH,Search:,搜尋：
 UI_CASHSHOP_SORT_DEFAULT,Default,預設
@@ -877,7 +878,7 @@ UI_APP_STATUS_TIP,View your character's status.,檢視你的角色狀態。
 UI_APP_CHAT_TIP,Show/hide the chat window.,開啟/隱藏聊天視窗。
 UI_APP_QUIT_TIP,Exit the game.,結束遊戲。
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,開啟客服中心。
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,開啟隱私權設定。
+UI_APP_PRIVACY_TIP,Open cookie settings.,開啟隱私權設定。
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,登出
 UI_APP_OPTION_TIP,Open the game's options window.,選項
 UI_APP_MAP_TIP,View the world map.,檢視世界地圖。
@@ -3487,3 +3488,5 @@ UI_WAVEDEFENSE_STATUS_LEAVE,Leave,Leave
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Are you sure you want to leave the match?
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today
+UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."

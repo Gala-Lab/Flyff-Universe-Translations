@@ -723,7 +723,7 @@ PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies aff
 PROPSKILL_TXT_140093,Advanced Trap,Advanced Trap
 PROPSKILL_TXT_140094,Increases your traps’ range.,Increases your traps’ range.
 PROPSKILL_TXT_140095,Devastating Sting,Devastating Sting
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Increases damage dealt by normal attacks.
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,Increases damage dealt by normal attacks and increases PvE damage.
 PROPSKILL_TXT_140097,Nearby Shot,Nearby Shot
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Increased damage for auto attacks when you more than 5m from your target.
 PROPSKILL_TXT_140099,Feeble Arms,Feeble Arms
@@ -979,8 +979,8 @@ PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreas
 PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,Hits have a chance to immobilize enemies.
 PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,Chance to inflict poison status increases per hit.
 PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.","Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases."
-PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,Deals additional damage to targets within 3m.
-PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,Deals additional damage to targets further than 5m.
+PROPSKILL_TXT_150440,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets within 3m.,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets within 3m.
+PROPSKILL_TXT_150441,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets further than 5m.,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets further than 5m.
 PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.","Buff applies to party members within range, excluding yourself."
 PROPSKILL_TXT_150443,The chance to fire double arrows increases.,The chance to fire double arrows increases.
 PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,The distance over which the target is knocked back increases.

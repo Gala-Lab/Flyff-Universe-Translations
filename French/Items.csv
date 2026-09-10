@@ -19046,12 +19046,12 @@ PROPITEM_TXT_134661,Statted Yin-Yang Cloak,Cape Yin-Yang Statée
 PROPITEM_TXT_134662,Statted Yin-Yang Cloak (7 Days),Cape Yin-Yang Statée (7 Jours)
 PROPITEM_TXT_134663,Select which Statted Yin-Yang Cloak you would like to receive (7 Days)!,Sélectionnez la Cape Yin-Yang Statée que vous souhaitez recevoir (7 Jours) !
 PROPITEM_TXT_134664,Card Disc (7 Days),Disque de Carte (7 Jours)
-PROPITEM_TXT_134665,Violet Peakyturtle Vendor Shop (7 Days),Boutique du Violet Peakyturtle (7 Jours)
+PROPITEM_TXT_134665,Violet Peakyturtle Vendor Shop,Boutique du Violet Peakyturtle (7 Jours)
 PROPITEM_TXT_134666,This cute Violet Peakyturtle manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (3 Days),Ce mignon Violet Peakyturtle gère une boutique personnelle pour vous ! Double-cliquez pour fermer la boutique. Vous récupérez l'objet lorsque la boutique est fermée. (3 Jours)
-PROPITEM_TXT_134667,Violet Mia Vendor Shop (7 Days),Boutique du Violet Mia (7 Jours)
-PROPITEM_TXT_134668,This cute Violet Mia manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),Ce mignon Violet Mia gère une boutique personnelle pour vous ! Double-cliquez pour fermer la boutique. Vous récupérez l'objet lorsque la boutique est fermée. (7 Jours)
-PROPITEM_TXT_134669,Violet Nautrepy Vendor Shop (7 Days),Boutique du Violet Nautrepy (7 Jours)
-PROPITEM_TXT_134670,This cute Violet Nautrepy manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),Ce mignon Violet Nautrepy gère une boutique personnelle pour vous ! Double-cliquez pour fermer la boutique. Vous récupérez l'objet lorsque la boutique est fermée. (7 Jours)
+PROPITEM_TXT_134667,Violet Mia Vendor Shop,Boutique du Violet Mia (7 Jours)
+PROPITEM_TXT_134668,This cute Violet Mia manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (3 Days),Ce mignon Violet Mia gère une boutique personnelle pour vous ! Double-cliquez pour fermer la boutique. Vous récupérez l'objet lorsque la boutique est fermée. (7 Jours)
+PROPITEM_TXT_134669,Violet Nautrepy Vendor Shop,Boutique du Violet Nautrepy (7 Jours)
+PROPITEM_TXT_134670,This cute Violet Nautrepy manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (3 Days),Ce mignon Violet Nautrepy gère une boutique personnelle pour vous ! Double-cliquez pour fermer la boutique. Vous récupérez l'objet lorsque la boutique est fermée. (7 Jours)
 PROPITEM_TXT_134672,Brilliant Amethyst,Améthyste Brillante
 PROPITEM_TXT_134673,Sausage Casserole (B),Cassolettes de Saucisse (B)
 PROPITEM_TXT_134674,Sausage Casserole (A),Cassolettes de Saucisse (A)
@@ -19545,15 +19545,15 @@ PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and
 PROPITEM_TXT_145003,Pet Reroll Scroll,Parchemin de Relance de Familier
 PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Permet de relancer le niveau d’un palier de familier. Une fois que vous choisissez de relancer un palier, tous les autres paliers ne pourront plus être relancés avec un parchemin de relance."
 PROPITEM_TXT_145005,Scale of Luminfin,Écaille de Luminfin
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente. [Contribution Guilde : 83].
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,"Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente. [Contribution Guilde : 83].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145007,Magic water stone,Pierre Magique d’Eau
 PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,Objet de quête : Pierre Magique d’Eau pour aider à identifier la zone.
 PROPITEM_TXT_145009,Magic Water Stone analysis results,Résultats de l'analyse de la Pierre Magique d’Eau
 PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?","Objet de quête : Résultats de l'analyse de la Pierre Magique d’Eau, est-ce vraiment Herneos ?"
 PROPITEM_TXT_145011,Dreadfin Tooth,Dent de Dreadfin
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat. [Contribution Guilde : 73].
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,"Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat. [Contribution Guilde : 73].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145013,Dreadscale Medallion,Médaille Dreadscale
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance. [Contribution Guilde : 82].
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,"Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance. [Contribution Guilde : 82].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Boîte NPC Aléatoire pour Logement (7 jours)
 PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contient un NPC aléatoire pour logement de 7 jours. Le NPC sera lié à votre personnage du joueur.
 PROPITEM_TXT_145017,Shop Advertisement (Gold),Publicité de Boutique (Or)
@@ -23375,7 +23375,7 @@ PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 min
 PROPITEM_TXT_134839,2025 FWC Yellow PopCorn,PopCorn Jaune FWC 2025
 PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.,Cet PopCorn Jaune FWC 2025 vous donnera +25 STA pendant 30 minutes
 PROPITEM_TXT_134841,Fortune Pang,Pang Fortune
-PROPITEM_TXT_134842,Pick up pet,Animal de compagnie à récupérer
+PROPITEM_TXT_134842,Pick up pet,Un petit pang chanceux qui suit son maître et ramasse les objets laissé dernière lui.
 PROPITEM_TXT_134843,Obsidian Flame Weapon Skin Select Box,Boîte de Sélection Apparence Arme Obsidian Flame
 PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection.,Sélectionnez votre couleur préférée dans la collection Obsidian Flame
 PROPITEM_TXT_134845,Autumn Upgrade Package A,Pack d'Amélioration Automne A
@@ -27214,6 +27214,7 @@ PROPITEM_TXT_904181,CN Muppet,Marionnette Chine
 PROPITEM_TXT_904182,KR Muppet,Marionnette Corée
 PROPITEM_TXT_904185,Concerned Emote,Émote Préoccupé
 PROPITEM_TXT_904186,Embarassed Emote,Émote Embarrassé
+PROPITEM_TXT_904187,Angry Emote,Angry Emote
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)","Coffre de compensation - Problème de connexion Facebook (7 jours, FWC uniquement)"
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Ce pack contient une compensation pour le problème de connexion avec Facebook.
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Coffre de compensation - Problème de connexion Facebook (7 jours)
@@ -29696,3 +29697,587 @@ PROPITEM_TXT_161146,Nyangnyang Cage,Cage de Nyangnyang
 PROPITEM_TXT_161147,A sneaky feline creature found around Flaris.,Une créature féline sournoise que l'on trouve à Flaris.
 PROPITEM_TXT_161148,Bang Cage,Cage de Bang
 PROPITEM_TXT_161149,A large and powerful creature of Flaris.,Une créature imposante et puissante de Flaris.
+PROPITEM_TXT_1902823,Mirage Born 10% Red Set,Ensemble rouge Mirage Born 10 %
+PROPITEM_TXT_1902824,Mirage Born Red Wings,Ailes rouges Mirage Born
+PROPITEM_TXT_1902825,Mirage Born Red Horus Eyepatch,Pansement oculaire d'Horus rouge Mirage Born
+PROPITEM_TXT_1902826,Mirage Born Red Hat (M),Chapeau rouge Mirage Born (M)
+PROPITEM_TXT_1902827,Mirage Born Red Suit (M),Tenue rouge Mirage Born (M)
+PROPITEM_TXT_1902828,Mirage Born Red Shoes (M),Chaussures rouges Mirage Born (M)
+PROPITEM_TXT_1902829,Mirage Born 10% Red Set (M),Ensemble rouge Mirage Born 10 % (M)
+PROPITEM_TXT_1902830,The Mirage Born 10% Red Set for male characters.,L'ensemble rouge Mirage Born 10 % pour les personnages masculins.
+PROPITEM_TXT_1902831,Mirage Born Red Hat (F),Chapeau rouge Mirage Born (F)
+PROPITEM_TXT_1902832,Mirage Born Red Suit (F),Tenue rouge Mirage Born (F)
+PROPITEM_TXT_1902833,Mirage Born Red Shoes (F),Chaussures rouges Mirage Born (F)
+PROPITEM_TXT_1902834,Mirage Born 10% Red Set (F),Ensemble rouge Mirage Born 10 % (F)
+PROPITEM_TXT_1902835,The Mirage Born 10% Red Set for female characters.,L'ensemble rouge Mirage Born 10 % pour les personnages féminins.
+PROPITEM_TXT_1902836,Mirage Born 10% Blue Set,Ensemble bleu Mirage Born 10 %
+PROPITEM_TXT_1902837,Mirage Born Blue Wings,Ailes bleues Mirage Born
+PROPITEM_TXT_1902838,Mirage Born Blue Horus Eyepatch,Pansement oculaire d'Horus bleu Mirage Born
+PROPITEM_TXT_1902839,Mirage Born Blue Hat (M),Chapeau bleu Mirage Born (M)
+PROPITEM_TXT_1902840,Mirage Born Blue Suit (M),Tenue bleue Mirage Born (M)
+PROPITEM_TXT_1902841,Mirage Born Blue Shoes (M),Chaussures bleues Mirage Born (M)
+PROPITEM_TXT_1902842,Mirage Born 10% Blue Set (M),Ensemble bleu Mirage Born 10 % (M)
+PROPITEM_TXT_1902843,The Mirage Born 10% Blue Set for male characters.,L'ensemble bleu Mirage Born 10 % pour les personnages masculins.
+PROPITEM_TXT_1902844,Mirage Born Blue Hat (F),Chapeau bleu Mirage Born (F)
+PROPITEM_TXT_1902845,Mirage Born Blue Suit (F),Tenue bleue Mirage Born (F)
+PROPITEM_TXT_1902846,Mirage Born Blue Shoes (F),Chaussures bleues Mirage Born (F)
+PROPITEM_TXT_1902847,Mirage Born 10% Blue Set (F),Ensemble bleu Mirage Born 10 % (F)
+PROPITEM_TXT_1902848,The Mirage Born 10% Blue Set for female characters.,L'ensemble bleu Mirage Born 10 % pour les personnages féminins.
+PROPITEM_TXT_1902849,Mirage Born 8% Pink Set,Ensemble rose Mirage Born 8 %
+PROPITEM_TXT_1902850,Mirage Born Pink Wings,Ailes roses Mirage Born
+PROPITEM_TXT_1902851,Mirage Born Pink Horus Eyepatch,Pansement oculaire d'Horus rose Mirage Born
+PROPITEM_TXT_1902852,Mirage Born Pink Hat (M),Chapeau rose Mirage Born (M)
+PROPITEM_TXT_1902853,Mirage Born Pink Suit (M),Tenue rose Mirage Born (M)
+PROPITEM_TXT_1902854,Mirage Born Pink Shoes (M),Chaussures roses Mirage Born (M)
+PROPITEM_TXT_1902855,Mirage Born 8% Pink Set (M),Ensemble rose Mirage Born 8 % (M)
+PROPITEM_TXT_1902856,The Mirage Born 8% Pink Set for male characters.,L'ensemble rose Mirage Born 8 % pour les personnages masculins.
+PROPITEM_TXT_1902857,Mirage Born Pink Hat (F),Chapeau rose Mirage Born (F)
+PROPITEM_TXT_1902858,Mirage Born Pink Suit (F),Tenue rose Mirage Born (F)
+PROPITEM_TXT_1902859,Mirage Born Pink Shoes (F),Chaussures roses Mirage Born (F)
+PROPITEM_TXT_1902860,Mirage Born 8% Pink Set (F),Ensemble rose Mirage Born 8 % (F)
+PROPITEM_TXT_1902861,The Mirage Born 8% Pink Set for female characters.,L'ensemble rose Mirage Born 8 % pour les personnages féminins.
+PROPITEM_TXT_1902862,Mirage Born 8% Purple Set,Ensemble violet Mirage Born 8 %
+PROPITEM_TXT_1902863,Mirage Born Purple Wings,Ailes violettes Mirage Born
+PROPITEM_TXT_1902864,Mirage Born Purple Horus Eyepatch,Pansement oculaire d'Horus violet Mirage Born
+PROPITEM_TXT_1902865,Mirage Born Purple Hat (M),Chapeau violet Mirage Born (M)
+PROPITEM_TXT_1902866,Mirage Born Purple Suit (M),Tenue violette Mirage Born (M)
+PROPITEM_TXT_1902867,Mirage Born Purple Shoes (M),Chaussures violettes Mirage Born (M)
+PROPITEM_TXT_1902868,Mirage Born 8% Purple Set (M),Ensemble violet Mirage Born 8 % (M)
+PROPITEM_TXT_1902869,The Mirage Born 8% Purple Set for male characters.,L'ensemble violet Mirage Born 8 % pour les personnages masculins.
+PROPITEM_TXT_1902870,Mirage Born Purple Hat (F),Chapeau violet Mirage Born (F)
+PROPITEM_TXT_1902871,Mirage Born Purple Suit (F),Tenue violette Mirage Born (F)
+PROPITEM_TXT_1902872,Mirage Born Purple Shoes (F),Chaussures violettes Mirage Born (F)
+PROPITEM_TXT_1902873,Mirage Born 8% Purple Set (F),Ensemble violet Mirage Born 8 % (F)
+PROPITEM_TXT_1902874,The Mirage Born 8% Purple Set for female characters.,L'ensemble violet Mirage Born 8 % pour les personnages féminins.
+PROPITEM_TXT_1902875,Mirage Born 6% Orange Set,Ensemble orange Mirage Born 6 %
+PROPITEM_TXT_1902876,Mirage Born Orange Wings,Ailes orange Mirage Born
+PROPITEM_TXT_1902877,Mirage Born Orange Horus Eyepatch,Pansement oculaire d'Horus orange Mirage Born
+PROPITEM_TXT_1902878,Mirage Born Orange Hat (M),Chapeau orange Mirage Born (M)
+PROPITEM_TXT_1902879,Mirage Born Orange Suit (M),Tenue orange Mirage Born (M)
+PROPITEM_TXT_1902880,Mirage Born Orange Shoes (M),Chaussures orange Mirage Born (M)
+PROPITEM_TXT_1902881,Mirage Born 6% Orange Set (M),Ensemble orange Mirage Born 6 % (M)
+PROPITEM_TXT_1902882,The Mirage Born 6% Orange Set for male characters.,L'ensemble orange Mirage Born 6 % pour les personnages masculins.
+PROPITEM_TXT_1902883,Mirage Born Orange Hat (F),Chapeau orange Mirage Born (F)
+PROPITEM_TXT_1902884,Mirage Born Orange Suit (F),Tenue orange Mirage Born (F)
+PROPITEM_TXT_1902885,Mirage Born Orange Shoes (F),Chaussures orange Mirage Born (F)
+PROPITEM_TXT_1902886,Mirage Born 6% Orange Set (F),Ensemble orange Mirage Born 6 % (F)
+PROPITEM_TXT_1902887,The Mirage Born 6% Orange Set for female characters.,L'ensemble orange Mirage Born 6 % pour les personnages féminins.
+PROPITEM_TXT_1902888,Mirage Born 4% Green Set,Ensemble vert Mirage Born 4 %
+PROPITEM_TXT_1902889,Mirage Born Green Wings,Ailes vertes Mirage Born
+PROPITEM_TXT_1902890,Mirage Born Green Horus Eyepatch,Pansement oculaire d'Horus vert Mirage Born
+PROPITEM_TXT_1902891,Mirage Born Green Hat (M),Chapeau vert Mirage Born (M)
+PROPITEM_TXT_1902892,Mirage Born Green Suit (M),Tenue verte Mirage Born (M)
+PROPITEM_TXT_1902893,Mirage Born Green Shoes (M),Chaussures vertes Mirage Born (M)
+PROPITEM_TXT_1902894,Mirage Born 4% Green Set (M),Ensemble vert Mirage Born 4 % (M)
+PROPITEM_TXT_1902895,The Mirage Born 4% Green Set for male characters.,L'ensemble vert Mirage Born 4 % pour les personnages masculins.
+PROPITEM_TXT_1902896,Mirage Born Green Hat (F),Chapeau vert Mirage Born (F)
+PROPITEM_TXT_1902897,Mirage Born Green Suit (F),Tenue verte Mirage Born (F)
+PROPITEM_TXT_1902898,Mirage Born Green Shoes (F),Chaussures vertes Mirage Born (F)
+PROPITEM_TXT_1902899,Mirage Born 4% Green Set (F),Ensemble vert Mirage Born 4 % (F)
+PROPITEM_TXT_1902900,The Mirage Born 4% Green Set for female characters.,L'ensemble vert Mirage Born 4 % pour les personnages féminins.
+PROPITEM_TXT_1902901,Mirage Born 2% Cyan Set,Ensemble cyan Mirage Born 2 %
+PROPITEM_TXT_1902902,Mirage Born Cyan Wings,Ailes cyan Mirage Born
+PROPITEM_TXT_1902903,Mirage Born Cyan Horus Eyepatch,Pansement oculaire d'Horus cyan Mirage Born
+PROPITEM_TXT_1902904,Mirage Born Cyan Hat (M),Chapeau cyan Mirage Born (M)
+PROPITEM_TXT_1902905,Mirage Born Cyan Suit (M),Tenue cyan Mirage Born (M)
+PROPITEM_TXT_1902906,Mirage Born Cyan Shoes (M),Chaussures cyan Mirage Born (M)
+PROPITEM_TXT_1902907,Mirage Born 2% Cyan Set (M),Ensemble cyan Mirage Born 2 % (M)
+PROPITEM_TXT_1902908,The Mirage Born 2% Cyan Set for male characters.,L'ensemble cyan Mirage Born 2 % pour les personnages masculins.
+PROPITEM_TXT_1902909,Mirage Born Cyan Hat (F),Chapeau cyan Mirage Born (F)
+PROPITEM_TXT_1902910,Mirage Born Cyan Suit (F),Tenue cyan Mirage Born (F)
+PROPITEM_TXT_1902911,Mirage Born Cyan Shoes (F),Chaussures cyan Mirage Born (F)
+PROPITEM_TXT_1902912,Mirage Born 2% Cyan Set (F),Ensemble cyan Mirage Born 2 % (F)
+PROPITEM_TXT_1902913,The Mirage Born 2% Cyan Set for female characters.,L'ensemble cyan Mirage Born 2 % pour les personnages féminins.
+PROPITEM_TXT_1902914,Mirage Born 2% Yellow Set,Ensemble jaune Mirage Born 2 %
+PROPITEM_TXT_1902915,Mirage Born Yellow Wings,Ailes jaunes Mirage Born
+PROPITEM_TXT_1902916,Mirage Born Yellow Horus Eyepatch,Pansement oculaire d'Horus jaune Mirage Born
+PROPITEM_TXT_1902917,Mirage Born Yellow Hat (M),Chapeau jaune Mirage Born (M)
+PROPITEM_TXT_1902918,Mirage Born Yellow Suit (M),Tenue jaune Mirage Born (M)
+PROPITEM_TXT_1902919,Mirage Born Yellow Shoes (M),Chaussures jaunes Mirage Born (M)
+PROPITEM_TXT_1902920,Mirage Born 2% Yellow Set (M),Ensemble jaune Mirage Born 2 % (M)
+PROPITEM_TXT_1902921,The Mirage Born 2% Yellow Set for male characters.,L'ensemble jaune Mirage Born 2 % pour les personnages masculins.
+PROPITEM_TXT_1902922,Mirage Born Yellow Hat (F),Chapeau jaune Mirage Born (F)
+PROPITEM_TXT_1902923,Mirage Born Yellow Suit (F),Tenue jaune Mirage Born (F)
+PROPITEM_TXT_1902924,Mirage Born Yellow Shoes (F),Chaussures jaunes Mirage Born (F)
+PROPITEM_TXT_1902925,Mirage Born 2% Yellow Set (F),Ensemble jaune Mirage Born 2 % (F)
+PROPITEM_TXT_1902926,The Mirage Born 2% Yellow Set for female characters.,L'ensemble jaune Mirage Born 2 % pour les personnages féminins.
+PROPITEM_TXT_1902927,Mirage Born Costume Lucky Box,Coffre chanceux de costume Mirage Born
+PROPITEM_TXT_1902928,This box contains a Mirage Born Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Mirage Born avec un bonus de vitesse. Vous pouvez choisir votre sexe après avoir ouvert la boîte chanceuse.
+PROPITEM_TXT_300087,Adventurer's Fortune Flask (1 Day),Fiole de fortune de l'aventurier (1 jour)
+PROPITEM_TXT_300088,Champion's Bounty Flask (1 Day),Fiole de butin du champion (1 jour)
+PROPITEM_TXT_1902929,Iblis Leanes Cage,Cage d'Iblis Leanes
+PROPITEM_TXT_1902930,A legendary foe from Saint Morning. Extremely rare!,Un ennemi légendaire de Saint Morning. Extrêmement rare !
+PROPITEM_TXT_1902931,Violet Wagsaac Cage,Cage de Wagsaac violet
+PROPITEM_TXT_1902932,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902933,Violet Flybat Cage,Cage de Flybat violet
+PROPITEM_TXT_1902934,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902935,Violet Mia Cage,Cage de Mia violette
+PROPITEM_TXT_1902936,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902937,Violet Mr. Pumpkin Cage,Cage de M. Pumpkin violet
+PROPITEM_TXT_1902938,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902939,Violet Jack the Hammer Cage,Cage de Jackammers violet
+PROPITEM_TXT_1902940,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902941,Violet Giggle Box Cage,Cage de Gigglebox violet
+PROPITEM_TXT_1902942,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902943,Violet Totemia Cage,Cage de Totemia violet
+PROPITEM_TXT_1902944,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902945,Violet Cardpuppet Cage,Cage de Puppet violet
+PROPITEM_TXT_1902946,Une créature violette rare de Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902947,Violet Dumb Bull Cage,Cage de Dumbbull violet
+PROPITEM_TXT_1902948,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902949,Violet Bucrow Cage,Cage de Bucrow violet
+PROPITEM_TXT_1902950,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902951,Violet Rock Muscle Cage,Cage de Musclor violet
+PROPITEM_TXT_1902952,A rare violet creature from Saint Morning.,Une créature violette rare de Saint Morning.
+PROPITEM_TXT_1902953,Captain Wagsaac Cage,Cage de capitaine Wagsaac
+PROPITEM_TXT_1902954,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902955,Giant Flybat Cage,Cage de géant Flybat
+PROPITEM_TXT_1902956,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902957,Captain Mia Cage,Cage de capitaine Mia
+PROPITEM_TXT_1902958,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902959,Giant Mr. Pumpkin Cage,Cage de géant Mr. Pumpkin
+PROPITEM_TXT_1902960,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902961,Giant Jack the Hammer Cage,Cage du géant Jackammers
+PROPITEM_TXT_1902962,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902963,Giant Giggle Box Cage,Cage de géant Gigglebox
+PROPITEM_TXT_1902964,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902965,Giant Totemia Cage,Cage de géant Totemia
+PROPITEM_TXT_1902966,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902967,Boss Cardpuppet Cage,Cage de Boss Puppet
+PROPITEM_TXT_1902968,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902969,Captain Dumb Bull Cage,Cage de capitaine Dumb Bull
+PROPITEM_TXT_1902970,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902971,Giant Bucrow Cage,Cage de géant Bucrow
+PROPITEM_TXT_1902972,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902973,Captain Rock Muscle Cage,Cage de capitaine Musclor
+PROPITEM_TXT_1902974,A formidable creature from Saint Morning. Uncommon sighting!,Une créature redoutable de Saint Morning. Observation peu fréquente !
+PROPITEM_TXT_1902975,Wagsaac Cage,Cage de Wagsaac
+PROPITEM_TXT_1902976,A Wagsaac commonly found in Saint Morning.,Un Wagsaac que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902977,Flybat Cage,Cage de Flybat
+PROPITEM_TXT_1902978,A Flybat commonly found in Saint Morning.,Un Flybat que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902979,Mia Cage,Cage de Mia
+PROPITEM_TXT_1902980,A Mia commonly found in Saint Morning.,Un Mia que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902981,Mr. Pumpkin Cage,Cage de M. Pumpkin
+PROPITEM_TXT_1902982,A Mr. Pumpkin commonly found in Saint Morning.,Un Mr. Pumpkin que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902983,Jack the Hammer Cage,Cage de Jackammers
+PROPITEM_TXT_1902984,A Jack the Hammer commonly found in Saint Morning.,Un Jack the Hammer que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902985,Giggle Box Cage,Cage de Gigglebox
+PROPITEM_TXT_1902986,A Giggle Box commonly found in Saint Morning.,Un Giggle Box que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902987,Totemia Cage,Cage de Totemia
+PROPITEM_TXT_1902988,A Totemia commonly found in Saint Morning.,Un Totemia que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902989,Cardpuppet Cage,Cage de Puppet
+PROPITEM_TXT_1902990,A Cardpuppet commonly found in Saint Morning.,Un Cardpuppet que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902991,Dumb Bull Cage,Cage de Dumbbull
+PROPITEM_TXT_1902992,A Dumb Bull commonly found in Saint Morning.,Un Dumb Bull que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902993,Bucrow Cage,Cage de Bucrow
+PROPITEM_TXT_1902994,A Bucrow commonly found in Saint Morning.,Un Bucrow que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902995,Rock Muscle Cage,Cage de Musclor
+PROPITEM_TXT_1902996,A Rock Muscle commonly found in Saint Morning.,Un Rock Muscle que l'on trouve couramment à Saint Morning.
+PROPITEM_TXT_1902997,Temple Guardian Cage,Cage du Gardien du temple
+PROPITEM_TXT_1902998,A legendary foe from the Garden of Rhisis. Extremely rare!,Un ennemi légendaire du Jardin de Rhisis. Extrêmement rare !
+PROPITEM_TXT_1902999,Violet Tombstone Bearer Cage,Cage de Tombstone violet
+PROPITEM_TXT_1903000,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903001,Violet Basque Cage,Cage de Basque violet
+PROPITEM_TXT_1903002,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903003,Violet Scorpicon Cage,Cage de Scorpic violet
+PROPITEM_TXT_1903004,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903005,Violet Wheelem Cage,Cage de Wheelem violet
+PROPITEM_TXT_1903006,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903007,Violet Flybrigen Cage,Cage de Flybrigen violet
+PROPITEM_TXT_1903008,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903009,Violet Prankster Cage,Cage de Prankster violet
+PROPITEM_TXT_1903010,A rare violet creature from the Garden of Rhisis.,Une créature violette rare du Jardin de Rhisis.
+PROPITEM_TXT_1903011,Giant Tombstone Bearer Cage,Cage du Tombstone Géant
+PROPITEM_TXT_1903012,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903013,Criminal Basque Cage,Cage du Basque Criminel
+PROPITEM_TXT_1903014,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903015,Giant Scorpicon Cage,Cage du Scorpic Géant
+PROPITEM_TXT_1903016,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903017,Giant Wheelem Cage,Cage du Wheelem Géant
+PROPITEM_TXT_1903018,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903019,Giant Flybrigen Cage,Cage du Flybrigen Géant
+PROPITEM_TXT_1903020,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903021,Giantmage Prankster Cage,Cage du Prankster Mage Géant
+PROPITEM_TXT_1903022,A formidable creature from the Garden of Rhisis. Uncommon sighting!,Une créature redoutable du Jardin de Rhisis. Observation peu commune !
+PROPITEM_TXT_1903023,Tombstone Bearer Cage,Cage du Tombstone Bearer
+PROPITEM_TXT_1903024,A Tombstone Bearer commonly found in the Garden of Rhisis.,Un Tombstone Bearer que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903025,Basque Cage,Cage du Basque
+PROPITEM_TXT_1903026,A Basque commonly found in the Garden of Rhisis.,Un Basque que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903027,Scorpicon Cage,Cage du Scorpic
+PROPITEM_TXT_1903028,A Scorpicon commonly found in the Garden of Rhisis.,Un Scorpicon que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903029,Wheelem Cage,Cage du Wheelem
+PROPITEM_TXT_1903030,A Wheelem commonly found in the Garden of Rhisis.,Un Wheelem que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903031,Flybrigen Cage,Cage du Flybrigen
+PROPITEM_TXT_1903032,A Flybrigen commonly found in the Garden of Rhisis.,Un Flybrigen que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903033,Prankster Cage,Cage du Prankster
+PROPITEM_TXT_1903034,A Prankster commonly found in the Garden of Rhisis.,Un Prankster que l'on trouve couramment dans le Jardin de Rhisis.
+PROPITEM_TXT_1903035,Clockworks Cage,Cage du Clockworks
+PROPITEM_TXT_1903036,A legendary foe from Darkon 1 and 2. Extremely rare!,Un ennemi légendaire de Darkon 1 et 2. Extrêmement rare !
+PROPITEM_TXT_1903037,Violet Nuctuvehicle Cage,Cage du Nuctuvehicle Violet
+PROPITEM_TXT_1903038,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903039,Violet Zombiger Cage,Cage du Zombiger Violet
+PROPITEM_TXT_1903040,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903041,Violet Carrierbomb Cage,Cage du Caboom Violet
+PROPITEM_TXT_1903042,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903043,Violet Greemong Cage,Cage du Greemong Violet
+PROPITEM_TXT_1903044,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903045,Violet Syliaca Cage,Cage du Syliaca Violet
+PROPITEM_TXT_1903046,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903047,Violet Elderguard Cage,Cage de l'Elderguard Violet
+PROPITEM_TXT_1903048,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903049,Violet Volt Cage,Cage du Volt Violet
+PROPITEM_TXT_1903050,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903051,Violet Steam Walker Cage,Cage du Steamwalker Violet
+PROPITEM_TXT_1903052,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903053,Violet Nutty Wheel Cage,Cage du Nuttywheel Violet
+PROPITEM_TXT_1903054,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903055,Violet Steel Knight Cage,Cage du Steelknight Violet
+PROPITEM_TXT_1903056,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903057,Violet Garbagespider Cage,Cage de la Garbagespider Violette
+PROPITEM_TXT_1903058,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903059,Violet Trangfoma Cage,Cage du Trangfoma Violet
+PROPITEM_TXT_1903060,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903061,Violet Crane Machinery Cage,Cage de Cranechinery Violette
+PROPITEM_TXT_1903062,A rare violet creature from Darkon 1 and 2.,Une créature violette rare de Darkon 1 et 2.
+PROPITEM_TXT_1903063,Giant Nuctuvehicle Cage,Cage du Nuctuvehicle Géant
+PROPITEM_TXT_1903064,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903065,Giant Zombiger Cage,Cage du Zombiger Géant
+PROPITEM_TXT_1903066,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903067,Giant Carrierbomb Cage,Cage du Caboom Géant
+PROPITEM_TXT_1903068,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903069,Giant Greemong Cage,Cage du Greemong Géant
+PROPITEM_TXT_1903070,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903071,Giant Syliaca Cage,Cage du Syliaca Géant
+PROPITEM_TXT_1903072,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903073,Captain Elderguard Cage,Cage du Capitaine Elderguard
+PROPITEM_TXT_1903074,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903075,Captain Volt Cage,Cage du Capitaine Volt
+PROPITEM_TXT_1903076,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903077,Captain Steam Walker Cage,Cage du Capitaine Steamwalker
+PROPITEM_TXT_1903078,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903079,Captain Nutty Wheel Cage,Cage du Capitaine Nuttywheel
+PROPITEM_TXT_1903080,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903081,Captain Steel Knight Cage,Cage du Capitaine Steelknight
+PROPITEM_TXT_1903082,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903083,Captain Garbagespider Cage,Cage du Capitaine Garbagespider
+PROPITEM_TXT_1903084,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903085,Giant Trangfoma Cage,Cage du Trangfoma Géant
+PROPITEM_TXT_1903086,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903087,Captain Crane Machinery Cage,Cage du Capitaine Crane Machinery
+PROPITEM_TXT_1903088,A formidable creature from Darkon 1 and 2. Uncommon sighting!,Une créature redoutable de Darkon 1 et 2. Observation peu commune !
+PROPITEM_TXT_1903089,Nuctuvehicle Cage,Cage du Nuctuvehicle
+PROPITEM_TXT_1903090,A Nuctuvehicle commonly found in Darkon 1 and 2.,Un Nuctuvehicle que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903091,Zombiger Cage,Cage du Zombiger
+PROPITEM_TXT_1903092,A Zombiger commonly found in Darkon 1 and 2.,Un Zombiger que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903093,Carrierbomb Cage,Cage du Caboom
+PROPITEM_TXT_1903094,A Carrierbomb commonly found in Darkon 1 and 2.,Un Caboom que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903095,Greemong Cage,Cage du Greemong
+PROPITEM_TXT_1903096,A Greemong commonly found in Darkon 1 and 2.,Un Greemong que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903097,Syliaca Cage,Cage du Syliaca
+PROPITEM_TXT_1903098,A Syliaca commonly found in Darkon 1 and 2.,Un Syliaca que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903099,Elderguard Cage,Cage de l'Elderguard
+PROPITEM_TXT_1903100,An Elderguard commonly found in Darkon 1 and 2.,Un Elderguard que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903101,Volt Cage,Cage du Volt
+PROPITEM_TXT_1903102,A Volt commonly found in Darkon 1 and 2.,Un Volt que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903103,Steam Walker Cage,Cage du Steamwalker
+PROPITEM_TXT_1903104,A Steam Walker commonly found in Darkon 1 and 2.,Un Steam Walker que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903105,Nutty Wheel Cage,Cage du Nuttywheel
+PROPITEM_TXT_1903106,A Nutty Wheel commonly found in Darkon 1 and 2.,Un Nutty Wheel que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903107,Steel Knight Cage,Cage du Steelknight
+PROPITEM_TXT_1903108,A Steel Knight commonly found in Darkon 1 and 2.,Un Steel Knight que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903109,Garbagespider Cage,Cage du Garbagespider
+PROPITEM_TXT_1903110,A Garbagespider commonly found in Darkon 1 and 2.,Un Garbagespider que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903111,Trangfoma Cage,Cage du Trangfoma
+PROPITEM_TXT_1903112,A Trangfoma commonly found in Darkon 1 and 2.,Un Trangfoma que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903113,Crane Machinery Cage,Cage du Cranechinery
+PROPITEM_TXT_1903114,A Crane Machinery commonly found in Darkon 1 and 2.,Un Cranechinery que l'on trouve couramment dans Darkon 1 et 2.
+PROPITEM_TXT_1903115,Red Meteonyker Cage,Cage du Meteonyker Rouge
+PROPITEM_TXT_1903116,A legendary foe from Darkon 3. Extremely rare!,Un ennemi légendaire de Darkon 3. Extrêmement rare !
+PROPITEM_TXT_1903117,Violet Dump Cage,Cage du Dump Violet
+PROPITEM_TXT_1903118,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903119,Violet Boo Cage,Cage du Boo Violet
+PROPITEM_TXT_1903120,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903121,Violet Mushpoie Cage,Cage du Mushpoie Violet
+PROPITEM_TXT_1903122,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903123,Violet Iren Cage,Cage de l'Iren Violet
+PROPITEM_TXT_1903124,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903125,Violet Watangka Cage,Cage du Watangka Violet
+PROPITEM_TXT_1903126,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903127,Violet Luia Cage,Cage de la Luia Violette
+PROPITEM_TXT_1903128,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903129,Violet Fafnir Cage,Cage du Fafnir Violet
+PROPITEM_TXT_1903130,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903131,Violet Kern Cage,Cage du Kern Violet
+PROPITEM_TXT_1903132,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903133,Violet Glaphan Cage,Cage du Glaphan Violet
+PROPITEM_TXT_1903134,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903135,Violet Grrr Cage,Cage du Grrr Violet
+PROPITEM_TXT_1903136,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903137,Violet Bearnerky Cage,Cage du Bearnerky Violet
+PROPITEM_TXT_1903138,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903139,Violet Chef Muffrin Cage,Cage du Chef Muffrin Violet
+PROPITEM_TXT_1903140,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903141,Violet Popcrank Cage,Cage du Joker Violet
+PROPITEM_TXT_1903142,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903143,Violet Gongury Cage,Cage du Gongury Violet
+PROPITEM_TXT_1903144,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903145,Violet Shuhamma Cage,Cage du Shuhamma Violet
+PROPITEM_TXT_1903146,A rare violet creature from Darkon 3.,Une créature violette rare de Darkon 3.
+PROPITEM_TXT_1903147,Giant Dump Cage,Cage du Dump Géant
+PROPITEM_TXT_1903148,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903149,Giant Boo Cage,Cage du Boo Géant
+PROPITEM_TXT_1903150,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903151,Giant Mushpoie Cage,Cage du Mushpoie Géant
+PROPITEM_TXT_1903152,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903153,Giant Iren Cage,Cage de l'Iren Géant
+PROPITEM_TXT_1903154,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903155,Giant Watangka Cage,Cage du Watangka Géant
+PROPITEM_TXT_1903156,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903157,Giant Luia Cage,Cage de la Luia Géante
+PROPITEM_TXT_1903158,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903159,Grownup Fafnir Cage,Cage du Fafnir Adulte
+PROPITEM_TXT_1903160,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903161,Giant Kern Cage,Cage du Kern Géant
+PROPITEM_TXT_1903162,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903163,Giant Glaphan Cage,Cage du Glaphan Géant
+PROPITEM_TXT_1903164,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903165,Giant Grrr Cage,Cage du Grrr Géant
+PROPITEM_TXT_1903166,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903167,General Bearnerky Cage,Cage du Général Bearnerky
+PROPITEM_TXT_1903168,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903169,Great Chef Muffrin Cage,Cage du Grand Chef Muffrin
+PROPITEM_TXT_1903170,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903171,Queen Popcrank Cage,Cage de la Reine Joker
+PROPITEM_TXT_1903172,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Observation peu commune !
+PROPITEM_TXT_1903173,Giant Gongury Cage,Cage de Gongury Géant
+PROPITEM_TXT_1903174,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Apparition peu commune !
+PROPITEM_TXT_1903175,Giant Shuhamma Cage,Cage de Shuhamma Géant
+PROPITEM_TXT_1903176,A formidable creature from Darkon 3. Uncommon sighting!,Une créature redoutable de Darkon 3. Apparition peu commune !
+PROPITEM_TXT_1903177,Dump Cage,Cage de Dump
+PROPITEM_TXT_1903178,A Dump commonly found in Darkon 3.,Un Dump que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903179,Boo Cage,Cage de Boo
+PROPITEM_TXT_1903180,A Boo commonly found in Darkon 3.,Un Boo que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903181,Mushpoie Cage,Cage de Mushpoie
+PROPITEM_TXT_1903182,A Mushpoie commonly found in Darkon 3.,Un Mushpoie que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903183,Iren Cage,Cage d'Iren
+PROPITEM_TXT_1903184,An Iren commonly found in Darkon 3.,Un Iren que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903185,Watangka Cage,Cage de Watangka
+PROPITEM_TXT_1903186,A Watangka commonly found in Darkon 3.,Un Watangka que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903187,Luia Cage,Cage de Luia
+PROPITEM_TXT_1903188,A Luia commonly found in Darkon 3.,Un Luia que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903189,Fafnir Cage,Cage de Fafnir
+PROPITEM_TXT_1903190,A Fafnir commonly found in Darkon 3.,Un Fafnir que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903191,Kern Cage,Cage de Kern
+PROPITEM_TXT_1903192,A Kern commonly found in Darkon 3.,Un Kern que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903193,Glaphan Cage,Cage de Glaphan
+PROPITEM_TXT_1903194,A Glaphan commonly found in Darkon 3.,Un Glaphan que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903195,Grrr Cage,Cage de Grrr
+PROPITEM_TXT_1903196,A Grrr commonly found in Darkon 3.,Un Grrr que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903197,Private Bearnerky Cage,Cage de Soldat Bearnerky
+PROPITEM_TXT_1903198,A Private Bearnerky commonly found in Darkon 3.,Un Soldat Bearnerky que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903199,Trainee Chef Muffrin Cage,Cage de Chef Muffrin Recrue
+PROPITEM_TXT_1903200,A Trainee Chef Muffrin commonly found in Darkon 3.,Un Chef Muffrin Recrue que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903201,Rook Popcrank Cage,Cage de Tour Joker
+PROPITEM_TXT_1903202,A Rook Popcrank commonly found in Darkon 3.,Une Tour Joker que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903203,Gongury Cage,Cage de Gongury
+PROPITEM_TXT_1903204,A Gongury commonly found in Darkon 3.,Un Gongury que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903205,Shuhamma Cage,Cage de Shuhamma
+PROPITEM_TXT_1903206,A Shuhamma commonly found in Darkon 3.,Un Shuhamma que l'on trouve couramment à Darkon 3.
+PROPITEM_TXT_1903207,Crystal Demon Lord Cage,Cage du Seigneur Démon de Cristal
+PROPITEM_TXT_1903208,A legendary foe from Azria. Extremely rare!,Un ennemi légendaire d'Azria. Extrêmement rare !
+PROPITEM_TXT_1903209,Violet Medumet Cage,Cage de Medumet Violet
+PROPITEM_TXT_1903210,A rare violet creature from Azria.,Une créature violette rare d'Azria.
+PROPITEM_TXT_1903211,Violet Yetti Cage,Cage de Yeti Violet
+PROPITEM_TXT_1903212,A rare violet creature from Azria.,Une créature violette rare d'Azria.
+PROPITEM_TXT_1903213,Violet Mammoth Cage,Cage de Mammouth Violet
+PROPITEM_TXT_1903214,A rare violet creature from Azria.,Une créature violette rare d'Azria.
+PROPITEM_TXT_1903215,Violet Ghost of the Forgotten Monarch Cage,Cage du Fantôme Violet du Monarque Oublié
+PROPITEM_TXT_1903216,A rare violet creature from Azria.,Une créature violette rare d'Azria.
+PROPITEM_TXT_1903217,Violet Augu Cage,Cage d'Augu Violet
+PROPITEM_TXT_1903218,A rare violet creature from Azria.,Une créature violette rare d'Azria.
+PROPITEM_TXT_1903219,Giant Medumet Cage,Cage de Medumet Géant
+PROPITEM_TXT_1903220,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903221,Mad Yetti Cage,Cage de Yeti fou
+PROPITEM_TXT_1903222,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903223,Lord Mammoth Cage,Cage du Seigneur Mammouth
+PROPITEM_TXT_1903224,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903225,Ghost of the Forgotten Lord Cage,Cage du Fantôme du Seigneur Oublié
+PROPITEM_TXT_1903226,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903227,Lord Augu Cage,Cage du Seigneur Augu
+PROPITEM_TXT_1903228,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903229,Captain Medumet Cage,Cage de Capitaine Medumet
+PROPITEM_TXT_1903230,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903231,Dark Yetti Cage,Cage de Yeti Sombre
+PROPITEM_TXT_1903232,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903233,Ancient Mammoth Cage,Cage de Mammouth Ancien
+PROPITEM_TXT_1903234,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903235,Ghost of the Forgotten Emperor Cage,Cage du Fantôme de l'Empereur Oublié
+PROPITEM_TXT_1903236,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903237,Ardent Augu Cage,Cage d'Augu Ardent
+PROPITEM_TXT_1903238,A formidable creature from Azria. Uncommon sighting!,Une créature redoutable d'Azria. Apparition peu commune !
+PROPITEM_TXT_1903239,Medumet Cage,Cage de Medumet
+PROPITEM_TXT_1903240,A Medumet commonly found in Azria.,Un Medumet que l'on trouve couramment à Azria.
+PROPITEM_TXT_1903241,Mutant Yetti Cage,Cage de Yeti Mutant
+PROPITEM_TXT_1903242,A Mutant Yetti commonly found in Azria.,Un Yetti Mutant que l'on trouve couramment à Azria.
+PROPITEM_TXT_1903243,Mammoth Cage,Cage de Mammouth
+PROPITEM_TXT_1903244,A Mammoth commonly found in Azria.,Un Mammouth que l'on trouve couramment à Azria.
+PROPITEM_TXT_1903245,Ghost of the Forgotten Prince Cage,Cage du Fantôme du Prince Oublié
+PROPITEM_TXT_1903246,A Ghost of the Forgotten Prince commonly found in Azria.,Un Fantôme du Prince Oublié que l'on trouve couramment à Azria.
+PROPITEM_TXT_1903247,Mutant Augu Cage,Cage d'Augu Mutant
+PROPITEM_TXT_1903248,A Mutant Augu commonly found in Azria.,Un Augu Mutant que l'on trouve couramment à Azria.
+PROPITEM_TXT_1903249,[Shade Lieutenant] Kriton Cage,Cage de [Lieutenant de Shade] Kriton
+PROPITEM_TXT_1903250,A legendary foe from Coral Island. Extremely rare!,Un ennemi légendaire de l'Île Corail. Extrêmement rare !
+PROPITEM_TXT_1903251,Violet Atrox Cage,Cage d'Atrox Violet
+PROPITEM_TXT_1903252,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903253,Violet Creper Cage,Cage de Pincedure Violet
+PROPITEM_TXT_1903254,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903255,Violet Meral Cage,Cage de Meral Violet
+PROPITEM_TXT_1903256,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903257,Violet Tigar Cage,Cage de Tigar Violet
+PROPITEM_TXT_1903258,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903259,Violet Naga Cage,Cage de Naga Violet
+PROPITEM_TXT_1903260,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903261,Violet Kingster Cage,Cage de Langoustroys Violet
+PROPITEM_TXT_1903262,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903263,Violet Okean Cage,Cage d'Okean Violet
+PROPITEM_TXT_1903264,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903265,Violet Dorian Cage,Cage de Dorian Violet
+PROPITEM_TXT_1903266,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903267,Violet Kraken Cage,Cage de Kraken Violet
+PROPITEM_TXT_1903268,A rare violet creature from Coral Island.,Une créature violette rare de l'Île Corail.
+PROPITEM_TXT_1903269,Giant Atrox Cage,Cage d'Atrox Géant
+PROPITEM_TXT_1903270,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903271,Giant Creper Cage,Cage de Pincedure Géant
+PROPITEM_TXT_1903272,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903273,Giant Meral Cage,Cage de Meral Géant
+PROPITEM_TXT_1903274,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903275,Giant Tigar Cage,Cage de Tigar Géant
+PROPITEM_TXT_1903276,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903277,Giant Naga Cage,Cage de Naga Géant
+PROPITEM_TXT_1903278,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903279,Giant Kingster Cage,Cage de Langoustroys Géant
+PROPITEM_TXT_1903280,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903281,Giant Okean Cage,Cage d'Okean Géant
+PROPITEM_TXT_1903282,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903283,Giant Dorian Cage,Cage de Dorian Géant
+PROPITEM_TXT_1903284,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903285,Giant Kraken Cage,Cage de Kraken Géant
+PROPITEM_TXT_1903286,A formidable creature from Coral Island. Uncommon sighting!,Une créature redoutable de l'Île Corail. Apparition peu commune !
+PROPITEM_TXT_1903287,Atrox Cage,Cage d'Atrox
+PROPITEM_TXT_1903288,An Atrox commonly found in Coral Island.,Un Atrox que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903289,Creper Cage,Cage de Pincedure
+PROPITEM_TXT_1903290,A Creper commonly found in Coral Island.,Un Pincedure que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903291,Meral Cage,Cage de Merel
+PROPITEM_TXT_1903292,A Meral commonly found in Coral Island.,Un Merel que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903293,Tigar Cage,Cage de Tigar
+PROPITEM_TXT_1903294,A Tigar commonly found in Coral Island.,Un Tigar que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903295,Naga Cage,Cage de Naga
+PROPITEM_TXT_1903296,A Naga commonly found in Coral Island.,Un Naga que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903297,Kingster Cage,Cage de Langoustroys
+PROPITEM_TXT_1903298,A Kingster commonly found in Coral Island.,Un Langoustroys que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903299,Okean Cage,Cage d'Okean
+PROPITEM_TXT_1903300,An Okean commonly found in Coral Island.,Un Okean que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903301,Dorian Cage,Cage de Dorian
+PROPITEM_TXT_1903302,A Dorian commonly found in Coral Island.,Un Dorian que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903303,Kraken Cage,Cage de Kraken
+PROPITEM_TXT_1903304,A Kraken commonly found in Coral Island.,Un Kraken que l'on trouve couramment sur l'Île Corail.
+PROPITEM_TXT_1903305,[Queen of Thorns] Entaness Cage,Cage de la Reine Entaness
+PROPITEM_TXT_1903306,A legendary foe from Kaillun. Extremely rare!,Un ennemi légendaire de Kaillun. Extrêmement rare !
+PROPITEM_TXT_1903307,Violet Hundur Sharpfoot Cage,Cage de Lawolf des Plaines Violet
+PROPITEM_TXT_1903308,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903309,Violet Kyouchish Cage,Cage de Garde Lycan Violet
+PROPITEM_TXT_1903310,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903311,Violet Samoset Cage,Cage de Sentinelle Lycan Violet
+PROPITEM_TXT_1903312,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903313,Violet Kanonicus Cage,Cage de Archer Lycan Violet
+PROPITEM_TXT_1903314,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903315,Violet Mage Redcloud Cage,Cage de Magicien Lycan Violet
+PROPITEM_TXT_1903316,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903317,Violet Taiaha Cage,Cage de Guerrier Lycan Violet
+PROPITEM_TXT_1903318,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903319,Violet Hellhound Cage,Cage de Lawolf de l'enfer Violet
+PROPITEM_TXT_1903320,A rare violet creature from Kaillun.,Une créature violette rare de Kaillun.
+PROPITEM_TXT_1903321,Giant Hundur Sharpfoot Cage,Cage de Lawolf des Plaines Géant
+PROPITEM_TXT_1903322,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903323,Giant Kyouchish Cage,Cage de Garde Lycan Géant
+PROPITEM_TXT_1903324,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903325,Giant Samoset Cage,Cage de Sentinelle Lycan Géante
+PROPITEM_TXT_1903326,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903327,Giant Kanonicus Cage,Cage de Archer Lycan Géant
+PROPITEM_TXT_1903328,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903329,Giant Mage Redcloud Cage,Cage de Magicien Lycan Géant
+PROPITEM_TXT_1903330,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903331,Giant Taiaha Cage,Cage de Guerrier Lycan Géant
+PROPITEM_TXT_1903332,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903333,Giant Hellhound Cage,Cage de Lawolf de l'enfer Géant
+PROPITEM_TXT_1903334,A formidable creature from Kaillun. Uncommon sighting!,Une créature redoutable de Kaillun. Apparition peu commune !
+PROPITEM_TXT_1903335,Hundur Sharpfoot Cage,Cage de Lawolf des Plaines
+PROPITEM_TXT_1903336,A Hundur Sharpfoot commonly found in Kaillun.,Un Hundur Sharpfoot que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903337,Kyouchish Cage,Cage de Garde Lycan
+PROPITEM_TXT_1903338,A Kyouchish commonly found in Kaillun.,Un Garde Lycan que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903339,Samoset Cage,Cage de Sentinelle Lycan
+PROPITEM_TXT_1903340,A Samoset commonly found in Kaillun.,Un Sentinelle Lycan que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903341,Kanonicus Cage,Cage d'un Archer Lycan
+PROPITEM_TXT_1903342,A Kanonicus commonly found in Kaillun.,Un Archer Lycan que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903343,Mage Redcloud Cage,Cage de Magicien Lycan
+PROPITEM_TXT_1903344,A Mage Redcloud commonly found in Kaillun.,Un Magicien Lycan que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903345,Taiaha Cage,Cage de Guerrier Lycan
+PROPITEM_TXT_1903346,A Taiaha commonly found in Kaillun.,Un Guerrier Lycan que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903347,Hellhound Cage,Cage de Lawolf de l'enfer
+PROPITEM_TXT_1903348,A Hellhound commonly found in Kaillun.,Un Lawolf de l'enfer que l'on trouve couramment à Kaillun.
+PROPITEM_TXT_1903349,Saint Morning Pet Transmute,Transmutation de familier de Saint Morning
+PROPITEM_TXT_1903350,This item will change your pet's appearance into a random monster from Saint Morning. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire de Saint Morning. Que la chance soit avec vous !
+PROPITEM_TXT_1903351,Garden of Rhisis Pet Transmute,Transmutation de familier du Jardin de Rhisis
+PROPITEM_TXT_1903352,This item will change your pet's appearance into a random monster from Garden of Rhisis. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire du Jardin de Rhisis. Que la chance soit avec vous !
+PROPITEM_TXT_1903353,"Darkon 1, 2 Pet Transmute","Transmutation de familier de Darkon 1, 2"
+PROPITEM_TXT_1903354,"This item will change your pet's appearance into a random monster from Darkon 1, 2. May luck be on your side!","Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire de Darkon 1, 2. Que la chance soit avec vous !"
+PROPITEM_TXT_1903355,Darkon 3 Pet Transmute,Transmutation de familier de Darkon 3
+PROPITEM_TXT_1903356,This item will change your pet's appearance into a random monster from Darkon 3. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire de Darkon 3. Que la chance soit avec vous !
+PROPITEM_TXT_1903357,Azria Pet Transmute,Transmutation de familier d'Azria
+PROPITEM_TXT_1903358,This item will change your pet's appearance into a random monster from Azria. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire d'Azria. Que la chance soit avec vous !
+PROPITEM_TXT_1903359,Coral Island Pet Transmute,Transmutation de familier de l'Île de Corail
+PROPITEM_TXT_1903360,This item will change your pet's appearance into a random monster from Coral Island. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire de l'Île de Corail. Que la chance soit avec vous !
+PROPITEM_TXT_1903361,Kaillun Pet Transmute,Transmutation de familier de Kaillun
+PROPITEM_TXT_1903362,This item will change your pet's appearance into a random monster from Kaillun. May luck be on your side!,Cet objet changera l'apparence de votre familier en celle d'un monstre aléatoire de Kaillun. Que la chance soit avec vous !
+PROPITEM_TXT_300089,2026 PvP Commemorative Pass,Pass commémoratif PvP 2026
+PROPITEM_TXT_300090,This purchase will give you access to many advantages until the end of the 2026 PvP Commemorative Pass season,Cet achat vous donnera accès à de nombreux avantages jusqu'à la fin de la saison du Pass commémoratif PvP 2026
+PROPITEM_TXT_1903363,Frostfang Tiger Cage,Cage du Tigre gelé
+PROPITEM_TXT_1903364,A frost-touched tiger with a fierce heart and an icy gaze.,Un tigre touché par le givre, au cœur féroce et au regard glacé.
+PROPITEM_TXT_1903365,Sunmane Lion Cage,Cage de Lion majestueux
+PROPITEM_TXT_1903366,A proud lion whose radiant mane shines like the morning sun.,Un lion majestueux dont la crinière éclatante brille comme le soleil du matin.
+PROPITEM_TXT_1903367,Crimson Frog Cage,Cage de la Grenouille écarlate
+PROPITEM_TXT_1903368,A bright crimson frog with an adventurous spirit.,Une grenouille rouge écarlate pleine d'esprit d'aventure.
+PROPITEM_TXT_1903369,Golden Butterfly Cage,Cage du papillon gracieux
+PROPITEM_TXT_1903370,A graceful butterfly whose golden wings shimmer in the light.,Un papillon gracieux dont les ailes dorées scintillent à la lumière.
+PROPITEM_TXT_1903371,King Croak Cage,Cage du Roi Coasseur
+PROPITEM_TXT_1903372,"The undisputed ruler of the pond, crowned in all his glory.","Le souverain incontesté de la mare, couronné dans toute sa gloire."
+PROPITEM_TXT_1903373,Mischief Monkey Cage,Cage du singe espiègle
+PROPITEM_TXT_1903374,A playful monkey always looking for its next bit of trouble.,Un singe espiègle toujours à la recherche d'une nouvelle bêtise à faire.
+PROPITEM_TXT_1903375,Azure Butterfly Cage,Cage du Papillon azur
+PROPITEM_TXT_1903376,An elegant butterfly with wings as blue as the open sky.,Un papillon élégant aux ailes aussi bleues que le ciel dégagé.
+PROPITEM_TXT_1903377,Mummy Bear Cage,Cage de l'ours Mummy 
+PROPITEM_TXT_1903378,An ancient little bear wrapped up for a very long journey.,Un petit ours ancien emmitouflé pour un très long voyage.
+PROPITEM_TXT_1903379,Sir Whiskers Cage,Cage du félin Moustaches
+PROPITEM_TXT_1903380,An impeccably mannered feline who is always ready to serve.,Un félin aux manières impeccables, toujours prêt à servir.
+PROPITEM_TXT_1903381,Agent Bark Cage,Cage de Agent Bark
+PROPITEM_TXT_1903382,A top-secret canine agent trained for the toughest missions.,Un agent canin top secret entraîné pour les missions les plus difficiles.
+PROPITEM_TXT_1903383,Tiny Crusader Cage,Cage de Tiny Crusader
+PROPITEM_TXT_1903384,A courageous little warrior protected by shining armor.,Un petit guerrier courageux protégé par une armure étincelante.
+PROPITEM_TXT_1903385,Sergeant Bananas Cage,Cage de Sergeant Bananas
+PROPITEM_TXT_1903386,A disciplined monkey who always keeps the troop in line.,Un singe discipliné qui veille toujours à maintenir la troupe dans le droit chemin.
+PROPITEM_TXT_1903387,Officer Paws Cage,Cage de Officer Paws
+PROPITEM_TXT_1903388,A loyal officer devoted to keeping Madrigal safe.,Un officier loyal dévoué à la protection de Madrigal.
+PROPITEM_TXT_1903389,Champion Teddy Cage,Cage de Champion Teddy
+PROPITEM_TXT_1903390,A determined little bear with the heart of a champion.,Un petit ours déterminé avec un cœur de champion.
+PROPITEM_TXT_1903391,Rosefang Tiger Cage,Cage de Rosefang Tiger
+PROPITEM_TXT_1903392,A striking pink tiger whose beauty hides a fearless nature.,Un tigre rose remarquable dont la beauté cache une nature intrépide.
+PROPITEM_TXT_1903393,Auric Lion Cage,Cage de Auric Lion
+PROPITEM_TXT_1903394,A majestic lion whose brilliant coat gleams like pure gold.,Un lion majestueux dont le pelage éclatant scintille comme de l'or pur.
+PROPITEM_TXT_1903395,Moonmane Lion Cage,Cage de Moonmane Lion
+PROPITEM_TXT_1903396,A noble silver lion blessed by the pale light of the moon.,Un noble lion argenté baigné par la douce lumière de la lune.
+PROPITEM_TXT_1903397,Nightscale Dragon Cage,Cage de Nightscale Dragon
+PROPITEM_TXT_1903398,A mysterious black dragon born beneath a moonless sky.,Un mystérieux dragon noir né sous un ciel sans lune.
+PROPITEM_TXT_1903399,Stormscale Dragon Cage,Cage de Stormscale Dragon
+PROPITEM_TXT_1903400,A fierce blue dragon crackling with the power of the storm.,Un féroce dragon bleu crépitant de la puissance de la tempête.
+PROPITEM_TXT_1903401,Verdant Dragon Cage,Cage de Verdant Dragon
+PROPITEM_TXT_1903402,A vibrant green dragon filled with the energy of nature.,Un dragon vert éclatant rempli de l'énergie de la nature.

@@ -723,7 +723,7 @@ PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies aff
 PROPSKILL_TXT_140093,Advanced Trap,进阶陷阱
 PROPSKILL_TXT_140094,Increases your traps’ range.,提升陷阱的作用范围。
 PROPSKILL_TXT_140095,Devastating Sting,毁灭蛰刺
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,提升普通攻击造成的伤害。
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,提升普通攻击造成的伤害。
 PROPSKILL_TXT_140097,Nearby Shot,近程射击
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,当与目标距离超过5米时，普通攻击的伤害提升。
 PROPSKILL_TXT_140099,Feeble Arms,虚弱之臂
@@ -979,8 +979,8 @@ PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreas
 PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,攻击时有几率使敌人进入束缚状态。
 PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,每次命中时，施加中毒状态的几率提升。
 PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.",连击持续时间延长，攻击次数从 3 次提升至 8 次，但技能冷却时间增加。
-PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,对 3 米内的目标造成额外伤害。
-PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,对距离超过 5 米的目标造成额外伤害。
+PROPSKILL_TXT_150440,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets within 3m.,对 3 米内的目标造成额外伤害。
+PROPSKILL_TXT_150441,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets further than 5m.,对距离超过 5 米的目标造成额外伤害。
 PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.",增益效果仅作用于范围内的队友，不包括你自己。
 PROPSKILL_TXT_150443,The chance to fire double arrows increases.,发射双重箭矢的几率提升。
 PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,目标被击退的距离增加。

@@ -723,7 +723,7 @@ PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies aff
 PROPSKILL_TXT_140093,Advanced Trap,Piège avancé
 PROPSKILL_TXT_140094,Increases your traps’ range.,Augmente la portée de tes pièges.
 PROPSKILL_TXT_140095,Devastating Sting,Frappe dévastatrice
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Augmente les dégâts infligés par les attaques normales.
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,Augmente les dégâts infligés par les attaques normales et augmente les dégâts JcE.
 PROPSKILL_TXT_140097,Nearby Shot,Tir rapproché
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Augmente les dégâts des attaques automatiques quand tu es à plus de 5 m de ta cible.
 PROPSKILL_TXT_140099,Feeble Arms,Bras faibles
@@ -979,8 +979,8 @@ PROPSKILL_TXT_150435,"Maximum charge stacks are reduced to 2, but damage decreas
 PROPSKILL_TXT_150437,Hits have a chance to immobilize enemies.,Les coups ont une chance d’immobiliser les ennemis.
 PROPSKILL_TXT_150438,Chance to inflict poison status increases per hit.,La chance d’infliger l’état poison augmente par coup.
 PROPSKILL_TXT_150439,"Chain attack duration increases, but the number of attacks rises from 3 to 8. Skill cooldown increases.","La durée de l’attaque en chaîne augmente, mais le nombre d’attaques passe de 3 à 8. Le temps de recharge de la compétence augmente."
-PROPSKILL_TXT_150440,Deals additional damage to targets within 3m.,Inflige des dégâts supplémentaires aux cibles dans un rayon de 3 m.
-PROPSKILL_TXT_150441,Deals additional damage to targets further than 5m.,Inflige des dégâts supplémentaires aux cibles à plus de 5 m.
+PROPSKILL_TXT_150440,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets within 3m.,Augmente les dégâts infligés par les attaques normales ainsi que les dégâts JcE. Inflige des dégâts supplémentaires aux cibles dans un rayon de 3 m.
+PROPSKILL_TXT_150441,Increases damage dealt by normal attacks and PvE damage. Deals additional damage to targets further than 5m.,Augmente les dégâts infligés par les attaques normales ainsi que les dégâts JcE. Inflige des dégâts supplémentaires aux cibles à plus de 5 m.
 PROPSKILL_TXT_150442,"Buff applies to party members within range, excluding yourself.","Le buff s’applique aux membres du groupe à portée, sauf vous-même."
 PROPSKILL_TXT_150443,The chance to fire double arrows increases.,La chance de tirer des flèches doubles augmente.
 PROPSKILL_TXT_150445,The distance over which the target is knocked back increases.,La distance de recul de la cible augmente.

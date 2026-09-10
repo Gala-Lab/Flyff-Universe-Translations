@@ -15,7 +15,7 @@ TEXTCLIENT_APP_OPTION,Options,オプション
 TEXTCLIENT_APP_LOGOUT,Log Out,接続終了
 TEXTCLIENT_APP_QUIT,Quit,ゲーム終了
 TEXTCLIENT_APP_SUPPORT,Support,サポート
-TEXTCLIENT_APP_PRIVACY,Privacy,プライバシー
+TEXTCLIENT_APP_PRIVACY,Cookie Settings,Cookieの設定
 TEXTCLIENT_APP_NAVIGATOR,Navigator,ナビゲーター
 TEXTCLIENT_APP_DEBUG,Debug,デバッグ
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒後、終了します。
@@ -796,7 +796,7 @@ TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this pl
 TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%sは現在オフラインです。
 TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,インベントリのスペースが%d増加しました！
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s が %s を %s+%dに精錬成功！
-TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[装備帰属] %s を %s+%dに精錬成功！
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[キャラ帰属] %s を %s+%dに精錬成功！
 TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%sがレベル%dに達しました！
 TEXTCLIENT_APP_GACHA,Gacha,ガチャ
 TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,ボックスは正常にリセットされました。
@@ -1013,7 +1013,7 @@ TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC 
 TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,FWC PVPコンテストの登録は1時間後に終了します!参加するには、必ずギルドを登録してください!
 TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,選択したプレイヤーリストの取得中にエラーが発生しました。もう一度やり直してください。
 TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,一致するものを選択する必要があります。
-TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","確認ありがとうございます。次の試合は本日%sに開始されます。"
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.",確認ありがとうございます。次の試合は本日%sに開始されます。
 TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",FWC PVPコンテスト中にメンバー管理機能を利用できない、または登録に選ばれたメンバーを編集しようとしています。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,FWC PvPコンテスト中にギルド名を変更することはできません。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,FWC PvPコンテスト中にギルドのロゴを変更することはできません。
@@ -1547,7 +1547,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,ス
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,マスタークエスト中はこのアイテムを使用できません。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,転職クエスト中はこのアイテムを使用できません。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,戦闘エリア外にいるため、モンスターを攻撃できません。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sがアルティマ%sを%s+%dに強化しました！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sが[U]%sを%s+%dに強化しました！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,支払いが完了しました！\nfCoinがアカウントに追加されました。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,支払い中に不明なエラーが発生しました。\nもう一度お試しください。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,ダンジョンで失った経験値を回復しました。

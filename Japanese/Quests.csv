@@ -31,7 +31,7 @@ PROPQUEST_INC_000470,"So you want to be an Acrobat, huh? You won't regret it! I 
 PROPQUEST_INC_000472,Good luck! You'll need it!,では、グッドラック！諸君！！
 PROPQUEST_INC_000473,"What are you afraid of? The path to become an Acrobat may be difficult for some, but it's so worth it! Come back if you change your mind, friend.",アクロバットにならないだと？　まあいい。どんな職業を選ぼうとも、自分の世界は自分で切り開くものだということを忘れないように。以上だ、さらば！ 
 PROPQUEST_INC_000474,Well done. You've passed the first test!,よし、初めての訓練はパスだ。
-PROPQUEST_INC_000475,"I'm still waiting for you to hunt $QUEST_END_KILL_COUNT$ Small Aibatts. If you want to become an Acrobat, you must complete this simple task.",$QUEST_END_KILL_COUNT$ 個の小型アイバットを狩ってくれるのを待っています。アクロバットになりたい場合は、この簡単な仕事を完了する必要があります。
+PROPQUEST_INC_000475,"I'm still waiting for you to hunt $QUEST_END_KILL_COUNT$ Small Aibatts. If you want to become an Acrobat, you must complete this simple task.",$QUEST_END_KILL_COUNT$ 体のスモール・アイバットを狩ってくれるのを待っています。アクロバットになりたい場合は、この簡単な仕事を完了する必要があります。
 PROPQUEST_INC_000476,You have already chosen to pursue another path. I cannot help you any further. You can still cancel the other job quest in the Quest Window and come back to me.,ふむ・・・諸君はもう既に、他の方向に向かっているようだ。私には用がないようだね。
 PROPQUEST_INC_000477,"For starters, let's go with something easy. I would like you to hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s.",まずは簡単なものから始めましょう。$QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$ を狩りましょう。
 PROPQUEST_INC_000479,Acrobat Weaponry,アクロバットの武器
@@ -52,7 +52,7 @@ PROPQUEST_INC_000494,The High-Dwarpets can be found north of Flarine. Check your
 PROPQUEST_INC_000495,"Good luck, apprentice.",では、今日も良い1日を。
 PROPQUEST_INC_000496,What a shame to waste such potential. Come see me again if you change your mind.,君はアクロバットの魅力をまったく理解出来ていなかったのじゃなあ。残念じゃ。そんなに簡単に諦める職業ではないと思うのじゃが・・・ 
 PROPQUEST_INC_000497,"Hmmm, has Pyre instructed you to see me? I see. Very well, I will continue your training. Listen up!",ん？＜ピレ＞に言われてわざわざボクに会いに来たのか？物好きなやつだな。まぁ、せっかくだから何でも聞いておくれ。
-PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",ボウのスキルはMPを、ヨーヨーのスキルはFPを消耗するんだ。これは覚えておくといいぞ。　ボウのスキルは6個、ヨーヨーのスキルは7個、共用スキルは3個あるが、その中で＜ダークイリュージョン＞というスキルを教えてやろう。
+PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",ボウのスキルはMPを、ヨーヨーのスキルはFPを消耗するんだ。これは覚えておくといいぞ。　弓のスキルは6個、ヨーヨーのスキルは7個、共用スキルは3個あるが、その中で＜ダークイリュージョン＞というスキルを教えてやろう。
 PROPQUEST_INC_000499,"This ability allows you to vanish from sight. However, keep in mind that any actions performed while under the effects of this ability aside from movement will remove the effect. Take this.",これは身を隠すスキルだ。ふふ、すごいだろう？　だが、攻撃したり、他のスキルを使ったら、自動的に解除されるのが面倒だな。さあ、このスキルをお前にやろう。
 PROPQUEST_INC_000500,"It's interesting that you've come to see me. Did Pyre send you? If he did, you would have something for me.",おや？　人間がこんなところに来るなんて、珍しいこともあるもんだな。何か用か？　ん？＜ピレ＞から頼まれた？　だったらどうして手ぶらでのこのこやってきたんだ？ 
 PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,ハイドワーフの生息地にいる＜トゥカニ＞のところへ行こう！
@@ -73,7 +73,7 @@ PROPQUEST_INC_000517,"Fine, I'll humor you. Slay $QUEST_END_KILL_COUNT$ $QUEST_E
 PROPQUEST_INC_000518,Show me what you can do and I might consider allowing you to continue on the path of the Jester Hero.,あなたの実力を見せてください。
 PROPQUEST_INC_000519,That's too bad because I sense potential in you. You must not be ready for the challenges that lie ahead. Come see me again if you change your mind.,こんな簡単なテストさえ成し遂げられない者に、ジェスター後継者としての険しい道を歩ませるなんて、私には出来ません。
 PROPQUEST_INC_000520,"Not bad, Acrobat. Not bad at all. You may have something to offer. I'll allow your training.",お疲れ様でした。では、あなたの能力を認定します。
-PROPQUEST_INC_000521,I doubt you have what it takes to be a Jester if you can't even slay 20 Drillers.,20匹の狩りに成功しなければ、ジェスター後継者への第一歩すら踏み出せませんよ。
+PROPQUEST_INC_000521,I doubt you have what it takes to be a Jester if you can't even slay 20 Drillers.,20体の狩りに成功しなければ、ジェスター後継者への第一歩すら踏み出せませんよ。
 PROPQUEST_INC_000522,You are already on a different path. You cannot become a successor of the Jester Hero.,あなたはジェスター英雄の後継者の資質をお持ちの方ではありませんね。
 PROPQUEST_INC_000523,"I'll need to see what you can do before I'll allow your training. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",トレーニングを許可する前に、能力を見ておく必要があります。$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を倒してください。ゴウダン山脈の南西、通常の$QUEST_END_KILL_NAME$を倒すようにしてください。スモールでもキャプテンでもありません。
 PROPQUEST_INC_000525,Successor of Hero - Ring,英雄の後継者－リング
@@ -121,7 +121,7 @@ PROPQUEST_INC_000569,"Defeat the Venel Guardian, and deliver the Mark of the Her
 PROPQUEST_INC_000571,Successor of Hero - Master,英雄の後継者―マスター
 PROPQUEST_INC_000572,You think you have what it takes to be a successor of the Ranger Hero? We will see…,ここまで来ることが出来た功績を讃えます。お疲れ様でした。しかし、私には、あなたにレンジャー後継者としてふさわしいかどうか、まだ判断は出来ません。
 PROPQUEST_INC_000574,Show me what you can do and I might consider allowing you to continue on the path of the Ranger Hero.,あなたの実力を見せてください。レンジャーヒーローの道を歩み続けることを許可できるかもしれません！
-PROPQUEST_INC_000577,I doubt you have what it takes to be a Ranger if you can't even slay 20 Drillers.,20匹の狩りに成功しなければ、レンジャー後継者への第一歩すら踏み出せませんよ。
+PROPQUEST_INC_000577,I doubt you have what it takes to be a Ranger if you can't even slay 20 Drillers.,20体の狩りに成功しなければ、レンジャー後継者への第一歩すら踏み出せませんよ。
 PROPQUEST_INC_000578,You've already chosen a different path. I cannot guide you on the path of the Ranger. You can still cancel the other job quest in the Quest Window and come back to me.,あなたはレンジャー英雄の後継者の資質をお持ちの方ではありませんね。
 PROPQUEST_INC_000581,Successor of Hero - Letter,英雄の後継者―手紙
 PROPQUEST_INC_000582,"Here is a Letter of Recommendation. You will need to give this to Kimel, the Ranger Wise Man in Flaris.",テストは終了しました。あなたの資質を認めます。どうぞこの推薦書を受け取ってください。これを持って、フラリス＜魂の泉＞にいるレンジャー賢者＜キメル＞の元へ行ってください。
@@ -177,10 +177,10 @@ PROPQUEST_INC_000676,"I knew you were all talk, Vagrant. That's 30 seconds of my
 PROPQUEST_INC_000677,"Hmmm, that's acceptable. Not bad, Vagrant! Although, I could have done it in half the time. But that's neither here nor there.",よし、戻ってきたな。まあ、 オレ様がやったら2分で終わる程度のテストさ。ちょいと遅すぎだな、諸君！最初のテストは無事にパスだ。
 PROPQUEST_INC_000678,Hahaha! As if you could ever hope to compare yourself to me… Mustang the Great!,でも、喜ぶにはまだまだ早い！
 PROPQUEST_INC_000679,"What's the matter? You're not afraid of some Small Aibatts, are you?",オレの目は厳しいぞ、ごまかしはきかん！マーシナリーのテストはそんなに甘くないぞと、最初に忠告しただろう？ワッハハハハ！
-PROPQUEST_INC_000680,"Alright, listen carefully. Just north of here, there are several Small Aibatts. Slay 20 of them with 20 Small Mushpangs and return to me. Got it?",もう一度教えるから、よ～く聞くんだ！スモール・アイバットが20匹と、スモール・マッシュファング20体だ。わかったか？もたもたしている時間はないはずだ。さぁ、行ってこい！
+PROPQUEST_INC_000680,"Alright, listen carefully. Just north of here, there are several Small Aibatts. Slay 20 of them with 20 Small Mushpangs and return to me. Got it?",もう一度教えるから、よ～く聞くんだ！スモール・アイバットが20体と、スモール・マッシュファング20体だ。わかったか？もたもたしている時間はないはずだ。さぁ、行ってこい！
 PROPQUEST_INC_000681,<Mustang mumbles something under his breath about you being… not so bright.>,こんなに根性がないとは情けないな。まあ、人には向き・不向きがあるからな！仕方あるまい。
 PROPQUEST_INC_000682,I cannot train you to be a Mercenary. You have already chosen another path. You can still cancel the other job quest in the Quest Window and come back to me.,君はすでに、他の職業を選択していないか？
-PROPQUEST_INC_000683,Slay 20 Small Aibatts and 20 Small Mushpangs just north of Eastern Flarine and return to Mercenary Drillmaster Mustang.,スモール・アイバットを10匹狩ってくること。
+PROPQUEST_INC_000683,Slay 20 Small Aibatts and 20 Small Mushpangs just north of Eastern Flarine and return to Mercenary Drillmaster Mustang.,スモール・アイバット20体、スモール・マッシュファング20体を狩ってくること。
 PROPQUEST_INC_000685,Mercenary Arms,マーシナリーの武器
 PROPQUEST_INC_000686,I suppose you've proven you're not completely useless. On to the next task!,初めてのテストはパスだ！しかし、これで終わりではないぞ、諸君。このマスタングの言うことを、ちゃんと傾聴したまえ。
 PROPQUEST_INC_000687,"I want you to gather the materials needed for making the weapons of the Mercenary. Try not to mess this one up, alright?",フム、「傾聴する」の意味がわからないとな？ワッハハハ！よーく耳を傾けて聞きたまえ。という意味だ、わかったか？2番目のテストはマーシナリーの武器を作るために必要な材料を集めるのだ。
@@ -218,14 +218,14 @@ PROPQUEST_INC_000721,Slay Babari and speak with Mercenary Instructor Hyuit in Ea
 PROPQUEST_INC_000723,Vagrant Master (Assist),放浪者マスター（アシスト）
 PROPQUEST_INC_000724,"So you want to be an Assist, huh? I don't blame you. It's the best job in Madrigal!",ほほう、アシストを志したいとな！君の選択には敬意を表しよう。しかし、アシストへの道はそんなに甘くないことを覚えておいてくれ。では早速、簡単なテストを行うことにしよう。心の準備は出来ているかな？
 PROPQUEST_INC_000725,"First, I want you to take care of a little something for me. Small Mushpangs have been eating our crops lately.",心の準備はできたか？では、最初の課題だ。これは諸君が放浪者としてどのくらい熟練したかを評価するものだ。これから指示したことを、どれくらい早く正確に遂行できるかを試させてもらおう。
-PROPQUEST_INC_000726,"Just north of here, there are several Small Mushpangs. Slay 10 of them with 10 Small Burudengs and return to me as soon as possible.",スモール・マッシュファングを10匹、スモール・ブルデングを10匹狩ってきたまえ！わかったかな？では、テスト開始だ！
+PROPQUEST_INC_000726,"Just north of here, there are several Small Mushpangs. Slay 10 of them with 10 Small Burudengs and return to me as soon as possible.",スモール・マッシュファングを10体、スモール・ブルデングを10体狩ってきたまえ！わかったかな？では、テスト開始だ！
 PROPQUEST_INC_000727,"Good luck, Vagrant!",最後まで慎重に、速やかに、そして正確に課題をやりとげるのだ。では、行ってきたまえ！
 PROPQUEST_INC_000728,"Having a change of heart? That's alright, come speak to me again if you change your mind.",おや？もう最初の課題で怖気づいたのか？本官は志の弱い者には用がない。諦めたのであれば、さっさと帰りなさい。以上！
 PROPQUEST_INC_000729,Excellent work! Hopefully they'll stay away from our crops now.,よくやってくれた、諸君！しかしこれで終わりではないぞ。諸君がやり遂げなければならないことは、まだまだたくさんある。アシストの道は険しいのだ、覚悟したまえ。よろしいかな？
 PROPQUEST_INC_000730,You've done very well so far. Keep up the good work!,諸君の心にはすでに、厳しく険しい道を歩んでいく覚悟は出来ているだろう。次のテストも高い志を持って頑張るのだ。
 PROPQUEST_INC_000731,Hurry! There isn't much time!,諸君にはあまり時間が無いはずだぞ？こうしている余裕があるとはたいしたものだ。しかし、いい加減な態度ではテストに合格することはできないぞ。気をひきしめたまえ。
 PROPQUEST_INC_000732,You've already chosen another job. I can't help you any further. You can still cancel the other job quest in the Quest Window and come back to me.,おや？ 君は既に他の職業を選択していないか？ここはアシストを目指す者がやってくるところです。
-PROPQUEST_INC_000733,Slay 10 Small Mushpangs and 10 Small Burudengs just north of Eastern Flarine then return to Assist Drillmaster Elic.,スモール・マッシュファング、スモール・ブルデングを10匹狩ってくること。
+PROPQUEST_INC_000733,Slay 10 Small Mushpangs and 10 Small Burudengs just north of Eastern Flarine then return to Assist Drillmaster Elic.,スモール・マッシュファング、スモール・ブルデングを10体狩ってくること。
 PROPQUEST_INC_000735,Arm of Assist,アシストの武器
 PROPQUEST_INC_000736,"You've done well so far, Vagrant. But I have another task for you if you are willing.",最初のテストは合格だ。おめでとう！しかしこれからが本番だ。次のテストを受ける準備はできたかな？
 PROPQUEST_INC_000737,"For your next task, I need you to gather some materials which are used to create Assist weapons.",2番目のテストを教えよう。これから諸君は、アシストの武器の製作に必要な材料を集めてこなければならない。全ての材料を無事に集めてこれたら、アシストの武器に関する情報を教えよう。
@@ -280,7 +280,7 @@ PROPQUEST_INC_000790,"Thank you for delivering the Twinkle Stones, Vagrant. Wing
 PROPQUEST_INC_000791,Magicians can use both wands and staves. A wand allows the magician to attack from a distance with a charged up attack that deals additional damage while a staff can be used as a melee weapon.,ワンドは魔法専門の武器なので、ワンドを装備した場合、基本攻撃はすべて魔法攻撃となります。一方、スタッフは基本攻撃が打撃ですので、弱いながらも接近戦が可能です。
 PROPQUEST_INC_000792,"You will find that Magicians primarily rely on magic spells to deal damage. However, it is important to know how these weapons work.",接近戦はできますが、打撃力は弱いので注意してください。この2つの武器を戦略的に使いこなすことで、必ず素晴らしいマジシャンになれることでしょう。頑張ってくださいね。
 PROPQUEST_INC_000793,I am waiting for someone to deliver some materials I require for Magician weaponry.,あら？ウィンギー様の紹介で来たのですか？でしたら、何か指示されたことがあるはずですよ。思い出してみてください。
-PROPQUEST_INC_000794,"Gather 10 Twinkle Stones from Aibatts near Flarine, 5 Chupims from Pukepukes and 1 Slain from Lawolf then speak with Magician Master Hee in Northern Flarine.",フラリス近くのアイバットからトゥインクル ストーンを 10 個、プケプケスからチュピムを 5 個、ラウルフからスレインを 1 個集め、フラリス北部にいるマジシャン マスター ヒーと話します。
+PROPQUEST_INC_000794,"Gather 10 Twinkle Stones from Aibatts near Flarine, 5 Chupims from Pukepukes and 1 Slain from Lawolf then speak with Magician Master Hee in Northern Flarine.",フラリス近くのアイバットからトゥインクル ストーンを 10 個、プケプケスからチュピムを 5 個、ラーウルフからスレインを 1 個集め、フラリス北部にいるマジシャン マスター ヒーと話します。
 PROPQUEST_INC_000796,Magician Skills,マジシャンのスキル
 PROPQUEST_INC_000797,"That concludes your lesson on Magician weaponry. Now, I'll need you to visit one of the High-Dwarpets to continue your training.",これで、私に教えられることは全てです。では、次のテストを受けてくださいね。次は、マジシャンの技術に関する情報を集めることなのですが、その前にまず、ハイドワーフの生息地を探し出さなければなりません。
 PROPQUEST_INC_000798,Travel to Flarine and head north. You'll find a High-Dwarpet camp just south of the middle of Leren Mountains.,ハイドワーフの生息地を探し出し、＜ハスタン＞というハイドワーフに会うと、彼からマジシャンの技術について教わることができるでしょう。
@@ -486,11 +486,11 @@ PROPQUEST_INC_001017,"Everyone attempted to find the kids, but they all failed."
 PROPQUEST_INC_001018,"I never gave up and I kept trying to solve the case. I had discovered many things, and reported them to the Public Office.",しかし、俺には何か気になる部分があった。独自で調査を続け、たくさんの情報を集めることができたんだが、その事実をまとめて、シティーホールへ報告書を提出したのさ。
 PROPQUEST_INC_001019,"However, they rejected my findings due to the lack of evidence. So as I was gathering evidence, I suddenly came up with an idea when I saw those strange Masquerpets; Mia.",しかし、その書類は証拠不十分という理由であっさり棄却されてしまった。理由はわからない。それで再び証拠を集めようと、ミーアというモンスターについて調べていたところ、あることに気がついた。
 PROPQUEST_INC_001020,"Anyway, will you help me?",どうだい？この話を聞いて、私に協力してくれる気になったかい？
-PROPQUEST_INC_001021,Great! Slay 20 Small Mias and tell me what you make of them.,ありがとう、協力してくれるんだね。じゃあ、スモール・ミーア20匹と戦って、彼らの特徴を観察し、私に報告してくれ。
+PROPQUEST_INC_001021,Great! Slay 20 Small Mias and tell me what you make of them.,ありがとう、協力してくれるんだね。じゃあ、スモール・ミーア20体と戦って、彼らの特徴を観察し、私に報告してくれ。
 PROPQUEST_INC_001022,That's a shame. I guess there's no hope for those girls…,そうか。そうそう簡単な事件ではないからな。残念だが、仕方ない。別の人にでも頼むさ。
 PROPQUEST_INC_001023,"Uh huh, yes. I see. Okay, thank you for bringing me this information, friend.",証拠を集めてきてくれたかい？これなら十分な決め手となるだろう。ありがとう、感謝するよ。
-PROPQUEST_INC_001024,"I need more information, friend. Please slay 20 Small Mias and report back to me.",少なくとも20匹以上倒さないと、彼らの特徴をはっきり把握するのはできないだろう。決め手となるようなしっかりした情報が必要なんだ。
-PROPQUEST_INC_001025,"Slay 20 Small Mias and return to Porgo, in Saint City.",＜スモール・ミーア＞20匹と戦って、彼らの特徴を観察し、ポルゴに報告しよう。
+PROPQUEST_INC_001024,"I need more information, friend. Please slay 20 Small Mias and report back to me.",少なくとも20体以上倒さないと、彼らの特徴をはっきり把握するのはできないだろう。決め手となるようなしっかりした情報が必要なんだ。
+PROPQUEST_INC_001025,"Slay 20 Small Mias and return to Porgo, in Saint City.",＜スモール・ミーア＞20体と戦って、彼らの特徴を観察し、ポルゴに報告しよう。
 PROPQUEST_INC_001027,Facts of Mia,隠された秘密
 PROPQUEST_INC_001028,Argh! Curse that darn mayor! He won't even listen to me!,なんてことだ！チクショウ！！ あのバカな市長め！！ せっかく私が集めた情報を読みもせずに！
 PROPQUEST_INC_001029,"What's the matter, you ask? I brought him the evidence you obtained for me. I was told it was too long ago and that nobody cares about the case anymore.",聞いてくれ、まったくふざけた話だ！さっき、長い間俺が調査してまとめた資料を市長のもとへ持って行ったのさ。すると、その事件はすでに捜査を終了しているので、おひきとりください、だとよ！
@@ -784,9 +784,9 @@ PROPQUEST_INC_001365,"Good luck, my friend. I'll be watching.",ではご武運�
 PROPQUEST_INC_001366,Giving up already? But this is the easy part.,確かに容易な道ではないと話していたと思いますが･･･。やはり辞めるのですか？
 PROPQUEST_INC_001367,"Excellent work, Mercenary! Now you're on your way to becoming a Knight.",おめでとうございます。私の目に狂いはありませんでした。あなたは後継者の初めの試練を突破しました。
 PROPQUEST_INC_001368,"To commemorate this day, I have something for you.",最初の試練を無事乗り越えましたね。おめでとうございます。
-PROPQUEST_INC_001369,"Exactly 20 Drillers, Squire. That's what you'll need to take your first steps to Knighthood.",正確に20匹です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
+PROPQUEST_INC_001369,"Exactly 20 Drillers, Squire. That's what you'll need to take your first steps to Knighthood.",正確に20体です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
 PROPQUEST_INC_001370,"Corel is your master, young Mercenary. I can not help you.",あなたは既にブレード後継者の道を選択しましたね。私ではなくコレルから試練を受けてください。
-PROPQUEST_INC_001371,Hunt Down 20 regular Drillers and return to Karandur in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20匹狩りましょう。
+PROPQUEST_INC_001371,Hunt Down 20 regular Drillers and return to Karandur in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20体狩りましょう。
 PROPQUEST_INC_001373,Successor of Hero -Helmet-,英雄の後継者-ヘルメット-
 PROPQUEST_INC_001374,This letter of recommendation is proof of your achievements thus far. Guard it as you would your own life.,これはマスターが後継者としての資質を認めたという推薦書です。あなたの資質が認められるものですから大事にしてください。
 PROPQUEST_INC_001375,"Take it to Hormes, the Knight Sage. He resides at the The Fountain of Dead Person in the Northern Leren Mountains.",それではフラリスのレルエン山脈北部にある魂の泉に行って、ナイト賢者ホロメスにその推薦書を渡してください。
@@ -837,9 +837,9 @@ PROPQUEST_INC_001427,"Good luck, warrior. I'll be watching.",闇の中に光明�
 PROPQUEST_INC_001428,Quitting already? But this is the easy part.,諦めるなら早いほうがいいかもな。
 PROPQUEST_INC_001429,"Hmm... Good job, I knew you could do this! Now you are qualified as a successor.",まあ、こんなもんだろう。あまり優秀とは言えんがかろうじてパスといったところだな。
 PROPQUEST_INC_001430,Congratulations! You passed the first test.,最初の試練を無事乗り越えたな。だが困難なのはこれからだぞ。
-PROPQUEST_INC_001431,"Exactly 20 Drillers, Mercenary. That's what you'll need to take your first steps to becoming a Blade.",正確に20匹です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
+PROPQUEST_INC_001431,"Exactly 20 Drillers, Mercenary. That's what you'll need to take your first steps to becoming a Blade.",正確に20体です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
 PROPQUEST_INC_001432,"Karandur is your master, young Mercenary. I can not help you.",あなたは既にナイト後継者の道を選択しましたね。私ではなくカランドルから試練を受けてください。
-PROPQUEST_INC_001433,Hunt Down 20 Drillers and return to Corel in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20匹狩りましょう。
+PROPQUEST_INC_001433,Hunt Down 20 Drillers and return to Corel in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20体狩りましょう。
 PROPQUEST_INC_001435,Successor of Hero -Earring-,英雄の後継者-イヤリング-
 PROPQUEST_INC_001436,This letter of recommendation is proof of your achievements as a Blade-in-Training. Guard it as you would your own life.,これはマスターが後継者としての資質を認めたという推薦書です。あなたの資質が認められるものですから大事にしてください。
 PROPQUEST_INC_001437,"Take it to Guabill, the Blade Sage. He resides at the Fountain of Dead Person in the North Leren Mountains.",それではフラリスのレルエン山脈北部にある魂の泉に行って、ブレード賢者ガブリにその推薦書を渡してください。
@@ -879,9 +879,9 @@ PROPQUEST_INC_001480,"Defeat the Venel Guardian, take his heart, and present it 
 PROPQUEST_INC_001483,"So you think you're ready to become a Billposter? It isn't easy, but since you've made it this far I think you're up to the challenge.",ビルポスター後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001486,Good luck. I'll be watching.,では頑張ってくださいね。
 PROPQUEST_INC_001488,Excellent work! Now you're on your way to becoming a Billposter.,最初の試練を無事乗り越えましたね。おめでとうございます。
-PROPQUEST_INC_001489,Exactly 20 Drillers. That's what you'll need to take your first steps to becoming a Billposter.,正確に20匹です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
+PROPQUEST_INC_001489,Exactly 20 Drillers. That's what you'll need to take your first steps to becoming a Billposter.,正確に20体です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
 PROPQUEST_INC_001490,"Ellend is your master, young Assist. I can not help you.",あなたは既にリングマスターの後継者の道を選択しましたね。私ではなくイレンドから試練を受けてください。
-PROPQUEST_INC_001491,Hunt Down 20 Drillers and return to Ride in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20匹狩りましょう。
+PROPQUEST_INC_001491,Hunt Down 20 Drillers and return to Ride in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20体狩りましょう。
 PROPQUEST_INC_001493,Successor of Hero -Hall Document-,英雄の後継者-秘伝書-
 PROPQUEST_INC_001494,This letter of recommendation is proof of your achievements as a Billposter. Guard it as you would your own life.,これはマスターが後継者としての資質を認めたという推薦書です。あなたの資質が認められるものですから大事にしてください。
 PROPQUEST_INC_001495,"Take it to Domek, the Billposter Sage. He resides at Fountain of Dead Person in the Northern Leren Mountains.",それではフラリスのレルエン山脈北部にある魂の泉に行って、ビルポスター賢者ンドゥークにその推薦書を渡してください。
@@ -919,9 +919,9 @@ PROPQUEST_INC_001538,"Defeat the guardian spirit, Venel Guardian, and get it's h
 PROPQUEST_INC_001541,"So you think you're ready to become a Ringmaster? It isn't easy, but since you've made it this far I think you're up to the challenge.",リングマスター後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001544,I will be watching you.,私がマスターになったばっかりなので、まだ慣れてない部分もあるけど一生懸命がんばります！
 PROPQUEST_INC_001547,Excellent work! Now you're on your way to becoming a Ringmaster.,最初の試練を無事乗り越えましたね。おめでとうございます。
-PROPQUEST_INC_001548,Exactly 20 Drillers. That's what you'll need to take your first steps to becoming a Ringmaster.,正確に20匹です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
+PROPQUEST_INC_001548,Exactly 20 Drillers. That's what you'll need to take your first steps to becoming a Ringmaster.,正確に20体です。そうではないとあなたの資質が判断できません。本当に後継者になりたいのなら、必ず成し遂げてください。
 PROPQUEST_INC_001549,"Ride is your master, young Assist. I can not help you.",あなたは既にビルポスター後継者の道を選択しましたね。私ではなくライドから試練を受けてください。
-PROPQUEST_INC_001550,Hunt Down 20 Drillers and return to Ellend in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20匹狩りましょう。
+PROPQUEST_INC_001550,Hunt Down 20 Drillers and return to Ellend in Darken City.,ダーコン1地区、キプラと言われている地域に棲息しているドリラーを20体狩りましょう。
 PROPQUEST_INC_001552,Successor of Hero -Seal-,英雄の後継者-印章-
 PROPQUEST_INC_001553,This letter of recommendation is proof of your achievements as a Ringmaster. Guard it as you would your own life.,これはマスターが後継者としての資質を認めたという推薦書です。あなたの資質が認められるものですから大事にしてください。
 PROPQUEST_INC_001554,"Take it to Clamb, the Ringmaster Sage. He resides at the The Fountain of Dead Person in the Northern Leren Mountains.",それではフラリスのレルエン山脈北部にある魂の泉に行って、リングマスター賢者クラムボにその推薦書を渡してください。
@@ -961,7 +961,7 @@ PROPQUEST_INC_001596,"I believe you've come here by mistake, Assist. Have you fo
 PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、リングマスター守護者ロモボエトに会おう。
 PROPQUEST_INC_001600,"So, you think you're ready to become a Successor of the Psykeeper Hero? You've come a long way, Magician. I think you're ready.",サイキーパー後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001601,"First, we'll need to test your skills in combat if we are to continue down this path.",まずあなたが後継者としての資質を持っているか、簡単にテストを行います。この試験によりあなたの戦闘能力を見させてもらいます。
-PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",キプラと呼ばれる地域に生息する$QUEST_END_KILL_COUNT$匹の$QUEST_END_KILL_NAME$を倒してください。スモール・$QUEST_END_KILL_NAME$、ジャイアント・$QUEST_END_KILL_NAME$ではなく、$QUEST_END_KILL_NAME$を倒してきてください。ゴウダン山脈南西にいるはずです。
+PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",キプラと呼ばれる地域に生息する$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を倒してください。スモール・$QUEST_END_KILL_NAME$、ジャイアント・$QUEST_END_KILL_NAME$ではなく、$QUEST_END_KILL_NAME$を倒してきてください。ゴウダン山脈南西にいるはずです。
 PROPQUEST_INC_001603,"I will be watching you, Magician. Good luck!",ではご武運を祈ります。
 PROPQUEST_INC_001604,You're giving up now before you've even started?,確かに容易な道ではないと話していたと思いますが･･･。やはり辞めるのですか？
 PROPQUEST_INC_001605,"Yes, very well done, Magician. You've certainly come a long way. You're ready to become a Successor to the Psykeeper Hero.",最初の試練を無事乗り越えましたね。おめでとうございます。
@@ -1051,7 +1051,7 @@ PROPQUEST_INC_001718,Please just investigate the entrance. It can't be that hard
 PROPQUEST_INC_001719,Investigate the entrance to the Mars Mine.,フラリスダンジョンに入ってみましょう。
 PROPQUEST_INC_001721,Phantom of Fear,恐怖の幻影
 PROPQUEST_INC_001722,I cannot be sure by only investigating the entrance. I need more detailed information…,入口周辺の情報だけでは、洞窟内で何が起きているのか、核心に迫ることはできません。もっと多くの情報がどうしても欲しいですね。
-PROPQUEST_INC_001723,"(Looks at you imploringly) Would you please, please bring me more detailed information?",（お悔やみ申し上げます）詳しい情報を教えていただけませんか。
+PROPQUEST_INC_001723,"(Looks at you imploringly) Would you please, please bring me more detailed information?",（あなたを懇願するように見つめる）詳しい情報を教えていただけませんか。
 PROPQUEST_INC_001724,"I wouldn't ask if it weren't very, very important. Will you help?",あれ？あなたがいたじゃないですか！お願いです！もう一度、調査に協力していただけませんか？
 PROPQUEST_INC_001725,"Thank you! This time, investigate the inside of the Mars Mine. Also, please investigate the masquerpets there.",助かります。今回はフラリスダンジョンの奥まで探索し、モンスターの調査を行ってください。
 PROPQUEST_INC_001726,It's not like I'm asking you for your first born child…,ダメですか…。フラリスダンジョンの奥にまで足を踏み入れるのが怖いんですね。あなたという人は…その程度の人だったんですか？
@@ -1206,20 +1206,20 @@ PROPQUEST_INC_002227,"Losha at the Food Shop will give me a Green Shield and 1,2
 PROPQUEST_INC_002229,A Vagrant's First Steps (1),冒険の第一歩(1)
 PROPQUEST_INC_002230,Hello! I am Losha and I run the Food Shop. I sell food that is helpful for when you lose your Health Points (HP). Each type of food has a different recovery power and level requirement.,改めてご挨拶！フードショップのロシャです。ロシャは、HPを回復できる色んなフードを売ってるよ。フードによってHP回復量が決まっていて、最大回復量以上HPが残っている場合は、フードを食べた時の回復量が減っちゃうから気をつけてね。
 PROPQUEST_INC_002231,"You can eat the food by double-clicking it in your inventory. Also, you can add them to your hot keys. Please remember that once you eat food, you cannot eat again for a certain amount of time.",フードでHPを回復したい時は、インベントリにあるフードをダブルクリックするか、＜F1＞～＜F9＞のショートカットスロットにフードのアイコンをドラッグ＆ドロップして登録すると、登録したスロットに対応するキーを押すだけでフードで回復できるよ。一回フードを食べた後は、少しの間続けて食べることができないから覚えておいてね。
-PROPQUEST_INC_002232,Now that the lesson is over it is time for some combat! There are a lot of Aibatts to the north. Please hunt 15 Small Aibatts and go back to Luda at the Shield Shop.,これで必要なことは全部みんなに教わったかな？そろそろ街の外に出て、実際にモンスターと戦ってみよっか！北の方に行くと「アイバット」ってモンスターがいるよ。何種類かいるアイバットの中の「スモール・アイバット」を15匹を倒してみてね！15匹倒したら、＜シールドショップ＞のルダおじさんに報告しに行ってね。
+PROPQUEST_INC_002232,Now that the lesson is over it is time for some combat! There are a lot of Aibatts to the north. Please hunt 15 Small Aibatts and go back to Luda at the Shield Shop.,これで必要なことは全部みんなに教わったかな？そろそろ街の外に出て、実際にモンスターと戦ってみよっか！北の方に行くと「アイバット」ってモンスターがいるよ。何種類かいるアイバットの中の「スモール・アイバット」を15体を倒してみてね！15体倒したら、＜シールドショップ＞のルダおじさんに報告しに行ってね。
 PROPQUEST_INC_002233,"Don't be too nervous and please check your equipment again before you venture out. Oh, and don’t forget to buy some food!",あなたなら大丈夫、緊張しないで。持っている武器や防具は、ちゃんと装備できたかな？街の外は危険だから、フードも忘れずに持って行ってね！
 PROPQUEST_INC_002234,"This is only your first step into a larger world. Don't hesitate, go forth and defeat those Small Aibatts!",やっと冒険者として歩む第一歩なのに･･･。マドリガルのみんなで応援してるから、がんばってよぉ～！
 PROPQUEST_INC_002235,"Great! You completed your task wonderfully! I can see that you will be very famous one day. If you talk to me again, I will give you another task which will be a little bit harder.",素晴らしい！初めての戦いだったのに、あれだけのモンスターを倒すなんて凄いな。あんたはこれからもっと強くなれるはずだ。次は、もっと難しい依頼を用意しておくから覚悟しとくんだな、ハハハ。
-PROPQUEST_INC_002236,You should hunt 15 Small Aibatts. Please check in the quest window (Q Key) and return to Luda at the Shield Shop once you're finished.,まだ足りないぞ？「スモール・アイバット」15匹を倒すんだ。クエストダイアリーで倒した数が確認できるから、がんばれよ！
-PROPQUEST_INC_002237,"Luda at the Shield Shop will give me 2,500 Penya when I hunt 15 Small Aibatts and return to him.",「スモール・アイバット」15匹を倒して＜シールドショップ＞のルダに報告すると報酬がもらえます。
+PROPQUEST_INC_002236,You should hunt 15 Small Aibatts. Please check in the quest window (Q Key) and return to Luda at the Shield Shop once you're finished.,まだ足りないぞ？「スモール・アイバット」15体を倒すんだ。クエストダイアリーで倒した数が確認できるから、がんばれよ！
+PROPQUEST_INC_002237,"Luda at the Shield Shop will give me 2,500 Penya when I hunt 15 Small Aibatts and return to him.",「スモール・アイバット」15体を倒して＜シールドショップ＞のルダに報告すると報酬がもらえます。
 PROPQUEST_INC_002239,A Vagrant's First Steps (2),冒険者の第一歩(2)
 PROPQUEST_INC_002240,I didn’t know that you could accomplish so much this fast! How wonderful! I have one more request for you. There are other monsters around Flarine. They are called Mushpangs.,あっという間にこんなに成長するとは思わなかったよ。本当にあんたは凄いなぁ、ハハハ。よし、今回この宿題をクリアーできたら、あんたはもう一人前だ。よく聞くんだぞ。フラリスの街を囲んでいるモンスターは「アイバット」の他に、「マッシュファング」というキノコの形をしたモンスターがいるんだ。
-PROPQUEST_INC_002241,"Please wipe them out! If you hunt 10 Small Mushpangs and 5 normal Mushpangs, I will give you a reward. Oh, and hold onto any trophies they drop, as they will be very useful in the near future!",今度はそいつらを倒してきてくれないか？「スモール・マッシュファング」10匹と「マッシュファング」5匹を倒したら、また俺のところに報告しに来てくれ。報酬もちゃんと用意しているから、頼んだぞ。それと、モンスターを倒した時に出るクエストアイテムは、いつか使う機会が来るから、捨てずに集めておいたほうがいいな。
+PROPQUEST_INC_002241,"Please wipe them out! If you hunt 10 Small Mushpangs and 5 normal Mushpangs, I will give you a reward. Oh, and hold onto any trophies they drop, as they will be very useful in the near future!",今度はそいつらを倒してきてくれないか？「スモール・マッシュファング」10体と「マッシュファング」5体を倒したら、また俺のところに報告しに来てくれ。報酬もちゃんと用意しているから、頼んだぞ。それと、モンスターを倒した時に出るクエストアイテムは、いつか使う機会が来るから、捨てずに集めておいたほうがいいな。
 PROPQUEST_INC_002242,"Yeah, I knew you could do this!",俺の、人を見る目は正しいはずだ。マドリガル大陸の平和のために･･･頼んだぞ！
 PROPQUEST_INC_002243,Mushpangs are very easy for you to hunt! Help protect Flarine from this menace!,今のあんたの実力ならマッシュファングくらい簡単に倒せるだろう。フラリスの住民のために力を貸してくれないか？
 PROPQUEST_INC_002244,It appears there is no monster that can threaten you around Flarine. It's time for you to step out into the world and show your power! Your adventure has just started!,ハハハ、俺の見込んだ通りだ。さすがだな！もうフラリスの周りであんたにかなうモンスターはいないだろう。この世界は広い。ここよりも広いところで、あんたの力を見せてくれ！まだここは出発地点に過ぎない。あんたの冒険はこれからだ。
-PROPQUEST_INC_002245,You didn’t hunt 15 Small Mushpang and 15 Mushpang yet.,ん？「スモール・マッシュファング」15匹と「マッシュファング」15匹を倒してないじゃないか。クエストダイアリーで確認できるから、奴らを倒したらまた報告しに来てくれよな！
-PROPQUEST_INC_002246,"Luda at the Shield Shop will give me 10,000 Penya when I hunt 15 Small Mushpang and 15 Mushpang, and then return to him.",「スモール・マッシュファング」15匹と「マッシュファング」15匹を倒して＜シールドショップ＞のルダに報告すると報酬がもらえます。
+PROPQUEST_INC_002245,You didn’t hunt 15 Small Mushpang and 15 Mushpang yet.,ん？「スモール・マッシュファング」15体と「マッシュファング」15体を倒してないじゃないか。クエストダイアリーで確認できるから、奴らを倒したらまた報告しに来てくれよな！
+PROPQUEST_INC_002246,"Luda at the Shield Shop will give me 10,000 Penya when I hunt 15 Small Mushpang and 15 Mushpang, and then return to him.",「スモール・マッシュファング」15体と「マッシュファング」15体を倒して＜シールドショップ＞のルダに報告すると報酬がもらえます。
 PROPQUEST_INC_002608,Flaris,フラリス
 PROPQUEST_INC_002609,Saint Morning,セイントモーニング
 PROPQUEST_INC_002610,Darkon,ダーコン
@@ -1251,7 +1251,7 @@ PROPQUEST_INC_100021,Laws of Aviation (4),航空法 第4条
 PROPQUEST_INC_100022,"Alright, sorry about that. I just had to finish some important paperwork. Now, where were we?",ごめんなさいね。大事な書類を処理しないといけないのよ。えーっと、どこまで話したかしら？
 PROPQUEST_INC_100023,"*cough* ...Oh! The test, right. Sorry! To get you more familiar with your flying device, I want you to experience Air Combat! Yes, you can also fight in the air! It's very similar to regular Combat, actually.",えっへん。ああ！テストですね、ごめんなさい！では、もっと飛行に慣れてもらうために、飛行中の戦闘を体験してもらおうかしら。空でも戦えるんですよ？地上で戦ってるように、すぐ慣れるわ。
 PROPQUEST_INC_100024,You can even use skills in the air. Give it a try! Go and kill some of those Pesky Captain Mothbees flying near the northwestern edge of Saint City.,空中でスキルを使うこともできるのよ。試してみましょ。セイントモーニング北西の端にいる＜キャプテン・モスビー＞を倒してきてほしいわ。
-PROPQUEST_INC_100025,You'll find the Mothbees flying inbetween Flaris and Saint Morning. They seem to gather near the giant gears. Killing 5 should be enough. Report back to me once you're done.,フラリスとセイントモーニングの間にモスビーが飛んでいるはずよ。巨大な歯車の近くに群れているはずだわ。5匹倒せば十分でしょう。終わったら、報告してね。
+PROPQUEST_INC_100025,You'll find the Mothbees flying inbetween Flaris and Saint Morning. They seem to gather near the giant gears. Killing 5 should be enough. Report back to me once you're done.,フラリスとセイントモーニングの間にモスビーが飛んでいるはずよ。巨大な歯車の近くに群れているはずだわ。5体倒せば十分でしょう。終わったら、報告してね。
 PROPQUEST_INC_100026,"They're just bugs, they're not that scary! *sigh* Let me know when you've found enough courage.",ただの虫よ！怖くないわ。勇気が出たらまた教えてね。
 PROPQUEST_INC_100027,Wow impressive! You've really got a knack for this. Well done. You've passed the test!,わぁすっごーい！初体験はどうだったかしら？そうね、合格よ。
 PROPQUEST_INC_100028,Kill 5 Captain Mothbees then return back to Tina.,＜キャプテン・モスビー＞を5体倒してティナへ報告する
@@ -1320,7 +1320,7 @@ PROPQUEST_INC_110048,I understand. It's a difficult task. I will wait for you to
 PROPQUEST_INC_110049,The Frosty Beast,フロスティ・ビースト
 PROPQUEST_INC_110050,Amazing! And you did that all by yourself I bet!,全て一人でこなしてしまったのですか？本当に素晴らしい！
 PROPQUEST_INC_110051,Keep trying! I believe in you!,努力は実を結ぶはずです。私はあなたを心から誇りに思っています。
-PROPQUEST_INC_110052,"Now that we have all of this crystal essence, we can enforce our town and create a magical barrier that no monster, Violet or not, can ever break through.",このクリスタル・エッセンスをすべて手に入れた今、町の防衛を強化し、ヴァイオレットモンスターであろうと、突破できない魔法の障壁を張り巡らせることができるはずです。
+PROPQUEST_INC_110052,"Now that we have all of this crystal essence, we can enforce our town and create a magical barrier that no monster, Violet or not, can ever break through.",このクリスタル・エッセンスをすべて手に入れた今、町の防衛を強化し、バイオレットモンスターであろうと、突破できない魔法の障壁を張り巡らせることができるはずです。
 PROPQUEST_INC_110053,We thank you for all of your help! Stay safe out there.,皆様のご協力に感謝いたします。
 PROPQUEST_INC_110054,Lost Souls,失われた魂
 PROPQUEST_INC_110055,"While we may be safe for now thanks to your help, the armies of Shade are advancing.",あなたの助けのおかげで、私たちは今のところ安全かもしれませんが、シェードの軍隊は前進しています。
@@ -1417,7 +1417,7 @@ PROPQUEST_INC_110105,Kill 3 Berserk Meteonykers,バーサークメテオニカ�
 PROPQUEST_INC_110106,"There is only one piece left, in the hands of our fellow guardian Airon. She is stubborn though, and you might need to convince her... if you can find her.",私たちの仲間の守護者アイロンが持っているのが最後の1つです。彼女は頑固なので、説得する必要があるかもしれません...彼女を見つけることができればですが。
 PROPQUEST_INC_110107,"The other two guardians may still be alive, but you are foolish to come here. Nobody is strong enough to face the Red Meteonyker.",他の2人の守護者はまだ生きているのでしょうけれど、ここに来るなんてあなたは愚かです。レッドメテオニカに立ち向かうほど強い人はもうどこにもいないわ。
 PROPQUEST_INC_110108,Kumah spoke to you? That's okay. He has too much faith in people. I'm a bit of a skeptic. Nothing has ever gone right in this terrible place for us.,クマーに話しかけられたの？ふっ、それはね、彼は人を信じすぎる癖があるからね。私は懐疑的。こんなひどい場所で、うまくいったためしがないもの。
-PROPQUEST_INC_110109,"Show me a convincing display of your strength. This chamber is filled with Katamaws, a ferocious beast that cannot be tamed. Kill 70 of them and I may consider trusting your abilities.",説得力があるなら今ここで見せてみなさいよ。 この付近はカタモーでいっぱいだし、飼いならすことなんてできない獰猛な獣だわ。せいぜい70匹殺せば、お前の力を認めてやる。
+PROPQUEST_INC_110109,"Show me a convincing display of your strength. This chamber is filled with Katamaws, a ferocious beast that cannot be tamed. Kill 70 of them and I may consider trusting your abilities.",説得力があるなら今ここで見せてみなさいよ。 この付近はカタモーでいっぱいだし、飼いならすことなんてできない獰猛な獣だわ。せいぜい70体殺せば、お前の力を認めてやる。
 PROPQUEST_INC_110110,Go on then.,早く行きなさい
 PROPQUEST_INC_110111,You surprise me. I was wrong about you.,驚いた、あんたを甘く見ていたわ。
 PROPQUEST_INC_110112,That's not nearly enough.,全然足りないわね。
@@ -1494,7 +1494,7 @@ PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to 
 PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",$QUEST_END_ITEM_NAME$をまだ見つけていませんか?それは大丈夫です、あなたがそれらを手に入れたらただ戻ってください。
 PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,おかえりヒーロー！忘却の塔に新たな脅威の報告がありました。$QUEST_END_KILL_NAME$を探して一掃してきてください。
 PROPQUEST_INC_110185,"Thank you hero, the $QUEST_END_KILL_NAME$ threat has been eliminated.",ありがとうヒーロー、$QUEST_END_KILL_NAME$の脅威が排除されました。
-PROPQUEST_INC_110186,"You weren't able to kill the $QUEST_END_KILL_NAME$ yet? That's alright, please return after you've won against the giant!",あなたはまだ$QUEST_END_KILL_NAME$を倒すことができませんでしたか?大丈夫、巨人に勝ったら戻ってください!
+PROPQUEST_INC_110186,"You weren't able to kill the $QUEST_END_KILL_NAME$ yet? That's alright, please return after you've won against the giant!",あなたはまだ$QUEST_END_KILL_NAME$を倒すことができませんでしたか?大丈夫、ジャイアントに勝ったら戻ってください!
 PROPQUEST_INC_110187,The Tower is filled with dangerous masquerpets. I understand if you do not wish to take the risk.,タワーは危険なモンスターでいっぱいです。あなたがリスクを冒したくないのなら、私は理解しています。
 PROPQUEST_INC_110188,Curiosity Killed the Cat (1),好奇心が猫を殺した(1)
 PROPQUEST_INC_110189,Curiosity Killed the Cat (2),好奇心が猫を殺した(2)
@@ -1516,16 +1516,16 @@ PROPQUEST_INC_110204,Keys for the Piano (1),ピアノのための鍵盤 (1)
 PROPQUEST_INC_110205,Keys for the Piano (2),ピアノのための鍵盤 (2)
 PROPQUEST_INC_110206,Heart of Iron (1),鉄の心 (1)
 PROPQUEST_INC_110207,Heart of Iron (2),鉄の心 (2)
-PROPQUEST_INC_110208,$QUEST_END_ITEM_NAME$ drops from any type of Catsy.,$QUEST_END_ITEM_NAME$ は、任意のタイプのキャスティからドロップします。
+PROPQUEST_INC_110208,$QUEST_END_ITEM_NAME$ drops from any type of Catsy.,$QUEST_END_ITEM_NAME$ は、任意のタイプのケットシーからドロップします。
 PROPQUEST_INC_110209,$QUEST_END_ITEM_NAME$ drops from any type of Harpy.,$QUEST_END_ITEM_NAME$ は、どのタイプのハーピーからでもドロップされます。
-PROPQUEST_INC_110210,$QUEST_END_ITEM_NAME$ drops from any type of Gullah.,$QUEST_END_ITEM_NAME$ は、どのタイプのガラからもドロップします。
-PROPQUEST_INC_110211,$QUEST_END_ITEM_NAME$ drops from any type of Abraxas.,$QUEST_END_ITEM_NAME$ は、任意のタイプのアブラカサスからドロップされます。
-PROPQUEST_INC_110212,$QUEST_END_ITEM_NAME$ drops from any type of Hague.,$QUEST_END_ITEM_NAME$は、あらゆるタイプのハーグからドロップされます。
-PROPQUEST_INC_110213,$QUEST_END_ITEM_NAME$ drops from any type of Tengu.,$QUEST_END_ITEM_NAME$ は、任意のタイプの天狗からドロップします。
-PROPQUEST_INC_110214,$QUEST_END_ITEM_NAME$ drops from any type of Asterius.,$QUEST_END_ITEM_NAME$ は、どのタイプのアステリウスからもドロップされます。
-PROPQUEST_INC_110215,$QUEST_END_ITEM_NAME$ drops from any type of Dantalian.,$QUEST_END_ITEM_NAME$ は、任意のタイプのダンタリアンからドロップされます。
-PROPQUEST_INC_110216,$QUEST_END_ITEM_NAME$ drops from any type of Gannessa.,$QUEST_END_ITEM_NAME$は、どのタイプのガネッサからもドロップします。
-PROPQUEST_INC_110217,$QUEST_END_ITEM_NAME$ drops from any type of Asuras.,$QUEST_END_ITEM_NAME$ は、任意のタイプのアスラからドロップされます。
+PROPQUEST_INC_110210,$QUEST_END_ITEM_NAME$ drops from any type of Gullah.,$QUEST_END_ITEM_NAME$ は、どのタイプのポレヴィックからもドロップします。
+PROPQUEST_INC_110211,$QUEST_END_ITEM_NAME$ drops from any type of Abraxas.,$QUEST_END_ITEM_NAME$ は、任意のタイプのアブラクサスからドロップされます。
+PROPQUEST_INC_110212,$QUEST_END_ITEM_NAME$ drops from any type of Hague.,$QUEST_END_ITEM_NAME$は、あらゆるタイプのハッグからドロップされます。
+PROPQUEST_INC_110213,$QUEST_END_ITEM_NAME$ drops from any type of Tengu.,$QUEST_END_ITEM_NAME$ は、任意のタイプのトートからドロップします。
+PROPQUEST_INC_110214,$QUEST_END_ITEM_NAME$ drops from any type of Asterius.,$QUEST_END_ITEM_NAME$ は、どのタイプのクヌムーからもドロップされます。
+PROPQUEST_INC_110215,$QUEST_END_ITEM_NAME$ drops from any type of Dantalian.,$QUEST_END_ITEM_NAME$ は、任意のタイプのダンタリアからドロップされます。
+PROPQUEST_INC_110216,$QUEST_END_ITEM_NAME$ drops from any type of Gannessa.,$QUEST_END_ITEM_NAME$は、どのタイプのガネーシャからもドロップします。
+PROPQUEST_INC_110217,$QUEST_END_ITEM_NAME$ drops from any type of Asuras.,$QUEST_END_ITEM_NAME$ は、任意のタイプのアシュラからドロップされます。
 PROPQUEST_INC_110218,The $QUEST_END_KILL_NAME$ has been spotted on the first floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$は、忘却の塔の1階で発見されました。
 PROPQUEST_INC_110219,The $QUEST_END_KILL_NAME$ has been spotted on the second floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$は、忘却の塔の2階で発見されました。
 PROPQUEST_INC_110220,The $QUEST_END_KILL_NAME$ has been spotted on the third floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$は、忘却の塔の3階で発見されました。
@@ -1591,29 +1591,29 @@ PROPQUEST_INC_130002,"Hero, the clouds over the island to the southeast have fin
 PROPQUEST_INC_130003,For the longest time we have been unable to travel to the famed Coral Island. I wonder who or what caused the clouds to dissipate?,長い間、私たちは有名なコーラルアイランドに旅行することができませんでした。誰が、あるいは何によって雲が消えたのだろうか?
 PROPQUEST_INC_130004,"Regardless of the reason, perhaps you should go pay a visit to the island and see what's new. ",理由はどうあれ、島に行って新しいものを見に行った方がいいかもしれません。
 PROPQUEST_INC_130005,Many years ago a skilled blacksmith from Darken City named BoBu traveled through the fog in search for rare materials. Go seek out Coral Island and see if BoBu managed to survive.,何年も前、ボブという名のダーコンシティの熟練した鍛冶屋が、珍しい材料を求めて霧の中を旅したそうです。コーラルアイランドを目指しましたが、果たしてボブが生き残ったかどうか・・・。
-PROPQUEST_INC_130006,"I understand hero, Coral Island has been uncharted territory for many years... Come back to me if you change your mind.",私は英雄を理解しています、珊瑚島は何年もの間未知の領域でした..。気が変わったら、私のところに戻ってきてください。
+PROPQUEST_INC_130006,"I understand hero, Coral Island has been uncharted territory for many years... Come back to me if you change your mind.",私は英雄を理解しています、コーラル・アイランドは何年もの間未知の領域でした..。気が変わったら、私のところに戻ってきてください。
 PROPQUEST_INC_130007,"Hello there traveler, I didn't expect to see one of you so soon after the clouds around Coral Island were lifted...",こんにちはそこの旅行者、私はコーラル島の周りの雲が持ち上げられた後、すぐにあなたの一人に会うとは思っていませんでした..
-PROPQUEST_INC_130008,Go seek out Coral Island and see if BoBu managed to survive.,珊瑚島を探しに行き、ボブブがなんとか生き残ったかどうか見てみましょう。
+PROPQUEST_INC_130008,Go seek out Coral Island and see if BoBu managed to survive.,コーラル・アイランドを探しに行き、ボブブがなんとか生き残ったかどうか見てみましょう。
 PROPQUEST_INC_130009,Find Your Bearings,方角を探す
 PROPQUEST_INC_130010,"Long ago I sailed into the mist that surrounded this island, hoping to discover something new and untouched in the land of Madrigal.",遠い昔、私はこの島を取り囲む霧の中を航海し、マドリガルの地で何か新しいもの、手つかずのものを発見しようと願っていました。
-PROPQUEST_INC_130011,"I found Coral Island nestled deep into the clouds, but something kept me from ever leaving.",珊瑚島は雲の奥深くに隠れていたが、何かが私を妨げていた。
+PROPQUEST_INC_130011,"I found Coral Island nestled deep into the clouds, but something kept me from ever leaving.",コーラル・アイランドは雲の奥深くに隠れていたが、何かが私を妨げていた。
 PROPQUEST_INC_130012,The mist that covered the island held some magic that prevented those who arrived from escaping.,島を覆う霧には、到着した者が逃げるのを防ぐ魔法が宿っていた。
 PROPQUEST_INC_130013,"With Coral Island open to all, we may begin seeing more travelers arrive over time. For now, go introduce yourself to Sunny Pang. Sunny Pang will help you in your adventures around the island.",コーラルアイランドはすべての人に開放されており、時間の経過とともにより多くの旅行者が到着し始める可能性があります。とりあえず、サニーパンに自己紹介しに行きましょう。サニーパンは、島を巡る冒険をお手伝いします。
 PROPQUEST_INC_130014,"Take your time, the island has a lot to offer. Come back to me when you are ready.",時間をかけて、島にはたくさんの魅力があります。準備ができたら、私のところに戻ってきてください。
-PROPQUEST_INC_130015,"Wow, it's a real adventure! It's been so long since we've had anyone come visit Coral Island. I wasn't sure this day would ever come!",うわー、それは本当の冒険です!珊瑚島に遊びに来る人がいるのは久しぶりです。まさかこんな日が来るとは思っていませんでした!
+PROPQUEST_INC_130015,"Wow, it's a real adventure! It's been so long since we've had anyone come visit Coral Island. I wasn't sure this day would ever come!",うわー、それは本当の冒険です!コーラル・アイランドに遊びに来る人がいるのは久しぶりです。まさかこんな日が来るとは思っていませんでした!
 PROPQUEST_INC_130016,Introduce yourself to Sunny Pang.,サニーパンに自己紹介してください。
 PROPQUEST_INC_130017,An Island Shrouded in Mystery,謎に包まれた島
-PROPQUEST_INC_130018,Those who call Coral Island their home have been unable to explore the world due to a curse placed on the island many years ago.,珊瑚島を故郷と呼ぶ人々は、何年も前に島にかけられた呪いのために世界を探検することができませんでした。
-PROPQUEST_INC_130019,The cause of the cursed mist that has kept the Coral Island inhabitants trapped is unknown.,珊瑚島の住民を閉じ込めた呪われた霧の原因は不明です。
+PROPQUEST_INC_130018,Those who call Coral Island their home have been unable to explore the world due to a curse placed on the island many years ago.,コーラル・アイランドを故郷と呼ぶ人々は、何年も前に島にかけられた呪いのために世界を探検することができませんでした。
+PROPQUEST_INC_130019,The cause of the cursed mist that has kept the Coral Island inhabitants trapped is unknown.,コーラル・アイランドの住民を閉じ込めた呪われた霧の原因は不明です。
 PROPQUEST_INC_130020,"However with the mist cleared from around the island, we can finally welcome fresh new faces to help us defend our small village!",しかし、島中の霧が晴れたことで、小さな村を守るために、ようやく新鮮な顔ぶれを迎えることができます!
-PROPQUEST_INC_130021,"Coral Island is a dangerous place. To prove you are an adventurer capable of surviving the dangers here, I want you to go explore the island and take down 200 of any kind of Atrox.",珊瑚島は危険な場所です。ここでの危険を生き延びることができる冒険者であることを証明するために、島を探索してあらゆる種類のアトロックスを200体倒してほしい。
+PROPQUEST_INC_130021,"Coral Island is a dangerous place. To prove you are an adventurer capable of surviving the dangers here, I want you to go explore the island and take down 200 of any kind of Atrox.",コーラル・アイランドは危険な場所です。ここでの危険を生き延びることができる冒険者であることを証明するために、島を探索してあらゆる種類のアトロックスを200体倒してほしい。
 PROPQUEST_INC_130022,We didn't expect everyone that arrived to be strong enough for this place. Perhaps you can return to Darken City. ,到着した皆さんがこんなにも強いとは思いませんでした。もしかすると、ダーコンシティに戻れる日が来るかもしれない・・・。
 PROPQUEST_INC_130023,I am impressed! Atrox are dangerous beasts known to cut down most creatures that approach them. You have proven yourself.,感動しました!アトロックスは、近づいてくるほとんどの生物を切り倒すことで知られる危険な獣です。あなたは自分自身を証明しました。
 PROPQUEST_INC_130024,"Atrox are dangerous foes, you'll need to successfully defeat more of them to prove yourself to me.",アトロックスは危険な敵だ、俺に実力を証明するには、もっと多くの敵を倒す必要がある。
 PROPQUEST_INC_130025,"Defeat 200 of any kind of Atrox, then return to Sunny Pang.",任意の種類のアトロックスを200体倒し、サニーパンに戻る。
 PROPQUEST_INC_130026,Clear the Paths,パスをクリアする
-PROPQUEST_INC_130027,Word has been going around the village about a strong new visitor that can hold their own against the ferocities of Coral Island.,噂は、珊瑚島の獰猛さに対抗することができる強力な新しい訪問者について村を駆け巡っています。
-PROPQUEST_INC_130028,"The number of Tigars on the island have exploded recently, and we're not sure why. It's hardly safe to walk along the paths of Coral Island anymore.",最近、島のタイガーの数が爆発的に増えていますが、その理由はよくわかっていません。珊瑚島の小道を歩くのはもう安全とは言い難い。
+PROPQUEST_INC_130027,Word has been going around the village about a strong new visitor that can hold their own against the ferocities of Coral Island.,噂は、コーラル・アイランドの獰猛さに対抗することができる強力な新しい訪問者について村を駆け巡っています。
+PROPQUEST_INC_130028,"The number of Tigars on the island have exploded recently, and we're not sure why. It's hardly safe to walk along the paths of Coral Island anymore.",最近、島のタイガーの数が爆発的に増えていますが、その理由はよくわかっていません。コーラル・アイランドの小道を歩くのはもう安全とは言い難い。
 PROPQUEST_INC_130029,"If you are willing to help us, go hunt enough Tigars to keep our paths safe for a while. Around 300 should do.",手伝ってくれるなら、しばらくの間、私たちの道を安全に保つために、十分な数のタイガーを狩りに行ってください。300体くらいでいいと思います。
 PROPQUEST_INC_130030,Perhaps no one is powerful enough to defeat the Tigars.,おそらく、タイガーを倒すのに十分な力を持つ人はいないでしょう。
 PROPQUEST_INC_130031,"Incredible, thank you for your efforts! We can safely travel around the land paths of the island again.",信じられない、あなたの努力に感謝します!島の陸路を再び安全に移動できます。
@@ -1672,31 +1672,31 @@ PROPQUEST_INC_130083,"It's been done, hero. We've defeated the Dorian and Okean,
 PROPQUEST_INC_130084,We're doomed... without your help we will never defeat the Dorian and Okean in time!,私たちは運命づけられています..あなたの助けがなければ、ドリアンとオケアンを倒すことはできません!
 PROPQUEST_INC_130085,"Collect trophies from any defeated Dorian and Okean, and defeat at least one Lord or Overlord of each!",ドリアンとオケアノスを倒してトロフィーを集め、それぞれのロードまたはオーバーロードを最低1体ずつ倒せ！
 PROPQUEST_INC_130086,Inky Darkness,漆黒の闇
-PROPQUEST_INC_130087,"I hope you are ready for our final challenge hero... According to legend, once every few hundred years the Sea King will release spawn onto Coral Island.",最後の挑戦ヒーローの準備ができていることを願っています..。伝説によると、数百年に一度、海王は珊瑚島に産卵を放つと言われています。
-PROPQUEST_INC_130088,"A strange darkness has began to fill the waters of Coral Island, so it seems as if the legend is true.",珊瑚島の海に奇妙な闇が満ち始めており、伝説が真実であるかのようです。
+PROPQUEST_INC_130087,"I hope you are ready for our final challenge hero... According to legend, once every few hundred years the Sea King will release spawn onto Coral Island.",最後の挑戦ヒーローの準備ができていることを願っています..。伝説によると、数百年に一度、海王はコーラル・アイランドに産卵を放つと言われています。
+PROPQUEST_INC_130088,"A strange darkness has began to fill the waters of Coral Island, so it seems as if the legend is true.",コーラル・アイランドの海に奇妙な闇が満ち始めており、伝説が真実であるかのようです。
 PROPQUEST_INC_130089,Please help us stave off the spawn of the Sea King!,海王の出現を食い止めるのを手伝ってください!
 PROPQUEST_INC_130090,"Thank you! Find where the Sea King has released their spawn, and defeat as many as you can. Let BoBu know once you've finished!",ありがとうございます！海の王が落とし子を放った場所を見つけて、できるだけ多くを倒してください。終わったらボブに知らせてください!
-PROPQUEST_INC_130091,"Soon the inky darkness will overflow Coral Island, and we will be engulfed...",やがて漆黒の闇が珊瑚島にあふれ、私たちは飲み込まれるだろう。
+PROPQUEST_INC_130091,"Soon the inky darkness will overflow Coral Island, and we will be engulfed...",やがて漆黒の闇がコーラル・アイランドにあふれ、私たちは飲み込まれるだろう。
 PROPQUEST_INC_130092,"Hohoho! You really do have a mysterious power within you, don't you hero?",ほ!あなたは本当にあなたの中に不思議な力を持っていますね、あなたはヒーローですよね?
 PROPQUEST_INC_130093,Will we become faceless like those that failed before us?,私たちは、先人たちのように顔が見えなくなってしまうのでしょうか?
 PROPQUEST_INC_130094,Defeat 500 of any type of Kraken.,いずれかのクラーケンを500体倒す。
 PROPQUEST_INC_130095,The Sea King Returns,海王リターンズ
-PROPQUEST_INC_130096,The great Sea King of Coral Island has finally returned to wreck havoc upon the land.,珊瑚島の偉大な海王がついに戻ってきて、陸地に大混乱をもたらしました。
+PROPQUEST_INC_130096,The great Sea King of Coral Island has finally returned to wreck havoc upon the land.,コーラル・アイランドの偉大な海王がついに戻ってきて、陸地に大混乱をもたらしました。
 PROPQUEST_INC_130097,The locals told me that getting near the beast could cause mortals to lose their mind...,地元の人たちは、獣に近づくと人間が正気を失ってしまう可能性があると教えてくれました。
 PROPQUEST_INC_130098,"This battle will take all the strength we can muster. If you make it out alive, go back to Darken City, and let the mayor know about all that happened here.",この戦いには全力を尽くす必要があります。生きて帰れたら、ダーコンシティへ戻って、ここで起こったことを市長に知らせてください。
 PROPQUEST_INC_130099,"The only path forward to end the curse of the Sea King is to slay the beast in its lair. Go forth and do the deed, for Coral Island!",海王の呪いを終わらせる唯一の道は、その隠れ家で獣を殺すことです。さあ、珊瑚の島のために行え!
 PROPQUEST_INC_130100,Those who lose their mind to the Sea King are said to become faceless.,海王に正気を失った者は、顔が見えなくなるといわれています。
-PROPQUEST_INC_130101,"Welcome back from Coral Island, hero! And what a story to tell, it's true that Coral Island is a fascinating place.",珊瑚島からおかえりなさい、ヒーロー!そして、コーラル島が魅力的な場所であることは事実です。
-PROPQUEST_INC_130102,BoBu and the Coral Island villagers sent something by mail for you as a way to say thanks. Perhaps they were too shy to give it to you themselves!,ボブと珊瑚島の村人たちは、感謝の気持ちを込めてメールで送ってくれました。もしかしたら、恥ずかしがり屋で、あなた自身に渡せなかったのかもしれません。
+PROPQUEST_INC_130101,"Welcome back from Coral Island, hero! And what a story to tell, it's true that Coral Island is a fascinating place.",コーラル・アイランドからおかえりなさい、ヒーロー!そして、コーラル島が魅力的な場所であることは事実です。
+PROPQUEST_INC_130102,BoBu and the Coral Island villagers sent something by mail for you as a way to say thanks. Perhaps they were too shy to give it to you themselves!,ボブとコーラル・アイランドの村人たちは、感謝の気持ちを込めてメールで送ってくれました。もしかしたら、恥ずかしがり屋で、あなた自身に渡せなかったのかもしれません。
 PROPQUEST_INC_130103,The Sea King consumes all who look into the void.,海の王は虚空を覗き込む者を全て飲み込む。
 PROPQUEST_INC_130104,Ultimate Crafting,究極のクラフト
 PROPQUEST_INC_130105,Orbs of Power,力のオーブ
-PROPQUEST_INC_130106,"Your arrival has come at a critical time, hero. Bring me Ultima, and in return I shall grant you the key to ultimate power.",英雄よ、君の到着は危機的な時期にやってきた。ウルティマを持ってきてくれ、その見返りに究極の力への鍵を授けよう。
-PROPQUEST_INC_130107,"Collect Ultima from the giant creatures that live on Coral Island, or from chests of plunder deep in The Wilds.",珊瑚島に生息する巨大な生き物や、荒野の奥深くにある略奪品の宝箱からウルティマを集めましょう。
-PROPQUEST_INC_130108,Without Ultima I cannot grant the ultimate power you seek.,ウルティマがいなければ、お前が求める究極の力を与えることはできない。
-PROPQUEST_INC_130109,"Well done, hero... I bestow upon you the power of the Ultimate Orb. Combine this with Shining Oricalkum and obtain ultimate power!",よくやった、ヒーロー..究極のオーブの力をあなたに授けます。シャイニング・オリカルクムと合体して究極のパワーを手に入れよう!
-PROPQUEST_INC_130110,I need more Ultima to complete the ritual.,儀式を完了するには、ウルティマがもっと必要です。
-PROPQUEST_INC_130111,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.,珊瑚島の巨人からウルティマを10個集め、荒野の宝箱を集める。
+PROPQUEST_INC_130106,"Your arrival has come at a critical time, hero. Bring me Ultima, and in return I shall grant you the key to ultimate power.",英雄よ、君の到着は危機的な時期にやってきた。アルティマを持ってきてくれ、その見返りに究極の力への鍵を授けよう。
+PROPQUEST_INC_130107,"Collect Ultima from the giant creatures that live on Coral Island, or from chests of plunder deep in The Wilds.",コーラル・アイランドに生息するジャイアントや、ワイルズの奥深くにある略奪品の宝箱からアルティマを集めましょう。
+PROPQUEST_INC_130108,Without Ultima I cannot grant the ultimate power you seek.,アルティマがなければ、お前が求める究極の力を与えることはできない。
+PROPQUEST_INC_130109,"Well done, hero... I bestow upon you the power of the Ultimate Orb. Combine this with Shining Oricalkum and obtain ultimate power!",よくやった、ヒーロー..究極の力が宿ったオーブをあなたに授けます。輝くオリハルコンと合体して究極の力を手に入れよう!
+PROPQUEST_INC_130110,I need more Ultima to complete the ritual.,儀式を完了するには、アルティマがもっと必要です。
+PROPQUEST_INC_130111,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.,コーラル・アイランドのジャイアントやワイルズの宝箱からアルティマを10個を集める。
 PROPQUEST_INC_132000,New Hero,新たなヒーローの誕生
 PROPQUEST_INC_132001,"Your will and ability have proven you to be a master in both thought and deed. Now that you've shown your true strength, it is time for your final task.",あなたの意志と能力は、あなたが思考と行動の両方においてマスターであることを証明しています。本当の力を見せつけたところで、いよいよ最後の仕事です。
 PROPQUEST_INC_132002,I need you to reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,レベル125に到達し、$QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$を持ってきてください。それができるのは本物のヒーローだけです!
@@ -2102,17 +2102,17 @@ PROPQUEST_INC_150049,Meet with Liekyen,リエキエンに会う
 PROPQUEST_INC_150050,Seeking the Witness… 2,証人を求めて…2
 PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことだった。影が見えてモンスターかと思ったんだが……空から落ちてきた船だったんだ。
 PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に調べた時、船には誰も乗っていなかった。遺体すら一つもない。何か使えるものがないか調べたんだが、見つかったのは奇妙な暗号だらけの本だけだった。何が書いてあるか気になるか？
-PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、イニシスに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
+PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、ロッテンマイヤーに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
 PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？まあ、それはお前次第だ。
-PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",イニシスなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
+PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",ロッテンマイヤーなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
 PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌のことで来たのか？
-PROPQUEST_INC_150057,Meet with Inisis,イニシスに会う
+PROPQUEST_INC_150057,Meet with Inisis,ロッテンマイヤーに会う
 PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて…1
 PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,結局、ただの簡単な航海日誌だったわ。特別なことは何も書かれていないの。まだ手がかりを探しているの？
 PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、それを読んだ後、アマドルカーが何か他に見つかるか、ダーコンの山をもう一度探すことにしたのよ。セイントシティへ戻る前に、彼に会っておくべきね。
 PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",忙しすぎるなら仕方ないわ。気をつけてね。
 PROPQUEST_INC_150062,You haven’t left yet?,まだ出発していないの？
-PROPQUEST_INC_150063,Inisis sent you?,イニシスがお前をよこしたのか？
+PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーがお前をよこしたのか？
 PROPQUEST_INC_150064,Meet with Amadolka,アマドルカーに会う
 PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて…2
 PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの鋭い女め……私が何も言っていないのに、どうしてお前をよこすとわかったんだ？本当にこれが必要なのか？
@@ -2272,7 +2272,7 @@ PROPQUEST_INC_150219,He… he was the spy?,彼が……彼がスパイだった�
 PROPQUEST_INC_150220,Get 50 Stolen Supplies and 1 Secret Letter,盗まれた物資を50個と秘密の手紙を1通入手する
 PROPQUEST_INC_150221,Hunt the Mole,スパイを狩れ
 PROPQUEST_INC_150222,"We had reports that he left the village in a hurry, but… to think a village elder would betray us. It’s tragic, but we don’t have enough soldiers to both defend the village and track him. Could you do it?",彼が急いで村を出たという報告は受けていたが……村の長老が我々を裏切るとはな。悲劇だが、村を守りながら彼を追う兵士の余裕がないんだ。お前がやってくれないか？
-PROPQUEST_INC_150223,"If possible, bring him back alive. If not… eliminate him. Smaller Kanonicus were carrying stolen supplies and a secret letter. He should still be nearby.",可能なら、彼を生きたまま連れ戻してくれ。無理なら……始末してくれ。小型のライカンアーチャーが盗まれた物資と秘密の手紙を運んでいた。まだ近くにいるはずだ。
+PROPQUEST_INC_150223,"If possible, bring him back alive. If not… eliminate him. Smaller Kanonicus were carrying stolen supplies and a secret letter. He should still be nearby.",可能なら、彼を生きたまま連れ戻してくれ。無理なら……始末してくれ。スモール・ライカンアーチャーが盗まれた物資と秘密の手紙を運んでいた。まだ近くにいるはずだ。
 PROPQUEST_INC_150224,"Right now, you’re the only one who can move freely. We’ll be waiting.",今、自由に動けるのはお前だけだ。待っているぞ。
 PROPQUEST_INC_150225,"We must make an example of this traitor, or the village won’t be safe for long. Please, see it through.",この裏切り者を見せしめにしなければ、村の安全は長く続かないだろう。頼む、最後までやり遂げてくれ。
 PROPQUEST_INC_150226,"You did well. Here, I’ve compiled what you were looking for. Take your time reading it—you’ll learn plenty about our history.",よくやってくれた。ほら、お前が探していたものをまとめておいた。ゆっくり読んでくれ——我々の歴史について、多くを学べるはずだ。

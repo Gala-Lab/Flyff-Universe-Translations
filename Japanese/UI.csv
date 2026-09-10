@@ -745,6 +745,7 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,デュエルの結果、%s に勝利しま
 UI_CASHSHOP_RELOAD,TOP-UP,チャージ
 UI_CASHSHOP_LEGALINFO,Legal Information,法的事項
 UI_CASHSHOP_GSC,General Sales Conditions,一般的販売条件
+UI_CASHSHOP_TOS,Terms of Service,利用規約
 UI_CASHSHOP_SHOWALL,Show All,全て表示
 UI_CASHSHOP_SEARCH,Search:,検索:
 UI_CASHSHOP_SORT_DEFAULT,Default,初期化
@@ -877,7 +878,7 @@ UI_APP_STATUS_TIP,View your character's status.,キャラクターの状態
 UI_APP_CHAT_TIP,Show/hide the chat window.,チャットウィンドウを表示します。
 UI_APP_QUIT_TIP,Exit the game.,プログラムを終了します。
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,カスタマーサポートを開く
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,プライバシー設定を開く。
+UI_APP_PRIVACY_TIP,Open cookie settings.,Cookieの設定を開く。
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,接続終了
 UI_APP_OPTION_TIP,Open the game's options window.,オプション
 UI_APP_MAP_TIP,View the world map.,ワールドの全体地図が見れます。
@@ -1104,8 +1105,8 @@ UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,ウェポンソケットカー�
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,武器素材カードを登録します。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,武器素材のカードを3枚合体させると、同グレードのカードが1枚手に入ります。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,カードを入れ替えると、素材として使われていたカードは消えます。続行しますか?
-UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,帰属を変換する
-UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムをソウルリンクタイプに変換できます。
+UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,キャラ帰属に変換する
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムはキャラ帰属になり、NPCへの売却ができなくなります。プロパティの違いにより重ならないアイテムを重ねたい場合にこの処理を利用できます。注意：キャラ帰属アイテムは取引できず、この操作は元に戻せません。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,変換されたアイテムは返品できません。続行しますか?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,このアイテムは変換できません。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,この巻物を使用すると、ギルドに所属できるメンバーが永久に5人分増加します。現在のギルドでのみ機能します。新たに他のギルドへ入った場合は、効果はありません。使用しますか？
@@ -1301,7 +1302,7 @@ UI_CHAT_TITLE,Chat,チャット
 UI_CHAT_FILTERS,Filters,フィルター
 UI_CHAT_VIEW_LANGUAGES,View Languages,言語を表示
 UI_CHAT_YOUR_LANGUAGE,Your Language,使用言語
-UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,帰属を変換する
+UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,キャラ帰属に変換する
 UI_INVENTORY_PUTCHAT,Link in Chat,チャットでリンク
 UI_INVENTORY_LOCK,Mark Favorite,お気に入りにする
 UI_INVENTORY_UNLOCK,Unmark Favorite,お気に入りを解除する
@@ -1404,7 +1405,7 @@ UI_TOOLTIP_ITEM_BINDING,Binding,関連
 UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,このアイテムは対象のアイテムを帰属(Soul-Bound)にします。
 UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000この操作により、アイテムはあなたのキャラクターに帰属（バインド）されます。帰属解除の巻物で解除することができます。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,このアイテムは、キャラクターに帰属されています。
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[装備帰属]
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[キャラ帰属]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,帰属（バインド）を解除できます。
 UI_BINDING_TITLE,Binding,関連
 UI_BINDING_CONFIRM,Do you want to continue?,続けますか？
@@ -1569,7 +1570,7 @@ UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,ベリーを収穫する
 UI_BATTLEPASS_MISSION_RAISEPET,Raise a Pet to %s,育成ペットを %s に上げる
 UI_BATTLEPASS_POINTS,Points,ポイント
 UI_BATTLEPASS_PASSGRADE,Pass Tier,ティア
-UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb（サーバー時間）\n今週の獲得可能ポイント: #b%d / %d#nb\nシーズンミッションで獲得した#iPoints は週の上限には含まれません。#ni\n#iSome 報酬はレベル%d#niに到達すると強化されます
+UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,拡張バトルパスを購入する
 UI_BATTLEPASS_CLAIM,Claim Rewards,報酬を受け取る
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,全員が獲得可能な基本報酬！
@@ -1896,9 +1897,9 @@ UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Ask the Buff Pang for Buffs,バフパ�
 UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the Action Slot,%s 以上のコンボを実行する アクション スロットを使用
 UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Wear a Set With a Set Effect,セットエフェクトを有効にする
 UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,カルガスアサルトをフィニッシュ
-UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了: #b%s#nb (サーバー時間)\n今週のポイント上限: #b%d / %d#nb\nシーズン ミッションで獲得した#iPoints は週間上限に含まれません #ni
-UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (サーバー時間)\n#ni\nレベル %d#ni に到達すると、#iSome 報酬が強化されます
-UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s シーズン終了: #b%s#nb (サーバー時間)\n#ni
+UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。
+UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s シーズン終了日: #b%s#nb (サーバー時間)
 UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all players who purchase it.,スターターパスに有効期限はなく、すべてのプレイヤーが使用できます。
 UI_QUEST_STARTABLE,Startable,スターテーブル
 UI_SUMMERPASS2023,Summer Pass,サマーパス
@@ -2001,10 +2002,10 @@ UI_BATTLEPASS_OCT,October %d Pass,10 月 %d パス
 UI_BATTLEPASS_NOV,November %d Pass,11月 %d パス
 UI_BATTLEPASS_DEC,December %d Pass,12 月 %d パス
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,ログイン 連続 %s 日
-UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n 今週の\nポイント上限: #b%d / %d#nb\n シーズン ミッションで獲得した\n#iPoints は週間上限に含まれません。#ni\n#iSome レベル %d#ni に到達すると報酬が強化されます
-UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n 今週の\nポイント上限: #b%d / %d#nb\n シーズン ミッションで獲得した\n#iPoints は週間上限に含まれません #ni
-UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n#ni\n#iSome レベル %d#ni に到達すると報酬が強化されます
-UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s シーズン終了: #b%s#nb (UTC 時間)\n#ni
+UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。
+UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s シーズン終了日: #b%s#nb（サーバー時間）
 UI_REMOTE_SHOP_TITLE,Remote Shop,リモートショップ
 UI_HALLOWEENPASS,Halloween Pass,ハロウィンパス
 UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,スロットを追加
@@ -2143,8 +2144,8 @@ UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,究極アップグ�
 UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,究極アップグレード+4を達成した
 UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,究極アップグレード+5を達成した
 UI_RAINBOWRACE_RANKING,Leaderboard,リーダーボード
-UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,生け贄アイテムの一部がアカウントリンクされているため、#cffff0000You アカウントリンクアイテムを取得します #nc
-UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000生け贄のアイテムの一部がキャラ帰属になっているため、完了後はキャラ帰属アイテムとなります。#nc
+UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000交換アイテムの一部がアカウント帰属になっているため、完了後はアカウント帰属アイテムとなります。#nc
+UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000交換アイテムの一部がキャラ帰属になっているため、完了後はキャラ帰属アイテムとなります。#nc
 UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,レインボーレース
 UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to the starting point? If you decline, you will be disqualified with no refund.",レインボーレースがまもなく始まります。スタート地点にテレポートしますか?辞退した場合、レースから失格となり、払い戻しは行われません。
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,クリスマスパス 2023
@@ -2308,7 +2309,7 @@ UI_CHATFILTER_TEAM,Team,チーム
 UI_CHAT_TEAM_TIP,Send messages to your team members.,チームメンバーにメッセージを送信する。
 UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit a Friend's House,友達の家を訪ねる
 UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter an Instanced Dungeon,インスタンスダンジョンに入る
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,友人の家を訪問し、心を押す
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,友人の家を訪問し、いいね！を押す
 UI_TOOLTIP_FLYSPEEDRATE,Flying Speed,飛行速度
 UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,経験値損失の低減
 UI_TOOLTIP_REVIVEHP,HP Restored on Revive,蘇生時にHPが回復
@@ -2789,10 +2790,10 @@ UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,ショッ
 UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,ショップ広告アイテムは再利用できません。
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神の祝福
 UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,悪魔の祝福
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,デーモンの祝福
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,悪魔の祝福
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,ペットインベントリ枠
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,祝福を使用しますか？
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはソウルリンクされます。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはキャラ帰属になります。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.",レシピを完全に習得していないため、各素材が1つずつのみ使用されます。
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,クエスト完了
 UI_TELEPORT_ARENA,Exit the arena?,アリーナから退出しますか？
@@ -3487,3 +3488,5 @@ UI_WAVEDEFENSE_STATUS_LEAVE,Leave,退出
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,本当にマッチから退出しますか？
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWCチャンピオンシップパス
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,本日の報酬：%d / %d 受け取り済み
+UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP記念パス
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","このアイテムは、2026年10月29日のメンテナンス後に削除されます。"
