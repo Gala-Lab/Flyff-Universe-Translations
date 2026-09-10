@@ -19545,15 +19545,15 @@ PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and
 PROPITEM_TXT_145003,Pet Reroll Scroll,Parchemin de Relance de Familier
 PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Permet de relancer le niveau d’un palier de familier. Une fois que vous choisissez de relancer un palier, tous les autres paliers ne pourront plus être relancés avec un parchemin de relance."
 PROPITEM_TXT_145005,Scale of Luminfin,Écaille de Luminfin
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente. [Contribution Guilde : 83].
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,"Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente. [Contribution Guilde : 83].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145007,Magic water stone,Pierre Magique d’Eau
 PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,Objet de quête : Pierre Magique d’Eau pour aider à identifier la zone.
 PROPITEM_TXT_145009,Magic Water Stone analysis results,Résultats de l'analyse de la Pierre Magique d’Eau
 PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?","Objet de quête : Résultats de l'analyse de la Pierre Magique d’Eau, est-ce vraiment Herneos ?"
 PROPITEM_TXT_145011,Dreadfin Tooth,Dent de Dreadfin
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat. [Contribution Guilde : 73].
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,"Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat. [Contribution Guilde : 73].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145013,Dreadscale Medallion,Médaille Dreadscale
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance. [Contribution Guilde : 82].
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,"Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance. [Contribution Guilde : 82].\nÉgalement nécessaires pour accéder au Kriton : 10 exemplaires de chaque IQ d'Herneos en mode Facile, 15 en mode Moyen et 20 en mode Difficile."
 PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Boîte NPC Aléatoire pour Logement (7 jours)
 PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contient un NPC aléatoire pour logement de 7 jours. Le NPC sera lié à votre personnage du joueur.
 PROPITEM_TXT_145017,Shop Advertisement (Gold),Publicité de Boutique (Or)
@@ -23375,7 +23375,7 @@ PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 min
 PROPITEM_TXT_134839,2025 FWC Yellow PopCorn,PopCorn Jaune FWC 2025
 PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.,Cet PopCorn Jaune FWC 2025 vous donnera +25 STA pendant 30 minutes
 PROPITEM_TXT_134841,Fortune Pang,Pang Fortune
-PROPITEM_TXT_134842,Pick up pet,Animal de compagnie à récupérer
+PROPITEM_TXT_134842,Pick up pet,Un petit pang chanceux qui suit son maître et ramasse les objets laissé dernière lui.
 PROPITEM_TXT_134843,Obsidian Flame Weapon Skin Select Box,Boîte de Sélection Apparence Arme Obsidian Flame
 PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection.,Sélectionnez votre couleur préférée dans la collection Obsidian Flame
 PROPITEM_TXT_134845,Autumn Upgrade Package A,Pack d'Amélioration Automne A
