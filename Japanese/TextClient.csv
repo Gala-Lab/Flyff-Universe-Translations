@@ -15,7 +15,7 @@ TEXTCLIENT_APP_OPTION,Options,オプション
 TEXTCLIENT_APP_LOGOUT,Log Out,接続終了
 TEXTCLIENT_APP_QUIT,Quit,ゲーム終了
 TEXTCLIENT_APP_SUPPORT,Support,サポート
-TEXTCLIENT_APP_PRIVACY,Cookie Settings,プライバシー
+TEXTCLIENT_APP_PRIVACY,Cookie Settings,Cookieの設定
 TEXTCLIENT_APP_NAVIGATOR,Navigator,ナビゲーター
 TEXTCLIENT_APP_DEBUG,Debug,デバッグ
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒後、終了します。
