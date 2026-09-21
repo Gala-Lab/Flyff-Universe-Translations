@@ -421,7 +421,7 @@ CLIENT_HELP_INC_000419,"The first job class for Assists, uses a staff like an As
 CLIENT_HELP_INC_000420,Protect,プロテクト
 CLIENT_HELP_INC_000421,This buff increases the physical defense of the target.,一定時間、対象を目に見えない障壁で包み、防御力を上昇させます。
 CLIENT_HELP_INC_000422,Holyguard,ホーリーガード
-CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,一定時間、対象を目に見えない結界で包み、魔法防御力を上昇させます。
+CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,一定時間、対象を目に見えない結界で包み、クリティカル耐性を上昇させます。
 CLIENT_HELP_INC_000424,Holycross,ホーリークロス
 CLIENT_HELP_INC_000425,The enemy will take double damage.,神の加護を受けて、敵に2倍のダメージを与えます。
 CLIENT_HELP_INC_000426,Spiriture Fortune,エンチャントウェポン

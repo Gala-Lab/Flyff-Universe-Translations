@@ -3965,7 +3965,7 @@ PROPITEM_TXT_007292,Ruby of Joy,喜びのルビー
 PROPITEM_TXT_007293,"Joy, Anger, Sorrow bring those 3 Rubies to the altar.",喜びの感情を持ったルビー。喜び、怒り、悲しみ、イブリス神殿には感情を持ったルビーが3種類あると伝えられている。
 PROPITEM_TXT_007294,Ruby of Anger,怒りのルビー
 PROPITEM_TXT_007296,Ruby of Sorrow,悲しみのルビー
-PROPITEM_TXT_007298,Font Editor,フォン・エディ
+PROPITEM_TXT_007298,Font Editor,フォントエディタ
 PROPITEM_TXT_007299,Color your chat message! Just highlight your text and right click with your mouse!,チャット文字を装飾できるようになります。1.チャットウィンドウに文字を入力。2.装飾したい部分をドラックして選択。3.右クリックで表示される「文字編集」をクリック。4.編集後、Enterキーを押せばできあがりです。(効果時間:2時間)
 PROPITEM_TXT_007300,Level Booster Pack (Level 20),レベルアップ(20)パッケージ
 PROPITEM_TXT_007301,"Contains several useful items for the average adventurer including Scrolls of Amplification ES20, Bull Hamstern, and Upcut Stones.",戦神の巻物ES20、ブル・ハンスターム、パワーストーンなど、レベル上げに役立つアイテムが入っています。
@@ -4779,7 +4779,7 @@ PROPITEM_TXT_014220,Colosseum Champion's Shoes (M),栄光のレッドシュー�
 PROPITEM_TXT_014424,Steam Punk Shoes (F),スチームパンクシューズ(女の子用)
 PROPITEM_TXT_011182,Champion's Cloak,アルティマーヒーローマント
 PROPITEM_TXT_015430,Traditional Taiwan Hat (M),シディグハット(男の子用)
-PROPITEM_TXT_013568,Road Hog Boots (M),モーターサイクルシューズ(男の子用)
+PROPITEM_TXT_013568,Road Hog Boots (M),モーターサイクルブーツ(男の子用)
 PROPITEM_TXT_019643,Vengeance Mask of the Almighty Blood Dragon,複数の夢見る破壊のブラッドドラゴンマスク
 PROPITEM_TXT_009612,Martial artist Hair (M),格闘家ヘアー(男の子用)
 PROPITEM_TXT_016882,Vampire shoes for Female characters,吸血鬼の靴
@@ -4843,7 +4843,7 @@ PROPITEM_TXT_017087,Luxurious Ski Gloves (M),ラグジュアリースキー手�
 PROPITEM_TXT_011022,Bathroom Slippers (M),シャワースリッパ(男の子用)
 PROPITEM_TXT_013564,Road Hog Hat (M),モーターサイクルバンダナ(男の子用)
 PROPITEM_TXT_009565,Geta are a form of traditional Japanese footwear that resemble both clogs and flip-flops.,下駄は日本の伝統的な履物です。海外ではビーチサンダルと間違えられることもあるみたい。
-PROPITEM_TXT_013571,Road Hog Suit for Female characters.,ロードホッグスーツ。
+PROPITEM_TXT_013571,Road Hog Suit for Female characters.,モーターサイクルウェア(女の子用)
 PROPITEM_TXT_015862,A foreboding suit from the land of the dead. Benevolent spirits take notice of your sense of fashion.,死者の国からの予兆のスーツ。慈悲深い精神はあなたのファッション感覚に注意を払います。
 PROPITEM_TXT_009740,Baseball Suit (M),野球ユニフォーム(男の子用)
 PROPITEM_TXT_012263,This Cloak has a full length depiction of the flag of Netherlands on it .,このマントにはオランダの国旗が描かれています。 
@@ -5132,7 +5132,7 @@ PROPITEM_TXT_012265,This Cloak has a full length depiction of the flag of Nigeri
 PROPITEM_TXT_012250,Enchantress Shoes (F),デビル靴(女の子用)
 PROPITEM_TXT_012248,Enchantress Gloves (F),デビル手袋(女の子用)
 PROPITEM_TXT_012638,OMG Cloak Box (3 days),OMGマントボックス(3日間)
-PROPITEM_TXT_013573,Road Hog Hat for Female characters.,ロードホッグハット。
+PROPITEM_TXT_013573,Road Hog Hat for Female characters.,モーターサイクルバンダナ(女の子用)
 PROPITEM_TXT_015172,Warrior's Suit (M),勇士の衣装(男の子用)
 PROPITEM_TXT_010412,Gothic Gloves (M),ゴシックハンド(男の子用)
 PROPITEM_TXT_012320,Matador's Cloak,マタドールマント
@@ -5146,7 +5146,7 @@ PROPITEM_TXT_014181,A Samba Hat for female characters to commemorate Carnival.,�
 PROPITEM_TXT_020596,Blue Snowboarder Suit for Male Characters.,ブルースノーボーダースーツ(男の子用)。
 PROPITEM_TXT_013795,Casanova Shoes for male characters.,ラブエンジェルシューズの男の子用
 PROPITEM_TXT_017057,Stylish Santa Gloves (F),スタイリッシュサンタ手袋(女の子用)
-PROPITEM_TXT_013567,Road Hog Gloves for Male characters.,ロードホッググローブ。
+PROPITEM_TXT_013567,Road Hog Gloves for Male characters.,モーターサイクルグローブ(男の子用)
 PROPITEM_TXT_020491,Blue Santa Hat (M),ブルーサンタ帽子(男)
 PROPITEM_TXT_020610,Blue Snowboarder Shoes for Female Characters.,ブルースノーボーダーシューズ(女の子用)。
 PROPITEM_TXT_009561,"A yukata is a Japanese garment, a casual summer kimono usually made of cotton. This one is for female characters.",浴衣は日本の衣服で、通常は綿で作られたカジュアルな夏の着物です。
@@ -5187,7 +5187,7 @@ PROPITEM_TXT_014170,Samba Suit (M),サンバドレス(男の子用)
 PROPITEM_TXT_009760,Kung Fu Suit (M),拳法着(男の子用)
 PROPITEM_TXT_015282,FWC 2011 Golden Crown (M),FWC1位記念のハット(男の子用)
 PROPITEM_TXT_015220,Mizu Yukata (M),鶴翁の浴衣(男の子用)
-PROPITEM_TXT_013576,Road Hog Boots (F),モーターサイクルシューズ(女の子用)
+PROPITEM_TXT_013576,Road Hog Boots (F),モーターサイクルブーツ(女の子用)
 PROPITEM_TXT_011958,Mad Hatter's Hat (M),マッドハッターハット(男の子用)
 PROPITEM_TXT_017979,Giraffe Hat (M),キリンのかぶり物(男の子用)
 PROPITEM_TXT_016607,2014 Giraffe Mask,2014キリン仮面
@@ -5232,7 +5232,7 @@ PROPITEM_TXT_016825,Casual Shoes (M),カジュアルシューズ
 PROPITEM_TXT_016846,A traditional hat from Germany for women.,ドイツの伝統的な女性用帽子です。
 PROPITEM_TXT_015433,Traditional Taiwan Shoes for male characters.,伝統的な台湾の靴。
 PROPITEM_TXT_015455,An astonishing cloak rewarded to the regional winners of the 2011 FWC Colosseum Challenge.,2011年のFWCコロッセオチャレンジの地域の勝者に報われた驚くべきマント。
-PROPITEM_TXT_013575,Road Hog Gloves for Female characters.,ロードホッググローブ。
+PROPITEM_TXT_013575,Road Hog Gloves for Female characters.,モーターサイクルグローブ(女の子用)
 PROPITEM_TXT_018701,Dark Prince Boots (M),ダークプリンスブーツ(男)
 PROPITEM_TXT_010943,Cyber Punk Outfit for male characters. Who you callin' a punk?!,サイバーパンク衣装。誰をパンクと呼んでいますか？！
 PROPITEM_TXT_010428,Spacesuit Hat (M),コズミックヘルメット(男の子用)
@@ -5299,7 +5299,7 @@ PROPITEM_TXT_014175,Samba Gloves for male characters to commemorate Carnival.,�
 PROPITEM_TXT_016031,Boots of the Aibatt (M),ブリティッシュブーツ(男の子用)
 PROPITEM_TXT_010172,Cloak of Australia,ワールドフリフマント(オーストラリア)
 PROPITEM_TXT_017238,Gloves / Size M,手袋 / サイズM
-PROPITEM_TXT_013569,Road Hog Boots for Male characters.,ロードホッグブーツ。
+PROPITEM_TXT_013569,Road Hog Boots for Male characters.,モーターサイクルブーツ(男の子用)
 PROPITEM_TXT_010954,Cyber Punk Gloves (F),ダンシングハンド(女の子用)
 PROPITEM_TXT_010769,Traditional Native American Gloves for Female Characters.,伝統的なネイティブアメリカンの手袋。
 PROPITEM_TXT_009904,Traditional Philippines Gloves (F),フィリピン手袋(女の子用)
@@ -5319,7 +5319,7 @@ PROPITEM_TXT_017081,Luxurious Ski Goggles,豪華なスキーゴーグル
 PROPITEM_TXT_009968,Traditional Chile Hand (M),ピスコハンド(男の子用)
 PROPITEM_TXT_017120,Upgraded samurai hat for male.,アップグレードされたサムライハット。
 PROPITEM_TXT_020360,Purple Gothic Gloves for Female Characters.,女の子用のゴシックグローブ。
-PROPITEM_TXT_013565,Road Hog Hat for Male characters.,ロードホッグハット。
+PROPITEM_TXT_013565,Road Hog Hat for Male characters.,モーターサイクルバンダナ(男の子用)
 PROPITEM_TXT_013583,Reconnaissance Gloves for a Male character.,偵察用手袋。
 PROPITEM_TXT_013802,Heartbreaker Shoes (F),ラブエンジェルシューズ(女の子用)
 PROPITEM_TXT_017037,Frog Gloves 2015 (F),けろけろ前足(女の子用)
@@ -5569,7 +5569,7 @@ PROPITEM_TXT_016791,I Believe I Can FLYFF Helmet (blue) (M),宇宙人ヘルメ�
 PROPITEM_TXT_015252,FWC 3rd Place Suit (F),FWC3位記念ウェア(女の子用)
 PROPITEM_TXT_012246,Enchantress Suit (F),デビル衣装(女の子用)
 PROPITEM_TXT_012980,Zombie Hunter's Cloak,ゾンビハンターマント
-PROPITEM_TXT_013563,Road Hog Suit for Male characters.,ロードホッグスーツ。
+PROPITEM_TXT_013563,Road Hog Suit for Male characters.,モーターサイクルウェア(男の子用)
 PROPITEM_TXT_009613,Martial artist Hair for Male Characters,武道家のヘアスタイル
 PROPITEM_TXT_010747,A cute Red Riding Hood Suit for Female Characters. 'Beware of wolves in grandma's clothing'.,赤ずきんスーツ。「おばあちゃんの服を着たオオカミに注意してください」。
 PROPITEM_TXT_009902,Traditional Philippines Suit (F),フィリピン衣装(女の子用)
@@ -5619,7 +5619,7 @@ PROPITEM_TXT_017263,Cat Gloves (M),ねこ手袋(男の子用)
 PROPITEM_TXT_015866,Shoes to complement the Shinigami fashion.,退魔師ファッションを引き立てるシューズ
 PROPITEM_TXT_020359,Purple Gothic Gloves (F),パープルゴシックグローブ(女の子用)
 PROPITEM_TXT_010288,NFL Gloves (M),アメフトグローブ(男の子用)
-PROPITEM_TXT_013577,Road Hog Boots for Female characters.,ロードホッグブーツ。
+PROPITEM_TXT_013577,Road Hog Boots for Female characters.,モーターサイクルブーツ(女の子用)
 PROPITEM_TXT_020351,Purple Gothic Shoes (M),パープルゴシックシューズ(男の子用)
 PROPITEM_TXT_017056,Santa's Suit (colored version),サンタスーツ(カラー)
 PROPITEM_TXT_015667,Suit of the Almighty Dragon King (F),破壊の竜王ドレス(女の子用)
@@ -8852,11 +8852,11 @@ PROPITEM_TXT_102244,Gives +1% Block Penetration when applied to a pierced weapon
 PROPITEM_TXT_102245,Lava Card (D),Lv1溶岩のカード(D級)(WS)
 PROPITEM_TXT_102246,Gives +0.5% Block Penetration when applied to a pierced weapon or shield.,武器や盾に装着するとブロック貫通力+0.5%
 PROPITEM_TXT_102247,Volt Card (A),Lv4電撃のカード(A級)(WS)
-PROPITEM_TXT_102248,"Gives +1% Skill Damage, +3% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+1%、MP消費+3%、FP消費減少
+PROPITEM_TXT_102248,"Gives +1% Skill Damage, +3% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+1%、MP/FP消費減少+3%
 PROPITEM_TXT_102249,Volt Card (B),Lv3電撃のカード(B級)(WS)
-PROPITEM_TXT_102250,"Gives +0.8% Skill Damage, +2% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+0.8%、MP消費+2%、FP消費減少
+PROPITEM_TXT_102250,"Gives +0.8% Skill Damage, +2% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+0.8%、MP/FP消費減少+2%
 PROPITEM_TXT_102251,Volt Card (C),Lv2電撃のカード(C級)(WS)
-PROPITEM_TXT_102252,"Gives 0.6% Skill Damage, +1% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+0.6%、MP消費+1%、FP消費減少
+PROPITEM_TXT_102252,"Gives 0.6% Skill Damage, +1% MP and FP Consumption Decrease when applied to a pierced weapon or shield.",武器や盾に装着するとスキルダメージ+0.6%、MP/FP消費減少+1%
 PROPITEM_TXT_102253,Volt Card (D),Lv1電撃のカード(D級)(WS)
 PROPITEM_TXT_102254,Gives +0.4% Skill Damage when applied to a pierced weapon or shield.,武器や盾に装着するとスキルダメージ+0.4%
 PROPITEM_TXT_009632,Cat Bell,猫の鈴
@@ -30289,13 +30289,13 @@ PROPITEM_TXT_1903406,Neon Pang Suit (M),ネオンパンスーツ(M)
 PROPITEM_TXT_1903407,Neon Pang Shoes (M),ネオンパンシューズ(M)
 PROPITEM_TXT_1903408,Neon Pang Hands (M),ネオンパングローブ(M)
 PROPITEM_TXT_1903409,Neon Pang Set (M),ネオンパンセット(M)
-PROPITEM_TXT_1903410,The Neon Pang Set for male characters.,男性キャラクター用のネオンパンセット
+PROPITEM_TXT_1903410,The Neon Pang Set for male characters.,男性キャラクター用 ネオンパンセット
 PROPITEM_TXT_1903411,Neon Pang Hat (F),ネオンパンハット(F)
 PROPITEM_TXT_1903412,Neon Pang Suit (F),ネオンパンスーツ(F)
 PROPITEM_TXT_1903413,Neon Pang Shoes (F),ネオンパンシューズ(F)
 PROPITEM_TXT_1903414,Neon Pang Hands (F),ネオンパングローブ(F)
 PROPITEM_TXT_1903415,Neon Pang Set (F),ネオンパンセット(F)
-PROPITEM_TXT_1903416,The Neon Pang Set for female characters.,女性キャラクター用のネオンパンセット
+PROPITEM_TXT_1903416,The Neon Pang Set for female characters.,女性キャラクター用 ネオンパンセット
 PROPITEM_TXT_1903417,Neon Pang,ネオンパン
 PROPITEM_TXT_1903418,"Upgraded with a dazzling neon look, Neon Pang faithfully follows its master, collecting every piece of loot that crosses its path.",まばゆい光に包まれたネオンパン。ご主人様に代わり、戦利品を一つ残らず集めていきます。
 PROPITEM_TXT_1903419,[Event] New Experiment Material Box,[イベント](新)実験材料ボックス
@@ -30317,12 +30317,12 @@ PROPITEM_TXT_1903434,High-Seas Rogue Red Hat (M),大海賊レッドハット(M)
 PROPITEM_TXT_1903435,High-Seas Rogue Red Suit (M),大海賊レッドスーツ(M)
 PROPITEM_TXT_1903436,High-Seas Rogue Red Shoes (M),大海賊レッドシューズ(M)
 PROPITEM_TXT_1903437,High-Seas Rogue 10% Red Set (M),大海賊 10% レッドセット(M)
-PROPITEM_TXT_1903438,The High-Seas Rogue 10% Red Set for male characters.,男性キャラクター用の大海賊 10% レッドセット
+PROPITEM_TXT_1903438,The High-Seas Rogue 10% Red Set for male characters.,男性キャラクター用 大海賊 10% レッドセット
 PROPITEM_TXT_1903439,High-Seas Rogue Red Hat (F),大海賊レッドハット(F)
 PROPITEM_TXT_1903440,High-Seas Rogue Red Suit (F),大海賊レッドスーツ(F)
 PROPITEM_TXT_1903441,High-Seas Rogue Red Shoes (F),大海賊レッドシューズ(F)
 PROPITEM_TXT_1903442,High-Seas Rogue 10% Red Set (F),大海賊 10% レッドセット(F)
-PROPITEM_TXT_1903443,The High-Seas Rogue 10% Red Set for female characters.,女性キャラクター用の大海賊 10% レッドセット
+PROPITEM_TXT_1903443,The High-Seas Rogue 10% Red Set for female characters.,女性キャラクター用 大海賊 10% レッドセット
 PROPITEM_TXT_1903444,High-Seas Rogue 10% Magenta Set,大海賊 10% マゼンタセット
 PROPITEM_TXT_1903445,High-Seas Rogue Magenta Coat,大海賊マゼンタコート
 PROPITEM_TXT_1903446,High-Seas Rogue Magenta Eyepatch,大海賊マゼンタアイパッチ
@@ -30330,12 +30330,12 @@ PROPITEM_TXT_1903447,High-Seas Rogue Magenta Hat (M),大海賊マゼンタハッ
 PROPITEM_TXT_1903448,High-Seas Rogue Magenta Suit (M),大海賊マゼンタスーツ(M)
 PROPITEM_TXT_1903449,High-Seas Rogue Magenta Shoes (M),大海賊マゼンタシューズ(M)
 PROPITEM_TXT_1903450,High-Seas Rogue 10% Magenta Set (M),大海賊 10% マゼンタセット(M)
-PROPITEM_TXT_1903451,The High-Seas Rogue 10% Magenta Set for male characters.,男性キャラクター用の大海賊 10% マゼンタセット
+PROPITEM_TXT_1903451,The High-Seas Rogue 10% Magenta Set for male characters.,男性キャラクター用 大海賊 10% マゼンタセット
 PROPITEM_TXT_1903452,High-Seas Rogue Magenta Hat (F),大海賊マゼンタハット(F)
 PROPITEM_TXT_1903453,High-Seas Rogue Magenta Suit (F),大海賊マゼンタスーツ(F)
 PROPITEM_TXT_1903454,High-Seas Rogue Magenta Shoes (F),大海賊マゼンタシューズ(F)
 PROPITEM_TXT_1903455,High-Seas Rogue 10% Magenta Set (F),大海賊 10% マゼンタセット(F)
-PROPITEM_TXT_1903456,The High-Seas Rogue 10% Magenta Set for female characters.,女性キャラクター用の大海賊 10% マゼンタセット
+PROPITEM_TXT_1903456,The High-Seas Rogue 10% Magenta Set for female characters.,女性キャラクター用 大海賊 10% マゼンタセット
 PROPITEM_TXT_1903457,High-Seas Rogue 8% Purple Set,大海賊 8% パープルセット
 PROPITEM_TXT_1903458,High-Seas Rogue Purple Coat,大海賊パープルコート
 PROPITEM_TXT_1903459,High-Seas Rogue Purple Eyepatch,大海賊パープルアイパッチ
@@ -30343,12 +30343,12 @@ PROPITEM_TXT_1903460,High-Seas Rogue Purple Hat (M),大海賊パープルハッ�
 PROPITEM_TXT_1903461,High-Seas Rogue Purple Suit (M),大海賊パープルスーツ(M)
 PROPITEM_TXT_1903462,High-Seas Rogue Purple Shoes (M),大海賊パープルシューズ(M)
 PROPITEM_TXT_1903463,High-Seas Rogue 8% Purple Set (M),大海賊 8% パープルセット(M)
-PROPITEM_TXT_1903464,The High-Seas Rogue 8% Purple Set for male characters.,男性キャラクター用の大海賊 8% パープルセット
+PROPITEM_TXT_1903464,The High-Seas Rogue 8% Purple Set for male characters.,男性キャラクター用 大海賊 8% パープルセット
 PROPITEM_TXT_1903465,High-Seas Rogue Purple Hat (F),大海賊パープルハット(F)
 PROPITEM_TXT_1903466,High-Seas Rogue Purple Suit (F),大海賊パープルスーツ(F)
 PROPITEM_TXT_1903467,High-Seas Rogue Purple Shoes (F),大海賊パープルシューズ(F)
 PROPITEM_TXT_1903468,High-Seas Rogue 8% Purple Set (F),大海賊 8% パープルセット(F)
-PROPITEM_TXT_1903469,The High-Seas Rogue 8% Purple Set for female characters.,女性キャラクター用の大海賊 8% パープルセット
+PROPITEM_TXT_1903469,The High-Seas Rogue 8% Purple Set for female characters.,女性キャラクター用 大海賊 8% パープルセット
 PROPITEM_TXT_1903470,High-Seas Rogue 8% Blue Set,大海賊 8% ブルーセット
 PROPITEM_TXT_1903471,High-Seas Rogue Blue Coat,大海賊ブルーコート
 PROPITEM_TXT_1903472,High-Seas Rogue Blue Eyepatch,大海賊ブルーアイパッチ
@@ -30356,12 +30356,12 @@ PROPITEM_TXT_1903473,High-Seas Rogue Blue Hat (M),大海賊ブルーハット(M)
 PROPITEM_TXT_1903474,High-Seas Rogue Blue Suit (M),大海賊ブルースーツ(M)
 PROPITEM_TXT_1903475,High-Seas Rogue Blue Shoes (M),大海賊ブルーシューズ(M)
 PROPITEM_TXT_1903476,High-Seas Rogue 8% Blue Set (M),大海賊 8% ブルーセット(M)
-PROPITEM_TXT_1903477,The High-Seas Rogue 8% Blue Set for male characters.,男性キャラクター用の大海賊 8% ブルーセット
+PROPITEM_TXT_1903477,The High-Seas Rogue 8% Blue Set for male characters.,男性キャラクター用 大海賊 8% ブルーセット
 PROPITEM_TXT_1903478,High-Seas Rogue Blue Hat (F),大海賊ブルーハット(F)
 PROPITEM_TXT_1903479,High-Seas Rogue Blue Suit (F),大海賊ブルースーツ(F)
 PROPITEM_TXT_1903480,High-Seas Rogue Blue Shoes (F),大海賊ブルーシューズ(F)
 PROPITEM_TXT_1903481,High-Seas Rogue 8% Blue Set (F),大海賊 8% ブルーセット(F)
-PROPITEM_TXT_1903482,The High-Seas Rogue 8% Blue Set for female characters.,女性キャラクター用の大海賊 8% ブルーセット
+PROPITEM_TXT_1903482,The High-Seas Rogue 8% Blue Set for female characters.,女性キャラクター用 大海賊 8% ブルーセット
 PROPITEM_TXT_1903483,High-Seas Rogue 6% Cyan Set,大海賊 6% シアンセット
 PROPITEM_TXT_1903484,High-Seas Rogue Cyan Coat,大海賊シアンコート
 PROPITEM_TXT_1903485,High-Seas Rogue Cyan Eyepatch,大海賊シアンアイパッチ
@@ -30369,12 +30369,12 @@ PROPITEM_TXT_1903486,High-Seas Rogue Cyan Hat (M),大海賊シアンハット(M)
 PROPITEM_TXT_1903487,High-Seas Rogue Cyan Suit (M),大海賊シアンスーツ(M)
 PROPITEM_TXT_1903488,High-Seas Rogue Cyan Shoes (M),大海賊シアンシューズ(M)
 PROPITEM_TXT_1903489,High-Seas Rogue 6% Cyan Set (M),大海賊 6% シアンセット(M)
-PROPITEM_TXT_1903490,The High-Seas Rogue 6% Cyan Set for male characters.,男性キャラクター用の大海賊 6% シアンセット
+PROPITEM_TXT_1903490,The High-Seas Rogue 6% Cyan Set for male characters.,男性キャラクター用 大海賊 6% シアンセット
 PROPITEM_TXT_1903491,High-Seas Rogue Cyan Hat (F),大海賊シアンハット(F)
 PROPITEM_TXT_1903492,High-Seas Rogue Cyan Suit (F),大海賊シアンスーツ(F)
 PROPITEM_TXT_1903493,High-Seas Rogue Cyan Shoes (F),大海賊シアンシューズ(F)
 PROPITEM_TXT_1903494,High-Seas Rogue 6% Cyan Set (F),大海賊 6% シアンセット(F)
-PROPITEM_TXT_1903495,The High-Seas Rogue 6% Cyan Set for female characters.,女性キャラクター用の大海賊 6% シアンセット
+PROPITEM_TXT_1903495,The High-Seas Rogue 6% Cyan Set for female characters.,女性キャラクター用 大海賊 6% シアンセット
 PROPITEM_TXT_1903496,High-Seas Rogue 4% Green Set,大海賊 4% グリーンセット
 PROPITEM_TXT_1903497,High-Seas Rogue Green Coat,大海賊グリーンコート
 PROPITEM_TXT_1903498,High-Seas Rogue Green Eyepatch,大海賊グリーンアイパッチ
@@ -30382,12 +30382,12 @@ PROPITEM_TXT_1903499,High-Seas Rogue Green Hat (M),大海賊グリーンハッ�
 PROPITEM_TXT_1903500,High-Seas Rogue Green Suit (M),大海賊グリーンスーツ(M)
 PROPITEM_TXT_1903501,High-Seas Rogue Green Shoes (M),大海賊グリーンシューズ(M)
 PROPITEM_TXT_1903502,High-Seas Rogue 4% Green Set (M),大海賊 4% グリーンセット(M)
-PROPITEM_TXT_1903503,The High-Seas Rogue 4% Green Set for male characters.,男性キャラクター用の大海賊 4% グリーンセット
+PROPITEM_TXT_1903503,The High-Seas Rogue 4% Green Set for male characters.,男性キャラクター用 大海賊 4% グリーンセット
 PROPITEM_TXT_1903504,High-Seas Rogue Green Hat (F),大海賊グリーンハット(F)
 PROPITEM_TXT_1903505,High-Seas Rogue Green Suit (F),大海賊グリーンスーツ(F)
 PROPITEM_TXT_1903506,High-Seas Rogue Green Shoes (F),大海賊グリーンシューズ(F)
 PROPITEM_TXT_1903507,High-Seas Rogue 4% Green Set (F),大海賊 4% グリーンセット(F)
-PROPITEM_TXT_1903508,The High-Seas Rogue 4% Green Set for female characters.,女性キャラクター用の大海賊 4% グリーンセット
+PROPITEM_TXT_1903508,The High-Seas Rogue 4% Green Set for female characters.,女性キャラクター用 大海賊 4% グリーンセット
 PROPITEM_TXT_1903509,High-Seas Rogue 2% Orange Set,大海賊 2% オレンジセット
 PROPITEM_TXT_1903510,High-Seas Rogue Orange Coat,大海賊オレンジコート
 PROPITEM_TXT_1903511,High-Seas Rogue Orange Eyepatch,大海賊オレンジアイパッチ
@@ -30395,12 +30395,12 @@ PROPITEM_TXT_1903512,High-Seas Rogue Orange Hat (M),大海賊オレンジハッ�
 PROPITEM_TXT_1903513,High-Seas Rogue Orange Suit (M),大海賊オレンジスーツ(M)
 PROPITEM_TXT_1903514,High-Seas Rogue Orange Shoes (M),大海賊オレンジシューズ(M)
 PROPITEM_TXT_1903515,High-Seas Rogue 2% Orange Set (M),大海賊 2% オレンジセット(M)
-PROPITEM_TXT_1903516,The High-Seas Rogue 2% Orange Set for male characters.,男性キャラクター用の大海賊 2% オレンジセット
+PROPITEM_TXT_1903516,The High-Seas Rogue 2% Orange Set for male characters.,男性キャラクター用 大海賊 2% オレンジセット
 PROPITEM_TXT_1903517,High-Seas Rogue Orange Hat (F),大海賊オレンジハット(F)
 PROPITEM_TXT_1903518,High-Seas Rogue Orange Suit (F),大海賊オレンジスーツ(F)
 PROPITEM_TXT_1903519,High-Seas Rogue Orange Shoes (F),大海賊オレンジシューズ(F)
 PROPITEM_TXT_1903520,High-Seas Rogue 2% Orange Set (F),大海賊 2% オレンジセット(F)
-PROPITEM_TXT_1903521,The High-Seas Rogue 2% Orange Set for female characters.,女性キャラクター用の大海賊 2% オレンジセット
+PROPITEM_TXT_1903521,The High-Seas Rogue 2% Orange Set for female characters.,女性キャラクター用 大海賊 2% オレンジセット
 PROPITEM_TXT_1903522,High-Seas Rogue 2% Black Set,大海賊 2% ブラックセット
 PROPITEM_TXT_1903523,High-Seas Rogue Black Coat,大海賊ブラックコート
 PROPITEM_TXT_1903524,High-Seas Rogue Black Eyepatch,大海賊ブラックアイパッチ
@@ -30408,12 +30408,12 @@ PROPITEM_TXT_1903525,High-Seas Rogue Black Hat (M),大海賊ブラックハッ�
 PROPITEM_TXT_1903526,High-Seas Rogue Black Suit (M),大海賊ブラックスーツ(M)
 PROPITEM_TXT_1903527,High-Seas Rogue Black Shoes (M),大海賊ブラックシューズ(M)
 PROPITEM_TXT_1903528,High-Seas Rogue 2% Black Set (M),大海賊 2% ブラックセット(M)
-PROPITEM_TXT_1903529,The High-Seas Rogue 2% Black Set for male characters.,男性キャラクター用の大海賊 2% ブラックセット
+PROPITEM_TXT_1903529,The High-Seas Rogue 2% Black Set for male characters.,男性キャラクター用 大海賊 2% ブラックセット
 PROPITEM_TXT_1903530,High-Seas Rogue Black Hat (F),大海賊ブラックハット(F)
 PROPITEM_TXT_1903531,High-Seas Rogue Black Suit (F),大海賊ブラックスーツ(F)
 PROPITEM_TXT_1903532,High-Seas Rogue Black Shoes (F),大海賊ブラックシューズ(F)
 PROPITEM_TXT_1903533,High-Seas Rogue 2% Black Set (F),大海賊 2% ブラックセット(F)
-PROPITEM_TXT_1903534,The High-Seas Rogue 2% Black Set for female characters.,女性キャラクター用の大海賊 2% ブラックセット
+PROPITEM_TXT_1903534,The High-Seas Rogue 2% Black Set for female characters.,女性キャラクター用 大海賊 2% ブラックセット
 PROPITEM_TXT_1903535,High-Seas Rogue Costume Lucky Box,大海賊コスチュームラッキーボックス
 PROPITEM_TXT_1903536,This box contains a High-Seas Rogue Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの大海賊セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_1903537,FWC 2026 Red Popcorn,FWC 2026 レッドポップコーン
@@ -30434,167 +30434,167 @@ PROPITEM_TXT_1903551,Chuseok Hanbok Set (F),秋夕韓服セット(F)
 PROPITEM_TXT_1903552,"A package containing 1x Chuseok Hanbok Set (F), 2x White Cake, 2x Green Cake and 2x Pink Cake.",秋夕韓服セット(F)と3種類の大福が2個ずつ入ったパッケージ。
 PROPITEM_TXT_1903553,Dice Pang,ダイスパン
 PROPITEM_TXT_1903554,Special Dice Pang pet for the 2026 FWC Prediction event.,FWC 2026 勝者予想イベントでもらえる限定ペット。
-PROPITEM_TXT_1903555,FWC 2026 Buff - MP Consumption Decrease,FWC 2026 Buff - MP Consumption Decrease
-PROPITEM_TXT_1903556,This FWC 2026 Buff will grant you MP Consumption Decrease +10% for 1 hour.,This FWC 2026 Buff will grant you MP Consumption Decrease +10% for 1 hour.
-PROPITEM_TXT_1903557,FWC 2026 Buff - FP Consumption Decrease,FWC 2026 Buff - FP Consumption Decrease
-PROPITEM_TXT_1903558,This FWC 2026 Buff will grant you FP Consumption Decrease +10% for 1 hour.,This FWC 2026 Buff will grant you FP Consumption Decrease +10% for 1 hour.
-PROPITEM_TXT_1903559,FWC 2026 Buff - Max FP,FWC 2026 Buff - Max FP
-PROPITEM_TXT_1903560,This FWC 2026 Buff will grant you Increased FP +10% for 1 hour.,This FWC 2026 Buff will grant you Increased FP +10% for 1 hour.
-PROPITEM_TXT_1903561,FWC 2026 Buff - Max HP,FWC 2026 Buff - Max HP
-PROPITEM_TXT_1903562,This FWC 2026 Buff will grant you Increased HP +10% for 1 hour.,This FWC 2026 Buff will grant you Increased HP +10% for 1 hour.
-PROPITEM_TXT_1903563,FWC 2026 Buff - PvP Damage,FWC 2026 Buff - PvP Damage
-PROPITEM_TXT_1903564,This FWC 2026 Buff will grant you PvP Damage +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Damage +3% for 1 hour.
-PROPITEM_TXT_1903565,FWC 2026 Buff - PvP Damage Reduction,FWC 2026 Buff - PvP Damage Reduction
-PROPITEM_TXT_1903566,This FWC 2026 Buff will grant you PvP Damage Reduction +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Damage Reduction +3% for 1 hour.
-PROPITEM_TXT_1903567,FWC 2026 Buff - PvP Block,FWC 2026 Buff - PvP Block
-PROPITEM_TXT_1903568,This FWC 2026 Buff will grant you PvP Melee/Range Block +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Melee/Range Block +3% for 1 hour.
-PROPITEM_TXT_1903569,FWC 2026 Buff - PvP Block Penetration,FWC 2026 Buff - PvP Block Penetration
-PROPITEM_TXT_1903570,This FWC 2026 Buff will grant you PvP Block Penetration +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Block Penetration +3% for 1 hour.
-PROPITEM_TXT_1903571,FWC 2026 Buff - PvP Critical Chance,FWC 2026 Buff - PvP Critical Chance
-PROPITEM_TXT_1903572,This FWC 2026 Buff will grant you PvP Critical Chance +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Critical Chance +3% for 1 hour.
-PROPITEM_TXT_1903573,FWC 2026 Buff - PvP Critical Damage,FWC 2026 Buff - PvP Critical Damage
-PROPITEM_TXT_1903574,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.
-PROPITEM_TXT_1903575,FWC 2026 Buff - Healing,FWC 2026 Buff - Healing
-PROPITEM_TXT_1903576,This FWC 2026 Buff will grant you Healing +3% for 1 hour.,This FWC 2026 Buff will grant you Healing +3% for 1 hour.
-PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC 2026 Buff - Magic Resistance
-PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.
-PROPITEM_TXT_1903579,FWC 2026 Buff - Critical Resist,FWC 2026 Buff - Critical Resist
-PROPITEM_TXT_1903580,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.
-PROPITEM_TXT_1903581,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box.","Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box."
-PROPITEM_TXT_1903582,Midgard Legacy 10% Red Set,Midgard Legacy 10% Red Set
-PROPITEM_TXT_1903583,Midgard Legacy Red Backpack,Midgard Legacy Red Backpack
-PROPITEM_TXT_1903584,Midgard Legacy Red Runes 01,Midgard Legacy Red Runes 01
-PROPITEM_TXT_1903585,Midgard Legacy Red Hat (M),Midgard Legacy Red Hat (M)
-PROPITEM_TXT_1903586,Midgard Legacy Red Suit (M),Midgard Legacy Red Suit (M)
-PROPITEM_TXT_1903587,Midgard Legacy Red Shoes (M),Midgard Legacy Red Shoes (M)
-PROPITEM_TXT_1903588,Midgard Legacy 10% Red Set (M),Midgard Legacy 10% Red Set (M)
-PROPITEM_TXT_1903589,The Midgard Legacy 10% Red Set for male characters.,The Midgard Legacy 10% Red Set for male characters.
-PROPITEM_TXT_1903590,Midgard Legacy Red Hat (F),Midgard Legacy Red Hat (F)
-PROPITEM_TXT_1903591,Midgard Legacy Red Suit (F),Midgard Legacy Red Suit (F)
-PROPITEM_TXT_1903592,Midgard Legacy Red Shoes (F),Midgard Legacy Red Shoes (F)
-PROPITEM_TXT_1903593,Midgard Legacy 10% Red Set (F),Midgard Legacy 10% Red Set (F)
-PROPITEM_TXT_1903594,The Midgard Legacy 10% Red Set for female characters.,The Midgard Legacy 10% Red Set for female characters.
-PROPITEM_TXT_1903595,Midgard Legacy 10% Orange Set,Midgard Legacy 10% Orange Set
-PROPITEM_TXT_1903596,Midgard Legacy Orange Backpack,Midgard Legacy Orange Backpack
-PROPITEM_TXT_1903597,Midgard Legacy Orange Runes 01,Midgard Legacy Orange Runes 01
-PROPITEM_TXT_1903598,Midgard Legacy Orange Hat (M),Midgard Legacy Orange Hat (M)
-PROPITEM_TXT_1903599,Midgard Legacy Orange Suit (M),Midgard Legacy Orange Suit (M)
-PROPITEM_TXT_1903600,Midgard Legacy Orange Shoes (M),Midgard Legacy Orange Shoes (M)
-PROPITEM_TXT_1903601,Midgard Legacy 10% Orange Set (M),Midgard Legacy 10% Orange Set (M)
-PROPITEM_TXT_1903602,The Midgard Legacy 10% Orange Set for male characters.,The Midgard Legacy 10% Orange Set for male characters.
-PROPITEM_TXT_1903603,Midgard Legacy Orange Hat (F),Midgard Legacy Orange Hat (F)
-PROPITEM_TXT_1903604,Midgard Legacy Orange Suit (F),Midgard Legacy Orange Suit (F)
-PROPITEM_TXT_1903605,Midgard Legacy Orange Shoes (F),Midgard Legacy Orange Shoes (F)
-PROPITEM_TXT_1903606,Midgard Legacy 10% Orange Set (F),Midgard Legacy 10% Orange Set (F)
-PROPITEM_TXT_1903607,The Midgard Legacy 10% Orange Set for female characters.,The Midgard Legacy 10% Orange Set for female characters.
-PROPITEM_TXT_1903608,Midgard Legacy 8% Green Set,Midgard Legacy 8% Green Set
-PROPITEM_TXT_1903609,Midgard Legacy Green Backpack,Midgard Legacy Green Backpack
-PROPITEM_TXT_1903610,Midgard Legacy Green Runes 01,Midgard Legacy Green Runes 01
-PROPITEM_TXT_1903611,Midgard Legacy Green Hat (M),Midgard Legacy Green Hat (M)
-PROPITEM_TXT_1903612,Midgard Legacy Green Suit (M),Midgard Legacy Green Suit (M)
-PROPITEM_TXT_1903613,Midgard Legacy Green Shoes (M),Midgard Legacy Green Shoes (M)
-PROPITEM_TXT_1903614,Midgard Legacy 8% Green Set (M),Midgard Legacy 8% Green Set (M)
-PROPITEM_TXT_1903615,The Midgard Legacy 8% Green Set for male characters.,The Midgard Legacy 8% Green Set for male characters.
-PROPITEM_TXT_1903616,Midgard Legacy Green Hat (F),Midgard Legacy Green Hat (F)
-PROPITEM_TXT_1903617,Midgard Legacy Green Suit (F),Midgard Legacy Green Suit (F)
-PROPITEM_TXT_1903618,Midgard Legacy Green Shoes (F),Midgard Legacy Green Shoes (F)
-PROPITEM_TXT_1903619,Midgard Legacy 8% Green Set (F),Midgard Legacy 8% Green Set (F)
-PROPITEM_TXT_1903620,The Midgard Legacy 8% Green Set for female characters.,The Midgard Legacy 8% Green Set for female characters.
-PROPITEM_TXT_1903621,Midgard Legacy 8% Cyan Set,Midgard Legacy 8% Cyan Set
-PROPITEM_TXT_1903622,Midgard Legacy Cyan Backpack,Midgard Legacy Cyan Backpack
-PROPITEM_TXT_1903623,Midgard Legacy Cyan Runes 01,Midgard Legacy Cyan Runes 01
-PROPITEM_TXT_1903624,Midgard Legacy Cyan Hat (M),Midgard Legacy Cyan Hat (M)
-PROPITEM_TXT_1903625,Midgard Legacy Cyan Suit (M),Midgard Legacy Cyan Suit (M)
-PROPITEM_TXT_1903626,Midgard Legacy Cyan Shoes (M),Midgard Legacy Cyan Shoes (M)
-PROPITEM_TXT_1903627,Midgard Legacy 8% Cyan Set (M),Midgard Legacy 8% Cyan Set (M)
-PROPITEM_TXT_1903628,The Midgard Legacy 8% Cyan Set for male characters.,The Midgard Legacy 8% Cyan Set for male characters.
-PROPITEM_TXT_1903629,Midgard Legacy Cyan Hat (F),Midgard Legacy Cyan Hat (F)
-PROPITEM_TXT_1903630,Midgard Legacy Cyan Suit (F),Midgard Legacy Cyan Suit (F)
-PROPITEM_TXT_1903631,Midgard Legacy Cyan Shoes (F),Midgard Legacy Cyan Shoes (F)
-PROPITEM_TXT_1903632,Midgard Legacy 8% Cyan Set (F),Midgard Legacy 8% Cyan Set (F)
-PROPITEM_TXT_1903633,The Midgard Legacy 8% Cyan Set for female characters.,The Midgard Legacy 8% Cyan Set for female characters.
-PROPITEM_TXT_1903634,Midgard Legacy 6% Blue Set,Midgard Legacy 6% Blue Set
-PROPITEM_TXT_1903635,Midgard Legacy Blue Backpack,Midgard Legacy Blue Backpack
-PROPITEM_TXT_1903636,Midgard Legacy Blue Runes 01,Midgard Legacy Blue Runes 01
-PROPITEM_TXT_1903637,Midgard Legacy Blue Hat (M),Midgard Legacy Blue Hat (M)
-PROPITEM_TXT_1903638,Midgard Legacy Blue Suit (M),Midgard Legacy Blue Suit (M)
-PROPITEM_TXT_1903639,Midgard Legacy Blue Shoes (M),Midgard Legacy Blue Shoes (M)
-PROPITEM_TXT_1903640,Midgard Legacy 6% Blue Set (M),Midgard Legacy 6% Blue Set (M)
-PROPITEM_TXT_1903641,The Midgard Legacy 6% Blue Set for male characters.,The Midgard Legacy 6% Blue Set for male characters.
-PROPITEM_TXT_1903642,Midgard Legacy Blue Hat (F),Midgard Legacy Blue Hat (F)
-PROPITEM_TXT_1903643,Midgard Legacy Blue Suit (F),Midgard Legacy Blue Suit (F)
-PROPITEM_TXT_1903644,Midgard Legacy Blue Shoes (F),Midgard Legacy Blue Shoes (F)
-PROPITEM_TXT_1903645,Midgard Legacy 6% Blue Set (F),Midgard Legacy 6% Blue Set (F)
-PROPITEM_TXT_1903646,The Midgard Legacy 6% Blue Set for female characters.,The Midgard Legacy 6% Blue Set for female characters.
-PROPITEM_TXT_1903647,Midgard Legacy 4% Purple Set,Midgard Legacy 4% Purple Set
-PROPITEM_TXT_1903648,Midgard Legacy Purple Backpack,Midgard Legacy Purple Backpack
-PROPITEM_TXT_1903649,Midgard Legacy Purple Runes 01,Midgard Legacy Purple Runes 01
-PROPITEM_TXT_1903650,Midgard Legacy Purple Hat (M),Midgard Legacy Purple Hat (M)
-PROPITEM_TXT_1903651,Midgard Legacy Purple Suit (M),Midgard Legacy Purple Suit (M)
-PROPITEM_TXT_1903652,Midgard Legacy Purple Shoes (M),Midgard Legacy Purple Shoes (M)
-PROPITEM_TXT_1903653,Midgard Legacy 4% Purple Set (M),Midgard Legacy 4% Purple Set (M)
-PROPITEM_TXT_1903654,The Midgard Legacy 4% Purple Set for male characters.,The Midgard Legacy 4% Purple Set for male characters.
-PROPITEM_TXT_1903655,Midgard Legacy Purple Hat (F),Midgard Legacy Purple Hat (F)
-PROPITEM_TXT_1903656,Midgard Legacy Purple Suit (F),Midgard Legacy Purple Suit (F)
-PROPITEM_TXT_1903657,Midgard Legacy Purple Shoes (F),Midgard Legacy Purple Shoes (F)
-PROPITEM_TXT_1903658,Midgard Legacy 4% Purple Set (F),Midgard Legacy 4% Purple Set (F)
-PROPITEM_TXT_1903659,The Midgard Legacy 4% Purple Set for female characters.,The Midgard Legacy 4% Purple Set for female characters.
-PROPITEM_TXT_1903660,Midgard Legacy 2% Magenta Set,Midgard Legacy 2% Magenta Set
-PROPITEM_TXT_1903661,Midgard Legacy Magenta Backpack,Midgard Legacy Magenta Backpack
-PROPITEM_TXT_1903662,Midgard Legacy Magenta Runes 01,Midgard Legacy Magenta Runes 01
-PROPITEM_TXT_1903663,Midgard Legacy Magenta Hat (M),Midgard Legacy Magenta Hat (M)
-PROPITEM_TXT_1903664,Midgard Legacy Magenta Suit (M),Midgard Legacy Magenta Suit (M)
-PROPITEM_TXT_1903665,Midgard Legacy Magenta Shoes (M),Midgard Legacy Magenta Shoes (M)
-PROPITEM_TXT_1903666,Midgard Legacy 2% Magenta Set (M),Midgard Legacy 2% Magenta Set (M)
-PROPITEM_TXT_1903667,The Midgard Legacy 2% Magenta Set for male characters.,The Midgard Legacy 2% Magenta Set for male characters.
-PROPITEM_TXT_1903668,Midgard Legacy Magenta Hat (F),Midgard Legacy Magenta Hat (F)
-PROPITEM_TXT_1903669,Midgard Legacy Magenta Suit (F),Midgard Legacy Magenta Suit (F)
-PROPITEM_TXT_1903670,Midgard Legacy Magenta Shoes (F),Midgard Legacy Magenta Shoes (F)
-PROPITEM_TXT_1903671,Midgard Legacy 2% Magenta Set (F),Midgard Legacy 2% Magenta Set (F)
-PROPITEM_TXT_1903672,The Midgard Legacy 2% Magenta Set for female characters.,The Midgard Legacy 2% Magenta Set for female characters.
-PROPITEM_TXT_1903673,Midgard Legacy 2% Black Set,Midgard Legacy 2% Black Set
-PROPITEM_TXT_1903674,Midgard Legacy Black Backpack,Midgard Legacy Black Backpack
-PROPITEM_TXT_1903675,Midgard Legacy Black Runes 01,Midgard Legacy Black Runes 01
-PROPITEM_TXT_1903676,Midgard Legacy Black Hat (M),Midgard Legacy Black Hat (M)
-PROPITEM_TXT_1903677,Midgard Legacy Black Suit (M),Midgard Legacy Black Suit (M)
-PROPITEM_TXT_1903678,Midgard Legacy Black Shoes (M),Midgard Legacy Black Shoes (M)
-PROPITEM_TXT_1903679,Midgard Legacy 2% Black Set (M),Midgard Legacy 2% Black Set (M)
-PROPITEM_TXT_1903680,The Midgard Legacy 2% Black Set for male characters.,The Midgard Legacy 2% Black Set for male characters.
-PROPITEM_TXT_1903681,Midgard Legacy Black Hat (F),Midgard Legacy Black Hat (F)
-PROPITEM_TXT_1903682,Midgard Legacy Black Suit (F),Midgard Legacy Black Suit (F)
-PROPITEM_TXT_1903683,Midgard Legacy Black Shoes (F),Midgard Legacy Black Shoes (F)
-PROPITEM_TXT_1903684,Midgard Legacy 2% Black Set (F),Midgard Legacy 2% Black Set (F)
-PROPITEM_TXT_1903685,The Midgard Legacy 2% Black Set for female characters.,The Midgard Legacy 2% Black Set for female characters.
-PROPITEM_TXT_1903686,Midgard Legacy Costume Lucky Box,Midgard Legacy Costume Lucky Box
-PROPITEM_TXT_1903687,This box contains a Midgard Legacy Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Midgard Legacy Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_1903688,Midgard Legacy Red Runes 02,Midgard Legacy Red Runes 02
-PROPITEM_TXT_1903689,Midgard Legacy Orange Runes 02,Midgard Legacy Orange Runes 02
-PROPITEM_TXT_1903690,Midgard Legacy Green Runes 02,Midgard Legacy Green Runes 02
-PROPITEM_TXT_1903691,Midgard Legacy Cyan Runes 02,Midgard Legacy Cyan Runes 02
-PROPITEM_TXT_1903692,Midgard Legacy Blue Runes 02,Midgard Legacy Blue Runes 02
-PROPITEM_TXT_1903693,Midgard Legacy Purple Runes 02,Midgard Legacy Purple Runes 02
-PROPITEM_TXT_1903694,Midgard Legacy Magenta Runes 02,Midgard Legacy Magenta Runes 02
-PROPITEM_TXT_1903695,Midgard Legacy Black Runes 02,Midgard Legacy Black Runes 02
-PROPITEM_TXT_1903696,Brown Road Hog Set (M),Brown Road Hog Set (M)
-PROPITEM_TXT_1903697,This box contains an entire Brown Road Hog Set for a Male Character.,This box contains an entire Brown Road Hog Set for a Male Character.
-PROPITEM_TXT_1903698,Brown Road Hog Set (F),Brown Road Hog Set (F)
-PROPITEM_TXT_1903699,This box contains an entire Brown Road Hog Set for a Female Character.,This box contains an entire Brown Road Hog Set for a Female Character.
-PROPITEM_TXT_1903700,Brown Road Hog Hat (M),Brown Road Hog Hat (M)
-PROPITEM_TXT_1903701,Brown Road Hog Hat for Male characters.,Brown Road Hog Hat for Male characters.
-PROPITEM_TXT_1903702,Brown Road Hog Hat (F),Brown Road Hog Hat (F)
-PROPITEM_TXT_1903703,Brown Road Hog Hat for Female characters.,Brown Road Hog Hat for Female characters.
-PROPITEM_TXT_1903704,Brown Road Hog Suit (M),Brown Road Hog Suit (M)
-PROPITEM_TXT_1903705,Brown Road Hog Suit for Male characters.,Brown Road Hog Suit for Male characters.
-PROPITEM_TXT_1903706,Brown Road Hog Suit (F),Brown Road Hog Suit (F)
-PROPITEM_TXT_1903707,Brown Road Hog Suit for Female characters.,Brown Road Hog Suit for Female characters.
-PROPITEM_TXT_1903708,Brown Road Hog Gloves (M),Brown Road Hog Gloves (M)
-PROPITEM_TXT_1903709,Brown Road Hog Gloves for Male characters.,Brown Road Hog Gloves for Male characters.
-PROPITEM_TXT_1903710,Brown Road Hog Gloves (F),Brown Road Hog Gloves (F)
-PROPITEM_TXT_1903711,Brown Road Hog Gloves for Female characters.,Brown Road Hog Gloves for Female characters.
-PROPITEM_TXT_1903712,Brown Road Hog Boots (M),Brown Road Hog Boots (M)
-PROPITEM_TXT_1903713,Brown Road Hog Boots for Male characters.,Brown Road Hog Boots for Male characters.
-PROPITEM_TXT_1903714,Brown Road Hog Boots (F),Brown Road Hog Boots (F)
-PROPITEM_TXT_1903715,Brown Road Hog Boots for Female characters.,Brown Road Hog Boots for Female characters.
-PROPITEM_TXT_1903716,Brown Road Hog Set,Brown Road Hog Set
-PROPITEM_TXT_1903717,FWC 2026 Buff Select Box,FWC 2026 Buff Select Box
-PROPITEM_TXT_1903718,A Select Box filled with FWC 2026 Buff items. You can choose 1 item from it.,A Select Box filled with FWC 2026 Buff items. You can choose 1 item from it.
+PROPITEM_TXT_1903555,FWC 2026 Buff - MP Consumption Decrease,FWC 2026 バフ (MP消費減少)
+PROPITEM_TXT_1903556,This FWC 2026 Buff will grant you MP Consumption Decrease +10% for 1 hour.,MP消費量が10%減少します。(効果時間:1時間)
+PROPITEM_TXT_1903557,FWC 2026 Buff - FP Consumption Decrease,FWC 2026 バフ (FP消費減少)
+PROPITEM_TXT_1903558,This FWC 2026 Buff will grant you FP Consumption Decrease +10% for 1 hour.,FP消費量が10%減少します。(効果時間:1時間)
+PROPITEM_TXT_1903559,FWC 2026 Buff - Max FP,FWC 2026 バフ (FP増加)
+PROPITEM_TXT_1903560,This FWC 2026 Buff will grant you Increased FP +10% for 1 hour.,最大FPが10%増加します。(効果時間:1時間)
+PROPITEM_TXT_1903561,FWC 2026 Buff - Max HP,FWC 2026 バフ (HP増加)
+PROPITEM_TXT_1903562,This FWC 2026 Buff will grant you Increased HP +10% for 1 hour.,最大HPが10%増加します。(効果時間:1時間)
+PROPITEM_TXT_1903563,FWC 2026 Buff - PvP Damage,FWC 2026 バフ (PvPダメージ)
+PROPITEM_TXT_1903564,This FWC 2026 Buff will grant you PvP Damage +3% for 1 hour.,PvPダメージが3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903565,FWC 2026 Buff - PvP Damage Reduction,FWC 2026 バフ (PvPダメージ軽減)
+PROPITEM_TXT_1903566,This FWC 2026 Buff will grant you PvP Damage Reduction +3% for 1 hour.,PvPダメージ軽減値が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903567,FWC 2026 Buff - PvP Block,FWC 2026 バフ (PvPブロック)
+PROPITEM_TXT_1903568,This FWC 2026 Buff will grant you PvP Melee/Range Block +3% for 1 hour.,PvP時の近接/遠距離攻撃のブロック率が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903569,FWC 2026 Buff - PvP Block Penetration,FWC 2026 バフ (PvPブロック貫通)
+PROPITEM_TXT_1903570,This FWC 2026 Buff will grant you PvP Block Penetration +3% for 1 hour.,PvP時のブロック貫通力が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903571,FWC 2026 Buff - PvP Critical Chance,FWC 2026 バフ (PvPクリティカル率)
+PROPITEM_TXT_1903572,This FWC 2026 Buff will grant you PvP Critical Chance +3% for 1 hour.,PvP時のクリティカル率が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903573,FWC 2026 Buff - PvP Critical Damage,FWC 2026 バフ (PvPクリティカルダメージ)
+PROPITEM_TXT_1903574,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.,PvP時のクリティカルダメージが3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903575,FWC 2026 Buff - Healing,FWC 2026 バフ (回復)
+PROPITEM_TXT_1903576,This FWC 2026 Buff will grant you Healing +3% for 1 hour.,HP回復量が3%増加します。(効果時間:1時間)
+PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC 2026 バフ (魔法抵抗)
+PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,魔法攻撃に対する抵抗力が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903579,FWC 2026 Buff - Critical Resist,FWC 2026 バフ (クリティカル耐性)
+PROPITEM_TXT_1903580,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.,クリティカル耐性が3%上昇します。(効果時間:1時間)
+PROPITEM_TXT_1903581,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box.",「ラッキーダイスを振ろう！」の3回目達成報酬！\n[イベント]ショップ広告ランダムボックスx3、フォントエディタx3、FWC 2026 ポップコーン選択ボックスx20を獲得できます。
+PROPITEM_TXT_1903582,Midgard Legacy 10% Red Set,ミッドガルドレガシー 10% レッドセット
+PROPITEM_TXT_1903583,Midgard Legacy Red Backpack,ミッドガルドレガシーレッドバックパック
+PROPITEM_TXT_1903584,Midgard Legacy Red Runes 01,ミッドガルドレガシーレッドルーン01
+PROPITEM_TXT_1903585,Midgard Legacy Red Hat (M),ミッドガルドレガシーレッドハット(M)
+PROPITEM_TXT_1903586,Midgard Legacy Red Suit (M),ミッドガルドレガシーレッドスーツ(M)
+PROPITEM_TXT_1903587,Midgard Legacy Red Shoes (M),ミッドガルドレガシーレッドシューズ(M)
+PROPITEM_TXT_1903588,Midgard Legacy 10% Red Set (M),ミッドガルドレガシー 10% レッドセット(M)
+PROPITEM_TXT_1903589,The Midgard Legacy 10% Red Set for male characters.,男性キャラクター用 ミッドガルドレガシー 10% レッドセット
+PROPITEM_TXT_1903590,Midgard Legacy Red Hat (F),ミッドガルドレガシーレッドハット(F)
+PROPITEM_TXT_1903591,Midgard Legacy Red Suit (F),ミッドガルドレガシーレッドスーツ(F)
+PROPITEM_TXT_1903592,Midgard Legacy Red Shoes (F),ミッドガルドレガシーレッドシューズ(F)
+PROPITEM_TXT_1903593,Midgard Legacy 10% Red Set (F),ミッドガルドレガシー 10% レッドセット(F)
+PROPITEM_TXT_1903594,The Midgard Legacy 10% Red Set for female characters.,女性キャラクター用 ミッドガルドレガシー 10% レッドセット
+PROPITEM_TXT_1903595,Midgard Legacy 10% Orange Set,ミッドガルドレガシー 10% オレンジセット
+PROPITEM_TXT_1903596,Midgard Legacy Orange Backpack,ミッドガルドレガシーオレンジバックパック
+PROPITEM_TXT_1903597,Midgard Legacy Orange Runes 01,ミッドガルドレガシーオレンジルーン01
+PROPITEM_TXT_1903598,Midgard Legacy Orange Hat (M),ミッドガルドレガシーオレンジハット(M)
+PROPITEM_TXT_1903599,Midgard Legacy Orange Suit (M),ミッドガルドレガシーオレンジスーツ(M)
+PROPITEM_TXT_1903600,Midgard Legacy Orange Shoes (M),ミッドガルドレガシーオレンジシューズ(M)
+PROPITEM_TXT_1903601,Midgard Legacy 10% Orange Set (M),ミッドガルドレガシー 10% オレンジセット(M)
+PROPITEM_TXT_1903602,The Midgard Legacy 10% Orange Set for male characters.,男性キャラクター用 ミッドガルドレガシー 10% オレンジセット
+PROPITEM_TXT_1903603,Midgard Legacy Orange Hat (F),ミッドガルドレガシーオレンジハット(F)
+PROPITEM_TXT_1903604,Midgard Legacy Orange Suit (F),ミッドガルドレガシーオレンジスーツ(F)
+PROPITEM_TXT_1903605,Midgard Legacy Orange Shoes (F),ミッドガルドレガシーオレンジシューズ(F)
+PROPITEM_TXT_1903606,Midgard Legacy 10% Orange Set (F),ミッドガルドレガシー 10% オレンジセット(F)
+PROPITEM_TXT_1903607,The Midgard Legacy 10% Orange Set for female characters.,女性キャラクター用 ミッドガルドレガシー 10% オレンジセット
+PROPITEM_TXT_1903608,Midgard Legacy 8% Green Set,ミッドガルドレガシー 8% グリーンセット
+PROPITEM_TXT_1903609,Midgard Legacy Green Backpack,ミッドガルドレガシーグリーンバックパック
+PROPITEM_TXT_1903610,Midgard Legacy Green Runes 01,ミッドガルドレガシーグリーンルーン01
+PROPITEM_TXT_1903611,Midgard Legacy Green Hat (M),ミッドガルドレガシーグリーンハット(M)
+PROPITEM_TXT_1903612,Midgard Legacy Green Suit (M),ミッドガルドレガシーグリーンスーツ(M)
+PROPITEM_TXT_1903613,Midgard Legacy Green Shoes (M),ミッドガルドレガシーグリーンシューズ(M)
+PROPITEM_TXT_1903614,Midgard Legacy 8% Green Set (M),ミッドガルドレガシー 8% グリーンセット(M)
+PROPITEM_TXT_1903615,The Midgard Legacy 8% Green Set for male characters.,男性キャラクター用 ミッドガルドレガシー 8% グリーンセット
+PROPITEM_TXT_1903616,Midgard Legacy Green Hat (F),ミッドガルドレガシーグリーンハット(F)
+PROPITEM_TXT_1903617,Midgard Legacy Green Suit (F),ミッドガルドレガシーグリーンスーツ(F)
+PROPITEM_TXT_1903618,Midgard Legacy Green Shoes (F),ミッドガルドレガシーグリーンシューズ(F)
+PROPITEM_TXT_1903619,Midgard Legacy 8% Green Set (F),ミッドガルドレガシー 8% グリーンセット(F)
+PROPITEM_TXT_1903620,The Midgard Legacy 8% Green Set for female characters.,女性キャラクター用 ミッドガルドレガシー 8% グリーンセット
+PROPITEM_TXT_1903621,Midgard Legacy 8% Cyan Set,ミッドガルドレガシー 8% シアンセット
+PROPITEM_TXT_1903622,Midgard Legacy Cyan Backpack,ミッドガルドレガシーシアンバックパック
+PROPITEM_TXT_1903623,Midgard Legacy Cyan Runes 01,ミッドガルドレガシーシアンルーン01
+PROPITEM_TXT_1903624,Midgard Legacy Cyan Hat (M),ミッドガルドレガシーシアンハット(M)
+PROPITEM_TXT_1903625,Midgard Legacy Cyan Suit (M),ミッドガルドレガシーシアンスーツ(M)
+PROPITEM_TXT_1903626,Midgard Legacy Cyan Shoes (M),ミッドガルドレガシーシアンシューズ(M)
+PROPITEM_TXT_1903627,Midgard Legacy 8% Cyan Set (M),ミッドガルドレガシー 8% シアンセット(M)
+PROPITEM_TXT_1903628,The Midgard Legacy 8% Cyan Set for male characters.,男性キャラクター用 ミッドガルドレガシー 8% シアンセット
+PROPITEM_TXT_1903629,Midgard Legacy Cyan Hat (F),ミッドガルドレガシーシアンハット(F)
+PROPITEM_TXT_1903630,Midgard Legacy Cyan Suit (F),ミッドガルドレガシーシアンスーツ(F)
+PROPITEM_TXT_1903631,Midgard Legacy Cyan Shoes (F),ミッドガルドレガシーシアンシューズ(F)
+PROPITEM_TXT_1903632,Midgard Legacy 8% Cyan Set (F),ミッドガルドレガシー 8% シアンセット(F)
+PROPITEM_TXT_1903633,The Midgard Legacy 8% Cyan Set for female characters.,女性キャラクター用 ミッドガルドレガシー 8% シアンセット
+PROPITEM_TXT_1903634,Midgard Legacy 6% Blue Set,ミッドガルドレガシー 6% ブルーセット
+PROPITEM_TXT_1903635,Midgard Legacy Blue Backpack,ミッドガルドレガシーブルーバックパック
+PROPITEM_TXT_1903636,Midgard Legacy Blue Runes 01,ミッドガルドレガシーブルールーン01
+PROPITEM_TXT_1903637,Midgard Legacy Blue Hat (M),ミッドガルドレガシーブルーハット(M)
+PROPITEM_TXT_1903638,Midgard Legacy Blue Suit (M),ミッドガルドレガシーブルースーツ(M)
+PROPITEM_TXT_1903639,Midgard Legacy Blue Shoes (M),ミッドガルドレガシーブルーシューズ(M)
+PROPITEM_TXT_1903640,Midgard Legacy 6% Blue Set (M),ミッドガルドレガシー 6% ブルーセット(M)
+PROPITEM_TXT_1903641,The Midgard Legacy 6% Blue Set for male characters.,男性キャラクター用 ミッドガルドレガシー 6% ブルーセット
+PROPITEM_TXT_1903642,Midgard Legacy Blue Hat (F),ミッドガルドレガシーブルーハット(F)
+PROPITEM_TXT_1903643,Midgard Legacy Blue Suit (F),ミッドガルドレガシーブルースーツ(F)
+PROPITEM_TXT_1903644,Midgard Legacy Blue Shoes (F),ミッドガルドレガシーブルーシューズ(F)
+PROPITEM_TXT_1903645,Midgard Legacy 6% Blue Set (F),ミッドガルドレガシー 6% ブルーセット(F)
+PROPITEM_TXT_1903646,The Midgard Legacy 6% Blue Set for female characters.,女性キャラクター用 ミッドガルドレガシー 6% ブルーセット
+PROPITEM_TXT_1903647,Midgard Legacy 4% Purple Set,ミッドガルドレガシー 4% パープルセット
+PROPITEM_TXT_1903648,Midgard Legacy Purple Backpack,ミッドガルドレガシーパープルバックパック
+PROPITEM_TXT_1903649,Midgard Legacy Purple Runes 01,ミッドガルドレガシーパープルルーン01
+PROPITEM_TXT_1903650,Midgard Legacy Purple Hat (M),ミッドガルドレガシーパープルハット(M)
+PROPITEM_TXT_1903651,Midgard Legacy Purple Suit (M),ミッドガルドレガシーパープルスーツ(M)
+PROPITEM_TXT_1903652,Midgard Legacy Purple Shoes (M),ミッドガルドレガシーパープルシューズ(M)
+PROPITEM_TXT_1903653,Midgard Legacy 4% Purple Set (M),ミッドガルドレガシー 4% パープルセット(M)
+PROPITEM_TXT_1903654,The Midgard Legacy 4% Purple Set for male characters.,男性キャラクター用 ミッドガルドレガシー 4% パープルセット
+PROPITEM_TXT_1903655,Midgard Legacy Purple Hat (F),ミッドガルドレガシーパープルハット(F)
+PROPITEM_TXT_1903656,Midgard Legacy Purple Suit (F),ミッドガルドレガシーパープルスーツ(F)
+PROPITEM_TXT_1903657,Midgard Legacy Purple Shoes (F),ミッドガルドレガシーパープルシューズ(F)
+PROPITEM_TXT_1903658,Midgard Legacy 4% Purple Set (F),ミッドガルドレガシー 4% パープルセット(F)
+PROPITEM_TXT_1903659,The Midgard Legacy 4% Purple Set for female characters.,女性キャラクター用 ミッドガルドレガシー 4% パープルセット
+PROPITEM_TXT_1903660,Midgard Legacy 2% Magenta Set,ミッドガルドレガシー 2% マゼンタセット
+PROPITEM_TXT_1903661,Midgard Legacy Magenta Backpack,ミッドガルドレガシーマゼンタバックパック
+PROPITEM_TXT_1903662,Midgard Legacy Magenta Runes 01,ミッドガルドレガシーマゼンタルーン01
+PROPITEM_TXT_1903663,Midgard Legacy Magenta Hat (M),ミッドガルドレガシーマゼンタハット(M)
+PROPITEM_TXT_1903664,Midgard Legacy Magenta Suit (M),ミッドガルドレガシーマゼンタスーツ(M)
+PROPITEM_TXT_1903665,Midgard Legacy Magenta Shoes (M),ミッドガルドレガシーマゼンタシューズ(M)
+PROPITEM_TXT_1903666,Midgard Legacy 2% Magenta Set (M),ミッドガルドレガシー 2% マゼンタセット(M)
+PROPITEM_TXT_1903667,The Midgard Legacy 2% Magenta Set for male characters.,男性キャラクター用 ミッドガルドレガシー 2% マゼンタセット
+PROPITEM_TXT_1903668,Midgard Legacy Magenta Hat (F),ミッドガルドレガシーマゼンタハット(F)
+PROPITEM_TXT_1903669,Midgard Legacy Magenta Suit (F),ミッドガルドレガシーマゼンタスーツ(F)
+PROPITEM_TXT_1903670,Midgard Legacy Magenta Shoes (F),ミッドガルドレガシーマゼンタシューズ(F)
+PROPITEM_TXT_1903671,Midgard Legacy 2% Magenta Set (F),ミッドガルドレガシー 2% マゼンタセット(F)
+PROPITEM_TXT_1903672,The Midgard Legacy 2% Magenta Set for female characters.,女性キャラクター用 ミッドガルドレガシー 2% マゼンタセット
+PROPITEM_TXT_1903673,Midgard Legacy 2% Black Set,ミッドガルドレガシー 2% ブラックセット
+PROPITEM_TXT_1903674,Midgard Legacy Black Backpack,ミッドガルドレガシーブラックバックパック
+PROPITEM_TXT_1903675,Midgard Legacy Black Runes 01,ミッドガルドレガシーブラックルーン01
+PROPITEM_TXT_1903676,Midgard Legacy Black Hat (M),ミッドガルドレガシーブラックハット(M)
+PROPITEM_TXT_1903677,Midgard Legacy Black Suit (M),ミッドガルドレガシーブラックスーツ(M)
+PROPITEM_TXT_1903678,Midgard Legacy Black Shoes (M),ミッドガルドレガシーブラックシューズ(M)
+PROPITEM_TXT_1903679,Midgard Legacy 2% Black Set (M),ミッドガルドレガシー 2% ブラックセット(M)
+PROPITEM_TXT_1903680,The Midgard Legacy 2% Black Set for male characters.,男性キャラクター用 ミッドガルドレガシー 2% ブラックセット
+PROPITEM_TXT_1903681,Midgard Legacy Black Hat (F),ミッドガルドレガシーブラックハット(F)
+PROPITEM_TXT_1903682,Midgard Legacy Black Suit (F),ミッドガルドレガシーブラックスーツ(F)
+PROPITEM_TXT_1903683,Midgard Legacy Black Shoes (F),ミッドガルドレガシーブラックシューズ(F)
+PROPITEM_TXT_1903684,Midgard Legacy 2% Black Set (F),ミッドガルドレガシー 2% ブラックセット(F)
+PROPITEM_TXT_1903685,The Midgard Legacy 2% Black Set for female characters.,女性キャラクター用 ミッドガルドレガシー 2% ブラックセット
+PROPITEM_TXT_1903686,Midgard Legacy Costume Lucky Box,ミッドガルドレガシーコスチュームラッキーボックス
+PROPITEM_TXT_1903687,This box contains a Midgard Legacy Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのミッドガルドレガシーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_1903688,Midgard Legacy Red Runes 02,ミッドガルドレガシーレッドルーン02
+PROPITEM_TXT_1903689,Midgard Legacy Orange Runes 02,ミッドガルドレガシーオレンジルーン02
+PROPITEM_TXT_1903690,Midgard Legacy Green Runes 02,ミッドガルドレガシーグリーンルーン02
+PROPITEM_TXT_1903691,Midgard Legacy Cyan Runes 02,ミッドガルドレガシーシアンルーン02
+PROPITEM_TXT_1903692,Midgard Legacy Blue Runes 02,ミッドガルドレガシーブルールーン02
+PROPITEM_TXT_1903693,Midgard Legacy Purple Runes 02,ミッドガルドレガシーパープルルーン02
+PROPITEM_TXT_1903694,Midgard Legacy Magenta Runes 02,ミッドガルドレガシーマゼンタルーン02
+PROPITEM_TXT_1903695,Midgard Legacy Black Runes 02,ミッドガルドレガシーブラックルーン02
+PROPITEM_TXT_1903696,Brown Road Hog Set (M),ブラウンモーターサイクルセット(M)
+PROPITEM_TXT_1903697,This box contains an entire Brown Road Hog Set for a Male Character.,男性キャラクター用の「ブラウンモーターサイクルセット」が入ったボックスです。
+PROPITEM_TXT_1903698,Brown Road Hog Set (F),ブラウンモーターサイクルセット(F)
+PROPITEM_TXT_1903699,This box contains an entire Brown Road Hog Set for a Female Character.,女性キャラクター用の「ブラウンモーターサイクルセット」が入ったボックスです。
+PROPITEM_TXT_1903700,Brown Road Hog Hat (M),ブラウンモーターサイクルバンダナ(M)
+PROPITEM_TXT_1903701,Brown Road Hog Hat for Male characters.,男性キャラクター用 ブラウンモーターサイクルバンダナ
+PROPITEM_TXT_1903702,Brown Road Hog Hat (F),ブラウンモーターサイクルバンダナ(F)
+PROPITEM_TXT_1903703,Brown Road Hog Hat for Female characters.,女性キャラクター用 ブラウンモーターサイクルバンダナ
+PROPITEM_TXT_1903704,Brown Road Hog Suit (M),ブラウンモーターサイクルウェア(M)
+PROPITEM_TXT_1903705,Brown Road Hog Suit for Male characters.,男性キャラクター用 ブラウンモーターサイクルウェア
+PROPITEM_TXT_1903706,Brown Road Hog Suit (F),ブラウンモーターサイクルウェア(F)
+PROPITEM_TXT_1903707,Brown Road Hog Suit for Female characters.,女性キャラクター用 ブラウンモーターサイクルウェア
+PROPITEM_TXT_1903708,Brown Road Hog Gloves (M),ブラウンモーターサイクルグローブ(M)
+PROPITEM_TXT_1903709,Brown Road Hog Gloves for Male characters.,男性キャラクター用 ブラウンモーターサイクルグローブ
+PROPITEM_TXT_1903710,Brown Road Hog Gloves (F),ブラウンモーターサイクルグローブ(F)
+PROPITEM_TXT_1903711,Brown Road Hog Gloves for Female characters.,女性キャラクター用 ブラウンモーターサイクルグローブ
+PROPITEM_TXT_1903712,Brown Road Hog Boots (M),ブラウンモーターサイクルブーツ(M)
+PROPITEM_TXT_1903713,Brown Road Hog Boots for Male characters.,男性キャラクター用 ブラウンモーターサイクルブーツ
+PROPITEM_TXT_1903714,Brown Road Hog Boots (F),ブラウンモーターサイクルブーツ(F)
+PROPITEM_TXT_1903715,Brown Road Hog Boots for Female characters.,女性キャラクター用 ブラウンモーターサイクルブーツ
+PROPITEM_TXT_1903716,Brown Road Hog Set,ブラウンモーターサイクルセット
+PROPITEM_TXT_1903717,FWC 2026 Buff Select Box,FWC 2026 バフ選択ボックス
+PROPITEM_TXT_1903718,A Select Box filled with FWC 2026 Buff items. You can choose 1 item from it.,FWC 2026 バフアイテムが入った選択ボックスです。必要なものを1つ選んで開封することができます。
