@@ -108,7 +108,7 @@ PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damag
 PROPSKILL_TXT_000106,Protect,プロテクト
 PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,一定時間、対象を目に見えない障壁で包み、防御力を上昇させます。
 PROPSKILL_TXT_000108,Holyguard,ホーリーガード
-PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,一定時間、対象を目に見えない結界で包み、魔法防御力を上昇させます。
+PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,一定時間、対象を目に見えない結界で包み、クリティカル耐性を上昇させます。
 PROPSKILL_TXT_000110,Spirit Fortune,エンチャントウェポン
 PROPSKILL_TXT_000112,Gvur Tialla,パーゲイション
 PROPSKILL_TXT_000113,Removes debuffs from the target.,聖なる力で対象の状態異常を解除します。

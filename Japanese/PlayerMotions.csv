@@ -10,9 +10,9 @@ PROPMOTION_TXT_000007,Shake Hands,握手のフリをする
 PROPMOTION_TXT_000008,,
 PROPMOTION_TXT_000009,Tilt Head,頭を傾ける
 PROPMOTION_TXT_000010,,
-PROPMOTION_TXT_000011,Nod Head,うなずく（肯定的表現）
+PROPMOTION_TXT_000011,Nod Head,うなずく (肯定的表現)
 PROPMOTION_TXT_000012,,
-PROPMOTION_TXT_000013,Shake Head,手を振る（否定的表現）
+PROPMOTION_TXT_000013,Shake Head,手を振る (否定的表現)
 PROPMOTION_TXT_000014,,
 PROPMOTION_TXT_000015,Run in Place,走るフリをする
 PROPMOTION_TXT_000016,,
@@ -48,26 +48,26 @@ PROPMOTION_TXT_000045,Raise Weapon,武器を掲げます
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,資源を採集します
 PROPMOTION_TXT_000048,,
-PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),一番近い町に移動します（5分後に移動します。使用回数に制限はありません。）
+PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),一番近い町に移動 (5分後に移動します。使用回数に制限はありません。)
 PROPMOTION_TXT_000050,,
 PROPMOTION_TXT_000051,Cheer Up Another Player,他ユーザを応援します
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the Selected Target,選択されたターゲットを攻撃します。
+PROPMOTION_TXT_000053,Attack the Selected Target,選択されたターゲットを攻撃します
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected player.,選択した相手に告白します。
+PROPMOTION_TXT_000055,You propose to the selected player.,選択した相手に告白します
 PROPMOTION_TXT_000057,Toggle Weapons,武器の切り替え
 PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,召喚中のペットスキルを使用します
 PROPMOTION_TXT_000059,Follow the Selected Target,選択したターゲットを追跡する
 PROPMOTION_TXT_000060,Switch Your Current Stat Page,現在のステータスページの切り替え
 PROPMOTION_TXT_000061,Play Dead,死んだふりをする
 PROPMOTION_TXT_000062,Propose,プロポーズする
-PROPMOTION_TXT_000063,High Five (Couple),ハイタッチする（カップル）
-PROPMOTION_TXT_000064,Hug (Couple),ハグする（カップル）
-PROPMOTION_TXT_000065,Half Heart (Couple),ハートを作る（カップル）
+PROPMOTION_TXT_000063,High Five (Couple),ハイタッチする (カップル)
+PROPMOTION_TXT_000064,Hug (Couple),ハグする (カップル)
+PROPMOTION_TXT_000065,Half Heart (Couple),ハートを作る (カップル)
 PROPMOTION_TXT_000066,Frustrated,いらだつ
-PROPMOTION_TXT_000067,Cross Arms (Couple),腕を組む（カップル）
-PROPMOTION_TXT_000068,Eye Contact (Couple),見つめ合う（カップル）
-PROPMOTION_TXT_000069,Jump (Couple),ジャンプする（カップル）
+PROPMOTION_TXT_000067,Cross Arms (Couple),腕を組む (カップル)
+PROPMOTION_TXT_000068,Eye Contact (Couple),見つめ合う (カップル)
+PROPMOTION_TXT_000069,Jump (Couple),ジャンプする (カップル)
 PROPMOTION_TXT_000070,Dance 1,ダンス1
 PROPMOTION_TXT_000071,Dance 2,ダンス2
 PROPMOTION_TXT_000072,Dance 3,ダンス3
@@ -110,4 +110,4 @@ PROPMOTION_TXT_000117,Salute,敬礼する
 PROPMOTION_TXT_000118,Concerned,心配する
 PROPMOTION_TXT_000119,Embarassed,恥ずかしがる
 PROPMOTION_TXT_000120,Angry,怒る
-PROPMOTION_TXT_000121,Me Me!,Me Me!
+PROPMOTION_TXT_000121,Me Me!,ハイッ！ハーイ！
