@@ -22,14 +22,14 @@ MMI_21,Register Bounty,懸賞金懸け
 MMI_22,Bounty List,指名手配リスト
 MMI_24,View equipment,装備を見る
 MMI_25,Mailbox,ファン･ポスト
-MMI_26,Apply,適用
-MMI_27,Status,ステータス
-MMI_28,Cancel,キャンセル
-MMI_29,Enter,参加
-MMI_30,Ranking,ランキング
+MMI_26,Apply,GS 申請
+MMI_27,Status,GS 申請状況
+MMI_28,Cancel,GS キャンセル
+MMI_29,Enter,GS 入場
+MMI_30,Ranking,GS ランキング
 MMI_31,Cheer,応援
 MMI_32,Remove piercing card,ソケット効果の削除
-MMI_33,Lineup Setup,エントリー
+MMI_33,Lineup Setup,GS チーム編成
 MMI_34,Claim Guild Penya,賞金・申請金の受け取り
 MMI_35,Reward Information,賞金情報
 MMI_36,Claim MVP Penya Reward,MVP褒賞金の受取り
@@ -116,8 +116,8 @@ MMI_1050,W-Token Shop,Wトークンショップ
 MMI_1051,Costume Box Upgrade,コスチュームボックスのアップグレード
 MMI_1054,Exchange Rings,指輪の交換
 MMI_1055,Dismantle Item,アイテムの解体
-MMI_1056,Purchase Guild Ship,このギルドハウスを購入したい
-MMI_1057,Enter Guild Ship,ギルドハウスに入る
+MMI_1056,Purchase Guild Ship,このギルドシップを購入したい
+MMI_1057,Enter Guild Ship,ギルドシップに入る
 MMI_1058,Enter Your House,あなたの家に入る
 MMI_1059,Select House Template,ハウステンプレートを選択
 MMI_1060,Visit Friend's House,友達の家を訪ねる
@@ -143,10 +143,10 @@ MMI_1081,Fuse Rainbow Jewel,レインボージュエルの融合
 MMI_1082,Dismantle Rainbow Jewel,レインボージュエルの解体
 MMI_1083,Pet Training,ペットトレーニング
 MMI_1084,Teleport,テレポート
-MMI_1085,Individual Race (Item),個人レース(アイテム)
-MMI_1086,Individual Race (Speed),個人レース(スピード)
-MMI_1087,Duo Team Race (Item),デュオチームレース(アイテム)
-MMI_1088,Duo Team Race (Speed),デュオチームレース(スピード)
+MMI_1085,Individual Race (Item),個人レース (アイテム)
+MMI_1086,Individual Race (Speed),個人レース (スピード)
+MMI_1087,Duo Team Race (Item),デュオチームレース (アイテム)
+MMI_1088,Duo Team Race (Speed),デュオチームレース (スピード)
 MMI_1089,Sit,座る
 MMI_1090,Sleep,眠る
 MMI_1091,Yellow Chip Shop,イエローチップショップ

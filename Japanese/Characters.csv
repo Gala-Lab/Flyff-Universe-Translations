@@ -215,7 +215,7 @@ CHARACTER_INC_000671,[Pet Tamer],[ペットテイマー]
 CHARACTER_INC_000704,Buff Pang,バフ・ファン
 CHARACTER_INC_000706,[Arena Manager] Harold,[アリーナ管理人] ヘロルド
 CHARACTER_INC_000708,[Arena Store] Deek,[アリーナ商人] ディック
-CHARACTER_INC_000712,[Arena Manager] Lay,[アリーナ管理者] レイ
+CHARACTER_INC_000712,[Arena Manager] Lay,[アリーナ管理人] レイ
 CHARACTER_INC_000736,Lord Manager,ロードマネージャー
 CHARACTER_INC_000738,Card Master,[カードマスター] タロット
 CHARACTER_INC_000742,[Jewel Manager] Peach,[ボボタの助手] ピーチ
@@ -246,7 +246,7 @@ CHARACTER_INC_100012,Auxilior,ヘルパー
 CHARACTER_INC_100013,Mawrang,マウラン
 CHARACTER_INC_100014,Buur,バウアー
 CHARACTER_INC_100015,Gloves,グローブ
-CHARACTER_INC_100016,Kumah,クマ―
+CHARACTER_INC_100016,Kumah,クマー
 CHARACTER_INC_100017,Obnis,オブニス
 CHARACTER_INC_100018,Airon,アリオン
 CHARACTER_INC_100019,Haom,ハーモ
@@ -273,7 +273,7 @@ CHARACTER_INC_100030,Galaxy Scout,ギャラクシースカウト
 CHARACTER_INC_100031,Birthday Baker,バースデーベイカー
 CHARACTER_INC_100032,[FWC Manager] Ava,[FWCマネージャー] エヴァ
 CHARACTER_INC_100033,Gacha Machine,ガチャマシン
-CHARACTER_INC_100034,Bach,川
+CHARACTER_INC_100034,Bach,バッハ
 CHARACTER_INC_100035,Private Leo,プライベートレオ
 CHARACTER_INC_100036,Noah,ノア
 CHARACTER_INC_100037,Conch,巻き貝
@@ -294,7 +294,7 @@ CHARACTER_INC_002004,Talus,テイラス
 CHARACTER_INC_002005,Inventor Remi,発明家レミ
 CHARACTER_INC_002006,Sunny Pang,サニーパン
 CHARACTER_INC_000771,Charlie,チャーリー
-CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[ギルドハウス管理人] ルイジアナ
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[ギルドシップ管理人] ルイジアナ
 CHARACTER_INC_000773,Santa,サンタ
 CHARACTER_INC_100044,Diosa,女神
 CHARACTER_INC_100200,Kalgas Assault Manager,カルガス・アサルト・マネージャー
@@ -308,43 +308,43 @@ CHARACTER_INC_003206,[Personal House NPC] Hatter,[パーソナルハウスNPC] �
 CHARACTER_INC_003207,[Personal House NPC] Alice,[パーソナルハウスNPC] アリス
 CHARACTER_INC_003208,[Personal House NPC] Rulu,[パーソナルハウスNPC] ルル
 CHARACTER_INC_003209,[Personal House NPC] Demon,[パーソナルハウスNPC] デーモン
-CHARACTER_INC_003210,[Personal House NPC] Gevil,[パーソナルハウスNPC] ジービル
-CHARACTER_INC_003211,[Personal House NPC] Sevil,[パーソナルハウスNPC] セビル
+CHARACTER_INC_003210,[Personal House NPC] Gevil,[パーソナルハウスNPC] ゲヴィル
+CHARACTER_INC_003211,[Personal House NPC] Sevil,[パーソナルハウスNPC] セヴィル
 CHARACTER_INC_003212,[Personal House NPC] Lala,[パーソナルハウスNPC] ララ
 CHARACTER_INC_003213,[Personal House NPC] Tino,[パーソナルハウスNPC] ティノ
-CHARACTER_INC_003214,[Personal House NPC] Cachu,[パーソナルハウスNPC] カチュウ
-CHARACTER_INC_003215,[Personal House NPC] Pang,[パーソナルハウスNPC] パング
-CHARACTER_INC_003216,[Guild Ship NPC] Gira,[ギルドハウスNPC] ギラ
-CHARACTER_INC_003217,[Guild Ship NPC] Affe,[ギルドハウスNPC] アフェ
-CHARACTER_INC_003218,[Guild Ship NPC] Sham,[ギルドハウスNPC] シャム
-CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[ギルドハウスNPC] ラミュー
-CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[ギルドハウスNPC] クオーター
-CHARACTER_INC_003221,[Guild Ship NPC] Duron,[ギルドハウスNPC] デュロン
-CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[ギルドハウスNPC] ドルフィー
-CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[ギルドハウスNPC] フバ
-CHARACTER_INC_003224,[Guild Ship NPC] Bako,[ギルドハウスNPC] バコ
-CHARACTER_INC_003225,[Guild Ship NPC] Wick,[ギルドハウスNPC] ウィック
-CHARACTER_INC_003226,[Guild Ship NPC] Wina,[ギルドハウスNPC] ウィナ
-CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[ギルドハウスNPC] ピッチ
-CHARACTER_INC_003228,[Guild Ship NPC] Catch,[ギルドハウスNPC] キャッチ
-CHARACTER_INC_003229,[Guild Ship NPC] Met,[ギルドハウスNPC] メット
-CHARACTER_INC_003230,[Guild Ship NPC] Ego,[ギルドハウスNPC] エゴ
-CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[ギルドハウスNPC] ウィフィールダー
-CHARACTER_INC_003232,[Guild Ship NPC] Simid,[ギルドハウスNPC] シミド
-CHARACTER_INC_003233,[Guild Ship NPC] Chord,[ギルドハウスNPC] コード
-CHARACTER_INC_003234,[Guild Ship NPC] Anura,[ギルドハウスNPC] アヌーラ
-CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[ギルドハウスNPC] ビケル
-CHARACTER_INC_003236,[Guild Ship NPC] Soz,[ギルドハウスNPC] ソズ
-CHARACTER_INC_003237,[Guild Ship NPC] Naso,[ギルドハウスNPC] ナソ
-CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[ギルドハウスNPC] ヌソ
-CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[ギルドハウスNPC] コバオ
-CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[ギルドハウスNPC] アイバオ
-CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[ギルドハウスNPC] ナンコ
-CHARACTER_INC_003242,[Guild Ship NPC] Asa,[ギルドハウスNPC] アサ
-CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[ギルドハウスNPC] アリン
-CHARACTER_INC_003244,[Guild Ship NPC] Lane,[ギルドハウスNPC] レーン
-CHARACTER_INC_003245,[Guild Ship NPC] Runni,[ギルドハウスNPC] ルンニ
-CHARACTER_INC_003246,[Guild Ship NPC] Pang,[ギルドハウスNPC] パング
+CHARACTER_INC_003214,[Personal House NPC] Cachu,[パーソナルハウスNPC] カシュ
+CHARACTER_INC_003215,[Personal House NPC] Pang,[パーソナルハウスNPC] パン
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[ギルドシップNPC] ギラ
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[ギルドシップNPC] アッフェ
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[ギルドシップNPC] シャム
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[ギルドシップNPC] ラミュー
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[ギルドシップNPC] クオーター
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[ギルドシップNPC] デュロン
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[ギルドシップNPC] ドルフィー
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[ギルドシップNPC] フバ
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[ギルドシップNPC] バコ
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[ギルドシップNPC] ウィック
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[ギルドシップNPC] ウィナ
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[ギルドシップNPC] ピッチ
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[ギルドシップNPC] キャッチ
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[ギルドシップNPC] メット
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[ギルドシップNPC] エゴ
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[ギルドシップNPC] ウィフィールダー
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[ギルドシップNPC] シミド
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[ギルドシップNPC] コード
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[ギルドシップNPC] アヌラ
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[ギルドシップNPC] ビケル
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[ギルドシップNPC] ソズ
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[ギルドシップNPC] ナーソー
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[ギルドシップNPC] ニューソー
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[ギルドシップNPC] コバオ
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[ギルドシップNPC] アイバオ
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[ギルドシップNPC] ナンコ
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[ギルドシップNPC] アサ
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[ギルドシップNPC] アリン
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[ギルドシップNPC] レーン
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[ギルドシップNPC] ルンニ
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[ギルドシップNPC] パン
 CHARACTER_INC_000774,Orphanage Keeper,孤児院の番人
 CHARACTER_INC_003247,Guest Book,宿帳
 CHARACTER_INC_003248,Bomida,ボミダ

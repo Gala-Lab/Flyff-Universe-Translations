@@ -5552,7 +5552,7 @@ PROPITEM_TXT_010432,Spacesuit Gloves (M),コズミックグローブ(男の子�
 PROPITEM_TXT_013590,Reconnaissance Gloves (F),ミリタリーグローブ(女の子用)
 PROPITEM_TXT_013492,Mistletoe Hat (F),ラブリィクリスマスハット(女の子用)
 PROPITEM_TXT_020447,PPXP 2019 Door Prize Cloak (15 days) (F),PPXP 2019 ドア賞品 マント(15日)(F)
-PROPITEM_TXT_014232,Colosseum Champion's Cloak,栄光のコロシアムマント
+PROPITEM_TXT_014232,Colosseum Champion's Cloak,栄光のコロッセオマント
 PROPITEM_TXT_016469,Masquerade Helmet (JP),マスカレードラブリィヘルメット
 PROPITEM_TXT_015853,Shinigami Suit (M),退魔師コスチューム(男の子用)
 PROPITEM_TXT_009623,Martial artist Hair for Female Characters,武道家のヘアスタイル
@@ -12581,7 +12581,7 @@ PROPITEM_TXT_160062,Ultima,アルティマ
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,いずれ究極のエネルギーを宿す可能性を秘めた、神秘の珠。(クエストアイテム)
 PROPITEM_TXT_160064,Blinkwing of Coral Island,コーラルアイランドのブリンクウィング
 PROPITEM_TXT_160065,Teleport to Coral Island,コーラルアイランドにテレポート
-PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,このハウジングパックには、家やギルド船を飾るためのさまざまなモデルが含まれています!
+PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,このハウジングパックには、家やギルドシップを飾るためのさまざまなモデルが含まれています!
 PROPITEM_TXT_722004,Blank World Template (XL),ブランクワールドテンプレート(XL)
 PROPITEM_TXT_722005,This will give you a new template for your house!,これにより、家の新しいテンプレートが提供されます。
 PROPITEM_TXT_011508,Bileire Helmet,ビレイレヘルメット
@@ -12685,7 +12685,7 @@ PROPITEM_TXT_422044,Teleport to one of the towns and return later where the scro
 PROPITEM_TXT_124000,Forest World Template (XL),フォレストワールドテンプレート(XL)
 PROPITEM_TXT_124001,Volcano World Template (XL),ヴォルケーノワールドテンプレート(XL)
 PROPITEM_TXT_124002,Snow World Template (XL),スノーワールドテンプレート(XL)
-PROPITEM_TXT_124003,Guild Ship Blinkwing,ギルドハウスブリンクウィング
+PROPITEM_TXT_124003,Guild Ship Blinkwing,ギルドシップブリンクウィング
 PROPITEM_TXT_131001,Scroll of Housing Preset,ハウジングプリセットのスクロール
 PROPITEM_TXT_131002,Using this scroll will increase your maximum housing presets count by 1! (This maximum count will be increased for all templates).,このスクロールを使用すると、ハウジングプリセットの最大数が1増えます。(この最大数は、すべてのテンプレートで増加します)。
 PROPITEM_TXT_131003,Common Trees Housing Pack,コモンツリーハウジング パック
@@ -13366,100 +13366,100 @@ PROPITEM_TXT_131462,Dragon's Consumable Package,ドラゴン消耗品パッケ�
 PROPITEM_TXT_131463,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll and 10x Grilled Eel. All items are also linked.",パワーストーンx10、豪傑のスクロール(B)x10、戦神の巻物ESx10、グリルド・イールx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_131464,Dragon's Transy Package,ドラゴントランシーパッケージ
 PROPITEM_TXT_131465,"A package containing 1x Transy, 1x Item Transy (B) and 1x Scroll of Name Change. All items are also linked.",トランシーx1、FMチェンジャー(レッド/B)x1、改名の巻物銀行エキストラバッグ(1日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_131796,[Personal House NPC] Casanova,[パーソナルハウスNPC]カサノバ
+PROPITEM_TXT_131796,[Personal House NPC] Casanova,[パーソナルハウスNPC] カサノバ
 PROPITEM_TXT_131797,This NPC will grant you the following bonus when placed on the Personal House: EXP +5%.,パーソナルハウスに設置すると、次のボーナスを付与します:EXP +5%
-PROPITEM_TXT_131798,[Personal House NPC] Misun,[パーソナルハウスNPC]ミスン
+PROPITEM_TXT_131798,[Personal House NPC] Misun,[パーソナルハウスNPC] ミスン
 PROPITEM_TXT_131799,This NPC will grant you the following bonus when placed on the Personal House: Drop Rate +5%.,パーソナルハウスに設置すると、次のボーナスを付与します:ドロップ率+5%。
-PROPITEM_TXT_131800,[Personal House NPC] Punk,[パーソナルハウスNPC]パンク
+PROPITEM_TXT_131800,[Personal House NPC] Punk,[パーソナルハウスNPC] パンク
 PROPITEM_TXT_131801,This NPC will grant you the following bonus when placed on the Personal House: 2 Inventory Slots.,パーソナルハウスに配置すると、次のボーナスを付与します:インベントリスロット+2
-PROPITEM_TXT_131802,[Personal House NPC] Temas,[パーソナルハウスNPC]テマス
+PROPITEM_TXT_131802,[Personal House NPC] Temas,[パーソナルハウスNPC] テマス
 PROPITEM_TXT_131803,This NPC will grant you the following bonus when placed on the Personal House: Speed +5%.,パーソナルハウスに配置すると、次のボーナスを付与します:速度+5%。
-PROPITEM_TXT_131804,[Personal House NPC] BB Wolf,[パーソナルハウスNPC]BBウルフ
+PROPITEM_TXT_131804,[Personal House NPC] BB Wolf,[パーソナルハウスNPC] BBウルフ
 PROPITEM_TXT_131805,This NPC will grant you the following bonus when placed on the Personal House: Jump Height +30.,パーソナルハウスに設置すると、次のボーナスを付与します:ジャンプの高さ+30。
-PROPITEM_TXT_131806,[Personal House NPC] Chacha,[パーソナルハウスNPC]チャチャ
+PROPITEM_TXT_131806,[Personal House NPC] Chacha,[パーソナルハウスNPC] チャチャ
 PROPITEM_TXT_131807,This NPC will grant you the following bonus when placed on the Personal House: Flying Speed +5%.,パーソナルハウスに設置すると、次のボーナスを付与します:飛行速度+5%。
-PROPITEM_TXT_131808,[Personal House NPC] Hatter,[パーソナルハウスNPC]ハッター
+PROPITEM_TXT_131808,[Personal House NPC] Hatter,[パーソナルハウスNPC] ハッター
 PROPITEM_TXT_131809,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage +3%.,パーソナルハウスに設置すると、次のボーナスを付与します:PvEダメージ+3%。
-PROPITEM_TXT_131810,[Personal House NPC] Alice,[パーソナルハウスNPC]アリス
+PROPITEM_TXT_131810,[Personal House NPC] Alice,[パーソナルハウスNPC] アリス
 PROPITEM_TXT_131811,This NPC will grant you the following bonus when placed on the Personal House: PvE Damage Reduction +3%.,パーソナルハウスに設置すると、次のボーナスを付与します:PvEダメージ軽減+3%。
-PROPITEM_TXT_131812,[Personal House NPC] Rulu,[パーソナルハウスNPC]ルル
+PROPITEM_TXT_131812,[Personal House NPC] Rulu,[パーソナルハウスNPC] ルル
 PROPITEM_TXT_131813,This NPC will grant you the following bonus when placed on the Personal House: Experience Loss Reduction +3%.,パーソナルハウスに設置すると、次のボーナスを付与します。 死亡時の経験値損失が3%減少。
-PROPITEM_TXT_131814,[Personal House NPC] Demon,[パーソナルハウスNPC]デーモン
+PROPITEM_TXT_131814,[Personal House NPC] Demon,[パーソナルハウスNPC] デーモン
 PROPITEM_TXT_131815,This NPC will grant you the following bonus when placed on the Personal House: HP Restored on revive +500.,パーソナルハウスに設置すると、次のボーナスを付与します:HP回復+500。
-PROPITEM_TXT_131816,[Personal House NPC] Gevil,[パーソナルハウスNPC]ジービル
+PROPITEM_TXT_131816,[Personal House NPC] Gevil,[パーソナルハウスNPC] ゲヴィル
 PROPITEM_TXT_131817,This NPC will grant you the following bonus when placed on the Personal House: MP Restored on revive +100.,パーソナルハウスに設置すると、次のボーナスを付与します:MP回復+100。
-PROPITEM_TXT_131818,[Personal House NPC] Sevil,[パーソナルハウスNPC]セビル
+PROPITEM_TXT_131818,[Personal House NPC] Sevil,[パーソナルハウスNPC] セヴィル
 PROPITEM_TXT_131819,This NPC will grant you the following bonus when placed on the Personal House: FP Restored on revive +50.,パーソナルハウスに設置すると、次のボーナスを付与します:蘇生FP回復+50。
-PROPITEM_TXT_131820,[Personal House NPC] Lala,[パーソナルハウスNPC]ララ
+PROPITEM_TXT_131820,[Personal House NPC] Lala,[パーソナルハウスNPC] ララ
 PROPITEM_TXT_131821,This NPC will grant you the following bonus when placed on the Personal House: Dungeon Free Entry +1.,パーソナルハウスに設置すると、次のボーナスを付与します:ダンジョン無料入場+1。
-PROPITEM_TXT_131822,[Personal House NPC] Tino,[パーソナルハウスNPC]ティノ
+PROPITEM_TXT_131822,[Personal House NPC] Tino,[パーソナルハウスNPC] ティノ
 PROPITEM_TXT_131823,This NPC will grant you the following bonus when placed on the Personal House: Added Vendor Shop Day(s) +1.,パーソナルハウスに設置すると、次のボーナスを付与します: ベンダーショップ+1追加
-PROPITEM_TXT_131824,[Personal House NPC] Cachu,[パーソナルハウスNPC]カチュウ
+PROPITEM_TXT_131824,[Personal House NPC] Cachu,[パーソナルハウスNPC] カシュ
 PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.,パーソナルハウスに設置すると、次のボーナスを付与します:パーティー経験値+10%。
-PROPITEM_TXT_131826,[Personal House NPC] Pang,[パーソナルハウスNPC]パング
+PROPITEM_TXT_131826,[Personal House NPC] Pang,[パーソナルハウスNPC] パン
 PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.,パーソナルハウスに設置すると、次のボーナスを付与します:レベル120以下のキャラクターへ限定バフ
-PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[ギルドハウスNPC]ギラ
-PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,ギルドハウスに設置すると、次のボーナスを付与します:MP消費減少+10%。
-PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[ギルドハウスNPC]アフェ
-PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.,ギルドハウスに設置すると、次のボーナスを付与します:FP消費減少+10%。
-PROPITEM_TXT_131832,[Guild Ship NPC] Sham,[ギルドハウスNPC]シャム
-PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:MP+10%増加。
-PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[ギルドハウスNPC]ラミュー
-PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:FP+10%増加。
-PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[ギルドハウスNPC]クオーター
-PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:HP+10%増加。
-PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[ギルドハウスNPC]デュロン
-PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクトHP+10%
-PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[ギルドハウスNPC]ドルフィー
-PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクトDEF+10%
-PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[ギルドハウスNPC]フバ
-PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクト回復+10%
-PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[ギルドハウスNPC]バコ
-PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くの味方HP+500
-PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[ギルドハウスNPC]ウィック
-PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方ATK+3%
-PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[ギルドハウスNPC]ウィナ
-PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方DEF+3%
-PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[ギルドハウスNPC]ピッチ
-PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方攻撃速度+5%
-PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[ギルドハウスNPC]キャッチ
-PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方詠唱速度+5%
-PROPITEM_TXT_131854,[Guild Ship NPC] Met,[ギルドハウスNPC]メット
-PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131856,[Guild Ship NPC] Ego,[ギルドハウスNPC]エゴ
-PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder,[ギルドハウスNPC]ウィフィールダー
-PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[ギルドハウスNPC]シミド
-PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[ギルドハウスNPC]コード
-PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPダメージ+3%。
-PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[ギルドハウスNPC]アヌーラ
-PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPダメージ軽減+3%。
-PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[ギルドハウスNPC]ビケル
-PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvP近接/範囲ブロック+3%
-PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[ギルドハウスNPC]ソズ
-PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPブロック貫通+3%
-PROPITEM_TXT_131870,[Guild Ship NPC] Naso,[ギルドハウスNPC]ノーズ
-PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPクリティカル率+3%
-PROPITEM_TXT_131872,[Guild Ship NPC] Nuso,[ギルドハウスNPC]ヌソ
-PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPクリティカルダメージ+3%
-PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[ギルドハウスNPC]コバオ
-PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,ギルドハウスに設置すると、次のボーナスを付与します:回復+3%。
-PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[ギルドハウスNPC]アイバオ
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:魔法防御+3%。
-PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[ギルドハウスNPC]ナンコ
-PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,ギルドハウスに設置すると、次のボーナスを付与します:クリティカル耐性+3%。
-PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[ギルドハウスNPC]アサ
-PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.,ギルドハウスに設置すると、次のボーナスを付与します:選択した場所にテレポート可能
-PROPITEM_TXT_131882,[Guild Ship NPC] Alyn,[ギルドハウスNPC]アリン
-PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:武器/防具アップグレードチャンス+3%
-PROPITEM_TXT_131884,[Guild Ship NPC] Lane,[ギルドハウスNPC]レーン
-PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:アクセサリーアップグレードチャンス+3%
-PROPITEM_TXT_131886,[Guild Ship NPC] Runni,[ギルドハウスNPC]ルニ
-PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:ピアスアップグレードチャンス+5%。
-PROPITEM_TXT_131888,[Guild Ship NPC] Pang,[ギルドハウスNPC]パング
-PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.,ギルドハウスに設置すると、次のボーナスを付与します:レベル140以下のキャラクターに限定バフ
+PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[ギルドシップNPC] ギラ
+PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,ギルドシップに設置すると、次のボーナスを付与します:MP消費減少+10%。
+PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[ギルドシップNPC] アッフェ
+PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.,ギルドシップに設置すると、次のボーナスを付与します:FP消費減少+10%。
+PROPITEM_TXT_131832,[Guild Ship NPC] Sham,[ギルドシップNPC] シャム
+PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.,ギルドシップに設置すると、次のボーナスを付与します:MP+10%増加。
+PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[ギルドシップNPC] ラミュー
+PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,ギルドシップに設置すると、次のボーナスを付与します:FP+10%増加。
+PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[ギルドシップNPC] クオーター
+PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,ギルドシップに設置すると、次のボーナスを付与します:HP+10%増加。
+PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[ギルドシップNPC] デュロン
+PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクトHP+10%
+PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[ギルドシップNPC] ドルフィー
+PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクトDEF+10%
+PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[ギルドシップNPC] フバ
+PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクト回復+10%
+PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[ギルドシップNPC] バコ
+PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,ギルドシップに設置すると、次のボーナスを付与します:家のアーティファクトの近くの味方HP+500
+PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[ギルドシップNPC] ウィック
+PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,ギルドシップに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方ATK+3%
+PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[ギルドシップNPC] ウィナ
+PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,ギルドシップに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方DEF+3%
+PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[ギルドシップNPC] ピッチ
+PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドシップに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方攻撃速度+5%
+PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[ギルドシップNPC] キャッチ
+PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,ギルドシップに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方詠唱速度+5%
+PROPITEM_TXT_131854,[Guild Ship NPC] Met,[ギルドシップNPC] メット
+PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131856,[Guild Ship NPC] Ego,[ギルドシップNPC] エゴ
+PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder,[ギルドシップNPC] ウィフィールダー
+PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[ギルドシップNPC] シミド
+PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[ギルドシップNPC] コード
+PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPダメージ+3%。
+PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[ギルドシップNPC] アヌラ
+PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPダメージ軽減+3%。
+PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[ギルドシップNPC] ビケル
+PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvP近接/範囲ブロック+3%
+PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[ギルドシップNPC] ソズ
+PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPブロック貫通+3%
+PROPITEM_TXT_131870,[Guild Ship NPC] Naso,[ギルドシップNPC] ナーソー
+PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPクリティカル率+3%
+PROPITEM_TXT_131872,[Guild Ship NPC] Nuso,[ギルドシップNPC] ニューソー
+PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPクリティカルダメージ+3%
+PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[ギルドシップNPC] コバオ
+PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,ギルドシップに設置すると、次のボーナスを付与します:回復+3%。
+PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[ギルドシップNPC] アイバオ
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,ギルドシップに設置すると、次のボーナスを付与します:魔法防御+3%。
+PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[ギルドシップNPC] ナンコ
+PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,ギルドシップに設置すると、次のボーナスを付与します:クリティカル耐性+3%。
+PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[ギルドシップNPC] アサ
+PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.,ギルドシップに設置すると、次のボーナスを付与します:選択した場所にテレポート可能
+PROPITEM_TXT_131882,[Guild Ship NPC] Alyn,[ギルドシップNPC] アリン
+PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:武器/防具アップグレードチャンス+3%
+PROPITEM_TXT_131884,[Guild Ship NPC] Lane,[ギルドシップNPC] レーン
+PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:アクセサリーアップグレードチャンス+3%
+PROPITEM_TXT_131886,[Guild Ship NPC] Runni,[ギルドシップNPC] ルニ
+PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:ピアスアップグレードチャンス+5%。
+PROPITEM_TXT_131888,[Guild Ship NPC] Pang,[ギルドシップNPC] パン
+PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.,ギルドシップに設置すると、次のボーナスを付与します:レベル140以下のキャラクターに限定バフ
 PROPITEM_TXT_522047,Cushion Chair Single Pack,クッションチェア シングルパック
 PROPITEM_TXT_522048,Spinning Globe Single Pack,スピニンググローブシングルパック
 PROPITEM_TXT_522049,Compass Single Pack,コンパスシングルパック
@@ -14510,53 +14510,53 @@ PROPITEM_TXT_132012,Blue Love Candy,ブルーラブキャンディ
 PROPITEM_TXT_132013,Increases critical chance and attack speed for 30 minutes.,30分間、クリティカル率と攻撃速度が上昇する。
 PROPITEM_TXT_132014,Rainbow Love Candy,レインボーラブキャンディ
 PROPITEM_TXT_132015,Increases All Stats by 20 for 30 minutes.,30分間、すべてのステータスが20増加します。
-PROPITEM_TXT_722852,[Personal House NPC] Casanova (7 Days),[パーソナルハウスNPC]カサノバ(7日間)
-PROPITEM_TXT_722853,[Personal House NPC] Misun (7 Days),[パーソナルハウスNPC]ミスン(7日間)
-PROPITEM_TXT_722854,[Personal House NPC] Punk (7 Days),[パーソナルハウスNPC]パンク(7日間)
-PROPITEM_TXT_722855,[Personal House NPC] Temas (7 Days),[パーソナルハウスNPC]テマス(7日間)
-PROPITEM_TXT_722856,[Personal House NPC] BB Wolf (7 Days),[パーソナルハウスNPC]BBウルフ(7日間)
-PROPITEM_TXT_722857,[Personal House NPC] Chacha (7 Days),[パーソナルハウスNPC]チャチャ(7日間)
-PROPITEM_TXT_722858,[Personal House NPC] Hatter (7 Days),[パーソナルハウスNPC]帽子屋(7日間)
-PROPITEM_TXT_722859,[Personal House NPC] Alice (7 Days),[パーソナルハウスNPC]アリス(7日間)
-PROPITEM_TXT_722860,[Personal House NPC] Rulu (7 Days),[パーソナルハウスNPC]ルル(7日間)
-PROPITEM_TXT_722861,[Personal House NPC] Demon (7 Days),[パーソナルハウスNPC]デーモン(7日間)
-PROPITEM_TXT_722862,[Personal House NPC] Gevil (7 Days),[パーソナルハウスNPC]ゲヴィル(7日間)
-PROPITEM_TXT_722863,[Personal House NPC] Sevil (7 Days),[パーソナルハウスNPC]セヴィル(7日間)
-PROPITEM_TXT_722864,[Personal House NPC] Lala (7 Days),[パーソナルハウスNPC]ララ(7日間)
-PROPITEM_TXT_722865,[Personal House NPC] Tino (7 Days),[パーソナルハウスNPC]ティノ(7日間)
-PROPITEM_TXT_722866,[Personal House NPC] Cachu (7 Days),[パーソナルハウスNPC]カチュ(7日間)
-PROPITEM_TXT_722867,[Personal House NPC] Pang (7 Days),[パーソナルハウスNPC]パン(7日間)
-PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days),[ギルドハウスNPC]ギラ(7日間)
-PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[ギルドハウスNPC]アッフェ(7日間)
-PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[ギルドハウスNPC]シャム(7日間)
-PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[ギルドハウスNPC]ラミュー(7日間)
-PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[ギルドハウスNPC]クオーター(7日間)
-PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[ギルドハウスNPC]デュロン(7日間)
-PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[ギルドハウスNPC]ドルフィー(7日間)
-PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[ギルドハウスNPC]フバ(7日間)
-PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[ギルドハウスNPC]バコ(7日間)
-PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[ギルドハウスNPC]ウィック(7日間)
-PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[ギルドハウスNPC]ウィナ(7日間)
-PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[ギルドハウスNPC]ピッチ(7日間)
-PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[ギルドハウスNPC]キャッチ(7日間)
-PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[ギルドハウスNPC]メット(7日間)
-PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[ギルドハウスNPC]エゴ(7日間)
-PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[ギルドハウスNPC]ウィフィールダー(7日間)
-PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days),[ギルドハウスNPC]シミド(7日間)
-PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days),[ギルドハウスNPC]コード(7日間)
-PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days),[ギルドハウスNPC]アヌラ(7日間)
-PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days),[ギルドハウスNPC]ビケル(7日間)
-PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days),[ギルドハウスNPC]ソズ(7日間)
-PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days),[ギルドハウスNPC]ナソ(7日間)
-PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days),[ギルドハウスNPC]ヌソ(7日間)
-PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days),[ギルドハウスNPC]コバオ(7日間)
-PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days),[ギルドハウスNPC]アイバオ(7日間)
-PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days),[ギルドハウスNPC]ナンコ(7日間)
-PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days),[ギルドハウスNPC]アサ(7日間)
-PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days),[ギルドハウスNPC]アリン(7日間)
-PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days),[ギルドハウスNPC]レーン(7日間)
-PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days),[ギルドハウスNPC]ルンニ(7日間)
-PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days),[ギルドハウスNPC]パン(7日間)
+PROPITEM_TXT_722852,[Personal House NPC] Casanova (7 Days),[パーソナルハウスNPC] カサノバ(7日間)
+PROPITEM_TXT_722853,[Personal House NPC] Misun (7 Days),[パーソナルハウスNPC] ミスン(7日間)
+PROPITEM_TXT_722854,[Personal House NPC] Punk (7 Days),[パーソナルハウスNPC] パンク(7日間)
+PROPITEM_TXT_722855,[Personal House NPC] Temas (7 Days),[パーソナルハウスNPC] テマス(7日間)
+PROPITEM_TXT_722856,[Personal House NPC] BB Wolf (7 Days),[パーソナルハウスNPC] BBウルフ(7日間)
+PROPITEM_TXT_722857,[Personal House NPC] Chacha (7 Days),[パーソナルハウスNPC] チャチャ(7日間)
+PROPITEM_TXT_722858,[Personal House NPC] Hatter (7 Days),[パーソナルハウスNPC] ハッター(7日間)
+PROPITEM_TXT_722859,[Personal House NPC] Alice (7 Days),[パーソナルハウスNPC] アリス(7日間)
+PROPITEM_TXT_722860,[Personal House NPC] Rulu (7 Days),[パーソナルハウスNPC] ルル(7日間)
+PROPITEM_TXT_722861,[Personal House NPC] Demon (7 Days),[パーソナルハウスNPC] デーモン(7日間)
+PROPITEM_TXT_722862,[Personal House NPC] Gevil (7 Days),[パーソナルハウスNPC] ゲヴィル(7日間)
+PROPITEM_TXT_722863,[Personal House NPC] Sevil (7 Days),[パーソナルハウスNPC] セヴィル(7日間)
+PROPITEM_TXT_722864,[Personal House NPC] Lala (7 Days),[パーソナルハウスNPC] ララ(7日間)
+PROPITEM_TXT_722865,[Personal House NPC] Tino (7 Days),[パーソナルハウスNPC] ティノ(7日間)
+PROPITEM_TXT_722866,[Personal House NPC] Cachu (7 Days),[パーソナルハウスNPC] カシュ(7日間)
+PROPITEM_TXT_722867,[Personal House NPC] Pang (7 Days),[パーソナルハウスNPC] パン(7日間)
+PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days),[ギルドシップNPC] ギラ(7日間)
+PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[ギルドシップNPC] アッフェ(7日間)
+PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[ギルドシップNPC] シャム(7日間)
+PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[ギルドシップNPC] ラミュー(7日間)
+PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[ギルドシップNPC] クオーター(7日間)
+PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[ギルドシップNPC] デュロン(7日間)
+PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[ギルドシップNPC] ドルフィー(7日間)
+PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[ギルドシップNPC] フバ(7日間)
+PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[ギルドシップNPC] バコ(7日間)
+PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[ギルドシップNPC] ウィック(7日間)
+PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[ギルドシップNPC] ウィナ(7日間)
+PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[ギルドシップNPC] ピッチ(7日間)
+PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[ギルドシップNPC] キャッチ(7日間)
+PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[ギルドシップNPC] メット(7日間)
+PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[ギルドシップNPC] エゴ(7日間)
+PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[ギルドシップNPC] ウィフィールダー(7日間)
+PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days),[ギルドシップNPC] シミド(7日間)
+PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days),[ギルドシップNPC] コード(7日間)
+PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days),[ギルドシップNPC] アヌラ(7日間)
+PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days),[ギルドシップNPC] ビケル(7日間)
+PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days),[ギルドシップNPC] ソズ(7日間)
+PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days),[ギルドシップNPC] ナーソー(7日間)
+PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days),[ギルドシップNPC] ニューソー(7日間)
+PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days),[ギルドシップNPC] コバオ(7日間)
+PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days),[ギルドシップNPC] アイバオ(7日間)
+PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days),[ギルドシップNPC] ナンコ(7日間)
+PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days),[ギルドシップNPC] アサ(7日間)
+PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days),[ギルドシップNPC] アリン(7日間)
+PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days),[ギルドシップNPC] レーン(7日間)
+PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days),[ギルドシップNPC] ルニ(7日間)
+PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days),[ギルドシップNPC] パン(7日間)
 PROPITEM_TXT_722899,Cushion Chair Single Pack (10 Days),クッションチェア シングルパック(10日)
 PROPITEM_TXT_722900,Spinning Globe Single Pack (10 Days),スピニンググローブ シングルパック(10日)
 PROPITEM_TXT_722901,Compass Single Pack (10 Days),コンパスシングルパック(10日)
@@ -17301,8 +17301,8 @@ PROPITEM_TXT_800217,Rainbow Jewel (10),レインボージュエル(10)
 PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can be attached multiple times.,アルティマ武器に装着すると全ステータス+10を付与します。複数回装着できます。
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),ペットインベントリの巻物(キャラクターハウス)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,この巻物を使用すると、キャラクターハウスのペットインベントリの最大スロット数が1つ増加します！
-PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),ペットインベントリの巻物(ギルド船)
-PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild),この巻物を使用すると、ギルド船のペットインベントリの最大スロット数が1つ増加します！(注意：この効果はギルドに帰属します)
+PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),ペットインベントリの巻物(ギルドシップ)
+PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild),この巻物を使用すると、ギルドシップのペットインベントリの最大スロット数が1つ増加します！(注意：この効果はギルドに帰属します)
 PROPITEM_TXT_140000,Cubic Ring,キュービックリング
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.",このリングは他のプレイヤーにプロポーズする際に使用され、カップルが解消されると消滅します。
 PROPITEM_TXT_140002,Fancy Cubic Ring,豪華なキュービックリング
@@ -29610,9 +29610,9 @@ PROPITEM_TXT_904102,Last Beacon Trans Random Box,ラストビーコン・オー�
 PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.",ラストビーコンに登場するモンスター(ボスを含む)のオーブアイテムのうち、1つがランダムで手に入るボックスです。
 PROPITEM_TXT_904104,FWC Firework,FWC花火
 PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.",撃つと、空または地面にFWC 2026の文字が描かれます。
-PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K]ギルドハウスサプライボックス
+PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K]ギルドシップサプライボックス
 PROPITEM_TXT_904107,"A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.",フォーチュンパン(7日)x1、[新]FWC花火x30、ラストビーコン・オーブランダムボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K]ギルドハウスサプライボックス
+PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K]ギルドシップサプライボックス
 PROPITEM_TXT_904109,"A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.",FWCフレイム・ルサカ武器選択ボックス(30日)x1、FWCレッドウィング(30日)x1、フォーチュンパン(30日)x1、[新]FWC花火x30、ラストビーコン・オーブランダムボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_904110,Flyff Summer Upgrade Package,Flyffサマーアップグレードパッケージ
 PROPITEM_TXT_904111,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.",精錬編の巻物ボックスx10、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20が含まれたパッケージ。アイテムは全て帰属です。

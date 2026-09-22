@@ -628,7 +628,7 @@ TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,[GCC]キャンセル�
 TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,本日のギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,よい空の旅を！
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスに行き、出場者の＜チーム編成＞を完了させてください。
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,この後、ギルドコンバット開催予定です。%d秒後に自動でフラリスに移動します。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
@@ -673,10 +673,10 @@ TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,入場制限時間
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドメンバーを招待することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,ギルドコンバットに申請したギルドは、ギルドの解散はできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドからの脱退はできません。
-TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドシージ中はメンバー管理機能を使用できません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドシージ中にギルドのロゴを変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドシージ中にギルド名を変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドシージ中に戦争宣言はできません。
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドコンバット中はメンバー管理機能を使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドコンバット中にギルドのロゴを変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドコンバット中にギルド名を変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドコンバット中に戦争宣言はできません。
 TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,イベント期間中はご利用いただけません。
 TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,イベント中はスキルを使用できません。
 TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,イベント中は適用できません。
@@ -685,10 +685,10 @@ TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,�
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,[GCC]参加対象外の払い戻し
 TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドコンバットの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",既に褒賞金を受取ったか、受け取り対象ではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドコンバットの賞金として%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,変身中には使用できません。
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,このアカウントはBANされています。カスタマーサービスへお問い合わせください。
@@ -1098,12 +1098,12 @@ TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,アップグレードは
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,この項目は対象には使用できません。
 TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティマ武器の作成」メニューで使用できます
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,最初にターゲット項目を設定する必要があります。
-TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルド船に入札するには、ギルドの一員である必要があります。
-TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルド船を購入できるのはギルドリーダーだけです。
-TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,あなたのギルドはすでにギルド船を所有しています。
-TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,このギルド船の入札に成功しました!
-TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,このギルド船はすでに別のギルドに属しています。入札することはできません。
-TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,この船はギルドに属していません。
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルドシップに入札するには、ギルドの一員である必要があります。
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルドシップを購入できるのはギルドリーダーだけです。
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,あなたのギルドはすでにギルドシップを所有しています。
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,このギルドシップの入札に成功しました!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,このギルドシップはすでに別のギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,このギルドシップはあなたのギルドに属していません。
 TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,家具を置こうとしている位置が、自分から離れすぎています。
 TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,その家具は既に配置されています。事前に無効にしてください。
 TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,無効にする前に、まずその家具を配置する必要があります。
@@ -1111,8 +1111,8 @@ TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,ここには家�
 TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,オブジェクトを配置する地面をタッチします。マウスホイールで回転させます。マウスホイールを押しながらマウスを左右に動かしてサイズを変更します。
 TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,デコレーションオブジェクトの配置がキャンセルされました。
 TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,その家に家具を置く権利はありません。
-TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.,その家具を置くには、家やギルドハウスにいる必要があります。
-TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.,あなたには家もギルドハウスもありません。
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.,その家具を置くには、あなたの家やギルドシップにいる必要があります。
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.,あなたは家もギルドシップも持っていません。
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,%s をビジターとして追加しました!
 TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,選択したプレーヤーはオンラインではありません。
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,そのプレーヤーを訪問者リストから正常に削除しました。
@@ -1134,33 +1134,33 @@ TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase t
 TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,このハウステンプレートは既に所有しています。
 TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","ハウステンプレート ""%s"" のロック解除に成功しました!"
 TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,まず、そのハウジングテンプレートのロックを解除する必要があります。
-TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!,このギルドハウスは誰のものでもありません。あなたがそれを望むなら入札してください!
-TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.,このギルドハウスはギルドに属していません。入場できません。
-TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,このギルドハウスはすでにギルドに属しています。入札することはできません。
-TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,あなたのギルドがギルド船のオークションに勝ちました!これで、マップを使用して船を右クリックすると、テレポートできます。
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!,このギルドシップは誰のものでもありません。あなたがそれを望むなら入札してください!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.,このギルドシップはギルドに属していません。入場できません。
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,このギルドシップはすでにギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,おめでとうございます！あなたのギルドがギルドシップを落札しました！マップに表示されるギルドシップを右クリックして、テレポートできるようになりました。
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,あなたには入札する権利がありません。
-TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,ギルドハウスの入札額が %s になりました!
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,ギルドシップの入札額が %s になりました!
 TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.,ギルドバンクにペニャが足りません。
-TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,あなたはすでに別のギルド船に入札しています。
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,あなたはすでに別のギルドシップに入札しています。
 TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.,最低初期入札単価を%sペニャに設定する必要があります。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,ちょっと待って。。。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,アーティファクトの出現位置の設定に成功しました!%s の手数料がギルドバンクから引き落とされました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,アーティファクトの出現位置を設定する権限がありません。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your guild bank to set the artifact spawn position.,ギルドバンクにアーティファクトの出現位置を設定するのに十分なペニャがありません。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",これでギルドは船のアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",ギルドシップのアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,アーティファクトの出現位置をまだ設定する時期ではありません。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルド船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めてアーティファクトを破壊しましょう!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルド船のアーティファクトを破壊しました!そのギルド船は今、あなたのギルドに属しています!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルド船のアーティファクトを破壊しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルドシップの所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルドシップのアーティファクトが出現しました!PKチャンネルでギルドシップの所有権を求めてアーティファクトを破壊しましょう!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルドシップのアーティファクトを破壊しました!そのギルドシップは今、あなたのギルドに属しています!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルドシップのアーティファクトを破壊しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s ペニャがギルドバンクに入金されました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,ギルドのアーティファクトが破壊されました!船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,ギルドは船のアーティファクトを守ることに成功しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,ギルドのアーティファクトが破壊されました!ギルドシップの所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,ギルドシップのアーティファクトの防衛に成功しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya has been deposited into the guild bank. Congratulations!,あなたは所有権を保持し、%sペニャはギルド銀行に預け入れられました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,ギルド %s はアーティファクトを守ることができました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,ギルド %s はアーティファクトを守り抜くことができました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,アーティファクトを攻撃するにはギルドに所属している必要があります。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,自分の船のアーティファクトを攻撃することはできません!
-TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,ギルドハウスの船にテレポートするには、チャンネル1にいる必要があります!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,自分のギルドシップのアーティファクトを攻撃することはできません!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,ギルドシップにテレポートするには、チャンネル1にいる必要があります!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,アーティファクトの出現位置が正常に更新されました。
 TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,削除するプリセットを選択する必要があります。
 TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,そのマップのプリセットが多すぎます。
@@ -1201,7 +1201,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You have successfully register
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.,次のアーティファクトバトルへの申し込みをキャンセルしました。%d ペニャがギルドバンクに返金されました。
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!",アーティファクトバトルはすでに始まっていますので、申し込みをキャンセルすることはできません!
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,今週はアーティファクトバトルはありません。来週またお試しください!
-TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,ここにはギルドハウスのNPCしか配置できません。
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,ここにはギルドシップのNPCしか配置できません。
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,このアイテムには使用できません。
 TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,正常に送信されました。
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,ここにはパーソナルハウスNPCしか配置できません。
@@ -1210,8 +1210,8 @@ TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the 
 TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,%sは、%sの進行中にのみ取得できます。
 TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.",小道具/NPCは編集メニューで移動できます。このモードを終了するには、Esc キーを押します。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,ギルド %s がギルド %s のアーティファクトを破壊しました!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,このギルドハウスの所有者がギルドを解体しました!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドハウスのアーティファクトは現在廃墟と化しており、家の所有権は現在空いています。
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,このギルドシップの所有者がギルドを解散しました!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドシップのアーティファクトは現在廃墟と化しており、家の所有権は現在空いています。
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,登録に失敗しました。
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,レベルが低いため登録できません。
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,登録が完了しました。
@@ -1411,7 +1411,7 @@ TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,ト�
 TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,ペットインベントリ枠は既に上限まで解放されています！
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,家のペットインベントリ枠を新しく解放しました！
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,この巻物を使用するにはギルドが必要です！
-TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.",ギルド船のペットインベントリ枠を新しく解放しました！家をまだ所有していない場合は、今後所有する家に適用されます。
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.",ギルドシップのペットインベントリ枠を新しく解放しました！家をまだ所有していない場合は、今後所有する家に適用されます。
 TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,このエモートを使用するには、カップルレベル%d以上である必要があります。
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
