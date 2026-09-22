@@ -35,7 +35,7 @@ PROPQUEST_INC_000475,"I'm still waiting for you to hunt $QUEST_END_KILL_COUNT$ S
 PROPQUEST_INC_000476,You have already chosen to pursue another path. I cannot help you any further. You can still cancel the other job quest in the Quest Window and come back to me.,你已經選擇了另一條道路，我無法再幫助你。你仍可以在任務視窗取消另一個轉職任務，再回來找我。
 PROPQUEST_INC_000477,"For starters, let's go with something easy. I would like you to hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s.",先從簡單的開始吧。我想請你獵殺 $QUEST_END_KILL_COUNT$ 隻 $QUEST_END_KILL_NAME$。
 PROPQUEST_INC_000479,Acrobat Weaponry,雜技師的武器
-PROPQUEST_INC_000480,Now it's time for the next step on your path to becoming an Acrobat.,你已經通過第一個測試了，辛苦你了！好，現在開始要進行第 2 個測試了！
+PROPQUEST_INC_000480,Now it's time for the next step on your path to becoming an Acrobat.,你已經通過第一個測試了，辛苦你了！好，現在開始要進行第二個測試了！
 PROPQUEST_INC_000481,"I want you to return to collect 10 Twinkle Stones from Aibatts in the area, 5 Peakyrinds from Peakyturtles and 1 Slain from Lawolf.",我要你回來，從該地區的獨眼蝙蝠那裡收集 10 個閃耀石，從尖刺犰狳那裡收集 5 個尖刺犰狳硬皮，從布魯狼那裡收集 1 個賤狼指甲。
 PROPQUEST_INC_000482,"Once you've gathered the Twinkle Stones, bring them to Pyre in the north of Flarine.",收集完閃耀之石後，將它們帶到布拉里斯北部的飛蕊。
 PROPQUEST_INC_000483,Good luck! You're going to need it!,祝你一路順風喔～
@@ -362,9 +362,9 @@ PROPQUEST_INC_000882,"What am I going to do? Oh my... What? You're curious as to
 PROPQUEST_INC_000883,"The test is very soon, and the date was just moved up all of the sudden! I am so worried! I'm a good helper, so I should pass and all, but I want to be the best!",考試很快就要到了，而且日期突然提前了！我好擔心！我本來就是個優秀的助手，照理說應該能通過，但我想成為最好的那個！
 PROPQUEST_INC_000884,"I have never taken first place because of that know-it-all Herth, and I absolutely must beat her this year! I will do anything to come in first place and I need your help!",可是每年都會把第一的位子讓給了海斯，可是今年我很想拿到第一名。拿到第一名的辦法只有一個，可是需要其他人的幫忙。
 PROPQUEST_INC_000885,"So will you help me, stranger?",你可以幫我嗎？
-PROPQUEST_INC_000886,I need lessons 1 and 2 of the Helper Text Books. I understand that both lessons can be found in the flower bed behind the Public Office. Will you bring it to me?,我需要解說員教本的第 1 課和第 2 課。我知道這兩課都可以在城鎮事務所後方的花壇找到。你能幫我帶來嗎？
+PROPQUEST_INC_000886,I need lessons 1 and 2 of the Helper Text Books. I understand that both lessons can be found in the flower bed behind the Public Office. Will you bring it to me?,我需要解說員教本的第一課和第二課。我知道這兩課都可以在城鎮事務所後方的花壇找到。你能幫我帶來嗎？
 PROPQUEST_INC_000887,"You know, people nowadays are only worried about themselves. Typical…",是喔？那就沒辦法了，我只好找其他人來幫我，謝謝你陪我聊了這麼多。
-PROPQUEST_INC_000888,"Hmmm yes! These are the ones! So this must be the range of possible questions, huh?",啊，對！就是這個教本第 2 章，這次的考題會從這邊出來。你說什麼？考試也有範圍喔？
+PROPQUEST_INC_000888,"Hmmm yes! These are the ones! So this must be the range of possible questions, huh?",啊，對！就是這個教本第二章，這次的考題會從這邊出來。你說什麼？考試也有範圍喔？
 PROPQUEST_INC_000889,"Yes, it all makes sense now! This is the information I needed. This will really help me put Herth in her place!",當然囉~考試當然有考試範圍啦~哪有考試沒有範圍的啊？
 PROPQUEST_INC_000890,"Thank you very much, my friend! Please see me anytime if you need my help.",反正謝謝你啦~有需要我幫忙的話，隨時都可以來找我喔~
 PROPQUEST_INC_000891,"Do you have the Helper Text Books I need? Please hurry, the test is very soon. I'm so nervous!",啊，謝謝你幫我找教本，但是我需要的教本不是這個，可以重新幫我找嗎？謝謝喔~
@@ -650,31 +650,31 @@ PROPQUEST_INC_001198,They have occupied almost half of Erons Factory. I didn't r
 PROPQUEST_INC_001199,"We are having a hard time defending this narrow entrance, they will get through here in no time unless we do something about it.",這裡的入口很窄，所以還可以擋的住，但是我覺得沒辦法撐很久。總有一天會被他們攻擊的。
 PROPQUEST_INC_001200,We need more information! We need a scout to survey their base and let us know what we're really up against.,只要把他們引誘到其他地方的話，應該也可以找時間重新建設的。
 PROPQUEST_INC_001201,You seem like a good candidate for the job. What do you say? Want to help the people of Erons Factory?,你似乎是這任務的好人選。你說什麼？想幫助艾磷斯工廠的人們嗎？
-PROPQUEST_INC_001202,Great! I am sure their base is somewhere in the depths of Darkon 1. Let me know what you find out!,好，他們的主要居住地，應該在第 2 地區的某處，你幫我查一下那個地方在哪裡，拜託了！
+PROPQUEST_INC_001202,Great! I am sure their base is somewhere in the depths of Darkon 1. Let me know what you find out!,好，他們的主要居住地，應該在第二地區的某處，你幫我查一下那個地方在哪裡，拜託了！
 PROPQUEST_INC_001203,No? Fine… We will have to deal with it ourselves.,不？好吧……我們將不得不自己處理。
 PROPQUEST_INC_001204,Excellent work! So now we know where exactly their base is located and what we're up against with their new leader.,是啊？原來在那邊啊…我一定會報答你的，一定會！
 PROPQUEST_INC_001205,"Have you found it yet? We don't have much time! Please, hurry!",還沒幫我找到嗎？可以快一點幫我找嗎？真的很急！！
-PROPQUEST_INC_001206,"Locate the Red bang Troupe base in Erons Factory 2, Darkon 1, and report back to Amadolka with anything you find.",他們的主要居住地，應該在第 2 地區的某處，你幫我查一下那個地方在哪裡，拜託了！
+PROPQUEST_INC_001206,"Locate the Red bang Troupe base in Erons Factory 2, Darkon 1, and report back to Amadolka with anything you find.",他們的主要居住地，應該在第二地區的某處，你幫我查一下那個地方在哪裡，拜託了！
 PROPQUEST_INC_001208,Legend of Dreadpet <Big Thyred>,特萊特怪物的傳說 <巨大施德利>
 PROPQUEST_INC_001209,"Pssst, hey you! I'm writing a book and I need your help. I'm having a bit of writer's block and I need a brave adventurer to help me write it!",聽好我說的話喔~其實啊…我最近在寫一本書，寫書的時候需要一些材料，但是我自己沒辦法搞定。
 PROPQUEST_INC_001210,"Have you ever heard about the Legend of Big Thyred? No? A long long time ago, there was very a famous adventurer named Big Thyred. One day, he found an interesting place to adventure…",你有聽說過特萊特怪物的傳說嗎？以前有一個大冒險家啦~名子叫巨大施德利，有一天，他發現了一個很有趣的事情。
 PROPQUEST_INC_001211,"It was a cave deep underground, surrounded with this strange, bloody fog. Big Thyred investigated the cave only to become infected by a disease within the cave called Horrible Fear.",那是一座位於地底深處、籠罩著詭異血霧的洞窟。巨大施德利前去調查，卻感染了洞內一種名叫「可怕的恐懼」的疾病。
 PROPQUEST_INC_001212,"The disease transformed him into a hideous monster, whom we now call Big Muscle. There's virtually nothing left of that brave adventurer but bits and pieces, or so the story goes…",可是後來恐怖的牛唄唄不知道到哪裡去了，突然消失~反正啦…這是我這次小說的主要內容。
 PROPQUEST_INC_001213,"So, here's where you come in. I need to an ending to the story and I'd like to know what's become of Big Muscle. Feel like lending a hand?",所以啊…你可不可以代替我親自去體驗看看啊？然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",好，你首先去巴布樂平原找一個叫做窩樂坎的怪物，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源…
+PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",好，你首先去巴布樂平原找一個叫做窩樂坎的怪物，他會給你恐怖的書第一卷，然後在平原的某處找一下他們的靈源…
 PROPQUEST_INC_001215,"Awwww, come on! Look, I'll give you HALF of the sales from my book if you'll help. Still having second thoughts?",哇，加油！聽著，如果你能幫忙的話，我會給你一半的收入。還在猶豫嗎？
 PROPQUEST_INC_001216,"Oh, Rhisis! You've got the Book of Fear! Great work! Alright, sounds like you have what it takes to face Big Muscle.",哈哈，這麼難的事情都辦完了啊？把這個收下吧！這是施德利的心臟，好噁心喔~我不想看。
 PROPQUEST_INC_001217,"Here, take this. It's Big Thyred's Heart. \n\n#b*You drop the heart and scream!*#nb\n\nHey, careful! You need that!",來，拿好。這是施德利的心臟\n\n#b*你放下心臟接著大叫*#nb\n\n小心點！你需要那個東西！
 PROPQUEST_INC_001218,"Take the heart to the Dreadpet Manager just southwest of here. You'll have to join a party before you face Big Muscle, it's too dangerous to go alone.",你先去找特萊特怪物管理者，他會告訴你一些事情，但是絕對不要自己去體驗喔~一定要組劇團進去！
 PROPQUEST_INC_001219,"Look, I know it's scary to face the Organigor, but I believe you can do it. Go, now!",窩樂坎這傢伙是有點狡猾啦！可是我相信，如果是你的話，一定沒有問題的！
-PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去巴布樂平原找一個叫做窩樂坎的人，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源。
+PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去巴布樂平原找一個叫做窩樂坎的人，他會給你恐怖的書第一卷，然後在平原的某處找一下他們的靈源。
 PROPQUEST_INC_001222,Legend of Dreadpet <Krren Dacid>,特萊特怪物的傳說 <克安達施德>
 PROPQUEST_INC_001223,"Pssst, hey you! I'm writing a book and I need your help! I'm having a bit of writer's block and I need a brave adventurer to help me write it!",聽好我說的話喔~其實啊…我最近在寫一本書，寫書的時候需要一些材料，但是我自己沒辦法搞定。
 PROPQUEST_INC_001224,"Have you ever heard about the legend of Krren Dacid? A long long time ago, there was a very famous adventurer. His name was Krren Dacid. One day, he found an interesting place to adventure…",你有聽說過特萊特怪物的傳說嗎？以前有一個大冒險家啦~名子叫克安達施德，有一天，他發現了一個很有趣的事情。
 PROPQUEST_INC_001225,It was a huge temple in the sky. Krren investigated the temple only to become infected by a disease within the cave called Cold Fear.,聽說有一個地下洞穴裡，住著一個叫做咕咕噥噥的怪獸。
 PROPQUEST_INC_001226,"The disease transformed him into a hideous monster, whom we now call Krrr. There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是後來咕咕噥噥不知道到哪裡去了，突然消失~反正啦…這是我這次小說的主要內容。
 PROPQUEST_INC_001227,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Krrr. So whaddya' say?",所以啊…你可不可以代替我親自去體驗看看啊？然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，你首先去巴布樂平原找一個叫做坎哥德的人，他會給你恐怖的書第 2 卷，然後在平原的某處找一下他們的聖地…
+PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，你首先去巴布樂平原找一個叫做坎哥德的人，他會給你恐怖的書第二卷，然後在平原的某處找一下他們的聖地…
 PROPQUEST_INC_001229,"Oh, come on now! Tell you what, I'll give you 50% of the proceeds from the sale of my book when I release it! How does that sound? Bah!",反正，應該是一個很棒的冒險啦！我會拿我賣書的收入 50% 給你，好不好？
 PROPQUEST_INC_001230,"Blessings from Bubble, you've got it! It looks like you do indeed have what it takes to face Krrr.",哈哈，連巴布樂的祝福都降臨了！看來你確實有本事面對 Krrr。
 PROPQUEST_INC_001231,"Here, take this. It's Krrr's Heart. \n\n#b*You vomit all over him*#nb\n\n Hey, knock it off!",過來，拿好。這是咕咕噥噥的心臟。\n\n#b*你吐在他身上*#nb\n\n嘿，別鬧了！
@@ -687,7 +687,7 @@ PROPQUEST_INC_001238,"Have you ever heard of the legend of Moot Arvan? No? A lon
 PROPQUEST_INC_001239,"It was a strange, wet marsh. Moot explored the marsh only to become infested with a disease called Unpleasant Fear.",聽說有一個很潮濕的地區，住著一個叫做恐怖的菇菇的怪獸。
 PROPQUEST_INC_001240,"The disease transformed him into a hideous monster known as Mushmoot! There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是後來恐怖的菇菇不知道到哪裡去了，突然消失~反正啦…這是我這次小說的主要內容。
 PROPQUEST_INC_001241,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Mushmoot. Feel like helping?",所以啊…你可不可以代替我親自去體驗看看啊？然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去巴布樂平原找一個叫做瑕德西的人，他會給你恐怖的書第 3 卷，然後在平原的某處找一下他們的氣息地。
+PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去巴布樂平原找一個叫做瑕德西的人，他會給你恐怖的書第三卷，然後在平原的某處找一下他們的氣息地。
 PROPQUEST_INC_001243,"Don't be a scaredy-cat! Look, I'll even give you 50% of the proceeds from my book sales if you help. Okay?",反正，應該是一個很棒的冒險啦！我會拿我賣書的收入 50% 給你，好不好？
 PROPQUEST_INC_001244,"Yes, great work! I knew you could do it!",哈哈，這麼難的事情都辦完了啊？把這個收下吧！這是達施德的心臟，好噁心喔~我不想看。
 PROPQUEST_INC_001245,"Here, take this. It's Moot's Heart. \n\n*You begin to feel sick…*\n\n Oh shake it off, slacker!",過來，拿好。這是菇菇的心臟。\n\n*你開始感到噁心*\n\n快把那個抖掉，噁心死了！
@@ -1090,18 +1090,18 @@ PROPQUEST_INC_001761,"Oh, did the Mayor of Darkon send you? You must be the one 
 PROPQUEST_INC_001762,"It contains information about how Clockworks appeared here in Madrigal. It's a good read, but not for the faint of heart.",這本書在研究有關時空毀滅者的研究結果！對你會有幫助的，拿去參考吧！
 PROPQUEST_INC_001763,"Clockworks is one of the most dangerous monsters in Madrigal! He's huge! I have been studying him for 4 years now, but I still don't know everything about him.",時空毀滅者真的很厲害~我研究它已經快 4 年了，但依然還有很多不了解的地方！
 PROPQUEST_INC_001764,Visit Dr. Est near the Gouthan Mountains in Darkon 1.,請你去得肯第一區古坦山脈附近找 Dr. 法小紀！
-PROPQUEST_INC_001766,Great Clockworks War - 1st,第 1 次時空毀滅者戰爭
+PROPQUEST_INC_001766,Great Clockworks War - 1st,第一次時空毀滅者戰爭
 PROPQUEST_INC_001767,"Alright, let's get started. Have you heard of the Great Clockworks War? You'll need to study it before you can challenge Clockworks.",那麼進行下一個階段囉！！請問你記得大時空毀滅者戰爭嗎？這可是挑戰的必備常識！
 PROPQUEST_INC_001768,"the Great Clockworks War is the first time the people of Darkon were faced with that terrible menace, Clockworks. The people of Darkon were defeated.",大時空毀滅者戰爭是時空毀滅者來得肯之後發生的戰爭，因那次時空毀滅者贏了！
-PROPQUEST_INC_001769,They escaped to the Erons Factory. Evidence of this war can be found all over Darkon… Are you ready to continue to the next step?,得肯所有的人就躲到艾磷斯工廠，去得肯第二區可以看到那時的痕跡，第 2 次測驗要開始了！準備好了嗎？
+PROPQUEST_INC_001769,They escaped to the Erons Factory. Evidence of this war can be found all over Darkon… Are you ready to continue to the next step?,得肯所有的人就躲到艾磷斯工廠，去得肯第二區可以看到那時的痕跡，第二次測驗要開始了！準備好了嗎？
 PROPQUEST_INC_001770,"Find 5 pieces of War Remnants in Darkon 2, and then visit my brother, Dr. Estern. He is at the Hill of Shade in Saint Morning.",好吧！請你去得肯第二區找戰爭遺跡碎片 5 個，再交給 Dr. 法小廷，他在聖音特的闇影丘嶺。
 PROPQUEST_INC_001771,I guess you truly aren't ready to face Clockworks. Why did you waste my time?,看你好像很忙，那我就不耽誤你的時間了！
 PROPQUEST_INC_001772,"My brother sent you, right? Nice to meet you! My name is Dr. Estern, Dr. Est's younger brother. Why did he send... Oh, you're going to challenge Clockworks? Okay, do you have the War Remnants?",你是我哥派來的？你好，我叫 Dr. 法小廷！法小紀的兄弟。你是為了挑戰而來找我的！是嗎？那請給我五個戰爭遺跡碎片！！
 PROPQUEST_INC_001773,"Hmm... Five, exactly! Okay, here you are. This book is about the study of Clockworks. It will be really useful in learning about your opponent.",沒錯，的確是 5 個戰爭遺跡碎片！！這個給你！這本書紀錄有關時空毀滅者，對你應該會有用的！！
 PROPQUEST_INC_001774,"Yes? I'm sorry, I think I'm waiting for someone else.",是的？對不起，我想我在等別人。
 PROPQUEST_INC_001775,Locate 5 pieces War Remnants in Darkon 2 and visit Dr. Estern at the Hill of Shade near Saint Morning,請你去得肯第二區找戰爭遺跡碎片 5 個，再拿給在聖音特附近闇影丘嶺的 Dr. 法小廷！
-PROPQUEST_INC_001777,Great Clockworks War - 2nd,第 2 次時空毀滅者戰爭
-PROPQUEST_INC_001778,"Now for the final step! You've already heard about the Great Clockworks War. Actually, there was another Clockworks War after that…",那麼，進行第 3 個階段瞜！！在大時空毀滅者戰爭過後，又發生了一次戰爭！！
+PROPQUEST_INC_001777,Great Clockworks War - 2nd,第二次時空毀滅者戰爭
+PROPQUEST_INC_001778,"Now for the final step! You've already heard about the Great Clockworks War. Actually, there was another Clockworks War after that…",那麼，進行第三個階段瞜！！在大時空毀滅者戰爭過後，又發生了一次戰爭！！
 PROPQUEST_INC_001779,"That time, Clockworks was defeated and captured.",那場戰爭，是由我們人類打敗了時空毀滅者……
 PROPQUEST_INC_001780,"He was held at the cage where he was defeated by the allied forces of Flarine, Saint City and Darkon.",我們將時空毀滅者封印在副本中，在這次大戰，也留下了一些東西！！
 PROPQUEST_INC_001781,You can see the evidence of the war in Darkon 1 and at the Plain of Bubble in Flaris.,戰爭所造成的痕跡，在得肯 1 及布拉里斯的巴布樂平原都還看得到……
@@ -1195,7 +1195,7 @@ PROPQUEST_INC_002215,"Look, I know it's not as exciting as axes and swords, but 
 PROPQUEST_INC_002216,"Haha, nice to meet ya, name's Luda! I'm in charge of shields and other equipment for Vagrants here in Madrigal. Let's get you set up to fight, shall we?",哈哈哈~歡迎你啊。我是負責盾牌和見習生專用裝備的路達。下次找我，那時我會對你做一些教育！
 PROPQUEST_INC_002217,Visit Luda at the Shield Shop.,拜訪盾牌店的路達。
 PROPQUEST_INC_002219,Introduction to Shields,盾牌入門
-PROPQUEST_INC_002220,"Hahaha! Welcome to the Shield Shop! You can buy shields, weapons, and armor for Vagrants here. I stock all the equipment that you need prior to your first job change at level 15.",哈哈哈~歡迎來到盾牌店。這裡不只盾牌，還有販賣見習生專用武器和防具。在到達等級 15 第 1 次轉職以前，來我這裡可以購買你需要的裝備。
+PROPQUEST_INC_002220,"Hahaha! Welcome to the Shield Shop! You can buy shields, weapons, and armor for Vagrants here. I stock all the equipment that you need prior to your first job change at level 15.",哈哈哈~歡迎來到盾牌店。這裡不只盾牌，還有販賣見習生專用武器和防具。在到達等級 15 第一次轉職以前，來我這裡可以購買你需要的裝備。
 PROPQUEST_INC_002221,Why don't you buy a Long Sword with the Penya you've collected? You can buy it by double tapping on it or dragging it into your inventory.,不妨用收集到的金幣買一把長劍吧。點選兩下商品，或將它拖進背包即可購買。
 PROPQUEST_INC_002222,"Also, you can sell an item by dragging it into the shop window. Pretty easy, huh? Okay, after buying it, please visit Losha at the Food Shop.",販賣方法在物品欄裡拖曳到道具目錄欄裡，就可以。非常簡單吧？如果你都購買好了，就去餐飲店找蘿夏吧。
 PROPQUEST_INC_002223,Losha at the Food Shop is staying in Eastern Flarine which is located to the east of here. You'll have to cross the bridge to get there.,餐飲店蘿夏就在東邊的布拉里斯，那邊會有一座橋，所以你不需要擔心。
@@ -2048,7 +2048,7 @@ PROPQUEST_INC_132304,"Ah… turning down such a fine opportunity, are you? A rea
 PROPQUEST_INC_132305,"Already gathered everything? …Oh, not yet? Very well—come back once you have them all.",已經都收集好了嗎？……喔，還沒有？那好吧，等你全部集齊再回來。
 PROPQUEST_INC_132306,Splendid! This should be more than enough for the blacksmiths to continue their research. You’ve done well.,太好了！這些應該足夠讓鐵匠們繼續研究了。你做得很好。
 PROPQUEST_INC_200000,3rd Job Change,三轉職業變更
-PROPQUEST_INC_140009,Chapter 1 Expedition,第 1 章 遠征
+PROPQUEST_INC_140009,Chapter 1 Expedition,第一章 遠征
 PROPQUEST_INC_150000,A Hand of Compassion,憐憫之手
 PROPQUEST_INC_150001,I have a funny story and a favor to ask. Want to hear it?,我有個有趣的故事，也想請你幫個忙。想聽嗎？
 PROPQUEST_INC_150002,"I don’t know if you’re aware, but there are many races in this world. For some reason, I’m especially drawn to beastfolk, so I’ve been looking for information about them.",我不知道你是否清楚，這世界上存在著許多種族。不知為何，我特別對獸人族感興趣，所以一直在蒐集和他們有關的情報。
@@ -2129,7 +2129,7 @@ PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime."
 PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.",你已經拿去給他看了嗎？別擔心，我不是在催你。
 PROPQUEST_INC_150078,"Welcome back. How did it go? I knew it—my research wasn’t wrong after all. I truly owe you. It’s not much, but please accept this as my thanks. Things are going to get busy from here on…",歡迎回來。情況如何？我就知道——我的研究果然沒有錯。我真的欠你很多。雖然不算什麼，但請收下這份謝禮吧。從現在開始，事情恐怕會變得忙碌起來……
 PROPQUEST_INC_150079,Meet with the Strange Collector,去見奇怪的收藏家
-PROPQUEST_INC_150080,Chapter 2 Eillun Town,第 2 章 艾爾倫村
+PROPQUEST_INC_150080,Chapter 2 Eillun Town,第二章 艾爾倫村
 PROPQUEST_INC_150081,Reignited Passion,重新燃起的熱情
 PROPQUEST_INC_150082,"Adventurer, you’ve come at the perfect time. We’re preparing a second expedition based on the logbook you found.",冒險者，你來得正是時候。我們正在根據你找到的航海日誌準備第二次探險。
 PROPQUEST_INC_150083,"This time, we plan to send a scouting party before the main group. Would you be willing to be part of that team?",這一次，我們打算在主力出發前，先派出一支偵察隊。你願意成為那支隊伍的一員嗎？
@@ -2248,7 +2248,7 @@ PROPQUEST_INC_150195,Thank you. I hope we meet again there soon.,謝謝你。希
 PROPQUEST_INC_150196,"You know you’re the only one suited for this. If you change your mind, let me know. I’ll make it worth your while.",你知道的，現在只有你最適合這件事。如果你改變主意，告訴我吧。我會讓你覺得值得。
 PROPQUEST_INC_150197,You’re still here… When do you think you’ll leave?,你還在這裡……你打算什麼時候出發？
 PROPQUEST_INC_150198,Back again? What’s going on this time?,又回來了？這次又怎麼了？
-PROPQUEST_INC_150199,Chapter 3 Prelude,第 3 章 序幕
+PROPQUEST_INC_150199,Chapter 3 Prelude,第三章 序幕
 PROPQUEST_INC_150200,Meeting with Elders,與長老們會面
 PROPQUEST_INC_150201,Oh? You want to know more about us?,喔？你想多了解我們？
 PROPQUEST_INC_150202,"Then you should speak with the jarl or one of the elders. They’ve lived long and know our history well. However, it won’t be easy for an outsider to meet the jarl. I’ll introduce you to my superior, one of the elders. I’ll tell him in advance so you can go straight to him.",那你應該去找領主或其中一位長老。他們活得夠久，也最了解我們的歷史。不過，外人想見領主可不容易。我可以先替你介紹我的上司——其中一位長老。我會事先告知他，這樣你就能直接去見他。
@@ -2284,7 +2284,7 @@ PROPQUEST_INC_150231,Hmm… you have more admirers in the village than you reali
 PROPQUEST_INC_150232,I’ve narrowed it down to three or four people for now.,目前我先篩出了三、四個人。
 PROPQUEST_INC_150233,"Oh, so you’ve learned something about the natives? A book written by the village elder himself… May I see it? I see… very nice work. If you learn anything else, be sure to share it.",喔，所以你已經學到一些關於原住民的事情了？一本由村中長老親自撰寫的書……可以讓我看看嗎？我明白了……寫得真不錯。如果你之後還知道了什麼，務必要和我分享。
 PROPQUEST_INC_150234,Bring “All About Muran!” to the Strange Collector,把「關於穆蘭的一切！」帶給奇怪的收藏家。
-PROPQUEST_INC_150235,Chapter 4 Climax,第 4 章 高潮
+PROPQUEST_INC_150235,Chapter 4 Climax,第四章 高潮
 PROPQUEST_INC_150236,An Incident! 1,突發事件！1
 PROPQUEST_INC_150237,"Ah, you’re the adventurer who’s been helping us. Even though we’re at war, the village itself has always been peaceful… but lately, something feels wrong.",啊，你就是那位一直在幫助我們的冒險者。雖然我們正在打仗，但村子本身一直都很平靜……可是最近，總覺得有些不對勁。
 PROPQUEST_INC_150238,"We’ve heard strange howls, and there are unusual claw marks on the trees in town. If you have time, could you help us investigate?",我們聽見了奇怪的嚎叫聲，村裡樹上也出現了不尋常的爪痕。如果你有空，能幫我們調查一下嗎？
@@ -2475,7 +2475,7 @@ PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,別覺得有�
 PROPQUEST_INC_150423,Did you meet her? I still don’t know what she’s planning.,你去見過她了嗎？我到現在還是不知道她在計畫什麼。
 PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.",多虧了你，冒險者，我找到了父母藏起來的遺囑。我的父親揭發了領主的罪行，而我的祖父卻因此下令殺了他。父親被誣為叛徒，差點被害死。拜託你替他們報仇。拿著這個，讓它成為你復仇的力量。
 PROPQUEST_INC_150425,Meet with Taila,與泰拉會面
-PROPQUEST_INC_150426,Chapter 5 The Final Chapter,第 5 章 最終章
+PROPQUEST_INC_150426,Chapter 5 The Final Chapter,第五章 最終章
 PROPQUEST_INC_150427,This Is Nothing,這根本不算什麼
 PROPQUEST_INC_150428,"So, you’ve met everyone now? The Lycans are moving faster than we expected. I thought they’d need more time to regroup, but they’re already organizing their forces.",所以，你現在已經把所有人都見過了嗎？萊坎的動作比我們預想得還快。我原本以為他們還需要更多時間整備，沒想到已經開始重整軍勢了。
 PROPQUEST_INC_150429,"If we let them gather any more, things will become much harder. Could you go ahead and disrupt their plans?",要是再讓他們繼續集結，局勢會變得更加棘手。你能先過去打亂他們的計畫嗎？

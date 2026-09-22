@@ -3115,19 +3115,19 @@ PROPITEM_TXT_005534,Mia Report,米兒的調查報告
 PROPITEM_TXT_005535,Quest Item: Report on Mia. It should help in finding something that the lost girls had in common.,[任務道具] 關於米兒的調查報告。它應該有助於找到失蹤女孩的共通點。
 PROPITEM_TXT_005536,Disappearance Evidence,失蹤事件的證據
 PROPITEM_TXT_005537,Quest Item: Evidence of the disappearance of the little girls from Saint City.,[任務道具] 聖音特失蹤女孩的證據。
-PROPITEM_TXT_005538,1st Book of Dread,恐怖的書第 1 卷
+PROPITEM_TXT_005538,1st Book of Dread,恐怖的書第一卷
 PROPITEM_TXT_005539,Quest Item: A first edition of the book Horrible Fear.,[任務道具] 這本書的第一卷可怕的恐懼。
 PROPITEM_TXT_005540,Fortress Map,要塞地圖
 PROPITEM_TXT_005541,Quest Item: Map of the place where Horrible Fear is hidden.,[任務道具] 隱藏著可怕的恐懼的地方的地圖。
 PROPITEM_TXT_005542,Heart of Thyred,施德利的心臟
 PROPITEM_TXT_005543,Quest Item: Heart of the Big Thyred.,[任務道具] 巨大施德利的心臟，拿著去勒倫南部尋找特萊特怪物管理者。
-PROPITEM_TXT_005544,2nd Book of Dread,恐怖的書第 2 卷
+PROPITEM_TXT_005544,2nd Book of Dread,恐怖的書第二卷
 PROPITEM_TXT_005545,Quest Item: A first edition of the book Cold Fear.,[任務道具] 這本書的第二卷戰慄的恐懼。
 PROPITEM_TXT_005546,Temple Map,聖地地圖
 PROPITEM_TXT_005547,Quest Item: Map of the place where Cold Fear is hidden.,[任務道具] 隱藏著戰慄的恐懼的地方的地圖。
 PROPITEM_TXT_005548,Heart of Dacid,達施德的心臟
 PROPITEM_TXT_005549,Quest Item: Heart of Krrr Dacid.,[任務道具] 拿著這個心臟到莫德琳城鎮尋找特萊特怪物管理者。
-PROPITEM_TXT_005550,3rd Book of Dread,恐怖的書第 3 卷
+PROPITEM_TXT_005550,3rd Book of Dread,恐怖的書第三卷
 PROPITEM_TXT_005551,Quest Item: A first edition of the book Paralyzing Fear.,[任務道具] 這本書的第三卷無法動彈的恐懼。
 PROPITEM_TXT_005552,Boggy Map,沼澤地圖
 PROPITEM_TXT_005553,Quest Item: Map of the place where Paralyzing Fear is hidden,[任務道具] 隱藏著無法動彈的恐懼的地方的地圖。
@@ -4125,7 +4125,7 @@ PROPITEM_TXT_007555,Change your hairstyle and color,可染頭髮、改變髮型
 PROPITEM_TXT_007556,Personal Shop,個人商店
 PROPITEM_TXT_007557,Only players using the Personal Shop item can buy from players using the Personal Shop item,只有使用個人商店道具的玩家，才能向同樣使用個人商店道具的玩家購買物品。
 PROPITEM_TXT_007558,Re-Skill (Event),技能重置卷軸 (歸屬)
-PROPITEM_TXT_007559,Congratulations on achieving your 1st Job! This will allow you to redistribute your skill points once.,給成功第 1 轉職的玩家的技能重置卷軸
+PROPITEM_TXT_007559,Congratulations on achieving your 1st Job! This will allow you to redistribute your skill points once.,給成功第一轉職的玩家的技能重置卷軸
 PROPITEM_TXT_007560,Baby Luia (7 Days),優秀的小火雞 (7 天)
 PROPITEM_TXT_007561,Gives you a Baby Luia pet. Lasts 7 days.,優秀的小火雞，期限 7 天
 PROPITEM_TXT_007562,Baby Luia (30 Days),優秀的小火雞 (30 天)
@@ -5704,7 +5704,7 @@ PROPITEM_TXT_010973,A Warlord Outfit for female characters. Created by the winne
 PROPITEM_TXT_011975,Alice Shoes for female characters. *Follow the White Rabbit*,女性角色用愛麗絲鞋。跟上白兔！
 PROPITEM_TXT_017185,Wedding Shoes (M),婚禮皮鞋 (男)
 PROPITEM_TXT_012908,Suit of the Rising Sun (F),光明騎士盔甲 (女)
-PROPITEM_TXT_015454,FWC Regional Winner Cloak,FWC 預賽第 1 名紀念披風
+PROPITEM_TXT_015454,FWC Regional Winner Cloak,FWC 預賽第一名紀念披風
 PROPITEM_TXT_015674,The Crown of the fabled Almighty Dragon King Set. Wearing all 4 pieces will grant you amazing bonuses! Don the mask and or cloak for even more powa!,全能龍王套裝，穿戴全部 4 件可獲得驚人的加成，穿上面具或披風可獲得更強大的力量！
 PROPITEM_TXT_011785,A beautifully crafted cloak adorned with a symbol that represents the first Lunar Year. The first Lunar Year is dedicated to the Rat.,這件做工精美的披風飾有象徵第一個農曆生肖年的圖樣。第一個農曆生肖年屬於鼠。
 PROPITEM_TXT_017083,Luxurious Ski Hat (M),奢華滑雪帽子 (男)
@@ -27877,11 +27877,11 @@ PROPITEM_TXT_904841,PlayPark All-Stars 2026 FWC Door Prize,PlayPark 全明星 20
 PROPITEM_TXT_904842,"A package containing 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Activation, 10x Power Scroll, 10x Flask Box, 10x Potion Box and 1x Extra Bag (30 days). All items are also linked.",禮包內含 10x 經驗值加成卷軸 ES、10x 無限活力多或無限魔力多、10x 力量之石、10x 無限技能卷軸、10x 力量卷軸、10x 藥水箱、10x 藥水盒，以及 1x 背包擴充 (30 天)。所有物品皆為綁定。
 PROPITEM_TXT_904843,PPAS x FWC Raffle Winner,PPAS x FWC 抽獎得主禮包
 PROPITEM_TXT_904844,"A package containing 1x Cloak of Philippines, 1x Traditional Philippines Set Select Box, 5x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Beginner's Pickup Pet Box (30 days), 1x Beginner's Flying Box (30 days), 1x Extra Bag (30 days) and 5x Vital Drink X or Refresher Hold. All items are also linked.",禮包內含 1x 菲律賓披風、1x 菲律賓傳統套裝選擇箱、5x 經驗值加成卷軸 ES、10x 力量之石、10x 力量卷軸、10x 藥水箱、10x 藥水盒、1x 初學者撿寵箱 (30 天)、1x 初學者飛行箱 (30 天)、1x 背包擴充 (30 天)，以及 5x 無限活力多或無限魔力多。所有物品皆為綁定。
-PROPITEM_TXT_904845,Playpark Topup Promotion - Tier 1,PlayPark 儲值優惠－第 1 階
+PROPITEM_TXT_904845,Playpark Topup Promotion - Tier 1,PlayPark 儲值優惠－第一階
 PROPITEM_TXT_904846,"A package containing 20x Flask Box, 20x Potion Box and 15x Scroll of Amplification ES. All items are also linked.",禮包內含 20x 藥水箱、20x 藥水盒與 15x 經驗值加成卷軸 ES。所有物品皆為綁定。
-PROPITEM_TXT_904847,Playpark Topup Promotion - Tier 2,PlayPark 儲值優惠－第 2 階
+PROPITEM_TXT_904847,Playpark Topup Promotion - Tier 2,PlayPark 儲值優惠－第二階
 PROPITEM_TXT_904848,"A package containing 15x Upcut Stone, 5x Power Scroll, 1x Extra Bag (30 days) and 1x Clockworks Weapon Skin Box. All items are also linked.",禮包內含 15x 力量之石、5x 力量卷軸、1x 背包擴充 (30 天)，以及 1x 時空毀滅者武器外皮盒。所有物品皆為綁定。
-PROPITEM_TXT_904849,Playpark Topup Promotion - Tier 3,PlayPark 儲值優惠－第 3 階
+PROPITEM_TXT_904849,Playpark Topup Promotion - Tier 3,PlayPark 儲值優惠－第三階
 PROPITEM_TXT_904850,A package containing 1x Clockworks Servant Set (Fashion) and 1x Clock Bike (White) (Mount). All items are also linked.,禮包內含 1x 時空毀滅者僕人套裝 (時裝) 與 1x 時空彗星號・銀輝 (坐騎)。所有物品皆為綁定。
 PROPITEM_TXT_904851,Traditional Philippines Set Select Box,菲律賓傳統套裝選擇箱
 PROPITEM_TXT_904852,Select which Gender you want to receive!,選擇想獲得的性別！

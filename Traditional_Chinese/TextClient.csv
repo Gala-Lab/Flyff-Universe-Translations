@@ -664,7 +664,7 @@ TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,公�
 TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,你的公會獲得了 %d 點分數！
 TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,關鍵人物陣亡了！%s 公會獲得額外積分！
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,你獲得了 %d 點復活分數！
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,你必須連接到第 1 頻道才能進入公會戰。
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,你必須連接到第一頻道才能進入公會戰。
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,公會戰結束了。
 TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,本週獲勝公會是：%s。
 TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,最有價值玩家：%s。
@@ -1160,7 +1160,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya ha
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,公會 %s 成功保護了神器！下次你們會更幸運的。
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,你必須加入公會才能攻擊神器。
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,你無法攻擊自己的公會神器！
-TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,你必須切換到第 1 頻道才能傳送到公會飛船！
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,你必須切換到第一頻道才能傳送到公會飛船！
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,你已成功更新神器出生位置。
 TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,你需要選擇要刪除的配置。
 TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,你設定相同的配置太多次了。

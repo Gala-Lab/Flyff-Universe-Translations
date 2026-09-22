@@ -935,14 +935,14 @@ UI_GUILDCOMBAT_JOIN_MSG,Enter the Guild Siege Arena now?,要進入公會戰嗎�
 UI_NETWORK_ERROR_TITLE,Network Error,網路錯誤
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.",網路出現錯誤，請檢查你的網路連線並重新登入。
 UI_GUILDCOMBAT_JOINWAR_TITLE,Select Entry Zone,選擇入場區域
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,你已進入第 1 區。
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,你已進入第 2 區。
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,你已進入第 3 區。
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered zone 4.,你已進入第 4 區。
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,你已進入至第 5 號地區。
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,你已進入至第 6 號地區。
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,你已進入至第 7 號地區。
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,你已進入至第 8 號地區。
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,你已進入第一區。
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,你已進入第二區。
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,你已進入第三區。
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered zone 4.,你已進入第四區。
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,你已進入至第五號地區。
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,你已進入至第六號地區。
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,你已進入至第七號地區。
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,你已進入至第八號地區。
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,選擇你要進入的區域。
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",你將在 %d 秒後進入 %s 區域。
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,隨機
@@ -1849,10 +1849,10 @@ UI_PVPCONTEST_MATCH_SELECT,Select match,選擇比賽
 UI_PVPCONTEST_TELEPORT,Your match will start in a few minutes. Do you want to teleport to the match arena? #b#cffff0000Declining means you won't be able to join later.#nc#nb,你的比賽將在幾分鐘後開始，你想傳送至比賽場地嗎？#b#cffff0000拒絕意味著你之後將無法加入。#nc#nb
 UI_PVPCONTEST_JOINWAR_RANDOM,Random,隨機
 UI_PVPCONTEST_JOINWAR_TITLE,Select Entry Zone,選擇入場區域
-UI_PVPCONTEST_JOINWAR_1_TIP,You have entered zone 1.,你已進入第 1 區。
-UI_PVPCONTEST_JOINWAR_2_TIP,You have entered zone 2.,你已進入第 2 區。
-UI_PVPCONTEST_JOINWAR_3_TIP,You have entered zone 3.,你已進入第 3 區。
-UI_PVPCONTEST_JOINWAR_4_TIP,You have entered zone 4.,你已進入第 4 區。
+UI_PVPCONTEST_JOINWAR_1_TIP,You have entered zone 1.,你已進入第一區。
+UI_PVPCONTEST_JOINWAR_2_TIP,You have entered zone 2.,你已進入第二區。
+UI_PVPCONTEST_JOINWAR_3_TIP,You have entered zone 3.,你已進入第三區。
+UI_PVPCONTEST_JOINWAR_4_TIP,You have entered zone 4.,你已進入第四區。
 UI_PVPCONTEST_JOINWAR_SELECT,Select the zone you wish to enter.,選擇你要進入的區域。
 UI_PVPCONTEST_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",你將在 %d 秒後進入 %s 區域。
 UI_PVPCONTEST_SELECTEDMATCH,Your next match will start at: %s,你的下一場比賽將於以下時間開始：%s
@@ -2492,10 +2492,10 @@ UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournamen
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,已報名隊伍 (%d)：
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,隨機
 UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,選擇入場區域
-UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered zone 1.,你已進入第 1 區。
-UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered zone 2.,你已進入第 2 區。
-UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered zone 3.,你已進入第 3 區。
-UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered zone 4.,你已進入第 4 區。
+UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered zone 1.,你已進入第一區。
+UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered zone 2.,你已進入第二區。
+UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered zone 3.,你已進入第三區。
+UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered zone 4.,你已進入第四區。
 UI_MATOURNAMENT_JOINWAR_SELECT,Select the zone you wish to enter.,選擇你要進入的區域。
 UI_MATOURNAMENT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",你將在 %d 秒後進入 %s 區域。
 UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,瑪德利賈錦標賽排名
@@ -3132,10 +3132,10 @@ UI_DAYS_FRI,Fri,週五
 UI_DAYS_SAT,Sat,週六
 UI_DAYS_SUN,Sun,週日
 UI_SEARCHPARTY_LEVEL,Lv.,等級
-UI_RANKING_UNIT1,st,第 1 名
-UI_RANKING_UNIT2,nd,第 2 名
-UI_RANKING_UNIT3,rd,第 3 名
-UI_RANKING_UNIT4,th,第 4 名
+UI_RANKING_UNIT1,st,第一名
+UI_RANKING_UNIT2,nd,第二名
+UI_RANKING_UNIT3,rd,第三名
+UI_RANKING_UNIT4,th,第四名
 UI_KALGAS_BLACK,Black,黑
 UI_KALGAS_WHITE,White,白
 UI_KALGAS_TEAM,Team,隊伍
