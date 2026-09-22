@@ -821,7 +821,7 @@ TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s 剛剛發現了一�
 TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,該物品無法被祝福。
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,物品已被覺醒。
 TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,此功能只能用於已祝福的道具。
-TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,女神賜福已被移除。
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,女神祝福已被移除。
 TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,因為你好久沒登入了，所以送你一份禮物吧！
 TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,地上已經有太多物品了。
 TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,你已建立 %dx %s。
