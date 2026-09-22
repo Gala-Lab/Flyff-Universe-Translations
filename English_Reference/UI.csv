@@ -1264,7 +1264,7 @@ UI_CASHSHOP_PENYA,Penya
 UI_CASHSHOP_PENYA_VIP,Penya (VIP)
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.
-UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist
+UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resistance
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance
@@ -1384,7 +1384,7 @@ UI_TOOLTIP_ELEMENT,Element: %s
 UI_APP_BOT_TIP,Bot Simulation
 UI_TOOLTIP_DST_EXP,Monster EXP
 UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate
-UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery
+UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Basic Attack FP Recovery
 UI_TOOLTIP_DST_AUTOHP,Recover %d%% HP When HP Falls Below %d%%
 UI_OPTION_MYNAME,Show My Name
 UI_OPTION_OTHERNAME,Show Other Players' Names
@@ -3234,7 +3234,7 @@ UI_TOOLTIP_CLOSE_DMG,Damage Within 3M
 UI_TOOLTIP_FAR_DMG,Damage Further Than 5M
 UI_DUNGEON_MODLEVEL,Lv.%d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:
-UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance
+UI_TOOLTIP_AUTO_STACKS,Basic Attack Stack Chance
 UI_TOOLTIP_YOYORANGE,Yo-Yo Range
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%)
 UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease
@@ -3296,7 +3296,7 @@ UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies
 UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield
-UI_TOOLTIP_AA_DMG,Auto Attack Damage
+UI_TOOLTIP_AA_DMG,Basic Attack Damage
 UI_LEVELCHANGE_NONE,No available jobs at this level
 UI_SKILL_PAGE_SELECT,Select your skill page:
 UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain
