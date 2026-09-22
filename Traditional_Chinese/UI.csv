@@ -745,7 +745,7 @@ UI_DUELRESULT_LOSE,%s loses the Duel!,%s 在決鬥中落敗！
 UI_CASHSHOP_RELOAD,TOP-UP,儲值
 UI_CASHSHOP_LEGALINFO,Legal Information,法規資訊
 UI_CASHSHOP_GSC,General Sales Conditions,一般銷售條款
-UI_CASHSHOP_TOS,Terms of Service,Terms of Service
+UI_CASHSHOP_TOS,Terms of Service,服務條款
 UI_CASHSHOP_SHOWALL,Show All,全部
 UI_CASHSHOP_SEARCH,Search:,搜尋：
 UI_CASHSHOP_SORT_DEFAULT,Default,預設
@@ -1268,7 +1268,7 @@ UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴擊抗性
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,玩家傷害減免
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,怪物傷害減免
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抗性
-UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,Physical Resistance
+UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,物理抗性
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,對玩家傷害
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,對怪物傷害
 UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,羅煞狂爆拳傷害
@@ -1426,7 +1426,7 @@ UI_ARENA_RANKING_TITLE,Arena Ranking,競技場排名
 UI_ARENA_RANKING_NAME,Name,名稱
 UI_ARENA_RANKING_LEVEL,Level,等級
 UI_ARENA_RANKING_JOB,Job,職業
-UI_ARENA_RANKING_KILLS,Kills,擊殺
+UI_ARENA_RANKING_KILLS,Kills,擊殺數
 UI_ARENA_RANKING_DEATHS,Deaths,死亡
 UI_ARENA_RANKING_RATIO,Ratio,比率
 UI_ARENA_RANKING_DIFF,Difference,差異
@@ -1933,7 +1933,7 @@ UI_PVPCONTEST_RANKING_RANKING,Ranking,排名
 UI_PVPCONTEST_RANKING_RANK,Rank,排名
 UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,公會名稱
 UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,點數
-UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,擊殺
+UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,擊殺數
 UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,死亡
 UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again via Menu > Helper > Info-Pang.,你可以透過選單 > 助手 > 資訊胖胖再次召喚資訊胖胖。
 UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,如果你按下資訊胖胖 > 右鍵 > 檢查列表，你可以再次檢視此資訊。
@@ -2025,7 +2025,7 @@ UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,檢視上一�
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,目前尚未開放申請。
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,下一場比賽：
 UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,製作究極武器
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",等級 150 以上的唯一武器可以轉換為究極武器。\n轉換時，你的唯一武器必須強化至 +10，並提供 3 個閃耀奧里哈鋼、3 個終極寶珠和 1 億金幣。轉換後，究極武器會保留所有元素升級、穿洞和素質。
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",等級 150 以上的傳說武器可以轉換為究極武器。\n轉換時，你的傳說武器必須強化至 +10，並提供 3 個閃耀奧里哈鋼、3 個終極寶珠和 1 億金幣。轉換後，究極武器會保留所有元素升級、穿洞和素質。
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,你想繼續嗎？
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,無法用在此物品上
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,只能轉換 +10 武器。
@@ -3391,102 +3391,102 @@ UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle r
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,輕觸任意位置即可輸入！
 UI_DUNGEON_DEFEND,Defend,防守
 UI_DUNGEON_ESCORT,Rescue,救援
-UI_PVPCONTEST_MINPARTICIPATINGPLAYERS,Min. Participating Players:,Min. Participating Players:
-UI_PVPCONTEST_REGIONTEAMS_GUILD,Guild,Guild
-UI_PVPCONTEST_REGIONTEAMS_NEXTMATCH,Next Match,Next Match
-UI_PVPCONTEST_REGIONTEAMS_REGION,Region,Region
-UI_PVPCONTEST_REGISTRATION_LBLFEE,Reg. fee,Reg. fee
-UI_PVPCONTEST_REGISTRATION_LBLFEE_TOOLTIP,Registration fee,Registration fee
-UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS,Req. Players,Req. Players
-UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS_TOOLTIP,Required player count,Required player count
-UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL,Min. Guild Level,Min. Guild Level
-UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL_TOOLTIP,Minimum guild level,Minimum guild level
-UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL,Min. Player Level,Min. Player Level
-UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL_TOOLTIP,Minimum player level,Minimum player level
-UI_PVPCONTEST_REGISTRATION_LBLREGIONDETAIL,Region assigned based on active match schedule,Region assigned based on active match schedule
-UI_WAVEDEFENSE_TITLE,The Last Beacon,The Last Beacon
-UI_WAVEDEFENSE_CREATEMATCH,Create Match,Create Match
-UI_WAVEDEFENSE_JOINMATCH,Join Match,Join Match
-UI_WAVEDEFENSE_BTNMODEPUBLIC,Public,Public
-UI_WAVEDEFENSE_BTNMODEPRIVATE,Private,Private
-UI_WAVEDEFENSE_BTNCREATEMATCH,Create Match,Create Match
-UI_WAVEDEFENSE_BTNQUICKJOIN,Quick Join,Quick Join
-UI_WAVEDEFENSE_BTNJOIN,Join,Join
-UI_WAVEDEFENSE_LBLMODE,Mode,Mode
-UI_WAVEDEFENSE_LBLMATCH,Match,Match
-UI_WAVEDEFENSE_LBLSETTINGS,Game Settings,Game Settings
-UI_WAVEDEFENSE_LBLMATCHPASSWORD,Match password,Match password
-UI_WAVEDEFENSE_HDRMINLEVEL,Min. Level: %d,Min. Level: %d
-UI_WAVEDEFENSE_HDRMAXPLAYERS,Max Players: %d,Max Players: %d
-UI_WAVEDEFENSE_HDRWAVECOUNT,Waves Count: %d,Waves Count: %d
-UI_WAVEDEFENSE_LBLSEARCH,Room Name,Room Name
-UI_WAVEDEFENSE_CBBMODEPUBLIC,Public,Public
-UI_WAVEDEFENSE_CBBMODEPRIVATE,Private,Private
-UI_WAVEDEFENSE_LBLROOMNAME,Room Name,Room Name
-UI_WAVEDEFENSE_LBLROOMDETAILS,Room Details,Room Details
-UI_WAVEDEFENSE_LBLPLAYERCOUNT,Player Count,Player Count
-UI_WAVEDEFENSE_LBLSTARTINGIN,Starting in,Starting in
-UI_WAVEDEFENSE_LBLLEADER,Leader,Leader
-UI_WAVEDEFENSE_LBLPLAYERSCOMPOSITION,Players Composition,Players Composition
-UI_WAVEDEFENSE_CBBMODEALL,All ,All 
-UI_WAVEDEFENSEMATCHLIST_HDRROOMNAME,Room Name,Room Name
-UI_WAVEDEFENSEMATCHLIST_HDRMODE,Mode,Mode
-UI_WAVEDEFENSEMATCHLIST_HDRPLAYERCOUNT,Players,Players
-UI_WAVEDEFENSEMATCHLIST_HDRLEADER,Leader,Leader
-UI_WAVEDEFENSEMATCHLIST_HDRSTARTINGIN,Starting in,Starting in
-UI_WAVEDEFENSE_STATUS_CURRENTWAVE,Current Wave %d/%d,Current Wave %d/%d
-UI_WAVEDEFENSE_STATUS_TOTALTIME,Total time %s,Total time %s
-UI_WAVEDEFENSE_STATUS_DEFENDERSLEFT,Sailors %d/%d,Sailors %d/%d
-UI_WAVEDEFENSE_STATUS_MONSTERSLEFT,Monsters %d/%d,Monsters %d/%d
-UI_WAVEDEFENSE_STATUS_REWARDS,Rewards,Rewards
-UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPARE,Starting in %s,Starting in %s
-UI_WAVEDEFENSE_STATUS_TIMELEFT_FIGHT,Time left %s,Time left %s
-UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPAREWAVE,Prepare %s,Prepare %s
-UI_WAVEDEFENSE_STATUS_TIMELEFT_TELEPORT,Teleporting in %s,Teleporting in %s
-UI_WAVEDEFENSE_STATUS_FORCESTART,Start now,Start now
-UI_WAVEDEFENSE_STATUS_FORCENEXTWAVE,Next wave,Next wave
+UI_PVPCONTEST_MINPARTICIPATINGPLAYERS,Min. Participating Players:,最低參賽人數：
+UI_PVPCONTEST_REGIONTEAMS_GUILD,Guild,公會
+UI_PVPCONTEST_REGIONTEAMS_NEXTMATCH,Next Match,下一場比賽
+UI_PVPCONTEST_REGIONTEAMS_REGION,Region,地區
+UI_PVPCONTEST_REGISTRATION_LBLFEE,Reg. fee,報名費
+UI_PVPCONTEST_REGISTRATION_LBLFEE_TOOLTIP,Registration fee,報名費
+UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS,Req. Players,所需人數
+UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS_TOOLTIP,Required player count,所需玩家人數
+UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL,Min. Guild Level,公會最低等級
+UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL_TOOLTIP,Minimum guild level,公會最低等級
+UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL,Min. Player Level,玩家最低等級
+UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL_TOOLTIP,Minimum player level,玩家最低等級
+UI_PVPCONTEST_REGISTRATION_LBLREGIONDETAIL,Region assigned based on active match schedule,依目前賽程分配地區
+UI_WAVEDEFENSE_TITLE,The Last Beacon,最後的烽火
+UI_WAVEDEFENSE_CREATEMATCH,Create Match,建立比賽
+UI_WAVEDEFENSE_JOINMATCH,Join Match,加入比賽
+UI_WAVEDEFENSE_BTNMODEPUBLIC,Public,公開
+UI_WAVEDEFENSE_BTNMODEPRIVATE,Private,私人
+UI_WAVEDEFENSE_BTNCREATEMATCH,Create Match,建立比賽
+UI_WAVEDEFENSE_BTNQUICKJOIN,Quick Join,快速加入
+UI_WAVEDEFENSE_BTNJOIN,Join,加入
+UI_WAVEDEFENSE_LBLMODE,Mode,模式
+UI_WAVEDEFENSE_LBLMATCH,Match,比賽
+UI_WAVEDEFENSE_LBLSETTINGS,Game Settings,遊戲設定
+UI_WAVEDEFENSE_LBLMATCHPASSWORD,Match password,比賽密碼
+UI_WAVEDEFENSE_HDRMINLEVEL,Min. Level: %d,最低等級：%d
+UI_WAVEDEFENSE_HDRMAXPLAYERS,Max Players: %d,人數上限：%d
+UI_WAVEDEFENSE_HDRWAVECOUNT,Waves Count: %d,總波數：%d
+UI_WAVEDEFENSE_LBLSEARCH,Room Name,房間名稱
+UI_WAVEDEFENSE_CBBMODEPUBLIC,Public,公開
+UI_WAVEDEFENSE_CBBMODEPRIVATE,Private,私人
+UI_WAVEDEFENSE_LBLROOMNAME,Room Name,房間名稱
+UI_WAVEDEFENSE_LBLROOMDETAILS,Room Details,房間資訊
+UI_WAVEDEFENSE_LBLPLAYERCOUNT,Player Count,玩家人數
+UI_WAVEDEFENSE_LBLSTARTINGIN,Starting in,開始倒數
+UI_WAVEDEFENSE_LBLLEADER,Leader,隊長
+UI_WAVEDEFENSE_LBLPLAYERSCOMPOSITION,Players Composition,隊伍組成
+UI_WAVEDEFENSE_CBBMODEALL,All ,全部
+UI_WAVEDEFENSEMATCHLIST_HDRROOMNAME,Room Name,房間名稱
+UI_WAVEDEFENSEMATCHLIST_HDRMODE,Mode,模式
+UI_WAVEDEFENSEMATCHLIST_HDRPLAYERCOUNT,Players,玩家
+UI_WAVEDEFENSEMATCHLIST_HDRLEADER,Leader,隊長
+UI_WAVEDEFENSEMATCHLIST_HDRSTARTINGIN,Starting in,開始倒數
+UI_WAVEDEFENSE_STATUS_CURRENTWAVE,Current Wave %d/%d,目前波數 %d/%d
+UI_WAVEDEFENSE_STATUS_TOTALTIME,Total time %s,總時間 %s
+UI_WAVEDEFENSE_STATUS_DEFENDERSLEFT,Sailors %d/%d,水手 %d/%d
+UI_WAVEDEFENSE_STATUS_MONSTERSLEFT,Monsters %d/%d,怪物 %d/%d
+UI_WAVEDEFENSE_STATUS_REWARDS,Rewards,獎勵
+UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPARE,Starting in %s,%s 後開始
+UI_WAVEDEFENSE_STATUS_TIMELEFT_FIGHT,Time left %s,剩餘時間 %s
+UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPAREWAVE,Prepare %s,準備時間 %s
+UI_WAVEDEFENSE_STATUS_TIMELEFT_TELEPORT,Teleporting in %s,%s 後傳送
+UI_WAVEDEFENSE_STATUS_FORCESTART,Start now,立即開始
+UI_WAVEDEFENSE_STATUS_FORCENEXTWAVE,Next wave,下一波
 UI_WAVEDEFENSE_LISTPLAYER_LEVEL,Lv.%d,Lv.%d
-UI_WAVEDEFENSE_LISTPLAYER_EMPTYSLOT,Empty Slot,Empty Slot
-UI_WAVEDEFENSE_STATUS_PASSWORD,Room password: %s,Room password: %s
-UI_WAVEDEFENSE_STATUS_KICK,Kick,Kick
-UI_WAVEDEFENSE_STATUS_KICKTITLE,Kick user,Kick user
-UI_WAVEDEFENSE_STATUS_KICKMSG,You are about to kick user %s. Do you want to continue?,You are about to kick user %s. Do you want to continue?
-UI_WAVEDEFENSE_STATUS_INVITETITLE,Invite user,Invite user
-UI_WAVEDEFENSE_STATUS_INVITEINFO,Please put the player name you want to invite in your Wave Defense match.,Please put the player name you want to invite in your Wave Defense match.
-UI_WAVEDEFENSE_STATUS_INVITEPLAYER,Player name,Player name
-UI_WAVEDEFENSE_JOIN_TITLE,Confirm Wave,Confirm Wave
-UI_WAVEDEFENSE_JOIN_MSG,%s invites you to join wave defense match. Accept the invitation?,%s invites you to join wave defense match. Accept the invitation?
-UI_WAVEDEFENSE_JOINMATCH_TITLE,Join Wave Defense Match,Join Wave Defense Match
-UI_WAVEDEFENSE_JOINMATCH_MSG,You are about to join match %s. Confirm?,You are about to join match %s. Confirm?
-UI_WAVEDEFENSE_JOINMATCH_PWD,Password,Password
-UI_WAVEDEFENSE_RANKING,Ranking,Ranking
-UI_WAVEDEFENSE_MILESTONE_HEADER,Milestones,Milestones
-UI_WAVEDEFENSE_MILESTONE_DESC,Clear waves with your team and claim exclusive rewards!,Clear waves with your team and claim exclusive rewards!
-UI_WAVEDEFENSE_MILESTONE,Clear %d total waves,Clear %d total waves
-UI_WAVEDEFENSE_RANKING_RANK,Rank,Rank
-UI_WAVEDEFENSE_RANKING_ROOM,Room Name,Room Name
-UI_WAVEDEFENSE_RANKING_WAVE,Max Wave,Max Wave
-UI_WAVEDEFENSE_RANKING_KILLS,Total Kills,Total Kills
-UI_WAVEDEFENSE_RANKING_DEFENDERS,Sailors,Sailors
-UI_WAVEDEFENSE_RANKING_TIME,Time,Time
-UI_WAVEDEFENSE_MILESTONE_CLAIM,Claim,Claim
-UI_WAVEDEFENSE_RANKING_DESC,Dominate the rankings with your team and secure your place at the top!,Dominate the rankings with your team and secure your place at the top!
-UI_WAVEDEFENSE_RANKINGDETAILS_HDR,Match Details,Match Details
-UI_WAVEDEFENSE_RANKINGDETAILS_ROOMNAME,Room Name,Room Name
-UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_NAME,Player,Player
-UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_JOB,Job,Job
-UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_KILLS,Kills,Kills
-UI_WAVEDEFENSE_STATUS_RESPAWN,Respawn in %s,Respawn in %s
-UI_PVPMATCH_RESPAWNNOW,Respawn now,Respawn now
-UI_WAVEDEFENSE_INVITATION_INVITE,Invite,Invite
-UI_WAVEDEFENSE_INVITATION_CLOSE,Close,Close
-UI_WAVEDEFENSE_HDRDAILYMATCHES,Daily matches: %d/%d,Daily matches: %d/%d
-UI_WAVEDEFENSE_SKIPWAVE_CONFIRM,Skip the remaining wait and start the next wave now?,Skip the remaining wait and start the next wave now?
-UI_WAVEDEFENSE_CLEARREWARD_MAXEDTODAY,Already claimed today. Resets tomorrow.,Already claimed today. Resets tomorrow.
-UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled,Immortal Sailors Enabled
-UI_WAVEDEFENSE_STATUS_LEAVE,Leave,Leave
-UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Are you sure you want to leave the match?
-UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
-UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today
-UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
-UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_WAVEDEFENSE_LISTPLAYER_EMPTYSLOT,Empty Slot,空位
+UI_WAVEDEFENSE_STATUS_PASSWORD,Room password: %s,房間密碼：%s
+UI_WAVEDEFENSE_STATUS_KICK,Kick,踢出
+UI_WAVEDEFENSE_STATUS_KICKTITLE,Kick user,踢出玩家
+UI_WAVEDEFENSE_STATUS_KICKMSG,You are about to kick user %s. Do you want to continue?,即將踢出玩家 %s。是否繼續？
+UI_WAVEDEFENSE_STATUS_INVITETITLE,Invite user,邀請玩家
+UI_WAVEDEFENSE_STATUS_INVITEINFO,Please put the player name you want to invite in your Wave Defense match.,請輸入你想邀請參加波次防守戰的玩家名稱。
+UI_WAVEDEFENSE_STATUS_INVITEPLAYER,Player name,玩家名稱
+UI_WAVEDEFENSE_JOIN_TITLE,Confirm Wave,確認參戰
+UI_WAVEDEFENSE_JOIN_MSG,%s invites you to join wave defense match. Accept the invitation?,%s 邀請你參加波次防守戰。是否接受邀請？
+UI_WAVEDEFENSE_JOINMATCH_TITLE,Join Wave Defense Match,加入波次防守戰
+UI_WAVEDEFENSE_JOINMATCH_MSG,You are about to join match %s. Confirm?,即將加入比賽 %s。是否確認？
+UI_WAVEDEFENSE_JOINMATCH_PWD,Password,密碼
+UI_WAVEDEFENSE_RANKING,Ranking,排行榜
+UI_WAVEDEFENSE_MILESTONE_HEADER,Milestones,里程碑
+UI_WAVEDEFENSE_MILESTONE_DESC,Clear waves with your team and claim exclusive rewards!,與隊友一同擊退各波敵人，領取專屬獎勵！
+UI_WAVEDEFENSE_MILESTONE,Clear %d total waves,累計通過 %d 波
+UI_WAVEDEFENSE_RANKING_RANK,Rank,排名
+UI_WAVEDEFENSE_RANKING_ROOM,Room Name,房間名稱
+UI_WAVEDEFENSE_RANKING_WAVE,Max Wave,最高波數
+UI_WAVEDEFENSE_RANKING_KILLS,Total Kills,總擊殺數
+UI_WAVEDEFENSE_RANKING_DEFENDERS,Sailors,水手
+UI_WAVEDEFENSE_RANKING_TIME,Time,時間
+UI_WAVEDEFENSE_MILESTONE_CLAIM,Claim,領取
+UI_WAVEDEFENSE_RANKING_DESC,Dominate the rankings with your team and secure your place at the top!,與隊友一同挑戰排行榜，登上巔峰！
+UI_WAVEDEFENSE_RANKINGDETAILS_HDR,Match Details,比賽詳情
+UI_WAVEDEFENSE_RANKINGDETAILS_ROOMNAME,Room Name,房間名稱
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_NAME,Player,玩家
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_JOB,Job,職業
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_KILLS,Kills,擊殺數
+UI_WAVEDEFENSE_STATUS_RESPAWN,Respawn in %s,%s 後重生
+UI_PVPMATCH_RESPAWNNOW,Respawn now,立即重生
+UI_WAVEDEFENSE_INVITATION_INVITE,Invite,邀請
+UI_WAVEDEFENSE_INVITATION_CLOSE,Close,關閉
+UI_WAVEDEFENSE_HDRDAILYMATCHES,Daily matches: %d/%d,每日比賽次數：%d/%d
+UI_WAVEDEFENSE_SKIPWAVE_CONFIRM,Skip the remaining wait and start the next wave now?,是否略過剩餘等待時間，立即開始下一波？
+UI_WAVEDEFENSE_CLEARREWARD_MAXEDTODAY,Already claimed today. Resets tomorrow.,今日已領取，明日重置。
+UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled,水手無敵模式已啟用
+UI_WAVEDEFENSE_STATUS_LEAVE,Leave,離開
+UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,確定要離開比賽嗎？
+UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC 冠軍通行證
+UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,每日獎勵：今日已領取 %d / %d 次
+UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP 紀念通行證
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","此物品將於 2026 年 10 月 29 日維護後移除。"

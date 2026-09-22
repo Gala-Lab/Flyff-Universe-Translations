@@ -694,7 +694,7 @@ TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,變�
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,此帳號已被凍結。請聯絡 FlyFF 客戶支援尋求協助。
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,你無法往這走。
 TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,你的帳號未經過驗證，請檢查你的信箱。
-TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,此角色暫時被封禁以等待進一步調查。請聯絡 FlyFF Universe 客戶支援尋求協助。
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,此角色已被封鎖，無法登入。詳情請聯絡 Flyff Universe 客戶服務。
 TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,你想嘗試重新連線嗎？
 TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,你需要「剪刀─石頭─布」使用券，才能進行遊戲。
 TEXTCLIENT_MINIGAME_USING,You are playing a game now!,你正在遊戲進行中！
@@ -836,12 +836,12 @@ TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,該玩家目�
 TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,你已經在目的地附近了！
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,恭喜你在巨人狩獵排名中獲得第 %d 名！
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜你在巨人狩獵排名中獲得 %d 分！
-TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,你獲得了 %d 點巨人狩獵積分（總計 %d）！
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,你獲得了 %d 點巨人狩獵積分 (總計 %d)！
 TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,你無法購買，因為伺服器將在幾秒後進行維護。
 TEXTCLIENT_CTRLRECOVERY,You found a HP container!,你找到了一個生命容器！
 TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,獎勵已成功領取
 TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,你獲得了 %s fCoins 獎勵。
-TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,該武器沒有任何新版特效效果。
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,該武器沒有任何精煉特效。
 TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,此武器的新版特效效果已更改。
 TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,無效的二階段驗證驗證碼。
 TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,挑戰失敗，請重試。
@@ -891,17 +891,17 @@ TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the secon
 TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,只有尚未完成第三次轉職的角色可以申請 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,本週將舉行 Lv80 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,本週將舉行 Lv60 公會戰。
-TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,The Lv165 Guild Siege is held for this week.
+TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,本週將舉行 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,因為參與人數不足，今天的 Lv.80 公會戰將取消。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,因為參與人數不足，今天的 Lv.60 公會戰將取消。
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,Today's Lv165 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,因為參與人數不足，今天的 Lv.165 公會戰將取消。
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Lv.80 公會戰已經結束。
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Lv.60 公會戰已經結束。
-TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,The Level 165 Guild Siege has ended.
+TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Lv.165 公會戰已結束。
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s 已發送到你的背包或信箱。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",現在起可透過布拉里斯的阿特拉斯進入 Lv.80 公會戰場。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",現在起可透過布拉里斯的奧莉薇亞進入 Lv.60 公會戰場。
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.","From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.","現在起可透過布拉里斯的普倫進入 Lv.165 公會戰場。"
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,另一場公會戰正在進行。
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,你現在無法移動。
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s 倒下了！
@@ -1013,7 +1013,7 @@ TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC 
 TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,FWC PVP 比賽報名將在一小時後截止！請確保你的公會已報名參賽！
 TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,取得你選擇的參賽清單時出錯，請重試。
 TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,你必須選擇一場比賽。
-TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","Thank you for confirming, your next match will start at %s today."
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","感謝你的確認，下一場比賽將於今天 %s 開始。"
 TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",在 FWC PVP 比賽期間無法使用成員管理功能，或者你正在嘗試編輯已選定註冊的成員。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,在 FWC PVP 比賽中，你無法變更公會名稱。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,在 FWC PVP 比賽中，你無法更改公會徽章。
@@ -1292,7 +1292,7 @@ TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,商店已關閉。
 TEXTCLIENT_PVPMATCH_TEAM,Team ,隊伍
 TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,比賽結束！獲勝者是 %s！
 TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,比賽結束！本次沒有勝利者！
-TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,比賽已結束，你已無法在比賽中傳送。
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,比賽已結束，無法再傳送進入。
 TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",沒有對手加入！比賽將直接結束，並判定你獲勝！
 TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,未找到你的比賽對手！系統將判定你本場獲勝！
 TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s 擊殺了 [%s] %s！
@@ -1578,44 +1578,44 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for cle
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,無法使用神秘的城堡重試券。
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,只有領主能使用此選單。
 TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,護送對象已死亡。
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,Time out! You failed to clear the waves before the deadline.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,Defeat! All your sailors have been eliminated.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,Victory! You have successfully cleared every wave!
-TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,The room name can't be empty!
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,Room name must be between 4 and 32 characters.
-TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,Room password must be between 4 and 20 characters.
-TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.
-TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,You need at least %d players to register.
-TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,Europe
-TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,America
-TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,Asia
-TEXTCLIENT_PVPCONTEST_REGION_ALL,All,All
-TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!
-TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,You missed too many matches. You are disqualified from the tournament.
-TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,Your guild must be at least Lv.%d to participate.
-TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,The FWC PVP Contest has ended!
-TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,The winner of region %s is: %s! Congratulations!
-TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,There is no winner for region %s!
-TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,Congrats for reaching rank %d this week! Here is your reward.
-TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,That player doesn't exist!
-TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,Player %s declined your wave defense invitation.
-TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,Player %s joined the wave defense match!
-TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,You successfully invited player %s to join the match.
-TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,That player is already in the match!
-TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,Required player is at least level %d.
-TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,Room password is incorrect!
-TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,That player is already in a match.
-TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,You have been kicked of the wave defense match.
-TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,You cannot use Blinkwings to escape the wave defense.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,You received %dx %s
-TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,You received already claimed that milestone.
-TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,Match not found. Please try again.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,You already have the maximum sailors.
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,You successfully revived a sailor.
-TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,You have reached the daily limit of %d Wave Defense matches.
-TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,Skipping is no longer available from round %d onward.
-TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Monsters are approaching...
-TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,A boss is coming!
-TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Congratulations on clearing the match! You have received your rewards.
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,時間到！你未能在時限內擊退所有波次的敵人。
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,戰敗！所有水手皆已陣亡。
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,勝利！你成功擊退了所有波次的敵人！
+TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,比賽已結束，無法再傳送進入。
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,房間名稱不可為空！
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,房間名稱長度須為 4 至 32 個字元。
+TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,房間密碼長度須為 4 至 20 個字元。
+TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,你已在一場波次防守戰中。請等待比賽結束，或重新加入遊戲。
+TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,至少需要 %d 名玩家才能報名。
+TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,歐洲
+TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,美洲
+TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,亞洲
+TEXTCLIENT_PVPCONTEST_REGION_ALL,All,全部
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,FWC PvP 大賽 %s UTC 的預賽已結束！下一輪比賽將於地區 %s 的 %s UTC 開始！
+TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,你缺席的比賽次數過多，已被取消本次大賽的參賽資格。
+TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,你的公會須達 Lv.%d 才能參加。
+TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,FWC PvP 大賽已結束！
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,地區 %s 的冠軍是：%s！恭喜！
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,地區 %s 沒有冠軍！
+TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,恭喜你本週獲得第 %d 名！請收下獎勵。
+TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,該玩家不存在！
+TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,玩家 %s 拒絕了你的波次防守戰邀請。
+TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,玩家 %s 加入了波次防守戰！
+TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,你已成功邀請玩家 %s 加入比賽。
+TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,該玩家已在這場比賽中！
+TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,受邀玩家須至少達到 %d 級。
+TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,房間密碼錯誤！
+TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,該玩家已在一場比賽中。
+TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,你已被踢出波次防守戰。
+TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,波次防守戰期間無法使用回城卷軸離開。
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,你獲得了 %dx %s
+TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,你已領取此里程碑獎勵。
+TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,找不到比賽，請再試一次。
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,你必須親自於波次防守戰中通過第 %d 波，才能領取此獎勵 (你的最佳紀錄：第 %d 波)。
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,水手人數已達上限。
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,你成功復活了一名水手。
+TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,你已達到每日 %d 場波次防守戰的上限。
+TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,從第 %d 波起，將無法略過等待時間。
+TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,怪物正在逼近…
+TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,頭目即將出現！
+TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,恭喜成功通關！獎勵已發放。

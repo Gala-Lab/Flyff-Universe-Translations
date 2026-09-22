@@ -19,7 +19,7 @@ STATBOARD_TXT_000016,Deaths Per Min,死亡 (每分鐘)
 STATBOARD_TXT_000017,Time Spent CC'd,被群體控制時間
 STATBOARD_TXT_000018,CC's applied,施加群體控制時間
 STATBOARD_TXT_000019,Damage Amped,傷害增強
-STATBOARD_TXT_000020,Damage Mitigated,損害減輕
+STATBOARD_TXT_000020,Damage Mitigated,減免傷害
 STATBOARD_TXT_000021,Damage Reflected,反射傷害
 STATBOARD_TXT_000022,,
 STATBOARD_TXT_000023,,
@@ -28,5 +28,5 @@ STATBOARD_TXT_000025,,
 STATBOARD_TXT_000026,,
 STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,玩家被群體控制的總秒數。
 STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,玩家對其他玩家施加群體控制效果的總秒數。
-STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.",玩家透過聖十字、劍十字等效果提升玩家的總傷害。
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.",玩家透過聖十字印、劍光交錯等效果增加的總傷害。
 STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.",玩家透過施放例如傷害轉移等技能減少的總傷害。

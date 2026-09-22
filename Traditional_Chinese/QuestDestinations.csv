@@ -40,12 +40,12 @@ QUEST_DESTINATION_0057,Bring it to Manager of Ancient Document Rovanett,傳達�
 QUEST_DESTINATION_0058,Bring it to Great Magician Laola,傳達給 [大魔法使] 拉宇。
 QUEST_DESTINATION_0059,Bring it to Historian Martinyc,傳達給歷史學者馬特尼提特
 QUEST_DESTINATION_0060,Bring it to Mercenary Instructor Hyuit,傳達給 [勇者訓練助教] 孝一。
-QUEST_DESTINATION_0061,Kill Small Mushpang,擊退部下莫修邦。
+QUEST_DESTINATION_0061,Kill Small Mushpang,擊敗新鮮的咚咚菇。
 QUEST_DESTINATION_0062,Bring it to Assist Instructor Kidmen,傳達給 [神職者訓練助教] 奇特曼。
 QUEST_DESTINATION_0063,Bring it to Hachal in Flarine,傳達給住在布拉里斯的哈卡。
 QUEST_DESTINATION_0064,Bring it to Hachal in Darkon,傳達給住在得肯的哈卡。
 QUEST_DESTINATION_0066,Receive mail from Rankashu who is standing in front of Dekane Mine,接收站在迪坎礦坑前小草兒的郵件
-QUEST_DESTINATION_0067,Drian exists in the first room,特利安在第一個房間。
+QUEST_DESTINATION_0067,Drian exists in the first room,得安在第一個房間。
 QUEST_DESTINATION_0068,Kill keakoon in the third room and obtain key.,擊退第三個房間的奇昆族，獲得鑰匙。
 QUEST_DESTINATION_0069,Move to the third room and check a cell where Nevil is locked.,往副本內部的第三個房間移動，並確認關禁藍彼的監獄。
 QUEST_DESTINATION_0070,Kill Elite Keakoon Guard Leaders in the third room.,請狩殺在第三間房間裡優秀的奇昆族長。
@@ -63,9 +63,9 @@ QUEST_DESTINATION_0081,Bring Ribenuum to Nein,把沛拉磷交給羅殷。
 QUEST_DESTINATION_0082,You can see Mutant Fefern and Mutant Nyangnyang Queen nearby.,你可以在附近看到突變蜥蜴草和變凶惡喵娘
 QUEST_DESTINATION_0083,Kill Vice Veduque living in the last room of Mars dungeon.,殺死居住在瑪斯密殿最後一個房間的扒爾斯。
 QUEST_DESTINATION_0084,It exists in Iblis and revelation can be found in the last room on left.,它存在於伊普里司，在左邊最後一個房間可以找到。
-QUEST_DESTINATION_0085,Kill 8 Iblis Crashers in the Iblis Temple.,在伊普里司神殿殺死 8 名伊普里司妖獸。
-QUEST_DESTINATION_0086,Kill an Iblis Guardian in the Iblis Temple.,在伊普里司神殿殺死一名伊普里司守護者。
-QUEST_DESTINATION_0087,Obtain the Pattern by Killing an Iblis Guardian.,擊敗伊普里司守護者，取得紋樣。
+QUEST_DESTINATION_0085,Kill 8 Iblis Crashers in the Iblis Temple.,在伊普里司神殿擊敗 8 隻地穴妖獸。
+QUEST_DESTINATION_0086,Kill an Iblis Guardian in the Iblis Temple.,在伊普里司神殿擊敗一隻地穴赤焰鳳凰。
+QUEST_DESTINATION_0087,Obtain the Pattern by Killing an Iblis Guardian.,擊敗地穴赤焰鳳凰，取得紋樣。
 QUEST_DESTINATION_0091,Please purchase a Long Sword from [Shield] Luda.,長劍請向盾牌商人路達購買。
 QUEST_DESTINATION_0093,"After speaking with Drian, obtain a pouch.",去和得安對話後，獲得包裹。
 QUEST_DESTINATION_0094,A group of Organigor exists nearby.,在窩樂坎棲息地附近。
@@ -81,7 +81,7 @@ QUEST_DESTINATION_1006,Bring this Hero's Pendant to Reonan.,帶這英雄的墜�
 QUEST_DESTINATION_1007,You got this Hero's Pendant from the Bearnerkys.,你從波肯獲得英雄的墜飾。
 QUEST_DESTINATION_1008,Bring this Agony Ore to Ainher.,帶這苦惱的礦石給艾因海爾
 QUEST_DESTINATION_1009,Symbols of Shade drop from Violet masquerpets with a level close to yours.,闇影徽記從等級接近你的邪惡怪物會掉落。
-QUEST_DESTINATION_1010,Collect Erons from Erons Catchers.,收集從艾磷斯來的艾磷斯幻獸。
+QUEST_DESTINATION_1010,Collect Erons from Erons Catchers.,從艾磷斯幻獸身上收集艾磷斯。
 QUEST_DESTINATION_1011,Collect Krasec from Krasec Catchers.,從石花幻獸那兒收集石花。
 QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,從天然礦物幻獸那兒收集天然礦物。
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,從鈷礫幻獸那兒收集鈷礫。
@@ -94,12 +94,12 @@ QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,從巨人
 QUEST_DESTINATION_1020,Kill %s Prismatic Cobras and Water Totem Pole,擊敗 %s 隻棱彩眼鏡蛇與水之圖騰柱
 QUEST_DESTINATION_1021,Kill %s Twinstrike Cobras and Wind Totem Pole,擊敗 %s 隻雙擊眼鏡蛇與風之圖騰柱
 QUEST_DESTINATION_1022,Kill %s Tanuki Enforcers and Earth Totem Pole,擊敗 %s 隻狸貓執法者與地之圖騰柱
-QUEST_DESTINATION_1023,Kill %s Wildwood Stalkers and Fire Totem Pole,擊敗 %s 隻野林潛行者與火之圖騰柱
+QUEST_DESTINATION_1023,Kill %s Wildwood Stalkers and Fire Totem Pole,擊敗 %s 隻叢林追獵者與火之圖騰柱
 QUEST_DESTINATION_1024,"Kill Kriton, the Shade's right hand living deep inside Herneos.",擊敗棲息於海尼爾遺都深處的影之右手——克里頓
 QUEST_DESTINATION_1025,Kill 150 Dreadfins in the Herneos Dungeon.,在海尼爾遺都副本中殺死 150 隻恐鰭。
 QUEST_DESTINATION_1026,Kill 150 Dreadscales in the Herneos Dungeon.,在海尼爾遺都副本中擊敗 150 隻恐鱗
 QUEST_DESTINATION_1027,Kill 150 Luminfins in the Herneos Dungeon.,在海尼爾遺都副本中擊敗 150 隻光鰭
-QUEST_DESTINATION_1028,Obtained by talking to Dr. Estly.,與艾斯特利博士對話後獲得
+QUEST_DESTINATION_1028,Obtained by talking to Dr. Estly.,與 Dr. 法小林交談後獲得。
 QUEST_DESTINATION_1029,Obtained by killing Dreadfins in the Herneos Dungeon.,透過殺死海尼爾遺都副本中的恐鰭獲得。
 QUEST_DESTINATION_1030,Obtained by killing Dreadscales in the Herneos Dungeon.,透過擊敗海尼爾遺都副本中的恐鱗獲得
 QUEST_DESTINATION_1031,Obtained by killing Luminfins in the Herneos Dungeon.,透過擊敗海尼爾遺都副本中的光鰭獲得
