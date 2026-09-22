@@ -462,7 +462,7 @@ PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasin
 PROPSKILL_TXT_100114,Kalgas Poison,卡爾加斯侵蝕
 PROPSKILL_TXT_100115,Poison spreads through your body.,毒素正在你體內擴散。
 PROPSKILL_TXT_100116,Kalgas' Dominance,卡爾加斯威臨
-PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,你的隊伍正被壓制！擊破神器以奪回力量！
+PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,敵隊已完全掌控局勢！在奪回神器之前，你的隊伍無法對卡爾加斯造成傷害。
 PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,二週年公會加成
 PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,將二週年代幣捐贈給你的公會，提升此強化效果的等級！
 PROPSKILL_TXT_100120,Poison (From Weapon),中毒 (來自武器)
@@ -1225,5 +1225,5 @@ PROPSKILL_TXT_100203,Stun,暈眩
 PROPSKILL_TXT_100204,You are stunned and cannot move.,你被暈眩了，動彈不得。
 PROPSKILL_TXT_100205,Sand Shield,沙之護盾
 PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,受到的傷害降低為 1，持續 5 秒。
-PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
-PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."
+PROPSKILL_TXT_150642,Wave Defense Buff,波次防守戰加成
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","獲得防守夥伴的支援，依在場防守者的人數提升攻擊力、速度、防禦力與最大生命值。"
