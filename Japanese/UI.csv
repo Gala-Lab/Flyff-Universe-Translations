@@ -2324,11 +2324,11 @@ UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,バトルアー
 UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvPブロック貫通
 UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),ベンダーショップデーを追加
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP,パーティー経験値
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,味方のHPの近くの家のアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,味方のATK：家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,味方の防御力:家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,味方の攻撃速度：家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,味方の詠唱速度：家の近くでアーティファクト
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,アーティファクト近くのギルドメンバーHP
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,アーティファクト近くのギルドメンバー攻撃力
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,アーティファクト近くのギルドメンバー防御力
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,アーティファクト近くのギルドメンバー攻撃速度
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,アーティファクト近くのギルドメンバー詠唱速度
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP近接/レンジブロック
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvPクリティカルダメージ
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvPクリティカルチャンス

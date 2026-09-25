@@ -1211,7 +1211,7 @@ TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in
 TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.",小道具/NPCは編集メニューで移動できます。このモードを終了するには、Esc キーを押します。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,ギルド %s がギルド %s のアーティファクトを破壊しました!
 TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,このギルドシップの所有者がギルドを解散しました!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドシップのアーティファクトは現在廃墟と化しており、家の所有権は現在空いています。
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドシップのアーティファクトは破壊されました。このギルドシップは現在、所有者がいません。
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,登録に失敗しました。
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,レベルが低いため登録できません。
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,登録が完了しました。
