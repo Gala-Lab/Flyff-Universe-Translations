@@ -1196,9 +1196,9 @@ NPC_150051,We’re not like the Khajiit… not like them at all.,私たちはカ
 NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.",村を守るには、時に犠牲が必要だ。厳しいが、それが真実だ。
 NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.",私はメラク、バロンと共に治安を担当している。日に日に状況は悪化している。頼むから、これ以上心配の種を増やさないでくれ。お前のことは見張らせてもらう。
 NPC_150054,It’s dangerous to go alone.,一人で行くのは危険だぞ。
-NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,いつまでこうして座っているつもりだ？反撃に出て、俺たちの力を見せつける必要がある。
-NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,私はサイラー。この村を守る方法は一つしかない――敵が俺たちを恐れる以上に、俺たちが敵を恐れないことだ。
-NPC_150057,We have a great communicator here… want to guess who?,ここには話がうまい奴がいるんだ……誰だと思う？
+NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,いつまでこうして座っているつもりだ？反撃に出て、我々の力を見せつける必要がある。
+NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,私はサイラー。この村を守る方法は一つしかない。我々が奴らを恐れる以上に、奴らから恐れられる存在になることだ。
+NPC_150057,We have a great communicator here… want to guess who?,ここには話がうまい奴がいるんだ...誰だと思う？
 NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.",長生きは祝福なのか？去るべき場所に長くとどまりすぎると、足元の地面が沈んでいくように感じ始める。
 NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.",私はエブロン、ただの暇を持て余した老人さ。長く生きていると、他人が気づかないことに気づくようになるものだ。
 NPC_150060,"Time is a strange thing, isn’t it?",時というのは、奇妙なものだろう？
@@ -1351,34 +1351,34 @@ NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,運試しと財
 NPC_100200,Wanna test your luck?,運試ししてみる？
 NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000Lv165ギルドコンバット申込センター#cff8a004fが開設中です！3次職になる前にぜひご利用ください！#nc#nb
 NPC_150203,Good Luck!,幸運を！
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,畑はまだ厄介な状態だ。油断するな――中にいる何かは、まだ終わっていない。
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",お、おお！衛兵さんだよな、そ、そうだろ？い、いや、ただの不作じゃないんだ！キノコが……ただ、変わっちまったんだよ。な、何かがおかしいんだ……
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",ようやく衛兵が気づいたか。遅すぎるくらいだけどな。答えが欲しいなら、覚悟して聞くんだな。
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",興味深いだろう？ここの作物はただ腐っているんじゃない――変化しているんだ。お前が来たからには、すぐに報告すべきだな。
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",た、助けて！ここの植物が……動いてる、生きてるんだ！
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",俺はスプラウト。この農場で働いてたんだ……いや、もう〝農場だった〟って言うべきかな……
-NPC_155012,Please save me... I just want to get out of here...,頼む、助けてくれ……ここから出たいだけなんだ……
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",ちっ、あのクソったれなライカンども……生きてここを出られたら、必ず償わせてやる……！
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",名前はソーン。もとはこんな血まみれになる予定じゃなかったんだが……いや、こうなるとかえって面白くなってきたな。
-NPC_155015,"Damn it, there are still people trapped inside!",くそっ、まだ中に閉じ込められてる奴らがいるんだ！
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,お前が救助隊か？よし。俺の観察記録が必要になるはずだ。
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",私はルート。植物の変異管理と栽培を担当していた……いや、〝していた〟だな。今はこの事件を調査している。
-NPC_155018,Hmm... I should document that mutation pattern...,ふむ……あの変異パターンは記録しておくべきだな……
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",これは深刻だ……こんなことが村の中で起きるとはな……\n早急に封じ込めなければならない。
-NPC_155020,Baron here. Have you found the three yet?,バロンだ。三人はもう見つかったか？
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,畑の異変はまだ収まっていない。油断するな。中にいる何かは、まだ終わっていない。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",あ、あなた、衛兵の人ですよね？わ、私、誓って言いますが、そ、育て方が悪かったんじゃないんです！キノコが、その...変わったんです。な、何かがおかしいんです、本当に...
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",ようやく衛兵も気づいたか。遅すぎるくらいだけどな。答えが欲しいなら、覚悟して聞くんだな。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",興味深いと思わない？ここの作物はただ腐っているんじゃない。変化しているの。あなたが来てくれたからには、すぐにこのことを報告しましょう。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",た、助けて！ここの植物が...動いてるの！生きてる！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",私はスプラウト。この農場で働いてたの...まあ、今となっては、農場“だった”って言うべきかもしれないけど...
+NPC_155012,Please save me... I just want to get out of here...,お願い...助けて...ただここから逃げ出したいだけなの...
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",ちっ、あのクソったれなライカンども...生きてここから出られたら、ただじゃおかねえ...！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",俺はソーン。最初は血を流すほどのことじゃないと思ってたが...どうやら話が変わってきたな。
+NPC_155015,"Damn it, there are still people trapped inside!",くそっ、まだ中に取り残されてる奴らがいるんだ！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,あなたが救助隊ね？よかった。私の観測記録が必要になるはずよ。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",私はルート。植物の変異管理と栽培の担当よ...まあ、今となっては、担当“していた”と言うべきね。今はこの異変について調査しているわ。
+NPC_155018,Hmm... I should document that mutation pattern...,ふむ...あの変異パターンは記録しておくべきね...
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",これはまずいな...村の中でこんなことが起きるとは...\n被害が広がる前に、早急に食い止める必要がある。
+NPC_155020,Baron here. Have you found the three yet?,バロンだ。例の三人はもう見つかったか？
 NPC_155021,We don’t have much time. Every delay makes things worse.,時間がない。遅れるほど事態は悪化する。
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,た、助けてくれ！こ、こんな姿で村には戻れない！も、もしまたあれが現れたら？お、俺一人じゃ無理だ……
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",ま、待てよ……お、俺をここに置いていくのか！？た、頼む、一人じゃ無理なんだ……
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,や、やったな！あ、ありがとう！お前がいなかったら、俺はどうなってたか……本当にありがとう……
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,お前か。よし。外で何かがこっちを見てる……この作戦を邪魔させはしない。気を抜くな、俺のそばを離れるなよ。
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",腰抜けが！お前の助けなしで、どうやって誰かを守れって言うんだ！冗談じゃない！
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,よくやった。お前の実力は本物だ。俺たちに必要なのはそういう強さだよ。感謝する……そして、認めよう。
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……これは予想外だ。土の下の何かが、お前の存在に明らかに反応している。観察する時間が要る。このデータは重要かもしれない。
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",手を緩めるな。あの生物どもに観測を邪魔されたら、すべてが台無しになる。もう後がないんだ。
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,測定結果がはっきりしたぞ。お前が守ってくれたおかげで、必要なデータを集められた。見事な働きだ。これで状況が変わる。
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",言った通りだ、これ以上ここに留まるべきじゃない。土の下の活動は予想以上の速さで悪化している。今すぐ移動する必要がある。
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,俺を置き去りにしないでくれ。あの生物どもは、俺が持っているものに反応しているんだ。無事に逃げるには、お前の護衛が要る。
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,よく生き延びたな。データは無事、標本も無傷だ。この遠征は成功だった。感謝する。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,た、助けてください！こ、このままじゃ村に戻れません！も、もしまたあれが現れたら？ひ、一人じゃ無理です...
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",ま、待って...私をここに置いていくんですか!? お、お願いです...私一人じゃ無理です...
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,や、やった！あ、ありがとうございます！あなたがいなかったら、私...どうなっていたか...。ほ、本当にありがとう...
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,何かが向こうからこっちを見てやがる...この作戦を邪魔させはしない。気を抜くな、俺のそばを離れるなよ。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",腰抜けが！お前の助けもなしに、どうやって向こうの奴らを守れってんだ？ふざけるな！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,よくやった。お前の実力は本物だ。俺たちに必要なのはそういう強さだよ。感謝する...そして、認めよう。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...これは予想外ね。地中にいる何かが、あなたの存在に明らかに反応している。少し観察する時間が必要ね。重要な手がかりになるかもしれないわ。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",速度を落とさないで。あの生物たちに観測を邪魔されたら、すべてが台無しになる。これ以上の遅れは許されないの。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,観測結果がはっきりしたわ。あなたが守ってくれたおかげで、必要な情報を集めることができた。よくやってくれた...これで状況が大きく変わるわ。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",さっきも言ったけれど、これ以上ここに留まるべきじゃないわ。地中の活動が予想以上の速さで活発になっている。今すぐ移動しましょう。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,ここに私を置いていかないで。あの生物たちは、私が持っているものに反応しているの。安全に脱出するには、あなたの援護が必要よ。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,無事に抜け出せたわね。よかった。データも無事だし、標本にも損傷はない。今回の調査は成功ね。協力に感謝するわ。
 NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,へへ～勇気があるじゃない？もう一度エンタネスに挑ませてあげてもいいわよ。
 NPC_156013,Oh... alright. Come find me whenever you feel ready.,あら……分かったわ。準備ができたら、いつでも私を訪ねてきて。
 NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,私はムシャ。この場所を見張って、もう一度エンタネスに挑みたい冒険者を案内しているの。
