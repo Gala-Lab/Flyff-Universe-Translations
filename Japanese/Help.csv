@@ -61,7 +61,7 @@ CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be se
 CLIENT_HELP_INC_000059,Status Menu,状態ウィンドウ
 CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",このウィンドウはTキーで表示、非表示できます。キャラクターのHP(生命力)、MP、FP、EXP(キャラクター経験値)、バブルタイムが表示されます。
 CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",[MP(精神力)]はマジシャン、アシストの魔法系スキルを使用する際に必要な数値です。 知能のポイントを増加させることで[MP]を増やすことができます。[FP(持久力)]はマーシナリーなどの物理攻撃系のスキルを使用する際に必要な数値です。体力のポイントを増加させることで[FP]を増やすことができます。
-CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP(キャラクター経験値)はキャラクターがレベルアップするために必要な数値です。モンスターを倒したりクエストを達成することで溜まっていきます。バブルタイムが貯まっていると、ボーナス経験値が手に入ります。これはギルドハウスを利用して貯めることができ、詳しくヘルプメニューでご確認ください。
+CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP(キャラクター経験値)はキャラクターがレベルアップするために必要な数値です。モンスターを倒したりクエストを達成することで溜まっていきます。
 CLIENT_HELP_INC_000063,Character Menu,キャラクターウィンドウ
 CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",キャラクターに関する各種情報が確認できます。 基本タブ(見出し)では[キャラクター名]、[職業]、[レベル]、[接続しているサーバ名]、[接続しているチャンネル]などの基本情報を表示し、詳細タブではキャラクターの能力値を確認したり、GPポイントを各能力値([力][体力][敏捷性][知能])に消費してステータスをアップさせることができます。
 CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",レベルが上がると、ステータスポイントが付与されます。このポイントは、各ステータスの割り当てに使用でき、基本能力を上げることができます。
@@ -618,7 +618,7 @@ CLIENT_HELP_INC_000616,Duel,デュエル
 CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,プレイヤーキャラクター同士の対決です。無差別のPK(PlayerKill)とは違って、デュエルゾーンで相手と合意の上で成立つPvP（Player Vs Player）のことを指します。
 CLIENT_HELP_INC_000618,Fame,名声
 CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,デュエルで多くの勝利を積み重ねることで名声を得ることができます。名声によって様々な称号が与えられます。
-CLIENT_HELP_INC_000620,Guild Combat Center,ギルドコンパットセンター
+CLIENT_HELP_INC_000620,Guild Combat Center,ギルドコンバットセンター
 CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,ギルドコンバットや1vs1ギルドウォーの参加申請などを管理しています。1～3チャンネルのうち、1チャンネルのみ利用可能です。
 CLIENT_HELP_INC_000622,Other inquiries,その他、質問事項
 CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,ご不明な点がありましたら、公式サイトお問い合わせメニューよりお問い合わせください。

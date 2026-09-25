@@ -164,7 +164,7 @@ TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose anot
 TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,このパーティ名には不正な文字や単語が含まれています。
 TEXTCLIENT_ERROR,Error,エラー
 TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,ベーシックパーティーからアドバンスパーティーに変更されました。
-TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,パーティー名が%sに変更されました。
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,パーティー名が %s に変更されました。
 TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,パーティースキルは、パーティーリーダーのみ使用できます。
 TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,このパーティは必要レベルが足りません。
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,パーティー経験値が不足しているため、スキルを使用することができません。
@@ -256,8 +256,8 @@ TEXTCLIENT_REALTIME,Real Time - %s,現実時間 - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,マドリガル時間 - %s
 TEXTCLIENT_NEW_QUEST,New Quest,新しいクエスト
 TEXTCLIENT_CURRENT_QUEST,Quests in Progress,進行中のクエスト
-TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,%sクエストが始まりました。クエストウィンドウで詳細を確認できます。
-TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,%sクエストが取り消されました。
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,クエスト %s が始まりました。クエストウィンドウで詳細を確認できます。
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,クエスト %s が取り消されました。
 TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,クエストを完了できません。クエストをキャンセルしてください。
 TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please select another.,プレイできないワールドです。ワールド1にて再入場してください。
 TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,飛行の状態では、入れません。
@@ -272,7 +272,7 @@ TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,おめでとうご�
 TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.",パーティーのメンバーがレベル %d 以上である場合、入場できません。
 TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,これ以上、チェックできません。
 TEXTCLIENT_COMACCEPT,You have joined the %s guild.,ギルド %s に加入しました。
-TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,ギルドを脱退しました。もう%sギルドには所属していません。
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,ギルドを脱退しました。もう %s には所属していません。
 TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,ギルド戦中にギルドロゴの変更はできません。
 TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,ギルド戦中にギルド名を変更はできません。
 TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,ギルドの告知事項が更新されました。ギルドウインドウで確認ください。
@@ -287,7 +287,7 @@ TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s の称号をアップ�
 TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s の称号をダウンさせました。
 TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s がギルドマスターになりました。
 TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s がギルドから脱退しました。
-TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%sさんはすでにギルドに所属しています。
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s はすでにギルドに所属しています。
 TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,戦闘中はギルドへの招待はできません。
 TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,ギルドに %s を招待しました。
 TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,招待したキャラクターはオフライン状態です。
@@ -554,7 +554,7 @@ TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,「%
 TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,ギルド戦に参加していないか、降参している状態です。
 TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s ギルドの %s が降参しました。
 TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,対立ギルドは休戦を断りました。
-TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.",%sギルドメンバー%sが倒されました。
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.",%sギルドメンバー %s が倒されました。
 TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,トランスとグローのアイテムを同時に使用することはできません。
 TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,同じ機能のアイテムをすでに使っています。持続時間終了後にご使用ください。
 TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,%s の名前が刻まれています。恋人にプレゼントしてください♥
@@ -628,7 +628,7 @@ TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,[GCC]キャンセル�
 TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,本日のギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,よい空の旅を！
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスに行き、出場者の＜チーム編成＞を完了させてください。
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,この後、ギルドコンバット開催予定です。%d秒後に自動でフラリスに移動します。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
@@ -666,17 +666,17 @@ TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,復活ポイントを%d獲得しました！
 TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,ギルドコンバットへ入場するにはチャンネル1に接続している必要があります。
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,ギルドコンバットが終了しました。
-TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,今週最強の王者は、ギルド%s！！おめでとう！
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,今週最強の王者は、ギルド %s！！おめでとう！
 TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVPは %s です！！
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,おめでとうございます！
 TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,入場制限時間
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドメンバーを招待することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,ギルドコンバットに申請したギルドは、ギルドの解散はできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドからの脱退はできません。
-TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドシージ中はメンバー管理機能を使用できません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドシージ中にギルドのロゴを変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドシージ中にギルド名を変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドシージ中に戦争宣言はできません。
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドコンバット中はメンバー管理機能を使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドコンバット中にギルドのロゴを変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドコンバット中にギルド名を変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドコンバット中に戦争宣言はできません。
 TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,イベント期間中はご利用いただけません。
 TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,イベント中はスキルを使用できません。
 TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,イベント中は適用できません。
@@ -685,10 +685,10 @@ TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,�
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,[GCC]参加対象外の払い戻し
 TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドコンバットの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",既に褒賞金を受取ったか、受け取り対象ではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドコンバットの賞金として%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,変身中には使用できません。
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,このアカウントはBANされています。カスタマーサービスへお問い合わせください。
@@ -713,7 +713,7 @@ TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issu
 TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,【注意】GM（ゲームマスター）がアカウントや銀行のパスワードを聞くことは絶対にありません。
 TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,【注意】アイテムの貸し借りはしないでください。成立したトレードは元に戻せません。詐欺にご注意ください。
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,ターゲットから遠すぎます。
-TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%sが3連続キル！
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s が3連続キル！
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%sが連続4キル！ランページ！
 TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%sが連続5キル！アンストッパブル！
 TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,ボス討伐残り時間%d分
@@ -746,18 +746,18 @@ TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],称号のロックを
 TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,パーティーレベルが40以上の場合は使用できません。
 TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,すでに永続パーティです。
 TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,このパーティは永続パーティです。メンバーがオフラインのときでもメンバーが自動で追放されることはありません。
-TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,このモンスターを攻撃できるのは、クエスト%sの間だけです。
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,このモンスターを攻撃できるのは、クエスト %s の間だけです。
 TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,保護巻物が不足しています。
 TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,アップグレード素材が不足しています。
 TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,必要なペニャが不足しています。
 TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,アップグレード素材が間違っています。
 TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,最低でも#b%d#nb追加の%sが必要です。
-TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,パーティ経験値獲得方式が%sに変更されました。
-TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,パーティアイテム獲得方式が%sに変更されました。
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,パーティ経験値獲得方式が %s に変更されました。
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,パーティアイテム獲得方式が %s に変更されました。
 TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,リーダーの承認をお待ちください。
 TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,マスターの承認をお待ちください。
-TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%sがパーティ参加を拒否しました。
-TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%sがギルド参加を拒否しました。
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s がパーティ参加を拒否しました。
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s がギルド参加を拒否しました。
 TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,飛行中はこのスキルを使用できません。
 TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,我に逆らう愚かな奴らめ！溶かしつくしてやらあぁ！！
 TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,地獄の苦痛を味うがいい！燃えろ！
@@ -795,9 +795,9 @@ TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,指名手配登�
 TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,このプレイヤーの懸賞金を登録する前に、しばらくお待ちください。
 TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%sは現在オフラインです。
 TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,インベントリのスペースが%d増加しました！
-TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s が %s を %s+%dに精錬成功！
-TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[キャラ帰属] %s を %s+%dに精錬成功！
-TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%sがレベル%dに達しました！
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s が %s を %s+%d に精錬成功！
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が [キャラ帰属] %s を %s+%d に精錬成功！
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s が レベル%d に到達しました！
 TEXTCLIENT_APP_GACHA,Gacha,ガチャ
 TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,ボックスは正常にリセットされました。
 TEXTCLIENT_APP_BOT,Bot,ボット
@@ -854,7 +854,7 @@ TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,リクエ�
 TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,%s がログアウトしました。
 TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,このモンスターを攻撃するには、1次転職を完了させる必要があります。
 TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,PKチャンネルでのみ復活できます。
-TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%sがギルドバンクを拡張しました!
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%s がギルドバンクを拡張しました!
 UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,キャラクターごとの最大購入数: %d
 TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,リーダーシップをオフラインプレイヤーに譲渡することはできません。
 TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,召喚中のペットがいません。
@@ -960,8 +960,8 @@ TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try 
 TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,マスタークエスト中はダンジョンに入ることができません。
 TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,このアイテムは、PKチャンネルでのみ使用可能です。
 TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,ランク%d到達おめでとうございます！%s！
-TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,今週の%sの勝者はギルド%sです！
-TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,今回は勝者がいませんでしたが、ギルドは %sです。
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,今週の%sの勝者はギルド %s です！
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,今回は勝者がいませんでしたが、ギルドは %s です。
 TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,PKチケット使用中は、PK以外のチャンネルへテレポートできません。
 TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,%s ダンジョンクリア！
 TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,おめでとうございます！すべての %s（s）が倒されました！ボーナスでボスが出現します！
@@ -1086,7 +1086,7 @@ TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,
 TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,レインボーレースが %d 秒後にスタートします...!
 TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,レインボーレースが始まります!
 TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,レースを完走しました!
-TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,レインボーレースが終わりました!勝者は%sです!
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,レインボーレースが終わりました！勝者は %s です！
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,レインボーレースに申し込むのに十分なペニャがありません。
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,次のレースへの応募は済んでいます。
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,レインボーレースは参加者不足のため開催されませんでした。
@@ -1098,12 +1098,12 @@ TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,アップグレードは
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,この項目は対象には使用できません。
 TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティマ武器の作成」メニューで使用できます
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,最初にターゲット項目を設定する必要があります。
-TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルド船に入札するには、ギルドの一員である必要があります。
-TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルド船を購入できるのはギルドリーダーだけです。
-TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,あなたのギルドはすでにギルド船を所有しています。
-TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,このギルド船の入札に成功しました!
-TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,このギルド船はすでに別のギルドに属しています。入札することはできません。
-TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,この船はギルドに属していません。
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルドシップに入札するには、ギルドの一員である必要があります。
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルドシップを購入できるのはギルドリーダーだけです。
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,あなたのギルドはすでにギルドシップを所有しています。
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,このギルドシップの入札に成功しました!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,このギルドシップはすでに別のギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,このギルドシップはあなたのギルドに属していません。
 TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,家具を置こうとしている位置が、自分から離れすぎています。
 TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,その家具は既に配置されています。事前に無効にしてください。
 TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,無効にする前に、まずその家具を配置する必要があります。
@@ -1111,9 +1111,9 @@ TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,ここには家�
 TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,オブジェクトを配置する地面をタッチします。マウスホイールで回転させます。マウスホイールを押しながらマウスを左右に動かしてサイズを変更します。
 TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,デコレーションオブジェクトの配置がキャンセルされました。
 TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,その家に家具を置く権利はありません。
-TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.,その家具を置くには、家やギルドハウスにいる必要があります。
-TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.,あなたには家もギルドハウスもありません。
-TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,%sをビジターとして追加しました!
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.,その家具を置くには、あなたの家やギルドシップにいる必要があります。
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.,あなたは家もギルドシップも持っていません。
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,%s をビジターとして追加しました!
 TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,選択したプレーヤーはオンラインではありません。
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,そのプレーヤーを訪問者リストから正常に削除しました。
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,そのプレーヤーは訪問者リストにありません。
@@ -1134,33 +1134,33 @@ TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase t
 TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,このハウステンプレートは既に所有しています。
 TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","ハウステンプレート ""%s"" のロック解除に成功しました!"
 TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,まず、そのハウジングテンプレートのロックを解除する必要があります。
-TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!,このギルドハウスは誰のものでもありません。あなたがそれを望むなら入札してください!
-TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.,このギルドハウスはギルドに属していません。入場できません。
-TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,このギルドハウスはすでにギルドに属しています。入札することはできません。
-TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,あなたのギルドがギルド船のオークションに勝ちました!これで、マップを使用して船を右クリックすると、テレポートできます。
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!,このギルドシップは誰のものでもありません。あなたがそれを望むなら入札してください!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.,このギルドシップはギルドに属していません。入場できません。
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,このギルドシップはすでにギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,おめでとうございます！あなたのギルドがギルドシップを落札しました！マップに表示されるギルドシップを右クリックして、テレポートできるようになりました。
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,あなたには入札する権利がありません。
-TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,ギルドハウスの入札額が %s になりました!
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,ギルドシップの入札額が %s になりました!
 TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.,ギルドバンクにペニャが足りません。
-TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,あなたはすでに別のギルド船に入札しています。
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,あなたはすでに別のギルドシップに入札しています。
 TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.,最低初期入札単価を%sペニャに設定する必要があります。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,ちょっと待って。。。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,アーティファクトの出現位置の設定に成功しました!%s の手数料がギルド バンクから引き落とされました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,アーティファクトの出現位置の設定に成功しました!%s の手数料がギルドバンクから引き落とされました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,アーティファクトの出現位置を設定する権限がありません。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your guild bank to set the artifact spawn position.,ギルドバンクにアーティファクトの出現位置を設定するのに十分なペニャがありません。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",これでギルドは船のアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",ギルドシップのアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,アーティファクトの出現位置をまだ設定する時期ではありません。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルド船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めてアーティファクトを破壊しましょう!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルド船のアーティファクトを破壊しました!そのギルド船は今、あなたのギルドに属しています!
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルド船のアーティファクトを破壊しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルドシップの所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルドシップのアーティファクトが出現しました!PKチャンネルでギルドシップの所有権を求めてアーティファクトを破壊しましょう!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルドシップのアーティファクトを破壊しました!そのギルドシップは今、あなたのギルドに属しています!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルドシップのアーティファクトを破壊しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s ペニャがギルドバンクに入金されました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,ギルドのアーティファクトが破壊されました!船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,ギルドは船のアーティファクトを守ることに成功しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,ギルドのアーティファクトが破壊されました!ギルドシップの所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,ギルドシップのアーティファクトの防衛に成功しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya has been deposited into the guild bank. Congratulations!,あなたは所有権を保持し、%sペニャはギルド銀行に預け入れられました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,ギルド%sはアーティファクトを守ることができました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,ギルド %s はアーティファクトを守り抜くことができました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,アーティファクトを攻撃するにはギルドに所属している必要があります。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,自分の船のアーティファクトを攻撃することはできません!
-TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,ギルドハウスの船にテレポートするには、チャンネル1にいる必要があります!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,自分のギルドシップのアーティファクトを攻撃することはできません!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,ギルドシップにテレポートするには、チャンネル1にいる必要があります!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,アーティファクトの出現位置が正常に更新されました。
 TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,削除するプリセットを選択する必要があります。
 TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,そのマップのプリセットが多すぎます。
@@ -1171,7 +1171,7 @@ TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It i
 TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,このタイプの props は %d 個以上持つことはできません。
 TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,ホイールが動かなくなっている...今のところ、船は制御不能のようです。
 TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,有効期限が切れているため、配置できなかったものがあります。
-TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,レインボー レースの払い戻しとして%sペニャを受け取りました。
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,レインボーレースの払い戻しとして、%sペニャを受け取りました。
 TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,ハウジングプリセットのロック解除可能な最大スロットにすでに達しています!
 TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,これで、最大 %d 個のハウジング プリセットを使用できます。
 TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,ハウスで個人商店を開くことはできません!
@@ -1201,7 +1201,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You have successfully register
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.,次のアーティファクトバトルへの申し込みをキャンセルしました。%d ペニャがギルドバンクに返金されました。
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!",アーティファクトバトルはすでに始まっていますので、申し込みをキャンセルすることはできません!
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,今週はアーティファクトバトルはありません。来週またお試しください!
-TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,ここにはギルドハウスのNPCしか配置できません。
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,ここにはギルドシップのNPCしか配置できません。
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,このアイテムには使用できません。
 TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,正常に送信されました。
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,ここにはパーソナルハウスNPCしか配置できません。
@@ -1210,8 +1210,8 @@ TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the 
 TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,%sは、%sの進行中にのみ取得できます。
 TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.",小道具/NPCは編集メニューで移動できます。このモードを終了するには、Esc キーを押します。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,ギルド %s がギルド %s のアーティファクトを破壊しました!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,このギルドハウスの所有者がギルドを解体しました!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドハウスのアーティファクトは現在廃墟と化しており、家の所有権は現在空いています。
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,このギルドシップの所有者がギルドを解散しました!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,ギルドシップのアーティファクトは破壊されました。このギルドシップは現在、所有者がいません。
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,登録に失敗しました。
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,レベルが低いため登録できません。
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,登録が完了しました。
@@ -1235,26 +1235,26 @@ TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,このエ
 TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,少し待ってから、別のゲストブックメッセージを投稿してください。
 TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,あなたの家にはまだ何人かのプレイヤーがいます。内部に誰もいなくなるまで、テンプレートを変更することはできません。
 TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%sはレインボーレースに申請するためのペニャが不足しています。
-TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%sは他の行動中です。
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s は他の行動中です。
 TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,%d秒後にチームがランダムに編成されます
 TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,テレポートは利用できません。
 TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,チームメンバーの招待中です。
-TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%sは既にレースに登録済みです。
-TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%sは既に招待を受け取っています。
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s は既にレースに登録済みです。
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s は既に招待を受け取っています。
 TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,レインボーレースへの登録に失敗しました。
 TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,現在申請できません。
 TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,オンラインのユーザーのみ招待できます。
 TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,レインボーレースのチーム招待がキャンセルされました。
-TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%sが招待を拒否しました。
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s が招待を拒否しました。
 TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,マスタークエスト中はカルガスアサルトをプレイできません。
-TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,%sは別のプレイヤーのものです。
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,%s は別のプレイヤーのものです。
 TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,あなたはチームメンバーではありません。
 TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,このアイテムは略奪できません。
 TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,他のプレイヤーはデュエルベットを受け付けません。
 TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,%dx %s を受け取りました。
 TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,%dx %s を受信しました
 TEXTCLIENT_TELEPORTMENU,Teleport menu,テレポートメニュー
-TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,%s の再突入のクールダウンが %d 分短縮されました。
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,%sの再突入のクールダウンが %d 分短縮されました。
 TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,クールダウン短縮が可能なダンジョンはありません。
 TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,マジッククロックの最大数をすでに使用しています
 TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,インスタンスダンジョンの残りクールダウンはアイテムの効果よりも短いです。アイテムを使用してもよろしいですか?
@@ -1265,7 +1265,7 @@ TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,アカウントの削除が完了しました。
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,パスワードが正しくありません。
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,%sが不足しています。
-TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%sが%sの作成に成功しました！
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s が %s の作成に成功しました！
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,距離が離れているため取引できません。
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,クーポンの送信が完了しました。郵便箱をご確認ください。
 TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,クーポンの送信が完了しました。Flyffショップをご確認ください。
@@ -1330,7 +1330,7 @@ TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,パー�
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,パーティーメンバーの中に最低レベル条件を満たしていない者がいます。
 TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.,ペニャが不足しています。
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,登録が完了しました。
-TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,マドリガルトーナメントが終了しました！優勝者は%s！おめでとうございます！
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,マドリガルトーナメントが終了しました！優勝者は %s！おめでとうございます！
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,マドリガルトーナメントは引き分けで終了しました！お疲れ様でした！
 TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,参加可能な試合がないため、入場できません。
 TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",対戦相手は参加しませんでした!その後、試合が終了し、勝利が与えられます!
@@ -1344,7 +1344,7 @@ TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing sp
 TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,マッチ中にテレポートすることはできなくなりました。試合が始まりました。
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,ベット配当金を受け取りました。
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,配当金の送付に失敗しました。状態をご確認ください。
-TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s Penya to %s.,%sペニャを%sに賭けました。
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s Penya to %s.,%sペニャを %s に賭けました。
 TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,既に別のチームに賭けています。
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,現在は賭けることができません。
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no Penya to collect.,受け取れるペニャがありません。
@@ -1362,9 +1362,9 @@ TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel 
 TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,取り外すジュエルを選択してください！
 TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,選択したスロットにはジュエルが入っていません！
 TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,アルティマジュエルを取り外しました。
-TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,%sを獲得しました。
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,%s を獲得しました。
 TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,同じ種類のジュエルまたはルーンは1つしか装着できません。
-TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,融合に失敗しました。%d %sが返却されました。
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,融合に失敗しました。%d %s が返却されました。
 TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,同じジュエルのみ登録できます。
 TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,アルティマジュエルの作成に成功しました！
 TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,アルティマジュエルの作成に失敗しました。
@@ -1373,9 +1373,9 @@ TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,プロポーズが拒否さ�
 TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,破局のリクエストが拒否されました。
 TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!",カップルになりました！おめでとうございます！
 TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,対象は既にカップルです。
-TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%sと%sがカップルになりました！
-TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,カップルスキル%sが使用されました。
-TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,%sスキルは既に発動中です。
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s と %s がカップルになりました！
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,カップルスキル %s が使用されました。
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,%s スキルは既に発動中です。
 TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,ポイントが不足しています。
 TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,このスキルを使用するには、同じパーティーに所属している必要があります。
 TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,現在のカップルリングが変更されます。パートナーにこのリクエストを送信してもよろしいですか？
@@ -1407,11 +1407,11 @@ TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,このトレ
 TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,ペットインベントリがいっぱいです！
 TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,訓練する前に、そのペットをフィールドから外す必要があります！
 TEXTCLIENT_PETTRAINING_NAME,[Training],[訓練中]
-TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,トレーナー%sがペットの訓練を完了しました！
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,トレーナー %s がペットの訓練を完了しました！
 TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,ペットインベントリ枠は既に上限まで解放されています！
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,家のペットインベントリ枠を新しく解放しました！
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,この巻物を使用するにはギルドが必要です！
-TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.",ギルド船のペットインベントリ枠を新しく解放しました！家をまだ所有していない場合は、今後所有する家に適用されます。
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.",ギルドシップのペットインベントリ枠を新しく解放しました！家をまだ所有していない場合は、今後所有する家に適用されます。
 TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,このエモートを使用するには、カップルレベル%d以上である必要があります。
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
@@ -1469,10 +1469,10 @@ TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.
 TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,製品%sは%d個を超えるとインベントリまたは倉庫に保管できません。
 TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,現在収穫できません。
 TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,ここでは収穫できません。
-TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.,このエモートを使用するには、クエスト%sを完了する必要があります。
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.,このエモートを使用するには、クエスト %s を完了する必要があります。
 TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,PvP中はこのアイテムを使用できません。
-TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,エモート%sが使用可能になりました！
-TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,エモート%sの有効期限が切れました。
+TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,エモート %s が使用可能になりました！
+TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,エモート %s の有効期限が切れました。
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,悪魔の祝福は取り外せません！
 TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,この機能は拡張バトルパスでのみ利用できます。
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,本日のテレポート回数をすべて使用しました。
@@ -1512,8 +1512,8 @@ TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,%d個の%sが必要です。
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,失敗によりアイテムが破壊されました。
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,強化失敗によりアイテムが降格しました。
 TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,このアイテムは強化試行回数の上限を超えています
-TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.",初めて最大レベルに到達した%sの名を刻んだ像が、フラリス北広場に建立されました。
-TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.",初めて最大強化に到達した%sの名を刻んだ像が、フラリス北広場に建立されました。
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.",初めて最大レベルに到達した %s の名を刻んだ像が、フラリス北広場に建立されました。
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.",初めて最大強化に到達した %s の名を刻んだ像が、フラリス北広場に建立されました。
 TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d時間が経過しました]過度なプレイは日常生活に支障をきたす恐れがあります。
 TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,このアカウントはこのサーバーへのアクセスが許可されていません。
 TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,最大レベルに初めて到達した者の名を刻んだ像。
@@ -1547,7 +1547,7 @@ TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,ス
 TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,マスタークエスト中はこのアイテムを使用できません。
 TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,転職クエスト中はこのアイテムを使用できません。
 TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,戦闘エリア外にいるため、モンスターを攻撃できません。
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%sが[U]%sを%s+%dに強化しました！
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s が [U]%s を %s+%d に強化しました！
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,支払いが完了しました！\nfCoinがアカウントに追加されました。
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,支払い中に不明なエラーが発生しました。\nもう一度お試しください。
 TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,ダンジョンで失った経験値を回復しました。
@@ -1566,7 +1566,7 @@ TEXTCLIENT_DONATION_END,Donation event %s +%d%% ended...,寄付イベント%s +%
 TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,%sペニャを%sイベントに寄付しました。
 TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,週間ロード就任おめでとうございます！
 TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,今週のロードはいません。
-TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,今週のロードは%sです。おめでとうございます！
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,今週のロードは %s です。おめでとうございます！
 TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,サーバーデータ同期中です。しばらくしてから再度お試しください。
 TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,無効な階層選択です。もう一度お試しください。
 TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,レベルが低いため、この階層に入れません。
@@ -1599,9 +1599,9 @@ TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congra
 TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,%s地域には勝者がいません!
 TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,今週ランク%d位に到達しました、おめでとうございます!こちらが報酬です。
 TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,そのプレイヤーは存在しません!
-TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,プレイヤー%sはウェーブディフェンスの招待を辞退しました。
-TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,プレイヤー%sがウェーブディフェンスのマッチに参加しました!
-TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,プレイヤー%sをマッチに招待しました。
+TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,プレイヤー %s はウェーブディフェンスの招待を辞退しました。
+TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,プレイヤー %s がウェーブディフェンスのマッチに参加しました!
+TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,プレイヤー %s をマッチに招待しました。
 TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,そのプレイヤーはすでにマッチに参加しています!
 TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,対象プレイヤーはレベル%d以上である必要があります。
 TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,ルームパスワードが間違っています!

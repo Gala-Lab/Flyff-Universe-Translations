@@ -14,7 +14,7 @@ PROPMAP_TXT_000013,Saint City,セイントモーニング
 PROPMAP_TXT_000014,Darken,ダーコン
 PROPMAP_TXT_000242,Dungeon,ダンジョン
 PROPMAP_TXT_000263,Mars Dungeon,フラリスダンジョン
-PROPMAP_TXT_000265,Dekane Mine,デェカネスダンジョン
+PROPMAP_TXT_000265,Dekane Mine,デェカネス鉱山
 PROPMAP_TXT_000266,Iblis Temple,イブリス神殿
 PROPMAP_TXT_000274,Forsaken Tower 1F,忘却の塔1階
 PROPMAP_TXT_000275,Forsaken Tower 2F,忘却の塔2階
@@ -47,17 +47,17 @@ PROPMAP_TXT_100017,Arians,アリアンス
 PROPMAP_TXT_100018,Deadwallderness,デッドウィルダニス砂漠
 PROPMAP_TXT_100019,Brekin,ブレッキン
 PROPMAP_TXT_100020,Guardiane,ガルディア
-PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),ダーコン2 （エイエンブルケーブ）
+PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),ダーコン2 (エイエンブルケーブ)
 PROPMAP_TXT_100022,Clockworks' Cage,クロックワークスの永久牢獄
 PROPMAP_TXT_100023,Erons Factories,エランス生産公団
 PROPMAP_TXT_100024,Gouthan Mountains,ゴウダン山脈
-PROPMAP_TXT_100025,Darkon 1 (KhipRa),ダーコン1 （キプラ荒原）
+PROPMAP_TXT_100025,Darkon 1 (KhipRa),ダーコン1 (キプラ荒原)
 PROPMAP_TXT_100026,Unknown,不明
 PROPMAP_TXT_100029,Armory,武具庫
 PROPMAP_TXT_100030,Center for Guild Combat,ギルドコンバットセンター
 PROPMAP_TXT_100031,Arena Manager,アリーナ管理人
 PROPMAP_TXT_100032,Azria,アズリア
-PROPMAP_TXT_100033,Guild Siege,ギルド・コンバット
+PROPMAP_TXT_100033,Guild Siege,ギルドコンバット
 PROPMAP_TXT_100034,Quiz,クイズ
 PROPMAP_TXT_100035,Village of Kan,ムーの谷
 PROPMAP_TXT_100036,Area,エリア
@@ -79,23 +79,23 @@ PROPMAP_TXT_100051,Envy Depths,エンヴィーデプス
 PROPMAP_TXT_100052,Leren Chasm,レレンの淵
 PROPMAP_TXT_100053,Rhisis Catacombs,リシスの地下墓地
 PROPMAP_TXT_100054,Guardiane Sanctuary,ガーディアンサンクチュアリ
-PROPMAP_TXT_100055,Leren Chasm (Medium),レレンの淵（ノーマル）
-PROPMAP_TXT_100056,Leren Chasm (Hard),レレンの淵（ハード）
-PROPMAP_TXT_100057,Leren Chasm (Extra Hard),レレンの淵（エキストラハード）
-PROPMAP_TXT_100058,Leren Chasm (Nightmare),レレンの淵（ナイトメア）
-PROPMAP_TXT_100059,Rhisis Catacombs (Hard),リシスの地下墓地（ハード）
-PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),リシスの地下墓地（エキストラハード）
-PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),リシスの地下墓地（ナイトメア）
-PROPMAP_TXT_100062,Envy Depths (Extra Hard),エンヴィーデプス（エキストラハード）
-PROPMAP_TXT_100063,Envy Depths (Nightmare),エンヴィーデプス（ナイトメア）
-PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),ガーディアンサンクチュアリ（ナイトメア）
-PROPMAP_TXT_100065,Envy Depths (Medium),エンヴィーデプス（ノーマル）
+PROPMAP_TXT_100055,Leren Chasm (Medium),レレンの淵 (ノーマル)
+PROPMAP_TXT_100056,Leren Chasm (Hard),レレンの淵 (ハード)
+PROPMAP_TXT_100057,Leren Chasm (Extra Hard),レレンの淵 (エキストラハード)
+PROPMAP_TXT_100058,Leren Chasm (Nightmare),レレンの淵 (ナイトメア)
+PROPMAP_TXT_100059,Rhisis Catacombs (Hard),リシスの地下墓地 (ハード)
+PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),リシスの地下墓地 (エキストラハード)
+PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),リシスの地下墓地 (ナイトメア)
+PROPMAP_TXT_100062,Envy Depths (Extra Hard),エンヴィーデプス (エキストラハード)
+PROPMAP_TXT_100063,Envy Depths (Nightmare),エンヴィーデプス (ナイトメア)
+PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),ガーディアンサンクチュアリ (ナイトメア)
+PROPMAP_TXT_100065,Envy Depths (Medium),エンヴィーデプス (ノーマル)
 PROPMAP_TXT_100066,Eggcellent's Meadow,エッグセレントの牧草地
 PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),エッグセレントの牧草地(ミディアム)
 PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),エッグセレントの牧草地(ハード)
 PROPMAP_TXT_100069,Leren Chasm (Story),レレンの淵(ストーリー)
 PROPMAP_TXT_100070,Rhisis Catacombs (Story),リシスの地下墓地(ストーリー)
-PROPMAP_TXT_100071,Envy Depths (Story),エンヴィーデプス（ストーリー）
+PROPMAP_TXT_100071,Envy Depths (Story),エンヴィーデプス (ストーリー)
 PROPMAP_TXT_100072,Guardiane Sanctuary (Story),ガーディアンサンクチュアリ(ストーリー)
 PROPMAP_TXT_100073,Storm Peak (Story),ストームピーク(ストーリー)
 PROPMAP_TXT_200000,The Colosseum,コロッセオ
@@ -105,7 +105,7 @@ PROPMAP_TXT_230001,Instance,インスタンス
 PROPMAP_TXT_100076,FWC Arena,FWCアリーナ
 PROPMAP_TXT_100081,Leren Chasm (Cursed),レレンの淵(カース)
 PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),リシスの地下墓地(カース)
-PROPMAP_TXT_100083,Envy Depths (Cursed),エンヴィーデプス（カース）
+PROPMAP_TXT_100083,Envy Depths (Cursed),エンヴィーデプス (カース)
 PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),ガーディアンサンクチュアリ(カース)
 PROPMAP_TXT_100085,Storm Peak (Cursed),ストームピーク(カース)
 PROPMAP_TXT_200001,Beach House,ビーチハウス
@@ -124,10 +124,10 @@ PROPMAP_TXT_200013,Darken House,ダーコンハウス
 PROPMAP_TXT_100086,2nd Anniversary,2周年記念
 PROPMAP_TXT_100087,2nd Anniversary (Medium),2周年記念(ミディアム)
 PROPMAP_TXT_100088,2nd Anniversary (Hard),2周年記念(ハード)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] エンヴィーデプス（イージー）
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] エンヴィーデプス（ノーマル）
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] エンヴィーデプス（ハード）
-PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[Event] エンヴィーデプス（カオス）
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] エンヴィーデプス (イージー)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] エンヴィーデプス (ノーマル)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] エンヴィーデプス (ハード)
+PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[Event] エンヴィーデプス (カオス)
 PROPMAP_TXT_100089,Lv.15+,Lv.15以上
 PROPMAP_TXT_100090,Lv.20+,Lv.20以上
 PROPMAP_TXT_100091,Lv.80+,Lv.80以上
@@ -153,12 +153,12 @@ PROPMAX_TXT_200026,Ankou's Asylum,ベヒモス神殿
 PROPMAP_TXT_200027,Kaillun Temple,カイルルン神殿
 PROPMAP_TXT_200028,Eillun,エルリウン
 PROPMAP_TXT_200029,Kaillun,カイルルン
-PROPMAP_TXT_200030,Leren Chasm (Infernal),レレンの淵（インフェルノ）
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),リシスの地下墓地（インフェルノ）
-PROPMAP_TXT_200032,Envy Depths (Infernal),エンヴィーデプス（インフェルノ）
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),ガーディアンサンクチュアリ（インフェルノ）
-PROPMAP_TXT_200034,Storm Peak (Infernal),ストームピーク（インフェルノ）
-PROPMAP_TXT_200035,The Wilds (Infernal),ザ・ワイルズ（インフェルノ）
+PROPMAP_TXT_200030,Leren Chasm (Infernal),レレンの淵 (インフェルノ)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),リシスの地下墓地 (インフェルノ)
+PROPMAP_TXT_200032,Envy Depths (Infernal),エンヴィーデプス (インフェルノ)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),ガーディアンサンクチュアリ (インフェルノ)
+PROPMAP_TXT_200034,Storm Peak (Infernal),ストームピーク (インフェルノ)
+PROPMAP_TXT_200035,The Wilds (Infernal),ザ・ワイルズ (インフェルノ)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),ベヒモス神殿(ストーリー)
 PROPMAP_TXT_200037,Seabed,海底
 PROPMAP_TXT_200038,Rescue [Eillun Farmer] Sprout,[エルリウンの農夫] スプラウトを救出

@@ -845,7 +845,7 @@ NPC_000975,"ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you 
 NPC_000976,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.,私はマドリガルを代表するペットの調教師です。何か困ったことがありましたら気軽に聞いてください。
 NPC_000977,Don't forget to feed your pet!,あなたも素敵なペットがほしいですよね？
 NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!",立ち上がれ、チャンピオン！チップエンポリアムへようこそ！
-NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?",ねえ見知らぬ人！あなたのギルドがギルド攻城戦に勝利した場合、勝利に対してチップが授与されます。私がショップで販売している防具セットは、あなたが見つけることができる最高のものです! それで、何枚のレッドチップを持っていますか?
+NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?",ねえ見知らぬ人！あなたのギルドがギルドコンバットに勝利した場合、勝利に対してチップが授与されます。私がショップで販売している防具セットは、あなたが見つけることができる最高のものです! それで、何枚のレッドチップを持っていますか?
 NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.",バトルマーチャントのワフォルです。私は包囲戦で勝利を分け合ってきましたが、そのようなことのために年を取りつつあります。しかし、私はまだ競争が大好きなので、ビジネスにとどまり、レッドチップベンダーとしてサービスを提供することにしました。
 NPC_001019,"So long, contender. May Rhisis be with you.",他では見られない、珍しい品物がいっぱいですよ！
 NPC_001024,You don't want me in that arena. I'll bury you!,ここでは強い者だけが生き残ることができるんだ。
@@ -1007,9 +1007,9 @@ NPC_100060,,
 NPC_100061,You are ready to challenge the Red Meteonyker. Are you sure you would like to enter?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the party members participating must be close to you to enter.#nc,レッドメテオニカに挑戦する準備が整いました。入場しますか？\n[はい][IDS_NPC_Yes_Enter] / [いいえ][IDS_NPC_No_Enter]\n\n#cffff0000参加するパーティーメンバー全員があなたの近くにいる必要があります。#nc
 NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,ヴォルケインキーを偽造するにはクマ―に話かける必要があります。
 NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",やあやあ、バフ・ファン兄弟の長男、アズリア・ファンだぞ！ぼくらはロードライトの管理をしているぞ！
-NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004fThe #cfff60000レベル80ギルドシージアプリケーションセンター#cff8a004fis open!#nc#nb
+NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004f#cfff60000レベル80ギルドコンバット申請センター#cff8a004fは今日もオープンしているぞ!#nc#nb
 NPC_100065,Good Luck!,ご武運を！
-NPC_100066,#b#cff8a004fEnjoy the #cfff60000Level 60 Guild Siege #cff8a004fbefore your second class!#nc#nb,#b#cff8a004fEnjoy the #cfff60000レベル60ギルドシージ#cff8a004fbefore your second class!#nc#nb
+NPC_100066,#b#cff8a004fEnjoy the #cfff60000Level 60 Guild Siege #cff8a004fbefore your second class!#nc#nb,#b#cff8a004f2次転職の前にぜひ。#cfff60000レベル60ギルドコンバット#cff8a004fはこちらです。#nc#nb
 NPC_100067,"With global warming, I’m gonna end up living in a freezer..",地球温暖化で、冷凍庫で生活することになります..
 NPC_100068,See you soon! At least if I still exist when you come back...,また近いうちにお会いしましょう！せめて君が戻ってきた時、僕が生きていれば…
 NPC_100069,It is way too early for you... Come back when you reach the appropriate level!,あなたには時期尚早です...適切なレベルに達したら戻ってきてください!
@@ -1085,7 +1085,7 @@ NPC_100137,You now have the opportunity to claim your own space! Invite a few fr
 NPC_100138,I specialize in crafting top-notch furniture and other household items to adorn your room. I'm renowned as the finest carpenter around!,私はあなたの部屋を飾る一流の家具やその他の家庭用品を作ることを専門としています。私は最高の大工として有名です!
 NPC_100139,Owning a splendid home can rejuvenate and fortify you for battles in Madrigal.,立派な家を所有することで、マドリガルでの戦いに備え、若返り、強化することができます。
 NPC_100140,Does your guild aspire to have its own house?,あなたのギルドは自分の家を持つことを熱望していますか?
-NPC_100141,"Greetings! If you're interested in acquiring a guild ship, you're in the right place. You'll need a guild with a minimum of 12 members.",よくここまで来ましたね！ギルドハウスに興味があるなら、ギルドに12人以上のメンバーを集め、私にお尋ねください。
+NPC_100141,"Greetings! If you're interested in acquiring a guild ship, you're in the right place. You'll need a guild with a minimum of 12 members.",よくここまで来ましたね！ギルドシップに興味があるなら、ギルドに12人以上のメンバーを集め、私にお尋ねください。
 NPC_100142,"Hello, my name is Lousiana, and I manage this ship.",こんにちは、私の名前はルイジアナで、この船を管理しています。
 NPC_100143,"Look who we have here on the vibrant shores of Coral Island! After all these years, fresh faces like yours bring a spark of excitement to my inventor's heart. With your helping hand, I just might accelerate the pace of my ingenious projects!",コーラルアイランドの活気に満ちた海岸にいる人を見てください!長い年月を経て、あなたのようなフレッシュな顔ぶれは、私の発明家の心に興奮の火花を散らします。あなたの助けを借りれば、私は独創的なプロジェクトのペースを加速させるかもしれません!
 NPC_100144,"Hey there! It's a thrill to have you join our little island community! I'm on the brink of something revolutionary, and I need someone as creative and ambitious as you to help me build my next groundbreaking invention. Together, we can shape the destiny of Madrigal!",ねえ！私たちの小さな島のコミュニティに参加していただけるのはスリル満点です!私は何か革命的なことの瀬戸際にいて、あなたのように創造的で野心的な人が、私の次の画期的な発明を作るのを手伝ってくれる人を必要としています。一緒に、マドリガルの運命を形作ることができます!
@@ -1349,7 +1349,7 @@ NPC_150201,I've spotted a security issue that needs immediate attention. Can you
 NPC_100198,Let luck do its thing.,運を天に任せよう。
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,運試しと財運を扱っているんだ。\n運試ししてみるかい？
 NPC_100200,Wanna test your luck?,運試ししてみる？
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000Lv165ギルドコンバット申込センター#cff8a004fが開設中です！3次職になる前にぜひご利用ください！#nc#nb
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000レベル165ギルドコンバット申請センター#cff8a004fが開設中です！3次職になる前にぜひご利用ください！#nc#nb
 NPC_150203,Good Luck!,幸運を！
 NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,畑はまだ厄介な状態だ。油断するな――中にいる何かは、まだ終わっていない。
 NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",お、おお！衛兵さんだよな、そ、そうだろ？い、いや、ただの不作じゃないんだ！キノコが……ただ、変わっちまったんだよ。な、何かがおかしいんだ……

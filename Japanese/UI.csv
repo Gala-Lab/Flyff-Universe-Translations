@@ -469,7 +469,7 @@ UI_GUILDNOTICE_NEW_TIP,Clear notice text,新しい告知を書込みます。
 UI_GUILDNOTICE_SAVE_TIP,Save notice,告知を開始します。同時に他のギルドメンバーに手紙もしくはささやきで知らせます。
 UI_GUILDLOGO_TITLE,Set Guild Logo,ギルドロゴの設定
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,ギルド解散の確認
-UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",ギルドを解散しますか?ギルドが家を所有している場合、ギルドハウスの所有権も失われることに注意してください。
+UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",ギルドを解散しますか? もし、ギルドがギルドシップを所有している場合、その所有権も失われることに注意してください。
 UI_GUILD_PAY,Salary,給与
 UI_GUILD_PAY_SETUP,Setup,設定
 UI_GUILD_GRADE_MEMBER,Members,メンバー
@@ -895,7 +895,7 @@ UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Consecutive 
 UI_GUILDCOMBAT_OFFER_CONFIRM,Current bid: %d Penya. You are about to add %d Penya. Proceed?,現在の入札額%dペニャから、追加で%dペニャを入札しますか？
 UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Submit your Guild Siege application,ギルドコンバットへ申請します。
 UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For more information on Guild Siege rewards, please speak with [Guild Siege Manager] Donaris.",褒賞アイテムの詳しい内容については、ドナリスに聞いてください。
-UI_GUILDCOMBAT_STATE_TITLE,Guild Siege Application Status,ギルドコンバットの申請状況
+UI_GUILDCOMBAT_STATE_TITLE,Guild Siege Application Status,ギルドコンバット：申請状況
 UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,残り時間
 UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time until the next Guild Siege,今回のギルドコンバットが開催されるまでの残り時間です。
 UI_GUILDCOMBAT_STATE_TOTALBID,Total Bid Amount:,累積総額
@@ -909,13 +909,13 @@ UI_GUILDCOMBAT_STATE_APPLY_TIP,Open the Guild Siege application window,ギルド
 UI_GUILDCOMBAT_STATE_REFRESH,Refresh,更新
 UI_GUILDCOMBAT_STATE_REFRESH_TIP,Refresh the current application status,申請状況のリストを更新します。
 UI_GUILDCOMBAT_STATE_LIST_TIP,Shows all applicants and their bid ranks,より多くのペニャを入札した上位10ギルドが、ギルドコンバットに参加できます。
-UI_GUILDCOMBAT_CANCEL_TITLE,Cancel Guild Siege Application,ギルドコンバット申請をキャンセル
+UI_GUILDCOMBAT_CANCEL_TITLE,Cancel Guild Siege Application,ギルドコンバット：キャンセル
 UI_GUILDCOMBAT_CANCEL_MSG,Withdraw your application for the Guild Siege?,申請をキャンセルしますか？
-UI_GUILDCOMBAT_SELECT_TITLE,Guild Siege Lineup,ギルドコンバットへの参加メンバー設定
+UI_GUILDCOMBAT_SELECT_TITLE,Guild Siege Lineup,ギルドコンバット：参加メンバー設定
 UI_GUILDCOMBAT_SELECT_CONNECTED,Online Guild Members,接続中のギルドメンバー
 UI_GUILDCOMBAT_SELECT_ENTRANT,Lineup,参加者リスト
 UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add the selected member to the lineup,ギルドメンバーをギルドコンバットのメンバーリストに追加します。
-UI_GUILDCOMBAT_SELECT_LEFT_TIP,Remove the selected member from the lineup,ギルドメンバートをギルドコンバットのメンバーリストから削除します。
+UI_GUILDCOMBAT_SELECT_LEFT_TIP,Remove the selected member from the lineup,ギルドメンバーをギルドコンバットのメンバーリストから削除します。
 UI_GUILDCOMBAT_SELECT_UP_TIP,Move the selected member up in the lineup,選択されたキャラクターの順序を上へ上げます。
 UI_GUILDCOMBAT_SELECT_DOWN_TIP,Move the selected member down in the lineup,選択されたキャラクターの順序を下へ下げます。
 UI_GUILDCOMBAT_SELECT_COMPLETE,Confirm,コンプリート
@@ -926,8 +926,8 @@ UI_GUILDCOMBAT_SELECT_REMAKE,Reset,再作成
 UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Reset the lineup,メンバーリストを再作成します。
 UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents gain 1 bonus point when your guild's Defender is killed.,ディフェンダーとして指定されたキャラクターを倒すと、ボーナスポイントがもらえます。
 UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting team: %d members (Max participants: %d),チームの登録します。%d人で開始できます。（最大%d人）
-UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,Set your lineup here. The first 6 members in the lineup will enter the Guild Siege combat area first.,5人のスターターが、戦闘に参加可能です。メンバー構成を慎重に行ってください。
-UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Reset your lineup and start over?,ギルドコンバットの参加メンバー構成をやり直しますか？
+UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,Set your lineup here. The first 6 members in the lineup will enter the Guild Siege combat area first.,メンバーの順番を設定してください。先頭から6名までが、最初にコンバットエリアに入場します。
+UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Reset your lineup and start over?,ギルドコンバットの参加メンバー設定をやり直しますか？
 UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Entry,ギルドコンバットの紹介
 UI_GUILDCOMBAT_TELE_MSG,Guild Siege entry is now open. Teleport to the entry NPC?,ギルドコンバットエリアの入場可能時間になりました。フランキーの元にテレポートしますか？
 UI_GUILDCOMBAT_JOIN_TITLE,Enter Guild Siege Arena,コンバットエリアへ入場
@@ -955,7 +955,7 @@ UI_GUILDCOMBAT_JOIN_READY2,Prepare yourself!,準備はいいか～！
 UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] defeated [%s]%s [%s] and gained %d points.,[%s]%s [%s] は [%s]%s [%s] をキルして %d ポイントを獲得。
 UI_GUILDCOMBAT_LOG_MASTER,Guild Master,ギルドマスター
 UI_GUILDCOMBAT_LOG_DEFENDER,Defender,ディフェンダー
-UI_GUILDCOMBAT_RESULT_TITLE,Guild Siege Results,ギルド＆個人順位の情報
+UI_GUILDCOMBAT_RESULT_TITLE,Guild Siege Results,ギルドコンバット：結果
 UI_GUILDCOMBAT_RESULT_GUILD,Guild Rankings,ギルドランキング
 UI_GUILDCOMBAT_RESULT_MEMBER,Player Rankings,個人順位
 UI_GUILDCOMBAT_RESULT_RANK,Rankings,総合順位
@@ -1576,36 +1576,36 @@ UI_BATTLEPASS_CLAIM,Claim Rewards,報酬を受け取る
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,全員が獲得可能な基本報酬！
 UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Flyff Pass!,拡張バトルパスではさらに報酬が獲得可能！
 UI_BATTLEPASS_COMPLETED,Congratulations for completing the Flyff Pass!,バトルパスのコンプリートおめでとうございます！
-UI_GUILDCOMBAT80_CANCEL_TITLE,Cancel Lv.80 GS Application,Lv80 GS - キャンセル申請
-UI_GUILDCOMBAT80_CANCEL_MSG,Withdraw your application for the Lv.80 Guild Siege?,レベル 80 ギルド攻城戦から撤退しますか?
-UI_GUILDCOMBAT80_JOIN_MSG,Enter the Lv.80 Guild Siege Arena now?,レベル 80 ギルド シージに参加しますか?
-UI_GUILDCOMBAT60_CANCEL_TITLE,Cancel Lv.60 GS Application,Lv60 GS - キャンセル申請
-UI_GUILDCOMBAT60_CANCEL_MSG,Withdraw your application for the Lv.60 Guild Siege?,レベル 60 ギルド攻城戦から撤退しますか?
-UI_GUILDCOMBAT60_JOIN_MSG,Enter the Lv.60 Guild Siege Arena now?,レベル 60 ギルド シージに参加しますか?
-UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,レベル 80 GS 情報
-UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,レベル 60 GS 情報
-UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,レベル 80 GS に申し込む
-UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,レベル 60 GS に申し込む
-UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - 申請キャンセル
-UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,レベル165ギルドコンバットから脱退しますか？
-UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,レベル165ギルドコンバットに参加しますか？
-UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,レベル165GS情報
-UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,レベル165GSに申し込む
+UI_GUILDCOMBAT80_CANCEL_TITLE,Cancel Lv.80 GS Application,GS：キャンセル (Lv.80)
+UI_GUILDCOMBAT80_CANCEL_MSG,Withdraw your application for the Lv.80 Guild Siege?,申請をキャンセルしますか？
+UI_GUILDCOMBAT80_JOIN_MSG,Enter the Lv.80 Guild Siege Arena now?,ギルドコンバットエリアへ移動しますか？
+UI_GUILDCOMBAT60_CANCEL_TITLE,Cancel Lv.60 GS Application,GS：キャンセル (Lv.60)
+UI_GUILDCOMBAT60_CANCEL_MSG,Withdraw your application for the Lv.60 Guild Siege?,申請をキャンセルしますか？
+UI_GUILDCOMBAT60_JOIN_MSG,Enter the Lv.60 Guild Siege Arena now?,ギルドコンバットエリアへ移動しますか？
+UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,GS：情報 (Lv.80)
+UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,GS：情報 (Lv.60)
+UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,GS：申請 (Lv.80)
+UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,GS：申請 (Lv.60)
+UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,GS：キャンセル (Lv.165)
+UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,申請をキャンセルしますか？
+UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,ギルドコンバットエリアへ移動しますか？
+UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,GS：情報 (Lv.165)
+UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,GS：申請 (Lv.165)
 UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,ブルーチップ\n・優勝ギルド：34×参加ギルド数\n・第2ギルド：24×参加ギルド数\n・第3ギルド：14×参加ギルド数\n・第4ギルド：8×参加ギルド数\n・第5ギルド：4×参加ギルド数
 UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,ブルーチップ\n・優勝ギルド：32×参加ギルド数\n・第2ギルド：22×参加ギルド数\n・第3ギルド：12×参加ギルド数\n・第4ギルド：7×参加ギルド数\n・第5ギルド：3×参加ギルド数
-UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,レベル 80 GS アプリケーション
-UI_GUILDCOMBAT_STATE_TITLE2,Lv.60 Guild Siege Application Status,レベル 60 GS アプリケーション
-UI_GUILDCOMBAT_SELECT_TITLE1,Lv.80 Guild Siege Lineup,レベル 80 GS ラインナップ
-UI_GUILDCOMBAT_SELECT_TITLE2,Lv.60 Guild Siege Lineup,レベル 60 GS ラインナップ
-UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,レベル80ギルド＆メンバーランキング
-UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,レベル60ギルド＆メンバーランキング
-UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,レベル80ギルドメンバーランキング
-UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,レベル60ギルドメンバーランキング
+UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,GS：申請状況 (Lv.80)
+UI_GUILDCOMBAT_STATE_TITLE2,Lv.60 Guild Siege Application Status,GS：申請状況 (Lv.60)
+UI_GUILDCOMBAT_SELECT_TITLE1,Lv.80 Guild Siege Lineup,GS：参加メンバー設定 (Lv.80)
+UI_GUILDCOMBAT_SELECT_TITLE2,Lv.60 Guild Siege Lineup,GS：参加メンバー設定 (Lv.60)
+UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,ギルドコンバット：結果 (Lv.80)
+UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,ギルドコンバット：結果 (Lv.60)
+UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,GS：個人ランキング (Lv.80)
+UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,GS：個人ランキング (Lv.60)
 UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,ブルーチップ\n- 優勝ギルド：参加ギルド数 × 40\n- 準優勝ギルド：参加ギルド数 × 30\n- 3位ギルド：参加ギルド数 × 20\n- 4位ギルド：参加ギルド数 × 10\n- 5位ギルド：参加ギルド数 × 6
-UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,レベル165GS申請状況
-UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,レベル165GSラインナップ
-UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,レベル165ギルド＆メンバーランキング
-UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,レベル165ギルドメンバーランキング
+UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,GS：申請状況 (Lv.165)
+UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,GS：参加メンバー設定 (Lv.165)
+UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,ギルドコンバット：結果 (Lv.165)
+UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,GS：個人ランキング (Lv.165)
 UI_OPTION_EVENTLIGHT,Event Light,イベントライト効果
 UI_LEVELREACH,Level Reach,レベル先行
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!",イベント期間中にいち早く一定レベルへ到達し報酬をゲットしよう！レベルごとに報酬の数に限りがありますので、お早めに！先着順ですよ！
@@ -2016,7 +2016,7 @@ UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them agai
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),ランク %d / %d (%d ポイント)
 UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!,速度が低下！失格にならないよう、コース付近を飛行してください！
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,現在の速度乗数: %d
-UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,レインボーレースアプリケーション
+UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,レインボーレース：申請状況
 UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,登録には%lldペニャが必要です。続行しますか？
 UI_RAINBOWRACE_APP_CURRENT,Registered Applicants: %d,現在の参加申請人数:%d人
 UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,申込手数料：%lldペニャ
@@ -2076,23 +2076,23 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,検索
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,すべて
 UI_HOUSINGSETUP_FILTER_TREE,Trees,ツリー
 UI_HOUSINGSETUP_FILTER_OTHER,Other,その他
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドハウスに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドハウスの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドハウスは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドシップに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドシップの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドシップは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,ギルドの入札
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,入札する
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,入札したい金額を入力します。#b#uあなたのギルド銀行には、入札をカバーするのに十分なペニャが必要です。#nu#nb
-UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,現在このハウスに入札はありません。
-UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,船にテレポートする
+UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,現在このギルドシップに入札はありません。
+UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,ギルドシップにテレポートする
 UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,ギルドが所有している船 [%s]
 UI_GUILD_TAB_HOUSING,Ship,マイルーム
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,次のアーティファクトの配置:
 UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,アーティファクトの位置を選択するための残り時間:
 UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,船にテレポートする
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,現在の家のボーナス
-UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,ギルドのアーティファクトをここにスポーンさせてもよろしいですか?#b#cffff0000注: %s ペニャの手数料はギルドの銀行から引き落とされます。#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,ギルドハウス管理
-UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,ギルドハウスのアーティファクトがここのどこかにある...
-UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,あなたのギルドは家を所有していません。
-UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",ギルドがギルドハウスを所有している場合、隔週土曜日に、ギルドは#b#u%s penyas#nu#nbのアーティファクトを定義されたリストから選択した位置に配置する必要があります。\n\nギルドにギルドハウスがない場合は、次のアーティファクトバトルに #b#u%sペニャス#nu#nbで登録すると、ギルドハウスを獲得するチャンスがあります! お申込み・キャンセルはバトル開始の1時間前まで可能です。\n\n一度配置すると、ギルドはPKチャンネルで他のプレイヤーから守る必要があり、そうでなければ家の所有権を失います #bspecial。
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,現在のギルドシップボーナス
+UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,ギルドのアーティファクトをここに出現させてもよろしいですか?#b#cffff0000注: %s ペニャの手数料はギルドの銀行から引き落とされます。#nc#nb
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,ギルドシップ管理
+UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,ギルドシップのアーティファクトがここのどこかにある...
+UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,あなたのギルドはギルドシップを所有していません。
+UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",ギルドシップを所有している場合、隔週の土曜日、指定された場所のいずれかにアーティファクトを設置する必要があります。設置には#b#u%sペニャ#nu#nbの費用がかかります。\n\nギルドシップを所有していない場合、#b#u%sペニャ#nu#nbを用意して次回のアーティファクトバトルに登録することで、ギルドシップを獲得するチャンスを得ることができます。参加登録やキャンセルは、バトル開始の1時間前まで可能です。\n\nPKチャンネルに出現するアーティファクトに対して、ギルドは他のプレイヤーからの攻撃を阻止しなければなりません。アーティファクトの防衛に成功した場合は#b設置費用の一部が返金#nbされます。防衛に失敗した場合はギルドシップの所有権が失われます。
 UI_HOUSINGSETUP_PRESETS,Presets,プリセット
 UI_HOUSINGSETUP_MANAGE,Management,管理
 UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,このページでは、このワールドのハウジングプリセットを管理できます。プリセットをクリックすると、オブジェクト/NPCの配置をプレビューできます。  \n\n\n #b#uNote:#nb#nu プリセットを適用すると、現在の装飾/NPCがすべて削除されます。配置したNPCのみがプリセットリストに追加されます。期限切れのパックに含まれていた一部のモデル/NPCは、プリセットを適用するときに配置されない場合があります。
@@ -2324,11 +2324,11 @@ UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,バトルアー
 UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvPブロック貫通
 UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),ベンダーショップデーを追加
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP,パーティー経験値
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,味方のHPの近くの家のアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,味方のATK：家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,味方の防御力:家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,味方の攻撃速度：家の近くでアーティファクト
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,味方の詠唱速度：家の近くでアーティファクト
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,アーティファクト近くのギルドメンバーHP
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,アーティファクト近くのギルドメンバー攻撃力
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,アーティファクト近くのギルドメンバー防御力
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,アーティファクト近くのギルドメンバー攻撃速度
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,アーティファクト近くのギルドメンバー詠唱速度
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP近接/レンジブロック
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvPクリティカルダメージ
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvPクリティカルチャンス
