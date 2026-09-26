@@ -20,32 +20,32 @@ NPC_FINALIZESTATSELECTION,Finalize Stat selection,最终站选择点...
 NPC_DEKANEMINE,Dekane Mine,达肯矿洞
 NPC_CELL,Cell,飞儿
 NPC_AZRIAMINE,Azria Mine,阿兹利亚矿山
-NPC_CURSEDSYMBOL,Cursed Symbol,Cursed Symbol
-NPC_GIVESYMBOL,Give the Symbol,Give the Symbol
-NPC_HAELLETTER,Hael's Letter,Hael's Letter
-NPC_GIVELETTER,Give Letter,Give Letter
-NPC_TREASURE_BOX,Treasure,Treasure
-NPC_LOSTMEMORIES,Lost Memories,Lost Memories
-NPC_BREWINGPOTIONS,Brewing Potions,Brewing Potions
-NPC_THECURE,The Cure,The Cure
+NPC_CURSEDSYMBOL,Cursed Symbol,诅咒象征
+NPC_GIVESYMBOL,Give the Symbol,交出象征
+NPC_HAELLETTER,Hael's Letter,海尔的信
+NPC_GIVELETTER,Give Letter,交出信笺
+NPC_TREASURE_BOX,Treasure,财宝
+NPC_LOSTMEMORIES,Lost Memories,遗失记忆
+NPC_BREWINGPOTIONS,Brewing Potions,酿造药水
+NPC_THECURE,The Cure,治愈
 NPC_GUIDETOFLYING,Guide to Flying,飞行操作指南
 NPC_GUIDETOCOMBATFLYING,Guide to Combat Flying,飞行战斗指南
 NPC_SHOPS,Shops?,购买
 NPC_DEATH,Death?,死亡
 NPC_RECEIVEADDITIONALREWARDS,Receive additional rewards,获得额外奖励
-NPC_000044,"Welcome to Keakoon, human! I've got a favor to ask... C'mere!",欢迎你来到这，我们是奇昆族..可以请你帮我一个忙吗?
+NPC_000044,"Welcome to Keakoon, human! I've got a favor to ask... C'mere!",欢迎你来到这，我们是奇昆族.可以请你帮我一个忙吗?
 NPC_000045,Fathers Package,父亲的包袱
-NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?",你真奇怪喔!一般来说自己一个人是无法来到这的
+NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?",哼！真奇怪……像你这样的人怎么进来的？
 NPC_000047,"Thank you for saving my father, human. So what brings you here?",谢谢你救了我的父亲。对了，你来这里有什么事吗?
-NPC_000048,"Please, save my father. He's imprisoned east of here! Hurry!",请救救我的父亲，他被关押在东边的城市！
-NPC_000049,"Hrrmph, listen... I don't know how you found this place, and I don't care. Leave now! This place is too dangerous for your kind.",Hrrmph我不知道你怎么找到这个地方，但你最好尽快离开，此处危机四伏
-NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!",嘿！我是得安 - 奇昆族长蓝彼的儿子，你们人类看不起我们，但其实你们才是劣质品种！
-NPC_000051,"This place is too dangerous for the likes of you, silly human. Go home!",Hrrmph 这个地方太危险的，回家吧，立刻！马上！
-NPC_000052,Here is the package my father left me... Hrrmph!,这是我的父亲给我的包袱Hrrmph
+NPC_000048,"Please, save my father. He's imprisoned east of here! Hurry!",请救救我的父亲，他被关押在东边！
+NPC_000049,"Hrrmph, listen... I don't know how you found this place, and I don't care. Leave now! This place is too dangerous for your kind.",哼，听着……我不知道你是怎么找到这个地方的，无论如何，马上离开！这里对你们来说太危险了。
+NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!",哼~我是得安 - 奇昆族长蓝彼的儿子，你们人类看不起我们，但其实你们才是劣质品种！
+NPC_000051,"This place is too dangerous for the likes of you, silly human. Go home!",哼，这个地方太危险的，回家吧，立刻！马上！
+NPC_000052,Here is the package my father left me... Hrrmph!,这是我的父亲给我的包袱~哼。
 NPC_000053,*Sigh* this might take a while...,唉，这可能需要一段时间
 NPC_000054,"What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy.",什么人?敢到在这里来?不是勇敢就是纯粹的疯狂
-NPC_000055,"Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!",哼!!一个个的人类...这里不欢迎你们，快快滚出我的视线，害虫们！
-NPC_000056,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!,哼!我没有自我介绍的人喜欢你
+NPC_000055,"Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!",哼!!又是人类...这里不欢迎你们，快快滚出我的视线，害虫们！
+NPC_000056,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!,我是谁？哈！我才不会和人类这种家伙打交道呢。滚开！
 NPC_000057,"Beat it, human! You're not welcome here!",回家吧人类！这里不欢迎你
 NPC_000058,*Whistles*,*吹口哨*
 NPC_000059,"Gwarrll! You just gonna stand there, or are you gonna get me out of here? You know, people don't necessarily like to be stared at...",Gwarrrrrr！你就干站在那里，还是来救我离开这里？我知道，你不一定不喜欢被一直盯着吧...
@@ -54,7 +54,7 @@ NPC_000061,"*Snort!* A human, eh? Very interesting... I haven't seen one of you 
 NPC_000062,Feel free to come see me whenever you are in need of magical goods.,需要魔法物品的时候随时来找我哦。
 NPC_000063,Nice to meet you. Have you also come to research the magical fields surrounding the islands?,很高兴见到你。你也是来研究岛屿周围的魔法领域的吗？
 NPC_000064,My name is Ciel and I am doing research on the various magical phenomena in the area.,我的名字是西埃尔，我在对瑞加大陆上某些地区的魔法现象做研究
-NPC_000065,Farewell!,再见罗~
+NPC_000065,Farewell!,再见~
 NPC_000066,Come to me if you seek absolution.,如果你在寻求赦免，请来找我。
 NPC_000067,Are you here for confession?,你来这儿是为了忏悔的吗?
 NPC_000068,Your aura shines brightly. May it never again lose its brilliance.,你的光环闪耀着光芒。愿它永远不再失去光彩。
@@ -65,7 +65,7 @@ NPC_000072,"You will not survive here without a shield, friend.",没有盾牌，
 NPC_000073,Huh? Do you want something from me? Then speak up!,咦?你想从我得到东西?
 NPC_000074,"My name is Rocbin and I came here for a number of reasons, none of which I would like to discuss with you at this time. Now shoo!",我的名字是罗宾，我来这里有很多原因，但我现在不想和你讨论这些。嘘！！
 NPC_000075,Take care! ,保重
-NPC_000076,Looking to work on your terrible equipment? Allow me to assist you!,想要你那糟糕的设备工作？让我来帮你吧！
+NPC_000076,Looking to work on your terrible equipment? Allow me to assist you!,要用你那糟糕的设备工作吗？让我来帮你吧！
 NPC_000077,Hahaha! You look like the rest of those felons. What brings you here?,哈哈哈！你看起来像个重罪犯。是什么风把你吹来的？
 NPC_000078,"Greetings, adventurer! I am Shun, your friendly neighborhood arms dealer. I don't care who you are, a customer is a customer. Come right over and buy my gear!",你好，冒险者！我是顺，你身边友好的武器商。我不在乎你什么身份，我的顾客就是顾客。快过来买我的装备吧！
 NPC_000079,Hehehe! Alright I hope we can hang out together someday.,哈哈哈哈！好吧，我希望我们能一起出去逛一天
@@ -101,31 +101,31 @@ NPC_000108,"Greetings, traveler! You are welcome to visit the Erons Factory as l
 NPC_000109,My name is Amadolka Liviehindekinas. I am in charge of security here at the Erons Factory. Why do you ask?,我的名字是艾玛都卡，负责绿磷石工厂的安全。 你问这个作甚？
 NPC_000110,"Be careful out there, traveler! I'll stand guard here!","不要担心啦,保持着安稳的心去旅行吧!这里有我来守护就足够了!"
 NPC_000111,I'm such a coward! *Cries*,呜呜...我是胆小鬼...
-NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,"不要跟我说话,我的倒楣气死可能会跑到你那边哦!"
-NPC_000113,I'm the Mysterious Teller of Tales! Wanna hear something spooky?,我是神秘故事讲述着！想听些恐怖的事情吗？
-NPC_000114,Stop by anytime you wanna hear a spooky story!,是为了你自己的利益
+NPC_000112,The curse has been removed for the 3rd time now. Please don't get cursed again or it will be the last time for sure.,诅咒已经第三次被移除。请不要再被诅咒，否则这将是最后一次。
+NPC_000113,I'm the Mysterious Teller of Tales! Wanna hear something spooky?,我是神秘故事讲述人！想听些恐怖的事情吗？
+NPC_000114,Stop by anytime you wanna hear a spooky story!,想听诡异的故事，可以随时光临！
 NPC_000115,ID Card,通行证
 NPC_000116,Hello there! How are you today!,你好!你好!你好吗?
-NPC_000117,"Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly.",恩?有问题要问我吗?可是我知道的不多呢!
-NPC_000118,That's none of your business and I'll thank you to stay out of my personal affairs.,问我的近况吗?呵呵~谢谢你的关心啦!
+NPC_000117,"Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly.",嗯，是吗？有话直说，否则不要打扰我。我正忙着固定这些钢板。
+NPC_000118,That's none of your business and I'll thank you to stay out of my personal affairs.,这不关你的事，谢谢你的不再过问。
 NPC_000119,"Alright, hope to see you soon!",希望下次还能再见到你
 NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trillipy room in the mines, right? You should find Andre. I heard he spends most of his time in a forest filled with many ancient trees.",哦！你正在寻找进入秘密房间的ID卡吗？你应该去找安德烈。我听说他在有很多古老的树的森林里！
-NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!",欢迎!这里是在卖食物的沃尔波尔餐饮店喔~
-NPC_000122,What do you want already?! I've got things to do!,你想要点什么?
-NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",餐饮店当然是卖食物的啊..懂了吧?我还要说明这些吗?
+NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!",幸会，冒险者们！我叫沃尔波尔 ，是城里最好的厨师！
+NPC_000122,What do you want already?! I've got things to do!,你要什么?！我很忙！
+NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",我是镇上最棒的厨师，明白了吗？任何说我不是的人，都欢迎来和我的菜刀讨论。我的菜单上可不只有*串鸡*……
 NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.","我是在达肯经营餐饮店的沃尔波尔,请多多捧场!"
 NPC_000125,"See ya later, alligator! Mmm, alligator... that gives me an idea for a new dish!",请慢走
-NPC_000126,"Only the bravest adventurer can hope to succeed on the path of the Knight Hero, Billaon. Are you worthy?",只有最勇敢的冒险家才有希望在骑士英雄，毕雷恩的道路上成功。你值得这么做吗？
-NPC_000127,We must never forget the sacrifice of the Heroes. We are here to train those who wish to follow their path in hopes of a worthy successor.,"世界恢复光明和平时,他们英勇的事迹是不会被人们淡忘的!"
-NPC_000128,"I am Guardian Boneper. I'm here to protect the will of Billaon, the Knight Hero, at all costs. We are seeking those who are worthy enough to follow the path of the Knight Hero.",我是守卫者波内佩拉。我是来保护骑士英雄，毕雷恩的，我会不惜一切代价。我们在寻找那些足够值得追随骑士英雄之路的人。
+NPC_000126,"Only the bravest adventurer can hope to succeed on the path of the Knight Hero, Billaon. Are you worthy?",只有最勇敢的冒险家，才有机会在骑士英雄-毕雷恩的道路上成功。你够格吗？
+NPC_000127,We must never forget the sacrifice of the Heroes. We are here to train those who wish to follow their path in hopes of a worthy successor.,我们绝不能忘记英雄们的牺牲。我们期望培养出更多够格的继承者，沿着他们的道路继续前行。
+NPC_000128,"I am Guardian Boneper. I'm here to protect the will of Billaon, the Knight Hero, at all costs. We are seeking those who are worthy enough to follow the path of the Knight Hero.",誓死保护骑士英雄毕雷恩的意志。我是护侍波内佩拉，正在寻找那些足以追随骑士英雄之路的人。
 NPC_000129,"May the courage of Billaon be with you, adventurer.",愿毕雷恩的勇气与你同在，冒险家。
-NPC_000130,We are here to protect the will of the Heroes. Are you worthy to become a successor of the Billposter Hero?,支持暴力技师英雄罗瓦特的人们啊
-NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.","不管是生是死,英雄的意志要传承下去!"
-NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.",我是守护暴力技师英雄罗瓦特的暴力技师守护使者卡帕菲。
+NPC_000130,We are here to protect the will of the Heroes. Are you worthy to become a successor of the Billposter Hero?,保护英雄们的意志，你有资格成为暴力技师英雄的继承者吗？
+NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",过于沉湎谢莉德、依普利和波卜尔意志的人终将被吞噬。跟随英雄们的道路，你不会迷路。
+NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.",我是守护暴力技师英雄罗瓦特的暴力技师护侍卡帕菲。
 NPC_000133,The power of Roentel will protect and guide you.,以罗瓦特的力量为荣!
 NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,稀有金属和矿物存在于达肯矿洞的深处。
-NPC_000135,You looking for some adventure? Why not discover the mystery of the curse of Darkon? ,你对冒险很好奇喔?那你可以去尝试去揭开达肯的秘密喔~
-NPC_000136,"Now's not the time for pleasantries, my simple-minded friend. Besides, I know you don't actually care. No one does...",向我问好喔...没想到会有人来和我说话...不要啰嗦了啦!快说，你来找我的目的是什么?
+NPC_000135,You looking for some adventure? Why not discover the mystery of the curse of Darkon? ,没有冒险很无聊吗？为什么不来揭开达肯诅咒的神秘面纱？
+NPC_000136,"Now's not the time for pleasantries, my simple-minded friend. Besides, I know you don't actually care. No one does...",现在不是开玩笑的时候，笨蛋。我看你根本不在乎这事。嗯，没人在乎……
 NPC_000137,"Fine, leave if you want to! I don't need your help, fool! ","你快走,我不需要你的帮助,没人会关心我,我也不会关心任何人!"
 NPC_000138,"Have you ever heard the name Neverant? Few know it now, but long ago it was the top-ranking mining guild in Darkon. I used to be a member of that guild.",你听说过Neverant这个名字吗？现在很少有人知道，但在很久以前，它是达肯的顶级矿业公会。我曾经是那个公会的成员。
 NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart by a terrible curse that emanated from the mine itself. Ironic, isn't it?",如今，Neverant公会已不复存在。它的等级制度被矿井深处的可怕诅咒撕裂了。很讽刺，不是吗？
@@ -141,33 +141,33 @@ NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. 
 NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,"你说你不认识我,好歹我是看守这里的人耶!"
 NPC_000150,"Farewell, strange one.",祝你好运喔~
 NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!",喂!那边有没有人可以救我啊!
-NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!",喂!你不要站在那边发呆啦。不如来救我一下好不好啊?
+NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!",哦，感谢莱斯神，我就知道有人会来！哦，谢谢，谢谢，谢谢！呃，你站在那里干什么？放我出去，该死！！
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.","我?我是最棒的演员凯乐拉。虽然现在是这个样子,唉...."
 NPC_000154,What?! HEY! I thought you were going to release me. I'll get you for this!,喂!怎么就这样走掉了啊?把我救出来再走啊!王八蛋!
 NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,跟随莉莉普的教诲，你会发现元素的奥秘
-NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.",你好，我的朋友。听着，无论这个世界上发生什么，你都不能失去希望。只要我们追随着英雄之路，就不会惧怕任何艰难险阻。
-NPC_000157,"My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip.",我的名字是柯登皮斯，我是元素英雄莉莉普的 9 位祭司之一。我正在向他的继任者传授莉莉普的智慧。我为那些追随莉莉普的人提供指导。
+NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.",谨记，无论这个世界上发生什么，你都不能失去希望。只要我们追随英雄之路，就不会惧怕任何艰难险阻。
+NPC_000157,"My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip.",我叫柯登皮斯 ，是元素英雄莉莉普八祭司之一。我如今为其继任者传授莉莉普的智慧，并提供指导。
 NPC_000158,"Farewell, young one. May Lillip guide and protect you.",再见了，年轻人。愿莉莉普引导并保护你。
 NPC_000159,"Heren, your legacy will carry on and your courage will not be forgotten.",海琳！您的遗志将被继承，您的勇气将不会被遗忘。
-NPC_000160,"The might of the Blade will stand against those who seek to destroy us. Heren, the Blade Hero, has left a great legacy. ",刀锋的力量将对抗那些试图摧毁我们的人。刀锋英雄海琳留下了伟大的遗产。
-NPC_000161,"My name is Corel Anduril, and I am the Blade Master of Darken City. I was well known as a Blade Dancer before the war. Now, it is my duty to select those worthy of becoming a Blade and prepare them for what lies ahead.",我的名字是席瑞儿 安得利尔，我是黑暗之城的剑圣。战前，我以剑舞者的身份而闻名。现在，我的职责是选择那些值得成为剑士的人，并让他们为未来做好准备。
+NPC_000160,"The might of the Blade will stand against those who seek to destroy us. Heren, the Blade Hero, has left a great legacy. ",刀锋的力量将对抗那些试图摧毁我们的人，这是刀锋英雄海琳留下的伟大遗赠。
+NPC_000161,"My name is Corel Anduril, and I am the Blade Master of Darken City. I was well known as a Blade Dancer before the war. Now, it is my duty to select those worthy of becoming a Blade and prepare them for what lies ahead.",我的名字是科瑞尔，我是达肯的刀锋大师。战前我以刀锋舞者的身份而闻名。现在，我的职责是选择那些有资格成为刀锋战士的人，让他们为未来做好准备。
 NPC_000162,"May Heren be with you, always.",愿海琳永远与你同在。
 NPC_000163,"I honor the spirit of Offerep, the Psykeeper Hero.",精神使者英雄欧布华啊~您的精神永为人们所歌颂!
 NPC_000164,"Their last battle will resonate throughout eternity. The Heroes sacrificed themselves to save all of Madrigal. We are forever in their debt. Take with you the teachings of Offerep, adventurer.",他们的最后一场战斗已被人们铭刻在心。英雄们牺牲了自己来拯救整个瑞加。我们永远亏欠着他们。
-NPC_000165,"My name is Cylor Mesmor and I am the Psykeeper Master. I guide those wishing to become Psykeepers. I have committed many sins in the past, and through the grace of Offerep, I have been forgiven.",我就是精神使者首领，有需要我帮忙的吗？
+NPC_000165,"My name is Cylor Mesmor and I am the Psykeeper Master. I guide those wishing to become Psykeepers. I have committed many sins in the past, and through the grace of Offerep, I have been forgiven.",我叫塞乐 ，精神使者大师。我引导那些愿为精神使者的人。我过去犯下了许多罪过，后来通过费勒普的恩典得到了宽恕。
 NPC_000166,Only through careful study will you learn the wisdom of the Psykeeper.,希望能像精神使者那般有坚定的意志!
 NPC_000167,Madrigal's ecosystem is so strange and mysterious! I love it!,瑞加大陆的生态系统是如此的奇怪和神秘！我喜欢！
 NPC_000168,"The masquerpets you see here around us were once the machines used in the Erons Factory down south. However, the exposure to waste coming from the factory turned them into the monsters they are today.",你在这里看到的我们周围的怪物曾经是南方的绿磷石工厂使用的机器。然而，由于接触到来自工厂的废物，它们变成了今天的怪物。
-NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?,我很惊讶你没有听说过我。我是依斯特博士，我研究瑞加大陆的生态系统。我和我的两个兄弟很高兴能尽可能多地了解瑞加大陆。你见过我的兄弟吗？
+NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?,我很惊讶你没有听说过我。我是依斯特博士，我研究瑞加大陆的生态系统。我和我的两个兄弟乐于不断深入研究瑞加大陆。你见过我的兄弟吗？
 NPC_000170,"Watch yourself out there, friend. Some creatures can be quite dangerous!",请小心，朋友，这里的生物非常非常危险的！
 NPC_000171,The will of Hynan will lead you to victory.,海楠的意志将会带领你走向胜利。
 NPC_000172,This is what you must to do.,这是你必须要做的
-NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.",英雄们为保护我们免受沙德的邪恶假面军队而奋战。我们的生活都归功于他们。这就是为什么我的毕生奉献给勇敢的游侠，海楠。
+NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.",英雄们奋力保护我们免受谢莉德军团的攻击。我们赖以生存的一切，都归功于他们。这就是为什么我将我的一生奉献给勇敢的游侠英雄海楠。
 NPC_000174,"I am Eliff, the Ranger Master. I have devoted my life to Hynan's legacy, and my duty is to pass along all that I have learned from him. I have sworn to uphold this promise until my last, dying breath. ",我是游侠大师艾莉芙。我一生都奉献给了海楠的遗产，我的职责是将我从他那里学到的一切传承下去。我发誓要坚守这个承诺，直到我生命最后一息。
-NPC_000175,"Hynan watches over us all. Go in peace, my friend.",海楠看着我们所有人。安息吧，我的朋友。
+NPC_000175,"Hynan watches over us all. Go in peace, my friend.",海楠在上。安息吧，我的朋友。
 NPC_000176,Aenn's blessing on this world will be remembered forever.,艾诺对这个世界的祝福将被永远铭记。
 NPC_000177,"Aenn, the Ringmaster Hero, was one of the most important of all of our brave Heroes. Aenn's rejuvenating magic blessed our brave heroes in battle.",艾诺，是我们所有最勇敢的英雄最重要的一位守护者英雄。艾诺的复活魔法在战斗中保佑着我们勇敢的英雄。
-NPC_000178,"Hi! It is very nice to meet you. My name is Ellend Eledyo and I am the Ringmaster Master. Pretty cool title, huh? I love it, and what's more, I love guiding pupils on the path of the Ringmaster Hero, Aenn.",hi！很高兴见到你。我的名字叫艾伦德·艾莱迪奥，我是一名守护使者大师。很酷的称号是吧？我很喜欢，更重要的是，我也爱指引学生走上守护使者英雄，艾诺的道路。
+NPC_000178,"Hi! It is very nice to meet you. My name is Ellend Eledyo and I am the Ringmaster Master. Pretty cool title, huh? I love it, and what's more, I love guiding pupils on the path of the Ringmaster Hero, Aenn.",嗨！很高兴见到你。我的名字叫爱岚德，我是一名守护使者大师。很酷的称号是吧？我很喜欢，更重要的是，我热·爱指引学生走上守护使者英雄-艾诺的道路。
 NPC_000179,Pray to Aenn for protection and you will have it.,向艾诺祈求保护，你将会得到它！
 NPC_000180,A great creature is imprisoned here. Are you ready to challenge him?,一个伟大的生物被囚禁在这里。你准备好挑战它了吗？
 NPC_000181,"Why do you wish to challenge Clockworks?\n1 [For Honor!][IDS_NPC_ForHonor] \n2 [For Fun!][IDS_NPC_ForFun] \n3 [Meh, just because?][IDS_NPC_MehJustBecause]",你为什么要挑战这个怪物?\n1[为了名誉][荣誉] \n2[娱乐而已][乐趣] \n3[没有任何理由][正因为]
@@ -202,7 +202,7 @@ NPC_000242,"Aenn will always be with you, my friend.",艾诺的祝福会带给�
 NPC_000243,"You there, do you wish to follow in the footsteps of Curenen, the Jester Hero?",[暗杀英雄]凯奈的继承人啊~你已经准备好走暗杀之路了吗?
 NPC_000244,"What you do from this point forward, is entirely up to you. Whether I help you or not, is also up to you.",从现在开始，您要做什么，完全取决于您。我是否帮助你，也取决于你。
 NPC_000245,"Some people admire the Heroes, while some criticize them for their actions. However, regardless of what they did or didn't do, they saved us all and we must be thankful for that.",有些人尊敬他...有些人毁谤他...可是他帮助了所有的人....
-NPC_000246,"I am the Jester Guardian Heingard, the protector of the will of the Jester Hero, Curenen.",我是暗杀的[守护使者]海音卡罗德
+NPC_000246,"I am the Jester Guardian Heingard, the protector of the will of the Jester Hero, Curenen.",我是暗杀护侍海音卡萝德
 NPC_000247,May the strength of Curenen be with you always.,[暗杀英雄]凯奈祝福你...
 NPC_000248,*Ugh* I've got a headache the size of Madrigal!,唉，我真为瑞加大陆的面积感到头痛！
 NPC_000249,"It is your duty, don't forget that.",这是您的义务
@@ -311,7 +311,7 @@ NPC_000351,"My name is Ride Ropeaedilo, and I am the Billposter Master.","我是
 NPC_000352,I hope the courage of Roentel will be delivered to you.,罗瓦特会祝福您的!
 NPC_000353,"You, who wants to follow the Ringmaster hero Aenn. Do you believe in the will of the hero?",你想追随守护使者英雄艾诺吗？你相信英雄的意志吗？
 NPC_000354,The world will be divided into two factions. Those who follow the heroes and those that follow those who the heroes face.,"世界一分为二,英雄跟怪物们!各有各的信徒!"
-NPC_000355,"My name is Romvoette Guardian I am protecting the will of Aenn, the Ringmaster hero.",我是[守护使者英雄]艾诺的保护者[守护使者]隆波艾达。
+NPC_000355,"My name is Romvoette Guardian I am protecting the will of Aenn, the Ringmaster hero.",我是[守护使者英雄]艾诺的保护者守护使者护侍隆波艾达。
 NPC_000356,The teardrops of Aenn will protect you.,艾诺的眼泪会保护你。
 NPC_000357,The best armors are here. I am Rocky the Armor artist.,来~来~来~最棒的防具都在这边!!
 NPC_000358,Hey! Can you do anything about this?,嘿!你能对这有什么法子吗?
@@ -324,11 +324,11 @@ NPC_000364,I am honoring the Ranger hero Hynan as one of the 8 Priests of Altar.
 NPC_000365,May the blessing of Hynan be with you always.,愿海楠的祝福永远与你同在。
 NPC_000366,"You, who want to follow the Blade hero Heren, are you ready to follow the hero?",暗杀英雄海琳的信徒们~你们准备好了吗?
 NPC_000367,The Clowns will have their amusement. And their amusement will destroy the world.,让怪物随意在这世界上作乱，这是决不允许的事情!
-NPC_000368,"My name is Sencyrit Guardian. I am protecting the will of Heren, who is the Blade hero.",我是[暗杀者守护使者]桑希里特!
+NPC_000368,"My name is Sencyrit Guardian. I am protecting the will of Heren, who is the Blade hero.",我是刀锋战士护侍桑希里特!
 NPC_000369,Heren will bless you forever.,海琳会祝福你的~请放心吧!
 NPC_000370,"You, who want to follow the Psykeeper hero Offerep, do you honor the will of hero?",精神使者英雄欧布华的信徒们啊~你们听到召唤了吗?
 NPC_000371,Everything will end like it began.,我们都应该永远记住那些英雄!因为他们是无私的!
-NPC_000372,"My name is Shyniff Guardian. I am protecting the will of Offerep, the Psykeeper hero.",我是[精神使者守护使者]夏尼普。
+NPC_000372,"My name is Shyniff Guardian. I am protecting the will of Offerep, the Psykeeper hero.",我是精神使者护侍夏尼普。
 NPC_000373,The spirit of Offerep will strengthen your soul.,"请秉持着欧布华的崇高信念,努力奋斗下去! "
 NPC_000374,Everything you want is here in the Weapon Shop of Stima!,你们想要的武器都在我的商店贩卖喔!
 NPC_000375,What would you do for me?,你想为我做点什么?
@@ -342,7 +342,7 @@ NPC_000382,I am here to show vagrants the way.,身为训练官，我会引导你
 NPC_000383,Attention! Salute!,立正!敬礼!飞行!
 NPC_000389,"You, who want to become the successor of the Elementor hero Lillip, do you believe in the will of the hero?",元素使者莉莉普的信徒们~该是他们挺身而出的时候了!
 NPC_000390,You will be one of the 8 that watch the stars for a sign of their arrival.,"战争的烟火,掩盖住星星的光芒......"
-NPC_000391,"My name is Wendien Guardian. I am protecting the will of Lillip, the Elementor hero.",我是[元素使者守护使者]文嫡凌。
+NPC_000391,"My name is Wendien Guardian. I am protecting the will of Lillip, the Elementor hero.",我是元素使者护侍文嫡凌。
 NPC_000392,You will be enlightened with the wisdom of Lillip.,欢迎你们来到这里!
 NPC_000393,You will be enlightened with the wisdom of Lillip.,欢迎你们来到这里!
 NPC_000394,"A piece of advice? A Mercenary's weapon is their livelihood. You must dedicate your life to the blade, and in turn, it will protect you. ","如果想要得到自己想要的东西,那就要有所付出.请记住这一点喔."
@@ -535,7 +535,7 @@ NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We ha
 NPC_000609,Need a moment? Grab a chocolate bar from Losha's Premium Foods Shop!,"帕里镇最佳餐饮店,请大家多多捧场喔!"
 NPC_000610,"I wonder, can you do something for me? I could really use your help.",我能为您做些什么事吗?
 NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?",目前我跟我妹妹以及叔叔3个人一起生活~我觉得很幸福了.
-NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?","我是在帕里镇经营拉拉餐饮店的苏丹,虽然很年轻,但是我可是瑞加第一餐饮师喔!"
+NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?",我叫萝夏，我和学徒苏丹、妹妹萝娅都住在这，他们帮助经营我的食品店。有人告诉我，我是瑞加大陆最好的厨师！想尝尝紫菜卷吗？
 NPC_000613,"Thank you, come again!",下次再来喔~做更好吃的东西给你吃!
 NPC_000614,Hungry? Visit my sister Losha's Food Shop! *YUM*,要不要尝尝瑞加天才厨师的美食?!
 NPC_000615,"My sister and I make a lot of super yummy food! One day, I hope to open a shop of my own, but I still have a lot to learn. Will you try some of our delicious Chicken Sticks? The secret's in the sauce!","在这餐饮店的东西,都是我亲手做的,都很美味的喔!"
@@ -880,7 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!",你好！我为帕里的居民提供首饰服务，并为那些想要改装稀有武器的人制作和安装宝石。我也可以移除物品上的祝福和等级降低的属性等等！
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,我叫皮奇！我来这里是为了帮助波波酷，补充他的升级业务。欢迎你随时过来！
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",保重。记住，不管是什么宝石，你都可以来我这里进行处理！
-NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,我们没时间了！新上任的领主马上就要来了！
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,各位请注意！我们正在寻找新的导师。我会为你提供一些初步指导！
 NPC_001220,Come see me if you want to become a Mentor. ,如果你想成为一名导师，就来找我吧。
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",找到合适的人走导师的道路并不容易，这条路它并不适合所有人。
@@ -1064,7 +1064,7 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,谁将参加 #b马尼拉的决赛#nb 并赢得 #bFlyff2026年世界锦标赛#nb? 证明你是最棒的！
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",欢迎你，参赛者！我是 Flyff 世界锦标赛 (Flyff World Championship) 的负责人艾娃。我会用最好的装备和你交易，助你赢得这场比赛！
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",嗯…… 我能感觉到你是最强的 PvE 选手！不对，等等…… 或许是 PvP？哈哈，我也说不清。祝你好运！
 NPC_100124,May the best win!,愿强者胜出！
@@ -1122,12 +1122,12 @@ NPC_100174,"Should your determination remain steady, the day may dawn when the k
 NPC_100175,"The journey to uncover the island's arcane mysteries lies before you, should you dare to embark upon it.",揭开这座岛屿神秘奥秘的旅程，就在你眼前 ———— 只要你敢踏上征途。
 NPC_100176,My desire is to witness the revelation of Ultimate power in those who prove themselves worthy of such extraordinary gifts.,我渴望见证，终极之力在那些证明自己配得上这份非凡馈赠的人身上，彻底显现。
 NPC_100177,"Return to my side bearing the essence of Ultima, and in exchange, I shall bestow upon you a fragment of the unfathomable Ultimate power.",带着终极精粹回到我身边，作为交换，我将赠予你一丝深不可测的终极之力碎片。
-NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!
+NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,新年快乐~!\n愿2024年的新年充满乐趣的冒险！
 NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?",你好！我想请你帮个忙，你愿意听我说说吗？
 NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?",你听过那个传闻吗？有个铁匠，满心只想着他深爱的人，可他的爱人在一场意外中离世，他也随之逝去了。当情侣戴上这对戒指，心里想着要去见对方时，就能瞬间飞到爱人身边 ———— 这简直太神奇了，不是吗？
 NPC_100181,Do you want to exit the dungeon?,你想要退出副本吗？
 NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you",你知道吗？贝壳在海里打磨得越久，就会变得越漂亮。我曾见过被打磨得无比精美的贝壳，美极了。\n我知道去哪里找能打磨蛤蜊的材料。你能去那里取来材料，帮我打磨贝壳吗？那里虽然危险，但对你来说，或许会是一场超棒的冒险之旅呢。
-NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...","It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history..."
+NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...",今天是Flyff成立20周年！您如何庆祝这个美好的时刻？我要回忆，阅读各种历史……
 NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",要想让我把任务交给你，和你结成情侣的另一方必须同时在线才行！
 NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!",我是丘比特，天界派来的爱之使者。我奉命让瑞加这片大地充满爱意。如果你心有所属，别再犹豫 ———— 用戒指，向你爱的人告白吧！
 NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",你好呀。在瑞加过得还愉快吗？如果你想开拓眼界、提升实力，就来找我吧。
@@ -1168,7 +1168,7 @@ NPC_150023,Call me Kras. I protect this village.,叫我克拉斯就好。我守�
 NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,我以前也和你一样是个冒险家…… 直到我的膝盖中了一箭。
 NPC_150025,A new face. I hope we stay on friendly terms.,新面孔啊，希望我们能和睦相处。
 NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.",我是梅伦。我已经战斗很久了，而且我会一直战斗下去，直到我们胜利。
-NPC_150027,You’re not ready.,You’re not ready.
+NPC_150027,You’re not ready.,您还没有准备好。
 NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,今天真是巡逻的好日子。对我来说，根本就没有所谓的坏天气。
 NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,我是凯里恩，正在巡逻 —— 如果发现任何可疑情况，立刻告诉我。
 NPC_150030,"Go, adventurer… go.",去吧，冒险者…… 去吧。
@@ -1346,40 +1346,40 @@ NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may t
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,我是艾尔伦的镇长。繁花与人民的和谐共生，是我最珍视的瑰宝。今日在这巨木荫蔽之下，有何事我能为您效劳？
 NPC_150200,Farewell!,再见!
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,我发现一个亟待处理的安全隐患，您能即刻应对吗？
-NPC_100198,Let luck do its thing.,Let luck do its thing.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
-NPC_100200,Wanna test your luck?,Wanna test your luck?
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
-NPC_150203,Good Luck!,Good Luck!
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
-NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
-NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
-NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
-NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
-NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
-NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
-NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
-NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.
-NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!","Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!"
+NPC_100198,Let luck do its thing.,让运气发挥到极致。
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,我用碎片和财富来交易。 \n 想试试你的运气吗？
+NPC_100200,Wanna test your luck?,想试试你的运气吗？
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Lv165公会战申请 #cff8a004f已开启! 三转之前可参加，享受其中吧!#nc#nb
+NPC_150203,Good Luck!,祝你好运！
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,野外依然危机四伏。打起精神——里面那东西还没完呢。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",噢噢，你是警卫，对吧？我，我发誓，这不仅仅是耕作不好！蘑菇只是……变了。呃--有些不对劲，我告诉你……
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",看守终于注意到了，哼。花了你很长时间。如果您想，最好做好听取答案的准备。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",很吸引人，不是吗？这里的农作物不仅在腐化，还在改变。现在您来了，我们应立即报告此事。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",求求你，救命啊！这里的植物……它们在动，它们是活物！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",我是娅苗，我以前在这个农场工作……嗯，我想那应该算是个农场……
+NPC_155012,Please save me... I just want to get out of here...,请救救我……我只是想离开这里……
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",切 ，那些该死的狼人……如果我活着离开这里，他们会付出代价的…… ！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",我叫索棘。这本来不是什么要见血的事……不过现在可变得真有意思了，对吧？
+NPC_155015,"Damn it, there are still people trapped inside!",该死，还有人被困在里面！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,你是救援队派来的吗？太好了，你肯定需要我的观察记录。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",我是根须博士。我负责植物变异管理与栽培……好吧，以前是。现在我正在调查这起事件。
+NPC_155018,Hmm... I should document that mutation pattern...,嗯……我应该记录一下那个变异的方式……
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",事态很严重……想想如果在村子里发生这样的事情……\n我们需要控制它，而且要快。
+NPC_155020,Baron here. Have you found the three yet?,我是巴伦。你找到那三个了吗？
+NPC_155021,We don’t have much time. Every delay makes things worse.,我们时间不多了。每次延误都会让事情变得更糟。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,帮、帮帮我！我、我这样没法回村子！万、万一那些东西又出现了怎么办？我、我一个人不行的……
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",等等……你要把我丢在这里？ ！拜托，我求求你……我一个人做不到……
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,你...你做到了，非常感谢你！我……我不知道没有你我该怎么办，谢谢……
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,是你。很好。外面有什么东西在盯着我们……我绝不会让它破坏这次行动。保持警惕，跟紧我。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",胆小鬼，没有你的帮助，我怎么能保护外面的人呢？不可原谅！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,做得好。您已经证明了自己的价值。这就是我们需要的力量。我对此表示感谢和尊敬。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……这太出乎意料了，土壤下面的某些东西正在对你的出现积极做出反应。我需要时间观察它。数据可能至关重要。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",别慢下来。要是那些生物打断了我的读数，一切就全完了。我可不能再承受一次挫败了。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,读数现在很清楚了。您的保护使我能够收集我们需要的信息。做得好。这扭转了一切。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",就像我说的，我们不应该继续呆在这里了。土壤下方的活动升级速度比预期的要快。我们现在需要搬迁。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,不要把我丢在这里。这些生物对我携带的东西有反应。我需要你的掩护才能安全逃脱。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,你成功脱险了。很好。数据已安全回收，样本完好无损。这次远征圆满成功。谨此致谢。
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,嘿嘿~ 觉得自己够勇？我这就把你送进去，再跟恩塔妮丝过过招！
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,哦……好吧，准备好就来找我。
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,我是蘑莎。我负责看守此地，并为那些想再挑战一次恩塔妮丝的冒险者引路。
+NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!",嗨，我叫艾琳，这附近的 PvP 擂台我说了算。觉得你有两下子？进来练练，让我瞧瞧！

@@ -432,14 +432,14 @@ PROPSKILL_TXT_100083,Curse of the Demon Lord,恶魔领主的诅咒
 PROPSKILL_TXT_100084,"The Demon Lord has cursed you with overwhelming exhaustion, greatly reducing Speed, Attack Speed, and Casting Speed, and lowering all stats.",恶魔领主诅咒了你，你感到精疲力竭。
 PROPSKILL_TXT_100085,Blessing of the Golden Aibatt,慷慨
 PROPSKILL_TXT_100086,"Blessed by the Golden Aibatt's generosity, this monster grants 10% increased EXP and drop rates when defeated.",怪物们变得慷慨，掉率和经验值提升10%。
-PROPSKILL_TXT_100087,Shade's Swiftness,Shade's Swiftness
-PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.","Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster."
-PROPSKILL_TXT_100089,Iblis' Fortitude,Iblis' Fortitude
-PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.","Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage."
-PROPSKILL_TXT_100091,Bubble's Bulwark,Bubble's Bulwark
-PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.","Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks."
+PROPSKILL_TXT_100087,Shade's Swiftness,谢莉德的迅捷
+PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.",谢莉德是一位强大的恐惧与愤怒之神，祂通过向玩家灌注一阵疾风来赐予此 buff，这阵风能增强玩家的反应力，使其移动速度更快。
+PROPSKILL_TXT_100089,Iblis' Fortitude,依普利的坚韧
+PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.",依普利是一位受人敬畏的冷漠与中立之神，祂通过向玩家注入一股生命能量来赐予此 buff，这股能量能提升玩家的最大生命值，使其能承受更多伤害。
+PROPSKILL_TXT_100091,Bubble's Bulwark,波卜尔的庇护
+PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",波卜尔是一位传奇的欢乐与纯洁之神，祂通过制造一个强大的护盾来赐予此 buff，这个护盾为玩家提供额外的防御层，以抵御敌人的攻击。
 PROPSKILL_TXT_100093,Guild's Enhancement,公会增益
-PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,Donate G-Tokens to your guild and upgrade this enhancement's level!
+PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,向公会捐赠G-代币，提升本次强化等级！
 PROPSKILL_TXT_100095,Spiritual Overcharge,精神充能几率
 PROPSKILL_TXT_100096,Healing Grace,神圣祈祷几率
 PROPSKILL_TXT_100097,Prankster's Escape,王牌小丑几率
@@ -455,16 +455,16 @@ PROPSKILL_TXT_100106,Slowed,缓速
 PROPSKILL_TXT_100107,Waterbomb,水弹几率
 PROPSKILL_TXT_100108,Jungle Fever,丛林热
 PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever breaks.",疾病通过你的身体传播。希望能尽快解除。
-PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark's Launch Buff
-PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,Enjoy increased Experience and Drops up to Level 119!
+PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark开启Buff
+PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,享受提升的经验值，可生效至119级！
 PROPSKILL_TXT_100112,Artifact Power,神器之力
 PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!",我方队伍的神器数量将为攻击卡尔加斯附加额外伤害！
 PROPSKILL_TXT_100114,Kalgas Poison,卡尔加斯之毒
 PROPSKILL_TXT_100115,Poison spreads through your body.,剧毒在你体内蔓延。
 PROPSKILL_TXT_100116,Kalgas' Dominance,卡尔加斯的统治
 PROPSKILL_TXT_100117,The enemy team has claimed total dominance! Your team cannot damage Kalgas until an artifact is reclaimed.,敌方队伍已取得完全压制！在夺回神器之前，你的队伍无法对卡尔加斯造成伤害。
-PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,2nd Anniversary Guild's Enhancement
-PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!
+PROPSKILL_TXT_100118,2nd Anniversary Guild's Enhancement,二周年公会增益
+PROPSKILL_TXT_100119,Donate 2nd Anniversary Tokens to your guild and upgrade this enhancement's level!,向公会捐赠2周年纪念币，提升本次强化等级！
 PROPSKILL_TXT_100120,Poison (From Weapon),中毒 (来自武器)
 PROPSKILL_TXT_100121,Stun (From Weapon),晕眩 (来自武器)
 PROPSKILL_TXT_100122,Bleeding (From Weapon),流血 (来自武器)
@@ -1057,7 +1057,7 @@ PROPSKILL_TXT_150520,Stigma I,烙印 I
 PROPSKILL_TXT_150521,Increased Stigma,烙印层数提升
 PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",对直线上的单个目标发动迅捷穿刺攻击，施加一层烙印。若对拥有 5 层烙印的目标使用，该攻击会贯穿所有敌人。
 PROPSKILL_TXT_150523,Stigma II,烙印 II
-PROPSKILL_TXT_150524,Increased Targets,Increased Targets
+PROPSKILL_TXT_150524,Increased Targets,目标数增加
 PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",向目标发射锁链刀刃，将其束缚，持续旋转攻击周围敌人，随后锁链会连接至附近另一目标。有几率施加一层烙印。若对拥有5 层烙印的目标使用，攻击时会吸取生命值。
 PROPSKILL_TXT_150526,Stigma III,烙印 III
 PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",双持武器猛击目标，对其周围造成伤害，并施加一层烙印。若对拥有 5 层烙印的目标使用，会使其沉默。
@@ -1150,7 +1150,7 @@ PROPSKILL_TXT_150613,Increased Multiplier,系数提升
 PROPSKILL_TXT_150614,Reduced PvP Cooldown,PvP冷却降低
 PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,PvP冷却缩减。
 PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,最多复制记录伤害的100%。
-PROPSKILL_TXT_150617,First Player Level 190 Buff,First Player Level 190 Buff
+PROPSKILL_TXT_150617,First Player Level 190 Buff,首位190级达成Buff
 PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,享受15%经验加成，直到164级！
 PROPSKILL_TXT_150619,Stun duration is increased.,眩晕持续时间延长。
 PROPSKILL_TXT_150620,Increases the target's damage.,提升目标的伤害。
@@ -1158,72 +1158,72 @@ PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,
 PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,远程风属性攻击，有概率降低敌人的攻击速度与施法速度。
 PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.",以暗黑魔法诅咒敌人，使其陷入定身状态。。
 PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,对区域内的敌人造成持续伤害。
-PROPSKILL_TXT_150625,Burn Damage,Burn Damage
-PROPSKILL_TXT_150626,Lord's Cheer,Lord's Cheer
-PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,Increases the experience and drop rate for yourself or one target.
-PROPSKILL_TXT_150628,Lord's Blessing,Lord's Blessing
-PROPSKILL_TXT_150629,Increases attack and defense for yourself or one target.,Increases attack and defense for yourself or one target.
-PROPSKILL_TXT_150630,Lord's Love,Lord's Love
-PROPSKILL_TXT_150631,Increases stats for yourself or one target.,Increases stats for yourself or one target.
-PROPSKILL_TXT_150632,Lord's Shout,Lord's Shout
-PROPSKILL_TXT_150633,Your shout text is colored in green.,Your shout text is colored in green.
-PROPSKILL_TXT_150634,Lord's Anger,Lord's Anger
+PROPSKILL_TXT_150625,Burn Damage,灼烧伤害
+PROPSKILL_TXT_150626,Lord's Cheer,领主的鼓励
+PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,提升自己或一个目标的经验倍率和物品掉率。
+PROPSKILL_TXT_150628,Lord's Blessing,领主的祝福
+PROPSKILL_TXT_150629,Increases attack and defense for yourself or one target.,增加自己或一个目标的攻击力和防御力。
+PROPSKILL_TXT_150630,Lord's Love,领主的爱戴
+PROPSKILL_TXT_150631,Increases stats for yourself or one target.,提升自己或一个目标的属性值。
+PROPSKILL_TXT_150632,Lord's Shout,领主的呼吁
+PROPSKILL_TXT_150633,Your shout text is colored in green.,您的喊话文字是绿色的。
+PROPSKILL_TXT_150634,Lord's Anger,领主的愤怒
 PROPSKILL_TXT_150635,,
-PROPSKILL_TXT_150636,Lord's Call,Lord's Call
-PROPSKILL_TXT_150637,Summon the specified player to yourself.,Summon the specified player to yourself.
-PROPSKILL_TXT_150638,Lord's Teleport,Lord's Teleport
-PROPSKILL_TXT_150639,Teleport to the specified player.,Teleport to the specified player.
-PROPSKILL_TXT_150640,Lord's Party,Lord's Party
-PROPSKILL_TXT_150641,Any party skills used by you have increased duration. This skill is permanently enabled.,Any party skills used by you have increased duration. This skill is permanently enabled.
-PROPSKILL_TXT_100157,Overlap Damage,Overlap Damage
-PROPSKILL_TXT_100158,Overlap burning effect increases with each hit and deals extra damage at full stacks.,Overlap burning effect increases with each hit and deals extra damage at full stacks.
-PROPSKILL_TXT_100159,Pull Target,Pull Target
-PROPSKILL_TXT_100160,"Pulled toward the caster, unable to move.","Pulled toward the caster, unable to move."
-PROPSKILL_TXT_100161,Knock Back,Knock Back
-PROPSKILL_TXT_100162,Struck by a powerful blow and knocked back.,Struck by a powerful blow and knocked back.
-PROPSKILL_TXT_100163,Burning Impact,Burning Impact
-PROPSKILL_TXT_100164,"Ignited by the fiery impact, taking burn damage.","Ignited by the fiery impact, taking burn damage."
-PROPSKILL_TXT_100165,Toxic Impact,Toxic Impact
-PROPSKILL_TXT_100166,"Poisoned by the toxic impact, taking periodic damage.","Poisoned by the toxic impact, taking periodic damage."
-PROPSKILL_TXT_100167,Frost Impact,Frost Impact
-PROPSKILL_TXT_100168,"Slowed by the chilling impact, reducing movement and attack speed.","Slowed by the chilling impact, reducing movement and attack speed."
-PROPSKILL_TXT_100169,Shock Impact,Shock Impact
-PROPSKILL_TXT_100170,"Struck by a powerful impact, taking additional fixed damage.","Struck by a powerful impact, taking additional fixed damage."
-PROPSKILL_TXT_100171,Bleeding,Bleeding
-PROPSKILL_TXT_100172,Taking continuous damage from bleeding wounds.,Taking continuous damage from bleeding wounds.
-PROPSKILL_TXT_100173,Rampage,Rampage
-PROPSKILL_TXT_100174,"Enters a rampage state, increasing speed and attack power.","Enters a rampage state, increasing speed and attack power."
-PROPSKILL_TXT_100175,Overlap Defense Break,Overlap Defense Break
-PROPSKILL_TXT_100176,Overlap electric effect increases with each hit and lowers defense at full stacks.,Overlap electric effect increases with each hit and lowers defense at full stacks.
-PROPSKILL_TXT_100177,Defense Break,Defense Break
-PROPSKILL_TXT_100178,Reduces target's defense and magic resistance.,Reduces target's defense and magic resistance.
-PROPSKILL_TXT_100179,All Immunity,All Immunity
-PROPSKILL_TXT_100180,Protects the monster from all debuffs.,Protects the monster from all debuffs.
-PROPSKILL_TXT_100181,Slow,Slow
-PROPSKILL_TXT_100182,Reduces the target's movement speed for a short time.,Reduces the target's movement speed for a short time.
-PROPSKILL_TXT_100183,Stun,Stun
-PROPSKILL_TXT_100184,You are stunned and cannot move.,You are stunned and cannot move.
-PROPSKILL_TXT_100185,Groggy Weakness,Groggy Weakness
-PROPSKILL_TXT_100186,"While groggy, the target receives increased damage from all attacks.","While groggy, the target receives increased damage from all attacks."
-PROPSKILL_TXT_100187,Slow On Water,Slow On Water
-PROPSKILL_TXT_100188,Reduces movement speed while standing in water.,Reduces movement speed while standing in water.
-PROPSKILL_TXT_100189,Overlap Water Heal,Overlap Water Heal
-PROPSKILL_TXT_100190,Restores HP over time while the target is in water. Healing increases with each stack of the effect.,Restores HP over time while the target is in water. Healing increases with each stack of the effect.
-PROPSKILL_TXT_100191,Gathering Energy,Gathering Energy
-PROPSKILL_TXT_100192,Concentrates energy to greatly increase HP recovery for a short duration.,Concentrates energy to greatly increase HP recovery for a short duration.
-PROPSKILL_TXT_100193,Overlap Slow,Overlap Slow
-PROPSKILL_TXT_100194,"Reduces movement speed, with the slow effect becoming stronger as stacks increase.","Reduces movement speed, with the slow effect becoming stronger as stacks increase."
-PROPSKILL_TXT_100195,Overlap Freeze,Overlap Freeze
-PROPSKILL_TXT_100196,Applies a stacking chill effect that eventually freezes the target at full stacks.,Applies a stacking chill effect that eventually freezes the target at full stacks.
-PROPSKILL_TXT_100197,Freeze,Freeze
-PROPSKILL_TXT_100198,"Freezes the target, preventing movement and actions for a short duration.","Freezes the target, preventing movement and actions for a short duration."
-PROPSKILL_TXT_100199,Max HP Reduction,Max HP Reduction
-PROPSKILL_TXT_100200,Reduces the target's maximum HP for a short duration.,Reduces the target's maximum HP for a short duration.
-PROPSKILL_TXT_100201,Grabbed by Tentacle,Grabbed by Tentacle
-PROPSKILL_TXT_100202,"The target is restrained by a tentacle, unable to move and taking continuous damage.","The target is restrained by a tentacle, unable to move and taking continuous damage."
-PROPSKILL_TXT_100203,Stun,Stun
-PROPSKILL_TXT_100204,You are stunned and cannot move.,You are stunned and cannot move.
-PROPSKILL_TXT_100205,Sand Shield,Sand Shield
-PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Incoming damage is reduced to 1 for 5 seconds.
-PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
-PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."
+PROPSKILL_TXT_150636,Lord's Call,领主的召唤
+PROPSKILL_TXT_150637,Summon the specified player to yourself.,召唤指定玩家到自己身边。
+PROPSKILL_TXT_150638,Lord's Teleport,领主的传送
+PROPSKILL_TXT_150639,Teleport to the specified player.,传送到指定的玩家。
+PROPSKILL_TXT_150640,Lord's Party,领主的剧团
+PROPSKILL_TXT_150641,Any party skills used by you have increased duration. This skill is permanently enabled.,你使用的任何剧团技能的持续时间都会增加。此技能已永久启用。
+PROPSKILL_TXT_100157,Overlap Damage,叠加伤害
+PROPSKILL_TXT_100158,Overlap burning effect increases with each hit and deals extra damage at full stacks.,灼烧叠加效果随每次命中增强，并在叠满时造成额外伤害。
+PROPSKILL_TXT_100159,Pull Target,牵引目标
+PROPSKILL_TXT_100160,"Pulled toward the caster, unable to move.",被拉向施法者，无法移动。
+PROPSKILL_TXT_100161,Knock Back,击退
+PROPSKILL_TXT_100162,Struck by a powerful blow and knocked back.,受到强力打击并被击退。
+PROPSKILL_TXT_100163,Burning Impact,灼烧冲击
+PROPSKILL_TXT_100164,"Ignited by the fiery impact, taking burn damage.",被烈性冲击点燃，受到燃烧伤害。
+PROPSKILL_TXT_100165,Toxic Impact,剧毒冲击
+PROPSKILL_TXT_100166,"Poisoned by the toxic impact, taking periodic damage.",被毒性冲击毒害，受到周期性伤害。
+PROPSKILL_TXT_100167,Frost Impact,霜冻冲击
+PROPSKILL_TXT_100168,"Slowed by the chilling impact, reducing movement and attack speed.",被寒性冲击减速，降低移动和攻击速度。
+PROPSKILL_TXT_100169,Shock Impact,震荡冲击
+PROPSKILL_TXT_100170,"Struck by a powerful impact, taking additional fixed damage.",受到强力冲击，承受额外固定伤害。
+PROPSKILL_TXT_100171,Bleeding,流血
+PROPSKILL_TXT_100172,Taking continuous damage from bleeding wounds.,因流血伤口受到持续伤害。
+PROPSKILL_TXT_100173,Rampage,​暴走
+PROPSKILL_TXT_100174,"Enters a rampage state, increasing speed and attack power.",进入暴走状态，提升速度与攻击力。
+PROPSKILL_TXT_100175,Overlap Defense Break,叠加破甲
+PROPSKILL_TXT_100176,Overlap electric effect increases with each hit and lowers defense at full stacks.,叠加电击效果随每次命中增强，并在叠满时降低防御。
+PROPSKILL_TXT_100177,Defense Break,破甲
+PROPSKILL_TXT_100178,Reduces target's defense and magic resistance.,降低目标的防御与魔法抵抗。
+PROPSKILL_TXT_100179,All Immunity,完全免疫
+PROPSKILL_TXT_100180,Protects the monster from all debuffs.,保护怪物免受所有减益效果影响。
+PROPSKILL_TXT_100181,Slow,减速
+PROPSKILL_TXT_100182,Reduces the target's movement speed for a short time.,短时间内降低目标的移动速度。
+PROPSKILL_TXT_100183,Stun,眩晕
+PROPSKILL_TXT_100184,You are stunned and cannot move.,你被眩晕，无法移动。
+PROPSKILL_TXT_100185,Groggy Weakness,虚弱
+PROPSKILL_TXT_100186,"While groggy, the target receives increased damage from all attacks.",受到的所有攻击伤害增加。
+PROPSKILL_TXT_100187,Slow On Water,水中减速
+PROPSKILL_TXT_100188,Reduces movement speed while standing in water.,在水中站立时降低移动速度。
+PROPSKILL_TXT_100189,Overlap Water Heal,叠加水中治愈
+PROPSKILL_TXT_100190,Restores HP over time while the target is in water. Healing increases with each stack of the effect.,在水中时随时间恢复生命值。治疗效果随效果叠加层数增加。
+PROPSKILL_TXT_100191,Gathering Energy,聚能
+PROPSKILL_TXT_100192,Concentrates energy to greatly increase HP recovery for a short duration.,集中能量，短时间内大幅提升生命值恢复。
+PROPSKILL_TXT_100193,Overlap Slow,叠加减速
+PROPSKILL_TXT_100194,"Reduces movement speed, with the slow effect becoming stronger as stacks increase.",降低移动速度，减速效果随层数增加变强。
+PROPSKILL_TXT_100195,Overlap Freeze,叠加冰冻
+PROPSKILL_TXT_100196,Applies a stacking chill effect that eventually freezes the target at full stacks.,施加可叠加的寒冷效果，叠满时最终冰冻目标。
+PROPSKILL_TXT_100197,Freeze,冰冻
+PROPSKILL_TXT_100198,"Freezes the target, preventing movement and actions for a short duration.",冰冻目标，短时间内阻止其移动与动作。
+PROPSKILL_TXT_100199,Max HP Reduction,最大生命值降低
+PROPSKILL_TXT_100200,Reduces the target's maximum HP for a short duration.,短时间内降低目标的最大生命值。
+PROPSKILL_TXT_100201,Grabbed by Tentacle,触手缠绕
+PROPSKILL_TXT_100202,"The target is restrained by a tentacle, unable to move and taking continuous damage.",目标被触手束缚，无法移动并受到持续伤害。
+PROPSKILL_TXT_100203,Stun,眩晕
+PROPSKILL_TXT_100204,You are stunned and cannot move.,你被眩晕，无法移动。
+PROPSKILL_TXT_100205,Sand Shield,沙之护盾
+PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,5秒内受到的伤害降低至1。
+PROPSKILL_TXT_150642,Wave Defense Buff,波次防守Buff
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.",由你的防御者同伴提供强化。根据在场防御者的数量，提升攻击力、速度、防御力和最大生命值。

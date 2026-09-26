@@ -3248,7 +3248,7 @@ UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,圣歌伤害减免
 UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,圣歌移动速度
 UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,同类型宝石镶嵌
 UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?",同种宝石已镶嵌。再次镶嵌有 #cffff0000%d%%#nc 的成功率。若失败，宝石将被摧毁。是否继续？
-UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,注册终极宝石。
+UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,放置终极宝石。
 UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,你可以使用“宝石转换卷轴”转换终极宝石。宝石的阶位决定所需的卷轴种类。
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,%d 级宝石​
 UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,该宝石将随机转换为同阶的其他宝石。是否继续？
@@ -3387,7 +3387,7 @@ UI_MYSTCASTLE_REWARD_OTHERS,Others,其他
 UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","神秘城堡礼盒的等级\n与你通关的层数相当\n(如果你最后通关的\n层数是4,你将获得\n神秘城堡礼盒\nLv2)"
 UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,层数通关奖励
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,排名奖励
-UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,"进入将消耗一张Mysterious Castle retry coupon,是否继续？"
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,"进入将消耗一张神秘城堡重置券,是否继续？"
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,点击任意位置开始输入！​
 UI_DUNGEON_DEFEND,Defend,防守
 UI_DUNGEON_ESCORT,Rescue,营救

@@ -89,12 +89,12 @@ CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[弓箭手教官] 亨特
 CHARACTER_INC_000344,[Acrobat Master] Pyre,[弓箭手大师] 飞蕊
 CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[弓箭手训练助教] 塔利尔
 CHARACTER_INC_000348,[Jester Master] Lorein,[暗杀者首领] 萝丽安
-CHARACTER_INC_000350,[Jester Priest] Homeit,[暗杀祭司] 胡梅
-CHARACTER_INC_000352,[Jester Guardian] Heingard,[暗杀守护使者] 海音卡萝德
+CHARACTER_INC_000350,[Jester Priest] Homeit,[暗杀者祭司] 胡梅
+CHARACTER_INC_000352,[Jester Guardian] Heingard,[暗杀者护侍] 海音卡萝德
 CHARACTER_INC_000354,[Ranger Master] Eliff,[游侠首领] 艾莉芙
 CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高阶矮人族] 利绮安
 CHARACTER_INC_000358,[Ranger Priest] Rupim,[游侠祭司] 芦苹
-CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[游侠守护使者] 卡伊雷雅德
+CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[游侠护侍] 卡伊雷雅德
 CHARACTER_INC_000362,Santa,圣诞老人
 CHARACTER_INC_000364,Priest,华伦泰神父
 CHARACTER_INC_000366,Hans,杰佛瑞
@@ -167,32 +167,32 @@ CHARACTER_INC_000536,[Knight Master] Karandur,[骑士首领] 卡朗杜
 CHARACTER_INC_000538,[Knight Wise-man] Hormes,[骑士贤者] 霍鲁美斯.凯德
 CHARACTER_INC_000540,Kurmin,库鲁米．韩森
 CHARACTER_INC_000542,[Knight Priest] Lobiet,[骑士祭司] 拉薇特.黎
-CHARACTER_INC_000544,[Knight Guardian] Boneper,[骑士守护使者] 波内佩拉
+CHARACTER_INC_000544,[Knight Guardian] Boneper,[骑士护侍] 波内佩拉
 CHARACTER_INC_000546,[Blade Master] Corel,[刀锋战士首领] 科瑞尔
 CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[刀锋战士贤者] 加布里
 CHARACTER_INC_000550,Ata,阿塔
 CHARACTER_INC_000552,[Blade Priest] Jeperdy,[刀锋战士祭司] 杰普迪
-CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[刀锋战士守护使者] 桑希里特
+CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[刀锋战士护侍] 桑希里特
 CHARACTER_INC_000556,[Billposter Master] Ride,[暴力技师首领] 瑞得
 CHARACTER_INC_000558,[Billposter Wise-man] Domek,[暴力技师贤者] 道麦
 CHARACTER_INC_000560,Segho,佩辛
 CHARACTER_INC_000562,[Billposter Priest] Fera,[暴力技师祭司] 菲拉
-CHARACTER_INC_000564,[Billposter Guardian] Capafe,[暴力技师守护使者] 卡帕菲
+CHARACTER_INC_000564,[Billposter Guardian] Capafe,[暴力技师护侍] 卡帕菲
 CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守护使者首领] 爱岚德
 CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守护使者贤者] 可伯内特
 CHARACTER_INC_000570,Teshar,特莎
 CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守护使者祭司] 海登
-CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[守护使者] 隆波艾达
+CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[守护使者护侍] 隆波艾达
 CHARACTER_INC_000576,[Psykeeper Master] Cylor,[精神使者首领] 赛乐
 CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[精神使者贤者] 可林
 CHARACTER_INC_000580,Ryupang,鲁班
 CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[精神使者祭司] 安得利尔
-CHARACTER_INC_000584,[Psykeeper Guardian] Shyniff,[精神使者守护使者] 夏尼普
+CHARACTER_INC_000584,[Psykeeper Guardian] Shyniff,[精神使者护侍] 夏尼普
 CHARACTER_INC_000586,[Elementor Master] Horison,[元素使者首领] 赫雷森
 CHARACTER_INC_000588,[Elementor Wise-man] Cuzrill,[元素使者守贤者] 可滋利
 CHARACTER_INC_000590,Parine,佩琳
 CHARACTER_INC_000592,[Elementor Priest] Condram,[元素使者守祭司] 柯登皮斯
-CHARACTER_INC_000594,[Elementor Guardian] Wendien,[元素使者守护使者] 文嫡凌
+CHARACTER_INC_000594,[Elementor Guardian] Wendien,[元素使者护侍] 文嫡凌
 CHARACTER_INC_000596,Tomba,特巴
 CHARACTER_INC_000598,Eoners,伊那艾
 CHARACTER_INC_000600,Ghalade,葛列德
@@ -435,4 +435,4 @@ CHARACTER_INC_155001,[Captain] Baron,[队长] 巴伦
 CHARACTER_INC_155002,[Eillun Farmer] Sprout,[艾尔伦农人] 娅苗
 CHARACTER_INC_155003,[Eillun Farmer] Thorn,[艾尔伦农人] 索棘
 CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[艾尔伦农人] 根须博士
-CHARACTER_INC_155005,Musha,穆沙
+CHARACTER_INC_155005,Musha,蘑莎

@@ -779,9 +779,9 @@ ACHIEVEMENT_LEVEL_LVL6,Adept Level 3,3级老手
 ACHIEVEMENT_LEVEL_LVL7,Expert Level 1,1级大师
 ACHIEVEMENT_LEVEL_LVL8,Expert Level 2,2级大师
 ACHIEVEMENT_LEVEL_LVL9,Expert Level 3,3级大师
-ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,Professional Level 1
-ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,Professional Level 2
-ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,Professional Level 3
+ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,1级专长
+ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,2级专长
+ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,3级专长
 ACHIEVEMENT_USE_GRAYPILL_NAME,Gray Pill,灰色药丸
 ACHIEVEMENT_USE_GRAYPILL_DESC,"Eat 30,000 Gray Pills.","食用 30,000 个灰色药丸。"
 ACHIEVEMENT_USE_GRAYPILL_TITLE,Placebo,百忧解
@@ -812,8 +812,8 @@ ACHIEVEMENT_USE_HOTDOG_TITLE,Top Dog,夺魁者
 ACHIEVEMENT_USE_PIZZA_NAME,Pizza,馅饼
 ACHIEVEMENT_USE_PIZZA_DESC,"Eat 200,000 Pizzas.","食用 200,000 个馅饼。"
 ACHIEVEMENT_USE_PIZZA_TITLE,Cheesy,芝士味
-ACHIEVEMENT_USE_KIMBAP_NAME,Kimbap,寿司卷
-ACHIEVEMENT_USE_KIMBAP_DESC,"Eat 200,000 Kimbaps.","食用 200,000 个寿司卷。"
+ACHIEVEMENT_USE_KIMBAP_NAME,Kimbap,紫菜卷
+ACHIEVEMENT_USE_KIMBAP_DESC,"Eat 200,000 Kimbaps.","食用 200,000 个紫菜卷。"
 ACHIEVEMENT_USE_KIMBAP_TITLE,High Roller,豪客
 ACHIEVEMENT_USE_CHICKENSTICK_NAME,Chicken Stick,鸡腿
 ACHIEVEMENT_USE_CHICKENSTICK_DESC,"Eat 200,000 Chicken Sticks.","食用 200,000 个鸡腿。"
@@ -963,37 +963,37 @@ ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyff百科
 ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,翻译组奖励
 ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help translate the game.,为帮助制作游戏翻译的玩家们提供独特奖励。
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,汉化组
-ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
+ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,大师 60 - 70 级
 ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest.,完成第一个大师任务。
-ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Master 70 - 80
+ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,大师 70 - 80 级
 ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest.,完成第二个大师任务。
-ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Master 80 - 90
+ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,大师 80 - 90 级
 ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest.,完成第三个大师任务。
-ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Master 90 - 100
+ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,大师 90 - 100 级
 ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest.,完成第四个大师任务。
-ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Master 100 - 110
+ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,大师 100 - 110 级
 ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest.,完成第五个大师任务。
-ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Master 110 - 120
+ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,大师 110 - 120 级
 ACHIEVEMENT_MASTER110_DESC,Complete the final Master Quest.,完成最后一个大师任务。
 ACHIEVEMENT_MASTER120_NAME,Hero,英雄
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,英雄 120 - 125
 ACHIEVEMENT_MASTER120_DESC,Complete the first Hero Quest.,完成首次英雄任务。
 ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC参与者
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,Reach level 16 in the 2023 Flyff World Championship.
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,在2023年Flyff世界锦标赛中达到16级。
 ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC竞争者
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,Reach level 120 in the 2023 Flyff World Championship.
-ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC Arena 2nd
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,Get second place in the 2023 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC Arena 3rd
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,Get third place in the 2023 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC Arena Champion
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,Win the 2023 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC Colosseum Champion
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,Win the 2023 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC Colosseum 2nd
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,Get second place in the 2023 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC Colosseum 3rd
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,Get third place in the 2023 Flyff World Championship PvE Competition.
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,在2023年Flyff世界锦标赛中达到120级。
+ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC 斗技场亚军
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,在2023年Flyff世界锦标赛PvP比赛中获得第二名。
+ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC 斗技场季军
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,在2023年Flyff世界锦标赛PvP比赛中获得第三名。
+ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC 斗技场冠军
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,在2023年Flyff世界锦标赛PvP比赛中获得第一名。
+ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC 斗兽场冠军
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,在2023年Flyff世界锦标赛PvE比赛中获得第一名。
+ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC 斗兽场亚军
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,在2023年Flyff世界锦标赛PvE比赛中获得第二名。
+ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC 斗兽场季军
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,在2023年Flyff世界锦标赛PvE比赛中获得第三名。
 ACHIEVEMENT_ROULETTE_1,First Daily Login,首次连接
 ACHIEVEMENT_ROULETTE_2,Play 2 hours,玩2小时
 ACHIEVEMENT_ROULETTE_3,Play 4 hours,玩4小时
@@ -1013,20 +1013,20 @@ ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,飞车党
 ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,彩虹竞赛冠军
 ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow Race wins!,依彩虹竞赛获胜场次，领取专属奖励！
-ACHIEVEMENT_RAINBOWRACE_WINS_TITLE,Rainbow God,Rainbow God
+ACHIEVEMENT_RAINBOWRACE_WINS_TITLE,Rainbow God,彩虹大神
 ACHIEVEMENT_MASTER110_TITLE,Master,大师
-ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,Bonus Login Rewards
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.","Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over."
-ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC Beginner
-ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC Combatant
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,Reach level 60 in the 2024 Flyff World Championship.
-ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC Vanquisher
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,Reach level 100 in the 2024 Flyff World Championship.
-ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Master
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Reach level 160 in the 2024 Flyff World Championship.
-ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Emperor
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Complete all Gear Exchanges in the 2024 Flyff World Championship.
+ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,使用额外在线奖励券（可用 fCoins 购买）解锁每个每日在线时长阶段的额外奖励。
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,额外登录奖励
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",使用额外签到奖励券（可用 fCoins 购买）解锁每日登录的额外奖励。完成后，你可以再使用一张券重新开始。
+ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC 新手
+ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC 斗士
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,在2024年Flyff世界锦标赛中达到60级。
+ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC 征服者
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,在2024年Flyff世界锦标赛中达到100级。
+ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC 大师
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,在2024年Flyff世界锦标赛中达到160级。
+ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC 王者
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,在2024年Flyff世界锦标赛中完成所有装备兑换。
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,佳偶天成 1 次
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,摆脱单身
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,佳偶天成 10 次
@@ -1116,14 +1116,14 @@ ACHIEVEMENT_SMITHING_TITLE02,Smith,铁匠
 ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,铁工巧匠
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,铁匠大师
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,提升你的锻造精通等级。
-ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWC Arena Champion
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,Win the 2024 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWC Arena 2nd
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,Get second place in the 2024 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWC Arena 3rd
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,Get third place in the 2024 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWC Arena Finalist
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,Participate in the 2024 Flyff World Championship PvP Finals.
+ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWC 斗技场冠军
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,在2024年Flyff世界锦标赛PvP比赛中获得第一名。
+ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWC 斗技场亚军
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,在2024年Flyff世界锦标赛PvP比赛中获得第二名。
+ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWC 斗技场季军
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,在2024年Flyff世界锦标赛PvP比赛中获得第三名。
+ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWC 斗技场决赛选手
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,参加2024年Flyff世界锦标赛PvP决赛。
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,英雄 125 - 140
 ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest.,完成第二个英雄任务。
 ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,英雄 140 - 160
@@ -1176,208 +1176,208 @@ ACHIEVEMENT_ATTENDANCE_LVL40,Day 40,第40天
 ACHIEVEMENT_ATTENDANCE_LVL41,Day 41,第41天
 ACHIEVEMENT_ATTENDANCE_LVL42,Day 42,第42天
 ACHIEVEMENT_NEWYEAR_ATTENDANCE,New Year Event,新年活动
-ACHIEVEMENT_PLAYTIME_30,Play 30m,Play 30m
-ACHIEVEMENT_PLAYTIME_60,Play 1h,Play 1h
-ACHIEVEMENT_PLAYTIME_90,Play 1h 30m,Play 1h 30m
-ACHIEVEMENT_PLAYTIME_120,Play 2h,Play 2h
-ACHIEVEMENT_PLAYTIME_150,Play 2h 30m,Play 2h 30m
-ACHIEVEMENT_PLAYTIME_180,Play 3h,Play 3h
-ACHIEVEMENT_PLAYTIME_210,Play 3h 30m,Play 3h 30m
-ACHIEVEMENT_PLAYTIME_240,Play 4h,Play 4h
-ACHIEVEMENT_PLAYTIME_270,Play 4h 30m,Play 4h 30m
-ACHIEVEMENT_PLAYTIME_300,Play 5h,Play 5h
-ACHIEVEMENT_PLAYTIME_330,Play 5h 30m,Play 5h 30m
-ACHIEVEMENT_PLAYTIME_360,Play 6h,Play 6h
-ACHIEVEMENT_PLAYTIME_390,Play 6h 30m,Play 6h 30m
-ACHIEVEMENT_PLAYTIME_420,Play 7h,Play 7h
-ACHIEVEMENT_PLAYTIME_450,Play 7h 30m,Play 7h 30m
-ACHIEVEMENT_PLAYTIME_480,Play 8h,Play 8h
-ACHIEVEMENT_PLAYTIME_510,Play 8h 30m,Play 8h 30m
-ACHIEVEMENT_PLAYTIME_540,Play 9h,Play 9h
-ACHIEVEMENT_PLAYTIME_570,Play 9h 30m,Play 9h 30m
-ACHIEVEMENT_PLAYTIME_600,Play 10h,Play 10h
-ACHIEVEMENT_PLAYTIME_630,Play 10h 30m,Play 10h 30m
-ACHIEVEMENT_PLAYTIME_660,Play 11h,Play 11h
-ACHIEVEMENT_PLAYTIME_690,Play 11h 30m,Play 11h 30m
-ACHIEVEMENT_PLAYTIME_720,Play 12h,Play 12h
-ACHIEVEMENT_PLAYTIME_750,Play 12h 30m,Play 12h 30m
-ACHIEVEMENT_PLAYTIME_780,Play 13h,Play 13h
-ACHIEVEMENT_PLAYTIME_810,Play 13h 30m,Play 13h 30m
-ACHIEVEMENT_PLAYTIME_840,Play 14h,Play 14h
-ACHIEVEMENT_PLAYTIME_870,Play 14h 30m,Play 14h 30m
-ACHIEVEMENT_PLAYTIME_900,Play 15h,Play 15h
-ACHIEVEMENT_PLAYTIME_930,Play 15h 30m,Play 15h 30m
-ACHIEVEMENT_PLAYTIME_960,Play 16h,Play 16h
-ACHIEVEMENT_PLAYTIME_990,Play 16h 30m,Play 16h 30m
-ACHIEVEMENT_PLAYTIME_1020,Play 17h,Play 17h
-ACHIEVEMENT_PLAYTIME_1050,Play 17h 30m,Play 17h 30m
-ACHIEVEMENT_PLAYTIME_1080,Play 18h,Play 18h
-ACHIEVEMENT_PLAYTIME_1110,Play 18h 30m,Play 18h 30m
-ACHIEVEMENT_PLAYTIME_1140,Play 19h,Play 19h
-ACHIEVEMENT_PLAYTIME_1170,Play 19h 30m,Play 19h 30m
-ACHIEVEMENT_PLAYTIME_1200,Play 20h,Play 20h
-ACHIEVEMENT_PLAYTIME_1230,Play 20h 30m,Play 20h 30m
-ACHIEVEMENT_PLAYTIME_1260,Play 21h,Play 21h
-ACHIEVEMENT_PLAYTIME_1290,Play 21h 30m,Play 21h 30m
-ACHIEVEMENT_PLAYTIME_1320,Play 22h,Play 22h
-ACHIEVEMENT_PLAYTIME_1350,Play 22h 30m,Play 22h 30m
-ACHIEVEMENT_PLAYTIME_1380,Play 23h,Play 23h
-ACHIEVEMENT_PLAYTIME_1410,Play 23h 30m,Play 23h 30m
-ACHIEVEMENT_PLAYTIME_1439,Play 23h 59m,Play 23h 59m
-ACHIEVEMENT_YEAROFTHESNAKE,Year of the Snake,Year of the Snake
+ACHIEVEMENT_PLAYTIME_30,Play 30m,游玩 30分钟
+ACHIEVEMENT_PLAYTIME_60,Play 1h,游玩 1小时
+ACHIEVEMENT_PLAYTIME_90,Play 1h 30m,游玩 1小时 30分钟
+ACHIEVEMENT_PLAYTIME_120,Play 2h,游玩 2小时
+ACHIEVEMENT_PLAYTIME_150,Play 2h 30m,游玩 2小时 30分钟
+ACHIEVEMENT_PLAYTIME_180,Play 3h,游玩 3小时
+ACHIEVEMENT_PLAYTIME_210,Play 3h 30m,游玩 3小时 30分钟
+ACHIEVEMENT_PLAYTIME_240,Play 4h,游玩 4小时
+ACHIEVEMENT_PLAYTIME_270,Play 4h 30m,游玩 4小时 30分钟
+ACHIEVEMENT_PLAYTIME_300,Play 5h,游玩 5小时
+ACHIEVEMENT_PLAYTIME_330,Play 5h 30m,游玩 5小时 30分钟
+ACHIEVEMENT_PLAYTIME_360,Play 6h,游玩 6小时
+ACHIEVEMENT_PLAYTIME_390,Play 6h 30m,游玩 6小时 30分钟
+ACHIEVEMENT_PLAYTIME_420,Play 7h,游玩 7小时
+ACHIEVEMENT_PLAYTIME_450,Play 7h 30m,游玩 7小时 30分钟
+ACHIEVEMENT_PLAYTIME_480,Play 8h,游玩 8小时
+ACHIEVEMENT_PLAYTIME_510,Play 8h 30m,游玩 8小时 30分钟
+ACHIEVEMENT_PLAYTIME_540,Play 9h,游玩 9小时
+ACHIEVEMENT_PLAYTIME_570,Play 9h 30m,游玩 9小时 30分钟
+ACHIEVEMENT_PLAYTIME_600,Play 10h,游玩 10小时
+ACHIEVEMENT_PLAYTIME_630,Play 10h 30m,游玩 10小时 30分钟
+ACHIEVEMENT_PLAYTIME_660,Play 11h,游玩 11小时
+ACHIEVEMENT_PLAYTIME_690,Play 11h 30m,游玩 11小时 30分钟
+ACHIEVEMENT_PLAYTIME_720,Play 12h,游玩 12小时
+ACHIEVEMENT_PLAYTIME_750,Play 12h 30m,游玩 12小时 30分钟
+ACHIEVEMENT_PLAYTIME_780,Play 13h,游玩 13小时
+ACHIEVEMENT_PLAYTIME_810,Play 13h 30m,游玩 13小时 30分钟
+ACHIEVEMENT_PLAYTIME_840,Play 14h,游玩 14小时
+ACHIEVEMENT_PLAYTIME_870,Play 14h 30m,游玩 14小时 30分钟
+ACHIEVEMENT_PLAYTIME_900,Play 15h,游玩 15小时
+ACHIEVEMENT_PLAYTIME_930,Play 15h 30m,游玩 15小时 30分钟
+ACHIEVEMENT_PLAYTIME_960,Play 16h,游玩 16小时
+ACHIEVEMENT_PLAYTIME_990,Play 16h 30m,游玩 16小时 30分钟
+ACHIEVEMENT_PLAYTIME_1020,Play 17h,游玩 17小时
+ACHIEVEMENT_PLAYTIME_1050,Play 17h 30m,游玩 17小时 30分钟
+ACHIEVEMENT_PLAYTIME_1080,Play 18h,游玩 18小时
+ACHIEVEMENT_PLAYTIME_1110,Play 18h 30m,游玩 18小时 30分钟
+ACHIEVEMENT_PLAYTIME_1140,Play 19h,游玩 19小时
+ACHIEVEMENT_PLAYTIME_1170,Play 19h 30m,游玩 19小时 30分钟
+ACHIEVEMENT_PLAYTIME_1200,Play 20h,游玩 20小时
+ACHIEVEMENT_PLAYTIME_1230,Play 20h 30m,游玩 20小时 30分钟
+ACHIEVEMENT_PLAYTIME_1260,Play 21h,游玩 21小时
+ACHIEVEMENT_PLAYTIME_1290,Play 21h 30m,游玩 21小时 30分钟
+ACHIEVEMENT_PLAYTIME_1320,Play 22h,游玩 22小时
+ACHIEVEMENT_PLAYTIME_1350,Play 22h 30m,游玩 22小时 30分钟
+ACHIEVEMENT_PLAYTIME_1380,Play 23h,游玩 23小时
+ACHIEVEMENT_PLAYTIME_1410,Play 23h 30m,游玩 23小时 30分钟
+ACHIEVEMENT_PLAYTIME_1439,Play 23h 59m,游玩 23小时 59分钟
+ACHIEVEMENT_YEAROFTHESNAKE,Year of the Snake,蛇年
 ACHIEVEMENT_EASTER_EGG_2025,Find Easter Eggs,找到复活节彩蛋
 ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,收集 5 个彩蛋
 ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,收集 10 个彩蛋
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,收集 15 个彩蛋
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,收集 20 个彩蛋
-ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,3rd Anniversary Daily Login
+ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,3周年庆每日登录
 ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWC 新手
 ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWC 斗士
 ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWC 勇士
 ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWC 守护者
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,Reach level 140 in the 2025 Flyff World Championship.
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,在2025年Flyff世界锦标赛中达到140级。
 ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWC 霸主
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,Reach level 150 in the 2025 Flyff World Championship.
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,在2025年Flyff世界锦标赛中达到150级。
 ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC 尊者
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!
-ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Colosseum Champion
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Win the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC Colosseum 2nd
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Get second place in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC Colosseum 3rd
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Get third place in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC Colosseum Participant
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Participate in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Arena Champion
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Win the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Arena 2nd
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Get second place in the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Arena 3rd
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Get third place in the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Arena Finalist
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Participate in the 2025 Flyff World Championship PvP Finals.
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Arena Participant
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Participate in the 2025 Flyff World Championship PvP Qualifications.
-ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC High Roller
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,An honorable title awarded to the player who earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC Lucky Streak
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Whale
-ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,Awarded to the player who earned the most Champion Coins within their own server.
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC The Unlucky
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Partner Streamer
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Awarded to partner streamers during the 2025 Flyff World Championship.
-ACHIEVEMENT_UPGRADE_1,Upgrade +1,Upgrade +1
-ACHIEVEMENT_UPGRADE_2,Upgrade +2,Upgrade +2
-ACHIEVEMENT_UPGRADE_3,Upgrade +3,Upgrade +3
-ACHIEVEMENT_UPGRADE_4,Upgrade +4,Upgrade +4
-ACHIEVEMENT_UPGRADE_5,Upgrade +5,Upgrade +5
-ACHIEVEMENT_UPGRADE_6,Upgrade +6,Upgrade +6
-ACHIEVEMENT_UPGRADE_7,Upgrade +7,Upgrade +7
-ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
-ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
-ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,使用FWC额外在线奖励券以获得奖励。\n你可以从2025 FWC锦标赛通行证的免费奖励中获得该道具！
+ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC 斗兽场冠军
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,在2025年Flyff世界锦标赛PvE比赛中获得第一名。
+ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC 斗兽场亚军
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,在2025年Flyff世界锦标赛PvE比赛中获得第二名。
+ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC 斗兽场季军
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,在2025年Flyff世界锦标赛PvE比赛中获得第三名。
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC 斗兽场参与者
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,参加2025年Flyff世界锦标赛PvE比赛。
+ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC 斗技场冠军
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,在2025年Flyff世界锦标赛PvP比赛中获得第一名。
+ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC 斗技场亚军
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,在2025年Flyff世界锦标赛PvP比赛中获得第二名。
+ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC 斗技场季军
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,在2025年Flyff世界锦标赛PvP比赛中获得第三名。
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC 斗技场决赛选手
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,参加2025年Flyff世界锦标赛PvP决赛。
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC 斗技场参与者
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,参加2025年Flyff世界锦标赛PvP资格赛。
+ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC 豪赌客
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,授予在所有服务器中获得冠军币最多的玩家的荣誉称号。
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC 幸运连胜
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,授予在所有服务器中冠军币获得数仅次于第一的玩家的荣誉称号。
+ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC 巨鲸
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,授予在本服务器中获得冠军币最多的玩家。
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC 倒霉蛋
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,授予在本服务器中消耗了大量FWC Coin但获得冠军币最少的玩家。
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC 合作主播
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,授予2025年Flyff世界锦标赛期间的合作主播。
+ACHIEVEMENT_UPGRADE_1,Upgrade +1,精炼 +1
+ACHIEVEMENT_UPGRADE_2,Upgrade +2,精炼 +2
+ACHIEVEMENT_UPGRADE_3,Upgrade +3,精炼 +3
+ACHIEVEMENT_UPGRADE_4,Upgrade +4,精炼 +4
+ACHIEVEMENT_UPGRADE_5,Upgrade +5,精炼 +5
+ACHIEVEMENT_UPGRADE_6,Upgrade +6,精炼 +6
+ACHIEVEMENT_UPGRADE_7,Upgrade +7,精炼 +7
+ACHIEVEMENT_UPGRADE_8,Upgrade +8,精炼 +8
+ACHIEVEMENT_UPGRADE_9,Upgrade +9,精炼 +9
+ACHIEVEMENT_UPGRADE_10,Upgrade +10,精炼 +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,英雄 160 - 180
 ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,完成第四个英雄任务。
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Update Playtime Event
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Log in each day for 40 minutes to receive rewards!
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 版本在线活动
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,每日登录满 40 分钟，即可领取奖励！
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,前往艾尔伦
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Complete the main quests to earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Complete the daily quests in Kaillun to earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Complete Kaillun Daily Quests 10 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Complete Kaillun Daily Quests 20 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Complete Kaillun Daily Quests 30 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Complete Kaillun Daily Quests 45 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Complete Kaillun Daily Quests 60 times.
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Take the Ankou's Asylum
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,活动期间完成主线任务即可获得奖励！
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,凯伦的劳动者
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,活动期间完成凯伦的日常任务即可获得奖励！
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,完成凯伦日常任务10次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,完成凯伦日常任务20次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,完成凯伦日常任务30次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,完成凯伦日常任务45次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,完成凯伦日常任务60次。
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,进入安库庇护所
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,挑战全新副本！活动期间击败安库即可获得奖励！
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,击杀安库
-ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Defeat Blazing Ankou
-ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Defeat Demonic Ankou
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,Synthesize Ultimate Jewels to earn rewards during the event!
-ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Specialist Level 1
-ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Specialist Level 2
-ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Specialist Level 3
-ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,The First Vindicator
-ACHIEVEMENT_FIRST_190_DESC,Awarded to the first player to reach level 190.,Awarded to the first player to reach level 190.
-ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,Year of the Horse
-ACHIEVEMENT_FWC_2026_BEGINNER_NAME,2026 FWC Beginner,2026 FWC Beginner
-ACHIEVEMENT_FWC_2026_BEGINNER_DESC,Reach level 16 in the 2026 Flyff World Championship.,Reach level 16 in the 2026 Flyff World Championship.
-ACHIEVEMENT_FWC_2026_BRAWLER_NAME,2026 FWC Brawler,2026 FWC Brawler
-ACHIEVEMENT_FWC_2026_BRAWLER_DESC,Reach level 60 in the 2026 Flyff World Championship.,Reach level 60 in the 2026 Flyff World Championship.
-ACHIEVEMENT_FWC_2026_WARRIOR_NAME,2026 FWC Warrior,2026 FWC Warrior
-ACHIEVEMENT_FWC_2026_WARRIOR_DESC,Reach level 140 in the 2026 Flyff World Championship.,Reach level 140 in the 2026 Flyff World Championship.
-ACHIEVEMENT_FWC_2026_SAVIOR_NAME,2026 FWC Savior,2026 FWC Savior
-ACHIEVEMENT_FWC_2026_SAVIOR_DESC,Reach level 150 in the 2026 Flyff World Championship.,Reach level 150 in the 2026 Flyff World Championship.
-ACHIEVEMENT_FWC_2026_OVERLORD_NAME,2026 FWC Overlord,2026 FWC Overlord
-ACHIEVEMENT_FWC_2026_OVERLORD_DESC,Reach level 165 in the 2026 Flyff World Championship.,Reach level 165 in the 2026 Flyff World Championship.
-ACHIEVEMENT_FWC_2026_MASTER_NAME,2026 FWC Master,2026 FWC Master
-ACHIEVEMENT_FWC_2026_MASTER_DESC,Complete all Gear Exchanges in the 2026 Flyff World ,Complete all Gear Exchanges in the 2026 Flyff World 
-ACHIEVEMENT_4TH_ANNIV_ATTENDANCE,4th Anniversary Daily Login,4th Anniversary Daily Login
-ACHIEVEMENT_FWC_2026_GUILDPRIDE_NAME,2026 FWC Guild Pride,2026 FWC Guild Pride
-ACHIEVEMENT_FWC_2026_GUILDPRIDE_DESC,Special title to commemorate the participation of 2026 FWC Guild Spotlight Video Showcase,Special title to commemorate the participation of 2026 FWC Guild Spotlight Video Showcase
-ACHIEVEMENT_KILL_DREAMFLAME01_NAME,Blossom,Blossom
-ACHIEVEMENT_KILL_DREAMFLAME01_TITLE,Leafbane,Leafbane
-ACHIEVEMENT_KILL_DREAMFLAME01_LVL1,Blossom Slayer 1,Blossom Slayer 1
-ACHIEVEMENT_KILL_DREAMFLAME01_LVL2,Blossom Slayer 2,Blossom Slayer 2
-ACHIEVEMENT_KILL_DREAMFLAME01_LVL3,Blossom Slayer 3,Blossom Slayer 3
-ACHIEVEMENT_KILL_DREAMFLAME01_LVL4,Blossom Slayer 4,Blossom Slayer 4
-ACHIEVEMENT_KILL_DREAMFLAME01_LVL5,Blossom Hunter,Blossom Hunter
-ACHIEVEMENT_KILL_DREAMOLDRUT01_NAME,Oldroot,Oldroot
-ACHIEVEMENT_KILL_DREAMOLDRUT01_TITLE,Rootbreaker,Rootbreaker
-ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL1,Oldroot Slayer 1,Oldroot Slayer 1
-ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL2,Oldroot Slayer 2,Oldroot Slayer 2
-ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL3,Oldroot Slayer 3,Oldroot Slayer 3
-ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL4,Oldroot Slayer 4,Oldroot Slayer 4
-ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL5,Oldroot Hunter,Oldroot Hunter
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_NAME,Minimusha,Minimusha
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_TITLE,Amberdown,Amberdown
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL1,Minimusha Slayer 1,Minimusha Slayer 1
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL2,Minimusha Slayer 2,Minimusha Slayer 2
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL3,Minimusha Slayer 3,Minimusha Slayer 3
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL4,Minimusha Slayer 4,Minimusha Slayer 4
-ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL5,Minimusha Hunter,Minimusha Hunter
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_NAME,Lady Bloom,Lady Bloom
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_TITLE,Bloomfall,Bloomfall
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL1,Lady Bloom Slayer 1,Lady Bloom Slayer 1
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL2,Lady Bloom Slayer 2,Lady Bloom Slayer 2
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL3,Lady Bloom Slayer 3,Lady Bloom Slayer 3
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL4,Lady Bloom Slayer 4,Lady Bloom Slayer 4
-ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL5,Lady Bloom Hunter,Lady Bloom Hunter
-ACHIEVEMENT_KILL_DREAMRAPRA01_NAME,Mushbro,Mushbro
-ACHIEVEMENT_KILL_DREAMRAPRA01_TITLE,Mushi,Mushi
-ACHIEVEMENT_KILL_DREAMRAPRA01_LVL1,Mushbro Slayer 1,Mushbro Slayer 1
-ACHIEVEMENT_KILL_DREAMRAPRA01_LVL2,Mushbro Slayer 2,Mushbro Slayer 2
-ACHIEVEMENT_KILL_DREAMRAPRA01_LVL3,Mushbro Slayer 3,Mushbro Slayer 3
-ACHIEVEMENT_KILL_DREAMRAPRA01_LVL4,Mushbro Slayer 4,Mushbro Slayer 4
-ACHIEVEMENT_KILL_DREAMRAPRA01_LVL5,Mushbro Hunter,Mushbro Hunter
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_NAME,Nightmyst,Nightmyst
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_TITLE,Shadowbane,Shadowbane
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL1,Nightmyst Slayer 1,Nightmyst Slayer 1
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL2,Nightmyst Slayer 2,Nightmyst Slayer 2
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL3,Nightmyst Slayer 3,Nightmyst Slayer 3
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL4,Nightmyst Slayer 4,Nightmyst Slayer 4
-ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL5,Nightmyst Hunter,Nightmyst Hunter
-ACHIEVEMENT_KILL_DREAMQEEN01_NAME,[Queen of Thorns] Entaness,[Queen of Thorns] Entaness
-ACHIEVEMENT_KILL_DREAMQEEN01_TITLE,Queen,Queen
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL1,[Queen of Thorns] Entaness Slayer 1,[Queen of Thorns] Entaness Slayer 1
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL2,[Queen of Thorns] Entaness Slayer 2,[Queen of Thorns] Entaness Slayer 2
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL3,[Queen of Thorns] Entaness Slayer 3,[Queen of Thorns] Entaness Slayer 3
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL4,[Queen of Thorns] Entaness Slayer 4,[Queen of Thorns] Entaness Slayer 4
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL5,[Queen of Thorns] Entaness Hunter,[Queen of Thorns] Entaness Hunter
-ACHIEVEMENT_155UPDATE_MAINQUEST_NAME,Meet the Euphresia Dungeon,Meet the Euphresia Dungeon
-ACHIEVEMENT_155UPDATE_GODDESSANDDEMON,Love from Goddess and Demon,Love from Goddess and Demon
-ACHIEVEMENT_155UPDATE_GODDESSANDDEMON_DESC,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!
-ACHIEVEMENT_155UPDATE_PROLUMBERJACK,Pro Lumberjack,Pro Lumberjack
-ACHIEVEMENT_155UPDATE_PROLUMBERJACK_DESC,Hunt the new dungeon boss a set number of times during the event period to receive rewards!,Hunt the new dungeon boss a set number of times during the event period to receive rewards!
-ACHIEVEMENT_FWC_2026_JACKPOTWINNER_NAME,FWC 2026 Jackpot Winner,FWC 2026 Jackpot Winner
-ACHIEVEMENT_FWC_2026_FORTUNECHASER_NAME,FWC 2026 Fortune Chaser,FWC 2026 Fortune Chaser
-ACHIEVEMENT_FWC_2026_ALLIN_NAME,FWC 2026 All-In,FWC 2026 All-In
-ACHIEVEMENT_FWC_2026_HARDLUCK_NAME,FWC 2026 Hard Luck,FWC 2026 Hard Luck
-ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,The First Challenger
-ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,Awarded to the first player to clear the dungeon.
-ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,The Fastest Challenger
-ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,Awarded to the player who cleared the dungeon in the shortest time.
+ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,击败烈焰安库
+ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,击败魔化安库
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,终极宝石合成活动
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,活动期间合成终极宝石即可获得奖励！
+ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,1级专家
+ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,2级专家
+ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,3级专家
+ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,第一个证明者
+ACHIEVEMENT_FIRST_190_DESC,Awarded to the first player to reach level 190.,授予第一个达到190级的玩家。
+ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,马年
+ACHIEVEMENT_FWC_2026_BEGINNER_NAME,2026 FWC Beginner,2026 FWC 新手
+ACHIEVEMENT_FWC_2026_BEGINNER_DESC,Reach level 16 in the 2026 Flyff World Championship.,在2026年Flyff世界锦标赛中达到16级。
+ACHIEVEMENT_FWC_2026_BRAWLER_NAME,2026 FWC Brawler,2026 FWC 斗士
+ACHIEVEMENT_FWC_2026_BRAWLER_DESC,Reach level 60 in the 2026 Flyff World Championship.,在2026年Flyff世界锦标赛中达到60级。
+ACHIEVEMENT_FWC_2026_WARRIOR_NAME,2026 FWC Warrior,2026 FWC 勇士
+ACHIEVEMENT_FWC_2026_WARRIOR_DESC,Reach level 140 in the 2026 Flyff World Championship.,在2026年Flyff世界锦标赛中达到140级。
+ACHIEVEMENT_FWC_2026_SAVIOR_NAME,2026 FWC Savior,2026 FWC 守护者
+ACHIEVEMENT_FWC_2026_SAVIOR_DESC,Reach level 150 in the 2026 Flyff World Championship.,在2026年Flyff世界锦标赛中达到150级。
+ACHIEVEMENT_FWC_2026_OVERLORD_NAME,2026 FWC Overlord,2026 FWC 霸主
+ACHIEVEMENT_FWC_2026_OVERLORD_DESC,Reach level 165 in the 2026 Flyff World Championship.,在2026年Flyff世界锦标赛中达到165级。
+ACHIEVEMENT_FWC_2026_MASTER_NAME,2026 FWC Master,2026 FWC 尊者
+ACHIEVEMENT_FWC_2026_MASTER_DESC,Complete all Gear Exchanges in the 2026 Flyff World ,在2026年Flyff世界锦标赛中完成所有装备兑换。
+ACHIEVEMENT_4TH_ANNIV_ATTENDANCE,4th Anniversary Daily Login,4周年庆每日登录
+ACHIEVEMENT_FWC_2026_GUILDPRIDE_NAME,2026 FWC Guild Pride,2026 FWC 公会荣耀
+ACHIEVEMENT_FWC_2026_GUILDPRIDE_DESC,Special title to commemorate the participation of 2026 FWC Guild Spotlight Video Showcase,纪念参与2026 FWC公会焦点视频展播的特别称号。
+ACHIEVEMENT_KILL_DREAMFLAME01_NAME,Blossom,花灵
+ACHIEVEMENT_KILL_DREAMFLAME01_TITLE,Leafbane,噬花毒叶
+ACHIEVEMENT_KILL_DREAMFLAME01_LVL1,Blossom Slayer 1,花灵猎手
+ACHIEVEMENT_KILL_DREAMFLAME01_LVL2,Blossom Slayer 2,花灵屠夫
+ACHIEVEMENT_KILL_DREAMFLAME01_LVL3,Blossom Slayer 3,花灵杀手
+ACHIEVEMENT_KILL_DREAMFLAME01_LVL4,Blossom Slayer 4,花灵撕裂者
+ACHIEVEMENT_KILL_DREAMFLAME01_LVL5,Blossom Hunter,花灵毁灭者
+ACHIEVEMENT_KILL_DREAMOLDRUT01_NAME,Oldroot,古老根须
+ACHIEVEMENT_KILL_DREAMOLDRUT01_TITLE,Rootbreaker,连根拔起
+ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL1,Oldroot Slayer 1,古老根须猎手
+ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL2,Oldroot Slayer 2,古老根须屠夫
+ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL3,Oldroot Slayer 3,古老根须杀手
+ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL4,Oldroot Slayer 4,古老根须撕裂者
+ACHIEVEMENT_KILL_DREAMOLDRUT01_LVL5,Oldroot Hunter,古老根须毁灭者
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_NAME,Minimusha,小蘑菇莎
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_TITLE,Amberdown,落碎琥珀
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL1,Minimusha Slayer 1,小蘑菇莎猎手
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL2,Minimusha Slayer 2,小蘑菇莎屠夫
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL3,Minimusha Slayer 3,小蘑菇莎杀手
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL4,Minimusha Slayer 4,小蘑菇莎撕裂者
+ACHIEVEMENT_KILL_DREAMMINIMUSHU01_LVL5,Minimusha Hunter,小蘑菇莎毁灭者
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_NAME,Lady Bloom,花爵夫人
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_TITLE,Bloomfall,花落知多少
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL1,Lady Bloom Slayer 1,花爵夫人猎手
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL2,Lady Bloom Slayer 2,花爵夫人屠夫
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL3,Lady Bloom Slayer 3,花爵夫人杀手
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL4,Lady Bloom Slayer 4,花爵夫人撕裂者
+ACHIEVEMENT_KILL_DREAMLADYBLUM01_LVL5,Lady Bloom Hunter,花爵夫人毁灭者
+ACHIEVEMENT_KILL_DREAMRAPRA01_NAME,Mushbro,布罗菇
+ACHIEVEMENT_KILL_DREAMRAPRA01_TITLE,Mushi,蘑弑
+ACHIEVEMENT_KILL_DREAMRAPRA01_LVL1,Mushbro Slayer 1,布罗菇猎手
+ACHIEVEMENT_KILL_DREAMRAPRA01_LVL2,Mushbro Slayer 2,布罗菇屠夫
+ACHIEVEMENT_KILL_DREAMRAPRA01_LVL3,Mushbro Slayer 3,布罗菇杀手
+ACHIEVEMENT_KILL_DREAMRAPRA01_LVL4,Mushbro Slayer 4,布罗菇撕裂者
+ACHIEVEMENT_KILL_DREAMRAPRA01_LVL5,Mushbro Hunter,布罗菇毁灭者
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_NAME,Nightmyst,夜隐
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_TITLE,Shadowbane,影之祸根
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL1,Nightmyst Slayer 1,夜隐猎手
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL2,Nightmyst Slayer 2,夜隐屠夫
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL3,Nightmyst Slayer 3,夜隐杀手
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL4,Nightmyst Slayer 4,夜隐撕裂者
+ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL5,Nightmyst Hunter,夜隐毁灭者
+ACHIEVEMENT_KILL_DREAMQEEN01_NAME,[Queen of Thorns] Entaness,[荆棘女王] 恩塔妮丝
+ACHIEVEMENT_KILL_DREAMQEEN01_TITLE,Queen,梦境女王
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL1,[Queen of Thorns] Entaness Slayer 1,[荆棘女王] 恩塔妮丝猎手
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL2,[Queen of Thorns] Entaness Slayer 2,[荆棘女王] 恩塔妮丝屠夫
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL3,[Queen of Thorns] Entaness Slayer 3,[荆棘女王] 恩塔妮丝杀手
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL4,[Queen of Thorns] Entaness Slayer 4,[荆棘女王] 恩塔妮丝撕裂者
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL5,[Queen of Thorns] Entaness Hunter,[荆棘女王] 恩塔妮丝毁灭者
+ACHIEVEMENT_155UPDATE_MAINQUEST_NAME,Meet the Euphresia Dungeon,初识尤芙蕾雅湿地
+ACHIEVEMENT_155UPDATE_GODDESSANDDEMON,Love from Goddess and Demon,女神与恶魔的爱
+ACHIEVEMENT_155UPDATE_GODDESSANDDEMON_DESC,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!,使用女神的祝福或恶魔的祝福来获得特别奖励！
+ACHIEVEMENT_155UPDATE_PROLUMBERJACK,Pro Lumberjack,伐木专长
+ACHIEVEMENT_155UPDATE_PROLUMBERJACK_DESC,Hunt the new dungeon boss a set number of times during the event period to receive rewards!,在活动期间一定次数猎杀新地下城BOSS ，领取奖励！
+ACHIEVEMENT_FWC_2026_JACKPOTWINNER_NAME,FWC 2026 Jackpot Winner,FWC 2026 头奖得主
+ACHIEVEMENT_FWC_2026_FORTUNECHASER_NAME,FWC 2026 Fortune Chaser,FWC 2026 财运追逐者
+ACHIEVEMENT_FWC_2026_ALLIN_NAME,FWC 2026 All-In,FWC 2026 梭哈
+ACHIEVEMENT_FWC_2026_HARDLUCK_NAME,FWC 2026 Hard Luck,FWC 2026 非酋
+ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,首位挑战者
+ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,授予首个通关该副本的玩家。
+ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,最快挑战者
+ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,授予以最短时间通关该副本的玩家。

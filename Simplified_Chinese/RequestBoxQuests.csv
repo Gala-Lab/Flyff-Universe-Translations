@@ -1,9 +1,9 @@
 ﻿Key,English,Simplified_Chinese
-PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,医料神官为了治疗受伤的人，委托了搜集制作绷带材料的“咕哝绷带”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,医料神官为了制造绷带，委托了搜集咕哝绷带。
-PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,矮人族为了制造手电筒，委托了搜集制作手电筒材料的“电光球”。
-PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,医料神官为了制造麻醉药，委托了搜集麻醉药的材料“毒花触手”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,医料神官为了制造麻醉药，委托了搜集麻醉药的材料“毒花触手”
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,医务神官为了治疗受伤的人，委托了搜集制作绷带材料的“野人绷带”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,医务神官为了制造绷带，委托了搜集野人绷带。
+PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,矮人族为了制造手电筒，委托了搜集制作手电筒材料的“动力核心”。
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,医务神官为了制造麻醉药，委托了搜集麻醉药的材料“花兽毒剂”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,医务神官为了制造麻醉药，委托了搜集麻醉药的材料“花兽毒剂”
 PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,木工所的材料极度缺发，木工所的员工委托了搜集“树精的根”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,你可以从任意一种$QUEST_END_ITEM_MON$身上获取$QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,你可以从 $QUEST_END_ITEM_MON$ 身上收集到 $QUEST_END_ITEM_MON$。
@@ -27,8 +27,8 @@ PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. W
 PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,帕里胖胖请委托中心帮忙收集掉落在生命光柱附近的诡异的信件
 PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,帕里胖胖委托本中心去收集“诡异的证件”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000034,Flying Board,滑板～飞吧～
-PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,迪奥为了大量的制造飞行滑板，所以委托本中心去收集“坚硬背壳”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,迪奥为了大量制造滑板而拜托委托中心收集滑板的材料“坚硬背壳”
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,迪奥为了大量的制造飞行滑板，所以委托本中心去收集“硬壳”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,迪奥为了大量制造滑板而拜托委托中心收集滑板的材料“硬壳”
 PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,熊娃娃新生活
 PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,瑞加大陆唯一的孤儿院“遗失的天使”想要准备一些礼物送给院童，因此委托本中心去收集丹丹的娃娃。您要接受吗？
 PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,孤儿院“遗失的天使”请委托中心收集小熊玩偶
@@ -36,8 +36,8 @@ PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,法杖的宝石
 PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,瑞加大陆世界的魔导士协会为了制造新法杖，所以请委托中心去收集紫晶球。您要接受吗？
 PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,瑞加大陆的魔导士协会为了制造新法杖，特别请委托中心收集紫晶球
 PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget",饼干制造器
-PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,巴陵为了制造面包，需要一些饼干制造机的燃料，所以委托本中心去收集“贱狼指甲”。您要接受吗？
-PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,巴陵需要饼干制造器的燃料，所以请委托中心收集贱狼指甲
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,巴陵为了制造面包，需要一些饼干制造机的燃料，所以委托本中心去收集“狼指甲”。您要接受吗？
+PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,巴陵需要饼干制造器的燃料，所以请委托中心收集狼指甲
 PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,神秘的魔法笔
 PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,穆勒为了写一本小说，所以需要一支魔法笔，他委托本中心去收集“塔林根茎”，您要接受吗？
 PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,穆勒为了写小说，需要用塔林根茎来制作魔法笔。
@@ -60,8 +60,8 @@ PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,遗失的文件
 PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,茱丽亚委托本中心去收集被米娅娃娃偷走的文件，您要接受吗？
 PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,茱丽亚请委托中心去米娅姊姊的栖息地寻找被偷的文件
 PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,燃烧吧～火柴！
-PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,波兹曼需要你收集怒焰火柴来在他的镕炉使用。你会帮忙吗？
-PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,波兹曼想要怒焰火柴
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,波兹曼需要你收热能火柴来在他的镕炉使用。你会帮忙吗？
+PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,波兹曼想要热能火柴
 PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),诡异的现象 –下–
 PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,帕里胖胖委托本中心去收集“诡异的信件”，您要接受吗？
 PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,帕里胖胖请委托中心收集“诡异的信件”。
@@ -70,44 +70,44 @@ PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delic
 PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,卡琳为了制作最美味的螳螂调味料，所以请委托中心收集磨刀石。
 PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,魔法珠珠
 PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,马丁为了制作魔法珠珠，所以请我们委托中心去收集哈玛结晶。您要接受本次委托事项吗？
-PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,马丁为了制作魔法千里眼珠珠，所以请委托中心去收集杰克石。
+PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,马丁为了制作魔法千里眼珠珠，所以请委托中心去收集哈玛结晶。
 PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,比尔的成功时代 ─比尔的纹章─
 PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,比尔为了制作自己品牌的纹章，特别请我们委托中心去收集压箱宝石。您要接受这项委托事项吗？
 PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,比尔想要用压箱宝石制作自己的纹章，所以请委托中心收集。
 PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,晨光市厅修护工程
-PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,海伦娜为了晨光市厅的维护工程，特别请我们委托中心去收集弦月宝石。
-PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,海伦娜希望委托中心能够帮她收集弦月宝石。
+PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,海伦娜为了晨光市厅的维护工程，特别请我们委托中心去收集月长石。
+PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,海伦娜希望委托中心能够帮她收集月长石。
 PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,关怀残障犬活动
-PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,瑞加大陆的残障犬保护团体想要举行爱心救助活动，因此请我们委托中心去帮忙收集独刀眼罩。您要接受这委托吗？
-PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,瑞加大陆的残障犬保护团体请委托中心收集独刀眼罩。
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,瑞加大陆的残障犬保护团体想要举行爱心救助活动，因此请我们委托中心去帮忙收集浪人眼罩。您要接受这委托吗？
+PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,瑞加大陆的残障犬保护团体请委托中心收集浪人眼罩。
 PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,诡异的搜集家
-PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,"有一位不知名的搜藏家委托了搜集猛牛鼻环的任务,你要接受这个任务吗?"
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,"有一位不知名的搜藏家委托了搜集牛鼻环的任务,你要接受这个任务吗?"
 PROPQUEST_REQUESTBOX_INC_000243,For the Wife,为了妻子的祝福
-PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,"市长为了制造胸针送给妻子,委托了搜集卡玲胸针的任务,你要接受任务吗?"
-PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,"市长为了制造胸针送给妻子,委托了搜集“卡玲胸针”的任务"
+PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,"市长为了制造胸针送给妻子,委托了搜集火红胸花的任务,你要接受任务吗?"
+PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,"市长为了制造胸针送给妻子,委托了搜集“火红胸花”的任务"
 PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,软弱的心脏
-PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,"海伦娜为了帮妹妹移植心脏手术,委托了搜集“娃娃的心脏”的任务"
+PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,"海伦娜为了帮妹妹移植心脏手术,委托了搜集“发条心脏”的任务"
 PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,恶魔的大理石
 PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,"比尔为了制造最优等的大理石,委托了搜集石柱碎片的任务,你要接受任务吗?"
-PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,"比尔为了制造优等的大里石,委托了搜集“石柱碎片”"
+PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,"比尔为了制造优等的大里石,委托了搜集“大理石快”"
 PROPQUEST_REQUESTBOX_INC_000276,Dream of the Fighter,格斗家的期望
-PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,"格斗家为了强化他们的全套,委托了搜集黄金之拳,你要接受委托吗?"
-PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,"格斗家为了制造强化的全套,委托了搜集“黄金之拳”"
+PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,"格斗家为了强化他们的全套,委托了搜集黄金拳头,你要接受委托吗?"
+PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,"格斗家为了制造强化的全套,委托了搜集“黄金拳头”"
 PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,宝宝玩的弹珠
-PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,"市长为了送儿子生日礼物,想制造一些弹珠,所以委托了搜集破碎的晶球.请问你要接受吗?"
-PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,"市长为了送儿子生日礼物,想制造一些弹珠,所以委托了搜集破碎的晶"
+PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,"市长为了送儿子生日礼物,想制造一些弹珠,所以委托了搜集破裂魔石，请问你要接受吗?"
+PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,"市长为了送儿子生日礼物,想制造一些弹珠,所以委托了搜集破裂魔石"
 PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),诡异的搜集家2
 PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,"有一位诡异的搜集家委托了搜集黄宝石,请问你要接受任务吗?"
 PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,有一位诡异的搜集家委托了搜集黄宝石
 PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,席琳娜的隐形眼镜
-PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,"席琳娜为了制造隐形眼镜,委托了搜集水滴宝石,你要接受任务吗?"
-PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,"席琳娜为了制造隐形眼镜,委托了搜集水滴宝石"
+PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,"席琳娜为了制造隐形眼镜,委托了搜集蒸汽机结晶,你要接受任务吗?"
+PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,"席琳娜为了制造隐形眼镜,委托了搜集蒸汽机结晶"
 PROPQUEST_REQUESTBOX_INC_000320,Red Muffler,红色围巾
-PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,"军人为了制造围巾,委托了搜集“骑士的围巾”,你要接受任务吗?"
-PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,"军人为了制造围巾,委托了搜集“骑士的围巾”"
+PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,"军人为了制造围巾,委托了搜集“骑士围巾”,你要接受任务吗?"
+PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,"军人为了制造围巾,委托了搜集“骑士围巾”"
 PROPQUEST_REQUESTBOX_INC_000331,Dwarpet Festival,矮人节
-PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,"矮人族要制作活动时穿的鞋子,委托了搜集刀牙之靴,请问你要接受任务吗?"
-PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,"矮人族要制作活动时穿的鞋子,委托了搜集刀牙之靴"
+PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,"矮人族要制作活动时穿的鞋子,委托了搜集皮靴,请问你要接受任务吗?"
+PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,"矮人族要制作活动时穿的鞋子,委托了搜集皮靴"
 PROPQUEST_REQUESTBOX_INC_000342,Crane Repair,停止的轮子
 PROPQUEST_REQUESTBOX_INC_000343,The Erons Industrial Manager needs Droil to repair their crane. Will you help?,"绿磷石开采集团为了修复开采起重机,委托了搜集润滑油的任务,你要接受吗?"
 PROPQUEST_REQUESTBOX_INC_000348,Erons want Droils.,"绿磷石开采集团为了修复开采起重机,委托了搜集润滑油的任务"
@@ -115,27 +115,27 @@ PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,搜集绷带
 PROPQUEST_REQUESTBOX_INC_000364,Portable Power,携带用的发光器
 PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),诡异的搜集家3
 PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,再生轮胎
-PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,矮人族为了制造可以长久使用的轮胎，委托了搜集制作轮胎材料的“火焰车轮”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,矮人族为了制造可以长久使用的轮胎，委托了搜集制作轮胎材料的“火焰车轮”
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,矮人族为了制造可以长久使用的轮胎，委托了搜集制作轮胎材料的“火焰轮胎”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,矮人族为了制造可以长久使用的轮胎，委托了搜集制作轮胎材料的“火焰轮胎”
 PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),诡异的搜集家4
 PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,诡异的搜集家委托了搜集混合结晶，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,丈夫的遗物
-PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,有一个流浪人，遗失了老公戒指上的一个宝石，为了制造宝石，流浪人委托了搜集制造宝石材料的“风化结晶”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,有一个流浪人，遗失了老公戒指上的一个宝石，为了制造宝石，流浪人委托了搜集制造宝石材料的“风化结晶”
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,有一个流浪人，遗失了老公戒指上的一个宝石，为了制造宝石，流浪人委托了搜集制造宝石材料的“沉积宝石”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,有一个流浪人为了制造宝石，委托了搜集制造宝石材料的“沉积宝石”
 PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,雷米娜的变身
 PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,雷米娜为了制造一副墨镜，委托了搜集制造墨镜的材料“夜视镜”，你要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,雷米娜为了制造一副墨镜，委托了搜集制造墨镜的材料“夜视镜”
 PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,美丽的蓝光壁纸
-PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,哈本为了整修魔法商店，委托了搜集制造壁纸用的“蓝光鳞片”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,海音为了整修魔法商店，委托了搜集制造壁纸用的“蓝光鳞片”
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,哈本为了整修魔法商店，委托了搜集制造壁纸用的“绿鳞片”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,海音为了整修魔法商店，委托了搜集制造壁纸用的“绿鳞片”
 PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),诡异的搜集家5
-PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,诡异的搜集家，委托了搜集“水宝石”，您接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,诡异的搜集家，委托了搜集“水宝石”
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,诡异的搜集家，委托了搜集“泥液”，您接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,诡异的搜集家，委托了搜集“泥液”
 PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,缺发麻醉药剂
 PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,制作新的鞭炮
-PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,鞭炮商要制造新品种的鞭炮，委托了搜集鞭炮材料“自爆计时器”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,鞭炮商要制造新品种的鞭炮，委托了搜集鞭炮材料“计时装置”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,你可以在爆破者的所有类型搜集得到喔！
-PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,鞭炮商要制造新品种的鞭炮，委托了搜集鞭炮材料“自爆计时器”
+PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,鞭炮商要制造新品种的鞭炮，委托了搜集鞭炮材料“计时装置”
 PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,孩子的零食
 PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,沃尔波尔为了制作孩子们的零食，委托了搜集零食的材料依蛾翅膀，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,沃尔波尔为了制作孩子们的零食，委托了搜集零食的材料依蛾翅膀。
@@ -143,14 +143,14 @@ PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,维德的香菇农场
 PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,维德为的在农场里种香菇，委托了搜集“魔菇孢子”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,维德为的在农场里种香菇，委托了搜集“魔菇孢子”
 PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,制作新的飞轮
-PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,杂技师集团人员要制造新的飞轮，委托了搜集制造溜刃的材料“刀尾蚊的尾刃”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,杂技师集团人员要制造新的飞轮，委托了搜集制造溜刃的材料“刀尾蚊的尾刃”
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,杂技师集团人员要制造新的飞轮，委托了搜集制造溜刃的材料“刀尾刃”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,杂技师集团人员要制造新的飞轮，委托了搜集制造溜刃的材料“刀尾刃”
 PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,原住民的大变身
-PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,原住民为了逃离哇当卡，委托了搜集“哇当卡面具”，您要接受委托吗？
-PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,原住民为了逃离哇当卡，委托了搜集“哇当卡面具”
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,原住民为了逃离哇当卡，委托了搜集“土著面具”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,原住民为了逃离哇当卡，委托了搜集“土著面具”
 PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,木工所氾滥
 PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,顶级盾牌
-PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,雷米娜为了制造强化盾牌，委托了搜集“凤凰胸甲”，您要接受委托吗？
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,雷米娜为了制造强化盾牌，委托了搜集“火鸟胸甲”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,美少女选拔赛的奖品
 PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,瑞加大陆为了制造美少女选拔赛要使用的奖杯，委托了搜集材料“绿方石”，您要接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,瑞加大陆为了制造美少女选拔赛要使用的奖杯，委托了搜集材料“绿方石”
@@ -159,8 +159,8 @@ PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Wil
 PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,卢尼为了制作一个新的烟囱，委托了搜集制作烟囱的材料“象槌”
 PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),诡异的搜集家6
 PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,皮姬的委托
-PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,我想拜托你一件事情，我需要“皮皮珠”，可以接受我的委托吗？
-PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,皮姬委托了搜集“皮皮珠”不知道什么原因噎～
+PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,我想拜托你一件事情，我需要“鱼皮珠”，可以接受我的委托吗？
+PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,皮姬委托了搜集“鱼皮珠”不知道什么原因噎～
 PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,神秘的魔法材料
 PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,魔法大师委托你去收集能作为魔法材料的变种蝙蝠的指甲。你愿意接受委托吗？
 PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,你能从龙息荒野的变种蝙蝠群中收集这些物品。
@@ -191,17 +191,17 @@ PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,飞翼魔灯大部队
 PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,蒂娜请求减少飞翼魔灯的数量，因为它们给运输带来了问题。你能杀15只飞翼魔灯吗？
 PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,你可以发现飞翼魔灯在晨光大陆和莱斯庭院之间飞行。
 PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),蜂蛾的侵袭(2)
-PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
-PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,蒂娜正在寻求关于应对蜂蛾侵扰的进一步帮助。你能除掉苍翼蜂蛾之王吗？
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,你可以在晨光和帕里上空找到苍翼蜂蛾之王。
 PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),变异的独眼蝠(2)
-PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
-PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,蒂娜正在就变异独眼蝠的威胁寻求进一步的帮助。你能除掉变异独眼蝠之王吗？
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,你可以在帕里和晨光大陆间的上空找到变异独眼蝠之王。
 PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),蜻蜓(2)
-PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
-PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,蒂娜正在就变异刀尾蚊的威胁寻求进一步帮助。你能除掉变异刀尾蚊之王吗？
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,你可以在帕里和晨光大陆间的上空找到变异刀尾蚊之王。
 PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),飞翼魔灯大部队(2)
-PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
-PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,蒂娜正在就飞翼魔灯的威胁寻求进一步的帮助。你能除掉飞翼魔灯之王吗？
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,你可以在晨光和莱斯庭院的大陆间上空找到飞翼魔灯之王。
 PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,飞行马戏团
 PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,螺旋飞行人太烦人了，他们妨碍了达肯和帕里镇之间的交通。你能杀掉15个螺旋飞行人吗？
 PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,你可以发现螺旋飞行人在帕里镇和达肯大陆之间飞来飞去。
@@ -218,20 +218,20 @@ PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,史前鸟禽
 PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,亚尔玛尼要求消灭魔翼龙。它们是一个迫在眉睫的威胁! 请你杀掉15只魔翼龙好吗？
 PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.",你会发现魔翼龙在龙息荒野西部的山区上空飞来飞去。
 PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),飞行马戏团(2)
-PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
-PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,迪奥就螺旋飞行人的威胁寻求进一步的帮助。你能除掉螺旋飞行人之王吗？
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,你可以在帕里和达肯大陆间的上空找到螺旋飞行人之王。
 PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)",嗨！看呐！一只会飞的老鼠！(2)
-PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
-PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,艾米莉就魔翼兵的威胁寻求进一步的帮助。你能除掉魔翼兵之王吗？
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,你可以在时空牢房的东南方上空找到魔翼兵之王。
 PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),小飞龙(2)
-PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
-PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,艾米莉要求就龙宝宝的威胁提供进一步帮助。你能除掉龙宝宝之王吗？
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.",你可以在达肯3熔岩地带附近找到龙宝宝之王。
 PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),史前鸟禽(2)
-PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,艾米莉要求就魔翼龙的威胁提供进一步帮助。你能除掉魔翼龙之王吗？
 PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.",你会发现$QUEST_END_KILL_NAME$在龙息荒野的西部山区中飞来飞去。
 PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),猎杀变异巨眼怪(2)
-PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
-PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,艾米莉就变异巨眼怪的威胁寻求进一步的帮助。你能除掉变异巨眼怪之王吗？
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,你可以在达肯山脉上空找到变异巨眼怪之王。
 PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,你可以从任何类型的变种蝙蝠获得$QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,你可以从任何类型的独眼野熊得到$QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,你可以从任何类型的麻普厨师获得$QUEST_END_ITEM_NAME$。
@@ -242,7 +242,7 @@ PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),沉迷于水晶！ (
 PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),沉迷于水晶！ (3)
 PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),沉迷于水晶！ (4)
 PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),沉迷于水晶！ (5)
-PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,水晶! 嗯哼... $QUEST_END_ITEM_NAME$! 你可以帮我带些 $QUEST_END_ITEM_NAME$!?
 PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,您可以从任何类型的 机械水母 中获得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,您可以从任何类型的怪力羊中获得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,您可以从任何类型的尖角蜥中获得 $QUEST_END_ITEM_NAME$。
@@ -250,85 +250,85 @@ PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type 
 PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,您可以从任何类型的猛犸象中获得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,你做到了！万岁！这是你的奖励。
 PROPQUEST_REQUESTBOX_INC_020017,More! More!,还远远不够！
-PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,Bring Broken Wings
-PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,Tigar Bites
-PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,Googly-Eyed Gogloo
-PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,Nippy Waters
-PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,Hard Shell of the Creper
-PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,Crumbly Purple Essence
-PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,A Gray Picture of Dorian
-PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,King of Coral Island
-PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,Letter in a Bottle
-PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...
-PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!
-PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!
-PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...","All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share..."
-PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!","After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!"
-PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.","The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger."
-PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...
-PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!","The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!"
-PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...","With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone..."
-PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.
-PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.
-PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.
-PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.
-PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.
-PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.
-PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.
-PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.","You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas."
-PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.
-PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!","Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!"
-PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!"
-PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!"
-PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!"
-PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!"
-PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!"
-PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island."
-PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers."
-PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island."
-PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!"
-PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!
-PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.
-PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
-PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
-PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
-PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
-PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
-PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
-PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
-PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
-PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
-PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
-PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
-PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
-PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
-PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
-PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
-PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
-PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
-PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
-PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
-PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
-PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
-PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
-PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
-PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
-PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
-PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
-PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
-PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
-PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
-PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
-PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
-PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
-PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
-PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
-PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
-PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
-PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
-PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
-PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
-PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
-PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
-PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
-PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!
+PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,带回破损翅膀
+PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,虎袭
+PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,海盗眼镜
+PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,凛冽海域
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,螃蟹的硬壳
+PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,脆紫精华
+PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,变异枪鱼的肖像
+PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,珊瑚岛的王
+PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,瓶中信笺
+PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,你好，冒险者... 能帮我从巨齿蛉那弄些 $QUEST_END_ITEM_NAME$ 来吗? 我想制作巨大的翅膀，用它翱翔天空！把你找到的都给我……
+PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,众所周知，热带虎拥有瑞加大陆所有地区最坚固的牙齿。如果您有弄到 $QUEST_END_ITEM_NAME$ ，可以带几个给我吗？我正在制作一把巨大的匕首……很大！
+PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,强袭海盗的 $QUEST_END_ITEM_NAME$ 里的镜片，能让人的视力达到平常的三倍。帮我干够一票，我就能攒出望远镜，望穿半片瑞加大陆！
+PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...",搞了这么多发明，可把我饿坏了！你能去给我弄点金斯特的 霸王虾的 $QUEST_END_ITEM_NAME$ 吗？咱们就能吃得像王一样！别担心，我会分你一点的……
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!",吃了那么多海鲜，我一口也吃不下了！还是继续下一个发明。我需要那种叫巨钳蟹身上的 $QUEST_END_ITEM_NAME$  。用它们坚硬的甲壳，我可以打造出最坚固的铠甲。我预见到，穿上这副铠甲将拯救珊瑚岛！
+PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.",那伽是强大的海中战士……据说它们的 $QUEST_END_ITEM_NAME$ 蕴含着能驾驭紫色能量的魔力。我对紫色魔法心存敬畏，但杀不死你的，只会让你更强大。
+PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,变异枪鱼从我们岛屿周围的海域涌出来了！请击败它们，收集它们的 $QUEST_END_ITEM_NAME$ 作为证明。我的发明只能阻挡它们这么久……
+PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!",皇冠海妖的 $QUEST_END_ITEM_NAME$ 必须归我！我知道拥有它们的王冠并不会让我成为国王，但这会让我踏上梦想之路。成为珊瑚岛的国王！
+PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...","有了北海巨妖的 $QUEST_END_ITEM_NAME$ , 我终于可以给大洋彼岸的朋友们写信了。哎，总觉得时间不够，没法跟每个人都保持联系呢……"
+PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,你可以在岛上的任何一只巨齿蛉身上找到 $QUEST_END_ITEM_NAME$  。
+PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,你可以在岛上的任何一只热带虎身上找到 $QUEST_END_ITEM_NAME$  。
+PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,你可以在岛上的任何一只强袭海盗身上找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,你可以在岛上的任何一只霸王虾身上找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,你可以在岛上的任何一只巨钳蟹身上找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,你可以在岛上的任何一只那伽身上找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,你可以在岛上的任何一只变异枪鱼那找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.",你可以在岛附近海域的任何一只皇冠海妖那找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,你可以在岛深海区的任何一只北海巨妖那找到 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!",拜托了，别让我独自去收集 $QUEST_END_ITEM_NAME$ ……我正忙着构思新发明呢！
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！很快我就能轻松翱翔天空了。彩虹竞赛上见！"
+PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！很快我就会拥有瑞加大陆最大的匕首了。嘿嘿，看我去德米安人面前炫耀！"
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！很快我就能足不出户看遍风景了！"
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！我们要撑坏啦！吃吧，是时候大吃一顿了！"
+PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！很快我就会有足够的铠甲来保卫珊瑚岛抵御一切邪恶了！"
+PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！很快我会对紫色魔法了解更多……也许有一天足以阻止它的邪恶接管珊瑚岛。"
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！那些鱼一样的生物有种奇怪的力量，能让它们比别的生物衰老得慢。也许研究它们的牙齿能让我们洞察多里安的特殊力量。"
+PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！这只是个梦想……但我希望有一天能以珊瑚岛国王的身份再次迎接你。"
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","谢谢你收集了足够的 $QUEST_END_ITEM_NAME$, 冒险者！我决定亲手写这些信并亲自送出去。谢谢你做的一切……希望有一天能再见到你！"
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,这点 $QUEST_END_ITEM_NAME$ 远远不够我建造我的伟大发明……带更多回来！
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ 得意地大笑着！很快其发明就会成为现实。
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,疾行猎犬的头骨
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.",疾行猎犬聚集在凯伦边境附近，它们的头骨上带有奇异的纹路。穆兰人需要这些头骨来解读其仪式背后的秘密。
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,太好了！穆兰族群就指望你了。去收集 325 $QUEST_END_ITEM_NAME$ ，数量足够后再回来。你可以在疾行猎犬身上找到它们。
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,我明白了……但这些生物正变得越来越凶暴。改变主意的话就回来吧。
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.",你收集的头骨还不够……继续努力，每一个样本对我们都很重要。
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,完美！这些头骨对我们大有用处。凯伦感谢你的决心。
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,萨莫塞特的头骨
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,萨莫塞特的灵体在平原上变得愈发狂暴。凯伦的贤者们寻求它们的头骨，以查明这股异常骚动的根源。
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,谢谢你！萨莫塞特的灵体正变得不稳定。从萨莫塞特身上带回 325 $QUEST_END_ITEM_NAME$ ，这样我们就能分析它们的骚动。
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,好吧……但它们的骚动与日俱增。改变主意的话就回来吧。
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.",你收集的数量还不够……继续努力，我们必须弄清是什么在扰乱它们。
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,完美！这些头骨将帮助我们揭开真相。感谢你的帮助。
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,利爪奇什之爪
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,利爪奇什用腐蚀性的攻击伤到了许多穆兰侦察兵。我们需要它们的爪来炼制防护药剂。
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,很好！它们的爪正在毒害我们的侦察兵。从利爪奇什身上带回 325 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,我理解……但我们的药剂快用完了。想帮忙的话就回来吧。
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.",你还差一些。利爪奇什很危险，务必小心。
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.",太好了！有了这些爪，我们的治疗师就能配制出对症的解药。
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,追猎者库斯的解药
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,追猎者库斯的背腺中带有天然解药。凯伦急需它来治疗被狼人毒伤的战士。
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,谢谢你！它们的天然解药对我们受伤的士兵至关重要。从追猎者库斯身上带回 325 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,遗憾……还有几名战士仍在等待治疗。
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.",你收集的数量还不够。快些，每一滴都很重要。
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.",完美！多亏了你，我们终于能治疗伤员了。
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,绯云术士的魔法头骨
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,绯云术士的头骨中会生出一种神秘能量。穆兰的萨满想要研究这种魔法，以加固城市的防护结界。
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,很好！它们的头骨蕴含着神秘能量。我们必须研究它。从绯云术士身上带回 325 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,好吧……但这种魔法可以强化我们的防御。
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,你拥有的充能头骨还不够。继续努力！
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,干得好！这些头骨是真正的力量之源。
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,恶魔之牙
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,随着恶魔之灵不断增殖，一种奇异的腐蚀正在凯伦蔓延。它们的牙齿蕴含着恶魔精华，贤者们希望将其封印。
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,勇敢些！恶魔之灵的数量正在增多。它们的牙齿必须被封印。从恶魔之灵身上带回 325 $QUEST_END_ITEM_NAME$ 。
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,我理解……但它们的影响每夜都在进一步扩散。回来时务必小心。
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,牙齿还不足以封住恶魔能量。继续收集。
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,非常好！这些牙齿将被净化和中和。你帮了我们一个大忙。
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,地狱犬的染血獠牙
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.",地狱犬在离凯伦极近的地方游荡，它们沾血的獠牙会留下难以愈合的伤口。穆兰人需要这些獠牙来锻造足以击退这些野兽的武器。
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,完美！它们沾满鲜血的獠牙十分致命。从地狱犬身上带回 325 $QUEST_END_ITEM_NAME$ 供我们锻造。
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,好吧……但地狱犬仍在凯伦周围潜伏。
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,你收集的数量还不够。它们的獠牙是锻造退敌武器的关键。
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.",干得漂亮！多亏了你，我们能锻造出配得上最优秀穆兰战士的武器。
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ 由衷地感谢你！荣耀归于穆兰！
