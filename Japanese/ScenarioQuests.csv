@@ -428,8 +428,8 @@ PROPQUEST_SCENARIO_INC_001530,"I've done it!! Because of your bravery, I've foun
 PROPQUEST_SCENARIO_INC_001531,I'm still in the process of research. Please go and defeat 15 Small Tombstone Bearers & 7 Tombstone Bearers while I complete my work!,スモール・トムストンベアラーが特に邪魔をするんです。15体倒してください！どうかお願いします。
 PROPQUEST_SCENARIO_INC_001532,Defeat 15 Small Tombstone Bearers & 7 Tombstone Bearers.,スモール・トムストンベアラーを15体、トムストンベアラー7体退治しヘンデルに報告してくだい。
 PROPQUEST_SCENARIO_INC_001534,Endless Loop,終わりの無いループ
-PROPQUEST_SCENARIO_INC_001535,"While conducting my research, I found something of interest about the pillars carried by the Tombstone Bearers. It looks similar to those of Shade's temple.",調査をしたところ、偶然貴方が倒したトムストンベアラーの遺体から特異な点を見つけました。それは、彼らが持っている巨大な柱です。その柱の模様がイブリス寺院の柱と同じでした。
-PROPQUEST_SCENARIO_INC_001536,"Upon looking further into the information, I found that Tombstone Bearers were actually slaves of Shade that built her temple. But why would they be here in the Garden of Rhisis?",どうやら彼らはイブリス寺院を建築する際に奴隷として働かされていたようです。しかし、イブリス神殿の奴隷がなぜこのような場所にまで来ているのでしょうか。
+PROPQUEST_SCENARIO_INC_001535,"While conducting my research, I found something of interest about the pillars carried by the Tombstone Bearers. It looks similar to those of Shade's temple.",調査をしたところ、偶然貴方が倒したトムストンベアラーの遺体から特異な点を見つけました。それは、彼らが持っている巨大な柱です。その柱の模様がイブリス神殿の柱と同じでした。
+PROPQUEST_SCENARIO_INC_001536,"Upon looking further into the information, I found that Tombstone Bearers were actually slaves of Shade that built her temple. But why would they be here in the Garden of Rhisis?",どうやら彼らはイブリス神殿を建築する際に奴隷として働かされていたようです。しかし、イブリス神殿の奴隷がなぜこのような場所にまで来ているのでしょうか。
 PROPQUEST_SCENARIO_INC_001537,I need to acquire more data! Would you help me further by acquiring an Ancient Inscription? This might provide the insight I'm looking for!,もう少し調査が必要なようです。何度も申し訳ありませんが、キャプテン・トムストンベアラーを倒してさらに調査させて頂けませんか？
 PROPQUEST_SCENARIO_INC_001538,I knew you would have accepted. You too yearn to discover the truth! You can find a Ancient Inscription by defeating any of the Tombstone Bearers,ありがとうございます。トムストンベアラーの中でもキャプテンと冠名されているモンスターをお願いします。
 PROPQUEST_SCENARIO_INC_001539,How could you decline? This could potentially reveal so much to us about Shade's masquerpets and their growing strength!,そうですか……ちっ（この程度で断るようじゃ使えないわね
@@ -1142,135 +1142,135 @@ PROPQUEST_SCENARIO_INC_002430,"For now, I think the mystery of the Leren Chasm h
 PROPQUEST_SCENARIO_INC_002431,Eliminate the Caveman Chief and share the news with the Mayor of Flarine.,穴居人の首長を排除し、フラリス市長とニュースを共有します。
 PROPQUEST_SCENARIO_INC_002432,"Enter the Leren Chasm, then kill the Caveman Chief.",レレンの淵に入り、穴居人の首長を殺します。
 PROPQUEST_SCENARIO_INC_002433,The Mystery of Leren Chasm Part 1,レレンの淵の謎パート1
-PROPQUEST_SCENARIO_INC_002434,Remnant of Ishirut Part 1,イシルートの残党パート1
-PROPQUEST_SCENARIO_INC_002435,Trouble in the Sky,天空のトラブル
-PROPQUEST_SCENARIO_INC_002436,"The weather lately has been terrible! Recently lightning has been striking airships on route to Saint City, causing delays in our shipments.",最近の天気はひどいです!最近、セントシティに向かう飛行船に雷が落ち、出荷が遅れています。
-PROPQUEST_SCENARIO_INC_002437,I wonder what has caused all the bad weather lately? I am still on duty here for a while longer.,最近、何が悪天候を引き起こしたのだろうか?私はまだしばらくここで勤務しています。
-PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンは私と一緒に駅を管理するのを手伝ってくれます。彼女は偉大なエレメンターヒーロー、リリップの末裔として行動します。
-PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,パリーンは、なぜ空が最近そんなに怒っているのか知っているかもしれません。彼女と話してください!
-PROPQUEST_SCENARIO_INC_002440,The lightning is out of control... perhaps you can help us another time.,雷は制御不能です..おそらくあなたは別の機会に私たちを助けることができます。
-PROPQUEST_SCENARIO_INC_002441,"It is true, the airship deliveries have stopped due to lightning... We must get to the bottom of this, for Saint City.",確かに、雷のために飛行船の配達が停止しました。セントシティのために、私たちはこれの根底に到達しなければなりません。
-PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリーヌを見つけて、飛行船の状況を知らせてください。
-PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリーヌと会う。
-PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,角で雄牛をつかむ
-PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,セントシティに向かう飛行船から嵐の怒りを引き付けるには、ある種の避雷針が必要です。
-PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.",誰がそのようなデバイスを構築できるかはわかりませんが、それを行うには確かに大量の金属が必要になります。
-PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,セイントモーニングで最大の未精製の金属は、ロード・ダンブルの頭に付いている……。奴を倒して、メタリジカルブルリングを手に入れてくれ！
-PROPQUEST_SCENARIO_INC_002448,I suppose we could collect scrap metal...,スクラップぐらいならすぐ集められると思いますが...
-PROPQUEST_SCENARIO_INC_002449,You have found the ring!,指輪を見つけてくれたんですね！
-PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,ロード・ダンブルを狩り、そのリングを手に入れる。
-PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,ロード・ダンブルからメタリジカルブルリングを入手する。
-PROPQUEST_SCENARIO_INC_002452,Ring of Power,力の指輪
-PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,私はリングの冶金学的特性しか知りません。
-PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,ストレンジコレクターは、闘牛場が何ができるかについてもっと知っているかもしれません。
-PROPQUEST_SCENARIO_INC_002455,Keakoon are not that scary...,ケアクーンはそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",*鼻を鳴らす*それをよく見てください、冶金学のブルリング!この貴重なトロフィーを送ってくれたパリーヌに後で感謝する必要があります。
-PROPQUEST_SCENARIO_INC_002457,Go speak with the Strange Collector when you have a moment.,時間があるときにストレンジコレクターと話してください。
-PROPQUEST_SCENARIO_INC_002458,Meet with the Strange Collector.,奇妙なコレクターと会う。
-PROPQUEST_SCENARIO_INC_002459,Expert Metallurgist Colack,エキスパート冶金学者コラック
-PROPQUEST_SCENARIO_INC_002460,"Hmmm, well I guess I will not get to keep the ring after all if it is needed to create a lightning rod.",うーん、まあ、避雷針を作るのに必要なら、結局指輪を飼うことはできないと思います。
-PROPQUEST_SCENARIO_INC_002461,I have heard that ore from meteorites has an interesting reaction with the ring.,隕石からの鉱石はリングと興味深い反応を示すと聞いたことがあります。
-PROPQUEST_SCENARIO_INC_002462,Colack from Saint City could certaintly craft such a device if you can find the rare ore!,セントシティのColackは、珍しい鉱石を見つけることができれば、そのようなデバイスを確実に作成できます!
-PROPQUEST_SCENARIO_INC_002463,*Snarl* We will just have to weather the storm then...,*唸り声*それでは嵐を乗り切る必要があります..
-PROPQUEST_SCENARIO_INC_002464,The Strange Collector was smart to send you to me. With the right materials we can create a lightning rod to protect the Saint City Station.,奇妙なコレクターはあなたを私に送るのに賢かった。適切な材料を使用して、セントシティステーションを保護するための避雷針を作成できます。
-PROPQUEST_SCENARIO_INC_002465,Find Colack in Saint City and see if he can assist in crafting a lightning rod.,セントシティでコラックを見つけて、避雷針の作成を手伝ってくれるかどうかを確認してください。
-PROPQUEST_SCENARIO_INC_002466,Speak with Colack in Saint City.,セントシティのコラックと話してください。
-PROPQUEST_SCENARIO_INC_002467,Picking Up the Pieces,ピースを拾う
-PROPQUEST_SCENARIO_INC_002468,There has been an influx of Meteoritill lately ever since a meteorite fell in the Fantasy Desert.,ファンタジー砂漠に隕石が落ちて以来、最近隕石が流入しています。
-PROPQUEST_SCENARIO_INC_002469,"If I combine the Metallurgic Bull Ring, some Meteoritill, and Cardpuppet gears, I believe I can create a lightning rod strong enough to draw lightning away from the airships heading to Saint City!",冶金ブルリング、隕石、カードパペットのギアを組み合わせると、セントシティに向かう飛行船から稲妻を引き離すのに十分な強度の避雷針を作成できると思います!
-PROPQUEST_SCENARIO_INC_002470,"Search for Meteoritill at the meteor crash site in the Fantasy Desert, and defeat Cardpuppets to retrieve their gears.",ファンタジー砂漠の流星墜落現場で隕石を探し、カードパペットを倒して装備を取り戻そう。
-PROPQUEST_SCENARIO_INC_002471,"Meteoritill is safe to handle, I assure you...",隕石は安全に取り扱うことができます、私はあなたを保証します..
-PROPQUEST_SCENARIO_INC_002472,"Wonderful! Now that we have all the materials, it is time to finally craft the lightning rod.",いいですね！すべての材料が揃ったので、いよいよ避雷針を作りましょう。
-PROPQUEST_SCENARIO_INC_002473,Collect Meteoritill in the Fantasy Desert and gears from Cardpuppets.,ファンタジー砂漠で隕石を集め、カードパペットからギアを集めましょう。
-PROPQUEST_SCENARIO_INC_002474,Collect 5 Meteoritill and 10 Cardpuppet Gears.,5つの隕石と10のカードパペットギアを収集します。
-PROPQUEST_SCENARIO_INC_002475,Supercharged,スーパーチャー ジャー
-PROPQUEST_SCENARIO_INC_002476,"Aha, we've done it! The lightning rod is complete!",ああ、やった!避雷針が完成しました!
-PROPQUEST_SCENARIO_INC_002477,"Supercharge the lightning rod by visiting the Altar of Violet, then deliver the lightning rod to Tina and hope that it protects the Station.",バイオレットの祭壇を訪れて避雷針を過給し、避雷針をティナに届けて、それがステーションを保護することを願っています。
-PROPQUEST_SCENARIO_INC_002478,Without power the lightning rod we've built has no use...,力がなければ、私たちが作った避雷針は役に立たない。
-PROPQUEST_SCENARIO_INC_002479,Thank you for delivering the lightning rod! I believe with this installed our airships will be safe.,避雷針を届けてくれてありがとう!これを設置すれば、私たちの飛行船は安全になると思います。
-PROPQUEST_SCENARIO_INC_002480,You cannot deliver the lightning rod until has been supercharged...,過給されるまで避雷針を届けることはできません。
-PROPQUEST_SCENARIO_INC_002481,"Locate the Altar of Violet, supercharge the lightning rod, then report to Tina.",バイオレットの祭壇を見つけ、避雷針を過給してから、ティナに報告してください。
-PROPQUEST_SCENARIO_INC_002482,Spark in the Dark,暗闇の中で火花
-PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",何かがまだ私を悩ませています...なぜこれらの嵐が起こっているのですか?たぶん、歴史協会の会長であるゴダンテは知っているかもしれません。
-PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴダンテとのフォーラムを探して、天気で何が起こっているのかを理解してください。
-PROPQUEST_SCENARIO_INC_002485,"Well... at least the airships are safe for now. I wonder why all the bad weather, though?",まぁ。。少なくとも飛行船は今のところ安全です。しかし、なぜすべての悪天候なのかしら?
-PROPQUEST_SCENARIO_INC_002486,The storms lately have raged on for far too long! I have a feeling I know what has caused these storms.,最近の嵐はあまりにも長い間猛威を振るっています!私はこれらの嵐の原因を知っていると感じています。
-PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴダンテを見つけて、天気で何が起こっているのか知っているかどうかを確認してください。
-PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴダンテと会う。
-PROPQUEST_SCENARIO_INC_002489,Ishirut's Return?,イシルートの帰還?
-PROPQUEST_SCENARIO_INC_002490,Over many years our society has collected rare texts that reveal the history of the world of Madrigal. Eons ago a god of lightning helped create this world. That god was named Ishirut. ,長年にわたり、私たちの社会はマドリガルの世界の歴史を明らかにする珍しいテキストを収集してきました。はるか昔、稲妻の神がこの世界を創造するのを助けました。その神はイシルトと名付けられました。
-PROPQUEST_SCENARIO_INC_002491,"Perhaps ripples of Ishirut's spirit have returned to give us a sign, but I have no connection to the gods. Perhaps this is work for a mystic of sorts.",おそらくイシルートの精神の波紋が戻ってきてしるしを与えてくれたのかもしれませんが、私は神々とは何の関係もありません。おそらくこれはある種の神秘家のための仕事です。
-PROPQUEST_SCENARIO_INC_002492,"I believe that YaoRin of the MewMew people has the power to reveal the truth, but the MewMew clan are distrusting of most humans. Anyway, I recommend you go speak with YaoRin and see if they are willing to cooperate. They are our best chance at learning what the gods are up to.",ミュウミュウ族のヤオリンには真実を明らかにする力があると思いますが、ミュウミュウ一族はほとんどの人間に不信感を抱いています。とにかく、YaoRinと話をして、彼らが協力してくれるかどうかを確認することをお勧めします。彼らは神々が何をしているのかを学ぶための私たちの最高のチャンスです。
-PROPQUEST_SCENARIO_INC_002493,"While a bit standoffish, the MewMew clan is not that scary...",少しスタンドオフですが、ミュウミュー一族はそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",*うーん*それで、あなたはその男ゴダンテによって送られました。それでも、私はあなたを少しも信用していません。
-PROPQUEST_SCENARIO_INC_002495,Find YaoRin in the MewMew camp just outside the walls of western Saint City.,聖都市西部の城壁のすぐ外にあるミュウミューキャンプでヤオリンを見つけましょう。
-PROPQUEST_SCENARIO_INC_002496,Speak to YaoRin.,ヤオリンと話してください。
-PROPQUEST_SCENARIO_INC_002497,Remnant of Ishirut Part 2,イシルートの残党パート2
+PROPQUEST_SCENARIO_INC_002434,Remnant of Ishirut Part 1,イシルートの残影 第1部
+PROPQUEST_SCENARIO_INC_002435,Trouble in the Sky,空の異変
+PROPQUEST_SCENARIO_INC_002436,"The weather lately has been terrible! Recently lightning has been striking airships on route to Saint City, causing delays in our shipments.",最近、天気がひどく荒れてるんです！ セイントモーニングへ向かう飛行船に雷が落ちることもあって、物資の輸送にも遅れが出てるんですよ。
+PROPQUEST_SCENARIO_INC_002437,I wonder what has caused all the bad weather lately? I am still on duty here for a while longer.,どうして最近こんなに天気が荒れてるんでしょう？ 私はまだしばらくここを離れられないし...
+PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンヌは、私と一緒にステーションを管理してるんです。それに、偉大なエレメンターの英雄、リルリップの子孫でもあるんですよ。
+PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,最近どうして空がこんなに怒ってるのか、パリンヌなら何か知ってるかもしれません。話を聞いてきてもらえますか？
+PROPQUEST_SCENARIO_INC_002440,The lightning is out of control... perhaps you can help us another time.,雷がひどくて、もう手に負えません...。また今度、手を貸してもらえるとうれしいです。
+PROPQUEST_SCENARIO_INC_002441,"It is true, the airship deliveries have stopped due to lightning... We must get to the bottom of this, for Saint City.",ええ、本当よ。雷のせいで飛行船の輸送が止まってるの...。セイントモーニングのためにも、原因を突き止めないとね。
+PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリンヌを探して、飛行船の状況を伝えてください。
+PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリンヌと話す
+PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,牛の角をつかめ！
+PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,セイントモーニングへ向かう飛行船に雷が落ちないように、嵐の雷を引きつける避雷針みたいなものが必要ね...
+PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.",誰ならそんなものを作れるのかは分からないけど、作るには大量の金属が必要になるはずよ。
+PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,セイントモーニングで一番大きな金属の塊なら、ロード・ダンブルの頭にぶら下がってるわ...。ロード・ダンブルを倒して、＜メタリジカル・ブルリング＞を手に入れてきて！
+PROPQUEST_SCENARIO_INC_002448,I suppose we could collect scrap metal...,仕方ないわね...。地道に金属くずでも集めようかしら...
+PROPQUEST_SCENARIO_INC_002449,You have found the ring!,メタリジカル・ブルリングを手に入れたのね！
+PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,ロード・ダンブルを倒して、ブルリングを奪ってきて！
+PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,ロード・ダンブルから＜メタリジカル・ブルリング＞を手に入れる
+PROPQUEST_SCENARIO_INC_002452,Ring of Power,リングの力
+PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,私に分かるのは、このリングの金属としての性質くらいなのよね。
+PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,謎のコレクターなら、このブルリングについてもっと詳しく分かるかもしれないわ。
+PROPQUEST_SCENARIO_INC_002455,Keakoon are not that scary...,もう、キクン族ってそんなに怖くはないわよ...
+PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",フンッ...これは驚いた、メタリジカル・ブルリングじゃないか！ こんな貴重な収集品を持ったあんたをわたしのところへ寄こしてくれたんだ。あとでパリンヌに礼を言わないとな。
+PROPQUEST_SCENARIO_INC_002457,Go speak with the Strange Collector when you have a moment.,時間があるときに、謎のコレクターと話してきてね。
+PROPQUEST_SCENARIO_INC_002458,Meet with the Strange Collector.,謎のコレクターと話す
+PROPQUEST_SCENARIO_INC_002459,Expert Metallurgist Colack,冶金の達人コラック
+PROPQUEST_SCENARIO_INC_002460,"Hmmm, well I guess I will not get to keep the ring after all if it is needed to create a lightning rod.",う～む...避雷針を作るのに必要だというなら、さすがにこのリングをわたしのものにはできないか。
+PROPQUEST_SCENARIO_INC_002461,I have heard that ore from meteorites has an interesting reaction with the ring.,隕石から採れる鉱石が、このリングと面白い反応を起こすと聞いたことがあるぞ。
+PROPQUEST_SCENARIO_INC_002462,Colack from Saint City could certaintly craft such a device if you can find the rare ore!,その珍しい鉱石さえ見つかれば、セイントモーニングのコラックなら間違いなく避雷針を作れるはずだ！
+PROPQUEST_SCENARIO_INC_002463,*Snarl* We will just have to weather the storm then...,グルル...それなら、嵐が過ぎるまで耐えるしかないな...
+PROPQUEST_SCENARIO_INC_002464,The Strange Collector was smart to send you to me. With the right materials we can create a lightning rod to protect the Saint City Station.,謎のコレクターも見る目があるな。ここへあんたを寄こしたのは正解だ。材料さえ揃えば、セイントモーニングのステーションを守る避雷針を作ってやれるぞ。
+PROPQUEST_SCENARIO_INC_002465,Find Colack in Saint City and see if he can assist in crafting a lightning rod.,セイントモーニングにいるコラックを探して、避雷針を作れるか聞いてみるんだ。
+PROPQUEST_SCENARIO_INC_002466,Speak with Colack in Saint City.,セイントモーニングにいるコラックと話す
+PROPQUEST_SCENARIO_INC_002467,Picking Up the Pieces,パーツを集めろ！
+PROPQUEST_SCENARIO_INC_002468,There has been an influx of Meteoritill lately ever since a meteorite fell in the Fantasy Desert.,夢幻の砂漠に隕石が落ちてから、最近＜メテオライティル＞が大量に現れるようになったんだ。
+PROPQUEST_SCENARIO_INC_002469,"If I combine the Metallurgic Bull Ring, some Meteoritill, and Cardpuppet gears, I believe I can create a lightning rod strong enough to draw lightning away from the airships heading to Saint City!",メタリジカル・ブルリングに＜メテオライティル＞と＜カードパペットの歯車＞を組み合わせれば、セイントモーニングへ向かう飛行船から雷をそらせるほど強力な避雷針を作れるはずだ！
+PROPQUEST_SCENARIO_INC_002470,"Search for Meteoritill at the meteor crash site in the Fantasy Desert, and defeat Cardpuppets to retrieve their gears.",夢幻の砂漠にある隕石の落下地点で＜メテオライティル＞を探してくれ。それからカードパペットを倒して、奴らの歯車も集めてきてくれ！
+PROPQUEST_SCENARIO_INC_002471,"Meteoritill is safe to handle, I assure you...",心配するな、メテオライティルなら触っても安全だ。そこは保証するぞ...
+PROPQUEST_SCENARIO_INC_002472,"Wonderful! Now that we have all the materials, it is time to finally craft the lightning rod.",よし！ これで材料は全部揃った。いよいよ＜避雷針＞を作るとするか！
+PROPQUEST_SCENARIO_INC_002473,Collect Meteoritill in the Fantasy Desert and gears from Cardpuppets.,夢幻の砂漠で＜メテオライティル＞を、カードパペットから奴らの歯車を集めてきてくれ。
+PROPQUEST_SCENARIO_INC_002474,Collect 5 Meteoritill and 10 Cardpuppet Gears.,＜メテオライティル＞を5個、＜カードパペットの歯車＞を10個集める
+PROPQUEST_SCENARIO_INC_002475,Supercharged,フルチャージ！
+PROPQUEST_SCENARIO_INC_002476,"Aha, we've done it! The lightning rod is complete!",よし、できたぞ！ 避雷針の完成だ！
+PROPQUEST_SCENARIO_INC_002477,"Supercharge the lightning rod by visiting the Altar of Violet, then deliver the lightning rod to Tina and hope that it protects the Station.",バイオレットの祭壇へ行って、避雷針をチャージしてきてくれ。それが済んだらティナに届けるんだ。ステーションを守ってくれるといいんだがな。
+PROPQUEST_SCENARIO_INC_002478,Without power the lightning rod we've built has no use...,チャージしなきゃ、せっかく作った避雷針も役に立たないぞ...
+PROPQUEST_SCENARIO_INC_002479,Thank you for delivering the lightning rod! I believe with this installed our airships will be safe.,避雷針を届けてくれてありがとうございます！ これを設置すれば、飛行船もきっと安全になると思います。
+PROPQUEST_SCENARIO_INC_002480,You cannot deliver the lightning rod until has been supercharged...,避雷針をチャージするまでは、ティナに届けられないぞ...
+PROPQUEST_SCENARIO_INC_002481,"Locate the Altar of Violet, supercharge the lightning rod, then report to Tina.",バイオレットの祭壇を探し、避雷針をチャージしてからティナに報告する
+PROPQUEST_SCENARIO_INC_002482,Spark in the Dark,闇を照らす火花
+PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",でも、まだ気になることがあるんです...。そもそも、どうしてこんな嵐が起きてるんでしょう？ 歴史協会の会長、ゴダンテさんなら何か知ってるかもしれません。
+PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴダンテさんに話を聞いて、この異常な天気の原因を探ってみてください！
+PROPQUEST_SCENARIO_INC_002485,"Well... at least the airships are safe for now. I wonder why all the bad weather, though?",そうですか...。まあ、今のところ飛行船は安全ですしね。でも、どうしてこんなに天気が荒れてるんでしょう...？
+PROPQUEST_SCENARIO_INC_002486,The storms lately have raged on for far too long! I have a feeling I know what has caused these storms.,最近の嵐は、あまりにも長く続きすぎている！ この嵐の原因について、私には思い当たるものがある。
+PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴダンテさんを探して、この天気について何か知らないか聞いてみてください。
+PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴダンテと話す
+PROPQUEST_SCENARIO_INC_002489,Ishirut's Return?,イシルートの帰還？
+PROPQUEST_SCENARIO_INC_002490,Over many years our society has collected rare texts that reveal the history of the world of Madrigal. Eons ago a god of lightning helped create this world. That god was named Ishirut. ,我々の歴史協会は長年にわたり、マドリガルの歴史を伝える貴重な文献を収集してきた。はるか太古、この世界の創造に力を貸した雷の神がいた。その神の名は、イシルート。
+PROPQUEST_SCENARIO_INC_002491,"Perhaps ripples of Ishirut's spirit have returned to give us a sign, but I have no connection to the gods. Perhaps this is work for a mystic of sorts.",もしかすると、イシルートの魂の気配が再び現れ、我々に何かを知らせようとしているのかもしれない。だが、私には神々とのつながりなどない。こういうことは、神秘の力に通じた者の領分かもしれんな。
+PROPQUEST_SCENARIO_INC_002492,"I believe that YaoRin of the MewMew people has the power to reveal the truth, but the MewMew clan are distrusting of most humans. Anyway, I recommend you go speak with YaoRin and see if they are willing to cooperate. They are our best chance at learning what the gods are up to.",ミュウミュウ族のヤオリンなら、真実を見通す力を持っているはずだ。だが、ミュウミュウ族はたいていの人間を信用しない。ともかく、ヤオリンを訪ねて協力してもらえないか話してみたまえ。神々に何が起きているのかを知るには、彼女を頼るのが一番だろう。
+PROPQUEST_SCENARIO_INC_002493,"While a bit standoffish, the MewMew clan is not that scary...",少々よそよそしいところはあるが、ミュウミュウ族もそれほど怖くはないぞ...
+PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",フン...あのゴダンテという男に遣わされてきたのね。だからといって、あなたを信用するつもりは少しもないわ。
+PROPQUEST_SCENARIO_INC_002495,Find YaoRin in the MewMew camp just outside the walls of western Saint City.,セイントモーニング西側の城壁を出たところにあるミュウミュウ族のキャンプで、ヤオリンを探したまえ。
+PROPQUEST_SCENARIO_INC_002496,Speak to YaoRin.,ヤオリンと話す
+PROPQUEST_SCENARIO_INC_002497,Remnant of Ishirut Part 2,イシルートの残影 第2部
 PROPQUEST_SCENARIO_INC_002498,YaoRin's Trust,ヤオリンの信頼
-PROPQUEST_SCENARIO_INC_002499,"I see... you wish to see my powers of the mind. Well, the MewMew people are not very trusting of outsiders.",なるほど。。あなたは私の心の力を見たいのです。さて、ミュウミューの人々は部外者をあまり信頼していません。
-PROPQUEST_SCENARIO_INC_002500,"If you really want to have a fortune read you will need permission from the leader of the MewMew clan, Locku. Before I will allow you to speak to Locku, you must prove yourself to me.",本当に占いを読ませたい場合は、ミュウミュウ一族のリーダーであるロックーの許可が必要です。私があなたにロックーと話すことを許す前に、あなたは私に自分自身を証明しなければなりません。
-PROPQUEST_SCENARIO_INC_002501,"Prove your worth by bringing me the Hearts of Red Otem who reside in the Iblis Dungeon. If you can do that, then I will let you speak with our leader.",イブリスダンジョンに住むレッドコルムの心臓を持ってきて、あなたの価値を証明してください。あなたがそれをすることができるなら、私はあなたに私たちのリーダーと話させます。
-PROPQUEST_SCENARIO_INC_002502,If you cannot do a simple task then you are not worthy of to speak to the MewMew clan leader...,単純な作業ができない場合は、ミュウミュウ一族のリーダーと話す価値がありません。
-PROPQUEST_SCENARIO_INC_002503,"We distrust you humans, but I see you have helped YaoRin in eliminating our mortal enemies, the Otems.",私たちはあなた方人間を信用していませんが、あなたはヤオリンが私たちの致命的な敵であるオテムを排除するのを助けたようです。
-PROPQUEST_SCENARIO_INC_002504,Go find Hearts of the Red Otem in the Iblis Dungeon.,レッドコルムの心臓を探しに、イブリスダンジョンに行きましょう。
-PROPQUEST_SCENARIO_INC_002505,Collect 3 Heart of Red Otem.,レッドコルム・ハートを3つ集める。
-PROPQUEST_SCENARIO_INC_002506,"Locku, Leader of the MewMew",ロックー、ミュウミュウのリーダー
-PROPQUEST_SCENARIO_INC_002507,"I will share with you an explanation of our disdain for the Otems... We believe that eons ago, Otems stole the remaining power from an ancient god named Shelid that was a bastion of protection for this land long ago. ",オテムに対する私たちの軽蔑の説明をあなたと共有します。はるか昔、オテムスははるか昔、この土地の保護の要塞であったシェリッドという古代の神から残りの力を盗んだと信じています。
-PROPQUEST_SCENARIO_INC_002508,"While you may have proven yourself enough to YaoRin to speak to me, you must further show that you are worthy to receive the MewMew clan's assistance.",ヤオリンが私に話しかけるのに十分なことを証明したかもしれませんが、ミュウミュウ一族の支援を受けるに値することをさらに示さなければなりません。
-PROPQUEST_SCENARIO_INC_002509,"Thin the herd of Totemia that taint the Southern Hillid Mountains and destroy their leader. If you can take down the leader of the Totemia, then you have earned our trust enough for YaoRin's help... once.",南ヒリッド山脈を汚すトテミアの群れを薄くし、彼らのリーダーを破壊します。トテミアのリーダーを倒すことができれば、ヤオリンの助けのために私たちの信頼を得ています..。ある時。
-PROPQUEST_SCENARIO_INC_002510,"If you refuse this task, the MewMew will not assist you in your mission.",このタスクを拒否した場合、ミュウミュウはあなたの任務を支援しません。
-PROPQUEST_SCENARIO_INC_002511,You have earned the MewMew clan's trust... for now.,あなたはミュウミュウ一族の信頼を得ました。今のところ。
-PROPQUEST_SCENARIO_INC_002512,Go defeat Totemia and eliminate their leader.,トテミアを倒し、彼らのリーダーを排除してください。
-PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,トーテミアを20体、ロード・トーテミアを1体倒す。
+PROPQUEST_SCENARIO_INC_002499,"I see... you wish to see my powers of the mind. Well, the MewMew people are not very trusting of outsiders.",なるほど...私の力を見せてほしいということね。けれど、ミュウミュウ族はよそ者を簡単には信用しないわ。
+PROPQUEST_SCENARIO_INC_002500,"If you really want to have a fortune read you will need permission from the leader of the MewMew clan, Locku. Before I will allow you to speak to Locku, you must prove yourself to me.",本当に占ってほしいのなら、ミュウミュウ族の長、ロックの許しが必要よ。でも、ロックに会わせる前に、まずは私にあなたの価値を証明してもらうわ。
+PROPQUEST_SCENARIO_INC_002501,"Prove your worth by bringing me the Hearts of Red Otem who reside in the Iblis Dungeon. If you can do that, then I will let you speak with our leader.",イブリス神殿にいるレッド・オーテムから、その心臓を手に入れて持ってきなさい。それができたら、私たちの長と話すことを許してあげるわ。
+PROPQUEST_SCENARIO_INC_002502,If you cannot do a simple task then you are not worthy of to speak to the MewMew clan leader...,この程度のこともできないのなら、ミュウミュウ族の長と話す資格はないわ...
+PROPQUEST_SCENARIO_INC_002503,"We distrust you humans, but I see you have helped YaoRin in eliminating our mortal enemies, the Otems.",我々は、お前たち人間を信用していない。だが、ヤオリンに力を貸し、我々の宿敵であるオーテムを倒したことは認めよう。
+PROPQUEST_SCENARIO_INC_002504,Go find Hearts of the Red Otem in the Iblis Dungeon.,イブリス神殿へ行き、＜レッド・オーテムの心臓＞を手に入れてきなさい。
+PROPQUEST_SCENARIO_INC_002505,Collect 3 Heart of Red Otem.,＜レッド・オーテムの心臓＞を3個集める
+PROPQUEST_SCENARIO_INC_002506,"Locku, Leader of the MewMew",ミュウミュウ族の長、ロック
+PROPQUEST_SCENARIO_INC_002507,"I will share with you an explanation of our disdain for the Otems... We believe that eons ago, Otems stole the remaining power from an ancient god named Shelid that was a bastion of protection for this land long ago. ",我々がなぜオーテムを忌み嫌っているのか、話しておこう...。我々は、はるか昔、オーテムがこの地を守っていた古代の神シェリッドから、その残された力を盗んだと信じている。
+PROPQUEST_SCENARIO_INC_002508,"While you may have proven yourself enough to YaoRin to speak to me, you must further show that you are worthy to receive the MewMew clan's assistance.",ヤオリンには、私と話すに値する者だと認められたようだ。だが、ミュウミュウ族の助力を得たいのなら、さらにその価値を示してもらう。
+PROPQUEST_SCENARIO_INC_002509,"Thin the herd of Totemia that taint the Southern Hillid Mountains and destroy their leader. If you can take down the leader of the Totemia, then you have earned our trust enough for YaoRin's help... once.",ヒルリド山脈南部を汚すトーテミアを倒し、ロード・トーテミアも討ち取ってこい。ロード・トーテミアを倒せたなら、ヤオリンの助力を受けるだけの信用は認めよう...ただし、一度だけだ。
+PROPQUEST_SCENARIO_INC_002510,"If you refuse this task, the MewMew will not assist you in your mission.",この試練を拒むというなら、ミュウミュウ族がお前の使命に力を貸すことはない。
+PROPQUEST_SCENARIO_INC_002511,You have earned the MewMew clan's trust... for now.,ミュウミュウ族の信頼は得られたようね...今のところは。
+PROPQUEST_SCENARIO_INC_002512,Go defeat Totemia and eliminate their leader.,トーテミアを倒し、ロード・トーテミアも討ち取ってこい。
+PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,トーテミアを20体、ロード・トーテミアを1体倒す
 PROPQUEST_SCENARIO_INC_002514,The Third Eye Opens,第三の目が開く
-PROPQUEST_SCENARIO_INC_002515,"I will grant you one reading, but I require special materials to perform the ritual.",私はあなたに1つの読書を許可しますが、私は儀式を行うために特別な材料を必要とします。
-PROPQUEST_SCENARIO_INC_002516,Please bring me a Black Curse Book and 5 Black Heroca from the Garden of Rhisis.,リシスの庭から黒い呪いの本と5つの黒いヘロカを持ってきてください。
-PROPQUEST_SCENARIO_INC_002517,"Do not fear the future, for it is inevitable.",未来を恐れないでください、それは避けられないからです。
-PROPQUEST_SCENARIO_INC_002518,With these items I can perform the ritual to read from the fabric of time. We will finally know the true meaning of these storms!,これらのアイテムを使用して、時間の構造から読み取る儀式を行うことができます。私たちはついにこれらの嵐の本当の意味を知るでしょう!
-PROPQUEST_SCENARIO_INC_002519,Search the Garden of Rhisis for a Black Curse Book and the Black Heroca plant.,リシスの園で黒い呪いの本と黒いヘロカの植物を探してください。
-PROPQUEST_SCENARIO_INC_002520,Collect 5 Black Heroca and 1 Black Curse Book.,黒ヘロカ5冊と黒の呪いの本1冊を集める。
-PROPQUEST_SCENARIO_INC_002521,Seeing the Light,光を見る
-PROPQUEST_SCENARIO_INC_002522,"The murky darkness clouding our vision of the future clears up with the use of these special herbs, when combined with a powerful cursed item. It takes a toll on me every time...",未来のビジョンを曇らせている暗い闇は、強力な呪われたアイテムと組み合わせると、これらの特別なハーブを使用することでクリアされます。それは毎回私に負担をかけます..
-PROPQUEST_SCENARIO_INC_002523,"The darkness is lifting! And the truth is just as I feared... remnants of the lightning god, Ishirut, have stirred, creating a powerful beast that hides in the stormy mountains of the Garden of Rhisis...",暗闇が解き放たれています!そして真実は私が恐れていた通りです..稲妻の神イシルートの残党がかき混ぜられ、リシスの庭の嵐の山々に隠れる強力な獣を生み出しました。
-PROPQUEST_SCENARIO_INC_002524,"I am too weak from the ritual to do anything about the remnant of Ishirut, but here is a map that will lead you to where the creature is hiding.",私は儀式から弱すぎてイシルートの残党について何もできませんが、ここに生き物が隠れている場所にあなたを導く地図があります。
-PROPQUEST_SCENARIO_INC_002525,Ishirut was known to be one of the most powerful beings in existence... fear of them is nothing to be ashamed of.,イシルートは、現存する中で最も強力な存在の一人として知られていました。彼らへの恐れは恥ずべきことではありません
-PROPQUEST_SCENARIO_INC_002526,"Ah, the MewMew clan sent word of your arrival. I have been stationed outside this ruined temple to prevent travelers from facing death before their time has come. Inside are beasts of great power.",ああ、ミュウミュウ一族はあなたの到着の知らせを送りました。私はこの廃墟となった寺院の外に駐屯し、旅行者が時が来る前に死に直面するのを防ぎます。中には大きな力の獣がいます。
-PROPQUEST_SCENARIO_INC_002527,Only enter if you feel truly prepared for a difficult challenge. I have heard rumors that the beast in the deepest part of the ruins holds a remnant of an ancient god's power.,困難な挑戦に本当に準備ができていると感じた場合にのみ参加してください。遺跡の最深部にいる獣には、古代の神の力の名残が残っているという噂を聞いたことがあります。
-PROPQUEST_SCENARIO_INC_002528,Follow the map to find the creature's lair.,地図に従って、生き物の隠れ家を見つけてください。
-PROPQUEST_SCENARIO_INC_002529,Find the lair of Ishirut's remnant.,イシルートの残党の隠れ家を見つけよう。
-PROPQUEST_SCENARIO_INC_002530,Remnant of Ishirut Part 3,イシルートの残党パート3
-PROPQUEST_SCENARIO_INC_002531,Jeepers Creepers,ジーパーズクリーパーズ
-PROPQUEST_SCENARIO_INC_002532,"A small group recently went inside the catacombs, but have not returned in several hours. I fear they have fallen to whatever creatures may be inside. ",最近、小さなグループがカタコンベの中に入ったが、数時間戻ってこなかった。私は彼らが中にいるかもしれないどんな生き物にも落ちたのではないかと心配しています。
-PROPQUEST_SCENARIO_INC_002533,"A thick webbing has appeared around the entrance, and I hear loud footsteps not far within the depths of the ruins.",入り口の周りに厚い水かきが現れ、遺跡の奥深くでそれほど遠くないところで大きな足音が聞こえます。
-PROPQUEST_SCENARIO_INC_002534,Go inside and find out what happened to the group before you.,中に入って、あなたの前にグループに何が起こったのかを調べてください。
-PROPQUEST_SCENARIO_INC_002535,Scared of a few spiders? Those poor adventurers...,いくつかのクモが怖いですか?あの哀れな冒険者たち..
-PROPQUEST_SCENARIO_INC_002536,"I see... so you found only the remains of their armor. It is a shame what has happened, but you seem to be strong enough to continue pushing deeper into the ruins.",なるほど。。それで、あなたは彼らの鎧の残骸だけを見つけました。何が起こったのか残念ですが、あなたは廃墟の奥深くに押し込み続けるのに十分強いようです。
-PROPQUEST_SCENARIO_INC_002537,Investigate the disappearance of the lost adventurers.,行方不明の冒険者の失踪を調査します。
-PROPQUEST_SCENARIO_INC_002538,Collect 10 Clothing Scraps and 1 Broken Shield.,衣類の切れ端を10個、壊れた盾を1個集める。
-PROPQUEST_SCENARIO_INC_002539,Over Encumbered,邪魔されすぎ
-PROPQUEST_SCENARIO_INC_002540,"One thing still troubles me though... The thick webbing around the entrance can be explained by the spiders, but what creature could have such loud, stomping footsteps?",しかし、まだ1つのことが私を悩ませています..入り口の周りの厚い水かきはクモによって説明することができますが、どの生き物がそのような大声で踏み鳴らす足音を持つことができますか?
-PROPQUEST_SCENARIO_INC_002541,Go deeper into the ruins and find out what is making that loud thumping noise.,廃墟の奥深くに行き、その大きなゴツゴツという音を立てているものを見つけてください。
-PROPQUEST_SCENARIO_INC_002542,I won't blame you for avoing whatever beast awaits the next group of adventurers. It sounds big...,次の冒険者グループを待っている獣を犯したことであなたを責めるつもりはありません。それは大きく聞こえます..
-PROPQUEST_SCENARIO_INC_002543,"Sadly it seems the adventurers all fell to the power of the the massive gorilla inside the ruins... I believe the group would have wanted you to finish what they set out to do. Here, take their belongings. Perhaps it will help.",悲しいことに、冒険者たちは皆、廃墟の中の巨大なゴリラの力に落ちたようです。グループはあなたに彼らがやろうとしていることを終えてほしかっただろうと私は信じています。ここで、彼らの持ち物を取ります。おそらくそれは役立つでしょう。
-PROPQUEST_SCENARIO_INC_002544,Investigate the loud sound of footsteps within the catacombs.,カタコンベ内の大きな足音を調べます。
-PROPQUEST_SCENARIO_INC_002545,Collect 10 Dungeoneer's Pack and 1 Broken Sword.,ダンジョンパック10個と壊れた剣1個を集める。
-PROPQUEST_SCENARIO_INC_002546,Petrified Wood,珪化木
-PROPQUEST_SCENARIO_INC_002547,"From the information we have available, the remnant of Ishirut hides in the very heart of the catacombs.",私たちが入手した情報から、イシルトの残骸はカタコンベのまさに中心に隠れています。
-PROPQUEST_SCENARIO_INC_002548,"You have already made it further than the last group, keep pushing and find out what lies in store.",あなたはすでに最後のグループよりも進んでいます、プッシュし続けて、何が待ち受けているかを見つけてください。
-PROPQUEST_SCENARIO_INC_002549,You've made it so far... why give up now?,あなたはここまでそれを成し遂げました..なぜ今あきらめるのですか?
-PROPQUEST_SCENARIO_INC_002550,Fascinating! The bark from the large tree creature seems to have the symbol of Shelid etched on the surface... Does this mean that the catacombs were originally an altar to Shelid themself?,大きな木の生き物の樹皮は、表面にシェリッドのシンボルが刻まれているようです。これは、カタコンベがもともとシェリッド自身の祭壇であったことを意味しますか?
-PROPQUEST_SCENARIO_INC_002551,"Investigate the the catacombs further, there is still more to see.",カタコンベをさらに調査すると、まだまだ見るべきものがあります。
-PROPQUEST_SCENARIO_INC_002552,Collect 10 Tainted Root and 1 Cracked Bark of Shelid.,10個の汚染された根と1個のひびの入ったシェリッドの樹皮を集める。
-PROPQUEST_SCENARIO_INC_002553,A Shocking Conclusion,衝撃的な結論
-PROPQUEST_SCENARIO_INC_002554,So many mysteries still to unfold... but I believe you are now close to the heart of the catacombs.,まだ多くの謎が展開しています..しかし、あなたは今、カタコンベの中心に近いと思います。
-PROPQUEST_SCENARIO_INC_002555,"Enter once more and clear out the remnant of Ishirut if you are capable of doing so. Prepare yourself before entering again, for I fear the beast within the depths of the ruins is far stronger than you could imagine.",もう一度入り、イシルトの残党を片付ければ、そうすることができます。再び入る前に準備をしてください、廃墟の奥にいる獣はあなたが想像できるよりもはるかに強いのではないかと私は恐れているからです。
-PROPQUEST_SCENARIO_INC_002556,After all this effort... now is when you back away from danger?,このすべての努力の後..今はあなたが危険から離れるときですか?
-PROPQUEST_SCENARIO_INC_002557,"What you have uncovered has tremendous impact on our knowledge of the past! Congratulations on making it through the deadly Rhisis Catacombs, and uncovering the secrets of the past.",あなたが発見したことは、過去の私たちの知識に多大な影響を及ぼします!致命的なリシスカタコンベを通り抜け、過去の秘密を明らかにしたことおめでとうございます。
-PROPQUEST_SCENARIO_INC_002558,"Based on the evidence you have gathered, we believe that the Rhisis Catacombs were once a holy ground for the god of earth, Shelid.",あなたが集めた証拠に基づいて、私たちはリシスカタコンベがかつて地球の神シェリドの聖地であったと信じています。
-PROPQUEST_SCENARIO_INC_002559,"Along the way, a feud between Shelid and Ishirut must have occurred, leaving behind remnants of both gods that empowered the masquerpets that would eventually call the catacombs their home.",途中で、シェリドとイシルトの間で確執が起こり、最終的にカタコンベを彼らの家と呼ぶことになるモンスターに力を与えた両方の神の残骸を残したに違いありません。
-PROPQUEST_SCENARIO_INC_002560,"With the Temple Guardian eliminated, we can rest easy knowing that Saint City is safe again, thanks to you!",テンプルガーディアンが排除されたことで、あなたのおかげでセントシティが再び安全であることを知って安心できます!
-PROPQUEST_SCENARIO_INC_002561,Eliminate the remnant of Ishirut and anything in your way to get there.,イシルトの残党とそこにたどり着くためにあなたの邪魔なものを排除してください。
-PROPQUEST_SCENARIO_INC_002562,"Kill 20 Old Ruts, 10 Bolt Otem, and the Temple Guardian.",20の古い轍、10のボルト・オーテム、およびテンプルガーディアンを殺します。
+PROPQUEST_SCENARIO_INC_002515,"I will grant you one reading, but I require special materials to perform the ritual.",一度だけ、あなたのために占ってあげるわ。でも、儀式を行うには特別な材料が必要よ。
+PROPQUEST_SCENARIO_INC_002516,Please bring me a Black Curse Book and 5 Black Heroca from the Garden of Rhisis.,リシスの庭へ行って、＜黒い呪文書＞を1冊と、＜黒いヘルカフール＞を5個持ってきなさい。
+PROPQUEST_SCENARIO_INC_002517,"Do not fear the future, for it is inevitable.",未来を恐れることはないわ。どのみち、避けることなどできないのだから...
+PROPQUEST_SCENARIO_INC_002518,With these items I can perform the ritual to read from the fabric of time. We will finally know the true meaning of these storms!,これだけ揃えば、時間の流れを読み取る儀式ができるわ。これでようやく、この嵐に隠された本当の意味が分かるはずよ！
+PROPQUEST_SCENARIO_INC_002519,Search the Garden of Rhisis for a Black Curse Book and the Black Heroca plant.,リシスの庭で、＜黒い呪文書＞と＜黒いヘルカフール＞を探してきなさい。
+PROPQUEST_SCENARIO_INC_002520,Collect 5 Black Heroca and 1 Black Curse Book.,＜黒いヘルカフール＞を5個、＜黒い呪文書＞を1個集める
+PROPQUEST_SCENARIO_INC_002521,Seeing the Light,光が見える
+PROPQUEST_SCENARIO_INC_002522,"The murky darkness clouding our vision of the future clears up with the use of these special herbs, when combined with a powerful cursed item. It takes a toll on me every time...",この特別な薬草と強い呪いの力を持つ品を組み合わせれば、未来を見通す目を覆う深い闇を晴らすことができる...。でも、この儀式はいつも私の身体に大きな負担をかけるの...
+PROPQUEST_SCENARIO_INC_002523,"The darkness is lifting! And the truth is just as I feared... remnants of the lightning god, Ishirut, have stirred, creating a powerful beast that hides in the stormy mountains of the Garden of Rhisis...",闇が晴れていく...！ そして真実は、恐れていたとおり...。雷神イシルートの残影が動き出し、強大な獣を生み出している。その獣は、リシスの庭の嵐吹き荒れる山中に潜んでいるわ...
+PROPQUEST_SCENARIO_INC_002524,"I am too weak from the ritual to do anything about the remnant of Ishirut, but here is a map that will lead you to where the creature is hiding.",儀式で力を使い果たしてしまって、今の私にはイシルートの残影をどうにかする力は残っていないわ。でも、この地図があれば、その獣が潜んでいる場所へたどり着けるはずよ。
+PROPQUEST_SCENARIO_INC_002525,Ishirut was known to be one of the most powerful beings in existence... fear of them is nothing to be ashamed of.,イシルートは、この世でもっとも強大な存在の一柱として知られていた...。恐れることを恥じる必要はないわ。
+PROPQUEST_SCENARIO_INC_002526,"Ah, the MewMew clan sent word of your arrival. I have been stationed outside this ruined temple to prevent travelers from facing death before their time has come. Inside are beasts of great power.",ああ、ミュウミュウ族からあなたが来ると知らせを受けています。私は、旅人がここで命を落とすことのないよう、この廃墟となった神殿の外で警備にあたっています。中には非常に強力な魔物がいるんです。
+PROPQUEST_SCENARIO_INC_002527,Only enter if you feel truly prepared for a difficult challenge. I have heard rumors that the beast in the deepest part of the ruins holds a remnant of an ancient god's power.,中へ入るのは、厳しい戦いに挑む覚悟が本当にできてからにしてください。噂では、この遺跡の最深部にいる獣が、古代の神の力の一部を宿しているそうです。
+PROPQUEST_SCENARIO_INC_002528,Follow the map to find the creature's lair.,地図を頼りに、その獣のねぐらを探しなさい。
+PROPQUEST_SCENARIO_INC_002529,Find the lair of Ishirut's remnant.,イシルートの残影を宿す獣のねぐらを探索する
+PROPQUEST_SCENARIO_INC_002530,Remnant of Ishirut Part 3,イシルートの残影 第3部
+PROPQUEST_SCENARIO_INC_002531,Jeepers Creepers,這い寄るもの
+PROPQUEST_SCENARIO_INC_002532,"A small group recently went inside the catacombs, but have not returned in several hours. I fear they have fallen to whatever creatures may be inside. ",少し前に小さな一団が地下墓地へ入ったのですが、もう何時間も戻ってきていません。中にいる何かに襲われたのではないかと心配しています。
+PROPQUEST_SCENARIO_INC_002533,"A thick webbing has appeared around the entrance, and I hear loud footsteps not far within the depths of the ruins.",それに、入口の周りには分厚いクモの巣が張られています。遺跡の奥からは、大きな足音まで聞こえてくるんです。
+PROPQUEST_SCENARIO_INC_002534,Go inside and find out what happened to the group before you.,中へ入って、先に入った一団に何があったのか調べてきてください。
+PROPQUEST_SCENARIO_INC_002535,Scared of a few spiders? Those poor adventurers...,クモが怖いんですか？ ...中に取り残された冒険者たちが心配ですね。
+PROPQUEST_SCENARIO_INC_002536,"I see... so you found only the remains of their armor. It is a shame what has happened, but you seem to be strong enough to continue pushing deeper into the ruins.",そうですか...見つかったのは、彼らが身につけていた装備の残骸だけだったんですね。残念なことになってしまいましたが、あなたならこの先、さらに遺跡の奥へ進めそうです。
+PROPQUEST_SCENARIO_INC_002537,Investigate the disappearance of the lost adventurers.,行方不明になった冒険者たちに何があったのか、調べてきてください。
+PROPQUEST_SCENARIO_INC_002538,Collect 10 Clothing Scraps and 1 Broken Shield.,＜衣服の切れ端＞を10個、＜壊れたシールド＞を1個集める
+PROPQUEST_SCENARIO_INC_002539,Over Encumbered,残された荷物
+PROPQUEST_SCENARIO_INC_002540,"One thing still troubles me though... The thick webbing around the entrance can be explained by the spiders, but what creature could have such loud, stomping footsteps?",ただ、まだ一つ気になることがあります...。入口の周りにあった分厚いクモの巣は、あのクモたちの仕業だと分かりました。でも、いったいどんな魔物が、あんな大きな足音を立てているのでしょう？
+PROPQUEST_SCENARIO_INC_002541,Go deeper into the ruins and find out what is making that loud thumping noise.,さらに遺跡の奥へ進んで、あの大きな足音の正体を突き止めてきてください。
+PROPQUEST_SCENARIO_INC_002542,I won't blame you for avoing whatever beast awaits the next group of adventurers. It sounds big...,この先にどんな魔物が待ち受けているのか分かりません。避けたいというのなら、無理に責めるつもりはありませんよ...かなり大きそうですから。
+PROPQUEST_SCENARIO_INC_002543,"Sadly it seems the adventurers all fell to the power of the the massive gorilla inside the ruins... I believe the group would have wanted you to finish what they set out to do. Here, take their belongings. Perhaps it will help.",残念ですが、あの冒険者たちは皆、遺跡にいた巨大なゴリラに倒されてしまったようですね...きっと彼らも、自分たちが果たせなかったことをあなたに成し遂げてほしいと願っているはずです。彼らが残した持ち物を持っていってください。何かの役に立つかもしれません。
+PROPQUEST_SCENARIO_INC_002544,Investigate the loud sound of footsteps within the catacombs.,地下墓地の奥から聞こえる大きな足音の正体を調べてきてください。
+PROPQUEST_SCENARIO_INC_002545,Collect 10 Dungeoneer's Pack and 1 Broken Sword.,＜冒険者のバッグ＞を10個、＜壊れた剣＞を1個集める
+PROPQUEST_SCENARIO_INC_002546,Petrified Wood,刻まれた樹皮
+PROPQUEST_SCENARIO_INC_002547,"From the information we have available, the remnant of Ishirut hides in the very heart of the catacombs.",これまでに得られた情報からすると、イシルートの残影は地下墓地の最深部に潜んでいるようです。
+PROPQUEST_SCENARIO_INC_002548,"You have already made it further than the last group, keep pushing and find out what lies in store.",あなたはもう、前の一団がたどり着けなかったところまで進んでいます。このまま先へ進み、何が待ち受けているのか確かめてきてください。
+PROPQUEST_SCENARIO_INC_002549,You've made it so far... why give up now?,ここまで来たんです...ここで諦めてしまうんですか？
+PROPQUEST_SCENARIO_INC_002550,Fascinating! The bark from the large tree creature seems to have the symbol of Shelid etched on the surface... Does this mean that the catacombs were originally an altar to Shelid themself?,興味深いですね！ この巨大な樹木の魔物から採れた樹皮...表面にシェリッドの印らしきものが刻まれています。ということは、この地下墓地はもともとシェリッドの祭壇だったのでしょうか？
+PROPQUEST_SCENARIO_INC_002551,"Investigate the the catacombs further, there is still more to see.",さらに地下墓地の奥を調べてきてください。まだ何かあるはずです。
+PROPQUEST_SCENARIO_INC_002552,Collect 10 Tainted Root and 1 Cracked Bark of Shelid.,＜汚染された根＞を10個、＜シェリッドのひび割れた樹皮＞を1個集める
+PROPQUEST_SCENARIO_INC_002553,A Shocking Conclusion,衝撃の結論
+PROPQUEST_SCENARIO_INC_002554,So many mysteries still to unfold... but I believe you are now close to the heart of the catacombs.,まだ解き明かされていない謎はたくさんあります...。ですが、もう地下墓地の最深部はすぐそこだと思います。
+PROPQUEST_SCENARIO_INC_002555,"Enter once more and clear out the remnant of Ishirut if you are capable of doing so. Prepare yourself before entering again, for I fear the beast within the depths of the ruins is far stronger than you could imagine.",もう一度中へ入り、できるのならイシルートの残影を討ち払ってください。ですが、再び中へ入る前に十分な準備をしてください。遺跡の最深部に潜む獣は、あなたの想像をはるかに超える強さかもしれません。
+PROPQUEST_SCENARIO_INC_002556,After all this effort... now is when you back away from danger?,ここまでやってきたのに...今になって危険を前に引き返すんですか？
+PROPQUEST_SCENARIO_INC_002557,"What you have uncovered has tremendous impact on our knowledge of the past! Congratulations on making it through the deadly Rhisis Catacombs, and uncovering the secrets of the past.",君が明らかにしたことは、我々の過去に関する知識を大きく塗り替える発見だ！ 危険なリシスの地下墓地を踏破し、過去に隠された秘密を明らかにしたことを称えよう。
+PROPQUEST_SCENARIO_INC_002558,"Based on the evidence you have gathered, we believe that the Rhisis Catacombs were once a holy ground for the god of earth, Shelid.",君が集めた証拠から、我々はリシスの地下墓地がかつて大地の神シェリッドの聖地だったと考えている。
+PROPQUEST_SCENARIO_INC_002559,"Along the way, a feud between Shelid and Ishirut must have occurred, leaving behind remnants of both gods that empowered the masquerpets that would eventually call the catacombs their home.",その過程で、シェリッドとイシルートの間に何らかの争いが起きたに違いない。その争いによって両神の力の名残がこの地に残され、やがて地下墓地を棲み処としたモンスターたちに力を与えたのだろう。
+PROPQUEST_SCENARIO_INC_002560,"With the Temple Guardian eliminated, we can rest easy knowing that Saint City is safe again, thanks to you!",テンプル・ガーディアンも倒され、これでセイントモーニングにも再び平穏が戻った。すべて君のおかげだ！
+PROPQUEST_SCENARIO_INC_002561,Eliminate the remnant of Ishirut and anything in your way to get there.,イシルートの残影を討ち払い、そこへたどり着くまでに立ちはだかる魔物も倒してください。
+PROPQUEST_SCENARIO_INC_002562,"Kill 20 Old Ruts, 10 Bolt Otem, and the Temple Guardian.",オールド・ラットを20体、ボルト・オーテムを10体、テンプル・ガーディアンを1体倒す
 PROPQUEST_SCENARIO_INC_002563,Envy Depths Part 1,羨望の深さパート1
 PROPQUEST_SCENARIO_INC_002564,Pandora's Box,パンドラの箱
 PROPQUEST_SCENARIO_INC_002565,"*Psst* Hey, you! Can you come help an old box like me?",*追伸*ねえ、あなた!私のような古い箱を手伝ってくれませんか?
@@ -1513,12 +1513,12 @@ PROPQUEST_SCENARIO_INC_002801,"Eliminate 30 Frozen Hare Guards and their leader,
 PROPQUEST_SCENARIO_INC_002802,Kill 30 Frozen Hare Guard and 1 Frozen Hare Assassin.,フローズン・ヘア・ガード30体と、フローズン・ヘア・アサシンを1体討伐
 PROPQUEST_SCENARIO_INC_002803,Building a Weapon,武器を作る
 PROPQUEST_SCENARIO_INC_002804,With the guards out of our hair we can start collecting supplies to start building a brand new weapon! ,警備員が髪の毛から抜け出したら、新しい武器を作り始めるための物資を集め始めることができます!
-PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下の谷に住む激怒したイエティとサフィリアンハウンドは、クロックワークスのような機械的な獣の基礎を築くために使用できる武器と鎧を持っています。
+PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下の谷に住むエンレイジド・イエティとサフィリアン・ハウンドは、クロックワークスのような機械的な獣の基礎を築くために使用できる武器と鎧を持っています。
 PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",谷に向かい、イエティハンマーとハウンドハーネスを集めると、クラフトに役立ちます。
 PROPQUEST_SCENARIO_INC_002807,The hounds only bite a little bit...,猟犬はほんの少し噛むだけです..
 PROPQUEST_SCENARIO_INC_002808,"Yes, this will do nicely! I can start forging a new Clockworks with these materials. But there's one thing we're missing...",はい、これはうまくいきます!私はこれらの材料で新しい時計仕掛けを作り始めることができます。しかし、私たちが見逃していることが1つあります..
 PROPQUEST_SCENARIO_INC_002809,Collect Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,下の谷にいるモンスターからワイルドイエティハンマーとハウンドハーネスを集めてください。
-PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",エンレイジ・イエティからワイルドイエティハンマーを30個、サフィリアン・ハウンドからハウンドハーネスを15個集めます。
+PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",エンレイジド・イエティからワイルドイエティハンマーを30個、サフィリアン・ハウンドからハウンドハーネスを15個集めます。
 PROPQUEST_SCENARIO_INC_002811,Army of the Dead,アーミー・オブ・ザ・デッド
 PROPQUEST_SCENARIO_INC_002812,"These armaments are a good foundation to work off of for now... but to bring a new Clockworks to life, we need a powerful core of energy. ",これらの兵器は、今のところ作業するための良い基盤です..しかし、新しい時計仕掛けに命を吹き込むには、強力なエネルギーのコアが必要です。
 PROPQUEST_SCENARIO_INC_002813,"When the masquerpets invaded Storm Peak, the Crystal Demon Lord led an army of undead deep within the mountains and sealed away the last known energy core produced by my people...",モンスターがストームピークに侵入したとき、クリスタルデーモンロードは山の奥深くにアンデッドの軍隊を率いて、私の人々によって生成された最後の既知のエネルギーコアを封印しました..。

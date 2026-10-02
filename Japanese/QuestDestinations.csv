@@ -20,7 +20,7 @@ QUEST_DESTINATION_0024,Meet Tesar and give him the Seal of Aenn.,エーエンヌ
 QUEST_DESTINATION_0025,Defeat the hunter X and get the Teardrop of Aenn.,虚人ウィシュパヌアスを退治してエーエンヌの涙玉石を手に入れよう。
 QUEST_DESTINATION_0026,Defeat the kinsay and get the Magic Underwear of Power.,美獣ユリシーヌを退治して魔力強化の護符を手に入れよう。
 QUEST_DESTINATION_0027,"Meet Rufan, the boss of the blue flag and give him the Magic Underwear of Power.",魔力強化の護符をリュファンに届けよう。
-QUEST_DESTINATION_0028,"Meet Parinee, the manage of the Saint City station and give her the Feather of Magic Power.",セイントステーションのパリニーに会って「魔力増加の羽飾り」を渡してください。
+QUEST_DESTINATION_0028,"Meet Parinee, the manage of the Saint City station and give her the Feather of Magic Power.",セイントステーションのパリンヌに会って「魔力増加の羽飾り」を渡してください。
 QUEST_DESTINATION_0030,Bring it to the mayor of Darkon.,ダーコン市長に伝達しよう
 QUEST_DESTINATION_0032,Defeat Organiger.,オルガニガーを退治しよう。
 QUEST_DESTINATION_0033,Defeat Gangard.,ガンガードを退治しよう。
@@ -86,8 +86,8 @@ QUEST_DESTINATION_1011,Collect Krasec from Krasec Catchers.,ケラセック・�
 QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,ミネラル・キャッチャーからミネラルを集めよ
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,グルー・キャッチャーからグルーを集めよ
 QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,製錬した鋼をシェンビンに渡します。
-QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,冶金学のブルリングをコラックに渡します。
-QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,過給された避雷針をゴダンテに渡す。
+QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,＜メタリジカル・ブルリング＞をコラックに渡す
+QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,＜チャージされた避雷針＞をゴダンテに渡す
 QUEST_DESTINATION_1017,Collect $QUEST_END_ITEM_NAME$ from final dungeon bosses.,最後のダンジョンボスから$QUEST_END_ITEM_NAME$を収集します。
 QUEST_DESTINATION_1018,Give the Elixir of Cleansing to Hael.,浄化のエリクサーをハエルに渡します。
 QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,コーラルアイランドに生息するジャイアントや、ザ・ワイルズの宝箱からアルティマを集める
