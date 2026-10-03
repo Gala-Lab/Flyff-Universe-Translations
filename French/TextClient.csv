@@ -921,17 +921,17 @@ TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a momen
 TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,Ce donjon n'autorise pas plus de %d membres de groupe.
 TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,Impossible d'entrer actuellement.
 TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,%d minute(s) restantes pour vaincre %d monstres
-TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s for %d seconds
-TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s for %d minute(s)
-TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s for %d minute(s) %d seconds
+TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s pendant %d seconde(s)
+TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s pendant %d minute(s)
+TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s pendant %d minute(s) %d seconde(s)
 TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...","Le temps est écoulé, vous avez échoué..."
-TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,Defense failed — the house has been destroyed.
-TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,Defense successful — pick up your reward at the house!
-TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,Defeat the zombies and rescue the village!
-TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,Defeat enough zombies and a special statue that grants a skill will appear.
-TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.
-TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,House HP at %d%% — earned %d additional reward(s)!
-TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,The next wave starts in %d seconds!
+TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,Défense échouée — la maison a été détruite.
+TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,Défense réussie — récupérez votre récompense à la maison !
+TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,Battez les zombies et sauvez le village !
+TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,Battez suffisamment de zombies pour faire apparaître une statue spéciale qui vous conférera une compétence.
+TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,Utilisez la compétence de la statue pour combattre — mais la compétence sera perdue si la statue est détruite.
+TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,PV de la maison à %d%% — vous avez obtenu %d récompense(s) supplémentaire(s) !
+TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,La prochaine vague commence dans %d seconde(s) !
 TEXTCLIENT_LACKITEM,You do not have the required items.,Vous n'avez pas les objets requis.
 TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,Préparez-vous !
 TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,Votre donjon est en cours sur un canal différent.
@@ -1442,7 +1442,7 @@ TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,Vous n’avez pas assez d’ingrédients.
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Impossible de vérifier vos ingrédients.
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,Vous êtes déjà en train de produire cet objet.
-TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,This production was started before the crafting update and cannot be stopped. It will complete normally.
+TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,Cette production a été lancée avant la mise à jour de l'artisanat et ne peut pas être arrêtée. Elle se terminera normalement.
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,Le temps de production a été réduit de %d minutes.
 TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,L’inventaire du marchand itinérant a été renouvelé avec succès.
 TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","Pas assez de place dans l’inventaire, %d emplacements libres requis."

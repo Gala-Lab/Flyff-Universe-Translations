@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Aucune recette sélectionnée
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Maîtrise requise : %d\nTitre requis : [%s]\nIngrédients requis :
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Maîtrise requise : %d\nTitre requis : \nIngrédients requis :
 UI_LIFE_PRODUCTION_TITLE,Production,Production
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,Taux de réussite
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,Succès:
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Durée de production par cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Maîtrise requise : %d\nTitre requis : [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Maîtrise requise : %d\nTitre requis : 
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Ingrédient
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Boisson
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Comprimé
 UI_ALL,All,Tous
-UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.","Ajoutez des matériaux à produire. Si aucune recette n’est sélectionnée, une recette cachée sera tentée. Lors d’une production aléatoire, une seule tentative sera effectuée."
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.","Lorsque vous sélectionnez l'objet et le grade que vous souhaitez fabriquer, la recette requise s'affiche. Veuillez ajouter les matériaux nécessaires conformément à la recette."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production en cours.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Temps restant
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,L’objet est utilisé immédiatement.
-UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,Herbe que vous pouvez trouver partout. Vous pouvez obtenir des herbes communes.
-UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,Herbe d’apparence ordinaire. Vous pouvez obtenir des herbes communes ou peu communes.
-UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,Arbre que vous pouvez voir partout. Vous pouvez obtenir des arbres communs.
-UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,Arbre d’apparence ordinaire. Vous pouvez obtenir des arbres communs ou peu communs.
-UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,Minerai que vous pouvez trouver partout. Vous pouvez obtenir des minerais communs.
-UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,Minerai d’apparence ordinaire. Vous pouvez obtenir des minerais communs ou peu communs.
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,Herbe que vous pouvez trouver partout. Vous pouvez obtenir des herbes de grade C.
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,Herbe à l'odeur distinctive. Vous pouvez obtenir des herbes de grade B.
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,Arbre que vous pouvez trouver partout. Vous pouvez obtenir du bois de grade C.
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,Arbre à la forme inhabituelle. Vous pouvez obtenir du bois de grade B.
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,Minerai que vous pouvez trouver partout. Vous pouvez obtenir des minerais de grade C.
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,Minerai à la forme inhabituelle. Vous pouvez obtenir des minerais de grade B.
 UI_PRODUCTION_INGREDIENT,Ingredients,Ingrédient
 UI_PRODUCTION_FOOD,Food,Nourriture
 UI_PRODUCTION_BUFF,Buffs,Buffs
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Nombre de réu
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Taux de réussite :
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Amélioration de production
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Veuillez enregistrer les objets matériels.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,"Vous pouvez obtenir un objet de niveau supérieur en y mettant un certain nombre d’objets de production.\nRatio d’échange : D:C=10:1, C:B=15:1, B:A=20:1"
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,"Vous pouvez obtenir un objet de niveau supérieur en y mettant un certain nombre d’objets de production.\nRatio d’échange : C:B=15:1, B:A=20:1"
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Rafraîchir la boutique
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Voulez-vous utiliser le ticket de rafraîchissement de la boutique itinérante pour rafraîchir la boutique ?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Utilisez %s pour rafraîchir les objets
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Récompenses
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Titres de réussite
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Titres indépendants
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,Temps restant : \n%dd jour(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,Herbe avec un parfum unique. Vous pouvez obtenir des herbes Communes à Rares.
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,Herbe rare et difficile à trouver. Vous pouvez obtenir des herbes de grade A.
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Herbe difficile à trouver. Vous pouvez obtenir des herbes Communes à Très Rares.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Herbe légendaire que seuls quelques-uns ont trouvée. Vous pouvez obtenir des herbes Rares à Très Rares.
-UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,Arbre avec une apparence unique. Vous pouvez obtenir des arbres Communes à Rares.
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,Arbre rare et difficile à trouver. Vous pouvez obtenir du bois de grade A.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Arbre difficile à trouver. Vous pouvez obtenir des arbres Communes à Très Rares.
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Arbre légendaire que seuls quelques-uns ont trouvé. Vous pouvez obtenir des arbres Rares à Très Rares.
-UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,Minerai avec une apparence unique. Vous pouvez obtenir des minerais Communes à Rares.
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,Minerai rare et difficile à trouver. Vous pouvez obtenir des minerais de grade A.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Minerai difficile à trouver. Vous pouvez obtenir des minerais Communes à Très Rares.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Minerai légendaire que seuls quelques-uns ont trouvé. Vous pouvez obtenir des minerais Rares à Très Rares.
 UI_LIFE_PRODUCTION_START,Production Start,Démarrer la production
@@ -2742,9 +2742,9 @@ UI_LIFE_CRAFT_START,Start,Start
 UI_LIFE_CRAFT_STOP,Stop,Stop
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% de réduction appliquée)
 UI_LIFE_CRAFT_RESET,Reset,Reset
-UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,"Une fois la production lancée, elle ne peut pas être annulée. Souhaitez-vous continuer et démarrer la production ?\n\n#cffffc000Temps de production requis : %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,"Une fois la production lancée, elle ne peut pas être annulée. Souhaitez-vous continuer et démarrer la production ?\n\n#cffffc000Temps de production requis : %s~%s#nc"
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Confections : %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,"Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,"Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Minage. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Coupe de bois. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Pêche. #cffc32f07#b%d/%d#nb#nc
@@ -3491,17 +3491,18 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,Pass du Championnat FWC 2026
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Récompense quotidienne : %d / %d récupérée(s) aujourd'hui
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
-UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
-UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
-UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
-UI_ZD_STATE_PREPARE,Get ready,Get ready
-UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
-UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
-UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
-UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
-UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
-UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
-UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
-UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
-UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
-UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds
+UI_ZD_EVENT_SKILLS,Event Skills,Compétences d'événement
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Prochaine compétence ajoutée :
+UI_ZD_HOUSE_HP,House HP %d / %d,PV de la maison %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Préparez-vous
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Défendez la maison contre la vague 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Défendez la maison contre la vague 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Défendez la maison contre la vague 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Défendez la maison contre la vague 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Défendez la maison contre la vague 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Récupérez votre récompense à la maison
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Défense réussie !
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Défense échouée !
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Récupérez votre récompense à la maison !
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Retour en ville dans : %d seconde(s)
+

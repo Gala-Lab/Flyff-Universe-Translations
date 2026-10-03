@@ -370,10 +370,10 @@ CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[PNJ Personnel] Mac (A G
 CHARACTER_INC_140000,Couple Rings,Anneaux de couple
 CHARACTER_INC_100104,[Life Master] Livi,[Maître des métiers] Livi
 CHARACTER_INC_100105,Gathering Tool,Outil de collecte
-CHARACTER_INC_100190,Alchemy,Alchemy
-CHARACTER_INC_100191,Carpentry,Carpentry
-CHARACTER_INC_100192,Cooking,Cooking
-CHARACTER_INC_100193,Smithing,Smithing
+CHARACTER_INC_100190,Alchemy,Alchimie
+CHARACTER_INC_100191,Carpentry,Menuiserie
+CHARACTER_INC_100192,Cooking,Cuisine
+CHARACTER_INC_100193,Smithing,Forge
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
@@ -441,4 +441,5 @@ CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Agriculteur d'Eillun] Thorn
 CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Agriculteur d'Eillun] Dr. Root
 CHARACTER_INC_155005,Musha,Musha
 CHARACTER_INC_150056,Tallahassee,Tallahassee
-CHARACTER_INC_150055,Defense House,Defense House
+CHARACTER_INC_150055,Defense House,Maison de défense
+
