@@ -25,7 +25,7 @@ MMI_25,Mailbox,邮件
 MMI_26,Apply,应用
 MMI_27,Status,状态
 MMI_28,Cancel,取消
-MMI_29,Enter,加入
+MMI_29,Enter,进入
 MMI_30,Ranking,排名
 MMI_31,Cheer,鼓励
 MMI_32,Remove piercing card,移除穿洞卡片
@@ -108,9 +108,9 @@ MMI_1040,Use Capsule Coins,胶囊抽奖
 MMI_1041,Music Festival Exchange,音乐节兑换
 MMI_1042,Fitting Room,试衣间
 MMI_1043,FWC PVP Registrations Board,FWC PVP 报名板
-MMI_1047,Join FWC PVP Arena,加入 FWC PVP 竞技场
+MMI_1047,Join FWC PVP Arena,进入 FWC PVP 竞技场
 MMI_1046,FWC PVP Ranking,FWC PVP 排行榜
-MMI_1048,Spectate FWC PVP Contest,观看 FWC PVP 比赛
+MMI_1048,Spectate FWC PVP Contest,观战 FWC PVP 比赛
 MMI_1049,Rock Paper Scissors,猜拳游戏
 MMI_1050,W-Token Shop,W-代币商店
 MMI_1051,Costume Box Upgrade,礼盒精炼
@@ -160,7 +160,7 @@ MMI_1098,Customize,自定义
 MMI_1099,Enter Couple House,进入情侣小屋
 MMI_1100,Select Couple House Template,选择情侣小屋模板
 MMI_1101,Wandering Shop,流浪商店
-MMI_1102,Master's Chip 1 Material Shop,大师纸片商店 - 炼金
+MMI_1102,Master's Chip 1 Material Shop,大师纸片1 商店 
 MMI_1103,Product Upgrade,道具升级
 MMI_1104,Life Mastery Ranking,生活技能熟练度排名
 MMI_1105,Life Mastery Ranking Reward,生活技能熟练度排名奖励
@@ -181,7 +181,7 @@ MMI_2025,PTS Exchange (Equipment),PTS 兑换 (装备)
 MMI_2026,Give Feedback,提供反馈
 MMI_2027,PTS Exchange (Materials),PTS 兑换 (材料)
 MMI_2028,PTS Exchange (Essentials),PTS 兑换 (必需品)
-MMI_2029,PTS Exchange (Jewelry),PTS 兑换 (珠宝首饰)
+MMI_2029,PTS Exchange (Jewelry),PTS 兑换 (首饰)
 MMI_2030,PTS Exchange (Other Equipment),PTS 兑换 (其他装备)
 MMI_2031,Reset Cooldowns,重置冷却
 MMI_2032,PTS Exchange (New Equipment),PTS 兑换 (新装备)
@@ -201,5 +201,5 @@ MMI_1131,Kalgas Chip Shop 2,卡尔加斯纸片商店 2
 MMI_1132,Mysterious Castle Enter,进入神秘城堡
 MMI_1133,Mysterious Castle Reward,神秘城堡奖励
 MMI_1134,Kebaras 2 Costumes,卡巴拉斯 2时装
-MMI_1135,Master's Chip 2 Material Shop,Master's Chip 2 Material Shop
-MMI_1136,Exchange [OLD] Lifestyle Items,Exchange [OLD] Lifestyle Items
+MMI_1135,Master's Chip 2 Material Shop,大师纸片 2 商店
+MMI_1136,Exchange [OLD] Lifestyle Items,[旧] 生活技能物品兑换

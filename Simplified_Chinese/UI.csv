@@ -587,7 +587,7 @@ UI_DROP_FILTER_12,Pets,宠物
 UI_DROP_FILTER_13,Misc.,其他杂项
 UI_DROP_FILTER_CAT_ETC,Others,其他
 UI_DROP_FILTER_14,Common,普通
-UI_DROP_FILTER_15,Uncommon,精良
+UI_DROP_FILTER_15,Uncommon,特殊
 UI_DROP_FILTER_16,Rare & Higher,稀有及其以上的
 UI_DROP_FILTER_17,Uncommon & Higher,精良及其以上的
 UI_DROP_FILTER_19,Refreshers,MP药水
@@ -1130,7 +1130,7 @@ UI_APP_ACHIEVEMENTS_TIP,View your achievements.,显示成就菜单
 UI_ACHIEVEMENTS_TITLE,Achievements,成就
 UI_ACHIEVEMENTS_GENERAL_TAB,General,一般
 UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,怪物
-UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,材料
+UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,消耗品
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,称号&徽章
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,活动
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,游戏时长
@@ -1308,7 +1308,7 @@ UI_INVENTORY_LOCK,Mark Favorite,标记收藏
 UI_INVENTORY_UNLOCK,Unmark Favorite,取消收藏
 UI_APP_EXTRABAG_TIP,Open the compact inventory view.,打开背包第二视图。
 UI_INVENTORY_TAB_ALL,All,所有
-UI_INVENTORY_TAB_GENERAL,General,通用
+UI_INVENTORY_TAB_GENERAL,General,一般
 UI_INVENTORY_TAB_PET,Pet,宠物
 UI_INVENTORY_TAB_CLOTH,Cloth,衣服
 UI_INVENTORY_TAB_QUEST,Quest,任务
@@ -1941,10 +1941,10 @@ UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote
 UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,确定观战这场比赛吗？你将被传送至比赛竞技场。
 UI_SERVERTRANSFER_TITLE,Server Transfer,转移服务器
 UI_SERVERTRANSFER_MSG,Select server:,选择服务器：
-UI_SERVERTRANSFER_BASE_DESC,Select the server you want to transfer your character to. Please check our website for the exact transfer rules.,请选择您要转移角色的服务器。具体转移规则请查看官方网站。
+UI_SERVERTRANSFER_BASE_DESC,Select the server you want to transfer your character to. Please check our website for the exact transfer rules.,请选择您的角色转移的服务器。具体转移规则请查看官方网站。
 UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,注意：转移请求会分批处理，使用卷轴后转移不会立即完成。
 UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC 服务器转移
-UI_SERVERTRANSFER_FWC_DESC,"Select the server you want to transfer your character to. The transfer will take place after the FWC server closes, and you can still play on your character until then. If you're not sure where you want to transfer, you can close this window and choose the next time you log in. Once you confirm your server, you can't change your choice.",请选择您要转移角色的服务器。转移将在 FWC 服务器关闭后进行，在此之前您仍可使用该角色进行游戏。如果您不确定要转移到哪个服务器，可以先关闭此窗口，下次登录时该窗口会再次弹出。一旦确认选择将无法更改。
+UI_SERVERTRANSFER_FWC_DESC,"Select the server you want to transfer your character to. The transfer will take place after the FWC server closes, and you can still play on your character until then. If you're not sure where you want to transfer, you can close this window and choose the next time you log in. Once you confirm your server, you can't change your choice.",请选择您的角色转移的服务器。转移将在 FWC 服务器关闭后进行，在此之前您仍可使用该角色进行游戏。如果您不确定要转移到哪个服务器，可以先关闭此窗口，下次登录时该窗口会再次弹出。一旦确认选择将无法更改。
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,自由视角
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,正常视角
 UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,退出观战
@@ -2300,7 +2300,7 @@ UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,你已报名彩虹竞赛 (双人组队赛 - %s).\n花费 %lld 金币。
 UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,你已报名彩虹竞赛 (双人组队赛 - %s) ，队友是 %s。\n花费 %lld 金币。
 UI_RAINBOWRACE_TITLE,Rainbow Race,彩虹竞赛
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),穿戴 (左手)
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),穿戴 (左)
 UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,清空试穿
 UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,当前无参与信息
 UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,在线时长 #cffc32f07#b%d/%d#nb#nc
@@ -2341,7 +2341,7 @@ UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,在
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,购买成功!
 UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,购买已经取消.
 UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,发生错误。未完成购买。
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,今日已使用: %d
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,剩余次数: %d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,将一件装备或首饰精炼至 +%s 或以上
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,击杀怪物
 UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,是否使用复活卷轴？
@@ -2526,14 +2526,14 @@ UI_MATOURNAMENT_BETTING_NOREWARD,None,无
 UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除终极宝石
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",要移除此装备上选定的终极宝石吗？ #b#cffff0000如果没有宝石镊子，该宝石将被销毁。#nc#nb
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合终极珠宝
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,提交终极珠宝材料宝石
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 颗终极珠宝，可获得 1 颗更高等级的终极珠宝。
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合终极宝石
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,放入终极宝石作为材料
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 颗终极宝石，可获得 1 颗更高等级的终极宝石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,材料宝石将被消耗。\n是否继续？
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
-UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,制作终极珠宝
+UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,制作终极宝石
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,放入终极宝石材料。
-UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",集齐10枚珠宝碎片或1颗宝石，即可获得一级完整珠宝。
+UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.",集齐10枚宝石碎片或1颗宝石，即可获得一级完整宝石。
 UI_COUPLE_PROPOSAL,Couple Proposal,求婚
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s 正在向你求婚！接受对方的求婚请求并成为情侣吗？
 UI_COUPLE_RING_REPLACE,Ring Replacement,戒指替换
@@ -2550,12 +2550,12 @@ UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is no
 UI_COUPLE_CHEER,Cheer,鼓励
 UI_COUPLE_FORM_DATE,Established On,缔结于
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,可用仓库栏位
-UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,最大每日传送次数
-UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,最大每日鼓励次数
-UI_COUPLE_MAX_POINTS,Maximum Couple Points,最大情侣点数
+UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,每日传送次数上限
+UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,每日鼓励次数上限
+UI_COUPLE_MAX_POINTS,Maximum Couple Points,情侣点数上限
 UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,情侣任务完成数
 UI_COUPLE_SINGLE,You are single.,你现在单身。
-UI_COUPLE_TABPARTNER,Partner,伙伴
+UI_COUPLE_TABPARTNER,Partner,情侣
 UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?",若与伴侣解除关系，伴侣仓库中的所有物品将永久消失，且伴侣功能将不再可用。是否继续？
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?",强制分手将永久清空伴侣仓库中的所有物品，且伴侣功能将不再可用。是否继续？
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?",您的伴侣已提出分手。若您接受，伴侣仓库中的所有物品将永久消失，且您将无法再使用伴侣功能。是否接受？
@@ -2571,10 +2571,10 @@ UI_ULTIMATE_JEWEL_EMERALD,Emerald,绿宝石
 UI_ULTIMATE_JEWEL_DIAMOND,Diamond,钻石
 UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,紫水晶
 UI_ULTIMATE_JEWEL_ONYX,Onyx,黑曜石
-UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,合成彩虹终极珠宝
+UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,合成彩虹终极宝石
 UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,集齐同等级各类型宝石各一颗，即可合成一颗对应等级的彩虹宝石。
 UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,分解彩虹宝石
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,可分解彩虹珠宝以获得终极珠宝。
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,可分解彩虹宝石以获得终极宝石。
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.",如果你失败了，你将失去你的物品。
 UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,时装道具一次仅可由 #b一名#nb NPC 穿戴。
 UI_HOUSINGWARDROBE_CONFIRM,Equip,装备
@@ -2591,7 +2591,7 @@ UI_PETTRAINING_INTERVALS,Feeding Interval,喂养间隔
 UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?",已选宠物正在训练中，无法使用。#cffff0000若停止训练，宠物将被归还。#nc是否继续？
 UI_PETTRAINING_TOTALTRAINING,Total Training Time,总训练时长
 UI_PETTRAINING_CLAIM,Claim,领取
-UI_PETTRAINING_NEXTCANDY,Next Candy In,下次糖果时间：
+UI_PETTRAINING_NEXTCANDY,Next Candy In,下次喂养时间：
 UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的房屋仓库。是否继续？
 UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的背包。是否继续？
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在背包中通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,未选择配方
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,所需精通：%d\n所需称号：[%s]\n所需材料：
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,所需精通：%d\n所需材料：
 UI_LIFE_PRODUCTION_TITLE,Production,制作
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功率
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功率:
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,单次生产时间
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],所需精通：%d\n所需称号：[%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,所需精通：%d
@@ -2667,7 +2667,7 @@ UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,食物
 UI_PRODUCTION_BUFF,Buffs,状态
 UI_PRODUCTION_DRINK,Drinks,饮品
-UI_PRODUCTION_REFRESHER,Refreshers,解暑饮品
+UI_PRODUCTION_REFRESHER,Refreshers,恢复品
 UI_PRODUCTION_PILL,Pills,药丸
 UI_PRODUCTION_FURNITURE,Furniture,家具
 UI_PRODUCTION_ACCESSORY,Accessories,首饰
@@ -2675,7 +2675,7 @@ UI_PRODUCTION_COUPLERING,Couple Ring,恋人戒指(15天)
 UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,制作者: %s
 UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品质:%s
 UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,可叠加: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,持续: %d/%d
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,耐久: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
@@ -2763,7 +2763,7 @@ UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
 UI_CREATEITEM_TIME,Time (Sec),时间 (秒)
-UI_CREATEITEM_CHARGED,Charged,电击小子
+UI_CREATEITEM_CHARGED,Charged,充能
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,炼金成功率
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,烹饪成功率
 UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,木工成功率
@@ -3333,7 +3333,7 @@ UI_DONATION_CURRENTEVENT,Current Event:,当前活动:
 UI_DONATION_MINDONATION,Minimum Donation:,最小捐赠数额:
 UI_DONATION_GOAL,Goal,目标
 UI_DONATION_BUFF,Buff,全服加成
-UI_DONATION_DONATOR,Donator,捐赠独享
+UI_DONATION_DONATOR,Donator,捐赠者
 UI_DONATION_DONATE,Donate,捐赠
 UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,输入你想要为 #b%s#nb 增益捐赠的数额。请注意，捐赠不可退还。
 UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 版本通行证
@@ -3491,17 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC锦标赛通行证
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,每日奖励: %d / 今日已领取 %d 
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP 纪念通行证
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",此物品将于 2026年10月29日 维护后移除。
-UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
-UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
-UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
-UI_ZD_STATE_PREPARE,Get ready,Get ready
-UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
-UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
-UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
-UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
-UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
-UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
-UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
-UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
-UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
-UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds
+UI_ZD_EVENT_SKILLS,Event Skills,技能
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,下一个技能:
+UI_ZD_HOUSE_HP,House HP %d / %d,基地HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,准备
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,防守第1波
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,防守第2波
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,防守第3波
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,防守第4波
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,防守第5波
+UI_ZD_STATE_REWARD,Pick up your reward at the house,防守第6波
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,防守成功！
+UI_ZD_DEFENSE_FAILED,Defense Failed!,防守失败！
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,拾取奖励!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,%d 秒后返回城镇
