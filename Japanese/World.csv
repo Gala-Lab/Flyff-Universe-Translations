@@ -1,19 +1,19 @@
 ﻿Key,English,Japanese
 DUASYLUM_WLD_000000,Ankou's Asylum,ベヒモス神殿
 DUASYLUM_WLD_000001,Ankou's Cell,ベヒモス独房
-DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),レレンの淵（インスタンスダンジョン）
-DUHERNEOS_WLD_000000,Herneos (Dungeon),ヘルネオス（ダンジョン）
-DUDADK_WLD_000000,Dekane Mine (Dungeon),デェカネス鉱山（ダンジョン）
+DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),レルエン峡谷 (インスタンスダンジョン)
+DUHERNEOS_WLD_000000,Herneos (Dungeon),ヘルネオス (ダンジョン)
+DUDADK_WLD_000000,Dekane Mine (Dungeon),デェカネス鉱山 (ダンジョン)
 WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),フラリスダンジョン
-DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),ガーディアンサンクチュアリ（インスタンスダンジョン）
-DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),リシスの地下墓地（インスタンスダンジョン）
+DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),ガーディアンサンクチュアリ (インスタンスダンジョン)
+DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),リシスの地下墓地 (インスタンスダンジョン)
 DURUSTIA_WLD_000000,The Wilds,ザ・ワイルズ
-DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),イブリス神殿（ダンジョン）
+DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),イブリス神殿 (ダンジョン)
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),ストームピーク (インスタンスダンジョン)
-DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),エンヴィーデプス（インスタンスダンジョン）
+DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),エンヴィーデプス (インスタンスダンジョン)
 DUUPRESIA_WLD_000000,Euphresia,ユプレシア
 DUVOLKANE_WLD_000000,Volkane,ヴォルケイン
-DUVOLKANE_WLD_000001,Volkane (Dungeon),ヴォルケイン（ダンジョン）
+DUVOLKANE_WLD_000001,Volkane (Dungeon),ヴォルケイン (ダンジョン)
 WDARENA_WLD_000000,Arena,～デュエルゾーン～
 WDARENA_WLD_000001,You can PvP in the Arena.,プレイヤー同士で戦うことができるフィールドです。
 WDARENA_WLD_000002,Training Center,トレーニングセンター
@@ -69,7 +69,7 @@ WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,デッドウィルダニス
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,ストームピークエントランス
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,エンヴィーデプスエントランス
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,ガーディアンサンクチュアリエントランス
-WDMADRIGAL_WLD_000021,Leren Chasm Entrance,レレン層岩巨淵エントランス
+WDMADRIGAL_WLD_000021,Leren Chasm Entrance,レルエン峡谷エントランス
 WDMADRIGAL_WLD_000022,Wilds Entrance,ワイルズエントランス
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,リシスの地下墓地
 WDMADRIGAL_WLD_000024,This is a safe place.,ここは安全な空間です。
@@ -93,7 +93,7 @@ WDMADRIGAL_WLD_000044,Velora Cliffs,ヴェローラの断崖
 WDMADRIGAL_WLD_000045,Dreknir Forest,ドレクニルの森
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,ベヒモス神殿のエントランス
 WDMADRIGAL_WLD_000047,This is a safe place.,ここは安全な空間です。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,第2エランパークス\n（ダーコン第1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,第2エランパークス\n (ダーコン第1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,生産量第2位のエランス生産工場です。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,レルエン山脈の中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,フラリスの屋根と呼ばれているレルエン山脈の中部地帯\nハイドワーフの生息地とバブルの平原があります。
@@ -112,7 +112,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,ギルドコ�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,ギルドコンバットに関する管理しています。通称「GCC」と呼ばれています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,レルエン山脈の南部\nシヴァーモンスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,シヴァーモンスターの何かが隠されているという祭壇\n神秘なる不思議な力を持つ伝道師が存在します。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,第1エランパークス\n（ダーコン第1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,第1エランパークス\n (ダーコン第1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,マドリガル1のエランス生産量を誇る工場です。\n全体の約80％のエランスを生産しています。　
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,ダーコン\n謎の祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,何の為に創られた祭壇かは謎ですが、ここで採取した岩石は、\nある事件の証拠として使用できるようです。
@@ -179,39 +179,39 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.",セイントモーニングでの都市生活に飽き、移住して来た人たちが作った町です。\nしかし、奇妙な姿をしたカボチャモンスターの襲撃で、ひどい惨状となってしまいました。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,ヒルリド山脈の中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000087,The central area of the Hillid Mountains.,セイントモーニングの屋根と呼ばれているヒルリド山脈の中部地帯
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000088,Darkon 3\nMagmient,マグミアント\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000088,Darkon 3\nMagmient,マグミアント\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000089,The molten terrain of Darkon 3 makes for hard travel.\nOrdinary people do not enter because of the danger.,ダーコン3地区の中でも最も危険な溶岩地帯。\n有毒ガスが充満しているため、一般の人は立ち入りを禁じられています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000090,Altar of Jester,ジェスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000091,This altar was made for admiring the glory of Jesters.\nA priest named Homeit is managing this altar.,ジェスターの栄光を称えるため、作られた祭壇です。\n<ホメイト>という司祭がここを管理しています。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092,Darkon 3\nBrekin,ブレッキン\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000092,Darkon 3\nBrekin,ブレッキン\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000093,"This was an industrial area for refining Erons.\nHowever, this area was abandoned because of growing danger in the area.",かつては大規模なエランスの採掘場として賑わっていましたが、\nエランスの枯渇した今となっては、訪れる者がいない土地です。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094,Darkon 3\nArians,アリアンス\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000094,Darkon 3\nArians,アリアンス\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000095,This area consists of giant pools. This blue water dissolved Erons.,エランスの成分が水に溶け出し、幻想的な青い水で満たされています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000096,Engisis Length,エンシェントツリー
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000097,"The largest, most mysterious tree in Madrigal.",マドリガルで最も巨大な古樹です。\nその神秘性により、古代マドリガルでは神として信仰を集めていました。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098,Darkon 3\nDeadwallderness,デッドウィルダニス\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000098,Darkon 3\nDeadwallderness,デッドウィルダニス\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000099,The wasteland of Darkon 3. Smoke rises from the ground that smells like dead things.,地中から死のガス「ケルディラン」が吹き出す危険な土地です。\nここは、死に満たされています。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100,Darkon 3\nAniceknight,エンシェントナイト\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000100,Darkon 3\nAniceknight,エンシェントナイト\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000101,The local plants have mutated and grown large.,地中から湧き出す不思議なエネルギーにより、\n植物が変異して巨大化した土地です。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102,Darkon 3\nHouse of Laola,ラオラの家\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000102,Darkon 3\nHouse of Laola,ラオラの家\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000103,A mysterious aura has wrapped itself around the home of Laola,大魔導師<ラオラ>の家です。\n周りは、神秘のオーラに包まれています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000104,Altar of Ranger,レンジャーの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000105,This altar was made for admiring the glory of the Ranger.\nA priest named Rupim is managing this altar.,レンジャーの栄光を称えるため、作られた祭壇です。\n<ルピン>という司祭がここを管理しています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000106,Altar of Psykeeper,ヘルエットツリー
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000107,Place where the Soulstone of Psykeeper is kept.\nThe admirers of the hero Offerep\nmake a pilgrimage here every year.,サイキーパーの魔力が蓄えられている木\nこの木の発する魔力により、辺り一帯が青く輝いています。\n毎年巡礼をしているそうだ。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000108,Darkon 3\nWestern Cendil,センディル西部\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000108,Darkon 3\nWestern Cendil,センディル西部\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000109,The polluted river flows and corrupts the wildlife of the area.\nThings grow large and nasty in this area.,ヘルエットの影響を受けて川が青く輝いています。\nまた、その魔力により大きなキノコ型の樹木が林立しています。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000110,Darkon 3\nHeret,ヘルエット\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000110,Darkon 3\nHeret,ヘルエット\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000111,There is a blue glow to the air.\nThe creatures here survive by eating Erons and wandering travelers.\nYou can see the mutant tree Heldonose on the west end.\nThis tree produces Erons.,青い光が漂う地域です。\n魔力により異常な変異を遂げた生物が多数生息しています。\n西の端には、神秘的な樹木「ヘルエットツリー」があります。\n木からはエランスが発生している。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112,Darkon 3\nMiddle Cendil,センディル中部\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000112,Darkon 3\nMiddle Cendil,センディル中部\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000113,Unknown powerful energy exists in this district.\nNobody wants to know where the power came from.,正体の知れないエネルギーが湧き出る区域が存在する地域です。\n誰もその正体を知らず、また、知ることもできません。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114,Darkon 3\nEastern Cendil,センディル東部\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000114,Darkon 3\nEastern Cendil,センディル東部\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115,Mileng is a holy place surrounded by giant trees shaped like mushrooms.,キノコの突然変異種に囲まれた聖地、「ミレイ」があります。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116,Mileng,ミレイ
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117,Mileng is a holy place surrounded by giant trees shaped like mushrooms.\nThe Heroes of Madrigal won their first victory here.,巨大なキノコの突然変異種に囲まれた聖地です。\n英雄戦争の際に、ここで英雄が勝利をしたと伝えられています。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118,Darkon 3\nGuardiane,ガルディア\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118,Darkon 3\nGuardiane,ガルディア\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119,This is a place of Guardians.\nThe final battle in the Hero War happened here\nAdventurers who wish to follow the will of heroes come here.,英雄の守護者が静かに見守っている場所です。\nここは、英雄達の最後の戦いがあったと言われています。\n英雄の意思を継ごうと、冒険者はここに集う。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120,Darkon 3\nRoom of Guardian,守護者の部屋\n（ダーコン3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120,Darkon 3\nRoom of Guardian,守護者の部屋\n (ダーコン3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000121,There is a monster called Venel Guardian protecting the symbol of the wisdom of the heroes.,英雄の魂が眠る場所と言われています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000122,Altar of Ringmaster,リングマスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000123,The place where the Soulstone of the Ringmaster is kept.\nThe admirers of the hero Aenn\nmake a pilgrimage here every year.,リングマスターのソウルストーンを保管する場所\nリングマスター英雄エーエンヌの崇拝者たちが\n毎年ここを巡礼する。
@@ -227,7 +227,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000132,Altar of Knight,ナイトの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000133,The place where the Soulstone of the Knight is kept.\nThe admirers of the hero Billaon\nmake a pilgrimage  here every year.,ナイトのソウルストーンを保管する場所\nナイト英雄ビレイアンの崇拝者たちが\n毎年ここを巡礼する。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000134,Kyon Soldiers,キオン傭兵団
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000135,"The greatest soldiers in Madrigal.\nTheir numbers may not be very large,\nbut they are all highly-qualified warriors.",テサルが導いているマドリガル最高の用兵団\n団員が多くわけではないが、一人一人がみんな最高の\n実力者で構成されている。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136,Darkon 2\nDarken,ダーコン\n（ダーコン第2地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000136,Darkon 2\nDarken,ダーコン\n (ダーコン第2地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000137,Administrative City of Darkon.\nMost of the citizens are slightly hard of hearing\nbecause of the machine noise.,ダーコン大陸の行政都市\n機会の騒音のせいで、市民の大体が\n軟調を持っている。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000138,Darkon 2\nCave of Envy,ダーコン第2地区\nエイエンブルケーブ
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
@@ -235,23 +235,23 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,ダーコン第2�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,ダーコン第2地区\nエイエンブルケーブ
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,キプラ荒原\n（ダーコン1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,キプラ荒原\n (ダーコン1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,ゴウダン山脈\n（ダーコン1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,ゴウダン山脈\n (ダーコン1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,ダーコン大陸で最も広大な山脈
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,ゴウダン山脈\n（ダーコン1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,ゴウダン山脈\n (ダーコン1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,ダーコン大陸で最も広大な山脈
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,キプラ荒原\n（ダーコン1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,キプラ荒原\n (ダーコン1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,奈落～歯車の永久牢獄\n（ダーコン2地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,奈落～歯車の永久牢獄\n (ダーコン2地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153,Clockworks was sealed here after the Clockworks War.,クロックワークス戦争で負けたクロックワークスが封印されている牢獄
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154,Flaris Observatory,フラリスの天文台
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000155,Lab of Wise-men,賢者の館
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000156,Saint City\nAncient Document Office,セイントモーニング\n古代文書管理所
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000157,Saint City\nLittle Theater of Pepoview,セイントモーニング\n双月の夜の小劇場
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,ネオ・ロードヴァンのアジト\n（ダーコン第1地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,ネオ・ロードヴァンのアジト\n (ダーコン第1地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,ジェスターの祭壇
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,ムーの谷\n（ダーコン第3地区）
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,ムーの谷\n (ダーコン第3地区)
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,ヘルネオス
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.",ヘルネオスは、壮麗な建築物が立ち並ぶ美しい海底の楽園だった。\nしかし、シェードの手により、大きな混乱がもたらされた。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,エルリウン
