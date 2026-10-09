@@ -118,11 +118,11 @@ UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻撃速度：%s
 UI_TOOLTIP_REQ_JOB,Req Job:,職業:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,必要レベル: %d
 UI_TOOLTIP_REQ,Requires %s,%sが必要
-UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP 治療量 : %d
+UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP回復量 : %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,FP: %d
-UI_TOOLTIP_RESTORE_HP,Restore HP: %d,HP 治療量 : %d
-UI_TOOLTIP_RESTORE_FP,Restore FP: %d,FP 治療量 : %d
+UI_TOOLTIP_RESTORE_HP,Restore HP: %d,HP回復量 : %d
+UI_TOOLTIP_RESTORE_FP,Restore FP: %d,FP回復量 : %d
 UI_TOOLTIP_MAX_RESTORE,Effective up to %d,最大回復量：%d
 UI_TOOLTIP_INV_SUIT,Suit,スーツ
 UI_TOOLTIP_INV_GAUNTLET,Gauntlet,ガントレット
@@ -973,7 +973,7 @@ UI_GUILDBANK_GUILDCOMBAT_CLOAK_TIP,Create a Dragon Cloak (Requires winning the G
 UI_GUILDBANK_GUILDCOMBAT_CREATE_CLOAK,"Creating a Dragon Cloak costs 10,000 Penya. Create it now?","ドラゴンマントを作成するには10,000ペニャを消費します。作成しますか？"
 UI_GUILDCOMBAT_RANKING_TITLE,Guild Siege Player Rankings,ギルドコンバット：個人ランキング
 UI_GUILDCOMBAT_RANKING_RANK,Rank,順位
-UI_GUILDCOMBAT_RANKING_POINT,Points,グレード
+UI_GUILDCOMBAT_RANKING_POINT,Points,ポイント
 UI_WORLD_DEVICEMOTION_TIP,Motion,モーション
 UI_WORLD_TURBO_TIP,Fuel,加速燃料
 UI_NAVIGATOR_SHIP,Ship,船
@@ -2076,7 +2076,7 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,検索
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,すべて
 UI_HOUSINGSETUP_FILTER_TREE,Trees,ツリー
 UI_HOUSINGSETUP_FILTER_OTHER,Other,その他
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドシップに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドシップの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドシップは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドシップに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドシップの所有権を獲得します。 \n\n#b#u注意:#nu#nb \n- 一度に入札できるギルドシップは1つだけです。\n- 入札に使用するペニャはギルド銀行から引き落とされます。\n- 入札期間が終了するまで、いつでも入札額を引き上げることができます。
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,ギルドの入札
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,入札する
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,入札したい金額を入力します。#b#uあなたのギルド銀行には、入札をカバーするのに十分なペニャが必要です。#nu#nb
@@ -2237,9 +2237,9 @@ UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,天井
 UI_HOUSINGSETUP_FILTER_WALL,Wall,壁
 UI_PARTY_CHANGE_NAME,Name,名前
 UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,パーティ名を変更します。
-UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,カルガス・アサルトは予定されていません。
-UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,カルガス・アサルトには入れません。
-UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,カルガス・アサルトに参加しますか?\n 入場\n時間: %s
+UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,カルガスアサルトは予定されていません。
+UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,カルガスアサルトには入れません。
+UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,カルガスアサルトに参加しますか?\n 入場\n時間: %s
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,カルガスアサルトはまだ入ることができません。\n\n \nエントリースター: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,今日のカルガスアサルトはもう始まっています。
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ffRegistration#nc\n 登録までの\n時間:\n\n  %s\n エントリーまでの\n時間:\n\n  %s \n最小レベル: %d\n\n現在の登録プレイヤー数: %d\n\n※ カルガスアサルトに登録したユーザーのみ参加できます。\n※制限時間を過ぎると入場できなくなります。\n※ 1回あたり最大200人(100対100)\n※ ランキング報酬の最低人数は20名以上で、20名に満たない場合は勝者報酬のみ付与されます。\n※チームはランダムで選ばれます。
@@ -2250,8 +2250,8 @@ UI_WED,Wednesday,水曜日
 UI_THU,Thursday,木曜日
 UI_FRI,Friday,金曜日
 UI_SAT,Saturday,土曜日
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,カルガス・アサルト情報
-UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,カルガス・アサルト登録
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,カルガスアサルト情報
+UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,カルガスアサルト登録
 UI_KALGAS_ASSAULT_REGISTER,Registration,登録
 UI_KALGAS_ASSAULT_REGISTERED,Registered,登録
 UI_KALGAS_ASSAULT_RANK_TITLE,Rank,順位
@@ -2268,13 +2268,13 @@ UI_KALGAS_ASSAULT_RANK_NAME,Name,名前
 UI_KALGAS_ASSAULT_RANK_POINT,Point,点
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,ボスモンスターダメージ
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,キル数 : %d
-UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,カルガス・アサルト・リバイバル
+UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,カルガスアサルト・リバイバル
 UI_KALGAS_ASSAULT_REVIVAL_COUNT,Revive in: %d sec,変更後 : %d
 UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Free Revive,出発点
 UI_KALGAS_ASSAULT_REVIVAL_GOLD,Revive Now (Gold Coin x%d),金貨を使用 x%d
 UI_KALGAS_ASSAULT_REVIVAL_SILVER,Revive Now (Silver Coin),銀貨を使う
 UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,カルガスが出現するまでの時間
-UI_KALGAS_ASSAULT_TIMER_END,Time until Kalgas Assault ends,カルガス・アサルト終了までの時間
+UI_KALGAS_ASSAULT_TIMER_END,Time until Kalgas Assault ends,カルガスアサルト終了までの時間
 UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to qualify for rewards or rankings.,参加時間が足りないため、報酬やランキングの対象外となります。
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,%s チームが勝利しました!
 UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.,残念ながら勝者は決まっていません。
@@ -2283,7 +2283,7 @@ UI_BLACK,Black,ブラック
 UI_WHITE,White,ホワイト
 UI_DRAW,Draw,ドロー
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,カルガスアサルトが始まろうとしています!
-UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,カルガス・アサルトのエントリーは %d 分後に締め切られます。
+UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,カルガスアサルトのエントリーは %d 分後に締め切られます。
 UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,カルガス アサルトは %d 分後に開始されます。
 UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully.",フレンドやランダムなプレイヤーとチームを組んで、レースに参加できます。\n\n一度チームを選択すると、変更やキャンセルはできません。慎重に選んでください。
 UI_RAINBOWRACE_RANDOMMATCHING,Random Match,ランダムマッチ
@@ -2600,10 +2600,10 @@ UI_COUPLE_RING_CHEER,Cheers: %d,応援回数：%d
 UI_COUPLE_RING_SLOTS,Storage Slots: %d,保管スロット数：%d
 UI_COUPLE_MOTION_TITLE,Couple Emotes,カップルエモート
 UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,パートナーが「%s」エモートを一緒にしたいそうです。承諾しますか？
-UI_APP_LIFE_TIP,View and manage life skills.,ライフスキルの確認・管理。
+UI_APP_LIFE_TIP,View and manage life skills.,ライフスタイルスキルの確認・管理。
 UI_LIFE_GATHERING_TAB,Gathering,採集
-UI_LIFE_PRODUCTION_TAB,Production,制作
-UI_LIFE_TITLE,Life,ライフスキル
+UI_LIFE_PRODUCTION_TAB,Production,生産
+UI_LIFE_TITLE,Life,ライフスタイルスキル
 UI_LIFE_MASTERY_EFFECT,Mastery Details,マスタリー詳細
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,判明済みの資源
 UI_LIFE_HARVESTING_INFORMATION,Resource Information,資源情報
@@ -2620,7 +2620,7 @@ UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain
 UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,ミニゲームをスキップすると、勝利による釣り成功率上昇を得られません。続行しますか？
 UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,餌の選択
 UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,釣りに使う餌を選択してください。選んだ餌によって釣れる魚のレア度が変わります。
-UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,薬草採取 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,薬草採集 #cffc32f07#b%d/%d#nb#nc
 UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,魚がどの餌に食いつくか当ててみよう。
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),正解すると釣りの成功率が上昇します。\n（現在の成功率：%.1f%%）
 UI_SEC,%d sec,%d秒
@@ -2638,13 +2638,13 @@ UI_LIFE_RECIPEBTN,Recipes,関連レシピを見る
 UI_LIFE_RECIPES,Recipes,レシピ
 UI_LIFE_RECIPES_CATEGORY,Category,カテゴリ
 UI_LIFE_RECIPES_DETAILS,Recipe,詳細
-UI_LIFE_RECIPES_GRADE,Grade,グレード
+UI_LIFE_RECIPES_GRADE,Grade,ランク
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,レシピが選択されていません
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,必要マスタリー：%d\n必要称号：[%s]\n必要材料：
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,必要マスタリー：%d\n必要材料：
-UI_LIFE_PRODUCTION_TITLE,Production,制作
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功率
-UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,1回あたりの制作時間
+UI_LIFE_PRODUCTION_TITLE,Production,生産
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功：
+UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,1回あたりの生産時間
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],必要マスタリー：%d\n必要称号：[%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,必要マスタリー：%d
 UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,必要マスタリー：
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,飲み物
 UI_LIFE_RECIPE_CATEGORY_2,Pills,錠剤
 UI_ALL,All,全て
-UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",制作する材料アイテムを追加してください。レシピが選択されていない場合、隠しレシピが試行されます。ランダム制作の場合、制作は1回のみ試行されます。
-UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,現在制作中です。
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",生産するアイテムとランクを選択すると、必要なレシピが表示されます。レシピに従って必要な素材を追加してください。
+UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,現在生産中です。
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,残り時間
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,制作時間が短縮されます。
-UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,世界中で見られる一般的な薬草。コモン品質の薬草が採取できます。
-UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,ありふれた外見の薬草。コモン〜アンコモン品質の薬草が採取できます。
-UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,世界中で見られる一般的な木。コモン品質の木材が採取できます。
-UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,ありふれた外見の木。コモン〜アンコモン品質の木材が採取できます。
-UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
-UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,ありふれた外見の岩石。コモン〜アンコモン品質の鉱石が採取できます。
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,生産時間が短縮されます。
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,どこにでも生えている一般的な薬草。Cランクの薬草を入手できます。
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,特徴的な香りを放つ薬草。Bランクの薬草を入手できます。
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,どこにでも生えている一般的な木。Cランクの木材を入手できます。
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,変わった形をした木。Bランクの木材を入手できます。
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,どこにでもある一般的な鉱石。Cランクの鉱石を入手できます。
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,変わった形をした鉱石。Bランクの鉱石を入手できます。
 UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,フード類
 UI_PRODUCTION_BUFF,Buffs,バフ
@@ -2672,7 +2672,7 @@ UI_PRODUCTION_PILL,Pills,錠剤
 UI_PRODUCTION_FURNITURE,Furniture,家具
 UI_PRODUCTION_ACCESSORY,Accessories,アクセサリー
 UI_PRODUCTION_COUPLERING,Couple Ring,ペアリング
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,制作者：%s
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,生産者：%s
 UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品質：%s
 UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,重複可能：%d回
 UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,耐久度：%d/%d
@@ -2703,15 +2703,15 @@ UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,鍛冶�
 UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,木工成功率 +%d%%
 UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,木工大成功率 +%d%%
 UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,（専門）大成功時に譲渡可能アイテムを獲得
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,制作時間：
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,生産時間：
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,試行回数：
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功回数：
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,プロダクトアップグレード
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,材料アイテムを入れてください。
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,下位グレードの制作アイテムを交換し、上位グレードのアイテムを入手できる可能性があります。\n交換比率：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,下位ランクの生産アイテムを交換し、上位ランクのアイテムを入手できる可能性があります。\n交換比率：C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,ショップ更新
-UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Wandering Merchant Refresh Ticketを使用して、ショップの在庫を更新しますか？
+UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,行商人リフレッシュチケットを使用して、ショップの在庫を更新しますか？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,%sを使用してショップの在庫を更新
 UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,%sで購入
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,マスタリーランキング
@@ -2728,23 +2728,23 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,報酬
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,実績称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,個別称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,残り時間：\n%d日 %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,独特の香りを持つ薬草。コモン〜レア品質の薬草が採取できます。
-UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,見つけるのが難しい希少な薬草。コモン〜ベリーレア品質の薬草が採取できます。
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,ごく一部にしか知られていない伝説の薬草。レア〜ベリーレア品質の薬草が採取できます。
-UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,独特な外見の木。コモン〜レア品質の木材が採取できます。
-UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,見つけるのが難しい希少な木。コモン〜ベリーレア品質の木材が採取できます。
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,ごく一部にしか知られていない伝説の木。レア〜ベリーレア品質の木材が採取できます。
-UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,独特な外見の岩石。コモン〜レア品質の鉱石が採取できます。
-UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,見つけるのが難しい希少な岩石。コモン〜ベリーレア品質の鉱石が採取できます。
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,ごく一部にしか知られていない伝説の岩石。レア〜ベリーレア品質の鉱石が採取できます。
-UI_LIFE_PRODUCTION_START,Production Start,制作開始
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,見つけるのが難しい希少な薬草。Aランクの薬草を入手できます。
+UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,見つけるのが難しい希少な薬草。一般～超レアの薬草を入手できます。
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,ごく一部にしか知られていない伝説の薬草。レア～超レアの薬草を入手できます。
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,見つけるのが難しい希少な木。Aランクの木材を入手できます。
+UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,見つけるのが難しい希少な木。一般～超レアの原木を入手できます。
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,ごく一部にしか知られていない伝説の木。レア～超レアの原木を入手できます。
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,見つけるのが難しい希少な鉱石。Aランクの鉱石を入手できます。
+UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,見つけるのが難しい希少な岩石。一般～超レアの鉱石を入手できます。
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,ごく一部にしか知られていない伝説の岩石。レア～超レアの鉱石を入手できます。
+UI_LIFE_PRODUCTION_START,Production Start,生産開始
 UI_LIFE_CRAFT_START,Start,開始
 UI_LIFE_CRAFT_STOP,Stop,停止
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d秒\n（%d%%短縮適用）
 UI_LIFE_CRAFT_RESET,Reset,リセット
-UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s#nc
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s~%s#nc
+UI_LIFE_CRAFT_COUNT,Crafts: %d,生産数：%d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,生産を開始しますか？ 生産はいつでも中止でき、未完了分の素材は返却されます。\n\n#cffffc000生産時間：%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,生産を開始しますか？ 生産はいつでも中止でき、未完了分の素材は返却されます。\n\n#cffffc000生産時間：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,鉱石採掘 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,伐採 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,釣り #cffc32f07#b%d/%d#nb#nc
@@ -2817,7 +2817,7 @@ UI_STANDBY,Standby,待機中
 UI_DEAD,Dead,死亡
 UI_NOW_SPECTATING,Spectating %s,%sを観戦中
 UI_EASTER_EGG_MISSION,Gather Easter Eggs,イースターエッグを集める
-UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
+UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,世界中でよく見られる岩石。一般的な鉱石を入手できます。
 UI_TARGET_HEALTH,Health: ,HP：
 UI_TARGET_PENYA,- Penya: ,・ペニャ：
 UI_ACHIEVEMENTS_LIFE_TAB,Life,ライフ
@@ -3491,17 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWCチャンピオンシップ�
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,本日の報酬：%d / %d 受け取り済み
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP記念パス
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",このアイテムは、2026年10月29日のメンテナンス後に削除されます。
-UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
-UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
-UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
-UI_ZD_STATE_PREPARE,Get ready,Get ready
-UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
-UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
-UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
-UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
-UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
-UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
-UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
-UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
-UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
-UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds
+UI_ZD_EVENT_SKILLS,Event Skills,イベントスキル
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,次のスキル追加：
+UI_ZD_HOUSE_HP,House HP %d / %d,拠点HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,戦闘準備！
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,第1ウェーブ：拠点を防衛せよ！
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,第2ウェーブ：拠点を防衛せよ！
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,第3ウェーブ：拠点を防衛せよ！
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,第4ウェーブ：拠点を防衛せよ！
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,第5ウェーブ：拠点を防衛せよ！
+UI_ZD_STATE_REWARD,Pick up your reward at the house,拠点で報酬を回収せよ
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,防衛成功！
+UI_ZD_DEFENSE_FAILED,Defense Failed!,防衛失敗！
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,拠点で報酬を回収せよ！
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,%d秒後に街へ戻ります

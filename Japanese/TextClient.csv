@@ -921,17 +921,17 @@ TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a momen
 TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,このダンジョンでは、グループメンバーが %d人を超えることはできません。
 TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,現在入場できません。
 TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,残り %d 分です。モンスター %dをクリアしてください。
-TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s for %d seconds
-TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s for %d minute(s)
-TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s for %d minute(s) %d seconds
-TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",時間切れ！ダンジョンをクリアできませんでした...。
-TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,Defense failed — the house has been destroyed.
-TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,Defense successful — pick up your reward at the house!
-TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,Defeat the zombies and rescue the village!
-TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,Defeat enough zombies and a special statue that grants a skill will appear.
-TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.
-TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,House HP at %d%% — earned %d additional reward(s)!
-TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,The next wave starts in %d seconds!
+TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s：%d秒
+TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s：%d分
+TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s：%d分%d秒
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",時間切れ！ダンジョンをクリアできませんでした...
+TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,防衛失敗！ 防衛拠点が破壊されました...
+TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,防衛成功！ 防衛拠点で報酬を受け取ろう！
+TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,ゾンビを倒して村を救え！
+TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,ゾンビを一定数倒せ！ スキルを与える特別な像が出現するぞ！
+TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,像から与えられたスキルで戦え！ 像が破壊されるとスキルも失われるぞ！
+TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,拠点HP %d%%！ 追加報酬を%d個獲得！
+TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,次のウェーブまであと%d秒！
 TEXTCLIENT_LACKITEM,You do not have the required items.,必要なアイテムがありません。
 TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,準備はいいですか？
 TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,ダンジョンが他のチャンネルで継続中です。
@@ -1226,18 +1226,18 @@ TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,登録に失敗しました�
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,レベルが低いため登録できません。
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,登録が完了しました。
 TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,入力に失敗しました。
-TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,カルガスアサルトにフレンドを追加することはできません。
-TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,カルガス・アサルトではパーティーを組むことができません。
-TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,カルガス・アサルトは取引できません。
-TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,カルガス・アサルトではアイテムを使用できません。
-TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,カルガス・アサルトではルーレットは使えません。
-TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,ブリンクウィングスを使ってカルガス・アサルトから逃れることはできません。
-TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,カルガス・アサルトに位置
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,カルガスアサルト中にフレンドを追加することはできません。
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,カルガスアサルト中にパーティーを組むことができません。
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,カルガスアサルト中に取引できません。
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,カルガスアサルト中にアイテムを使用できません。
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,カルガスアサルト中にルーレットは使えません。
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,ブリンクウィングを使ってカルガスアサルトから逃れることはできません。
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,カルガスアサルトに位置
 TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,このゲームではすでに銀貨を使用しています。
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,銀貨が必要です。
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,金貨が必要です。
 TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,金貨が不足しています。
-TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,カルガス・アサルトの試合がまもなく始まります。
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,カルガスアサルトの試合がまもなく始まります。
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,カルガスアサルトに参加できません。
 TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,カルガスアサルトが予定されています。今すぐご登録ください！
 TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,トランスアイテムを使用している間はカルガスアサルトに入ることはできません。
@@ -1426,7 +1426,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,こ
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this emote.,このエモートを行うには、パートナーとの距離が離れすぎています。
-TEXTCLIENT_APP_LIFE,Life Skills,ライフスキル
+TEXTCLIENT_APP_LIFE,Life Skills,ライフスタイルスキル
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,%sを装備する必要があります。
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,正しい道具かご確認ください。
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,採取に失敗しました。
@@ -1442,7 +1442,7 @@ TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,材料が不足しています。
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,材料を確認できません。
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,このアイテムは既に製作中です。
-TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,This production was started before the crafting update and cannot be stopped. It will complete normally.
+TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,アップデート前に開始された生産のため、中止できません。そのまま完了します。
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,製作時間が%d分短縮されました。
 TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,行商の品揃えが更新されました。
 TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.",インベントリに空きがありません。%d個の空きスロットが必要です。
@@ -1451,7 +1451,7 @@ TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,釣り竿を装�
 TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,釣り竿を修理する必要があります。
 TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,餌が不足しています。
 TEXTCLIENT_FISHING_FAIL,You are unable to fish.,釣りができません。
-TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,%sスキルを持っていません。[Life Master] Liviのクエストを完了する必要があります。
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,%sスキルを持っていません。[ライフマスター] リヴィのクエストを完了する必要があります。
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,マスタリーポイントが不足しています。
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,必要な称号がないと、このアイテムを製作できません。
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,正しい材料を入れる必要があります。

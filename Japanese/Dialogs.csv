@@ -9,7 +9,7 @@ NPC_COMBATFLYING,Combat Flying,飛行戦闘
 NPC_IDCARD,ID CARD,IDCARD
 NPC_WHATABOUTTHEMINE,What about the mine?,デェカネス
 NPC_MOVE,Move,移動
-NPC_FORHONOR,For Honor!,モンスターに挑戦！
+NPC_FORHONOR,For Honor!,誇りを胸に！
 NPC_FORFUN,For Fun!,見てるだけです
 NPC_MEHJUSTBECAUSE,"Meh, just because?",やっぱり帰ります
 NPC_YES_ENTER,Yes_Enter,はい_入場
@@ -467,8 +467,8 @@ NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and
 NPC_000516,"My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?",ワシは八賢者の一人、＜ガブリ・エルドラディン＞じゃ。ブレードの英雄 ＜疾風の刃＞ヘレンの生涯を記録に残しておる。
 NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,光の中に闇を、闇の中に光を求めよ。
 NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb",#b#cff8a004fみなぎる勇気！湧き出る知恵！集え！新進気鋭の冒険者達よ！#cfff60000ギルドコンバット#cff8a004fはおまえ達を待っているぞ！#nc#nb
-NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ",おまえ達の勇気と知恵で、挑戦してみないか？ここで、真の実力を試してみろよ！
-NPC_000520,"It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena.",俺はGCC所属員として、ギルドコンバットの申請と入場をマネージメントしているんだ。
+NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ",他のギルドと渡り合えるだけの実力と仲間が揃ったと思うなら、ここがその力を試す場所です。その実力を、皆に証明してみせてください！
+NPC_000520,"It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena.",お会いできて光栄です。フラリスのギルドコンバットマネージャーを務めています。ギルドコンバットについて知りたいことや、参加申請、パーティ編成、アリーナへの入場については、こちらへどうぞ。
 NPC_000521,For Glory!,ギルドの大いなる栄光の為に！
 NPC_000522,I smell human... gross!,ここは人間の来るところじゃないぞ。何しにやってきたんだ？
 NPC_000523,"We are superior to humans in all ways. You're lucky I'm even speaking to you. Now, what is it you want? Can't you see I'm busy?",オレたちは、人間よりもっと優秀な種族なんだ。　君らは認めたくないだろうけどな。
@@ -986,15 +986,15 @@ NPC_100039,Who goes there?,そこにいるのは誰だ？
 NPC_100040,I am Gigaka! Protector of these lands.,私はギガカ！この地の守護者だ。
 NPC_100041,Watch yourself.,気をつけろ。
 NPC_100042,Welcome to Azria!,アズリアへようこそ！
-NPC_100043,"Stay safe out there, traveler.",旅人さん、どうかお気をつけて。
+NPC_100043,"Stay safe out there, traveler.",気をつけることだ、旅人よ。
 NPC_100044,Stay safe.,おげんきで。
 NPC_100045,Hm... Yes...,ふむ...そうだな...
 NPC_100046,...,……
 NPC_100047,May Rhisis be with you.,リシスがあなたと共にありますように。
-NPC_100048,You should not be here...,あなたはここにいるべきではありません...
-NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,ヴォルケインはマガミエントの奥深くにある、かつては忘れ去られていた古代の洞窟です。空気は火山灰と高温ガスで満たされています。ここはあなたのための場所ではありません。
-NPC_100050,A traveler? In this place? Oh my.,冒険者？この場所で？なんてこった。
-NPC_100051,Hm.,うーん。
+NPC_100048,You should not be here...,ここは、お前が来るべき場所ではない...
+NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,ヴォルケイン。マグミアントの奥深くに眠る、古く忘れ去られた洞窟。火山灰と灼熱のガスが満ちている。お前が来るべき場所ではない。
+NPC_100050,A traveler? In this place? Oh my.,旅人？ このような場所に...なんということ。
+NPC_100051,Hm.,ふむ...
 NPC_100052,This is no place for travelers. You must leave if you value your life.,ここは旅人がくるべきところではありません。命を大事に思うなら帰ってください。
 NPC_100053,The name's Buur! I love crystals more than anything. I can't get enough crystals. There is no such thing as too many crystals.,バウアーだよ！クリスタルがすっきなんだあ～。クリスタルをたっくさん集めてきて！クリスタルは多いに越したことはないからね。
 NPC_100054,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.,クリスタルは好きだけど、なかなか手に入らないんだよね～。この辺りのモンスター倒せばクリスタル手に入るんだけど...。
@@ -1028,11 +1028,11 @@ NPC_100081,Beware the masquerpets touched by waters of the Envy Depths.,エン�
 NPC_100082,Turn around while you still have some life left in you.. these waters are cursed.,あなたがまだあなたの中にいくらかの人生が残っている間に振り返ってください..これらの水は呪われています。
 NPC_100083,I am a guard hired by the Mayor of Darken City to ensure the safety of adventurers who wander too close to the Envy Depths.,私はダーコン市長に雇われた警備員で、エンヴィーデプスに近づきすぎた冒険者の安全を確保しています。
 NPC_100084,Tell those who are weak to avoid the Envy Depths at all costs!,自信のない人には、エンヴィーデプスから離れるように伝えてください!
-NPC_100085,The heart of the Guardiane Sanctuary has been torn asunder!,ガーディアンサンクチュアリの中心部が引き裂かれました!
-NPC_100086,Death and decay are all that remain within the Guardiane Sanctuary..,死と腐敗は、ガーディアンサンクチュアリ内に残っているすべてです..
-NPC_100087,Escape this place before you are turned into the living dead like those poor souls.,あなたがそれらの貧しい魂のように生きている死者になる前に、この場所を脱出してください。
-NPC_100088,I was sent here to guard the entrance of the Guardiane Sanctuary.. hopefully the Purple Magician does not come back.,私はガーディアンサンクチュアリの入り口を守るためにここに送られました..うまくいけば、紫の魔術師は戻ってこない。
-NPC_100089,May the heart of Guardiane be one day restored!,いつの日かガーディアンの心が回復しますように!
+NPC_100085,The heart of the Guardiane Sanctuary has been torn asunder!,ガルディア聖域の中心が引き裂かれてしまった！
+NPC_100086,Death and decay are all that remain within the Guardiane Sanctuary..,ガルディア聖域に残るのは、死と腐敗だけだ...
+NPC_100087,Escape this place before you are turned into the living dead like those poor souls.,あの哀れな者たちのように生ける屍にされる前に、ここから逃げてください。
+NPC_100088,I was sent here to guard the entrance of the Guardiane Sanctuary.. hopefully the Purple Magician does not come back.,私はガルディア聖域の入口を守るために派遣されました...。パープルマジシャンが戻ってこなければいいのですが。
+NPC_100089,May the heart of Guardiane be one day restored!,いつの日か、ガルディアに平穏が戻りますように！
 NPC_100090,Something strange is in the mountain air of Storm Peak..,ストームピークの空気が何か変ですね...
 NPC_100091,Within the Storm Peak mountain a great evil is said to lurk.,ストームピークには、恐ろしい何かが潜んでいるとか...
 NPC_100092,Go back home before you get frostbite!,凍傷になる前に帰ったほうがいいですよ！
@@ -1097,7 +1097,7 @@ NPC_100149,"Oh, what a delight to have new and hungry souls to satiate! There's 
 NPC_100150,"If you ever find yourself yearning for the extraordinary flavors that Coral Island has to offer, look no further. Come to me, and I'll whip up a tantalizing feast that'll leave your taste buds dancing! Rare food ingredients, you say? Consider it a delicious deal!",コーラルアイランドならではの珍しい味が恋しくなったら、ボクのところへおいで！ 舌が踊りだすようなごちそうを作ってあげるよ！ 珍しい食材を持ってるって？ フフフ、それなら話は早いね！
 NPC_100151,"I'm Pau Pau, the culinary maestro of Coral Island. I've harnessed my love for cooking to nourish and cherish my friends here. May your time on this island be a banquet of delights, and may your travels be seasoned with happiness!",ボクはポール・ポール。コーラルアイランドの料理人さ！ 大好きな料理で、この島のみんなを元気にしてるんだ。キミの島での時間がおいしい思い出でいっぱいになりますように。そして旅には、たっぷりの幸せを！
 NPC_100152,"Keep those eyes wide open as you explore the island; you'll stumble upon a treasure trove of marvelous cooking ingredients. They're scattered like edible gems all around Coral Island, waiting for the discerning palates of adventurous souls like yours!",島には珍しい食材がいっぱい！ よーく探せば、お宝みたいな食材が見つかるよ！
-NPC_100153,"It's a real treat to have you grace our cozy little village. Our mail system hasn't been very active the past few years, but I have a hunch that things are about to change now that the island's mysterious mist has lifted!",島の霧も晴れたし、これからは郵便も忙しくなりそう！ 新しいお客さん、大歓迎だよ！
+NPC_100153,"It's a real treat to have you grace our cozy little village. Our mail system hasn't been very active the past few years, but I have a hunch that things are about to change now that the island's mysterious mist has lifted!",島の霧も晴れたし、これからは郵便も忙しくなりそう！新しいお客さん、大歓迎だよ！
 NPC_100154,"You, my friend, are as sharp as a tack! It's no wonder the folks in this village put their faith in you. Your trustworthiness shines like a beacon.",キミって本当に頼もしいね！ 村のみんなが信頼するのも納得だよ！
 NPC_100155,"Coral Island is a haven, but peril lurks in the shadows. That's why we welcome outsiders like you with open arms. A helping hand from adventurers like you is always a ray of sunshine.",コーラルアイランドはすてきな場所だけど、危険もいっぱい潜んでるんだ。だからキミみたいな冒険者は大歓迎！ 力を貸してもらえるだけで、ボクたちにはとっても心強いんだよ！
 NPC_100156,"Greetings, greetings! I'm none other than your cheerful host, Sunny Pang. I'm here to make your island life a breeze. Whether it's sending heartwarming letters to friends, safeguarding your treasures in the bank, or just being the friendly face of our village, you can count on me!",やあ、こんにちは！ ボクはみんなの案内役、サニーパン！ 友達に手紙を送ったり、大切なものを銀行に預けたり、島で困ったことがあったら何でも頼ってね！
@@ -1130,9 +1130,9 @@ NPC_100182,"Did you know that the more you polish seashells in the sea, the more
 NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...",Flyffの20周年だよ！この素敵な日をどうやって祝う？僕はいろんな歴史を読み返して思い出に浸るつもりさ……
 NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",クエストを渡すには、あなたのカップルのパートナー全員がオンラインである必要があります！
 NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!",私は天から遣わされた愛の使者、キューピッドです。マドリガルを愛で満たすために遣わされました。愛する人がいるなら、ためらわずリングを使って想いを伝えなさい！
-NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",こんにちは。マドリガルでの生活を楽しんでいますか？視野を広げたいなら、私に会いに来てください。
-NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.",私と言えば、あらゆる技に通じた達人です。薬草、木、鉱石、魚……この世界について知らないことがあれば、何でも聞いてください。すべてお教えします。
-NPC_100188,We reuse our food - of course joking!,食べ物は再利用してるんだ――なんてね、冗談だよ！
+NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",マドリガルでの暮らし、楽しんでますか？ もっといろんなことに挑戦したくなったら、いつでも私のところへ来てください。
+NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.",何を隠そう、私はあらゆる技に通じた達人です。薬草、木、鉱石、魚...この世界のことで分からないことがあれば、何でも聞いてください。私がとことん教えてあげますよ。
+NPC_100188,We reuse our food - of course joking!,食べ物だって再利用します！ ...なんてね、冗談だよ！
 NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,こんにちは！何か役に立つものがあるかもしれません。私のカバンの中を覗いてみませんか？
 NPC_100190,I'm just walking around and selling stuff.,ただ歩き回って物を売っているだけですよ。
 NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe",いつ何が手に入るかは私にも分からないので、時間のある時にまた来てください。へへ
@@ -1346,7 +1346,7 @@ NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may t
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,私はエルリウンの村長です。花々と人々が調和して暮らすこの村を、何より大切に思っています。今日はどのようなご用でしょうか？
 NPC_150200,Farewell!,それでは、またお会いしましょう。
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,すぐに対応が必要な治安問題を見つけたんだ。対処してくれるか？
-NPC_150301,Are you busy? I've got something urgent I could use a hand with.,Are you busy? I've got something urgent I could use a hand with.
+NPC_150301,Are you busy? I've got something urgent I could use a hand with.,今、手は空いてる？ 急ぎで手伝ってほしいことがある。
 NPC_100198,Let luck do its thing.,運を天に任せよう。
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,運試しと財運を扱っているんだ。\n運試ししてみるかい？
 NPC_100200,Wanna test your luck?,運試ししてみる？
@@ -1368,13 +1368,13 @@ NPC_155018,Hmm... I should document that mutation pattern...,ふむ...あの変�
 NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",これはまずいな...村の中でこんなことが起きるとは...\n被害が広がる前に、早急に食い止める必要がある。
 NPC_155020,Baron here. Have you found the three yet?,バロンだ。例の三人はもう見つかったか？
 NPC_155021,We don’t have much time. Every delay makes things worse.,時間がない。遅れるほど事態は悪化する。
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,た、助けてください！こ、このままじゃ村に戻れません！も、もしまたあれが現れたら？ひ、一人じゃ無理です...
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,た、助けてください！ ま、またあれが出たら...ひ、一人じゃ村に戻れません！
 NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",ま、待って...私をここに置いていくんですか!? お、お願いです...私一人じゃ無理です...
 NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,や、やった！あ、ありがとうございます！あなたがいなかったら、私...どうなっていたか...。ほ、本当にありがとう...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,何かが向こうからこっちを見てやがる...この作戦を邪魔させはしない。気を抜くな、俺のそばを離れるなよ。
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,何かがこっちを見てやがる...作戦を邪魔させるな。気を抜くな、俺から離れるなよ。
 NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",腰抜けが！お前の助けもなしに、どうやって向こうの奴らを守れってんだ？ふざけるな！
 NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,よくやった。お前の実力は本物だ。俺たちに必要なのはそういう強さだよ。感謝する...そして、認めよう。
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...これは予想外ね。地中にいる何かが、あなたの存在に明らかに反応している。少し観察する時間が必要ね。重要な手がかりになるかもしれないわ。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,これは予想外ね。地中の何かが、あなたに反応してる...観察させて。重要なデータになるかも。
 NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",速度を落とさないで。あの生物たちに観測を邪魔されたら、すべてが台無しになる。これ以上の遅れは許されないの。
 NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,観測結果がはっきりしたわ。あなたが守ってくれたおかげで、必要な情報を集めることができた。よくやってくれた...これで状況が大きく変わるわ。
 NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",さっきも言ったけれど、これ以上ここに留まるべきじゃないわ。地中の活動が予想以上の速さで活発になっている。今すぐ移動しましょう。
@@ -1384,4 +1384,4 @@ NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself ag
 NPC_156013,Oh... alright. Come find me whenever you feel ready.,あら……分かったわ。準備ができたら、いつでも私を訪ねてきて。
 NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,私はムシャ。この場所を見張って、もう一度エンタネスに挑みたい冒険者を案内しているの。
 NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!",俺はエアリン。ここらのPvPアリーナの管理を任されている。腕に覚えがあるなら、入ってきな。実力を見せてみろ！
-NPC_150300,We held them off! Head back to town and report to Tallahassee.,We held them off! Head back to town and report to Tallahassee.
+NPC_150300,We held them off! Head back to town and report to Tallahassee.,なんとか食い止めた！ 街に戻って、タラハシーに報告してくれ。

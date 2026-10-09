@@ -12,7 +12,7 @@ PROPMAP_TXT_000009,Flaris,帕里
 PROPMAP_TXT_000012,Flarine,帕里镇
 PROPMAP_TXT_000013,Saint City,晨光镇
 PROPMAP_TXT_000014,Darken,达肯2区
-PROPMAP_TXT_000242,Dungeon,副本
+PROPMAP_TXT_000242,Dungeon,开放地牢
 PROPMAP_TXT_000263,Mars Dungeon,魔域密殿
 PROPMAP_TXT_000265,Dekane Mine,达肯矿洞
 PROPMAP_TXT_000266,Iblis Temple,幻魔依普利神殿
@@ -168,7 +168,7 @@ PROPMAP_TXT_200041,Rescue [Eillun Farmer] Dr. Root,营救 [艾尔伦农人] 根�
 PROPMAP_TXT_200042,Mysterious Castle,神秘城堡
 PROPMAP_TXT_200043,Euphresia,尤芙蕾雅湿地
 PROPMAP_TXT_200044,Kebaras 2,卡巴拉斯 2
-PROPMAP_TXT_200045,Zombie Dungeon,Zombie Dungeon
-PROPMAP_TXT_200046,[Event] Zombie Dungeon(Easy),[Event] Zombie Dungeon(Easy)
-PROPMAP_TXT_200047,[Event] Zombie Dungeon(Medium),[Event] Zombie Dungeon(Medium)
-PROPMAP_TXT_200048,[Event] Zombie Dungeon(Hard),[Event] Zombie Dungeon(Hard)
+PROPMAP_TXT_200045,Zombie Dungeon,丧尸副本
+PROPMAP_TXT_200046,[Event] Zombie Dungeon(Easy),[活动] 丧尸副本(简单)
+PROPMAP_TXT_200047,[Event] Zombie Dungeon(Medium),[活动] 丧尸副本(中等)
+PROPMAP_TXT_200048,[Event] Zombie Dungeon(Hard),[活动] 丧尸副本(困难)

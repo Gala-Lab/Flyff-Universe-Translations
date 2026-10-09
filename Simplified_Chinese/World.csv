@@ -65,7 +65,7 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,千泪湖 ↔ 守护之室
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,千泪湖 ↔ 龙息荒野
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,阿兹利亚\n废弃的绿磷石工厂
 WDMADRIGAL_WLD_000013,Azria\nVillage,阿兹利亚\n雪橇村
-WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Line Deadwalderness ↔ 阿兹利亚
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,龙息荒野 ↔ 阿兹利亚
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,风暴之巅入口
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,渴望深渊入口
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,堕落圣域入口
@@ -100,12 +100,12 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,帕里\n春之城帕里
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005,The main hub of activity for Flaris is in the middle of Flarine.\nThere is a station and a public office.\nThere are stores for armor and weapons.,欢迎您来到春之城帕里镇。\n这里有港口设施、政府办事处、武器店及杂货店。\n第一次来的游客请找政府办事处的茱丽亚。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006,Flarine\nEastern Flarine,帕里\n东广场
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007,"The eastern part of Flarine.\nHere you can get food, magic materials, and job training.",这里有魔法商店和食品店。\n这里是帕里镇的东部。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007,"The eastern part of Flarine.\nHere you can get food, magic materials, and job training.",这里有魔法商店和餐饮店。\n这里是帕里镇的东部。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008,Flarine\nNorthern Flarine,帕里\n北广场
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009,The northern part of Flarine.\nThe Job Masters and Lodestar are here.,帕里北广场\n城镇之星位于此地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010,Someone is watching you.,上面好像有人注视着你。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,波布尔平原
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,此地是一个叫波布尔的小丑神创造的。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,波卜尔平原
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,此地是一个叫波卜尔的小丑神创造的。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,乐雅山脉南部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,乐雅山脉的南部地区
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,公会对战中心
@@ -117,7 +117,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory pr
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,达肯\n紫色的祭团
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,这里似乎有着重要事件的端倪。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,乐雅山脉中部
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024,The middle of the Leren Mountains.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,乐雅山脉的中部地区\n高阶矮人族与波布尔的居住地。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024,The middle of the Leren Mountains.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,乐雅山脉的中部地区\n高阶矮人族与波卜尔的居住地。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025,Billeting Place of High-Dwarpets,高阶矮人族居住地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026,The High-Dwarpets have created Billeting place.\n A certain High-Dwarpet once stored the Book of Technique here.,高阶矮人族们建造的营地。\n 几个高阶矮人族曾在这存放着相关的技术书籍。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027,Northern River of Weeping,雨之河北部

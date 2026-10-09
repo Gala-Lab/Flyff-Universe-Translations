@@ -106,7 +106,7 @@ PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy
 PROPSKILL_TXT_000104,Holycross,ホーリークロス
 PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.,神の加護を受けて、敵に2倍のダメージを与えます。
 PROPSKILL_TXT_000106,Protect,プロテクト
-PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,一定時間、対象を目に見えない障壁で包み、防御力を上昇させます。
+PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,一定時間、対象を目に見えない障壁で包み、防御力と魔法抵抗力を上昇させます。
 PROPSKILL_TXT_000108,Holyguard,ホーリーガード
 PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,一定時間、対象を目に見えない結界で包み、クリティカル耐性を上昇させます。
 PROPSKILL_TXT_000110,Spirit Fortune,エンチャントウェポン
@@ -189,7 +189,7 @@ PROPSKILL_TXT_000191,Calls down a devastating bolt of lightning upon the enemy.,
 PROPSKILL_TXT_000192,Lightning Mastery,ライトニングマスター
 PROPSKILL_TXT_000193,Enhances the power of Electric spells.,雷の精霊と盟約を結び、雷属性の攻撃力を強化します。
 PROPSKILL_TXT_000194,Electric Shock,サンダーショック
-PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",周囲に強い電場を形成し、一定範囲の敵にランダムに雷を落とします。
+PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",電撃を放って周囲の敵にダメージを与え、魔法抵抗力を低下させます。
 PROPSKILL_TXT_000196,Stone Spear,ストーンスピア
 PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.",鋭い石の槍を出現させ、敵を攻撃します。
 PROPSKILL_TXT_000198,Earth Mastery,アースマスター
@@ -277,7 +277,7 @@ PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting pois
 PROPSKILL_TXT_000280,Silent Arrow,サイレントアロー
 PROPSKILL_TXT_000281,Attacks the enemy and prevents them from casting spells.,強力なダメージを与えると共に、一定確率で沈黙状態(魔法が使用できない)にする。
 PROPSKILL_TXT_000282,Nature,ネイチャリング
-PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",自然に対する感覚を高め、魔法防御力と弓の射程距離を伸ばす。
+PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",自然に対する感覚を高め、魔法抵抗力と弓の射程距離を伸ばす
 PROPSKILL_TXT_000284,Triple Shot,トリプルショット
 PROPSKILL_TXT_000285,Fires a volley of arrows that stuns the target.,3本の矢を一度に発射し、敵に強力なダメージを与え、弾き飛ばす
 PROPSKILL_TXT_000286,Flash,フラッシュ
@@ -486,22 +486,22 @@ PROPSKILL_TXT_100137,"Cheered on by your partner, your EXP rate is increased by 
 PROPSKILL_TXT_100138,Happy Jump,Happy Jump
 PROPSKILL_TXT_100139,Increases Jump Height by 50 for you and your partner for 10 minutes.,Increases Jump Height by 50 for you and your partner for 10 minutes.
 PROPSKILL_TXT_100140,Swift Recovery,Swift Recovery
-PROPSKILL_TXT_100141,Herb Gathering,Herb Gathering
-PROPSKILL_TXT_100142,Gather various herbs.,Gather various herbs.
-PROPSKILL_TXT_100143,Wood Cutting,Wood Cutting
-PROPSKILL_TXT_100144,Cut down trees.,Cut down trees.
-PROPSKILL_TXT_100145,Mining,Mining
-PROPSKILL_TXT_100146,Mine various ores and gems.,Mine various ores and gems.
-PROPSKILL_TXT_100147,Fishing,Fishing
-PROPSKILL_TXT_100148,Catch various fish.,Catch various fish.
-PROPSKILL_TXT_100149,Cooking,Cooking
-PROPSKILL_TXT_100150,Cook various foods.,Cook various foods.
-PROPSKILL_TXT_100151,Alchemy,Alchemy
-PROPSKILL_TXT_100152,Produce various potions.,Produce various potions.
-PROPSKILL_TXT_100153,Carpentry,Carpentry
-PROPSKILL_TXT_100154,Craft furniture and other items.,Craft furniture and other items.
-PROPSKILL_TXT_100155,Smithing,Smithing
-PROPSKILL_TXT_100156,Create various accessories.,Create various accessories.
+PROPSKILL_TXT_100141,Herb Gathering,薬草採集
+PROPSKILL_TXT_100142,Gather various herbs.,さまざまな薬草を採集します。
+PROPSKILL_TXT_100143,Wood Cutting,伐採
+PROPSKILL_TXT_100144,Cut down trees.,木を伐採します。
+PROPSKILL_TXT_100145,Mining,採掘
+PROPSKILL_TXT_100146,Mine various ores and gems.,さまざまな鉱石や宝石を採掘します。
+PROPSKILL_TXT_100147,Fishing,釣り
+PROPSKILL_TXT_100148,Catch various fish.,さまざまな魚を釣ります。
+PROPSKILL_TXT_100149,Cooking,料理
+PROPSKILL_TXT_100150,Cook various foods.,さまざまな料理を作ります。
+PROPSKILL_TXT_100151,Alchemy,錬金術
+PROPSKILL_TXT_100152,Produce various potions.,さまざまなポーションを調合します。
+PROPSKILL_TXT_100153,Carpentry,木工
+PROPSKILL_TXT_100154,Craft furniture and other items.,家具など、さまざまなアイテムを作ります。
+PROPSKILL_TXT_100155,Smithing,鍛冶
+PROPSKILL_TXT_100156,Create various accessories.,さまざまなアクセサリーを作ります。
 PROPSKILL_TXT_FWC_202501,Grinder's Blessing,Grinder's Blessing
 PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,Madrigal's elites guide you!
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Bubble's Fortune

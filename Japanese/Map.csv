@@ -78,7 +78,7 @@ PROPMAP_TXT_100050,Storm Peak,ストームピーク
 PROPMAP_TXT_100051,Envy Depths,エンヴィーデプス
 PROPMAP_TXT_100052,Leren Chasm,レルエン峡谷
 PROPMAP_TXT_100053,Rhisis Catacombs,リシスの地下墓地
-PROPMAP_TXT_100054,Guardiane Sanctuary,ガーディアンサンクチュアリ
+PROPMAP_TXT_100054,Guardiane Sanctuary,ガルディア聖域
 PROPMAP_TXT_100055,Leren Chasm (Medium),レルエン峡谷 (ノーマル)
 PROPMAP_TXT_100056,Leren Chasm (Hard),レルエン峡谷 (ハード)
 PROPMAP_TXT_100057,Leren Chasm (Extra Hard),レルエン峡谷 (エキストラハード)
@@ -88,7 +88,7 @@ PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),リシスの地下墓地 (エ�
 PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),リシスの地下墓地 (ナイトメア)
 PROPMAP_TXT_100062,Envy Depths (Extra Hard),エンヴィーデプス (エキストラハード)
 PROPMAP_TXT_100063,Envy Depths (Nightmare),エンヴィーデプス (ナイトメア)
-PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),ガーディアンサンクチュアリ (ナイトメア)
+PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),ガルディア聖域 (ナイトメア)
 PROPMAP_TXT_100065,Envy Depths (Medium),エンヴィーデプス (ノーマル)
 PROPMAP_TXT_100066,Eggcellent's Meadow,エッグセレントの牧草地
 PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),エッグセレントの牧草地(ミディアム)
@@ -96,7 +96,7 @@ PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),エッグセレントの牧草地(
 PROPMAP_TXT_100069,Leren Chasm (Story),レルエン峡谷 (ストーリー)
 PROPMAP_TXT_100070,Rhisis Catacombs (Story),リシスの地下墓地 (ストーリー)
 PROPMAP_TXT_100071,Envy Depths (Story),エンヴィーデプス (ストーリー)
-PROPMAP_TXT_100072,Guardiane Sanctuary (Story),ガーディアンサンクチュアリ(ストーリー)
+PROPMAP_TXT_100072,Guardiane Sanctuary (Story),ガルディア聖域 (ストーリー)
 PROPMAP_TXT_100073,Storm Peak (Story),ストームピーク (ストーリー)
 PROPMAP_TXT_200000,The Colosseum,コロッセオ
 PROPMAP_TXT_100074,The Wilds (Story),ザ・ワイルズ(ストーリー)
@@ -106,7 +106,7 @@ PROPMAP_TXT_100076,FWC Arena,FWCアリーナ
 PROPMAP_TXT_100081,Leren Chasm (Cursed),レルエン峡谷 (カース)
 PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),リシスの地下墓地 (カース)
 PROPMAP_TXT_100083,Envy Depths (Cursed),エンヴィーデプス (カース)
-PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),ガーディアンサンクチュアリ(カース)
+PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),ガルディア聖域 (カース)
 PROPMAP_TXT_100085,Storm Peak (Cursed),ストームピーク (カース)
 PROPMAP_TXT_200001,Beach House,ビーチハウス
 PROPMAP_TXT_200002,Blank World,空白の世界
@@ -119,15 +119,15 @@ PROPMAP_TXT_200008,Pet Tamer,ペットテイマー
 PROPMAP_TXT_200009,Beach House (S),ビーチハウス(S)
 PROPMAP_TXT_200010,Beach House (M),ビーチハウス(M)
 PROPMAP_TXT_200011,Beach House (L),ビーチハウス(L)
-PROPMAP_TXT_200012,Kalgas Assault Realm,カルガス・アサルト・レルム
+PROPMAP_TXT_200012,Kalgas Assault Realm,カルガスアサルト・レルム
 PROPMAP_TXT_200013,Darken House,ダーコンハウス
 PROPMAP_TXT_100086,2nd Anniversary,2周年記念
 PROPMAP_TXT_100087,2nd Anniversary (Medium),2周年記念(ミディアム)
 PROPMAP_TXT_100088,2nd Anniversary (Hard),2周年記念(ハード)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] エンヴィーデプス (イージー)
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] エンヴィーデプス (ノーマル)
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] エンヴィーデプス (ハード)
-PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[Event] エンヴィーデプス (カオス)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[イベント] エンヴィーデプス (イージー)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[イベント] エンヴィーデプス (ノーマル)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[イベント] エンヴィーデプス (ハード)
+PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[イベント] エンヴィーデプス (カオス)
 PROPMAP_TXT_100089,Lv.15+,Lv.15以上
 PROPMAP_TXT_100090,Lv.20+,Lv.20以上
 PROPMAP_TXT_100091,Lv.80+,Lv.80以上
@@ -145,9 +145,9 @@ PROPMAP_TXT_200021,Forest House (Couple),フォレストハウス(カップル)
 PROPMAP_TXT_200022,Fall House (Couple),フォールハウス(カップル)
 PROPMAX_TXT_200023,Herneos,ヘルネオス
 PROPMAP_TXT_200024,Boss Monster Raid,ボスモンスターレイド
-PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] ハロウィンダンジョン
-PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] ハロウィンダンジョン(ノーマル)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] ハロウィンダンジョン(ハード)
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,[イベント] ハロウィンダンジョン
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[イベント] ハロウィンダンジョン (ノーマル)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[イベント] ハロウィンダンジョン (ハード)
 PROPMAP_TXT_200025,Snowfield,雪原
 PROPMAX_TXT_200026,Ankou's Asylum,ベヒモス神殿
 PROPMAP_TXT_200027,Kaillun Temple,カイルルン神殿
@@ -156,7 +156,7 @@ PROPMAP_TXT_200029,Kaillun,カイルルン
 PROPMAP_TXT_200030,Leren Chasm (Infernal),レルエン峡谷 (インフェルノ)
 PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),リシスの地下墓地 (インフェルノ)
 PROPMAP_TXT_200032,Envy Depths (Infernal),エンヴィーデプス (インフェルノ)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),ガーディアンサンクチュアリ (インフェルノ)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),ガルディア聖域 (インフェルノ)
 PROPMAP_TXT_200034,Storm Peak (Infernal),ストームピーク (インフェルノ)
 PROPMAP_TXT_200035,The Wilds (Infernal),ザ・ワイルズ (インフェルノ)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),ベヒモス神殿(ストーリー)
@@ -168,7 +168,7 @@ PROPMAP_TXT_200041,Rescue [Eillun Farmer] Dr. Root,[エルリウン研究者] Dr
 PROPMAP_TXT_200042,Mysterious Castle,神秘の城
 PROPMAP_TXT_200043,Euphresia,ユプレシア
 PROPMAP_TXT_200044,Kebaras 2,ケバラス2
-PROPMAP_TXT_200045,Zombie Dungeon,Zombie Dungeon
-PROPMAP_TXT_200046,[Event] Zombie Dungeon(Easy),[Event] Zombie Dungeon(Easy)
-PROPMAP_TXT_200047,[Event] Zombie Dungeon(Medium),[Event] Zombie Dungeon(Medium)
-PROPMAP_TXT_200048,[Event] Zombie Dungeon(Hard),[Event] Zombie Dungeon(Hard)
+PROPMAP_TXT_200045,Zombie Dungeon,ゾンビダンジョン
+PROPMAP_TXT_200046,[Event] Zombie Dungeon(Easy),[イベント] ゾンビダンジョン (イージー)
+PROPMAP_TXT_200047,[Event] Zombie Dungeon(Medium),[イベント] ゾンビダンジョン (ノーマル)
+PROPMAP_TXT_200048,[Event] Zombie Dungeon(Hard),[イベント] ゾンビダンジョン (ハード)
