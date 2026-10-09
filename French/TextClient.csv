@@ -666,8 +666,8 @@ TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,Vous avez gagné %d points de résurrection !
 TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,Vous devez être connecté sur le canal 1 pour accéder au siège de guilde.
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,La Guerre des Guildes est terminée.
-TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,La guilde victorieuse cette semaine est: %s.
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,Le meilleur joueur (MVP) est: %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,La guilde victorieuse cette semaine est : %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,Le meilleur joueur (MVP) est : %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Félicitations !
 TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Début de la Guerre des Guildes dans
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Vous ne pouvez pas inviter un joueur à rejoindre la guilde pendant la Guerre des Guildes.

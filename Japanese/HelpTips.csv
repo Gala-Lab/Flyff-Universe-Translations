@@ -4,7 +4,7 @@ CLIENT_TIP_INC_000001,"Press Spacebar to jump while on the ground. While flying,
 CLIENT_TIP_INC_000002,Flying becomes available at level 20 regardless of your class. Flying items can be purchased from the [Station] NPC in each town.,20レベル以上から職業に関係なく飛行可能になります。飛行アイテムは各街の｢ステーション｣NPCから購入できます。
 CLIENT_TIP_INC_000003,"If you need HP, sit down using the Emotes menu. Resting takes time but saves money.",生命力（HP）が不足した場合には、モーションの「座る」をすると効率よく回復できます。多少の時間はかかりますがペニャは節約になります。
 CLIENT_TIP_INC_000004,"If you die, use Lodestar to revive in town. To revive at the place where you died, use a Scroll of Resurrection or have someone cast Resurrection on you.",死亡した場合、一番近くの街へ戻る時は[ロードスター]で復活するか、その場で復活したい時は[リザレクション]スキルで復活させてもらう、もしくは、プレミアムアイテムの｢復活の巻物｣を所持していればその場で復活が可能です。
-CLIENT_TIP_INC_000005,"Items that restore HP, MP, and FP - such as Food, Refreshers, and Vital Drinks - are most effective up to a certain value. Using them above that value restores less.",フード、魔力ドリンク、 スタミナドリンクのようなHP、MP、FPを回復させるアイテムには治療量があります。自分のHP、MP、FPの最大値を確認して、適切なアイテムを使用し、効果を最大限に発揮させるのが重要です。
+CLIENT_TIP_INC_000005,"Items that restore HP, MP, and FP - such as Food, Refreshers, and Vital Drinks - are most effective up to a certain value. Using them above that value restores less.",フード、魔力ドリンク、 スタミナドリンクのようなHP、MP、FPを回復させるアイテムには最大回復量があります。自分のHP、MP、FPの最大値を確認して、適切なアイテムを使用し、効果を最大限に発揮させるのが重要です。
 CLIENT_TIP_INC_000006,"When you reach level 15, complete your job change quest as soon as possible. Until you do, you cannot gain additional EXP.",レベルが15になったら、1次転職をしましょう。1次転職が完了するまで経験値は溜まらないので注意してください。
 CLIENT_TIP_INC_000007,Press ESC to cancel your target.,ターゲッティングをキャンセルしたい時は[ESC]キーを押してください。
 CLIENT_TIP_INC_000008,Troupe means Party.,パーティです。

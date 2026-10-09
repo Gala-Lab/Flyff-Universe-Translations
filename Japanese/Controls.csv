@@ -36,7 +36,7 @@ PROPCTRL_TXT_000056,Round Red Coral,丸い赤珊瑚
 PROPCTRL_TXT_000057,Leren Chasm Chest,レルエン峡谷の宝箱
 PROPCTRL_TXT_000058,Rhisis Catacombs Chest,リシスの地下墓地の宝箱
 PROPCTRL_TXT_000059,Envy Depths Chest,エンヴィーデプスの宝箱
-PROPCTRL_TXT_000060,Guardiane Sanctuary Chest,ガーディアンサンクチュアリの宝箱
+PROPCTRL_TXT_000060,Guardiane Sanctuary Chest,ガルディア聖域の宝箱
 PROPCTRL_TXT_000061,Storm Peak Chest,ストームピークの宝箱
 PROPCTRL_TXT_000062,The Wilds Chest,ザ・ワイルズの宝箱
 PROPCTRL_TXT_000063,Dungeon Warp 05,ダンジョンワープ05
@@ -49,7 +49,7 @@ PROPCTRL_TXT_000069,Chandelier,シャンデリア
 PROPCTRL_TXT_000070,Command Desk,コマンドデスク
 PROPCTRL_TXT_000071,Command Platform,コマンドプラットフォーム
 PROPCTRL_TXT_000072,Small Table,スモールテーブル
-PROPCTRL_TXT_000073,Drawer,引き出し
+PROPCTRL_TXT_000073,Drawer,ドロワー
 PROPCTRL_TXT_000074,Twin Bed,ツインベッド
 PROPCTRL_TXT_000075,Incident Painting,インシデントペインティング
 PROPCTRL_TXT_000076,Home Painting,ホームペインティング
@@ -78,33 +78,33 @@ PROPCTRL_TXT_000098,Metaverse Round Table,メタバース円卓会議
 PROPCTRL_TXT_000099,Metaverse Storage Table,メタバース ストレージ テーブル
 PROPCTRL_TXT_000100,Metaverse Decorative Table,メタバースデコラティブテーブル
 PROPCTRL_TXT_000101,Metaverse Violin,メタバースバイオロン
-PROPCTRL_TXT_000102,Wooden Yellow Chair,木製の黄色い椅子
-PROPCTRL_TXT_000103,Wooden Yellow Table,木製の黄色いテーブル
-PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,木製の黄色のドレッシングテーブル
-PROPCTRL_TXT_000105,Wooden Yellow Closet,木製の黄色いクローゼット
-PROPCTRL_TXT_000106,Wooden Yellow Bench,木製の黄色いベンチ
-PROPCTRL_TXT_000107,Wooden Yellow Cabinet,木製の黄色いキャビネット
-PROPCTRL_TXT_000108,Wooden Yellow Bed,木製の黄色いベッド
-PROPCTRL_TXT_000109,Wooden Blue Chair,木製の青い椅子
-PROPCTRL_TXT_000110,Wooden Blue Table,木製の青いテーブル
+PROPCTRL_TXT_000102,Wooden Yellow Chair,木製イエローチェア
+PROPCTRL_TXT_000103,Wooden Yellow Table,木製イエローテーブル
+PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,木製イエロードレッシングテーブル
+PROPCTRL_TXT_000105,Wooden Yellow Closet,木製イエロークローゼット
+PROPCTRL_TXT_000106,Wooden Yellow Bench,木製イエローベンチ
+PROPCTRL_TXT_000107,Wooden Yellow Cabinet,木製イエローキャビネット
+PROPCTRL_TXT_000108,Wooden Yellow Bed,木製イエローベッド
+PROPCTRL_TXT_000109,Wooden Blue Chair,木製ブルーチェア
+PROPCTRL_TXT_000110,Wooden Blue Table,木製ブルーテーブル
 PROPCTRL_TXT_000111,Wooden Blue Dressing Table,木製ブルードレッシングテーブル
-PROPCTRL_TXT_000112,Wooden Blue Closet,木製の青いクローゼット
-PROPCTRL_TXT_000113,Wooden Blue Bench,木製の青いベンチ
-PROPCTRL_TXT_000114,Wooden Blue Cabinet,木製の青いキャビネット
-PROPCTRL_TXT_000115,Wooden Blue Bed,木製の青いベッド
-PROPCTRL_TXT_000116,Wooden Red Chair,木製の赤い椅子
-PROPCTRL_TXT_000117,Wooden Red Table,木製の赤いテーブル
-PROPCTRL_TXT_000118,Wooden Red Dressing Table,木製の赤いドレッシングテーブル
-PROPCTRL_TXT_000119,Wooden Red Closet,木製の赤いクローゼット
-PROPCTRL_TXT_000120,Wooden Red Bench,木製の赤いベンチ
-PROPCTRL_TXT_000121,Wooden Red Cabinet,木製の赤いキャビネット
-PROPCTRL_TXT_000122,Wooden Red Bed,木製の赤いベッド
-PROPCTRL_TXT_000123,Music Chair,譜面椅子
-PROPCTRL_TXT_000124,Music Table,楽譜表
-PROPCTRL_TXT_000125,Music Dressing Table,音楽化粧台
-PROPCTRL_TXT_000126,Music Wardrobe,音楽ワードローブ
+PROPCTRL_TXT_000112,Wooden Blue Closet,木製ブルークローゼット
+PROPCTRL_TXT_000113,Wooden Blue Bench,木製ブルーベンチ
+PROPCTRL_TXT_000114,Wooden Blue Cabinet,木製ブルーキャビネット
+PROPCTRL_TXT_000115,Wooden Blue Bed,木製ブルーベッド
+PROPCTRL_TXT_000116,Wooden Red Chair,木製レッドチェア
+PROPCTRL_TXT_000117,Wooden Red Table,木製レッドテーブル
+PROPCTRL_TXT_000118,Wooden Red Dressing Table,木製レッドドレッシングテーブル
+PROPCTRL_TXT_000119,Wooden Red Closet,木製レッドクローゼット
+PROPCTRL_TXT_000120,Wooden Red Bench,木製レッドベンチ
+PROPCTRL_TXT_000121,Wooden Red Cabinet,木製レッドキャビネット
+PROPCTRL_TXT_000122,Wooden Red Bed,木製レッドベッド
+PROPCTRL_TXT_000123,Music Chair,ミュージックチェア
+PROPCTRL_TXT_000124,Music Table,ミュージックテーブル
+PROPCTRL_TXT_000125,Music Dressing Table,ミュージックドレッシングテーブル
+PROPCTRL_TXT_000126,Music Wardrobe,ミュージックワードローブ
 PROPCTRL_TXT_000127,Music Sofa,ミュージックソファ
-PROPCTRL_TXT_000128,Music Cabinet,音楽キャビネット
+PROPCTRL_TXT_000128,Music Cabinet,ミュージックキャビネット
 PROPCTRL_TXT_000129,Music Bed,ミュージックベッド
 PROPCTRL_TXT_000130,Heart Chair,ハートチェア
 PROPCTRL_TXT_000131,Heart Table,ハートテーブル
@@ -127,7 +127,7 @@ PROPCTRL_TXT_000147,Royal Wardrobe,ロイヤルワードローブ
 PROPCTRL_TXT_000148,Royal Sofa,ロイヤルソファ
 PROPCTRL_TXT_000149,Royal Bed,ロイヤルベッド
 PROPCTRL_TXT_000150,Royal Drawer,ロイヤルドロワー
-PROPCTRL_TXT_000151,Royal Bookcase,王室の本棚
+PROPCTRL_TXT_000151,Royal Bookcase,ロイヤル本棚
 PROPCTRL_TXT_000152,Royal Desk,ロイヤルデスク
 PROPCTRL_TXT_000153,Royal Bath,ロイヤルバス
 PROPCTRL_TXT_000154,Golden Royal Chair,ゴールデンロイヤルチェア
@@ -142,13 +142,13 @@ PROPCTRL_TXT_000162,Golden Royal Desk,ゴールデンロイヤルデスク
 PROPCTRL_TXT_000163,Golden Royal Bath,ゴールデン ロイヤル バス
 PROPCTRL_TXT_000164,Design Black Chair,デザインブラックチェア
 PROPCTRL_TXT_000165,Design White Chair,デザインホワイトチェア
-PROPCTRL_TXT_000166,Design Table,設計テーブル
+PROPCTRL_TXT_000166,Design Table,デザインテーブル
 PROPCTRL_TXT_000167,Design Drawer,デザインドロワー
 PROPCTRL_TXT_000168,Design Bookcase,デザイン本棚
 PROPCTRL_TXT_000169,Design Sofa,デザインソファ
-PROPCTRL_TXT_000170,Wooden Chair,木製椅子
+PROPCTRL_TXT_000170,Wooden Chair,木製チェア
 PROPCTRL_TXT_000171,Wooden Table,木製テーブル
-PROPCTRL_TXT_000172,Wooden Drawer,木製引き出し
+PROPCTRL_TXT_000172,Wooden Drawer,木製ドロワー
 PROPCTRL_TXT_000173,Wooden Bookcase,木製本棚
 PROPCTRL_TXT_000174,Wooden Sofa,木製ソファ
 PROPCTRL_TXT_000175,Flaris Ground Field,フラリスグラウンドフィールド
@@ -546,11 +546,11 @@ PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,2周年記念ダーコンケー�
 PROPCTRL_TXT_000567,2nd Anniversary Presents 1,2周年記念プレゼンツ1
 PROPCTRL_TXT_000568,2nd Anniversary Presents 2,2周年記念プレゼンツ2
 PROPCTRL_TXT_000569,2nd Anniversary Arch 1,2周年記念アーチ1
-PROPCTRL_TXT_000570,Luxury Chandelier,高級シャンデリア
+PROPCTRL_TXT_000570,Luxury Chandelier,ラグジュアリーシャンデリア
 PROPCTRL_TXT_000571,Luxury Table,ラグジュアリーテーブル
-PROPCTRL_TXT_000572,Luxury Dressing Table,贅沢な化粧台
+PROPCTRL_TXT_000572,Luxury Dressing Table,ラグジュアリードレッシングテーブル
 PROPCTRL_TXT_000573,Luxury Wardrobe,ラグジュアリーワードローブ
-PROPCTRL_TXT_000574,Luxury Bookcase,高級本棚
+PROPCTRL_TXT_000574,Luxury Bookcase,ラグジュアリー本棚
 PROPCTRL_TXT_000575,Luxury Sofa,ラグジュアリーソファ
 PROPCTRL_TXT_000576,Luxury Armchair,ラグジュアリーアームチェア
 PROPCTRL_TXT_000577,Luxury Chair,ラグジュアリーチェア

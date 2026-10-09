@@ -248,7 +248,7 @@ CHARACTER_INC_100014,Buur,バウアー
 CHARACTER_INC_100015,Gloves,グローブ
 CHARACTER_INC_100016,Kumah,クマー
 CHARACTER_INC_100017,Obnis,オブニス
-CHARACTER_INC_100018,Airon,アリオン
+CHARACTER_INC_100018,Airon,アイロン
 CHARACTER_INC_100019,Haom,ハーモ
 CHARACTER_INC_100020,Mysterious Robed Girl,謎のローブ少女
 CHARACTER_INC_000697,[Chip Merchant] Waforu,[チップ商人] ワフォル
@@ -264,7 +264,7 @@ CHARACTER_INC_000722,Secret Room Manager,[東部オルタナティヴマネー�
 CHARACTER_INC_000723,Leren Chasm Guard,レルエン峡谷・ガーディアン
 CHARACTER_INC_000724,Rhisis Catacombs Guard,リシスの地下墓地・ガーディアン
 CHARACTER_INC_000725,Envy Depths Guard,エンヴィーデプス・ガーディアン
-CHARACTER_INC_000726,Guardiane Sanctuary Guard,ガーディアンサンクチュアリ・ガーディアン
+CHARACTER_INC_000726,Guardiane Sanctuary Guard,ガルディア聖域・ガーディアン
 CHARACTER_INC_000727,Storm Peak Guard,ストームピーク・ガーディアン
 CHARACTER_INC_000728,Rankashin,ランカシン
 CHARACTER_INC_100028,Kebaras Pang,ケバラス・ファン
@@ -297,7 +297,7 @@ CHARACTER_INC_000771,Charlie,チャーリー
 CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[ギルドシップ管理人] ルイジアナ
 CHARACTER_INC_000773,Santa,サンタ
 CHARACTER_INC_100044,Diosa,女神
-CHARACTER_INC_100200,Kalgas Assault Manager,カルガス・アサルト・マネージャー
+CHARACTER_INC_100200,Kalgas Assault Manager,カルガスアサルト・マネージャー
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[パーソナルハウスNPC] カサノバ
 CHARACTER_INC_003201,[Personal House NPC] Misun,[パーソナルハウスNPC] ミスン
 CHARACTER_INC_003202,[Personal House NPC] Punk,[パーソナルハウスNPC] パンク
@@ -370,10 +370,10 @@ CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[パーソナルハウ�
 CHARACTER_INC_140000,Couple Rings,カップルリング
 CHARACTER_INC_100104,[Life Master] Livi,[ライフマスター] リヴィ
 CHARACTER_INC_100105,Gathering Tool,採集ツール
-CHARACTER_INC_100190,Alchemy,Alchemy
-CHARACTER_INC_100191,Carpentry,Carpentry
-CHARACTER_INC_100192,Cooking,Cooking
-CHARACTER_INC_100193,Smithing,Smithing
+CHARACTER_INC_100190,Alchemy,錬金術
+CHARACTER_INC_100191,Carpentry,木工
+CHARACTER_INC_100192,Cooking,料理
+CHARACTER_INC_100193,Smithing,鍛冶
 CHARACTER_INC_100106,Sovann,ソヴァン
 CHARACTER_INC_100107,[Event] Mr.Kang,[イベント] Mr.カン
 CHARACTER_INC_100108,Hyuna,ヒュナ
@@ -440,5 +440,5 @@ CHARACTER_INC_155002,[Eillun Farmer] Sprout,[エルリウン栽培員] スプラ
 CHARACTER_INC_155003,[Eillun Farmer] Thorn,[エルリウン農夫] ソーン
 CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[エルリウン研究者] Dr.ルート
 CHARACTER_INC_155005,Musha,ムシャ
-CHARACTER_INC_150056,Tallahassee,Tallahassee
-CHARACTER_INC_150055,Defense House,Defense House
+CHARACTER_INC_150056,Tallahassee,タラハシー
+CHARACTER_INC_150055,Defense House,防衛拠点

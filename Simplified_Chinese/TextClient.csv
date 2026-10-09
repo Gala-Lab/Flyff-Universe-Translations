@@ -50,7 +50,7 @@ TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,您不能向自己发�
 TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s 不存在或不在线。 
 TEXTCLIENT_APP_NOTICE,Notice,公告
 TEXTCLIENT_APP_STATUS,Status,状态
-TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s Lv %d
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - Lv: %d
 TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,吟唱时无法使用。
 TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,在休息状态下无法使用回城卷
 TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,站立时才能使用。
@@ -76,10 +76,10 @@ TEXTCLIENT_ADMIN_STATE,Status,状态
 TEXTCLIENT_ADMIN_NORMAL,Normal,通用
 TEXTCLIENT_SPEED_VERYSLOW,Very slow,非常慢
 TEXTCLIENT_SPEED_LOW,Slow,慢
-TEXTCLIENT_SPEED_NORMAL,Normal,通用
-TEXTCLIENT_SPEED_FAST,Fast,快速
+TEXTCLIENT_SPEED_NORMAL,Normal,中等
+TEXTCLIENT_SPEED_FAST,Fast,快
 TEXTCLIENT_SPEED_VERYFAST,Very fast,很快
-TEXTCLIENT_SPEED_FASTEST,Fastest,非常快速
+TEXTCLIENT_SPEED_FASTEST,Fastest,非常快
 TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s暂时属于其他玩家，请稍候。
 TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,背包没有足够的空间。
 TEXTCLIENT_REAPITEM,You received %s.,您得到了%s。
@@ -104,7 +104,7 @@ TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,在出售
 TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,仅限%d~%d级的玩家可以获得buff。
 TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,"该技能使用中,所以无法使用 %s"
 TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,现在该去帕里东广场进行第一次职业转职了。
-TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,恭喜！您已晋升到 %s 职业等级。
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,恭喜！您已晋升到 %s 。
 TEXTCLIENT_APP_SKILL,Skills,技能
 TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,角色等级：%d
 TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,加强了攻击模式。
@@ -510,7 +510,7 @@ TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,您不是剧团团�
 TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,对方不是剧团团长
 TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,您目前无法与其他玩家进行战斗
 TEXTCLIENT_PDSTART,Duel has started with %s party.,与%s剧团的对战要开始了
-TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",%s的剧团PVP已经结束了。继续参加PVP的话，会依照规则得到惩罚喔
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",%s的剧团PvP已经结束了。继续参加PvP的话，会依照规则得到惩罚
 TEXTCLIENT_PDCANCEL,Duel has been cancelled.,取消了剧团对战
 TEXTCLIENT_PDVICTORY,You won the party duel.,你在剧团对战中获胜。
 TEXTCLIENT_PDLOSE,You lost the party duel.,你在剧团对战中战败。
@@ -611,7 +611,7 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),目前正在接受禁言处罚 (剩余时间: %d分%d秒)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,"60秒内只可以""呼喊""五次。"
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,"2分钟内只能使用一次全局""呼喊""哦。"
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,没有公会或不是公会会长喔
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,没有公会或不是公会会长
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,公会战已结束。
 TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,公会等级%d以上，才可以申请对战
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d Penya to apply to the siege.,基本金币%d以上，才可以申请对战
@@ -630,7 +630,7 @@ TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to l
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,祝您有个快乐的时光
 TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,"你有资格进入公会战！现在请在帕里完成""公会战组织""。"
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",您取得公会战的资格失败，请下周再次挑战。公会战完成后，在帕里镇收到一笔入场费。
-TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,稍后会进行公会战，%d秒后即将移动至帕里喔
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,稍后会进行公会战，%d秒后即将移动至帕里
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,从现在开始，在帕里镇的法兰奇可以让您进入公会战场。
 TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"""现在开始可以进行 """"组织参加公会战的对战者"""""""
 TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,公会战的组织队伍与准备的时间
@@ -683,7 +683,7 @@ TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,活动�
 TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,"活动期间你无法""呼喊""。"
 TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,公会战期间无法使用。
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,在辜会对战落选后的退回金额
-TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",大家好~我是公会对战的主办人多拿里斯。\n因你的公会未进入前8名，所以扣除申请对战的20%手续费，请取回其他剩下的金额。\n希望下次可以参加公会对战喔~\n感谢您的支持
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",大家好~我是公会对战的主办人多拿里斯。\n因你的公会未进入前8名，所以扣除申请对战的2%手续费，请取回其他剩下的金额。\n希望下次可以参加公会对战~\n感谢您的支持。
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",已经领取MVP奖金，或您不是公会战的MVP
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,由于收到公会攻城战奖金时，金币数量超过了背包金币的上限，请在网站上向GM领取奖金。对给您带来的不便深感抱歉
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,作为 MVP，您已获得 %d 金币的奖励 。恭喜！
@@ -921,17 +921,17 @@ TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a momen
 TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,该副本不允许超过%d以上团队成员进入。
 TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,现在无法进入。
 TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,剩余%d分钟击杀%d只怪物
-TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s for %d seconds
-TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s for %d minute(s)
-TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s for %d minute(s) %d seconds
+TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s 持续 %d 秒
+TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s 持续 %d 分钟
+TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s 持续 %d 分 %d 秒
 TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",时间到，你失败了...
-TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,Defense failed — the house has been destroyed.
-TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,Defense successful — pick up your reward at the house!
-TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,Defeat the zombies and rescue the village!
-TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,Defeat enough zombies and a special statue that grants a skill will appear.
-TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.
-TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,House HP at %d%% — earned %d additional reward(s)!
-TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,The next wave starts in %d seconds!
+TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,防守失败 — 基地已被摧毁。
+TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,防守成功 — 拾取你的奖励!
+TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,击败丧尸，拯救村庄！
+TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,击败一定数量的丧尸后会出现可领悟技能的特殊雕像。
+TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,使用雕像的技能战斗 —— 若雕像被摧毁，将会失去相应技能。
+TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,基地HP为%d%% — 额外获得 %d 份奖励!
+TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,%d 秒后开始下一波！
 TEXTCLIENT_LACKITEM,You do not have the required items.,你没有所需物品。
 TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,做好准备！
 TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,你的副本正在另一频道进行。
@@ -939,7 +939,7 @@ TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,�
 TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,想要进入该副本必须在剧团中。
 TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,想要进入该副本必须在公会中。
 TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,大师任务过程中无法参加80级和60级公会战！
-TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,你解锁了技能 [%s] 的等级%d！
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,你解锁了技能 [%s] lv.%d！
 TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,恭喜您在圣诞小偷猎杀排名中排名第 %d名！
 TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,恭喜您在圣诞小偷猎杀排名中获得 %d分！
 TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,您获得了 %d 点圣诞老贼猎杀分数 (总计 %d)！
@@ -1442,14 +1442,14 @@ TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,你没有足够的材料。
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,无法检查你的材料。
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,你已经在生产该物品。
-TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,This production was started before the crafting update and cannot be stopped. It will complete normally.
+TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,此生产进程始于合成更新之前，无法停止。它将正常完成。
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,生产时间已减少 %d 分钟。
 TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,奇迹商店库存刷新成功。
 TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","空间不足,需要 %d 个空位。"
 TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,你只能在靠近水域的地方钓鱼。
 TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,你需要装备一根钓竿。
 TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,你的钓竿需要修理。
-TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,诱饵不足
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,鱼饵不足
 TEXTCLIENT_FISHING_FAIL,You are unable to fish.,你无法钓鱼。
 TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,你没有 %s 技能。必须完成[生活大师] 莉薇的任务。
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,你的精通点数不足。

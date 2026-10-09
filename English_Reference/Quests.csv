@@ -1811,10 +1811,10 @@ PROPQUEST_INC_110293,Cooking Class
 PROPQUEST_INC_110294,Food is the basic of survival. Why don't you cook on your own?
 PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.
 PROPQUEST_INC_110296,Carpentry Class
-PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpenting?
-PROPQUEST_INC_110298,"Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager."
+PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpentry?
+PROPQUEST_INC_110298,"Okay, try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager."
 PROPQUEST_INC_110299,Smithing Class
-PROPQUEST_INC_110300,You can make furniture out of wood. Would you like to learn carpenting?
+PROPQUEST_INC_110300,You can create various accessories. Would you like to learn smithing?
 PROPQUEST_INC_110301,"Okay, try anything at the nearest crafting tool. The tools are near the jewelry."
 PROPQUEST_INC_132091,Destroy the pumpkins 1
 PROPQUEST_INC_132092,Complete the mission.
@@ -1833,7 +1833,7 @@ PROPQUEST_INC_110304,"Go out into the field and try to dig some. It will be a gr
 PROPQUEST_INC_110305,"Go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot."
 PROPQUEST_INC_110306,Try anything on the caldron nearby. Caldron is near the magic shop.
 PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.
-PROPQUEST_INC_110308,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.
+PROPQUEST_INC_110308,Try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager.
 PROPQUEST_INC_110309,Try anything at the nearest crafting tool. The tools are near the jewelry.
 PROPQUEST_INC_110310,Hero Grade (2)
 PROPQUEST_INC_110311,I need you to reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!
@@ -1937,7 +1937,7 @@ PROPQUEST_INC_132193,"Excellent! The analysis should reveal invaluable informati
 PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Estly’s analysis could be the key to understanding Herneos and possibly even stopping Shade. But if you won’t go, we’ll have to hope someone else steps up to the task."
 PROPQUEST_INC_132195,"You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible."
 PROPQUEST_INC_132196,"The analysis is complete, but... (annoyed look)"
-PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!"
+PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to him as soon as you can!"
 PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    
 PROPQUEST_INC_132199,That's awesome! Hurry and go see the mayor!
 PROPQUEST_INC_132200,"What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!"
@@ -2763,19 +2763,19 @@ PROPQUEST_INC_155001,Chapter Ex) Dungeon
 PROPQUEST_INC_155002,Something Is Very Wrong with the Plants
 PROPQUEST_INC_155003,"Something's wrong in the fields. Farmers are panicking, claiming crops are walking around and attacking them."
 PROPQUEST_INC_155004,"Rumors are spreading faster than weeds, and I don't like rumors."
-PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. He hasn't returned from the fields. He must know something."
+PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. She hasn't returned from the fields. She must know something."
 PROPQUEST_INC_155006,"Good. Keep your eyes open and your weapon ready.\nIf this is just rotten soil, fine. If it's something worse, I want to know immediately."
 PROPQUEST_INC_155007,"Hmph. I won't force you.\nBut if this turns into a real problem, the village could be in danger."
 PROPQUEST_INC_155008,"O-oh! You're from the guard, r-right?\nI-I swear, it's not just bad farming! The mushrooms just... changed.\nS-something's not right, I'm telling you..."
 PROPQUEST_INC_155009,You can reach the farm through that portal over there.\nFind out what's happening. Worry won't fix this answers will.
-PROPQUEST_INC_155010,Go find Sprout. He hasn't returned from the fields he must know something.
+PROPQUEST_INC_155010,Go find Sprout. She hasn't returned from the fields. She must know something.
 PROPQUEST_INC_155011,Sprout Has a Bad Feeling About This
 PROPQUEST_INC_155012,P-please help me! I-I can't go back to the village like this!\nWh-what if those things show up again? I-I won't make it on my own...
 PROPQUEST_INC_155013,"R-really? You'll walk with me?\nTh-thank you... j-just stay close, okay? The portal's right over there..."
 PROPQUEST_INC_155014,O-oh... I s-see...\nI-I guess I'll j-just... hide here until something eats me...
 PROPQUEST_INC_155015,"P-please don't leave me behind...\nI-I can see the portal, b-but my legs won't move..."
 PROPQUEST_INC_155016,"You made it back safely... good.\nSprout, take a breath. Now tell me everything, slowly."
-PROPQUEST_INC_155017,Rescue Sprout and escort him back to the portal.
+PROPQUEST_INC_155017,Rescue Sprout and escort her back to the portal.
 PROPQUEST_INC_155018,"Noises, Nightmares, and a Bad Hunch"
 PROPQUEST_INC_155019,"I've heard enough. Strange noises at night, farmers too afraid to sleep and now they're seeing crops that move and attack."
 PROPQUEST_INC_155020,This isn't a coincidence. Something is stirring out there.
@@ -2854,7 +2854,7 @@ PROPQUEST_INC_155093,"O-oh… it’s you again. I-I know I should be used to thi
 PROPQUEST_INC_155094,"Y-you’ll walk with me, r-right? Th-thank you… j-just don’t leave me behind, okay?"
 PROPQUEST_INC_155095,O-oh… I s-see… I-I guess I’ll wait here a bit longer… maybe it’ll be safer later…
 PROPQUEST_INC_155096,Aah! D-don't leave me here! I-I knew this was a mistake... I-I'm going back to hide in the village b-before something eats me!
-PROPQUEST_INC_155097,"Sprout made it back safely. Good. He’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it."
+PROPQUEST_INC_155097,"Sprout made it back safely. Good. She’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it."
 PROPQUEST_INC_155098,Escort Sprout safely to Baron.
 PROPQUEST_INC_155099,Walking with a Short Fuse
 PROPQUEST_INC_155100,"Great. Just the person I was hoping to see. I need to get back, and I’m not in the mood to deal with trouble alone."
