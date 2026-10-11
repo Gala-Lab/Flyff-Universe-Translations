@@ -6632,8 +6632,8 @@ PROPITEM_TXT_100206,Jack The Hammer Vendor Shop,ジャックザハンマーの�
 PROPITEM_TXT_100207,This burly Jack The Hammer manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed.,このジャックザハンマーは、あなたの代わりに個人商店を開いてくれます。使用後はダブルクリックでショップを閉じることができ、アイテムが戻ってきます。
 PROPITEM_TXT_100208,Cardpuppet Vendor Shop,カードパペットの売り子
 PROPITEM_TXT_100209,This creepy Cardpuppet manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed.,このカードパペットは、あなたの代わりに個人商店を開いてくれます。使用後はダブルクリックでショップを閉じることができ、アイテムが戻ってきます。
-PROPITEM_TXT_100210,Symbol of Shade,シェードの象徴
-PROPITEM_TXT_100211,The proof that you defeated one of Shade's devotees. You should keep this Symbol!,シェイドの信奉者を倒した証です。持っておくとお守りになります。
+PROPITEM_TXT_100210,Symbol of Shade,シェードの紋章
+PROPITEM_TXT_100211,The proof that you defeated one of Shade's devotees. You should keep this Symbol!,シェードの信奉者を倒した証。この紋章は大切に持っておこう！(クエストアイテム)
 PROPITEM_TXT_100212,Acceleration Fuel (1 Day),ターボ・エランサー (1日)
 PROPITEM_TXT_100213,Provides unlimited acceleration fuel for 1 day.,1日無制限のターボ・エランサー
 PROPITEM_TXT_100214,Rainbow Cotton Candy,レインボーな綿飴
@@ -9235,8 +9235,8 @@ PROPITEM_TXT_400360,Weapon Piercing Card Box (C),武器ソケットカードボ�
 PROPITEM_TXT_400361,Select which piercing card (C) you want!,欲しいソケットカードを選択してください!
 PROPITEM_TXT_400362,Cardpuppet Gear,カードパペットの歯車
 PROPITEM_TXT_400363,Quest Item: Gears from the body of a Cardpuppet.,カードパペットの体からギア。(クエストアイテム)
-PROPITEM_TXT_400364,Corrupted Symbol of Shade,破損したシェードのシンボル
-PROPITEM_TXT_400365,Quest Item: A Symbol of Shade that can be used to create strong magical seals.,強力な魔法の封印を作成するために使用できるシェードのシンボル。(クエストアイテム)
+PROPITEM_TXT_400364,Corrupted Symbol of Shade,堕ちたシェードの紋章
+PROPITEM_TXT_400365,Quest Item: A Symbol of Shade that can be used to create strong magical seals.,強力な魔法の封印を作ることができるシェードの紋章。(クエストアイテム)
 PROPITEM_TXT_400366,Cave Gorilla Knuckle,洞窟ゴリラナックル
 PROPITEM_TXT_400367,Merman's Wand,半魚人の杖
 PROPITEM_TXT_400368,Sentient Tree Sword,センティエントツリーソード
@@ -9250,16 +9250,16 @@ PROPITEM_TXT_400375,Skeleton General Sword,スケルトン・ジェネラル・�
 PROPITEM_TXT_400376,Skeleton General Big Sword,スケルトン・ジェネラル・ビッグソード
 PROPITEM_TXT_400377,Skeleton General Head,スケルトン・ジェネラル・ヘッド
 PROPITEM_TXT_400378,Old Rut Pipe,オールドラットパイプ
-PROPITEM_TXT_400379,Cache of Bubble,バブルキャッシュ
-PROPITEM_TXT_400380,Quest Item: An ancient cache in the shape of a bubble. It is said to contain great power.,泡の形をした古代のキャッシュ。それは大きな力を含んでいると言われています。(クエストアイテム)
+PROPITEM_TXT_400379,Cache of Bubble,バブルの秘宝
+PROPITEM_TXT_400380,Quest Item: An ancient cache in the shape of a bubble. It is said to contain great power.,泡の形をした古代の秘宝。強大な力が秘められていると言われている。(クエストアイテム)
 PROPITEM_TXT_400381,Elemental Def-Upcut Stone Box,エレメンタルデフアップカットストーンボックス
 PROPITEM_TXT_400382,Select which elemental def-upcut stone you want!,必要なエレメンタルデフアップカットストーンを選択してください!
 PROPITEM_TXT_400383,Syliaca DNA,シーラカDNA
-PROPITEM_TXT_400384,Quest Item: Syliaca DNA used to better understand the disaster in the Cave of Envy.,羨望の洞窟での災害をよりよく理解するために使用されるシーラカDNA。(クエストアイテム)
+PROPITEM_TXT_400384,Quest Item: Syliaca DNA used to better understand the disaster in the Cave of Envy.,エイエンブルケーブで起きた災害を調査するために採取されたシーラカのDNA。(クエストアイテム)
 PROPITEM_TXT_400385,Elemental Upcut Stone Box,エレメンタルアップカットストーンボックス
 PROPITEM_TXT_400386,Select which elemental upcut stone you want!,あなたが望むエレメンタルアップカットストーンを選択してください!
-PROPITEM_TXT_400387,Echo of Herness,エコー・オブ・ハーネス
-PROPITEM_TXT_400388,Quest Item: An echo of an ancient god. You can still feel power emanating from this relic.,古代の神のエコー。あなたはまだこの遺物から発せられる力を感じることができます。(クエストアイテム)
+PROPITEM_TXT_400387,Echo of Herness,ハーネスの残響
+PROPITEM_TXT_400388,Quest Item: An echo of an ancient god. You can still feel power emanating from this relic.,古代の神の残響。この遺物からは、今なお力が放たれているのを感じる。(クエストアイテム)
 PROPITEM_TXT_400389,Bearnerky Fang,ハニーシーカーの牙
 PROPITEM_TXT_400390,Quest Item: The fang of a mighty Bearnerky. Only seasoned heroes could pull one of these from a Bearnerky's mouth.,強大なハニーシーカーの牙。これを手に入れられるのは、熟練した冒険者だけだ。(クエストアイテム)
 PROPITEM_TXT_400391,Muffrin Bucket,マフリンのバケツ
@@ -15988,10 +15988,10 @@ PROPITEM_TXT_725115,Magic Clock of Rhisis Catacombs (5 Min),リシスの地下�
 PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔時計と共有されます。
 PROPITEM_TXT_725117,Magic Clock of Rhisis Catacombs (10 Min),リシスの地下墓地の魔時計 (10分)
 PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔時計と共有されます。
-PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),嫉妬の深淵の魔時計 (5分)
-PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
-PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),嫉妬の深淵の魔時計 (10分)
-PROPITEM_TXT_725122,Re-entry cooldown for Envy Depths has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
+PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),エンヴィーデプスの魔時計 (5分)
+PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「エンヴィーデプス」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のエンヴィーデプスの魔時計と共有されます。
+PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),エンヴィーデプスの魔時計 (10分)
+PROPITEM_TXT_725122,Re-entry cooldown for Envy Depths has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「エンヴィーデプス」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のエンヴィーデプスの魔時計と共有されます。
 PROPITEM_TXT_725123,Magic Clock of Guardiane Sanctuary (5 Min),ガルディア聖域の魔時計 (5分)
 PROPITEM_TXT_725124,Re-entry cooldown for Guardiane Sanctuary has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガルディア聖域の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のガルディア聖域の魔時計と共有されます。
 PROPITEM_TXT_725125,Magic Clock of Guardiane Sanctuary (10 Min),ガルディア聖域の魔時計 (10分)
