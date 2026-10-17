@@ -1156,7 +1156,7 @@ UI_ACHIEVEMENTS_PVPTITLE,PvP Title,PVP称号
 UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(現在 ""%s"")"
 UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Display your current PvP title.,現在のPVP称号を表示
 UI_ACHIEVEMENTS_TITLES_SELECT,Apply,選択
-UI_ACHIEVEMENTS_TITLES_FROM,Unlocked By,から
+UI_ACHIEVEMENTS_TITLES_FROM,Unlocked By,獲得条件
 UI_ACHIEVEMENTS_CLAIMBTN,Claim,もらう
 UI_ACHIEVEMENTS_CLAIMTIP,Claim your rewards,報酬を受け取ろう！
 UI_ACHIEVEMENTS_CLAIMTIP_RAND,Try your luck and see what you get today!,回せ回せ～！今日はラッキーな日かも？

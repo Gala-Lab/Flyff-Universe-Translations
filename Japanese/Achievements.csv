@@ -900,7 +900,7 @@ ACHIEVEMENT_STAT_DEXTERITY_NAME,Dexterity,敏捷
 ACHIEVEMENT_STAT_DEXTERITY_DESC,Get 253 BASE DEX.,基準ステータスの敏捷が253に到達
 ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,疾風
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,知能
-ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,ベースINT253取得
+ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,基準ステータスの知能が253に到達
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,全知
 ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,今日のプレイ時間
 ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.",毎日10、20、30、40分以上プレイして、報酬をゲットしよう！カウントは深夜0時にリセットされます。
@@ -1381,7 +1381,7 @@ ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,最初の挑戦者
 ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,ダンジョンを最初にクリアしたプレイヤーに授与されます。
 ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,最速の挑戦者
 ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,ダンジョンを最短時間でクリアしたプレイヤーに授与されます。
-ACHIEVEMENT_NEON_PANG_BEST_FRIEND_NAME,Neon Pang's Best Friend,Neon Pang's Best Friend
-ACHIEVEMENT_NEON_PANG_BEST_FRIEND_DESC,"Awarded when reaching 5,000 YouTube subscribers.","Awarded when reaching 5,000 YouTube subscribers."
-ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_NAME,Master of Eternal Nightmare,Master of Eternal Nightmare
-ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_DESC,"Awarded when reaching 10,000 YouTube subscribers.","Awarded when reaching 10,000 YouTube subscribers."
+ACHIEVEMENT_NEON_PANG_BEST_FRIEND_NAME,Neon Pang's Best Friend,ネオンパンの親友
+ACHIEVEMENT_NEON_PANG_BEST_FRIEND_DESC,"Awarded when reaching 5,000 YouTube subscribers.",YouTubeチャンネル登録者数5,000人達成
+ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_NAME,Master of Eternal Nightmare,エターナル・ナイトメアの覇者
+ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_DESC,"Awarded when reaching 10,000 YouTube subscribers.",YouTubeチャンネル登録者数10,000人達成
