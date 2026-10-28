@@ -729,7 +729,7 @@ PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m fro
 PROPSKILL_TXT_140099,Feeble Arms
 PROPSKILL_TXT_140100,Monsters take less damage from you but have higher drop rates.
 PROPSKILL_TXT_150142,Five Strikes
-PROPSKILL_TXT_150143,"Basic attacks have a chance to apply a stack to the target. At 5 stacks, the stacks are consumed to deal additional damage."
+PROPSKILL_TXT_150143,"Basic attacks have a chance to grant a stack. At 5 stacks, your next basic attack deals additional damage and resets the stacks."
 PROPSKILL_TXT_150144,Basic Attack Stacks
 PROPSKILL_TXT_150145,Execution of Justice
 PROPSKILL_TXT_150146,"Leap forward, pulling nearby enemies toward you and reducing their movement speed."
@@ -882,7 +882,7 @@ PROPSKILL_TXT_150330,"At 20 Nen stacks, critical hits have a chance to deal maxi
 PROPSKILL_TXT_150331,Tenacity
 PROPSKILL_TXT_150332,Reduces the duration of debuffs inflicted on you.
 PROPSKILL_TXT_150333,Marked Attack
-PROPSKILL_TXT_150334,"Basic attacks leave a stacking mark on the target. At 5 stacks, the mark deals additional damage and grants 1 Nen stack."
+PROPSKILL_TXT_150334,"Each basic attack grants a mark. At 4 marks, your next basic attack deals additional damage, grants 1 Nen stack, and resets the marks."
 PROPSKILL_TXT_150335,Nen Acquisition
 PROPSKILL_TXT_150336,Increases the chance to gain an additional Nen stack when using Concentration [Nen].
 PROPSKILL_TXT_150337,Toxic Assault
@@ -955,7 +955,7 @@ PROPSKILL_TXT_150409,The chance to stun is increased.
 PROPSKILL_TXT_150410,Also reduces the target's Defense.
 PROPSKILL_TXT_150412,The leap distance is increased.
 PROPSKILL_TXT_150413,You can push enemies further away from the landing point.
-PROPSKILL_TXT_150414,The pull distance is increased.
+PROPSKILL_TXT_150414,The push distance is increased.
 PROPSKILL_TXT_150415,"Allows you to move while active, but at greatly reduced movement speed."
 PROPSKILL_TXT_150416,The skill's HP consumption is reduced.
 PROPSKILL_TXT_150417,"Instead of reflecting damage, Incoming Damage is greatly reduced."
@@ -1060,7 +1060,7 @@ PROPSKILL_TXT_150523,Stigma II
 PROPSKILL_TXT_150524,Increased Targets
 PROPSKILL_TXT_150525,"Unleash a chain of blades at your target, whirling around them to strike nearby enemies before leaping to other targets. Has a chance to apply a Stigma stack. If the target has 5 Stigma stacks, the strikes also gain Lifesteal."
 PROPSKILL_TXT_150526,Stigma III
-PROPSKILL_TXT_150527,"Slam both weapons down on your target, dealing damage to them and nearby enemies and applying a Stigma stack. If the target has 5 Stigma stacks, they are also immobilized and Silenced."
+PROPSKILL_TXT_150527,"Slam both weapons down on your target, dealing damage to them and nearby enemies and applying a Stigma stack. If the target has 5 Stigma stacks, they are also Silenced."
 PROPSKILL_TXT_150528,Petrify
 PROPSKILL_TXT_150529,"You are Immobilized. Physical damage taken is reduced, while magical damage taken is increased."
 PROPSKILL_TXT_150530,Earthen Fortitude
@@ -1110,7 +1110,7 @@ PROPSKILL_TXT_150573,Increases damage dealt to enemies for each Disable-type deb
 PROPSKILL_TXT_150574,Increases damage dealt to enemies for each Weaken-type debuff affecting them.
 PROPSKILL_TXT_150575,Reduces damage taken from enemies for each debuff affecting them.
 PROPSKILL_TXT_150576,"When fully charged, target will be slept."
-PROPSKILL_TXT_150577,"Unleash a blast of hellfire in a line in front of you, dealing damage over time and inflicting Burn on enemies along its path."
+PROPSKILL_TXT_150577,"Unleash a blast of hellfire in a line in front of you, dealing damage over time to enemies along its path."
 PROPSKILL_TXT_150578,The hymn's effects are increased.
 PROPSKILL_TXT_150579,The skill's healing is increased.
 PROPSKILL_TXT_150580,The skill also heals MP and FP on allies.
