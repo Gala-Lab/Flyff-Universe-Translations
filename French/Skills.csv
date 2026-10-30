@@ -334,7 +334,7 @@ PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP.",La grâ
 PROPSKILL_TXT_100010,Tiger's Grace,Grâce du Tigre
 PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage.",La grâce du Tigre éveille les dégâts de vos coups critiques.
 PROPSKILL_TXT_100012,Fox's Grace,Grâce du Renard
-PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack Power and Casting Speed.",La grâce du Renard éveille vos dégâts de compétences et votre vitesse d'incantation.
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack Power and Casting Speed.","Renforcé par votre renard, vous bénéficiez d'une puissance d'attaque et d'une vitesse d'incantation accrues"
 PROPSKILL_TXT_100014,Rabbit's Grace,Grâce du Lapin
 PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed.",La grâce du Lapin éveille votre vitesse.
 PROPSKILL_TXT_100016,Griffin's Grace,Grâce du Gryphon
@@ -663,7 +663,7 @@ PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% 
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,Bénédiction stats faibles de l'Asile
 PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 5 as if guided by unseen forces.,L'Asile accorde une harmonie surnaturelle. Tes statistiques de base augmentent de 10 comme guidées par des forces invisibles.
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,Bénédiction stats élevées de l'Asile
-PROPSKILL_TXT_140027,"The Asylum bestows a +10 boost to all base stats, filling you with eerie strength.","L'Asile confère un bonus global de 10 %, te remplissant d'une force étrange."
+PROPSKILL_TXT_140027,"The Asylum bestows a +10 boost to all base stats, filling you with eerie strength.","L'Asile confère un bonus de +10 à toutes les statistiques de base, vous imprégnant d'une force inquiétante."
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,Bénédiction réduction dégâts Boss entrant de l'Asile
 PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,L'Asile te voile dans l'ombre. Les dégâts reçus des Boss sont réduits de 5 %.
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,Bénédiction réduction dégâts Boss entrant de l'Asile
@@ -793,7 +793,7 @@ PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,La réduction d
 PROPSKILL_TXT_150213,Master of Sword,Maître de l’épée
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Réduit le temps de recharge des compétences Slayer et augmente la chance de critique. Les effets augmentent avec le nombre d’épées équipées.
 PROPSKILL_TXT_150215,Master of Axe,Maître de la hache
-PROPSKILL_TXT_150216,"Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped.",Augmente la puissance d’attaque. Les effets augmentent avec le nombre de haches équipées.
+PROPSKILL_TXT_150216,"Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped.","Augmente les dégâts de la compétence, les chances de blocage et le taux de réussite des coups. Évolue en fonction du nombre de haches équipées."
 PROPSKILL_TXT_150217,Survival Stance,Posture de survie
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Renforce ta défense peu après avoir été affecté par un débuff de type désactivation ou immobilisation.
 PROPSKILL_TXT_150219,Blessing of the Wise,Bénédiction des sages
@@ -814,7 +814,7 @@ PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself period
 PROPSKILL_TXT_150244,Kyrie Eleison,Prière de miséricorde
 PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui augmente la régénération vitale de toi et de tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150249,Flow of Salvation,Flot de Rédemption
-PROPSKILL_TXT_150250,"Channel the flow of salvation into your target, healing allies or dealing damage to enemies. The effect then chains to nearby targets.","Insuffle le Flot de Rédemption dans ta cible, la guérissant et se propageant aux cibles proches si ce sont des alliés, ou infligeant des dégâts sinon."
+PROPSKILL_TXT_150250,"Channel the flow of salvation into your target, healing allies or dealing damage to enemies. The effect then chains to nearby targets.","Canalisez le flux du salut vers votre cible, pour soigner vos alliés ou infliger des dégâts à vos ennemis. L’effet se propage ensuite aux cibles à proximité."
 PROPSKILL_TXT_150251,Increased Healing,Soins augmentés
 PROPSKILL_TXT_150253,Increased Chain,Chaîne augmentée
 PROPSKILL_TXT_150254,Hymn - Damage Reduction,Hymne - Réduction des dégâts
@@ -830,7 +830,7 @@ PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overf
 PROPSKILL_TXT_150264,Form Enhancement,Amélioration de forme
 PROPSKILL_TXT_150265,Mind Enhancement,Amélioration mentale
 PROPSKILL_TXT_150266,Aura Enhancement,Amélioration d’aura
-PROPSKILL_TXT_150267,Skill Damage Up,Rétention de PM
+PROPSKILL_TXT_150267,Skill Damage Up,Augmentation des dégâts de compétence
 PROPSKILL_TXT_150268,Nen Afterimage,Après-image de Nen
 PROPSKILL_TXT_150270,Power Palm,Paume de puissance
 PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.","Attaque ta cible, gagnant des stacks de Nen. \n\n[Amélioration Nen] : Cette compétence a une chance de renverser l’ennemi. Si utilisée pendant Force Grip, tu frappes plusieurs fois."
@@ -865,7 +865,7 @@ PROPSKILL_TXT_150305,Bubble's Blessing,Bénédiction de Bubble
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,Projette une aura qui augmente l’attaque magique et les dégâts critiques des alliés. Peut être relancé pour annuler.
 PROPSKILL_TXT_150309,Range Extension,Extension de portée
 PROPSKILL_TXT_150310,Touch of Rhisis,Touche de Rhisis
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and incoming healing. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Projette une aura qui augmente la défense et le taux de blocage des alliés proches. Ne peut pas être utilisé avec d’autres auras en même temps. Peut être relancé pour annuler.
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and incoming healing. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Projette une aura qui augmente la défense et les soins reçus des alliés proches. Ne peut pas être utilisé avec d’autres auras en même temps. Peut être relancé pour annuler.
 PROPSKILL_TXT_150315,Ire of Iblis,Colère d’Iblis
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Projette une aura qui augmente la résistance critique des alliés. Peut être relancé pour annuler.
 PROPSKILL_TXT_150320,Meditate,Méditer
@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,L’intervalle entre les frappes est réduit.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Perturbe le sol, invoquant un pilier de pierre qui blesse les ennemis et réduit leur vitesse. À la fin de sa durée, il explose, infligeant des dégâts supplémentaires aux ennemis proches."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Crée un marécage sur la zone ciblée, réduisant la vitesse et infligeant des dégâts. Les ennemis dans le marécage ne peuvent pas utiliser de compétences de déplacement."
-PROPSKILL_TXT_150553,Spawns a gust of wind that pushes back nearby enemies and increases Magic Resistance and Ranged Block Chance.,"Invoque une rafale de vent qui repousse les ennemis proches, renvoie les dégâts subis et offre une chance de blocage à distance."
+PROPSKILL_TXT_150553,Spawns a gust of wind that pushes back nearby enemies and increases Magic Resistance and Ranged Block Chance.,Invoque une rafale de vent qui repousse les ennemis proches et augmente la résistance magique ainsi que les chances de bloquer les attaques à distance.
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Les racines traverseront plus d’ennemis.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Les racines explosent en touchant un ennemi, lui infligeant des dégâts. Les explosions peuvent renverser les ennemis."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Projette des racines supplémentaires en cône devant vous.
