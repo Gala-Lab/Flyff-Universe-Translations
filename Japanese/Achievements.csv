@@ -978,22 +978,22 @@ ACHIEVEMENT_MASTER110_DESC,Complete the final Master Quest.,最後のマスタ�
 ACHIEVEMENT_MASTER120_NAME,Hero,ヒーロー
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,ヒーロー 120 - 125
 ACHIEVEMENT_MASTER120_DESC,Complete the first Hero Quest.,英雄クエストをクリアする
-ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC参加者
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,フリフワールドチャンピオンシップでレベル16に到達する。
-ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWCコンテンダー
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,フリフワールドチャンピオンシップでレベル120に到達する。
-ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWCアリーナ 第2会場
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,フリフワールドチャンピオンシップPvPコンペティションで2位を獲得しましょう。
-ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWCアリーナ 3位
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,フリフワールドチャンピオンシップPvPコンペティションで3位になる。
-ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWCアリーナチャンピオン
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,フリフワールドチャンピオンシップPvPコンペティションで勝利する。
-ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWCコロッセオチャンピオン
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,フリフワールドチャンピオンシップPvEコンペティションで勝利する。
-ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWCコロッセオ第2回
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,フリフワールドチャンピオンシップPvEコンペティションで2位になる。
-ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWCコロッセオ3位
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,フリフワールドチャンピオンシップPvEコンペティションで3位になる。
+ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC 2023 参加者
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,FWC 2023 ワールドチャンピオンシップでレベル16に到達する
+ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC 2023 挑戦者
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,FWC 2023 ワールドチャンピオンシップでレベル120に到達する
+ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC 2023 アリーナ準優勝
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,FWC 2023 ワールドチャンピオンシップPvP部門で2位になる
+ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC 2023 アリーナ3位
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,FWC 2023 ワールドチャンピオンシップPvP部門で3位になる
+ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC 2023 アリーナチャンピオン
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,FWC 2023 ワールドチャンピオンシップPvP部門で優勝する
+ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC 2023 コロッセオチャンピオン
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,FWC 2023 ワールドチャンピオンシップPvE部門で優勝する
+ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC 2023 コロッセオ準優勝
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,FWC 2023 ワールドチャンピオンシップPvE部門で2位になる
+ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC 2023 コロッセオ3位
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,FWC 2023 ワールドチャンピオンシップPvE部門で3位になる
 ACHIEVEMENT_ROULETTE_1,First Daily Login,初回接続
 ACHIEVEMENT_ROULETTE_2,Play 2 hours,2時間プレイ
 ACHIEVEMENT_ROULETTE_3,Play 4 hours,4時間プレイ
@@ -1018,15 +1018,15 @@ ACHIEVEMENT_MASTER110_TITLE,Master,マスター
 ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,fCoinを使用して、追加のログイン報酬を獲得します。
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,コネクションパック
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",一定回数ログインすると、プレミアム報酬を獲得できます。
-ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWCビギナー
-ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWCコンバット
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,Flyff World チャンピオンシップでレベル60に到達する。
-ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWCヴァンクイッシャー
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,Flyff World チャンピオンシップでレベル100に到達する。
-ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWCマスター
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Flyff World チャンピオンシップでレベル160に到達する。
-ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWCエンペラー
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Flyff World チャンピオンシップで装備交換を全て完了する。
+ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,FWC 2024 初心者
+ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,FWC 2024 戦闘員
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,FWC 2024 ワールドチャンピオンシップでレベル60に到達する
+ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,FWC 2024 討伐者
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,FWC 2024 ワールドチャンピオンシップでレベル100に到達する
+ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,FWC 2024 マスター
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,FWC 2024 ワールドチャンピオンシップでレベル160に到達する
+ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,FWC 2024 エンペラー
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,FWC 2024 ワールドチャンピオンシップで装備交換を全て完了する
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,カップル 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,ソロ卒業
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,カップル 10
@@ -1116,14 +1116,14 @@ ACHIEVEMENT_SMITHING_TITLE02,Smith,鍛冶職人
 ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,エキスパート鍛冶職人
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,マスター鍛冶職人
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,鍛冶のマスタリーを上げる。
-ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWCアリーナチャンピオン
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで勝利する。
-ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWCアリーナ 2位
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで2位を獲得する。
-ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWCアリーナ 3位
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで3位になる。
-ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWCアリーナファイナリスト
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,Flyff World チャンピオンシップPvPファイナルに参加する。
+ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,FWC 2024 アリーナチャンピオン
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,FWC 2024 ワールドチャンピオンシップPvP部門で優勝する
+ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,FWC 2024 アリーナ準優勝
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,FWC 2024 ワールドチャンピオンシップPvP部門で2位になる
+ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,FWC 2024 アリーナ3位
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,FWC 2024 ワールドチャンピオンシップPvP部門で3位になる
+ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,FWC 2024 アリーナファイナリスト
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,FWC 2024 ワールドチャンピオンシップPvPファイナルに出場する
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,ヒーロー 125 - 140
 ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest.,2番目の英雄クエストを完了する
 ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,ヒーロー 140 - 160
@@ -1231,43 +1231,43 @@ ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,イースターエッグを10個
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,イースターエッグを15個集める
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,イースターエッグを20個集める
 ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,3周年記念デイリーログイン
-ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWCビギナー
-ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWCブロウラー
-ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWCウォリアー
-ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWCセイビア
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,Flyff World チャンピオンシップでレベル140に到達する。
-ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWCオーバーロード
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,Flyff World チャンピオンシップでレベル150に到達する。
-ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWCマスター
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,FWCボーナスプレイタイムクーポンを使用して報酬を獲得しよう。\nこのアイテムは2025 FWCチャンピオンシップパスの無料報酬から入手できます！
-ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWCコロッセオチャンピオン
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Flyff World チャンピオンシップPvEコンペティションで勝利する。
-ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWCコロッセオ 2位
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Flyff World チャンピオンシップPvEコンペティションで2位を獲得する。
-ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWCコロッセオ 3位
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Flyff World チャンピオンシップPvEコンペティションで3位になる。
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWCコロッセオ参加者
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Flyff World チャンピオンシップPvEコンペティションに参加する。
-ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWCアリーナチャンピオン
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで勝利する。
-ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWCアリーナ 2位
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで2位を獲得する。
-ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWCアリーナ 3位
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Flyff World チャンピオンシップPvPコンペティションで3位になる。
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWCアリーナファイナリスト
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Flyff World チャンピオンシップPvPファイナルに参加する。
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWCアリーナ参加者
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Flyff World チャンピオンシップPvP予選に参加する。
-ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWCハイローラー
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,全サーバーで最も多くチャンピオンコインを獲得したプレイヤーに贈られる栄誉あるタイトル。
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWCラッキーストリーク
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,全サーバーで最多に迫るチャンピオンコインを獲得したプレイヤーに贈られる栄誉あるタイトル。
-ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWCホエール
-ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,自サーバー内で最も多くチャンピオンコインを獲得したプレイヤーに贈られる。
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWCジ・アンラッキー
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,多くのFWCコインを費やしながらも、自サーバー内で最もチャンピオンコインの獲得が少なかったプレイヤーに贈られる。
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWCパートナーストリーマー
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,2025 Flyff World チャンピオンシップ期間中、パートナーストリーマーに贈られる。
+ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,FWC 2025 初心者
+ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,FWC 2025 荒くれ者
+ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,FWC 2025 戦士
+ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,FWC 2025 救世主
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,FWC 2025 ワールドチャンピオンシップでレベル140に到達する
+ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,FWC 2025 覇王
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,FWC 2025 ワールドチャンピオンシップでレベル150に到達する
+ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,FWC 2025 マスター
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,FWCボーナスプレイタイムクーポンを使用して報酬を獲得しよう。\nこのアイテムはFWC 2025チャンピオンシップパスの無料報酬から入手できます！
+ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,FWC 2025 コロッセオチャンピオン
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,FWC 2025 ワールドチャンピオンシップPvE部門で優勝する
+ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,FWC 2025 コロッセオ準優勝
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,FWC 2025 ワールドチャンピオンシップPvE部門で2位になる
+ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,FWC 2025 コロッセオ3位
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,FWC 2025 ワールドチャンピオンシップPvE部門で3位になる
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,FWC 2025 コロッセオ参加者
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,FWC 2025 ワールドチャンピオンシップPvE部門に参加する
+ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,FWC 2025 アリーナチャンピオン
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,FWC 2025 ワールドチャンピオンシップPvP部門で優勝する
+ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,FWC 2025 アリーナ準優勝
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,FWC 2025 ワールドチャンピオンシップPvP部門で2位になる
+ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,FWC 2025 アリーナ3位
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,FWC 2025 ワールドチャンピオンシップPvP部門で3位になる
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,FWC 2025 アリーナファイナリスト
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,FWC 2025 ワールドチャンピオンシップPvPファイナルに出場する
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,FWC 2025 アリーナ参加者
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,FWC 2025 ワールドチャンピオンシップPvP予選に参加する
+ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,FWC 2025 ハイローラー
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,全サーバーで最も多くチャンピオンコインを獲得したプレイヤーに贈られる栄誉あるタイトル
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,FWC 2025 ラッキーストリーク
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,全サーバーで最多に迫るチャンピオンコインを獲得したプレイヤーに贈られる栄誉あるタイトル
+ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,FWC 2025 ホエール
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,自サーバー内で最も多くチャンピオンコインを獲得したプレイヤーに贈られる
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,FWC 2025 ジ・アンラッキー
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,多くのFWCコインを費やしながらも、自サーバー内で最もチャンピオンコインの獲得が少なかったプレイヤーに贈られる
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,FWC 2025 パートナーストリーマー
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,FWC 2025 ワールドチャンピオンシップ期間中、パートナーストリーマーに贈られる
 ACHIEVEMENT_UPGRADE_1,Upgrade +1,精錬 +1
 ACHIEVEMENT_UPGRADE_2,Upgrade +2,精錬 +2
 ACHIEVEMENT_UPGRADE_3,Upgrade +3,精錬 +3
@@ -1304,21 +1304,21 @@ ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,スペシャリスト 3
 ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,最初のヴィンディケーター
 ACHIEVEMENT_FIRST_190_DESC,Awarded to the first player to reach level 190.,レベル190に初めて到達したプレイヤーに贈られる。
 ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,午年
-ACHIEVEMENT_FWC_2026_BEGINNER_NAME,2026 FWC Beginner,2026 FWCビギナー
-ACHIEVEMENT_FWC_2026_BEGINNER_DESC,Reach level 16 in the 2026 Flyff World Championship.,Flyff World チャンピオンシップでレベル16に到達する。
-ACHIEVEMENT_FWC_2026_BRAWLER_NAME,2026 FWC Brawler,2026 FWCブロウラー
-ACHIEVEMENT_FWC_2026_BRAWLER_DESC,Reach level 60 in the 2026 Flyff World Championship.,Flyff World チャンピオンシップでレベル60に到達する。
-ACHIEVEMENT_FWC_2026_WARRIOR_NAME,2026 FWC Warrior,2026 FWCウォリアー
-ACHIEVEMENT_FWC_2026_WARRIOR_DESC,Reach level 140 in the 2026 Flyff World Championship.,Flyff World チャンピオンシップでレベル140に到達する。
-ACHIEVEMENT_FWC_2026_SAVIOR_NAME,2026 FWC Savior,2026 FWCセイビア
-ACHIEVEMENT_FWC_2026_SAVIOR_DESC,Reach level 150 in the 2026 Flyff World Championship.,Flyff World チャンピオンシップでレベル150に到達する。
-ACHIEVEMENT_FWC_2026_OVERLORD_NAME,2026 FWC Overlord,2026 FWCオーバーロード
-ACHIEVEMENT_FWC_2026_OVERLORD_DESC,Reach level 165 in the 2026 Flyff World Championship.,Flyff World チャンピオンシップでレベル165に到達する。
-ACHIEVEMENT_FWC_2026_MASTER_NAME,2026 FWC Master,2026 FWCマスター
-ACHIEVEMENT_FWC_2026_MASTER_DESC,Complete all Gear Exchanges in the 2026 Flyff World ,Flyff World チャンピオンシップで装備交換を全て完了する。
+ACHIEVEMENT_FWC_2026_BEGINNER_NAME,2026 FWC Beginner,FWC 2026 初心者
+ACHIEVEMENT_FWC_2026_BEGINNER_DESC,Reach level 16 in the 2026 Flyff World Championship.,FWC 2026 ワールドチャンピオンシップでレベル16に到達する
+ACHIEVEMENT_FWC_2026_BRAWLER_NAME,2026 FWC Brawler,FWC 2026 荒くれ者
+ACHIEVEMENT_FWC_2026_BRAWLER_DESC,Reach level 60 in the 2026 Flyff World Championship.,FWC 2026 ワールドチャンピオンシップでレベル60に到達する
+ACHIEVEMENT_FWC_2026_WARRIOR_NAME,2026 FWC Warrior,FWC 2026 戦士
+ACHIEVEMENT_FWC_2026_WARRIOR_DESC,Reach level 140 in the 2026 Flyff World Championship.,FWC 2026 ワールドチャンピオンシップでレベル140に到達する
+ACHIEVEMENT_FWC_2026_SAVIOR_NAME,2026 FWC Savior,FWC 2026 救世主
+ACHIEVEMENT_FWC_2026_SAVIOR_DESC,Reach level 150 in the 2026 Flyff World Championship.,FWC 2026 ワールドチャンピオンシップでレベル150に到達する
+ACHIEVEMENT_FWC_2026_OVERLORD_NAME,2026 FWC Overlord,FWC 2026 覇王
+ACHIEVEMENT_FWC_2026_OVERLORD_DESC,Reach level 165 in the 2026 Flyff World Championship.,FWC 2026 ワールドチャンピオンシップでレベル165に到達する
+ACHIEVEMENT_FWC_2026_MASTER_NAME,2026 FWC Master,FWC 2026 マスター
+ACHIEVEMENT_FWC_2026_MASTER_DESC,Complete all Gear Exchanges in the 2026 Flyff World ,FWC 2026 ワールドチャンピオンシップで装備交換を全て完了する
 ACHIEVEMENT_4TH_ANNIV_ATTENDANCE,4th Anniversary Daily Login,4周年記念デイリーログイン
-ACHIEVEMENT_FWC_2026_GUILDPRIDE_NAME,2026 FWC Guild Pride,2026 FWCギルドプライド
-ACHIEVEMENT_FWC_2026_GUILDPRIDE_DESC,Special title to commemorate the participation of 2026 FWC Guild Spotlight Video Showcase,2026 FWCギルドスポットライト動画ショーケース参加記念の特別タイトル
+ACHIEVEMENT_FWC_2026_GUILDPRIDE_NAME,2026 FWC Guild Pride,FWC 2026 ギルドプライド
+ACHIEVEMENT_FWC_2026_GUILDPRIDE_DESC,Special title to commemorate the participation of 2026 FWC Guild Spotlight Video Showcase,FWC 2026 ギルドスポットライト動画ショーケース参加記念の特別タイトル
 ACHIEVEMENT_KILL_DREAMFLAME01_NAME,Blossom,フロミー
 ACHIEVEMENT_KILL_DREAMFLAME01_TITLE,Leafbane,葉枯らし
 ACHIEVEMENT_KILL_DREAMFLAME01_LVL1,Blossom Slayer 1,フロミー スレイヤー 1
@@ -1385,19 +1385,19 @@ ACHIEVEMENT_NEON_PANG_BEST_FRIEND_NAME,Neon Pang's Best Friend,ネオンパン�
 ACHIEVEMENT_NEON_PANG_BEST_FRIEND_DESC,"Awarded when reaching 5,000 YouTube subscribers.","YouTubeチャンネル登録者数5,000人達成"
 ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_NAME,Master of Eternal Nightmare,エターナル・ナイトメアの覇者
 ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_DESC,"Awarded when reaching 10,000 YouTube subscribers.","YouTubeチャンネル登録者数10,000人達成"
-ACHIEVEMENT_FWC_2026_PVE_1ST_NAME,2026 FWC PvE Champion,2026 FWC PvE Champion
-ACHIEVEMENT_FWC_2026_PVE_1ST_DESC,Win the 2026 Flyff World Championship PvE Competition.,Win the 2026 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2026_PVE_2ND_NAME,2026 FWC PvE 2nd,2026 FWC PvE 2nd
-ACHIEVEMENT_FWC_2026_PVE_2ND_DESC,Get second place in the 2026 Flyff World Championship PvE Competition.,Get second place in the 2026 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2026_PVE_3RD_NAME,2026 FWC PvE 3rd,2026 FWC PvE 3rd
-ACHIEVEMENT_FWC_2026_PVE_3RD_DESC,Get third place in the 2026 Flyff World Championship PvE Competition.,Get third place in the 2026 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2026_PVE_PARTICIPANT_NAME,2026 FWC PvE Participant,2026 FWC PvE Participant
-ACHIEVEMENT_FWC_2026_PVE_PARTICIPANT_DESC,Participate in the 2026 Flyff World Championship PvE Competition.,Participate in the 2026 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2026_PVP_1ST_NAME,2026 FWC Arena Champion,2026 FWC Arena Champion
-ACHIEVEMENT_FWC_2026_PVP_1ST_DESC,Win the 2026 Flyff World Championship PvP Competition.,Win the 2026 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2026_PVP_2ND_NAME,2026 FWC Arena 2nd,2026 FWC Arena 2nd
-ACHIEVEMENT_FWC_2026_PVP_2ND_DESC,Get second place in the 2026 Flyff World Championship PvP Competition.,Get second place in the 2026 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2026_PVP_3RD_NAME,2026 FWC Arena 3rd,2026 FWC Arena 3rd
-ACHIEVEMENT_FWC_2026_PVP_3RD_DESC,Get third place in the 2026 Flyff World Championship PvP Competition.,Get third place in the 2026 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2026_PVP_FINALIST_NAME,2026 FWC Arena Finalist,2026 FWC Arena Finalist
-ACHIEVEMENT_FWC_2026_PVP_FINALIST_DESC,Participate in the 2026 Flyff World Championship PvP Finals.,Participate in the 2026 Flyff World Championship PvP Finals.
+ACHIEVEMENT_FWC_2026_PVE_1ST_NAME,2026 FWC PvE Champion,FWC 2026 PvEチャンピオン
+ACHIEVEMENT_FWC_2026_PVE_1ST_DESC,Win the 2026 Flyff World Championship PvE Competition.,FWC 2026 ワールドチャンピオンシップPvE部門で優勝する
+ACHIEVEMENT_FWC_2026_PVE_2ND_NAME,2026 FWC PvE 2nd,FWC 2026 PvE準優勝
+ACHIEVEMENT_FWC_2026_PVE_2ND_DESC,Get second place in the 2026 Flyff World Championship PvE Competition.,FWC 2026 ワールドチャンピオンシップPvE部門で2位になる
+ACHIEVEMENT_FWC_2026_PVE_3RD_NAME,2026 FWC PvE 3rd,FWC 2026 PvE 3位
+ACHIEVEMENT_FWC_2026_PVE_3RD_DESC,Get third place in the 2026 Flyff World Championship PvE Competition.,FWC 2026 ワールドチャンピオンシップPvE部門で3位になる
+ACHIEVEMENT_FWC_2026_PVE_PARTICIPANT_NAME,2026 FWC PvE Participant,FWC 2026 PvE参加者
+ACHIEVEMENT_FWC_2026_PVE_PARTICIPANT_DESC,Participate in the 2026 Flyff World Championship PvE Competition.,FWC 2026 ワールドチャンピオンシップPvE部門に参加する
+ACHIEVEMENT_FWC_2026_PVP_1ST_NAME,2026 FWC Arena Champion,FWC 2026 アリーナチャンピオン
+ACHIEVEMENT_FWC_2026_PVP_1ST_DESC,Win the 2026 Flyff World Championship PvP Competition.,FWC 2026 ワールドチャンピオンシップPvP部門で優勝する
+ACHIEVEMENT_FWC_2026_PVP_2ND_NAME,2026 FWC Arena 2nd,FWC 2026 アリーナ準優勝
+ACHIEVEMENT_FWC_2026_PVP_2ND_DESC,Get second place in the 2026 Flyff World Championship PvP Competition.,FWC 2026 ワールドチャンピオンシップPvP部門で2位になる
+ACHIEVEMENT_FWC_2026_PVP_3RD_NAME,2026 FWC Arena 3rd,FWC 2026 アリーナ3位
+ACHIEVEMENT_FWC_2026_PVP_3RD_DESC,Get third place in the 2026 Flyff World Championship PvP Competition.,FWC 2026 ワールドチャンピオンシップPvP部門で3位になる
+ACHIEVEMENT_FWC_2026_PVP_FINALIST_NAME,2026 FWC Arena Finalist,FWC 2026 アリーナファイナリスト
+ACHIEVEMENT_FWC_2026_PVP_FINALIST_DESC,Participate in the 2026 Flyff World Championship PvP Finals.,FWC 2026 ワールドチャンピオンシップPvPファイナルに出場する
