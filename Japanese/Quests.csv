@@ -1293,7 +1293,7 @@ PROPQUEST_INC_110021,Go and visit Mawrang. He is the oldest and wisest of us all
 PROPQUEST_INC_110022,"Welcome, brave warrior. I hope this town serves as your safe haven during your perilous journey here.",よく来たな、勇敢な戦士よ。この町が、おぬしの危険な旅路における安息の地となればよいのだが。
 PROPQUEST_INC_110023,This town could really use your help. We are surrounded in every corner of this continent. ,この町には、おぬしの力が必要だ。今や大陸中に敵があふれておる。
 PROPQUEST_INC_110024,"Our people have a lot of hope, but I fear the threat grows stronger and stronger every day.",皆、まだ希望は捨てておらん。だが、脅威は日に日に増しているように思えるのだ。
-PROPQUEST_INC_110025,We thank you for your help. I hope our hospitality suffices for your needs.,力を貸してくれてありがとう。この町で不自由なく過ごしてもらえれば何よりです。
+PROPQUEST_INC_110025,We thank you for your help. I hope our hospitality suffices for your needs.,力を貸してくれて感謝する。この町で不自由なく過ごしてもらえれば何よりだ。
 PROPQUEST_INC_110026,Old Machinery,古代の機械
 PROPQUEST_INC_110027,"So you want to help me fight off masquerpets, huh? Good.",モンスター退治を手伝ってくれるのか？ よし。
 PROPQUEST_INC_110028,The entrance to Azria was once an industrious place. It is now overrun by ancient machines. Help me bring down their numbers so other travelers may enter this place more safely.,かつてアズリアの入口は栄えた場所だったが、今では古代の機械に占拠されている。旅人が安全に通れるよう、奴らの数を減らしてほしい。
@@ -1489,13 +1489,13 @@ PROPQUEST_INC_110177,"If you’re not interested in the Christmas spirit, it’s
 PROPQUEST_INC_110178,You did it! Thanks to you Christmas is saved! Unless the monsters destroy the snowmen and take back the carrots...,それをやりました！あなたのおかげでクリスマスは救われました!モンスターが雪だるまを破壊し、ニンジンを取り戻さない限り...
 PROPQUEST_INC_110179,"Well, I guess picking up snow and carrots is too hard for you, huh...",まあ、雪やニンジンを拾うのは難しすぎると思いますね。
 PROPQUEST_INC_110180,"The polar bear asked me to bring back $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots by midnight.","ホッキョクグマは私に、真夜中までに$QUEST_END_ITEM_COUNT,2$スノーボール、$QUEST_END_ITEM_COUNT$ニンジンを取り戻すように頼みました。"
-PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",ようこそヒーロー！忘却の塔から$QUEST_END_KILL_NAME$を一掃せよと依頼が届きました。50体の$QUEST_END_KILL_NAME$を倒し戻ってきてくれないか？
-PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",よくやった、私たちはすべての要求を満たすためにたくさんの$QUEST_END_ITEM_NAME$sを持っているでしょう!
-PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",$QUEST_END_ITEM_NAME$をまだ見つけていませんか?それは大丈夫です、あなたがそれらを手に入れたらただ戻ってください。
-PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,おかえりヒーロー！忘却の塔に新たな脅威の報告がありました。$QUEST_END_KILL_NAME$を探して一掃してきてください。
-PROPQUEST_INC_110185,"Thank you hero, the $QUEST_END_KILL_NAME$ threat has been eliminated.",ありがとうヒーロー、$QUEST_END_KILL_NAME$の脅威が排除されました。
-PROPQUEST_INC_110186,"You weren't able to kill the $QUEST_END_KILL_NAME$ yet? That's alright, please return after you've won against the giant!",あなたはまだ$QUEST_END_KILL_NAME$を倒すことができませんでしたか?大丈夫、ジャイアントに勝ったら戻ってください!
-PROPQUEST_INC_110187,The Tower is filled with dangerous masquerpets. I understand if you do not wish to take the risk.,タワーは危険なモンスターでいっぱいです。あなたがリスクを冒したくないのなら、私は理解しています。
+PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",よく来たな、英雄よ。忘却の塔にいる$QUEST_END_KILL_NAME$の討伐依頼が届いている。50体倒したら、俺のところへ報告に戻ってくれ。
+PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",よくやった。これだけ$QUEST_END_ITEM_NAME$があれば、依頼にも十分応えられるだろう。
+PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",$QUEST_END_KILL_NAME$の討伐はまだ終わっていないようだな。焦ることはない。倒し終えたら戻ってきてくれ。
+PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,戻ってきたか、英雄よ。忘却の塔に新たな脅威が現れたとの報告だ。$QUEST_END_KILL_NAME$を見つけ出し、討伐してきてくれ。
+PROPQUEST_INC_110185,"Thank you hero, the $QUEST_END_KILL_NAME$ threat has been eliminated.",見事だ、英雄よ。$QUEST_END_KILL_NAME$の脅威は取り除かれた。感謝するぞ。
+PROPQUEST_INC_110186,"You weren't able to kill the $QUEST_END_KILL_NAME$ yet? That's alright, please return after you've won against the giant!",まだ$QUEST_END_KILL_NAME$を倒せていないのか？ ならば、討伐を果たしてから戻ってくるといい。
+PROPQUEST_INC_110187,The Tower is filled with dangerous masquerpets. I understand if you do not wish to take the risk.,忘却の塔には危険なモンスターが数多く潜んでいる。危険を冒したくないというなら、それも理解できる。
 PROPQUEST_INC_110188,Curiosity Killed the Cat (1),好奇心が猫を殺した(1)
 PROPQUEST_INC_110189,Curiosity Killed the Cat (2),好奇心が猫を殺した(2)
 PROPQUEST_INC_110190,Light as a Feather (1),羽のように軽い (1)

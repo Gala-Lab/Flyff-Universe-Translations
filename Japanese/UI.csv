@@ -1106,7 +1106,7 @@ UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,武器素材�
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,武器素材のカードを3枚合体させると、同グレードのカードが1枚手に入ります。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,カードを入れ替えると、素材として使われていたカードは消えます。続行しますか?
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,キャラ帰属に変換する
-UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムはキャラ帰属になり、NPCへの売却ができなくなります。プロパティの違いにより重ならないアイテムを重ねたい場合にこの処理を利用できます。注意：キャラ帰属アイテムは取引できず、この操作は元に戻せません。
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムはキャラ帰属になり、NPCへの売却ができなくなります。プロパティの違いにより重ならないアイテムを重ねたい場合にこの処理を利用できます。\n\n注意：キャラ帰属アイテムは取引できず、この操作は元に戻せません。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,変換されたアイテムは返品できません。続行しますか?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,このアイテムは変換できません。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,この巻物を使用すると、ギルドに所属できるメンバーが永久に5人分増加します。現在のギルドでのみ機能します。新たに他のギルドへ入った場合は、効果はありません。使用しますか？
@@ -1389,7 +1389,7 @@ UI_TOOLTIP_DST_AUTOHP,Recover %d%% HP When HP Falls Below %d%%,HP回復量 %d%% 
 UI_OPTION_MYNAME,Show My Name,自分のプレイヤー名
 UI_OPTION_OTHERNAME,Show Other Players' Names,他のプレイヤー名
 UI_OPTION_NPCNAME,Show NPC Names,NPC名
-UI_TOOLTIP_DST_RECOVERY_EXP,EXP Lost,失う経験値割合
+UI_TOOLTIP_DST_RECOVERY_EXP,EXP Lost,経験値損失率
 UI_GUILD_NAME_COLOR,Guild Name Color,ギルド名のカラー
 UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,スプリットストライク
 UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,スティールFP
