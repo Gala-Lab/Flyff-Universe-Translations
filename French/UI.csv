@@ -380,7 +380,7 @@ UI_POSTREAD_DELETETITLE,Delete Mail,Supprimer le courrier
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Any attached items and Penya will also be deleted.,"Voulez-vous supprimer ce courrier ? Attention, cela détruira également les objets ou Penyas qui y sont joints."
 UI_POSTREAD_MAILEXPIRED,Mail Expired,Courrier expiré
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s Penya to retrieve it.,Le délai de garde des messages de %d jours a expiré. Le coût supplémentaire pour récupérer vos objets est de %s Penyas.
-UI_QUEST_CANCEL,Remove quest,Abandonner la quête
+UI_QUEST_CANCEL,Remove quest,Abandonner
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Abandonner la quête en cours ?
 UI_QUEST_ALLQUESTS,All Quests,Toutes les quêtes
 UI_QUEST_INPROGRESS,In Progress,En cours
