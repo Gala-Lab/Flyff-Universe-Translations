@@ -1776,7 +1776,7 @@ UI_BATTLEPASS_MISSION_PIERCINGCARD2,Insert a Piercing Card into %s,Piercing Card
 UI_EVENTS_TITLE,Events,Events
 UI_EVENTS_BANNER_TAB,Events,Events
 UI_TOOLTOP_EVENTUSED,Used in a Costume Collection event,Sammel Effekt AN
-UI_EVENT_TIMELEFT_FORMAT,%s left,%s ist gegangen
+UI_EVENT_TIMELEFT_FORMAT,%s left,Noch %s
 UI_EVENT_BANNER_SCHEDULE,%s ~ %s,%s ~ %s
 UI_COSTUMECOLLECTION,Costume Collection,Kostümsammlung
 UI_COSTUMECOLLECTION_DESC,Costume Collection,Kostümsammlung
