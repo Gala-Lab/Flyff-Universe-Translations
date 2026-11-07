@@ -34,23 +34,23 @@ NPC_SHOPS,Shops?,購入
 NPC_DEATH,Death?,死
 NPC_RECEIVEADDITIONALREWARDS,Receive additional rewards,追加の報酬を受け取る
 NPC_000044,"Welcome to Keakoon, human! I've got a favor to ask... C'mere!",クックックッ、心優しき人間の方よ、俺の頼みを聞いてくれっ！
-NPC_000045,Fathers Package,お父さんの荷物
-NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?",クックックッ、お前たち人間がこんなところまでやって来るなんて、珍しいじゃないか！
+NPC_000045,Fathers Package,父親の荷物
+NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?",フン！ 妙だな...人間のお前が、どうやってここまで入り込んだ？
 NPC_000047,"Thank you for saving my father, human. So what brings you here?",親父を助けてくれてありがとな。ところで何の用だ？
-NPC_000048,"Please, save my father. He's imprisoned east of here! Hurry!",親父のいる監獄は、一番右に位置するキクン町にあるぞ。おい、早く助けてくれよ！
+NPC_000048,"Please, save my father. He's imprisoned east of here! Hurry!",頼む、親父を助けてくれ！ ここから東にある監獄に閉じ込められてるんだ。急いでくれ！
 NPC_000049,"Hrrmph, listen... I don't know how you found this place, and I don't care. Leave now! This place is too dangerous for your kind.",クックックッ、お前たち人間がどうやってここまでやって来たかは知らないが、お前らの来るところではないぞ。危ないからさっさと行け！
-NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!",クックックッ、俺はキクン族の酋長ネビルの息子ドリアンだっ！人間どもは俺を馬鹿にしてるが、俺たちにとっては人間の方が低能に見えるぜ！
+NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!",クックックッ、俺はキクン族の大族長ネヴィルの息子ドリアンだっ！人間どもは俺を馬鹿にしてるが、俺たちにとっては人間の方が低能に見えるぜ！
 NPC_000051,"This place is too dangerous for the likes of you, silly human. Go home!",クックックッ、とにかくここは危ないから、早く帰れ！
-NPC_000052,Here is the package my father left me... Hrrmph!,親父に頼まれた荷物なら、ここにあるぜ、クックックッ。
-NPC_000053,*Sigh* this might take a while...,あぁ～ なかなか纏まらないなぁ～
+NPC_000052,Here is the package my father left me... Hrrmph!,親父から預かった荷物なら、ここにあるぜ。クックックッ。
+NPC_000053,*Sigh* this might take a while...,はぁ...こいつは時間がかかりそうだな...
 NPC_000054,"What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy.",おっ? お前、人間だな。度胸のいいやつだな～。
 NPC_000055,"Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!",ちぇっ! 人間のくせに生意気な奴！早く消え去らないと、ドワーフ拳法お見舞いしてやるぞ！
 NPC_000056,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!,残念だが、人間どもに自己紹介する気はないさ。
 NPC_000057,"Beat it, human! You're not welcome here!",そうさ、帰った方がいいぞ。ここはお前ら人間がむやみに来るところじゃないからな。
 NPC_000058,*Whistles*,...
 NPC_000059,"Gwarrll! You just gonna stand there, or are you gonna get me out of here? You know, people don't necessarily like to be stared at...",........
-NPC_000060,"Garr!! I've not seen a human in years! I am Nevil, the honorable Patriarch of Keakoon.",カッカッカッ、おっ、人間に会うなんて久しぶりだな！ 私はキクン族の酋長ネビルだっ！
-NPC_000061,"*Snort!* A human, eh? Very interesting... I haven't seen one of you weirdos in years! See ya later!",カッカッカッ、人間に会うなんて久しぶりだが、また今度な！
+NPC_000060,"Garr!! I've not seen a human in years! I am Nevil, the honorable Patriarch of Keakoon.",カッカッカッ！ 人間に会うのは久しぶりだな！ 私はキクン族の大族長ネヴィルだ！
+NPC_000061,"*Snort!* A human, eh? Very interesting... I haven't seen one of you weirdos in years! See ya later!",カッカッカッ！ 人間とは珍しい！ オヌシらのような変わり者に会うのは久しぶりだ。またな！
 NPC_000062,Feel free to come see me whenever you are in need of magical goods.,魔法アイテムが必要でしたら、私にお尋ねください。
 NPC_000063,Nice to meet you. Have you also come to research the magical fields surrounding the islands?,この島にいらしたということは、私と同じく魔法磁気の研究に関心を持ってるのですか？お会いできて嬉しいです。
 NPC_000064,My name is Ciel and I am doing research on the various magical phenomena in the area.,私はシエルと申します。この地域で魔法に絡んだ異常現象が起きているそうなので、研究しにやって来ました。
@@ -968,11 +968,11 @@ NPC_100021,Who wants some makeup? I am a pro!,メイクしたい人はいない�
 NPC_100022,"You seem to me very tired, look at that messy hair! How about a little cut?",あなたはとても疲れているようね、その不精な髪をみたらわかるわ。少しカットしていかない？
 NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,私はマドリガル唯一の美容師よ。1日中やってるわ。
 NPC_100024,Come back anytime you want!,いつでもきてね。
-NPC_100025,"Durandil swords are really great, too bad you can't mine with them...",デュランディルの剣は素晴らしいけどそれで採掘はできないんだ。
-NPC_100026,"I am Dekane, the creator of this mine.",私はデェカネス、この鉱山のクリエイターだ。
-NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,あなたのような勇気ある人に秘密の部屋へ行ってもらいたいのです。これがその扉を開ける鍵です。どうか気をつけてください。
-NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,ドラゴンと対峙するというのは、冒険者にとっても簡単なことではないでしょう。もし＜地底深き鉱山＞のクエストをクリアしたらまた来てください。
-NPC_100029,See you bye bye!,またねバイバイ！
+NPC_100025,"Durandil swords are really great, too bad you can't mine with them...",デュランディルの剣は実に素晴らしい。採掘に使えないのが惜しいな...
+NPC_100026,"I am Dekane, the creator of this mine.",私はデェカネス。この鉱山を造った者だ。
+NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,君のような勇敢な者は気に入った。これが秘密の部屋の扉を開く鍵だ。健闘を祈る。
+NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,ドラゴンを倒すのは容易なことではない。#b＜地底深き鉱山＞#nbのクエストを達成したら、また来るがいい。
+NPC_100029,See you bye bye!,では、また会おう！
 NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",こんにちは、ここで何をするつもりだ？\n1.[メテオニカと戦う][IDS_NPC_Meteo]\n2.[あなたは誰？][IDS_NPC_Dekane]
 NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",私はこの鉱山のクリエイターであるデェカネスです。あなたが自分自身を証明したので、私はあなたに鉱山の底で本当の問題を話すことができるでしょう。
 NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","この秘密の部屋には昔、シェイドが創った古代のドラゴンが眠っているとされる。奴を倒すには絆を深めたチームと、ゲートを開けるための1,000,000ペニャが必要となる。君たちは血のトリルピを50匹集め、ゲリラキクン労働者を50体討伐してここにたどり着いた。英雄そのものだ。さあ、いってきたまえ。\n[はい][IDS_NPC_Yes] / [いいえ][IDS_NPC_No]\n\n#cffff0000参加するギルドメンバーは全員近くにいる必要があります。#nc"
@@ -1064,10 +1064,10 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,#bマニラ決勝戦#nb に出場し、#bFlyff World チャンピオンシップ2026#nb で優勝するのは誰だ？お前が一番だということを証明してみせろ！
-NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",ようこそ、ライバル!私はフリフワールドチャンピオンシップのマネージャーであるアヴァです。競争に勝つために手に入れることができる最高の機器を交換します!
-NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",うーん、あなたは最高のPvE競技者であると感じます!待たないでいいです。。。PvPかな?はぁ、わかんない。がんばって！
-NPC_100124,May the best win!,最高の勝利がありますように!
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,#bマニラ決勝戦#nbに出場し、#bFWC 2026 ワールドチャンピオンシップ#nbの頂点に立つのは誰かな？ 自分が一番だって証明してみせて！
+NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",ようこそ、挑戦者さん！ 私はフリフワールドチャンピオンシップの大会マネージャー、エヴァよ！ 優勝を目指すあなたに、とっておきの装備を交換してあげる！
+NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",うーん、あなたってPvEのすごい実力者でしょ！ あれ、待って...PvPだったかな？ あはは、わかんなくなっちゃった！ とにかく頑張ってね！
+NPC_100124,May the best win!,さあ、勝つのは誰かな！
 NPC_100125,"I am an automated machine intended to replace and eliminate humans. However, I am also designed to deliver rewards in exchange for coins.",私は人間に取って代わり、抹殺することを意図した自動化された機械です。ただし、コインと引き換えに報酬を配信するように設計されています。
 NPC_100126,"We will probably meet again, and I might have more items for you next time!",また会えるかもしれないし、次回はもっとアイテムがあるかも!
 NPC_100127,"Hi, I am Private Leo. I got separated from my group after entering this dungeon.",こんにちは、プライベートレオです。このダンジョンに入った後、グループとはぐれてしまいました。

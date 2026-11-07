@@ -3255,7 +3255,7 @@ PROPITEM_TXT_005758,Hair of Serus Uriel,セラス・ウリエルの髪
 PROPITEM_TXT_005760,Rankashu Letter,ランカシュの手紙
 PROPITEM_TXT_005761,Quest Item: Letter from Rankashu to Cell.,ランカシュからセルに送られる手紙。(クエストアイテム)
 PROPITEM_TXT_005762,Mine Entrance Card,鉱山入場証
-PROPITEM_TXT_005763,Quest Item: Card that allows access into the Dekane Mine.,デェカネス鉱山入り口の通行証。(クエストアイテム)
+PROPITEM_TXT_005763,Quest Item: Card that allows access into the Dekane Mine.,デェカネス鉱山に入るための通行証。(クエストアイテム)
 PROPITEM_TXT_005764,Piece of Prison Key 1,ネヴィルの鍵の破片1
 PROPITEM_TXT_005765,Quest Item: Piece of a Prison Key.,ネヴィルが監禁されている監獄の鍵の欠片。(クエストアイテム)
 PROPITEM_TXT_005766,Piece of Prison Key 2,ネヴィルの鍵の破片2
@@ -3265,37 +3265,37 @@ PROPITEM_TXT_005771,Quest Item: The key to the Prison.,ネヴィルが監禁さ�
 PROPITEM_TXT_005772,Keakoon Chief Sign,キクン族長の印
 PROPITEM_TXT_005773,Quest Item: Stamp of the Keakoon chief.,真のキクン族長であることを証明する印。(クエストアイテム)
 PROPITEM_TXT_005774,Cargo of Drian,ドリアンの荷物
-PROPITEM_TXT_005775,Quest Item: Cargo that Drian sent to his father.,ドリアンから彼のお父さんに届けてほしいと頼まれた荷物。(クエストアイテム)
-PROPITEM_TXT_005776,Shubrin Ring,シュブリン・リング
+PROPITEM_TXT_005775,Quest Item: Cargo that Drian sent to his father.,ドリアンから彼の父親に届けてほしいと頼まれた荷物。(クエストアイテム)
+PROPITEM_TXT_005776,Shubrin Ring,シュブリンリング
 PROPITEM_TXT_005777,Quest Item: A ring made by Shubrin.,鉱山内のシュブリンという鉱物を加工して作られたリング。(クエストアイテム)
-PROPITEM_TXT_005778,Pink Roach Fluid,ピンクローチ水
-PROPITEM_TXT_005780,Blue Roach Fluid,ブルーローチ水
-PROPITEM_TXT_005782,Wake Roach Water,ウェイクローチ水
-PROPITEM_TXT_005784,Pink Roach Queen Fluid,ピンクローチクィーン水
+PROPITEM_TXT_005778,Pink Roach Fluid,ピンクローチフルの体液
+PROPITEM_TXT_005780,Blue Roach Fluid,ブルーローチフルの体液
+PROPITEM_TXT_005782,Wake Roach Water,クイーン孵化促進剤
+PROPITEM_TXT_005784,Pink Roach Queen Fluid,ピンクローチクイーンの体液
 PROPITEM_TXT_005785,Quest item that drops from Pink Roach Queen.,ピンクローチクイーンから採取した液体。(クエストアイテム)
-PROPITEM_TXT_005786,Blue Roach Queen Fluid,ブルーローチクィーン水
+PROPITEM_TXT_005786,Blue Roach Queen Fluid,ブルーローチクイーンの体液
 PROPITEM_TXT_005787,Quest item that drops from Blue Roach Queen.,ブルーローチクイーンから採取した液体。(クエストアイテム)
 PROPITEM_TXT_005788,Qurion Sword,キュリオン・ソード
 PROPITEM_TXT_005790,Qurion Axe,キュリオン・アックス
 PROPITEM_TXT_005792,Qurion Knuckle,キュリオン・ナックル
 PROPITEM_TXT_005794,Qurion Stick,キュリオン・スティック
 PROPITEM_TXT_005796,Qurion Wand,キュリオン・ワンド
-PROPITEM_TXT_005798,Qurion Yo-Yo,超電波・ヨーヨー
+PROPITEM_TXT_005798,Qurion Yo-Yo,キュリオン・ヨーヨー
 PROPITEM_TXT_005800,Qurion Bow,キュリオン・ボウ
 PROPITEM_TXT_005802,Qurion Staff,キュリオン・スタッフ
-PROPITEM_TXT_005804,Bernard Card,バナード･カード
+PROPITEM_TXT_005804,Bernard Card,バナードカード
 PROPITEM_TXT_005805,Quest Item: Entrance card to a room in the Dekane Mine.,デェカネス鉱山の奥地への通行証。(クエストアイテム)
 PROPITEM_TXT_005806,Cillin,シルリン
 PROPITEM_TXT_005807,Quest Item: A Dwarpet toy.,金属製のドワーフのおもちゃ。(クエストアイテム)
 PROPITEM_TXT_005808,Ribenuum,リベニウム
 PROPITEM_TXT_005809,Quest Item: Metal that Dwarpets are most familiar with.,ドワーフの貨幣に使われる金属。(クエストアイテム)
 PROPITEM_TXT_005810,Pure Ribenuum,高純度リベニウム
-PROPITEM_TXT_005811,Quest Item: A pure form of the metal that Dwarpets are most familiar with.,ドワーフの貨幣に使われる高純度の金属。(クエストアイテム)
+PROPITEM_TXT_005811,Quest Item: A pure form of the metal that Dwarpets are most familiar with.,ドワーフたちが愛用する金属を高純度に精錬したもの。(クエストアイテム)
 PROPITEM_TXT_005812,Andre Card,アンドレの通行証
 PROPITEM_TXT_005814,Triduum,トリディウム
 PROPITEM_TXT_005815,Quest Item: Used to refine Ribenuum,リベニウムを精錬し純度を高めるための金属。(クエストアイテム)
 PROPITEM_TXT_005818,Puran Necklace,ピュラン・ネックレス
-PROPITEM_TXT_005819,STA Necklace made by the Dwarves,ドワーフによって作られた、体力を増加させるネックレス。
+PROPITEM_TXT_005819,STA Necklace made by the Dwarves,ドワーフが作った、体力を高めるネックレス。
 PROPITEM_TXT_005820,Roach Zone Card,ローチゾーンの鍵
 PROPITEM_TXT_005822,Keakoon Worker Pike,キクンワーカーピッケル
 PROPITEM_TXT_005823,Quest item that drops from Keakoon Worker.,キクン労働者が使うピッケル。(クエストアイテム)
@@ -3309,15 +3309,15 @@ PROPITEM_TXT_005830,Mutant Keakoon Worker Peak,ゲリラ・キクンワーカー
 PROPITEM_TXT_005831,Quest item that drops from Mutant Keakoon.,ゲリラキクン労働者が使うピッケル。(クエストアイテム)
 PROPITEM_TXT_005832,Mutant Keakoon Guard Sword,ゲリラ・キクンガードナイフ
 PROPITEM_TXT_005834,Blue Roach Leg,ブルーローチフル・レッグ
-PROPITEM_TXT_005835,Quest item that drops from Blue Roach.,ブルーローチフルから採取できる青い色の足。(クエストアイテム)
+PROPITEM_TXT_005835,Quest item that drops from Blue Roach.,ブルーローチフルから採取した青い脚。(クエストアイテム)
 PROPITEM_TXT_005836,Pink Roach Leg,ピンクローチフル・レッグ
-PROPITEM_TXT_005837,Quest item that drops from Pink Roach.,ピンクローチフルから採取できるピンク色の足。(クエストアイテム)
-PROPITEM_TXT_005838,Green Trillipy Shell,グリーントリルピの甲羅
-PROPITEM_TXT_005839,Quest item that drops from Green Trillipy.,グリーントリルピから採取できる緑の甲羅。(クエストアイテム)
-PROPITEM_TXT_005840,Violet Trillipy Shell,バイオレットトリルピの甲羅
-PROPITEM_TXT_005841,Quest item that drops from Violet Trillipy.,バイオレットトリルピから採取できる紫の甲羅。(クエストアイテム)
-PROPITEM_TXT_005842,Blood Trillipy Shell,血のトリルピの甲羅
-PROPITEM_TXT_005843,Quest item that drops from Blood Trillipy.,血のトリルピから採取できる緋色の甲羅。(クエストアイテム)
+PROPITEM_TXT_005837,Quest item that drops from Pink Roach.,ピンクローチフルから採取したピンク色の脚。(クエストアイテム)
+PROPITEM_TXT_005838,Green Trillipy Shell,グリーントリルピの甲殻
+PROPITEM_TXT_005839,Quest item that drops from Green Trillipy.,グリーントリルピから採取できる緑の甲殻。(クエストアイテム)
+PROPITEM_TXT_005840,Violet Trillipy Shell,バイオレットトリルピの甲殻
+PROPITEM_TXT_005841,Quest item that drops from Violet Trillipy.,バイオレットトリルピから採取できる紫の甲殻。(クエストアイテム)
+PROPITEM_TXT_005842,Blood Trillipy Shell,血のトリルピの甲殻
+PROPITEM_TXT_005843,Quest item that drops from Blood Trillipy.,血のトリルピから採取できる緋色の甲殻。(クエストアイテム)
 PROPITEM_TXT_005844,Chimeradon Horn,キメラドンの角
 PROPITEM_TXT_005845,Quest item that drops from Chimeradon.,アバドンから入手できる角。(クエストアイテム)
 PROPITEM_TXT_005846,Kehin Sword,ケフィン・ソード
