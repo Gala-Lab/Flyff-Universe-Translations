@@ -1084,8 +1084,8 @@ TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,无
 TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,你正在使用仓库扩展背包。
 TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,仓库已扩展。
 TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,战斗状态下无法使用该物品。
-TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s 对你使用了 %s！
-TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,你对 %s 使用了 %s！
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,你受到了%s效果影响，施放者为%s！
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,你对%s使用了%s！
 TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,你使用了 %s！
 TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,找不到目标。
 TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,目标已被彩虹屏障阻挡！
