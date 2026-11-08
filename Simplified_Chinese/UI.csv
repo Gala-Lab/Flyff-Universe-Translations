@@ -2402,7 +2402,7 @@ UI_DELETEACCOUNT_NOPASS,Do you confirm?,你确定吗？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.",会员退订后，所有数据将被删除，您将无法继续使用本服务、恢复账号，也无法就任何剩余的付费项目或货币申请退款。
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,搜索个人及替身商店道具。
 UI_SEARCHSHOP_RARITY,Rarity,稀有度
-UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼+n：
+UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼：
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,包含关键词
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,精准关键词
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,商店距离
