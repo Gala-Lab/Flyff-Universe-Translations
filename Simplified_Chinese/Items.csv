@@ -2510,7 +2510,7 @@ PROPITEM_TXT_004541,Magic Stone that adds 20% Earth Attack to your Weapon. The W
 PROPITEM_TXT_004542,Def-Firea Stone,蹈火防御石
 PROPITEM_TXT_004543,Magic Stone that adds 20% Wind Defense to your Suit. The Suit must have Fire Element.,提升衣服20%风属性防御\n的魔法石。衣服必须有火属性。
 PROPITEM_TXT_004544,Def-Wateil Stone,碧波防御石
-PROPITEM_TXT_004545,Magic Stone that adds 20% Fire Defense to your Suit. The Suit must have Water Element.,提升衣服武器20%火属性防御\n的魔法石。衣服必须有水属性。
+PROPITEM_TXT_004545,Magic Stone that adds 20% Fire Defense to your Suit. The Suit must have Water Element.,提升衣服20%火属性防御\n的魔法石。衣服必须有水属性。
 PROPITEM_TXT_004546,Def-Windyo Stone,风驰防御石
 PROPITEM_TXT_004547,Magic Stone that adds 20% Earth Defense to your Suit. The Suit must have Wind Element.,提升衣服20%土属性防御\n的魔法石。衣服必须有风属性。
 PROPITEM_TXT_004548,Def-Lightine Stone,电掣防御石
@@ -3514,7 +3514,7 @@ PROPITEM_TXT_006158,Doggy,聪明的多吉
 PROPITEM_TXT_006159,A cute Doggy that follows its master around and picks up dropped items,自动捡取落在周围的物品
 PROPITEM_TXT_006160,Kitty,淘气的凯蒂
 PROPITEM_TXT_006161,A cute Kitty that follows its master around and picks up dropped items,自动捡取落在周围的物品
-PROPITEM_TXT_006162,Couple Ring,恋人戒指(15天)
+PROPITEM_TXT_006162,Couple Ring,恋人戒指
 PROPITEM_TXT_006163,Put your name on the ring and give it to your sweetheart!,把你的名字写在戒指上，送给你的爱人！
 PROPITEM_TXT_006164,Buff breaker,删除BUFF
 PROPITEM_TXT_006165,Remove one your target's buffs,使用后可以解除一个BUFF
@@ -10354,7 +10354,7 @@ PROPITEM_TXT_110779,Used to craft level 90 unique weapons at Peach in Central Fl
 PROPITEM_TXT_110780,Used to craft level 105 unique weapons at Peach in Central Flarine.,用来在帕里中心的皮奇处制作105级史诗武器。
 PROPITEM_TXT_110781,Used to craft level 120 unique weapons at Peach in Central Flarine.,用来在帕里中心的皮奇处制作120级史诗武器。
 PROPITEM_TXT_110782,Used in various gear upgrades. Found by harvesting Guru Catchers.,用于各种装备的精炼。由达肯灵兽产出。
-PROPITEM_TXT_110783,Used in various gear upgrades. Found by harvesting Krasec Catchers.,用于各种装备的精炼。由晨光兽上产出。
+PROPITEM_TXT_110783,Used in various gear upgrades. Found by harvesting Krasec Catchers.,用于各种装备的精炼。由晨光灵兽产出。
 PROPITEM_TXT_110784,Used in various gear upgrades. Found by harvesting Erons Catchers.,用于各种装备的精炼。由帕里灵兽产出。
 PROPITEM_TXT_110785,Used in various gear upgrades. Found by harvesting Mine Catchers.,用于各种装备的精炼。由莱斯灵兽产出。
 PROPITEM_TXT_110786,GM Box,GM Box
@@ -12548,11 +12548,11 @@ PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimat
 PROPITEM_TXT_160026,Marksman's Ring,神射手之戒
 PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,提升敏捷。可使用晶石升级至终极10级。
 PROPITEM_TXT_160028,Champion's Gore Necklace,嗜血者的生命之源
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 HP。可使用晶石升级至终极10级。
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大HP。\n可使用晶石升级至终极10级。
 PROPITEM_TXT_160030,Adept's Mental Necklace,天侍神的魔力之源
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 MP。可使用晶石升级至终极10级。
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大MP。\n可使用晶石升级至终极10级。
 PROPITEM_TXT_160032,Defender's Peision Necklace,圣骑士的活力源泉
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 FP。可使用晶石升级至终极10级。
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大FP。\n可使用晶石升级至终极10级。
 PROPITEM_TXT_160034,Champion's Demol Earring,嗜血者之怒
 PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160036,Defender's Plug Earring,圣骑士之护
@@ -12565,10 +12565,10 @@ PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up t
 PROPITEM_TXT_160046,Adept's Demol Earring,天侍神之怒
 PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160048,Marksman's Mental Necklace,神射手的魔力之源
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 MP。可使用晶石升级至终极10级。
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大MP。\n可使用晶石升级至终极10级。
 PROPITEM_TXT_160050,Champion's Mental Necklace,嗜血者的魔力之源
 PROPITEM_TXT_160052,Champion's Peision Necklace,嗜血者的活力源泉
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 FP。可使用晶石升级至终极10级。
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大FP。\n可使用晶石升级至终极10级。
 PROPITEM_TXT_160054,Defender's Demol Earring,圣骑士之怒
 PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160056,Champion's Plug Earring,嗜血者之护
@@ -13120,17 +13120,17 @@ PROPITEM_TXT_131415,C-class gift for new year 2024.,C-class gift for new year 20
 PROPITEM_TXT_131417,Card Disc,卡片存储盘
 PROPITEM_TXT_131418,"This bag gives you 20 additional card and card piece item slots. Once the use time is over, items in that bag can only be retrieved.",可为您提供20个额外的卡片物品栏位。道具到期后只能取出该其中的物品。
 PROPITEM_TXT_131419,Costume Pack,时装包
-PROPITEM_TXT_131420,This bag can hold up to 7 different unique Costume parts with the same gender.,最多存放 7 件同性别的独特时装部件。
+PROPITEM_TXT_131420,This bag can hold up to 7 different unique Costume parts with the same gender.,最多存放7件同性别的\n独特时装部件。
 PROPITEM_TXT_131421,Armor Pack,防具包
 PROPITEM_TXT_131422,This bag can hold up to 4 Armor parts of the same green or red set and with the same upgrade level.,此背包最多可容纳 4 件防具部件，且这些部件须为同一绿色或红色套装，并拥有相同的强化等级。
 PROPITEM_TXT_209265,Feed Bag (1 day),饲料包 (1天)
 PROPITEM_TXT_209266,Feed Bag (7 days),饲料包 (7天)
 PROPITEM_TXT_209267,Feed Bag (15 days),饲料包 (15天)
 PROPITEM_TXT_209268,Feed Bag (30 days),饲料包 (30天)
-PROPITEM_TXT_209269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽能量在1天内的不会减少。
-PROPITEM_TXT_209270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽能量在7天内的不会减少。
-PROPITEM_TXT_209271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽能量在15天内的不会减少。
-PROPITEM_TXT_209272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽能量在30天内的不会减少。
+PROPITEM_TXT_209269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽能量在1天内不会减少。
+PROPITEM_TXT_209270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽能量在7天内不会减少。
+PROPITEM_TXT_209271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽能量在15天内不会减少。
+PROPITEM_TXT_209272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽能量在30天内不会减少。
 PROPITEM_TXT_209332,Scroll of PickUp Boost (30 days),捡宠加速卷轴(30天)
 PROPITEM_TXT_209333,Pet's pickup speed is increased by 100% for 30 days,使用后捡宠的拾取速度提升100%，持续30天。
 PROPITEM_TXT_209334,Scroll of PickUp Boost (15 days),捡宠加速卷轴(15天)
@@ -16803,7 +16803,7 @@ PROPITEM_TXT_725852,The Madrigal Guardian Gray Set for male characters.,男性�
 PROPITEM_TXT_725853,Madrigal Guardian Gray Set (F) (Event),灰色瑞加大陆战队套装(女) (活动)
 PROPITEM_TXT_725854,The Madrigal Guardian Gray Set for female characters.,女性灰色瑞加大陆战队套装。
 PROPITEM_TXT_725855,FWC Formula 1 2024,FWC一级方程式 2024
-PROPITEM_TXT_725856,A blazing Formula 1 to reward a flamboyant PvE run on FWC 2024. Maximum Speed: 64 km/h.,炽热的一级方程式赛车，以奖励在FWC 2024上进行的华丽的PvE比赛。最高车速： 64公里/小时。
+PROPITEM_TXT_725856,A blazing Formula 1 to reward a flamboyant PvE run on FWC 2024. Maximum Speed: 64 km/h.,夺人眼球的一级方程式赛车，FWC 2024上PvE比赛奖品。\n最高车速： 64公里/小时。
 PROPITEM_TXT_725857,Navy 2024 10% Green Set,2024绿色海军元帅套装 10% 移速
 PROPITEM_TXT_725858,Navy 2024 10% Green Set (M),2024绿色海军元帅套装 10% 移速(男)
 PROPITEM_TXT_725859,The Navy 2024 10% Green Set for male characters.,男性2024绿色海军元帅套装 10% 移速。
@@ -17226,7 +17226,7 @@ PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can be attached multiple times.,用于镶嵌在终极武器上，攻击力 +90，可重复镶嵌。
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can be attached multiple times.,用于镶嵌在终极武器上，攻击力 +100，可重复镶嵌。
 PROPITEM_TXT_800143,Jewel Tweezers,宝石镊子
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可取出镶嵌在终极武器上的宝石或符文。/n(没有宝石镊子的情况下，终极武器上的宝石或符文只能直接移除)。
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可取出镶嵌在终极武器上的宝石或符文。\n(没有宝石镊子的情况下，终极武器上的宝石或符文只能直接移除)。
 PROPITEM_TXT_800145,Rune of Increasing HP,HP 提升符文
 PROPITEM_TXT_800146,Rune of Increasing MP,MP 提升符文
 PROPITEM_TXT_800147,Rune of Increasing FP,FP 提升符文
@@ -17272,11 +17272,11 @@ PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you colle
 PROPITEM_TXT_800187,Ultimate Jewel Box,终极宝石箱
 PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",箱子内包含多种可镶嵌于终极武器的终极宝石、符文及碎片。集齐10枚同类碎片即可合成完整宝石。
 PROPITEM_TXT_800189,Advanced Mana Stone,高级法力石
-PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,融合失败时，回收 1 至 3 颗宝石。
+PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,融合失败时，回收1至3颗宝石
 PROPITEM_TXT_800191,Mana Stone,法力石
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,制作失败时，回收全部宝石碎片。
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[个人房屋 NPC] 宝石工匠克罗克
-PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",将该 NPC 放置于私人住宅时，将赋予以下加成：终极宝石相关功能。提升同类型宝石镶嵌成功率。​\n移除终极宝石时，有 30% 几率保留宝石时。​\n提高终极宝石的制造与合成成功率。
+PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",该NPC放置于房屋时将赋予以下特权：终极宝石相关功能。​\n移除终极宝石时，有30%几率\n保留宝石。​\n提高终极宝石的制造与合成成功率。
 PROPITEM_TXT_800195,Ultimate Jewel Gemstone,终极宝石原矿
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,从此原矿中可提取一级宝石与宝石碎片。
 PROPITEM_TXT_800197,Cutting Knife,切割刀
@@ -17368,17 +17368,17 @@ PROPITEM_TXT_131911,Darken World Template (M) (Couple),达肯世界模板 (M)（
 PROPITEM_TXT_131912,Forest World Template (M) (Couple),森林世界模板 (M)（情侣）
 PROPITEM_TXT_131913,Fall World Template (M) (Couple),秋色世界模板 (M)（情侣）
 PROPITEM_TXT_131914,[Personal House NPC] Mac (F Grade),[个人房屋 NPC] Mac (F 级)
-PROPITEM_TXT_131915,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy F),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养F糖果)。
+PROPITEM_TXT_131915,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy F),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养F糖果)。
 PROPITEM_TXT_131916,[Personal House NPC] Mac (E Grade),[个人房屋 NPC] Mac (E 级)
-PROPITEM_TXT_131917,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy E),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养E糖果)。
+PROPITEM_TXT_131917,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy E),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养E糖果)。
 PROPITEM_TXT_131918,[Personal House NPC] Mac (D Grade),[个人房屋 NPC] Mac (D 级)
-PROPITEM_TXT_131919,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy D),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养D糖果)。
+PROPITEM_TXT_131919,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy D),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养D糖果)。
 PROPITEM_TXT_131920,[Personal House NPC] Mac (C Grade),[个人房屋 NPC] Mac (C 级)
-PROPITEM_TXT_131921,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy C),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养C糖果)。
+PROPITEM_TXT_131921,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy C),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养C糖果)。
 PROPITEM_TXT_131922,[Personal House NPC] Mac (B Grade),[个人房屋 NPC] Mac (B 级)
-PROPITEM_TXT_131923,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy B),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养B糖果)。
+PROPITEM_TXT_131923,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy B),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养B糖果)。
 PROPITEM_TXT_131924,[Personal House NPC] Mac (A Grade),[个人房屋 NPC] Mac (A 级)
-PROPITEM_TXT_131925,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 (喂养A糖果)。
+PROPITEM_TXT_131925,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A),该NPC在放置在房屋中时会给予以下特权：召唤兽训练 。\n(喂养A糖果)。
 PROPITEM_TXT_133000,Hoe,普通锄头
 PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 20%,草药采集专用的工具。采集成功率：40%。
 PROPITEM_TXT_133002,Well-maintained Hoe,精良锄头
@@ -17388,37 +17388,37 @@ PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb ga
 PROPITEM_TXT_133006,Finest Hoe,终极锄头
 PROPITEM_TXT_133007,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 50%,草药采集专用的工具。采集成功率：70%。
 PROPITEM_TXT_133008,Axe,普通斧头
-PROPITEM_TXT_133009,An axe that is used for woodcutting. Woodcutting success rate: 20%,伐木专用的工具。伐木成功率：40%。
+PROPITEM_TXT_133009,An axe that is used for woodcutting. Woodcutting success rate: 20%,伐木专用的工具。\n伐木成功率：20%。
 PROPITEM_TXT_133010,Well-maintained Axe,精良斧头
-PROPITEM_TXT_133011,An axe that has been well-maintained and can be used for even more woodcutting. Woodcutting success rate: 30%,伐木专用的工具。伐木成功率：50%。
+PROPITEM_TXT_133011,An axe that has been well-maintained and can be used for even more woodcutting. Woodcutting success rate: 30%,伐木专用的工具。\n伐木成功率：30%。
 PROPITEM_TXT_133012,New Axe,新式斧头
-PROPITEM_TXT_133013,A new type of axe that is used for woodcutting. Woodcutting success rate: 40%,伐木专用的工具。伐木成功率：60%。
+PROPITEM_TXT_133013,A new type of axe that is used for woodcutting. Woodcutting success rate: 40%,伐木专用的工具。\n伐木成功率：40%。
 PROPITEM_TXT_133014,Finest Axe,终极斧头
-PROPITEM_TXT_133015,The finest axe that is used for woodcutting. Woodcutting success rate: 50%,伐木专用的工具。伐木成功率：70%。
+PROPITEM_TXT_133015,The finest axe that is used for woodcutting. Woodcutting success rate: 50%,伐木专用的工具。\n伐木成功率：50%。
 PROPITEM_TXT_133016,Pickaxe,普通镐
-PROPITEM_TXT_133017,A pickaxe can be used for mining ores. Mining success rate: 20%,采矿专用的工具。采矿成功率：40%。
+PROPITEM_TXT_133017,A pickaxe can be used for mining ores. Mining success rate: 20%,采矿专用的工具。\n采矿成功率：20%。
 PROPITEM_TXT_133018,Well-maintained Pickaxe,精良镐
-PROPITEM_TXT_133019,A pickaxe that has been well-maintained and can be used for mining even more ores. Mining success rate: 30%,采矿专用的工具。采矿成功率：50%。
+PROPITEM_TXT_133019,A pickaxe that has been well-maintained and can be used for mining even more ores. Mining success rate: 30%,采矿专用的工具。\n采矿成功率：30%。
 PROPITEM_TXT_133020,New Pickaxe,新式镐
-PROPITEM_TXT_133021,A new type of pickaxe can be used for mining ores. Mining success rate: 40%,采矿专用的工具。采矿成功率：60%。
+PROPITEM_TXT_133021,A new type of pickaxe can be used for mining ores. Mining success rate: 40%,采矿专用的工具。\n采矿成功率：40%。
 PROPITEM_TXT_133022,Finest Pickaxe,终极镐
-PROPITEM_TXT_133023,The finest pickaxe that is used for mining ores. Mining success rate: 50%,采矿专用的工具。采矿成功率：70%。
+PROPITEM_TXT_133023,The finest pickaxe that is used for mining ores. Mining success rate: 50%,采矿专用的工具。\n采矿成功率：50%。
 PROPITEM_TXT_133024,Fishing Rod,普通鱼竿
-PROPITEM_TXT_133025,"A fishing rod that is used for fishing. Fishing success rate: 20%, chance of catching a large fish: 5%",钓鱼专用的工具。钓鱼成功率：40%，有5%几率钓到大鱼。
+PROPITEM_TXT_133025,"A fishing rod that is used for fishing. Fishing success rate: 20%, chance of catching a large fish: 5%",钓鱼专用的工具。\n钓鱼成功率：20%\n有5%几率钓到大鱼。
 PROPITEM_TXT_133026,Well-maintained Fishing Rod,精良鱼竿
-PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 30%, chance of catching a large fish: 6%",钓鱼专用的工具。钓鱼成功率：55%，有6%几率钓到大鱼。
+PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 30%, chance of catching a large fish: 6%",钓鱼专用的工具。\n钓鱼成功率：35%\n有6%几率钓到大鱼。
 PROPITEM_TXT_133028,New Fishing Rod,新式鱼竿
-PROPITEM_TXT_133029,"A new type of fishing rod that is used for fishing. Fishing success rate: 40%, chance of catching a large fish: 8%",钓鱼专用的工具。钓鱼成功率：70%，有8%几率钓到大鱼。
+PROPITEM_TXT_133029,"A new type of fishing rod that is used for fishing. Fishing success rate: 40%, chance of catching a large fish: 8%",钓鱼专用的工具。\n钓鱼成功率：40%\n有8%几率钓到大鱼。
 PROPITEM_TXT_133030,Finest Fishing Rod,终极鱼竿
-PROPITEM_TXT_133031,"The best fishing rod that is used for fishing. Fishing success rate: 50%, chance of catching a large fish: 10%",钓鱼专用的工具。钓鱼成功率：80%，有10%几率钓到大鱼。
+PROPITEM_TXT_133031,"The best fishing rod that is used for fishing. Fishing success rate: 50%, chance of catching a large fish: 10%",钓鱼专用的工具。\n钓鱼成功率：50%\n有10%几率钓到大鱼。
 PROPITEM_TXT_133032,Lowest-class Bait,廉价鱼饵
 PROPITEM_TXT_133033,Very cheap bait. Can get common fish. Costs 1 durability.,非常便宜的诱饵。用其可以钓到普通的鱼。消耗1点耐久。
 PROPITEM_TXT_133034,Low-class Bait,普通鱼饵
-PROPITEM_TXT_133035,A very cheap bait. You can catch C-grade fish. (Consumes 1 durability),相对便宜的诱饵，用其可以钓到普通～罕见的鱼。消耗3点耐久。
+PROPITEM_TXT_133035,A very cheap bait. You can catch C-grade fish. (Consumes 1 durability),相对便宜的诱饵，用其可以钓到C级鱼。消耗1点耐久。
 PROPITEM_TXT_133036,Middle-class Bait,中阶鱼饵
-PROPITEM_TXT_133037,A fairly decent bait. You can catch B-grade fish. (Consumes 5 durability),用起来还行的诱饵，用其可以钓到普通～稀有的鱼。消耗5点耐久。
+PROPITEM_TXT_133037,A fairly decent bait. You can catch B-grade fish. (Consumes 5 durability),用起来还行的诱饵，用其可以钓到B级鱼。消耗5点耐久。
 PROPITEM_TXT_133038,Upper-class Bait,上等鱼饵
-PROPITEM_TXT_133039,A bait made from high-quality materials. You can catch A-grade fish. (Consumes 7 durability),上等原料制成的鱼饵。用其可以钓到普通~非常稀有的鱼。消耗7点耐久。
+PROPITEM_TXT_133039,A bait made from high-quality materials. You can catch A-grade fish. (Consumes 7 durability),上等原料制成的鱼饵。用其可以钓到A级鱼。消耗7点耐久。
 PROPITEM_TXT_133040,High-class Bait,终极鱼饵
 PROPITEM_TXT_133041,A bait made with the finest material. Can get uncommon~very rare fish. Costs 10 durability.,顶级原料制成的鱼饵。用其可以钓到罕见的~非常稀有的鱼。消耗10点耐久。
 PROPITEM_TXT_133042,Repair Hammer,维修锤
@@ -17786,7 +17786,7 @@ PROPITEM_TXT_133403,Mayonnaise (C),蛋黄酱 (C)
 PROPITEM_TXT_133404,Sauce made from egg. You can use it in various dishes.,由鸡蛋制成的酱料。可用于多种菜肴。
 PROPITEM_TXT_133405,Cooked Rice (D),米饭 (D)
 PROPITEM_TXT_133406,Cooked Rice (C),米饭 (C)
-PROPITEM_TXT_133407,A dish made by boiling rice in water.,用水煮制米饭做成的食物。
+PROPITEM_TXT_133407,A dish made by boiling rice in water.,用水煮制大米做成的食物。
 PROPITEM_TXT_133408,Fish Sauce (D),鱼露 (D)
 PROPITEM_TXT_133409,Fish Sauce (C),鱼露 (C)
 PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,由鱼制成的酱料。可用于多种菜肴。
@@ -19016,18 +19016,18 @@ PROPITEM_TXT_134633,Eighth Refresher (A+),A+特级魔法药剂(中)
 PROPITEM_TXT_134634,MP 683 Recovery,MP恢复683
 PROPITEM_TXT_134635,Enduky +4,冰晶活力项链 +4
 PROPITEM_TXT_134636,Enduky +5,冰晶活力项链 +5
-PROPITEM_TXT_134637,Handmade Silver Ring (C),工匠大师级银戒 (C)
-PROPITEM_TXT_134638,Handmade Silver Ring (B),手作银戒 (B)
-PROPITEM_TXT_134639,Handmade Silver Ring (A),手作银戒 (A)
-PROPITEM_TXT_134640,Handmade Gold Ring (C),手作金戒 (C)
-PROPITEM_TXT_134641,Handmade Gold Ring (B),手作金戒 (B)
-PROPITEM_TXT_134642,Handmade Gold Ring (A),手作金戒 (A)
-PROPITEM_TXT_134643,Handmade Platinum Ring (C),手作铂金戒 (C)
-PROPITEM_TXT_134644,Handmade Platinum Ring (B),手作铂金戒 (B)
-PROPITEM_TXT_134645,Handmade Platinum Ring (A),手作铂金戒 (A)
-PROPITEM_TXT_134646,Handmade Diamond Ring (C),手作钻戒 (C)
-PROPITEM_TXT_134647,Handmade Diamond Ring (B),手作钻戒 (B)
-PROPITEM_TXT_134648,Handmade Diamond Ring (A),手作钻戒 (A)
+PROPITEM_TXT_134637,Handmade Silver Ring (C),手工银戒 (C)
+PROPITEM_TXT_134638,Handmade Silver Ring (B),手工银戒 (B)
+PROPITEM_TXT_134639,Handmade Silver Ring (A),手工银戒 (A)
+PROPITEM_TXT_134640,Handmade Gold Ring (C),手工金戒 (C)
+PROPITEM_TXT_134641,Handmade Gold Ring (B),手工金戒 (B)
+PROPITEM_TXT_134642,Handmade Gold Ring (A),手工金戒 (A)
+PROPITEM_TXT_134643,Handmade Platinum Ring (C),手工铂金戒 (C)
+PROPITEM_TXT_134644,Handmade Platinum Ring (B),手工铂金戒 (B)
+PROPITEM_TXT_134645,Handmade Platinum Ring (A),手工铂金戒 (A)
+PROPITEM_TXT_134646,Handmade Diamond Ring (C),手工钻戒 (C)
+PROPITEM_TXT_134647,Handmade Diamond Ring (B),手工钻戒 (B)
+PROPITEM_TXT_134648,Handmade Diamond Ring (A),手工钻戒 (A)
 PROPITEM_TXT_134649,Power Vital Drink (D),D级活力多
 PROPITEM_TXT_134650,Power Vital Drink (C),C级活力多
 PROPITEM_TXT_134651,Power Vital Drink (B),B级活力多
@@ -19598,8 +19598,8 @@ PROPITEM_TXT_144040,Aha Emote,啊哈
 PROPITEM_TXT_144041,Provoke Emote,挑衅
 PROPITEM_TXT_144042,Surprised Emote,惊讶
 PROPITEM_TXT_144043,Look Around Emote,环顾四周
-PROPITEM_TXT_201001,5th grade Jewel Selection Box,5th grade Jewel Selection Box
-PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,You can select 1 out of total 7 5th grade ultimate weapon jewels.
+PROPITEM_TXT_201001,5th grade Jewel Selection Box,5级终极宝石自选箱
+PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,包含总共七种不同类型的终极宝石，您可以从中选择一种获得一个。
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,A级穿洞卡幸运箱
 PROPITEM_TXT_201004,You can get 1 random grade A piercing card.,你可以随机获得1张A级穿洞卡牌。
 PROPITEM_TXT_201005,Fishball Select Box,鱼丸自选箱
@@ -19865,13 +19865,13 @@ PROPITEM_TXT_144152,Final reward for the Christmas Invasion!\nYou can earn 1 202
 PROPITEM_TXT_144153,Blue Cobra,蓝眼镜蛇
 PROPITEM_TXT_144154,A Cobra that follows its master around and picks up dropped items,一只眼镜蛇跟随它的主人并捡起周围掉落的物品。
 PROPITEM_TXT_144155,2025 Red Rice Cake Soup,2025 Red Rice Cake Soup
-PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,This soup made of rice cake will grant you +25 STR for 30 minutes.
+PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,食用后力量+23，持续30分钟。
 PROPITEM_TXT_144157,2025 Green Rice Cake Soup,2025 Green Rice Cake Soup
-PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,This soup made of rice cake will grant you +25 DEX for 30 minutes.
+PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,食用后敏捷+23，持续30分钟。
 PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,2025 Blue Rice Cake Soup
-PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,This soup made of rice cake will grant you +25 INT for 30 minutes.
+PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,食用后智力+23，持续30分钟。
 PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,2025 Yellow Rice Cake Soup
-PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,This soup made of rice cake will grant you +25 STA for 30 minutes.
+PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,食用后体质+23，持续30分钟。
 PROPITEM_TXT_826335,Xmas 2024 White Edition 10% Red Set,2024红色圣诞白套装 10% 移速
 PROPITEM_TXT_826336,Xmas 2024 White Edition Red Wings,2024红色圣诞白翅膀
 PROPITEM_TXT_826337,Xmas 2024 White Edition Red Sunglasses,2024红色圣诞白太阳镜
@@ -20324,7 +20324,7 @@ PROPITEM_TXT_826769,This box contains a Northern Warrior Set with Speed Bonus. Y
 PROPITEM_TXT_826770,Red Northern Dragon,北境红龙
 PROPITEM_TXT_826771,Purple Northern Dragon,北境黯龙
 PROPITEM_TXT_826772,Ice Northern Dragon,北境冰龙
-PROPITEM_TXT_826773,"Soar through the clouds with fiery grace! Roaring optional, awe guaranteed! Maximum Speed: 64 km/h.",以烈焰般的优雅翱翔云端！咆哮随意，惊叹保证！最高速度：64 公里/小时。
+PROPITEM_TXT_826773,"Soar through the clouds with fiery grace! Roaring optional, awe guaranteed! Maximum Speed: 64 km/h.",以烈焰般的优雅翱翔云端！巨龙肆意咆哮，震撼十足！最高速度：64 公里/小时。
 PROPITEM_TXT_826774,Northern Warrior 10% Black Set,黑色北境战士套装 10% 移速
 PROPITEM_TXT_826775,Northern Warrior Black Cloak,黑色北境战士披风
 PROPITEM_TXT_826776,Snake Samurai Green Set,绿色蛇武士套装
@@ -21554,11 +21554,11 @@ PROPITEM_TXT_828024,The Cyberpunk 2025 2% White Set for female characters.,女�
 PROPITEM_TXT_828025,Cyberpunk 2025 Costume Lucky Box,赛博朋克套装幸运箱
 PROPITEM_TXT_828026,This box contains a Cyberpunk 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的赛博朋克套装。你可以在开启后选择套装性别。
 PROPITEM_TXT_828027,Pink 2025 Cyberpunk Bike,2025粉色赛博摩托
-PROPITEM_TXT_828028,Cruise through neon-lit streets in style! Futuristic speed meets bold elegance! Maximum Speed: 64 km/h.,以非凡的风格巡航在霓虹街道上！未来感的速度遇上大胆的优雅！最高速度：64 公里/小时。
+PROPITEM_TXT_828028,Cruise through neon-lit streets in style! Futuristic speed meets bold elegance! Maximum Speed: 64 km/h.,以非凡的身影穿梭于霓虹街道上！充满未来感的风姿，张扬而不失内涵 ！\n最高速度：64 公里/小时。
 PROPITEM_TXT_828029,Green 2025 Cyberpunk Bike,2025绿色赛博摩托
-PROPITEM_TXT_828030,Ride into the future with electrifying energy! A cybernetic masterpiece on two wheels! Maximum Speed: 64 km/h.,带着电力十足的能量驶向未来！这是两轮上的赛博杰作！最高速度：64 公里/小时。
+PROPITEM_TXT_828030,Ride into the future with electrifying energy! A cybernetic masterpiece on two wheels! Maximum Speed: 64 km/h.,满载充能，驶向未来！这绝对是两轮载具中的赛博杰作！\n最高速度：64 公里/小时。
 PROPITEM_TXT_828031,Blue 2025 Cyberpunk Bike,2025蓝色赛博摩托
-PROPITEM_TXT_828032,"Glide through the city like a digital ghost! Sleek, swift, and undeniably futuristic! Maximum Speed: 64 km/h.",像数字幽灵般滑过城市！流畅、迅捷，未来感无可否认！最高速度：64 公里/小时。
+PROPITEM_TXT_828032,"Glide through the city like a digital ghost! Sleek, swift, and undeniably futuristic! Maximum Speed: 64 km/h.",像电子幽灵般掠过城市！轻盈而迅捷，未来感十足！\n最高速度：64 公里/小时。
 PROPITEM_TXT_828033,Charming Babushka Doll Pack,可爱套娃包
 PROPITEM_TXT_828034,"A package containing 1x Scroll of Pickup Boost (15 Days), 1x Charming Babushka Doll and 1x Scroll of Pickup Range (15 Days). All items are also linked.","包含 1x 捡宠加速卷轴 (15天), 1x 可爱的套娃以及1x 捡宠视野卷轴 (15天)。所有道具均为绑定。"
 PROPITEM_TXT_828035,15 Days Party Scroll Package,15天剧团卷轴礼包
@@ -21818,16 +21818,16 @@ PROPITEM_TXT_828288,Easter Rabbit 2025 2% Rainbow Set (F),2025彩虹复活节兔
 PROPITEM_TXT_828289,The Easter Rabbit 2025 2% Rainbow Set for female characters.,女性2025彩虹复活节兔子套装 2% 移速。
 PROPITEM_TXT_828290,Easter Rabbit 2025 Costume Lucky Box,复活节兔子套装幸运箱
 PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的复活节兔子套装。你可以在开启后选择套装性别。
-PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,2025 FWC 黄金卢萨卡水晶斧
-PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,2025 FWC 黄金卢萨卡水晶弓
-PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,2025 FWC 黄金卢萨卡水晶拳
-PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,2025 FWC 黄金卢萨卡水晶法杖
-PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,2025 FWC 黄金卢萨卡水晶魔棒
-PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,2025 FWC 黄金卢萨卡水晶剑
-PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,2025 FWC 黄金卢萨卡水晶双手斧
-PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,2025 FWC 黄金卢萨卡水晶巨剑
-PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,2025 FWC 黄金卢萨卡水晶魔杖
-PROPITEM_TXT_900009,2025 FWC Golden Lusaka's Crystal Yo-Yo,2025 FWC 黄金卢萨卡水晶飞轮
+PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,FWC黄金卢萨卡水晶斧
+PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,FWC黄金卢萨卡水晶弓
+PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,FWC黄金卢萨卡水晶拳
+PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,FWC黄金卢萨卡水晶法杖
+PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,FWC黄金卢萨卡水晶魔棒
+PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,FWC黄金卢萨卡水晶剑
+PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,FWC黄金卢萨卡水晶双手斧
+PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,FWC黄金卢萨卡水晶巨剑
+PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,FWC黄金卢萨卡水晶魔杖
+PROPITEM_TXT_900009,2025 FWC Golden Lusaka's Crystal Yo-Yo,FWC黄金卢萨卡水晶飞轮
 PROPITEM_TXT_828300,Android Level 15 Reward Box,Android Level 15 Reward Box
 PROPITEM_TXT_828301,"A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES, 5x Scroll of Return town and 10x Scroll of Sprint. All items are also linked.","A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES, 5x Scroll of Return town and 10x Scroll of Sprint. All items are also linked."
 PROPITEM_TXT_828302,Android Level 30 Reward Box,Android Level 30 Reward Box
@@ -23245,7 +23245,7 @@ PROPITEM_TXT_901403,Rose Pink Yukata (M) Costume Set,玫瑰粉和服 (男) 时�
 PROPITEM_TXT_901404,The Rose Pink Yukata Set for male characters.,男性玫瑰粉和服套装。
 PROPITEM_TXT_901405,Rose Pink Yukata (F) Costume Set,玫瑰粉和服 (女) 时装套装
 PROPITEM_TXT_901406,The Rose Pink Yukata Set for female characters.,女性玫瑰粉和服套装。
-PROPITEM_TXT_134812,FWC Coin,FWC Coin
+PROPITEM_TXT_134812,FWC Coin,FWC币
 PROPITEM_TXT_134813,Betting currency,竞猜用的筹码
 PROPITEM_TXT_134814,2025 FWC Championship Pass,2025 FWC Championship Pass
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season
@@ -26590,7 +26590,7 @@ PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can 
 PROPITEM_TXT_903679,Yellow Nala,黄色娜拉
 PROPITEM_TXT_903680,White Nala,白色娜拉
 PROPITEM_TXT_903681,Blue Nala,蓝色娜拉
-PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.",娜拉满怀炽热热忱、无畏决意向前奔袭。生性热忱大于审慎，这只条纹伴兽携骑手奔赴冒险，活力无双，忠心不渝。最高速度：64 公里 / 小时。
+PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.",娜拉满怀热忱，无畏向前奔袭。生性热忱而审慎，这只条纹伴兽携骑手奔赴冒险，活力无双，忠心不渝。\n最高速度：64 公里 / 小时。
 PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 Support Kit]
 PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. "
 PROPITEM_TXT_903685,Extra Bag (7 days),扩展背包(7天)
@@ -26605,81 +26605,81 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,玫瑰粉和服时�
 PROPITEM_TXT_903694,Select which Gender you want to receive!,选择你需要的套装性别！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[Event] 2026 Spring Gift Box
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),Madrigal Flying Selection Box (15 days)
-PROPITEM_TXT_155829,2026 FWC Golden Curtana,2026 FWC 黄金慈悲之剑
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,2026 FWC 黄金天界裁断
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,2026 FWC 黄金血腥盛宴
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger,2026 FWC 黄金终焉处决
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,2026 FWC 黄金审判之噬
-PROPITEM_TXT_155834,2026 FWC Golden Oracle,2026 FWC 黄金神谕
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,2026 FWC 黄金混沌神权
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,2026 FWC 黄金创世残脉
-PROPITEM_TXT_155837,2026 FWC Golden Dementia,2026 FWC 黄金谵妄
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,2026 FWC 黄金龙霖
-PROPITEM_TXT_155839,2026 FWC Golden K Fang,2026 FWC 黄金祭血獠牙
-PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,2026 FWC 黄金伦希勒圣辉帽子
-PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,2026 FWC 黄金伦希勒圣辉上衣
-PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,2026 FWC 黄金伦希勒圣辉手套
-PROPITEM_TXT_155843,2026 FWC Golden Runthiel Boots,2026 FWC 黄金伦希勒圣辉鞋子
-PROPITEM_TXT_155844,2026 FWC Golden Runthien Helmet,2026 FWC 黄金伦希恩圣契帽子
-PROPITEM_TXT_155845,2026 FWC Golden Runthien Suit,2026 FWC 黄金伦希恩圣契上衣
-PROPITEM_TXT_155846,2026 FWC Golden Runthien Gauntlets,2026 FWC 黄金伦希恩圣契手套
-PROPITEM_TXT_155847,2026 FWC Golden Runthien Boots,2026 FWC 黄金伦希恩圣契鞋子
-PROPITEM_TXT_155848,2026 FWC Golden Zaythor Helmet,2026 FWC 黄金裁罪炽铠帽子
-PROPITEM_TXT_155849,2026 FWC Golden Zaythor Suit,2026 FWC 黄金裁罪炽铠上衣
-PROPITEM_TXT_155850,2026 FWC Golden Zaythor Gauntlets,2026 FWC 黄金裁罪炽铠手套
-PROPITEM_TXT_155851,2026 FWC Golden Zaythor Boots,2026 FWC 黄金裁罪炽铠鞋子
-PROPITEM_TXT_155852,2026 FWC Golden Zaythar Helmet,2026 FWC 黄金裁罪炽曜帽子
-PROPITEM_TXT_155853,2026 FWC Golden Zaythar Suit,2026 FWC 黄金裁罪炽曜上衣
-PROPITEM_TXT_155854,2026 FWC Golden Zaythar Gauntlets,2026 FWC 黄金裁罪炽曜手套
-PROPITEM_TXT_155855,2026 FWC Golden Zaythar Boots,2026 FWC 黄金裁罪炽曜鞋子
-PROPITEM_TXT_155856,2026 FWC Golden Chyrelle Helmet,2026 FWC 黄金绮璃圣辉帽子
-PROPITEM_TXT_155857,2026 FWC Golden Chyrelle Suit,2026 FWC 黄金绮璃圣辉上衣
-PROPITEM_TXT_155858,2026 FWC Golden Chyrelle Gauntlets,2026 FWC 黄金绮璃圣辉手套
-PROPITEM_TXT_155859,2026 FWC Golden Chyrelle Boots,2026 FWC 黄金绮璃圣辉鞋子
-PROPITEM_TXT_155860,2026 FWC Golden Chyrella Helmet,2026 FWC 黄金绮璃灵裳帽子
-PROPITEM_TXT_155861,2026 FWC Golden Chyrella Suit,2026 FWC 黄金绮璃灵裳上衣
-PROPITEM_TXT_155862,2026 FWC Golden Chyrella Gauntlets,2026 FWC 黄金绮璃灵裳手套
-PROPITEM_TXT_155863,2026 FWC Golden Chyrella Boots,2026 FWC 黄金绮璃灵裳鞋子
-PROPITEM_TXT_155864,2026 FWC Golden Lenvire Helmet,2026 FWC 黄金岚薇幻铠帽子
-PROPITEM_TXT_155865,2026 FWC Golden Lenvire Suit,2026 FWC 黄金岚薇幻铠上衣
-PROPITEM_TXT_155866,2026 FWC Golden Lenvire Gauntlets,2026 FWC 黄金岚薇幻铠手套
-PROPITEM_TXT_155867,2026 FWC Golden Lenvire Boots,2026 FWC 黄金岚薇幻铠鞋子
-PROPITEM_TXT_155868,2026 FWC Golden Lenvira Helmet,2026 FWC 黄金岚薇幻羽帽子
-PROPITEM_TXT_155869,2026 FWC Golden Lenvira Suit,2026 FWC 黄金岚薇幻羽上衣
-PROPITEM_TXT_155870,2026 FWC Golden Lenvira Gauntlets,2026 FWC 黄金岚薇幻羽手套
-PROPITEM_TXT_155871,2026 FWC Golden Lenvira Boots,2026 FWC 黄金岚薇幻羽鞋子
-PROPITEM_TXT_155872,2026 FWC Golden Etranor Helmet,2026 FWC 黄金伊特诺圣铠帽子
-PROPITEM_TXT_155873,2026 FWC Golden Etranor Suit,2026 FWC 黄金伊特诺圣铠上衣
-PROPITEM_TXT_155874,2026 FWC Golden Etranor Gauntlets,2026 FWC 黄金伊特诺圣铠手套
-PROPITEM_TXT_155875,2026 FWC Golden Etranor Boots,2026 FWC 黄金伊特诺圣铠鞋子
-PROPITEM_TXT_155876,2026 FWC Golden Etranar Helmet,2026 FWC 黄金伊特纳尔圣铠帽子
-PROPITEM_TXT_155877,2026 FWC Golden Etranar Suit,2026 FWC 黄金伊特纳尔圣铠上衣
-PROPITEM_TXT_155878,2026 FWC Golden Etranar Gauntlets,2026 FWC 黄金伊特纳尔圣铠手套
-PROPITEM_TXT_155879,2026 FWC Golden Etranar Boots,2026 FWC 黄金伊特纳尔圣铠鞋子
-PROPITEM_TXT_155880,2026 FWC Golden Kevric Helmet,2026 FWC 黄金凯夫里克帽子
-PROPITEM_TXT_155881,2026 FWC Golden Kevric Suit,2026 FWC 黄金凯夫里克上衣
-PROPITEM_TXT_155882,2026 FWC Golden Kevric Gauntlets,2026 FWC 黄金凯夫里克手套
-PROPITEM_TXT_155883,2026 FWC Golden Kevric Boots,2026 FWC 黄金凯夫里克鞋子
-PROPITEM_TXT_155884,2026 FWC Golden Kevricar Helmet,2026 FWC 黄金凯夫里卡尔帽子
-PROPITEM_TXT_155885,2026 FWC Golden Kevricar Suit,2026 FWC 黄金凯夫里卡尔上衣
-PROPITEM_TXT_155886,2026 FWC Golden Kevricar Gauntlets,2026 FWC 黄金凯夫里卡尔手套
-PROPITEM_TXT_155887,2026 FWC Golden Kevricar Boots,2026 FWC 黄金凯夫里卡尔鞋子
-PROPITEM_TXT_155888,2026 FWC Golden Ustamel Helmet,2026 FWC 黄金乌斯塔梅尔帽子
-PROPITEM_TXT_155889,2026 FWC Golden Ustamel Suit,2026 FWC 黄金乌斯塔梅尔上衣
-PROPITEM_TXT_155890,2026 FWC Golden Ustamel Gauntlets,2026 FWC 黄金乌斯塔梅尔手套
-PROPITEM_TXT_155891,2026 FWC Golden Ustamel Boots,2026 FWC 黄金乌斯塔梅尔鞋子
-PROPITEM_TXT_155892,2026 FWC Golden Ustamen Helmet,2026 FWC 黄金乌斯塔门帽子
-PROPITEM_TXT_155893,2026 FWC Golden Ustamen Suit,2026 FWC 黄金乌斯塔门上衣
-PROPITEM_TXT_155894,2026 FWC Golden Ustamen Gauntlets,2026 FWC 黄金乌斯塔门手套
-PROPITEM_TXT_155895,2026 FWC Golden Ustamen Boots,2026 FWC 黄金乌斯塔门鞋子
-PROPITEM_TXT_155896,2026 FWC Golden Virashon Helmet,2026 FWC 黄金维拉雄帽子
-PROPITEM_TXT_155897,2026 FWC Golden Virashon Suit,2026 FWC 黄金维拉雄上衣
-PROPITEM_TXT_155898,2026 FWC Golden Virashon Gauntlets,2026 FWC 黄金维拉雄手套
-PROPITEM_TXT_155899,2026 FWC Golden Virashon Boots,2026 FWC 黄金维拉雄鞋子
-PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,2026 FWC 黄金维拉尚帽子
-PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,2026 FWC 黄金维拉尚上衣
-PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,2026 FWC 黄金维拉尚手套
-PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,2026 FWC 黄金维拉尚鞋子
+PROPITEM_TXT_155829,2026 FWC Golden Curtana,FWC黄金慈悲之剑
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,FWC黄金天界裁断
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,FWC黄金血腥盛宴
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger,FWC黄金终焉处决
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,FWC黄金审判之噬
+PROPITEM_TXT_155834,2026 FWC Golden Oracle,FWC黄金神谕
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,FWC黄金混沌神权
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,FWC黄金创世残脉
+PROPITEM_TXT_155837,2026 FWC Golden Dementia,FWC黄金谵妄
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,FWC黄金龙霖
+PROPITEM_TXT_155839,2026 FWC Golden K Fang,FWC黄金祭血獠牙
+PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,FWC黄金伦希勒圣辉帽子
+PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,FWC黄金伦希勒圣辉上衣
+PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,FWC黄金伦希勒圣辉手套
+PROPITEM_TXT_155843,2026 FWC Golden Runthiel Boots,FWC黄金伦希勒圣辉鞋子
+PROPITEM_TXT_155844,2026 FWC Golden Runthien Helmet,FWC黄金伦希恩圣契帽子
+PROPITEM_TXT_155845,2026 FWC Golden Runthien Suit,FWC黄金伦希恩圣契上衣
+PROPITEM_TXT_155846,2026 FWC Golden Runthien Gauntlets,FWC黄金伦希恩圣契手套
+PROPITEM_TXT_155847,2026 FWC Golden Runthien Boots,FWC黄金伦希恩圣契鞋子
+PROPITEM_TXT_155848,2026 FWC Golden Zaythor Helmet,FWC黄金裁罪炽铠帽子
+PROPITEM_TXT_155849,2026 FWC Golden Zaythor Suit,FWC黄金裁罪炽铠上衣
+PROPITEM_TXT_155850,2026 FWC Golden Zaythor Gauntlets,FWC黄金裁罪炽铠手套
+PROPITEM_TXT_155851,2026 FWC Golden Zaythor Boots,FWC黄金裁罪炽铠鞋子
+PROPITEM_TXT_155852,2026 FWC Golden Zaythar Helmet,FWC黄金裁罪炽曜帽子
+PROPITEM_TXT_155853,2026 FWC Golden Zaythar Suit,FWC黄金裁罪炽曜上衣
+PROPITEM_TXT_155854,2026 FWC Golden Zaythar Gauntlets,FWC黄金裁罪炽曜手套
+PROPITEM_TXT_155855,2026 FWC Golden Zaythar Boots,FWC黄金裁罪炽曜鞋子
+PROPITEM_TXT_155856,2026 FWC Golden Chyrelle Helmet,FWC黄金绮璃圣辉帽子
+PROPITEM_TXT_155857,2026 FWC Golden Chyrelle Suit,FWC黄金绮璃圣辉上衣
+PROPITEM_TXT_155858,2026 FWC Golden Chyrelle Gauntlets,FWC黄金绮璃圣辉手套
+PROPITEM_TXT_155859,2026 FWC Golden Chyrelle Boots,FWC黄金绮璃圣辉鞋子
+PROPITEM_TXT_155860,2026 FWC Golden Chyrella Helmet,FWC黄金绮璃灵裳帽子
+PROPITEM_TXT_155861,2026 FWC Golden Chyrella Suit,FWC黄金绮璃灵裳上衣
+PROPITEM_TXT_155862,2026 FWC Golden Chyrella Gauntlets,FWC黄金绮璃灵裳手套
+PROPITEM_TXT_155863,2026 FWC Golden Chyrella Boots,FWC黄金绮璃灵裳鞋子
+PROPITEM_TXT_155864,2026 FWC Golden Lenvire Helmet,FWC黄金岚薇幻铠帽子
+PROPITEM_TXT_155865,2026 FWC Golden Lenvire Suit,FWC黄金岚薇幻铠上衣
+PROPITEM_TXT_155866,2026 FWC Golden Lenvire Gauntlets,FWC黄金岚薇幻铠手套
+PROPITEM_TXT_155867,2026 FWC Golden Lenvire Boots,FWC黄金岚薇幻铠鞋子
+PROPITEM_TXT_155868,2026 FWC Golden Lenvira Helmet,FWC黄金岚薇幻羽帽子
+PROPITEM_TXT_155869,2026 FWC Golden Lenvira Suit,FWC黄金岚薇幻羽上衣
+PROPITEM_TXT_155870,2026 FWC Golden Lenvira Gauntlets,FWC黄金岚薇幻羽手套
+PROPITEM_TXT_155871,2026 FWC Golden Lenvira Boots,FWC黄金岚薇幻羽鞋子
+PROPITEM_TXT_155872,2026 FWC Golden Etranor Helmet,FWC黄金伊特诺圣铠帽子
+PROPITEM_TXT_155873,2026 FWC Golden Etranor Suit,FWC黄金伊特诺圣铠上衣
+PROPITEM_TXT_155874,2026 FWC Golden Etranor Gauntlets,FWC黄金伊特诺圣铠手套
+PROPITEM_TXT_155875,2026 FWC Golden Etranor Boots,FWC黄金伊特诺圣铠鞋子
+PROPITEM_TXT_155876,2026 FWC Golden Etranar Helmet,FWC黄金伊特纳尔圣铠帽子
+PROPITEM_TXT_155877,2026 FWC Golden Etranar Suit,FWC黄金伊特纳尔圣铠上衣
+PROPITEM_TXT_155878,2026 FWC Golden Etranar Gauntlets,FWC黄金伊特纳尔圣铠手套
+PROPITEM_TXT_155879,2026 FWC Golden Etranar Boots,FWC黄金伊特纳尔圣铠鞋子
+PROPITEM_TXT_155880,2026 FWC Golden Kevric Helmet,FWC黄金凯夫里克帽子
+PROPITEM_TXT_155881,2026 FWC Golden Kevric Suit,FWC黄金凯夫里克上衣
+PROPITEM_TXT_155882,2026 FWC Golden Kevric Gauntlets,FWC黄金凯夫里克手套
+PROPITEM_TXT_155883,2026 FWC Golden Kevric Boots,FWC黄金凯夫里克鞋子
+PROPITEM_TXT_155884,2026 FWC Golden Kevricar Helmet,FWC黄金凯夫里卡尔帽子
+PROPITEM_TXT_155885,2026 FWC Golden Kevricar Suit,FWC黄金凯夫里卡尔上衣
+PROPITEM_TXT_155886,2026 FWC Golden Kevricar Gauntlets,FWC黄金凯夫里卡尔手套
+PROPITEM_TXT_155887,2026 FWC Golden Kevricar Boots,FWC黄金凯夫里卡尔鞋子
+PROPITEM_TXT_155888,2026 FWC Golden Ustamel Helmet,FWC黄金乌斯塔梅尔帽子
+PROPITEM_TXT_155889,2026 FWC Golden Ustamel Suit,FWC黄金乌斯塔梅尔上衣
+PROPITEM_TXT_155890,2026 FWC Golden Ustamel Gauntlets,FWC黄金乌斯塔梅尔手套
+PROPITEM_TXT_155891,2026 FWC Golden Ustamel Boots,FWC黄金乌斯塔梅尔鞋子
+PROPITEM_TXT_155892,2026 FWC Golden Ustamen Helmet,FWC黄金乌斯塔门帽子
+PROPITEM_TXT_155893,2026 FWC Golden Ustamen Suit,FWC黄金乌斯塔门上衣
+PROPITEM_TXT_155894,2026 FWC Golden Ustamen Gauntlets,FWC黄金乌斯塔门手套
+PROPITEM_TXT_155895,2026 FWC Golden Ustamen Boots,FWC黄金乌斯塔门鞋子
+PROPITEM_TXT_155896,2026 FWC Golden Virashon Helmet,FWC黄金维拉雄帽子
+PROPITEM_TXT_155897,2026 FWC Golden Virashon Suit,FWC黄金维拉雄上衣
+PROPITEM_TXT_155898,2026 FWC Golden Virashon Gauntlets,FWC黄金维拉雄手套
+PROPITEM_TXT_155899,2026 FWC Golden Virashon Boots,FWC黄金维拉雄鞋子
+PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,FWC黄金维拉尚帽子
+PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,FWC黄金维拉尚上衣
+PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,FWC黄金维拉尚手套
+PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,FWC黄金维拉尚鞋子
 PROPITEM_TXT_903695,FWC Convenience Pack,FWC便利品礼包
 PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","包含10x 万能翅膀, 10x 迅捷卷轴, 5x 复活卷轴, 5x 无敌技能卷, 3x 药水选择性，以及5x 无敌活力多或魔力多。所有道具均为绑定。"
 PROPITEM_TXT_903697,FWC Hunter's Pack,FWC狩猎礼包
@@ -29114,70 +29114,70 @@ PROPITEM_TXT_906048,Forest Pocket Shinobi,森林绿袖珍忍者
 PROPITEM_TXT_906049,White Pocket Shinobi,白色袖珍忍者
 PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,日本勇士套装幸运箱
 PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的日本勇士套装。你可以在开启后选择套装性别。
-PROPITEM_TXT_161000,Primordial Runthiel Helmet,Primordial Runthiel Helmet
-PROPITEM_TXT_161001,Primordial Runthiel Suit,Primordial Runthiel Suit
-PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,Primordial Runthiel Gauntlets
-PROPITEM_TXT_161003,Primordial Runthiel Boots,Primordial Runthiel Boots
-PROPITEM_TXT_161004,Primordial Runthien Helmet,Primordial Runthien Helmet
-PROPITEM_TXT_161005,Primordial Runthien Suit,Primordial Runthien Suit
-PROPITEM_TXT_161006,Primordial Runthien Gauntlets,Primordial Runthien Gauntlets
-PROPITEM_TXT_161007,Primordial Runthien Boots,Primordial Runthien Boots
-PROPITEM_TXT_161008,Primordial Zaythor Helmet,Primordial Zaythor Helmet
-PROPITEM_TXT_161009,Primordial Zaythor Suit,Primordial Zaythor Suit
-PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,Primordial Zaythor Gauntlets
-PROPITEM_TXT_161011,Primordial Zaythor Boots,Primordial Zaythor Boots
-PROPITEM_TXT_161012,Primordial Zaythar Helmet,Primordial Zaythar Helmet
-PROPITEM_TXT_161013,Primordial Zaythar Suit,Primordial Zaythar Suit
-PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,Primordial Zaythar Gauntlets
-PROPITEM_TXT_161015,Primordial Zaythar Boots,Primordial Zaythar Boots
-PROPITEM_TXT_161016,Primordial Chyrelle Helmet,Primordial Chyrelle Helmet
-PROPITEM_TXT_161017,Primordial Chyrelle Suit,Primordial Chyrelle Suit
-PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,Primordial Chyrelle Gauntlets
-PROPITEM_TXT_161019,Primordial Chyrelle Boots,Primordial Chyrelle Boots
-PROPITEM_TXT_161020,Primordial Chyrella Helmet,Primordial Chyrella Helmet
-PROPITEM_TXT_161021,Primordial Chyrella Suit,Primordial Chyrella Suit
-PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,Primordial Chyrella Gauntlets
-PROPITEM_TXT_161023,Primordial Chyrella Boots,Primordial Chyrella Boots
-PROPITEM_TXT_161024,Primordial Lenvire Helmet,Primordial Lenvire Helmet
-PROPITEM_TXT_161025,Primordial Lenvire Suit,Primordial Lenvire Suit
-PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,Primordial Lenvire Gauntlets
-PROPITEM_TXT_161027,Primordial Lenvire Boots,Primordial Lenvire Boots
-PROPITEM_TXT_161028,Primordial Lenvira Helmet,Primordial Lenvira Helmet
-PROPITEM_TXT_161029,Primordial Lenvira Suit,Primordial Lenvira Suit
-PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,Primordial Lenvira Gauntlets
-PROPITEM_TXT_161031,Primordial Lenvira Boots,Primordial Lenvira Boots
-PROPITEM_TXT_161032,Primordial Etranor Helmet,Primordial Etranor Helmet
-PROPITEM_TXT_161033,Primordial Etranor Suit,Primordial Etranor Suit
-PROPITEM_TXT_161034,Primordial Etranor Gauntlets,Primordial Etranor Gauntlets
-PROPITEM_TXT_161035,Primordial Etranor Boots,Primordial Etranor Boots
-PROPITEM_TXT_161036,Primordial Etranar Helmet,Primordial Etranar Helmet
-PROPITEM_TXT_161037,Primordial Etranar Suit,Primordial Etranar Suit
-PROPITEM_TXT_161038,Primordial Etranar Gauntlets,Primordial Etranar Gauntlets
-PROPITEM_TXT_161039,Primordial Etranar Boots,Primordial Etranar Boots
-PROPITEM_TXT_161040,Primordial Kevric Helmet,Primordial Kevric Helmet
-PROPITEM_TXT_161041,Primordial Kevric Suit,Primordial Kevric Suit
-PROPITEM_TXT_161042,Primordial Kevric Gauntlets,Primordial Kevric Gauntlets
-PROPITEM_TXT_161043,Primordial Kevric Boots,Primordial Kevric Boots
-PROPITEM_TXT_161044,Primordial Kevricar Helmet,Primordial Kevricar Helmet
-PROPITEM_TXT_161045,Primordial Kevricar Suit,Primordial Kevricar Suit
-PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,Primordial Kevricar Gauntlets
-PROPITEM_TXT_161047,Primordial Kevricar Boots,Primordial Kevricar Boots
-PROPITEM_TXT_161048,PvP Ustamel Helmet,PvP 乌斯塔梅尔帽子
-PROPITEM_TXT_161049,PvP Ustamel Suit,PvP 乌斯塔梅尔上衣
-PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvP 乌斯塔梅尔手套
-PROPITEM_TXT_161051,PvP Ustamel Boots,PvP 乌斯塔梅尔鞋子
-PROPITEM_TXT_161052,PvP Ustamen Helmet,PvP 乌斯塔门帽子
-PROPITEM_TXT_161053,PvP Ustamen Suit,PvP 乌斯塔门上衣
-PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvP 乌斯塔门手套
-PROPITEM_TXT_161055,PvP Ustamen Boots,PvP 乌斯塔门鞋子
-PROPITEM_TXT_161056,PvP Virashon Helmet,PvP 维拉雄帽子
-PROPITEM_TXT_161057,PvP Virashon Suit,PvP 维拉雄上衣
-PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvP 维拉雄手套
-PROPITEM_TXT_161059,PvP Virashon Boots,PvP 维拉雄鞋子
-PROPITEM_TXT_161060,PvP Verashan Helmet,PvP 维拉尚帽子
-PROPITEM_TXT_161061,PvP Verashan Suit,PvP 维拉尚上衣
-PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvP 维拉尚手套
-PROPITEM_TXT_161063,PvP Verashan Boots,PvP 维拉尚鞋子
+PROPITEM_TXT_161000,Primordial Runthiel Helmet,PvP伦希勒圣辉帽子
+PROPITEM_TXT_161001,Primordial Runthiel Suit,PvP伦希勒圣辉上衣
+PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,PvP伦希勒圣辉手套
+PROPITEM_TXT_161003,Primordial Runthiel Boots,PvP伦希勒圣辉鞋子
+PROPITEM_TXT_161004,Primordial Runthien Helmet,PvP伦希恩圣契帽子
+PROPITEM_TXT_161005,Primordial Runthien Suit,PvP伦希恩圣契上衣
+PROPITEM_TXT_161006,Primordial Runthien Gauntlets,PvP伦希恩圣契手套
+PROPITEM_TXT_161007,Primordial Runthien Boots,PvP伦希恩圣契鞋子
+PROPITEM_TXT_161008,Primordial Zaythor Helmet,PvP裁罪炽铠帽子
+PROPITEM_TXT_161009,Primordial Zaythor Suit,PvP裁罪炽铠上衣
+PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,PvP裁罪炽铠手套
+PROPITEM_TXT_161011,Primordial Zaythor Boots,PvP裁罪炽铠鞋子
+PROPITEM_TXT_161012,Primordial Zaythar Helmet,PvP裁罪炽曜帽子
+PROPITEM_TXT_161013,Primordial Zaythar Suit,PvP裁罪炽曜上衣
+PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,PvP裁罪炽曜手套
+PROPITEM_TXT_161015,Primordial Zaythar Boots,PvP裁罪炽曜鞋子
+PROPITEM_TXT_161016,Primordial Chyrelle Helmet,PvP绮璃圣辉帽子
+PROPITEM_TXT_161017,Primordial Chyrelle Suit,PvP绮璃圣辉上衣
+PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,PvP绮璃圣辉手套
+PROPITEM_TXT_161019,Primordial Chyrelle Boots,PvP绮璃圣辉鞋子
+PROPITEM_TXT_161020,Primordial Chyrella Helmet,PvP绮璃灵裳帽子
+PROPITEM_TXT_161021,Primordial Chyrella Suit,PvP绮璃灵裳上衣
+PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,PvP绮璃灵裳手套
+PROPITEM_TXT_161023,Primordial Chyrella Boots,PvP绮璃灵裳鞋子
+PROPITEM_TXT_161024,Primordial Lenvire Helmet,PvP岚薇幻铠帽子
+PROPITEM_TXT_161025,Primordial Lenvire Suit,PvP岚薇幻铠上衣
+PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,PvP岚薇幻铠手套
+PROPITEM_TXT_161027,Primordial Lenvire Boots,PvP岚薇幻铠鞋子
+PROPITEM_TXT_161028,Primordial Lenvira Helmet,PvP岚薇幻羽帽子
+PROPITEM_TXT_161029,Primordial Lenvira Suit,PvP岚薇幻羽上衣
+PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,PvP岚薇幻羽手套
+PROPITEM_TXT_161031,Primordial Lenvira Boots,PvP岚薇幻羽鞋子
+PROPITEM_TXT_161032,Primordial Etranor Helmet,PvP伊特诺圣铠帽子
+PROPITEM_TXT_161033,Primordial Etranor Suit,PvP伊特诺圣铠上衣
+PROPITEM_TXT_161034,Primordial Etranor Gauntlets,PvP伊特诺圣铠手套
+PROPITEM_TXT_161035,Primordial Etranor Boots,PvP伊特诺圣铠鞋子
+PROPITEM_TXT_161036,Primordial Etranar Helmet,PvP伊特纳尔圣铠帽子
+PROPITEM_TXT_161037,Primordial Etranar Suit,PvP伊特纳尔圣铠上衣
+PROPITEM_TXT_161038,Primordial Etranar Gauntlets,PvP伊特纳尔圣铠手套
+PROPITEM_TXT_161039,Primordial Etranar Boots,PvP伊特纳尔圣铠鞋子
+PROPITEM_TXT_161040,Primordial Kevric Helmet,PvP凯夫里克帽子
+PROPITEM_TXT_161041,Primordial Kevric Suit,PvP凯夫里克上衣
+PROPITEM_TXT_161042,Primordial Kevric Gauntlets,PvP凯夫里克手套
+PROPITEM_TXT_161043,Primordial Kevric Boots,PvP凯夫里克鞋子
+PROPITEM_TXT_161044,Primordial Kevricar Helmet,PvP凯夫里卡尔帽子
+PROPITEM_TXT_161045,Primordial Kevricar Suit,PvP凯夫里卡尔上衣
+PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,PvP凯夫里卡尔手套
+PROPITEM_TXT_161047,Primordial Kevricar Boots,PvP凯夫里卡尔鞋子
+PROPITEM_TXT_161048,PvP Ustamel Helmet,PvP乌斯塔梅尔帽子
+PROPITEM_TXT_161049,PvP Ustamel Suit,PvP乌斯塔梅尔上衣
+PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvP乌斯塔梅尔手套
+PROPITEM_TXT_161051,PvP Ustamel Boots,PvP乌斯塔梅尔鞋子
+PROPITEM_TXT_161052,PvP Ustamen Helmet,PvP乌斯塔门帽子
+PROPITEM_TXT_161053,PvP Ustamen Suit,PvP乌斯塔门上衣
+PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvP乌斯塔门手套
+PROPITEM_TXT_161055,PvP Ustamen Boots,PvP乌斯塔门鞋子
+PROPITEM_TXT_161056,PvP Virashon Helmet,PvP维拉雄帽子
+PROPITEM_TXT_161057,PvP Virashon Suit,PvP维拉雄上衣
+PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvP维拉雄手套
+PROPITEM_TXT_161059,PvP Virashon Boots,PvP维拉雄鞋子
+PROPITEM_TXT_161060,PvP Verashan Helmet,PvP维拉尚帽子
+PROPITEM_TXT_161061,PvP Verashan Suit,PvP维拉尚上衣
+PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvP维拉尚手套
+PROPITEM_TXT_161063,PvP Verashan Boots,PvP维拉尚鞋子
 PROPITEM_TXT_161064,Leafloop,叶环
 PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.",盘绕成螺旋的小藤蔓，充盈着温和的自然魔法。
 PROPITEM_TXT_161066,Silent Petal,寂静花瓣
@@ -29197,7 +29197,7 @@ PROPITEM_TXT_913711,New footstep effect,全新足迹光效
 PROPITEM_TXT_913712,Sparkle Footsteps,闪耀足迹光效
 PROPITEM_TXT_913713,New footstep effect,足迹光效(新)
 PROPITEM_TXT_913714,Scroll of PProtect,竞技防护卷轴
-PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",该卷轴可防止 PVP 装备在精炼或元素属性精炼失败时损毁。使用时，需在尝试升级前将卷轴放入精炼界面的指定栏位。卷轴一经使用即被消耗。
+PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",该卷轴可防止PVP装备在精炼或元素属性精炼失败时损毁。在尝试精炼前将卷轴放入精炼界面的指定栏位。卷轴一经使用即被消耗。
 PROPITEM_TXT_913716,Yellow Chips 2,黄纸片 2
 PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,瑞加大陆锦标赛奖励（用于从华弗那购买物品）。
 PROPITEM_TXT_913718,PvP Runthiel Armor Set (M),PvP 伦希勒圣辉套装(男)
@@ -32316,271 +32316,271 @@ PROPITEM_TXT_1903995,"Select your favorite costume between Spy Set, Dark Scions 
 PROPITEM_TXT_1903996,Provides a new title for your character!,为你添加一个全新称号!
 PROPITEM_TXT_1903997,Neon Pang's Best Friend Title,霓虹胖胖挚友
 PROPITEM_TXT_1903998,Master of Eternal Nightmare Title,无尽梦魇主宰
-PROPITEM_TXT_1903999,[Event] 2026 Thanksgiving Gift Box,[Event] 2026 Thanksgiving Gift Box
-PROPITEM_TXT_1904000,Shadow Hunter Brown Set,Shadow Hunter Brown Set
-PROPITEM_TXT_1904001,Shadow Hunter Brown Set (M),Shadow Hunter Brown Set (M)
-PROPITEM_TXT_1904002,The Shadow Hunter Brown Set for male characters.,The Shadow Hunter Brown Set for male characters.
-PROPITEM_TXT_1904003,Shadow Hunter Brown Set (F),Shadow Hunter Brown Set (F)
-PROPITEM_TXT_1904004,The Shadow Hunter Brown Set for female characters.,The Shadow Hunter Brown Set for female characters.
-PROPITEM_TXT_1904006,10K Subscriber Reward Coupon,10K Subscriber Reward Coupon
-PROPITEM_TXT_1904007,"A package containing 1x Eternal Nightmare Set, 1x Eternal Nightmare Weapon Set, 1x Eternal Nightmare Wings and 1x Master of Eternal Nightmare Title. All items are Soul-Linked.","A package containing 1x Eternal Nightmare Set, 1x Eternal Nightmare Weapon Set, 1x Eternal Nightmare Wings and 1x Master of Eternal Nightmare Title. All items are Soul-Linked."
+PROPITEM_TXT_1903999,[Event] 2026 Thanksgiving Gift Box,[活动]2026感恩节礼盒
+PROPITEM_TXT_1904000,Shadow Hunter Brown Set,棕色暗影猎手套装
+PROPITEM_TXT_1904001,Shadow Hunter Brown Set (M),棕色暗影猎手套装(男)
+PROPITEM_TXT_1904002,The Shadow Hunter Brown Set for male characters.,男性棕色暗影猎手套装。
+PROPITEM_TXT_1904003,Shadow Hunter Brown Set (F),棕色暗影猎手套装(女)
+PROPITEM_TXT_1904004,The Shadow Hunter Brown Set for female characters.,女性棕色暗影猎手套装。
+PROPITEM_TXT_1904006,10K Subscriber Reward Coupon,官方号10K订阅礼券
+PROPITEM_TXT_1904007,"A package containing 1x Eternal Nightmare Set, 1x Eternal Nightmare Weapon Set, 1x Eternal Nightmare Wings and 1x Master of Eternal Nightmare Title. All items are Soul-Linked.","含1x 无尽梦魇套装,\n1x 无尽梦魇武器套装,\n1x 无尽梦魇翅膀,\n以及1x 无尽梦魇主宰。\n所有道具均为角色绑定。"
 PROPITEM_TXT_1904008,Twilight Dusk 10% Red Set,Twilight Dusk 10% Red Set
-PROPITEM_TXT_1904009,Twilight Dusk Red Cloak,Twilight Dusk Red Cloak
-PROPITEM_TXT_1904010,Twilight Dusk Red Lollipop,Twilight Dusk Red Lollipop
-PROPITEM_TXT_1904011,Twilight Dusk Red Hat (M),Twilight Dusk Red Hat (M)
-PROPITEM_TXT_1904012,Twilight Dusk Red Suit (M),Twilight Dusk Red Suit (M)
-PROPITEM_TXT_1904013,Twilight Dusk Red Shoes (M),Twilight Dusk Red Shoes (M)
-PROPITEM_TXT_1904014,Twilight Dusk 10% Red Set (M),Twilight Dusk 10% Red Set (M)
-PROPITEM_TXT_1904015,The Twilight Dusk 10% Red Set for male characters.,The Twilight Dusk 10% Red Set for male characters.
-PROPITEM_TXT_1904016,Twilight Dusk Red Hat (F),Twilight Dusk Red Hat (F)
-PROPITEM_TXT_1904017,Twilight Dusk Red Suit (F),Twilight Dusk Red Suit (F)
-PROPITEM_TXT_1904018,Twilight Dusk Red Shoes (F),Twilight Dusk Red Shoes (F)
-PROPITEM_TXT_1904019,Twilight Dusk 10% Red Set (F),Twilight Dusk 10% Red Set (F)
-PROPITEM_TXT_1904020,The Twilight Dusk 10% Red Set for female characters.,The Twilight Dusk 10% Red Set for female characters.
+PROPITEM_TXT_1904009,Twilight Dusk Red Cloak,Twilight Dusk Red Cloak背饰
+PROPITEM_TXT_1904010,Twilight Dusk Red Lollipop,Twilight Dusk Red Lollipop面饰
+PROPITEM_TXT_1904011,Twilight Dusk Red Hat (M),Twilight Dusk Red Hat(男)
+PROPITEM_TXT_1904012,Twilight Dusk Red Suit (M),Twilight Dusk Red Suit(男)
+PROPITEM_TXT_1904013,Twilight Dusk Red Shoes (M),Twilight Dusk Red Shoes(男)
+PROPITEM_TXT_1904014,Twilight Dusk 10% Red Set (M),Twilight Dusk 10% Red Set(男)
+PROPITEM_TXT_1904015,The Twilight Dusk 10% Red Set for male characters.,男性Twilight Dusk红色套装10%移速。
+PROPITEM_TXT_1904016,Twilight Dusk Red Hat (F),Twilight Dusk Red Hat(女)
+PROPITEM_TXT_1904017,Twilight Dusk Red Suit (F),Twilight Dusk Red Suit(女)
+PROPITEM_TXT_1904018,Twilight Dusk Red Shoes (F),Twilight Dusk Red Shoes(女)
+PROPITEM_TXT_1904019,Twilight Dusk 10% Red Set (F),Twilight Dusk 10% Red Set(女)
+PROPITEM_TXT_1904020,The Twilight Dusk 10% Red Set for female characters.,女性Twilight Dusk红色套装10%移速。
 PROPITEM_TXT_1904021,Twilight Dusk 10% Orange Set,Twilight Dusk 10% Orange Set
-PROPITEM_TXT_1904022,Twilight Dusk Orange Cloak,Twilight Dusk Orange Cloak
-PROPITEM_TXT_1904023,Twilight Dusk Orange Lollipop,Twilight Dusk Orange Lollipop
-PROPITEM_TXT_1904024,Twilight Dusk Orange Hat (M),Twilight Dusk Orange Hat (M)
-PROPITEM_TXT_1904025,Twilight Dusk Orange Suit (M),Twilight Dusk Orange Suit (M)
-PROPITEM_TXT_1904026,Twilight Dusk Orange Shoes (M),Twilight Dusk Orange Shoes (M)
-PROPITEM_TXT_1904027,Twilight Dusk 10% Orange Set (M),Twilight Dusk 10% Orange Set (M)
-PROPITEM_TXT_1904028,The Twilight Dusk 10% Orange Set for male characters.,The Twilight Dusk 10% Orange Set for male characters.
-PROPITEM_TXT_1904029,Twilight Dusk Orange Hat (F),Twilight Dusk Orange Hat (F)
-PROPITEM_TXT_1904030,Twilight Dusk Orange Suit (F),Twilight Dusk Orange Suit (F)
-PROPITEM_TXT_1904031,Twilight Dusk Orange Shoes (F),Twilight Dusk Orange Shoes (F)
-PROPITEM_TXT_1904032,Twilight Dusk 10% Orange Set (F),Twilight Dusk 10% Orange Set (F)
-PROPITEM_TXT_1904033,The Twilight Dusk 10% Orange Set for female characters.,The Twilight Dusk 10% Orange Set for female characters.
+PROPITEM_TXT_1904022,Twilight Dusk Orange Cloak,Twilight Dusk Orange Cloak背饰
+PROPITEM_TXT_1904023,Twilight Dusk Orange Lollipop,Twilight Dusk Orange Lollipop面饰
+PROPITEM_TXT_1904024,Twilight Dusk Orange Hat (M),Twilight Dusk Orange Hat(男)
+PROPITEM_TXT_1904025,Twilight Dusk Orange Suit (M),Twilight Dusk Orange Suit(男)
+PROPITEM_TXT_1904026,Twilight Dusk Orange Shoes (M),Twilight Dusk Orange Shoes(男)
+PROPITEM_TXT_1904027,Twilight Dusk 10% Orange Set (M),Twilight Dusk 10% Orange Set(男)
+PROPITEM_TXT_1904028,The Twilight Dusk 10% Orange Set for male characters.,男性Twilight Dusk橙色套装10%移速。
+PROPITEM_TXT_1904029,Twilight Dusk Orange Hat (F),Twilight Dusk Orange Hat(女)
+PROPITEM_TXT_1904030,Twilight Dusk Orange Suit (F),Twilight Dusk Orange Suit(女)
+PROPITEM_TXT_1904031,Twilight Dusk Orange Shoes (F),Twilight Dusk Orange Shoes(女)
+PROPITEM_TXT_1904032,Twilight Dusk 10% Orange Set (F),Twilight Dusk 10% Orange Set(女)
+PROPITEM_TXT_1904033,The Twilight Dusk 10% Orange Set for female characters.,女性Twilight Dusk橙色套装10%移速。
 PROPITEM_TXT_1904034,Twilight Dusk 8% Green Set,Twilight Dusk 8% Green Set
-PROPITEM_TXT_1904035,Twilight Dusk Green Cloak,Twilight Dusk Green Cloak
-PROPITEM_TXT_1904036,Twilight Dusk Green Lollipop,Twilight Dusk Green Lollipop
-PROPITEM_TXT_1904037,Twilight Dusk Green Hat (M),Twilight Dusk Green Hat (M)
-PROPITEM_TXT_1904038,Twilight Dusk Green Suit (M),Twilight Dusk Green Suit (M)
-PROPITEM_TXT_1904039,Twilight Dusk Green Shoes (M),Twilight Dusk Green Shoes (M)
-PROPITEM_TXT_1904040,Twilight Dusk 8% Green Set (M),Twilight Dusk 8% Green Set (M)
-PROPITEM_TXT_1904041,The Twilight Dusk 8% Green Set for male characters.,The Twilight Dusk 8% Green Set for male characters.
-PROPITEM_TXT_1904042,Twilight Dusk Green Hat (F),Twilight Dusk Green Hat (F)
-PROPITEM_TXT_1904043,Twilight Dusk Green Suit (F),Twilight Dusk Green Suit (F)
-PROPITEM_TXT_1904044,Twilight Dusk Green Shoes (F),Twilight Dusk Green Shoes (F)
-PROPITEM_TXT_1904045,Twilight Dusk 8% Green Set (F),Twilight Dusk 8% Green Set (F)
-PROPITEM_TXT_1904046,The Twilight Dusk 8% Green Set for female characters.,The Twilight Dusk 8% Green Set for female characters.
+PROPITEM_TXT_1904035,Twilight Dusk Green Cloak,Twilight Dusk Green Cloak背饰
+PROPITEM_TXT_1904036,Twilight Dusk Green Lollipop,Twilight Dusk Green Lollipop面饰
+PROPITEM_TXT_1904037,Twilight Dusk Green Hat (M),Twilight Dusk Green Hat(男)
+PROPITEM_TXT_1904038,Twilight Dusk Green Suit (M),Twilight Dusk Green Suit(男)
+PROPITEM_TXT_1904039,Twilight Dusk Green Shoes (M),Twilight Dusk Green Shoes(男)
+PROPITEM_TXT_1904040,Twilight Dusk 8% Green Set (M),Twilight Dusk 8% Green Set(男)
+PROPITEM_TXT_1904041,The Twilight Dusk 8% Green Set for male characters.,男性Twilight Dusk绿色套装8%移速。
+PROPITEM_TXT_1904042,Twilight Dusk Green Hat (F),Twilight Dusk Green Hat(女)
+PROPITEM_TXT_1904043,Twilight Dusk Green Suit (F),Twilight Dusk Green Suit(女)
+PROPITEM_TXT_1904044,Twilight Dusk Green Shoes (F),Twilight Dusk Green Shoes(女)
+PROPITEM_TXT_1904045,Twilight Dusk 8% Green Set (F),Twilight Dusk 8% Green Set(女)
+PROPITEM_TXT_1904046,The Twilight Dusk 8% Green Set for female characters.,女性Twilight Dusk绿色套装8%移速。
 PROPITEM_TXT_1904047,Twilight Dusk 8% Cyan Set,Twilight Dusk 8% Cyan Set
-PROPITEM_TXT_1904048,Twilight Dusk Cyan Cloak,Twilight Dusk Cyan Cloak
-PROPITEM_TXT_1904049,Twilight Dusk Cyan Lollipop,Twilight Dusk Cyan Lollipop
-PROPITEM_TXT_1904050,Twilight Dusk Cyan Hat (M),Twilight Dusk Cyan Hat (M)
-PROPITEM_TXT_1904051,Twilight Dusk Cyan Suit (M),Twilight Dusk Cyan Suit (M)
-PROPITEM_TXT_1904052,Twilight Dusk Cyan Shoes (M),Twilight Dusk Cyan Shoes (M)
-PROPITEM_TXT_1904053,Twilight Dusk 8% Cyan Set (M),Twilight Dusk 8% Cyan Set (M)
-PROPITEM_TXT_1904054,The Twilight Dusk 8% Cyan Set for male characters.,The Twilight Dusk 8% Cyan Set for male characters.
-PROPITEM_TXT_1904055,Twilight Dusk Cyan Hat (F),Twilight Dusk Cyan Hat (F)
-PROPITEM_TXT_1904056,Twilight Dusk Cyan Suit (F),Twilight Dusk Cyan Suit (F)
-PROPITEM_TXT_1904057,Twilight Dusk Cyan Shoes (F),Twilight Dusk Cyan Shoes (F)
-PROPITEM_TXT_1904058,Twilight Dusk 8% Cyan Set (F),Twilight Dusk 8% Cyan Set (F)
-PROPITEM_TXT_1904059,The Twilight Dusk 8% Cyan Set for female characters.,The Twilight Dusk 8% Cyan Set for female characters.
+PROPITEM_TXT_1904048,Twilight Dusk Cyan Cloak,Twilight Dusk Cyan Cloak背饰
+PROPITEM_TXT_1904049,Twilight Dusk Cyan Lollipop,Twilight Dusk Cyan Lollipop面饰
+PROPITEM_TXT_1904050,Twilight Dusk Cyan Hat (M),Twilight Dusk Cyan Hat(男)
+PROPITEM_TXT_1904051,Twilight Dusk Cyan Suit (M),Twilight Dusk Cyan Suit(男)
+PROPITEM_TXT_1904052,Twilight Dusk Cyan Shoes (M),Twilight Dusk Cyan Shoes(男)
+PROPITEM_TXT_1904053,Twilight Dusk 8% Cyan Set (M),Twilight Dusk 8% Cyan Set(男)
+PROPITEM_TXT_1904054,The Twilight Dusk 8% Cyan Set for male characters.,男性Twilight Dusk青色套装8%移速。
+PROPITEM_TXT_1904055,Twilight Dusk Cyan Hat (F),Twilight Dusk Cyan Hat(女)
+PROPITEM_TXT_1904056,Twilight Dusk Cyan Suit (F),Twilight Dusk Cyan Suit(女)
+PROPITEM_TXT_1904057,Twilight Dusk Cyan Shoes (F),Twilight Dusk Cyan Shoes(女)
+PROPITEM_TXT_1904058,Twilight Dusk 8% Cyan Set (F),Twilight Dusk 8% Cyan Set(女)
+PROPITEM_TXT_1904059,The Twilight Dusk 8% Cyan Set for female characters.,女性Twilight Dusk青色套装8%移速。
 PROPITEM_TXT_1904060,Twilight Dusk 6% Blue Set,Twilight Dusk 6% Blue Set
-PROPITEM_TXT_1904061,Twilight Dusk Blue Cloak,Twilight Dusk Blue Cloak
-PROPITEM_TXT_1904062,Twilight Dusk Blue Lollipop,Twilight Dusk Blue Lollipop
-PROPITEM_TXT_1904063,Twilight Dusk Blue Hat (M),Twilight Dusk Blue Hat (M)
-PROPITEM_TXT_1904064,Twilight Dusk Blue Suit (M),Twilight Dusk Blue Suit (M)
-PROPITEM_TXT_1904065,Twilight Dusk Blue Shoes (M),Twilight Dusk Blue Shoes (M)
-PROPITEM_TXT_1904066,Twilight Dusk 6% Blue Set (M),Twilight Dusk 6% Blue Set (M)
-PROPITEM_TXT_1904067,The Twilight Dusk 6% Blue Set for male characters.,The Twilight Dusk 6% Blue Set for male characters.
-PROPITEM_TXT_1904068,Twilight Dusk Blue Hat (F),Twilight Dusk Blue Hat (F)
-PROPITEM_TXT_1904069,Twilight Dusk Blue Suit (F),Twilight Dusk Blue Suit (F)
-PROPITEM_TXT_1904070,Twilight Dusk Blue Shoes (F),Twilight Dusk Blue Shoes (F)
-PROPITEM_TXT_1904071,Twilight Dusk 6% Blue Set (F),Twilight Dusk 6% Blue Set (F)
-PROPITEM_TXT_1904072,The Twilight Dusk 6% Blue Set for female characters.,The Twilight Dusk 6% Blue Set for female characters.
+PROPITEM_TXT_1904061,Twilight Dusk Blue Cloak,Twilight Dusk Blue Cloak背饰
+PROPITEM_TXT_1904062,Twilight Dusk Blue Lollipop,Twilight Dusk Blue Lollipop面饰
+PROPITEM_TXT_1904063,Twilight Dusk Blue Hat (M),Twilight Dusk Blue Hat(男)
+PROPITEM_TXT_1904064,Twilight Dusk Blue Suit (M),Twilight Dusk Blue Suit(男)
+PROPITEM_TXT_1904065,Twilight Dusk Blue Shoes (M),Twilight Dusk Blue Shoes(男)
+PROPITEM_TXT_1904066,Twilight Dusk 6% Blue Set (M),Twilight Dusk 6% Blue Set(男)
+PROPITEM_TXT_1904067,The Twilight Dusk 6% Blue Set for male characters.,男性Twilight Dusk蓝色套装6%移速。
+PROPITEM_TXT_1904068,Twilight Dusk Blue Hat (F),Twilight Dusk Blue Hat(女)
+PROPITEM_TXT_1904069,Twilight Dusk Blue Suit (F),Twilight Dusk Blue Suit(女)
+PROPITEM_TXT_1904070,Twilight Dusk Blue Shoes (F),Twilight Dusk Blue Shoes(女)
+PROPITEM_TXT_1904071,Twilight Dusk 6% Blue Set (F),Twilight Dusk 6% Blue Set(女)
+PROPITEM_TXT_1904072,The Twilight Dusk 6% Blue Set for female characters.,女性Twilight Dusk蓝色套装6%移速。
 PROPITEM_TXT_1904073,Twilight Dusk 4% Purple Set,Twilight Dusk 4% Purple Set
-PROPITEM_TXT_1904074,Twilight Dusk Purple Cloak,Twilight Dusk Purple Cloak
-PROPITEM_TXT_1904075,Twilight Dusk Purple Lollipop,Twilight Dusk Purple Lollipop
-PROPITEM_TXT_1904076,Twilight Dusk Purple Hat (M),Twilight Dusk Purple Hat (M)
-PROPITEM_TXT_1904077,Twilight Dusk Purple Suit (M),Twilight Dusk Purple Suit (M)
-PROPITEM_TXT_1904078,Twilight Dusk Purple Shoes (M),Twilight Dusk Purple Shoes (M)
-PROPITEM_TXT_1904079,Twilight Dusk 4% Purple Set (M),Twilight Dusk 4% Purple Set (M)
-PROPITEM_TXT_1904080,The Twilight Dusk 4% Purple Set for male characters.,The Twilight Dusk 4% Purple Set for male characters.
-PROPITEM_TXT_1904081,Twilight Dusk Purple Hat (F),Twilight Dusk Purple Hat (F)
-PROPITEM_TXT_1904082,Twilight Dusk Purple Suit (F),Twilight Dusk Purple Suit (F)
-PROPITEM_TXT_1904083,Twilight Dusk Purple Shoes (F),Twilight Dusk Purple Shoes (F)
-PROPITEM_TXT_1904084,Twilight Dusk 4% Purple Set (F),Twilight Dusk 4% Purple Set (F)
-PROPITEM_TXT_1904085,The Twilight Dusk 4% Purple Set for female characters.,The Twilight Dusk 4% Purple Set for female characters.
+PROPITEM_TXT_1904074,Twilight Dusk Purple Cloak,Twilight Dusk Purple Cloak背饰
+PROPITEM_TXT_1904075,Twilight Dusk Purple Lollipop,Twilight Dusk Purple Lollipop面饰
+PROPITEM_TXT_1904076,Twilight Dusk Purple Hat (M),Twilight Dusk Purple Hat(男)
+PROPITEM_TXT_1904077,Twilight Dusk Purple Suit (M),Twilight Dusk Purple Suit(男)
+PROPITEM_TXT_1904078,Twilight Dusk Purple Shoes (M),Twilight Dusk Purple Shoes(男)
+PROPITEM_TXT_1904079,Twilight Dusk 4% Purple Set (M),Twilight Dusk 4% Purple Set(男)
+PROPITEM_TXT_1904080,The Twilight Dusk 4% Purple Set for male characters.,男性Twilight Dusk紫色套装4%移速。
+PROPITEM_TXT_1904081,Twilight Dusk Purple Hat (F),Twilight Dusk Purple Hat(女)
+PROPITEM_TXT_1904082,Twilight Dusk Purple Suit (F),Twilight Dusk Purple Suit(女)
+PROPITEM_TXT_1904083,Twilight Dusk Purple Shoes (F),Twilight Dusk Purple Shoes(女)
+PROPITEM_TXT_1904084,Twilight Dusk 4% Purple Set (F),Twilight Dusk 4% Purple Set(女)
+PROPITEM_TXT_1904085,The Twilight Dusk 4% Purple Set for female characters.,女性Twilight Dusk紫色套装4%移速。
 PROPITEM_TXT_1904086,Twilight Dusk 2% Pink Set,Twilight Dusk 2% Pink Set
-PROPITEM_TXT_1904087,Twilight Dusk Pink Cloak,Twilight Dusk Pink Cloak
-PROPITEM_TXT_1904088,Twilight Dusk Pink Lollipop,Twilight Dusk Pink Lollipop
-PROPITEM_TXT_1904089,Twilight Dusk Pink Hat (M),Twilight Dusk Pink Hat (M)
-PROPITEM_TXT_1904090,Twilight Dusk Pink Suit (M),Twilight Dusk Pink Suit (M)
-PROPITEM_TXT_1904091,Twilight Dusk Pink Shoes (M),Twilight Dusk Pink Shoes (M)
-PROPITEM_TXT_1904092,Twilight Dusk 2% Pink Set (M),Twilight Dusk 2% Pink Set (M)
-PROPITEM_TXT_1904093,The Twilight Dusk 2% Pink Set for male characters.,The Twilight Dusk 2% Pink Set for male characters.
-PROPITEM_TXT_1904094,Twilight Dusk Pink Hat (F),Twilight Dusk Pink Hat (F)
-PROPITEM_TXT_1904095,Twilight Dusk Pink Suit (F),Twilight Dusk Pink Suit (F)
-PROPITEM_TXT_1904096,Twilight Dusk Pink Shoes (F),Twilight Dusk Pink Shoes (F)
-PROPITEM_TXT_1904097,Twilight Dusk 2% Pink Set (F),Twilight Dusk 2% Pink Set (F)
-PROPITEM_TXT_1904098,The Twilight Dusk 2% Pink Set for female characters.,The Twilight Dusk 2% Pink Set for female characters.
+PROPITEM_TXT_1904087,Twilight Dusk Pink Cloak,Twilight Dusk Pink Cloak背饰
+PROPITEM_TXT_1904088,Twilight Dusk Pink Lollipop,Twilight Dusk Pink Lollipop面饰
+PROPITEM_TXT_1904089,Twilight Dusk Pink Hat (M),Twilight Dusk Pink Hat(男)
+PROPITEM_TXT_1904090,Twilight Dusk Pink Suit (M),Twilight Dusk Pink Suit(男)
+PROPITEM_TXT_1904091,Twilight Dusk Pink Shoes (M),Twilight Dusk Pink Shoes(男)
+PROPITEM_TXT_1904092,Twilight Dusk 2% Pink Set (M),Twilight Dusk 2% Pink Set(男)
+PROPITEM_TXT_1904093,The Twilight Dusk 2% Pink Set for male characters.,男性Twilight Dusk粉色套装2%移速。
+PROPITEM_TXT_1904094,Twilight Dusk Pink Hat (F),Twilight Dusk Pink Hat(女)
+PROPITEM_TXT_1904095,Twilight Dusk Pink Suit (F),Twilight Dusk Pink Suit(女)
+PROPITEM_TXT_1904096,Twilight Dusk Pink Shoes (F),Twilight Dusk Pink Shoes(女)
+PROPITEM_TXT_1904097,Twilight Dusk 2% Pink Set (F),Twilight Dusk 2% Pink Set(女)
+PROPITEM_TXT_1904098,The Twilight Dusk 2% Pink Set for female characters.,女性Twilight Dusk粉色套装2%移速。
 PROPITEM_TXT_1904099,Twilight Dusk 2% Grey Set,Twilight Dusk 2% Grey Set
-PROPITEM_TXT_1904100,Twilight Dusk Grey Cloak,Twilight Dusk Grey Cloak
-PROPITEM_TXT_1904101,Twilight Dusk Grey Lollipop,Twilight Dusk Grey Lollipop
-PROPITEM_TXT_1904102,Twilight Dusk Grey Hat (M),Twilight Dusk Grey Hat (M)
-PROPITEM_TXT_1904103,Twilight Dusk Grey Suit (M),Twilight Dusk Grey Suit (M)
-PROPITEM_TXT_1904104,Twilight Dusk Grey Shoes (M),Twilight Dusk Grey Shoes (M)
-PROPITEM_TXT_1904105,Twilight Dusk 2% Grey Set (M),Twilight Dusk 2% Grey Set (M)
-PROPITEM_TXT_1904106,The Twilight Dusk 2% Grey Set for male characters.,The Twilight Dusk 2% Grey Set for male characters.
-PROPITEM_TXT_1904107,Twilight Dusk Grey Hat (F),Twilight Dusk Grey Hat (F)
-PROPITEM_TXT_1904108,Twilight Dusk Grey Suit (F),Twilight Dusk Grey Suit (F)
-PROPITEM_TXT_1904109,Twilight Dusk Grey Shoes (F),Twilight Dusk Grey Shoes (F)
-PROPITEM_TXT_1904110,Twilight Dusk 2% Grey Set (F),Twilight Dusk 2% Grey Set (F)
-PROPITEM_TXT_1904111,The Twilight Dusk 2% Grey Set for female characters.,The Twilight Dusk 2% Grey Set for female characters.
-PROPITEM_TXT_1904112,Twilight Dusk Costume Lucky Box,Twilight Dusk Costume Lucky Box
-PROPITEM_TXT_1904113,This box contains a Twilight Dusk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Twilight Dusk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_1904114,FWC 2026 Grand Final Coupon 3,FWC 2026 Grand Final Coupon 3
-PROPITEM_TXT_1904115,"A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 3x Scroll of Resurrection, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked.","A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 3x Scroll of Resurrection, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked."
-PROPITEM_TXT_1904116,Celestial Champion Set,Celestial Champion Set
-PROPITEM_TXT_1904117,Celestial Champion Cloak,Celestial Champion Cloak
-PROPITEM_TXT_1904118,Celestial Champion Hat (M),Celestial Champion Hat (M)
-PROPITEM_TXT_1904119,Celestial Champion Suit (M),Celestial Champion Suit (M)
-PROPITEM_TXT_1904120,Celestial Champion Shoes (M),Celestial Champion Shoes (M)
-PROPITEM_TXT_1904121,Celestial Champion Hands (M),Celestial Champion Hands (M)
-PROPITEM_TXT_1904122,Celestial Champion Set (M),Celestial Champion Set (M)
-PROPITEM_TXT_1904123,The Celestial Champion Set for male characters.,The Celestial Champion Set for male characters.
-PROPITEM_TXT_1904124,Celestial Champion Hat (F),Celestial Champion Hat (F)
-PROPITEM_TXT_1904125,Celestial Champion Suit (F),Celestial Champion Suit (F)
-PROPITEM_TXT_1904126,Celestial Champion Shoes (F),Celestial Champion Shoes (F)
-PROPITEM_TXT_1904127,Celestial Champion Hands (F),Celestial Champion Hands (F)
-PROPITEM_TXT_1904128,Celestial Champion Set (F),Celestial Champion Set (F)
-PROPITEM_TXT_1904129,The Celestial Champion Set for female characters.,The Celestial Champion Set for female characters.
-PROPITEM_TXT_1904130,Celestial Champion Sword,Celestial Champion Sword
-PROPITEM_TXT_1904131,Celestial Champion Axe,Celestial Champion Axe
-PROPITEM_TXT_1904132,Celestial Champion Big Sword,Celestial Champion Big Sword
-PROPITEM_TXT_1904133,Celestial Champion Big Axe,Celestial Champion Big Axe
-PROPITEM_TXT_1904134,Celestial Champion Stick,Celestial Champion Stick
-PROPITEM_TXT_1904135,Celestial Champion Knuckle,Celestial Champion Knuckle
-PROPITEM_TXT_1904136,Celestial Champion Bow,Celestial Champion Bow
-PROPITEM_TXT_1904137,Celestial Champion Yo-Yo,Celestial Champion Yo-Yo
-PROPITEM_TXT_1904138,Celestial Champion Staff,Celestial Champion Staff
-PROPITEM_TXT_1904139,Celestial Champion Wand,Celestial Champion Wand
-PROPITEM_TXT_1904140,Celestial Champion Shield,Celestial Champion Shield
-PROPITEM_TXT_1904141,Celestial Champion Force Gem,Celestial Champion Force Gem
-PROPITEM_TXT_1904142,Celestial Champion Book,Celestial Champion Book
-PROPITEM_TXT_1904143,Celestial Champion  Weapon Set,Celestial Champion  Weapon Set
-PROPITEM_TXT_1904144,Select which Celestial Champion Weapon you want to receive!,Select which Celestial Champion Weapon you want to receive!
-PROPITEM_TXT_1904145,2026 FWC Rainbow Curtana,2026 FWC Rainbow Curtana
-PROPITEM_TXT_1904146,2026 FWC Rainbow Butcher's Carnage,2026 FWC Rainbow Butcher's Carnage
-PROPITEM_TXT_1904147,2026 FWC Rainbow Celestial Edge,2026 FWC Rainbow Celestial Edge
-PROPITEM_TXT_1904148,2026 FWC Rainbow Harbinger,2026 FWC Rainbow Harbinger
-PROPITEM_TXT_1904149,2026 FWC Rainbow Oracle,2026 FWC Rainbow Oracle
-PROPITEM_TXT_1904150,2026 FWC Rainbow Maw of Judgement,2026 FWC Rainbow Maw of Judgement
-PROPITEM_TXT_1904151,2026 FWC Rainbow Dragon's Rain,2026 FWC Rainbow Dragon's Rain
-PROPITEM_TXT_1904152,2026 FWC Rainbow Dementia,2026 FWC Rainbow Dementia
-PROPITEM_TXT_1904153,2026 FWC Rainbow Roika's Stave,2026 FWC Rainbow Roika's Stave
-PROPITEM_TXT_1904154,2026 FWC Rainbow Scepter of Disorder,2026 FWC Rainbow Scepter of Disorder
-PROPITEM_TXT_1904155,2026 FWC Rainbow Phantasmal Shield,2026 FWC Rainbow Phantasmal Shield
-PROPITEM_TXT_1904156,2026 FWC Rainbow Soul of Entaness,2026 FWC Rainbow Soul of Entaness
-PROPITEM_TXT_1904157,2026 FWC Rainbow Book of Thorns,2026 FWC Rainbow Book of Thorns
-PROPITEM_TXT_1904158,2026 FWC Rainbow Weapon Set,2026 FWC Rainbow Weapon Set
-PROPITEM_TXT_1904159,Select which 2026 FWC Rainbow Weapon you want to receive!,Select which 2026 FWC Rainbow Weapon you want to receive!
-PROPITEM_TXT_1904160,2026 FWC Rainbow Chyrelle/Chyrella Set,2026 FWC Rainbow Chyrelle/Chyrella Set
-PROPITEM_TXT_1904161,2026 FWC Rainbow Chyrelle Set (M),2026 FWC Rainbow Chyrelle Set (M)
-PROPITEM_TXT_1904162,The 2026 FWC Rainbow Chyrelle costume for male characters.,The 2026 FWC Rainbow Chyrelle costume for male characters.
-PROPITEM_TXT_1904163,2026 FWC Rainbow Chyrella Set (F),2026 FWC Rainbow Chyrella Set (F)
-PROPITEM_TXT_1904164,The 2026 FWC Rainbow Chyrella costume for female characters.,The 2026 FWC Rainbow Chyrella costume for female characters.
-PROPITEM_TXT_1904165,2026 FWC Rainbow Etranor/Etranar Set,2026 FWC Rainbow Etranor/Etranar Set
-PROPITEM_TXT_1904166,2026 FWC Rainbow Etranor Set (M),2026 FWC Rainbow Etranor Set (M)
-PROPITEM_TXT_1904167,The 2026 FWC Rainbow Etranor costume for male characters.,The 2026 FWC Rainbow Etranor costume for male characters.
-PROPITEM_TXT_1904168,2026 FWC Rainbow Etranar Set (F),2026 FWC Rainbow Etranar Set (F)
-PROPITEM_TXT_1904169,The 2026 FWC Rainbow Etranar costume for female characters.,The 2026 FWC Rainbow Etranar costume for female characters.
-PROPITEM_TXT_1904170,2026 FWC Rainbow Kevric/Kevricar Set,2026 FWC Rainbow Kevric/Kevricar Set
-PROPITEM_TXT_1904171,2026 FWC Rainbow Kevric Set (M),2026 FWC Rainbow Kevric Set (M)
-PROPITEM_TXT_1904172,The 2026 FWC Rainbow Kevric costume for male characters.,The 2026 FWC Rainbow Kevric costume for male characters.
-PROPITEM_TXT_1904173,2026 FWC Rainbow Kevricar Set (F),2026 FWC Rainbow Kevricar Set (F)
-PROPITEM_TXT_1904174,The 2026 FWC Rainbow Kevricar costume for female characters.,The 2026 FWC Rainbow Kevricar costume for female characters.
-PROPITEM_TXT_1904175,2026 FWC Rainbow Lenvire/Lenvira Set,2026 FWC Rainbow Lenvire/Lenvira Set
-PROPITEM_TXT_1904176,2026 FWC Rainbow Lenvire Set (M),2026 FWC Rainbow Lenvire Set (M)
-PROPITEM_TXT_1904177,The 2026 FWC Rainbow Lenvire costume for male characters.,The 2026 FWC Rainbow Lenvire costume for male characters.
-PROPITEM_TXT_1904178,2026 FWC Rainbow Lenvira Set (F),2026 FWC Rainbow Lenvira Set (F)
-PROPITEM_TXT_1904179,The 2026 FWC Rainbow Lenvira costume for female characters.,The 2026 FWC Rainbow Lenvira costume for female characters.
-PROPITEM_TXT_1904180,2026 FWC Rainbow Runthiel/Runthien Set,2026 FWC Rainbow Runthiel/Runthien Set
-PROPITEM_TXT_1904181,2026 FWC Rainbow Runthiel Set (M),2026 FWC Rainbow Runthiel Set (M)
-PROPITEM_TXT_1904182,The 2026 FWC Rainbow Runthiel costume for male characters.,The 2026 FWC Rainbow Runthiel costume for male characters.
-PROPITEM_TXT_1904183,2026 FWC Rainbow Runthien Set (F),2026 FWC Rainbow Runthien Set (F)
-PROPITEM_TXT_1904184,The 2026 FWC Rainbow Runthien costume for female characters.,The 2026 FWC Rainbow Runthien costume for female characters.
-PROPITEM_TXT_1904185,2026 FWC Rainbow Ustamel/Ustamen Set,2026 FWC Rainbow Ustamel/Ustamen Set
-PROPITEM_TXT_1904186,2026 FWC Rainbow Ustamel Set (M),2026 FWC Rainbow Ustamel Set (M)
-PROPITEM_TXT_1904187,The 2026 FWC Rainbow Ustamel costume for male characters.,The 2026 FWC Rainbow Ustamel costume for male characters.
-PROPITEM_TXT_1904188,2026 FWC Rainbow Ustamen Set (F),2026 FWC Rainbow Ustamen Set (F)
-PROPITEM_TXT_1904189,The 2026 FWC Rainbow Ustamen costume for female characters.,The 2026 FWC Rainbow Ustamen costume for female characters.
-PROPITEM_TXT_1904190,2026 FWC Rainbow Virashon/Verashan Set,2026 FWC Rainbow Virashon/Verashan Set
-PROPITEM_TXT_1904191,2026 FWC Rainbow Virashon Set (M),2026 FWC Rainbow Virashon Set (M)
-PROPITEM_TXT_1904192,The 2026 FWC Rainbow Virashon costume for male characters.,The 2026 FWC Rainbow Virashon costume for male characters.
-PROPITEM_TXT_1904193,2026 FWC Rainbow Verashan Set (F),2026 FWC Rainbow Verashan Set (F)
-PROPITEM_TXT_1904194,The 2026 FWC Rainbow Verashan costume for female characters.,The 2026 FWC Rainbow Verashan costume for female characters.
-PROPITEM_TXT_1904195,2026 FWC Rainbow Zaythor/Zaythar Set,2026 FWC Rainbow Zaythor/Zaythar Set
-PROPITEM_TXT_1904196,2026 FWC Rainbow Zaythor Set (M),2026 FWC Rainbow Zaythor Set (M)
-PROPITEM_TXT_1904197,The 2026 FWC Rainbow Zaythor costume for male characters.,The 2026 FWC Rainbow Zaythor costume for male characters.
-PROPITEM_TXT_1904198,2026 FWC Rainbow Zaythar Set (F),2026 FWC Rainbow Zaythar Set (F)
-PROPITEM_TXT_1904199,The 2026 FWC Rainbow Zaythar costume for female characters.,The 2026 FWC Rainbow Zaythar costume for female characters.
-PROPITEM_TXT_1904200,2026 FWC Rainbow Wings,2026 FWC Rainbow Wings
-PROPITEM_TXT_1904201,Earn it from the 2026 Flyff World Championship!,Earn it from the 2026 Flyff World Championship!
-PROPITEM_TXT_1904202,2026 FWC Rainbow Costume Set Select Box,2026 FWC Rainbow Costume Set Select Box
-PROPITEM_TXT_1904203,Select the 2026 FWC Rainbow Costume Set that matches your character's class!,Select the 2026 FWC Rainbow Costume Set that matches your character's class!
-PROPITEM_TXT_1904204,2026 FWC Rainbow Chyrelle Helmet,2026 FWC Rainbow Chyrelle Helmet
-PROPITEM_TXT_1904205,2026 FWC Rainbow Chyrelle Suit,2026 FWC Rainbow Chyrelle Suit
-PROPITEM_TXT_1904206,2026 FWC Rainbow Chyrelle Gauntlets,2026 FWC Rainbow Chyrelle Gauntlets
-PROPITEM_TXT_1904207,2026 FWC Rainbow Chyrelle Boots,2026 FWC Rainbow Chyrelle Boots
-PROPITEM_TXT_1904208,2026 FWC Rainbow Chyrella Helmet,2026 FWC Rainbow Chyrella Helmet
-PROPITEM_TXT_1904209,2026 FWC Rainbow Chyrella Suit,2026 FWC Rainbow Chyrella Suit
-PROPITEM_TXT_1904210,2026 FWC Rainbow Chyrella Gauntlets,2026 FWC Rainbow Chyrella Gauntlets
-PROPITEM_TXT_1904211,2026 FWC Rainbow Chyrella Boots,2026 FWC Rainbow Chyrella Boots
-PROPITEM_TXT_1904212,2026 FWC Rainbow Etranor Helmet,2026 FWC Rainbow Etranor Helmet
-PROPITEM_TXT_1904213,2026 FWC Rainbow Etranor Suit,2026 FWC Rainbow Etranor Suit
-PROPITEM_TXT_1904214,2026 FWC Rainbow Etranor Gauntlets,2026 FWC Rainbow Etranor Gauntlets
-PROPITEM_TXT_1904215,2026 FWC Rainbow Etranor Boots,2026 FWC Rainbow Etranor Boots
-PROPITEM_TXT_1904216,2026 FWC Rainbow Etranar Helmet,2026 FWC Rainbow Etranar Helmet
-PROPITEM_TXT_1904217,2026 FWC Rainbow Etranar Suit,2026 FWC Rainbow Etranar Suit
-PROPITEM_TXT_1904218,2026 FWC Rainbow Etranar Gauntlets,2026 FWC Rainbow Etranar Gauntlets
-PROPITEM_TXT_1904219,2026 FWC Rainbow Etranar Boots,2026 FWC Rainbow Etranar Boots
-PROPITEM_TXT_1904220,2026 FWC Rainbow Kevric Helmet,2026 FWC Rainbow Kevric Helmet
-PROPITEM_TXT_1904221,2026 FWC Rainbow Kevric Suit,2026 FWC Rainbow Kevric Suit
-PROPITEM_TXT_1904222,2026 FWC Rainbow Kevric Gauntlets,2026 FWC Rainbow Kevric Gauntlets
-PROPITEM_TXT_1904223,2026 FWC Rainbow Kevric Boots,2026 FWC Rainbow Kevric Boots
-PROPITEM_TXT_1904224,2026 FWC Rainbow Kevricar Helmet,2026 FWC Rainbow Kevricar Helmet
-PROPITEM_TXT_1904225,2026 FWC Rainbow Kevricar Suit,2026 FWC Rainbow Kevricar Suit
-PROPITEM_TXT_1904226,2026 FWC Rainbow Kevricar Gauntlets,2026 FWC Rainbow Kevricar Gauntlets
-PROPITEM_TXT_1904227,2026 FWC Rainbow Kevricar Boots,2026 FWC Rainbow Kevricar Boots
-PROPITEM_TXT_1904228,2026 FWC Rainbow Lenvire Helmet,2026 FWC Rainbow Lenvire Helmet
-PROPITEM_TXT_1904229,2026 FWC Rainbow Lenvire Suit,2026 FWC Rainbow Lenvire Suit
-PROPITEM_TXT_1904230,2026 FWC Rainbow Lenvire Gauntlets,2026 FWC Rainbow Lenvire Gauntlets
-PROPITEM_TXT_1904231,2026 FWC Rainbow Lenvire Boots,2026 FWC Rainbow Lenvire Boots
-PROPITEM_TXT_1904232,2026 FWC Rainbow Lenvira Helmet,2026 FWC Rainbow Lenvira Helmet
-PROPITEM_TXT_1904233,2026 FWC Rainbow Lenvira Suit,2026 FWC Rainbow Lenvira Suit
-PROPITEM_TXT_1904234,2026 FWC Rainbow Lenvira Gauntlets,2026 FWC Rainbow Lenvira Gauntlets
-PROPITEM_TXT_1904235,2026 FWC Rainbow Lenvira Boots,2026 FWC Rainbow Lenvira Boots
-PROPITEM_TXT_1904236,2026 FWC Rainbow Runthiel Helmet,2026 FWC Rainbow Runthiel Helmet
-PROPITEM_TXT_1904237,2026 FWC Rainbow Runthiel Suit,2026 FWC Rainbow Runthiel Suit
-PROPITEM_TXT_1904238,2026 FWC Rainbow Runthiel Gauntlets,2026 FWC Rainbow Runthiel Gauntlets
-PROPITEM_TXT_1904239,2026 FWC Rainbow Runthiel Boots,2026 FWC Rainbow Runthiel Boots
-PROPITEM_TXT_1904240,2026 FWC Rainbow Runthien Helmet,2026 FWC Rainbow Runthien Helmet
-PROPITEM_TXT_1904241,2026 FWC Rainbow Runthien Suit,2026 FWC Rainbow Runthien Suit
-PROPITEM_TXT_1904242,2026 FWC Rainbow Runthien Gauntlets,2026 FWC Rainbow Runthien Gauntlets
-PROPITEM_TXT_1904243,2026 FWC Rainbow Runthien Boots,2026 FWC Rainbow Runthien Boots
-PROPITEM_TXT_1904244,2026 FWC Rainbow Ustamel Helmet,2026 FWC Rainbow Ustamel Helmet
-PROPITEM_TXT_1904245,2026 FWC Rainbow Ustamel Suit,2026 FWC Rainbow Ustamel Suit
-PROPITEM_TXT_1904246,2026 FWC Rainbow Ustamel Gauntlets,2026 FWC Rainbow Ustamel Gauntlets
-PROPITEM_TXT_1904247,2026 FWC Rainbow Ustamel Boots,2026 FWC Rainbow Ustamel Boots
-PROPITEM_TXT_1904248,2026 FWC Rainbow Ustamen Helmet,2026 FWC Rainbow Ustamen Helmet
-PROPITEM_TXT_1904249,2026 FWC Rainbow Ustamen Suit,2026 FWC Rainbow Ustamen Suit
-PROPITEM_TXT_1904250,2026 FWC Rainbow Ustamen Gauntlets,2026 FWC Rainbow Ustamen Gauntlets
-PROPITEM_TXT_1904251,2026 FWC Rainbow Ustamen Boots,2026 FWC Rainbow Ustamen Boots
-PROPITEM_TXT_1904252,2026 FWC Rainbow Virashon Helmet,2026 FWC Rainbow Virashon Helmet
-PROPITEM_TXT_1904253,2026 FWC Rainbow Virashon Suit,2026 FWC Rainbow Virashon Suit
-PROPITEM_TXT_1904254,2026 FWC Rainbow Virashon Gauntlets,2026 FWC Rainbow Virashon Gauntlets
-PROPITEM_TXT_1904255,2026 FWC Rainbow Virashon Boots,2026 FWC Rainbow Virashon Boots
-PROPITEM_TXT_1904256,2026 FWC Rainbow Verashan Helmet,2026 FWC Rainbow Verashan Helmet
-PROPITEM_TXT_1904257,2026 FWC Rainbow Verashan Suit,2026 FWC Rainbow Verashan Suit
-PROPITEM_TXT_1904258,2026 FWC Rainbow Verashan Gauntlets,2026 FWC Rainbow Verashan Gauntlets
-PROPITEM_TXT_1904259,2026 FWC Rainbow Verashan Boots,2026 FWC Rainbow Verashan Boots
-PROPITEM_TXT_1904260,2026 FWC Rainbow Zaythor Helmet,2026 FWC Rainbow Zaythor Helmet
-PROPITEM_TXT_1904261,2026 FWC Rainbow Zaythor Suit,2026 FWC Rainbow Zaythor Suit
-PROPITEM_TXT_1904262,2026 FWC Rainbow Zaythor Gauntlets,2026 FWC Rainbow Zaythor Gauntlets
-PROPITEM_TXT_1904263,2026 FWC Rainbow Zaythor Boots,2026 FWC Rainbow Zaythor Boots
-PROPITEM_TXT_1904264,2026 FWC Rainbow Zaythar Helmet,2026 FWC Rainbow Zaythar Helmet
-PROPITEM_TXT_1904265,2026 FWC Rainbow Zaythar Suit,2026 FWC Rainbow Zaythar Suit
-PROPITEM_TXT_1904266,2026 FWC Rainbow Zaythar Gauntlets,2026 FWC Rainbow Zaythar Gauntlets
-PROPITEM_TXT_1904267,2026 FWC Rainbow Zaythar Boots,2026 FWC Rainbow Zaythar Boots
+PROPITEM_TXT_1904100,Twilight Dusk Grey Cloak,Twilight Dusk Grey Cloak背饰
+PROPITEM_TXT_1904101,Twilight Dusk Grey Lollipop,Twilight Dusk Grey Lollipop面饰
+PROPITEM_TXT_1904102,Twilight Dusk Grey Hat (M),Twilight Dusk Grey Hat(男)
+PROPITEM_TXT_1904103,Twilight Dusk Grey Suit (M),Twilight Dusk Grey Suit(男)
+PROPITEM_TXT_1904104,Twilight Dusk Grey Shoes (M),Twilight Dusk Grey Shoes(男)
+PROPITEM_TXT_1904105,Twilight Dusk 2% Grey Set (M),Twilight Dusk 2% Grey Set(男)
+PROPITEM_TXT_1904106,The Twilight Dusk 2% Grey Set for male characters.,男性Twilight Dusk灰色套装2%移速。
+PROPITEM_TXT_1904107,Twilight Dusk Grey Hat (F),Twilight Dusk Grey Hat(女)
+PROPITEM_TXT_1904108,Twilight Dusk Grey Suit (F),Twilight Dusk Grey Suit(女)
+PROPITEM_TXT_1904109,Twilight Dusk Grey Shoes (F),Twilight Dusk Grey Shoes(女)
+PROPITEM_TXT_1904110,Twilight Dusk 2% Grey Set (F),Twilight Dusk 2% Grey Set(女)
+PROPITEM_TXT_1904111,The Twilight Dusk 2% Grey Set for female characters.,女性Twilight Dusk灰色套装2%移速。
+PROPITEM_TXT_1904112,Twilight Dusk Costume Lucky Box,Twilight Dusk 时装幸运箱
+PROPITEM_TXT_1904113,This box contains a Twilight Dusk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的Twilight Dusk Set。你可以在开启后选择套装性别。
+PROPITEM_TXT_1904114,FWC 2026 Grand Final Coupon 3,FWC2026总决赛礼券3
+PROPITEM_TXT_1904115,"A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 3x Scroll of Resurrection, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked.","包含 2x 个人仓库扩展背包 (3天), 5x 强效灵药选择箱, 3x 复活卷轴, 1x 荣耀之翼选择箱 以及 1x 氮气加速 (15天)。所有道具均为角色绑定。"
+PROPITEM_TXT_1904116,Celestial Champion Set,天界冠军套装
+PROPITEM_TXT_1904117,Celestial Champion Cloak,天界冠军披风
+PROPITEM_TXT_1904118,Celestial Champion Hat (M),天界冠军帽子(男)
+PROPITEM_TXT_1904119,Celestial Champion Suit (M),天界冠军衣服(男)
+PROPITEM_TXT_1904120,Celestial Champion Shoes (M),天界冠军鞋子(男)
+PROPITEM_TXT_1904121,Celestial Champion Hands (M),天界冠军手套(男)
+PROPITEM_TXT_1904122,Celestial Champion Set (M),天界冠军套装(男)
+PROPITEM_TXT_1904123,The Celestial Champion Set for male characters.,男性天界冠军套装。
+PROPITEM_TXT_1904124,Celestial Champion Hat (F),天界冠军帽子(女)
+PROPITEM_TXT_1904125,Celestial Champion Suit (F),天界冠军衣服(女)
+PROPITEM_TXT_1904126,Celestial Champion Shoes (F),天界冠军鞋子(女)
+PROPITEM_TXT_1904127,Celestial Champion Hands (F),天界冠军手套(女)
+PROPITEM_TXT_1904128,Celestial Champion Set (F),天界冠军套装(女)
+PROPITEM_TXT_1904129,The Celestial Champion Set for female characters.,男性天界冠军套装。
+PROPITEM_TXT_1904130,Celestial Champion Sword,天界冠军剑
+PROPITEM_TXT_1904131,Celestial Champion Axe,天界冠军斧
+PROPITEM_TXT_1904132,Celestial Champion Big Sword,天界冠军巨剑
+PROPITEM_TXT_1904133,Celestial Champion Big Axe,天界冠军双手斧
+PROPITEM_TXT_1904134,Celestial Champion Stick,天界冠军魔棒
+PROPITEM_TXT_1904135,Celestial Champion Knuckle,天界冠军拳套
+PROPITEM_TXT_1904136,Celestial Champion Bow,天界冠军弓
+PROPITEM_TXT_1904137,Celestial Champion Yo-Yo,天界冠军飞轮
+PROPITEM_TXT_1904138,Celestial Champion Staff,天界冠军法杖
+PROPITEM_TXT_1904139,Celestial Champion Wand,天界冠军魔杖
+PROPITEM_TXT_1904140,Celestial Champion Shield,天界冠军盾
+PROPITEM_TXT_1904141,Celestial Champion Force Gem,天界冠军手镯
+PROPITEM_TXT_1904142,Celestial Champion Book,天界冠军之书
+PROPITEM_TXT_1904143,Celestial Champion  Weapon Set,天界冠军武器套装
+PROPITEM_TXT_1904144,Select which Celestial Champion Weapon you want to receive!,选择你想要获得的天界冠军武器吧！
+PROPITEM_TXT_1904145,2026 FWC Rainbow Curtana,2026FWC彩虹慈悲之剑
+PROPITEM_TXT_1904146,2026 FWC Rainbow Butcher's Carnage,2026FWC彩虹血腥盛宴
+PROPITEM_TXT_1904147,2026 FWC Rainbow Celestial Edge,2026FWC彩虹天界裁断
+PROPITEM_TXT_1904148,2026 FWC Rainbow Harbinger,2026FWC彩虹终焉处决
+PROPITEM_TXT_1904149,2026 FWC Rainbow Oracle,2026FWC彩虹神谕
+PROPITEM_TXT_1904150,2026 FWC Rainbow Maw of Judgement,2026FWC彩虹审判之噬
+PROPITEM_TXT_1904151,2026 FWC Rainbow Dragon's Rain,2026FWC彩虹龙霖
+PROPITEM_TXT_1904152,2026 FWC Rainbow Dementia,2026FWC彩虹谵妄
+PROPITEM_TXT_1904153,2026 FWC Rainbow Roika's Stave,2026FWC彩虹创世残脉
+PROPITEM_TXT_1904154,2026 FWC Rainbow Scepter of Disorder,2026FWC彩虹混沌神权
+PROPITEM_TXT_1904155,2026 FWC Rainbow Phantasmal Shield,2026FWC彩虹幻影之盾
+PROPITEM_TXT_1904156,2026 FWC Rainbow Soul of Entaness,2026FWC彩虹女王之魂
+PROPITEM_TXT_1904157,2026 FWC Rainbow Book of Thorns,2026FWC彩虹荆棘之书
+PROPITEM_TXT_1904158,2026 FWC Rainbow Weapon Set,2026FWC彩虹武器套装
+PROPITEM_TXT_1904159,Select which 2026 FWC Rainbow Weapon you want to receive!,选择你想要获得的2026FWC彩虹武器吧！
+PROPITEM_TXT_1904160,2026 FWC Rainbow Chyrelle/Chyrella Set,2026FWC彩虹谑影者套装
+PROPITEM_TXT_1904161,2026 FWC Rainbow Chyrelle Set (M),2026FWC彩虹谑影者套装(男)
+PROPITEM_TXT_1904162,The 2026 FWC Rainbow Chyrelle costume for male characters.,男性款式的彩虹谑影者套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904163,2026 FWC Rainbow Chyrella Set (F),2026FWC彩虹谑影者套装(女)
+PROPITEM_TXT_1904164,The 2026 FWC Rainbow Chyrella costume for female characters.,女性款式的彩虹谑影者套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904165,2026 FWC Rainbow Etranor/Etranar Set,2026FWC彩虹救世神使套装
+PROPITEM_TXT_1904166,2026 FWC Rainbow Etranor Set (M),2026FWC彩虹救世神使套装(男)
+PROPITEM_TXT_1904167,The 2026 FWC Rainbow Etranor costume for male characters.,男性款式的彩虹救世神使套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904168,2026 FWC Rainbow Etranar Set (F),2026FWC彩虹救世神使套装(女)
+PROPITEM_TXT_1904169,The 2026 FWC Rainbow Etranar costume for female characters.,女性款式的彩虹救世神使套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904170,2026 FWC Rainbow Kevric/Kevricar Set,2026FWC彩虹格斗宗师套装
+PROPITEM_TXT_1904171,2026 FWC Rainbow Kevric Set (M),2026FWC彩虹格斗宗师套装(男)
+PROPITEM_TXT_1904172,The 2026 FWC Rainbow Kevric costume for male characters.,男性款式的彩虹格斗宗师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904173,2026 FWC Rainbow Kevricar Set (F),2026FWC彩虹格斗宗师套装(女)
+PROPITEM_TXT_1904174,The 2026 FWC Rainbow Kevricar costume for female characters.,女性款式的彩虹格斗宗师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904175,2026 FWC Rainbow Lenvire/Lenvira Set,2026FWC彩虹神射手套装
+PROPITEM_TXT_1904176,2026 FWC Rainbow Lenvire Set (M),2026FWC彩虹神射手套装(男)
+PROPITEM_TXT_1904177,The 2026 FWC Rainbow Lenvire costume for male characters.,男性款式的彩虹神射手套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904178,2026 FWC Rainbow Lenvira Set (F),2026FWC彩虹神射手套装(女)
+PROPITEM_TXT_1904179,The 2026 FWC Rainbow Lenvira costume for female characters.,女性款式的彩虹神射手套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904180,2026 FWC Rainbow Runthiel/Runthien Set,2026FWC彩虹圣殿骑士套装
+PROPITEM_TXT_1904181,2026 FWC Rainbow Runthiel Set (M),2026FWC彩虹圣殿骑士套装(男)
+PROPITEM_TXT_1904182,The 2026 FWC Rainbow Runthiel costume for male characters.,男性款式的彩虹圣殿骑士套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904183,2026 FWC Rainbow Runthien Set (F),2026FWC彩虹圣殿骑士套装(女)
+PROPITEM_TXT_1904184,The 2026 FWC Rainbow Runthien costume for female characters.,女性款式的彩虹圣殿骑士套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904185,2026 FWC Rainbow Ustamel/Ustamen Set,2026FWC彩虹心灵师套装
+PROPITEM_TXT_1904186,2026 FWC Rainbow Ustamel Set (M),2026FWC彩虹心灵师套装(男)
+PROPITEM_TXT_1904187,The 2026 FWC Rainbow Ustamel costume for male characters.,男性款式的彩虹心灵师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904188,2026 FWC Rainbow Ustamen Set (F),2026FWC彩虹心灵师套装(女)
+PROPITEM_TXT_1904189,The 2026 FWC Rainbow Ustamen costume for female characters.,女性款式的彩虹心灵师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904190,2026 FWC Rainbow Virashon/Verashan Set,2026FWC彩虹奥术师套装
+PROPITEM_TXT_1904191,2026 FWC Rainbow Virashon Set (M),2026FWC彩虹奥术师套装(男)
+PROPITEM_TXT_1904192,The 2026 FWC Rainbow Virashon costume for male characters.,男性款式的彩虹奥术师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904193,2026 FWC Rainbow Verashan Set (F),2026FWC彩虹奥术师套装(女)
+PROPITEM_TXT_1904194,The 2026 FWC Rainbow Verashan costume for female characters.,女性款式的彩虹奥术师套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904195,2026 FWC Rainbow Zaythor/Zaythar Set,2026FWC彩虹屠戮者套装
+PROPITEM_TXT_1904196,2026 FWC Rainbow Zaythor Set (M),2026FWC彩虹屠戮者套装(男)
+PROPITEM_TXT_1904197,The 2026 FWC Rainbow Zaythor costume for male characters.,男性款式的彩虹屠戮者套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904198,2026 FWC Rainbow Zaythar Set (F),2026FWC彩虹屠戮者套装(女)
+PROPITEM_TXT_1904199,The 2026 FWC Rainbow Zaythar costume for female characters.,女性款式的彩虹屠戮者套装，穿戴此时装不会有职业限制。
+PROPITEM_TXT_1904200,2026 FWC Rainbow Wings,2026FWC彩虹翅膀
+PROPITEM_TXT_1904201,Earn it from the 2026 Flyff World Championship!,从2026Flyff世界锦标赛中获得！
+PROPITEM_TXT_1904202,2026 FWC Rainbow Costume Set Select Box,2026FWC彩虹时装套装选择箱
+PROPITEM_TXT_1904203,Select the 2026 FWC Rainbow Costume Set that matches your character's class!,选择与你角色职业相匹配的2026FWC彩虹时装套装！
+PROPITEM_TXT_1904204,2026 FWC Rainbow Chyrelle Helmet,2026FWC彩虹谑影者头盔(男)
+PROPITEM_TXT_1904205,2026 FWC Rainbow Chyrelle Suit,2026FWC彩虹谑影者上衣(男)
+PROPITEM_TXT_1904206,2026 FWC Rainbow Chyrelle Gauntlets,2026FWC彩虹谑影者手套(男)
+PROPITEM_TXT_1904207,2026 FWC Rainbow Chyrelle Boots,2026FWC彩虹谑影者鞋子(男)
+PROPITEM_TXT_1904208,2026 FWC Rainbow Chyrella Helmet,2026FWC彩虹谑影者头盔(女)
+PROPITEM_TXT_1904209,2026 FWC Rainbow Chyrella Suit,2026FWC彩虹谑影者上衣(女)
+PROPITEM_TXT_1904210,2026 FWC Rainbow Chyrella Gauntlets,2026FWC彩虹谑影者手套(女)
+PROPITEM_TXT_1904211,2026 FWC Rainbow Chyrella Boots,2026FWC彩虹谑影者鞋子(女)
+PROPITEM_TXT_1904212,2026 FWC Rainbow Etranor Helmet,2026FWC彩虹救世神使头盔(男)
+PROPITEM_TXT_1904213,2026 FWC Rainbow Etranor Suit,2026FWC彩虹救世神使上衣(男)
+PROPITEM_TXT_1904214,2026 FWC Rainbow Etranor Gauntlets,2026FWC彩虹救世神使手套(男)
+PROPITEM_TXT_1904215,2026 FWC Rainbow Etranor Boots,2026FWC彩虹救世神使鞋子(男)
+PROPITEM_TXT_1904216,2026 FWC Rainbow Etranar Helmet,2026FWC彩虹救世神使头盔(女)
+PROPITEM_TXT_1904217,2026 FWC Rainbow Etranar Suit,2026FWC彩虹救世神使上衣(女)
+PROPITEM_TXT_1904218,2026 FWC Rainbow Etranar Gauntlets,2026FWC彩虹救世神使手套(女)
+PROPITEM_TXT_1904219,2026 FWC Rainbow Etranar Boots,2026FWC彩虹救世神使鞋子(女)
+PROPITEM_TXT_1904220,2026 FWC Rainbow Kevric Helmet,2026FWC彩虹格斗宗师头盔(男)
+PROPITEM_TXT_1904221,2026 FWC Rainbow Kevric Suit,2026FWC彩虹格斗宗师上衣(男)
+PROPITEM_TXT_1904222,2026 FWC Rainbow Kevric Gauntlets,2026FWC彩虹格斗宗师手套(男)
+PROPITEM_TXT_1904223,2026 FWC Rainbow Kevric Boots,2026FWC彩虹格斗宗师鞋子(男)
+PROPITEM_TXT_1904224,2026 FWC Rainbow Kevricar Helmet,2026FWC彩虹格斗宗师头盔(女)
+PROPITEM_TXT_1904225,2026 FWC Rainbow Kevricar Suit,2026FWC彩虹格斗宗师上衣(女)
+PROPITEM_TXT_1904226,2026 FWC Rainbow Kevricar Gauntlets,2026FWC彩虹格斗宗师手套(女)
+PROPITEM_TXT_1904227,2026 FWC Rainbow Kevricar Boots,2026FWC彩虹格斗宗师鞋子(女)
+PROPITEM_TXT_1904228,2026 FWC Rainbow Lenvire Helmet,2026FWC彩虹神射手头盔(男)
+PROPITEM_TXT_1904229,2026 FWC Rainbow Lenvire Suit,2026FWC彩虹神射手上衣(男)
+PROPITEM_TXT_1904230,2026 FWC Rainbow Lenvire Gauntlets,2026FWC彩虹神射手手套(男)
+PROPITEM_TXT_1904231,2026 FWC Rainbow Lenvire Boots,2026FWC彩虹神射手鞋子(男)
+PROPITEM_TXT_1904232,2026 FWC Rainbow Lenvira Helmet,2026FWC彩虹神射手头盔(女)
+PROPITEM_TXT_1904233,2026 FWC Rainbow Lenvira Suit,2026FWC彩虹神射手上衣(女)
+PROPITEM_TXT_1904234,2026 FWC Rainbow Lenvira Gauntlets,2026FWC彩虹神射手手套(女)
+PROPITEM_TXT_1904235,2026 FWC Rainbow Lenvira Boots,2026FWC彩虹神射手鞋子(女)
+PROPITEM_TXT_1904236,2026 FWC Rainbow Runthiel Helmet,2026FWC彩虹圣殿骑士头盔(男)
+PROPITEM_TXT_1904237,2026 FWC Rainbow Runthiel Suit,2026FWC彩虹圣殿骑士上衣(男)
+PROPITEM_TXT_1904238,2026 FWC Rainbow Runthiel Gauntlets,2026FWC彩虹圣殿骑士手套(男)
+PROPITEM_TXT_1904239,2026 FWC Rainbow Runthiel Boots,2026FWC彩虹圣殿骑士鞋子(男)
+PROPITEM_TXT_1904240,2026 FWC Rainbow Runthien Helmet,2026FWC彩虹圣殿骑士头盔(女)
+PROPITEM_TXT_1904241,2026 FWC Rainbow Runthien Suit,2026FWC彩虹圣殿骑士上衣(女)
+PROPITEM_TXT_1904242,2026 FWC Rainbow Runthien Gauntlets,2026FWC彩虹圣殿骑士手套(女)
+PROPITEM_TXT_1904243,2026 FWC Rainbow Runthien Boots,2026FWC彩虹圣殿骑士鞋子(女)
+PROPITEM_TXT_1904244,2026 FWC Rainbow Ustamel Helmet,2026FWC彩虹心灵师头盔(男)
+PROPITEM_TXT_1904245,2026 FWC Rainbow Ustamel Suit,2026FWC彩虹心灵师上衣(男)
+PROPITEM_TXT_1904246,2026 FWC Rainbow Ustamel Gauntlets,2026FWC彩虹心灵师手套(男)
+PROPITEM_TXT_1904247,2026 FWC Rainbow Ustamel Boots,2026FWC彩虹心灵师鞋子(男)
+PROPITEM_TXT_1904248,2026 FWC Rainbow Ustamen Helmet,2026FWC彩虹心灵师头盔(女)
+PROPITEM_TXT_1904249,2026 FWC Rainbow Ustamen Suit,2026FWC彩虹心灵师上衣(女)
+PROPITEM_TXT_1904250,2026 FWC Rainbow Ustamen Gauntlets,2026FWC彩虹心灵师手套(女)
+PROPITEM_TXT_1904251,2026 FWC Rainbow Ustamen Boots,2026FWC彩虹心灵师鞋子(女)
+PROPITEM_TXT_1904252,2026 FWC Rainbow Virashon Helmet,2026FWC彩虹奥术师头盔(男)
+PROPITEM_TXT_1904253,2026 FWC Rainbow Virashon Suit,2026FWC彩虹奥术师上衣(男)
+PROPITEM_TXT_1904254,2026 FWC Rainbow Virashon Gauntlets,2026FWC彩虹奥术师手套(男)
+PROPITEM_TXT_1904255,2026 FWC Rainbow Virashon Boots,2026FWC彩虹奥术师鞋子(男)
+PROPITEM_TXT_1904256,2026 FWC Rainbow Verashan Helmet,2026FWC彩虹奥术师头盔(女)
+PROPITEM_TXT_1904257,2026 FWC Rainbow Verashan Suit,2026FWC彩虹奥术师上衣(女)
+PROPITEM_TXT_1904258,2026 FWC Rainbow Verashan Gauntlets,2026FWC彩虹奥术师手套(女)
+PROPITEM_TXT_1904259,2026 FWC Rainbow Verashan Boots,2026FWC彩虹奥术师鞋子(女)
+PROPITEM_TXT_1904260,2026 FWC Rainbow Zaythor Helmet,2026FWC彩虹屠戮者头盔(男)
+PROPITEM_TXT_1904261,2026 FWC Rainbow Zaythor Suit,2026FWC彩虹屠戮者上衣(男)
+PROPITEM_TXT_1904262,2026 FWC Rainbow Zaythor Gauntlets,2026FWC彩虹屠戮者手套(男)
+PROPITEM_TXT_1904263,2026 FWC Rainbow Zaythor Boots,2026FWC彩虹屠戮者鞋子(男)
+PROPITEM_TXT_1904264,2026 FWC Rainbow Zaythar Helmet,2026FWC彩虹屠戮者头盔(女)
+PROPITEM_TXT_1904265,2026 FWC Rainbow Zaythar Suit,2026FWC彩虹屠戮者上衣(女)
+PROPITEM_TXT_1904266,2026 FWC Rainbow Zaythar Gauntlets,2026FWC彩虹屠戮者手套(女)
+PROPITEM_TXT_1904267,2026 FWC Rainbow Zaythar Boots,2026FWC彩虹屠戮者鞋子(女)

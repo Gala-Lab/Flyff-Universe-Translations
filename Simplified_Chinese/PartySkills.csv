@@ -6,14 +6,14 @@ PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a tar
 PROPTROUPESKILL_TXT_000004,Retreat,演出谢幕
 PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,通知团员撤退。
 PROPTROUPESKILL_TXT_000008,Precision,全场喝彩
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,根据周围剧团成员数量增加团长下一次攻击的暴击率。/n（增加量为0.5% x 团员数量）。
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,根据周围剧团成员数量增加团长下一次攻击的暴击率。\n（增加量为0.5% x 团员数量）。
 PROPTROUPESKILL_TXT_000010,Linked Attack,合作演出
 PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,附近每有一位剧团成员，会为团长提供5%的伤害加成。
 PROPTROUPESKILL_TXT_000012,Lucky Drop,幕间抽奖
 PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,增加怪物身上掉落特殊物品的概率。
 PROPTROUPESKILL_TXT_000014,Resting,幕间休息
-PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",提高非战斗状态的团员在团长身边坐下休息时的恢复速度至1.5倍。/n如果团长为圣职者，则提升为1.8倍。
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",提高非战斗状态的团员在团长身边坐下休息时的恢复速度至1.5倍。\n如果团长为圣职者，则提升为1.8倍。
 PROPTROUPESKILL_TXT_000016,Gift Box,幸运观众
 PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,从怪物身上掉落物品的数量增加。
 PROPTROUPESKILL_TXT_000018,Global Attack,羁绊
-PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,附近每有一位剧团成员，会为全体团员提供2.5%的伤害加成。/n如果同时使用了合作演出，则对剧团长无效。
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,附近每有一位剧团成员，会为全体团员提供2.5%的伤害加成。\n如果同时使用了合作演出，则对剧团长无效。

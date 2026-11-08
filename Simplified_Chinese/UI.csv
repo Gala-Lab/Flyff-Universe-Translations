@@ -505,7 +505,7 @@ UI_GUILDBANK_SUPPORT,Donate,捐赠
 UI_GUILDBANK_CLOAK,Cloak,披风
 UI_GUILDBANK_ITEM,Items,物品
 UI_GUILDMERIT_TITLE,Guild Donation,公会贡献
-UI_GUILDMERIT_QUESTITEMS,Quest Items,捐献战利品
+UI_GUILDMERIT_QUESTITEMS,Quest Items,战利品
 UI_GUILDMERIT_PENYA,Penya,金币
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,公会战的情报
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,公会仓库日志
@@ -753,8 +753,8 @@ UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),名字（从A到Z）
 UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),名字（从Z到A）
 UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),价格（低>高）
 UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),价格（高>低）
-UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in this category.,#b%d#nb 类别中的项目.
-UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items found matching your search.,#b%d#nb 项目匹配搜索.
+UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in this category.,该分类下共找到#b%d#nb个物品。
+UI_CASHSHOP_SEARCHCOUNT,#b%d#nb items found matching your search.,搜索到#b%d#nb个符合条件的物品。
 UI_CASHSHOP_EMPTY,No items found.,未搜索到任何物品
 UI_CASHSHOP_CONFIRM_TITLE,Confirm Purchase,确认购买
 UI_CASHSHOP_CONFIRM_MSG,Purchase %dx %s for %s?,确认购买%dx %s 吗？将花费%s.
@@ -763,7 +763,7 @@ UI_CASHSHOP_PURCHASE,PURCHASE,购买
 UI_CASHSHOP_QUANTITY,Quantity:,数量：
 UI_CASHSHOP_UNIT_PRICE,Unit Price:,单价：
 UI_CASHSHOP_TOTAL_PRICE,Total Price:,总价：
-UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,限时销售！#b%s#nb内截止
+UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,限时销售！#b%s#nb后结束
 UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,买1赠 %d ！
 UI_CASHSHOP_PRODUCT_ID,Product ID:,物品 ID:
 UI_OPTION_POSTPROCESSING,Post-processing,后期处理
@@ -1199,7 +1199,7 @@ UI_SEARCHGROUP_MODE_CONFIRM,Requires Leader Approval,团长批准
 UI_SEARCHGROUP_MODE_FREE,Open to Anyone,自由加入
 UI_GROUPSEARCH_REFRESH,Refresh,刷新
 UI_GROUPSEARCH_FILTER,Filter:,筛选：
-UI_GROUPSEARCH_SORT,Sort:,种类：
+UI_GROUPSEARCH_SORT,Sort:,分类：
 UI_GROUPSEARCH_PARTYNAME,Party Name,名称
 UI_GROUPSEARCH_GUILDNAME,Guild Name,公会名称
 UI_GROUPSEARCH_LEADER,Leader,剧团团长
@@ -1263,7 +1263,7 @@ UI_CASHSHOP_PENYA_ONLY,Penya Only,仅限金币
 UI_CASHSHOP_PENYA,Penya,金币
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),金币（VIP）
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b无法交易或出售#nb
-UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次购买 #b不是商品#nb。
+UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次购买为 #b非道具商品#nb。
 UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抵抗
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP伤害减免
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE伤害减免
@@ -1272,7 +1272,7 @@ UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,物理抵抗
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvP伤害
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,PvE伤害
 UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum 伤害
-UI_TOOLTIP_WALL_LIVES,Number of lives: %d,攻击次数: %d
+UI_TOOLTIP_WALL_LIVES,Number of lives: %d,机会: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,取消增益状态
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,你是否确定删除增益效果 #b%s#nb? 这一行为不可撤销。
 UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PvP),反射伤害: %d%% / %d%% (PvP)
@@ -2059,8 +2059,8 @@ UI_PLAYERHOUSINGBUY_CONFIRM,Select Template,选择模板
 UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs.",确定选择此模板？\n#b注意：#nb 如果您已经拥有房屋，此操作将移除所有当前已放置的装饰品和NPC。
 UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,拜访好友房屋
 UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,请选择要拜访的好友。此处仅显示在线并允许你访问的好友。
-UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,允许他人来访
-UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,拒绝他人来访
+UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,允许拜访我的小屋
+UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,禁止拜访我的小屋
 UI_GACHA_DESC_HOUSING,You will receive the following housing objects.,您将获得以下房屋物件。
 UI_PLAYERHOUSINGVISIT_CONFIRM,Visit House,拜访房屋
 UI_HOUSINGSETUP_OBJECTSLIST,House inventory,房屋仓库
@@ -2402,12 +2402,12 @@ UI_DELETEACCOUNT_NOPASS,Do you confirm?,你确定吗？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.",会员退订后，所有数据将被删除，您将无法继续使用本服务、恢复账号，也无法就任何剩余的付费项目或货币申请退款。
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,搜索个人及替身商店道具。
 UI_SEARCHSHOP_RARITY,Rarity,稀有度
-UI_SEARCHSHOP_UPGRADE,Upgrade:,升级：
+UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼：
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,包含关键词
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,精准关键词
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,商店距离
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,总 # 物品数：%d
-UI_SEARCHSHOP_NOSHOP,No shops match your search.,没有找到匹配的店铺。
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,# 总物品数: %d
+UI_SEARCHSHOP_NOSHOP,No shops match your search.,没有找到符合的店铺。
 UI_PARTY_READY_CHECK,Ready,准备
 UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,对剧团发起准备确认
 UI_PARTY_READY_CHECK_TEXT,Start a ready check for the party?,是否对剧团发起准备确认？
@@ -2803,7 +2803,7 @@ UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,收集 %s #cffc32f07#b%d/%d
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,可用祝福次数已耗尽。
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,周排行榜
-UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,永久排行榜
+UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,长期排行榜
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,称号:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: ,当前排名:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,未上榜。
@@ -3173,7 +3173,7 @@ UI_FWC_PASS_2025,2025 FWC Championship Pass,2025年FWC锦标赛通行证
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,使用消耗品
 UI_BATTLEPASS_MISSION_GETITEM,Obtain %s,获取 %s
 UI_TOOLTIP_TITLE_FWC_COIN,Betting Coin Blessing,竞猜筹码祝福加成
-UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,FWC Coin掉落已提升
+UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,FWC币掉落已提升
 UI_ADDATTRIBUTE_START,Start,开始
 UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,待精炼道具
 UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,你的材料用完了。
@@ -3186,16 +3186,16 @@ UI_PTS_POPUP_HIDE,Do not show this again,不再提示
 UI_TAB_FWC_PREDICTION_RULE,Rule,规则
 UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,竞猜
 UI_TAB_FWC_RANKING,Ranking,排名
-UI_REMAINING_FWCCOIN,Remaining FWC Coin,剩余 FWC Coin
+UI_REMAINING_FWCCOIN,Remaining FWC Coin,剩余FWC币
 UI_TIMELEFT,Time left,剩余时间
 UI_GUILDICON,Guild Icon,公会徽标
 UI_GUILDNAME,Guild Name,公会名称
 UI_TOTALBETAMOUNT,Total Bet Amount,总计投注额
 UI_MYBET,My Bet,个人投注额
-UI_ACTION,Action,动作
-UI_BTN_ADDBET,Add Bet,增加投注
-UI_TITLE_ADDBET,Add Bet,增加投注
-UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ",* 最低下注额：50 coins\n* 一旦确认，下注将无法撤回或修改。
+UI_ACTION,Action,操作
+UI_BTN_ADDBET,Add Bet,下注
+UI_TITLE_ADDBET,Add Bet,下注
+UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ",* 最低下注额：50 FWC币\n* 一旦确认，下注将无法撤回或修改。
 UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,输入下注数额:
 UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,确定进行下注吗？\n公会名称： %s\n下注数额：%s
 UI_TITLE_GUILDINFO,Guild Info,公会信息
@@ -3203,10 +3203,10 @@ UI_BTN_MEMBERS,Members,成员
 UI_CHARACTERNAME,Name,昵称
 UI_JOB,Job,职业
 UI_SERVER,Server,服务器
-UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,全部服务器\nFWC Coin 花费
-UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,个人 FWC Coin 花费
+UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,全服\nFWC币花费
+UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,个人FWC币花费
 UI_RANK,Rank,排名
-UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,总计 FWC Coin 花费
+UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,总计FWC币花费
 UI_OPTION_IMAGE_TITLE,Banner Titles,横幅称号
 UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,右手武器攻击力
 UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,左手武器攻击力
