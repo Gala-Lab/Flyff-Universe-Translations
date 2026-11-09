@@ -2406,7 +2406,7 @@ UI_SEARCHSHOP_UPGRADE,Upgrade:,精炼：
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,包含关键词
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,精准关键词
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,商店距离
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,# 总物品数: %d
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,总物品数: %d
 UI_SEARCHSHOP_NOSHOP,No shops match your search.,没有找到符合的店铺。
 UI_PARTY_READY_CHECK,Ready,准备
 UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,对剧团发起准备确认

@@ -17406,7 +17406,7 @@ PROPITEM_TXT_133023,The finest pickaxe that is used for mining ores. Mining succ
 PROPITEM_TXT_133024,Fishing Rod,普通鱼竿
 PROPITEM_TXT_133025,"A fishing rod that is used for fishing. Fishing success rate: 20%, chance of catching a large fish: 5%",钓鱼专用的工具。\n钓鱼成功率：20%\n有5%几率钓到大鱼。
 PROPITEM_TXT_133026,Well-maintained Fishing Rod,精良鱼竿
-PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 30%, chance of catching a large fish: 6%",钓鱼专用的工具。\n钓鱼成功率：35%\n有6%几率钓到大鱼。
+PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 30%, chance of catching a large fish: 6%",钓鱼专用的工具。\n钓鱼成功率：30%\n有6%几率钓到大鱼。
 PROPITEM_TXT_133028,New Fishing Rod,新式鱼竿
 PROPITEM_TXT_133029,"A new type of fishing rod that is used for fishing. Fishing success rate: 40%, chance of catching a large fish: 8%",钓鱼专用的工具。\n钓鱼成功率：40%\n有8%几率钓到大鱼。
 PROPITEM_TXT_133030,Finest Fishing Rod,终极鱼竿
@@ -19865,13 +19865,13 @@ PROPITEM_TXT_144152,Final reward for the Christmas Invasion!\nYou can earn 1 202
 PROPITEM_TXT_144153,Blue Cobra,蓝眼镜蛇
 PROPITEM_TXT_144154,A Cobra that follows its master around and picks up dropped items,一只眼镜蛇跟随它的主人并捡起周围掉落的物品。
 PROPITEM_TXT_144155,2025 Red Rice Cake Soup,2025 Red Rice Cake Soup
-PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,食用后力量+23，持续30分钟。
+PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,食用后力量+25，持续30分钟。
 PROPITEM_TXT_144157,2025 Green Rice Cake Soup,2025 Green Rice Cake Soup
-PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,食用后敏捷+23，持续30分钟。
+PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,食用后敏捷+25，持续30分钟。
 PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,2025 Blue Rice Cake Soup
-PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,食用后智力+23，持续30分钟。
+PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,食用后智力+25，持续30分钟。
 PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,2025 Yellow Rice Cake Soup
-PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,食用后体质+23，持续30分钟。
+PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,食用后体质+25，持续30分钟。
 PROPITEM_TXT_826335,Xmas 2024 White Edition 10% Red Set,2024红色圣诞白套装 10% 移速
 PROPITEM_TXT_826336,Xmas 2024 White Edition Red Wings,2024红色圣诞白翅膀
 PROPITEM_TXT_826337,Xmas 2024 White Edition Red Sunglasses,2024红色圣诞白太阳镜
@@ -29114,70 +29114,70 @@ PROPITEM_TXT_906048,Forest Pocket Shinobi,森林绿袖珍忍者
 PROPITEM_TXT_906049,White Pocket Shinobi,白色袖珍忍者
 PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,日本勇士套装幸运箱
 PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的日本勇士套装。你可以在开启后选择套装性别。
-PROPITEM_TXT_161000,Primordial Runthiel Helmet,PvP伦希勒圣辉帽子
-PROPITEM_TXT_161001,Primordial Runthiel Suit,PvP伦希勒圣辉上衣
-PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,PvP伦希勒圣辉手套
-PROPITEM_TXT_161003,Primordial Runthiel Boots,PvP伦希勒圣辉鞋子
-PROPITEM_TXT_161004,Primordial Runthien Helmet,PvP伦希恩圣契帽子
-PROPITEM_TXT_161005,Primordial Runthien Suit,PvP伦希恩圣契上衣
-PROPITEM_TXT_161006,Primordial Runthien Gauntlets,PvP伦希恩圣契手套
-PROPITEM_TXT_161007,Primordial Runthien Boots,PvP伦希恩圣契鞋子
-PROPITEM_TXT_161008,Primordial Zaythor Helmet,PvP裁罪炽铠帽子
-PROPITEM_TXT_161009,Primordial Zaythor Suit,PvP裁罪炽铠上衣
-PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,PvP裁罪炽铠手套
-PROPITEM_TXT_161011,Primordial Zaythor Boots,PvP裁罪炽铠鞋子
-PROPITEM_TXT_161012,Primordial Zaythar Helmet,PvP裁罪炽曜帽子
-PROPITEM_TXT_161013,Primordial Zaythar Suit,PvP裁罪炽曜上衣
-PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,PvP裁罪炽曜手套
-PROPITEM_TXT_161015,Primordial Zaythar Boots,PvP裁罪炽曜鞋子
-PROPITEM_TXT_161016,Primordial Chyrelle Helmet,PvP绮璃圣辉帽子
-PROPITEM_TXT_161017,Primordial Chyrelle Suit,PvP绮璃圣辉上衣
-PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,PvP绮璃圣辉手套
-PROPITEM_TXT_161019,Primordial Chyrelle Boots,PvP绮璃圣辉鞋子
-PROPITEM_TXT_161020,Primordial Chyrella Helmet,PvP绮璃灵裳帽子
-PROPITEM_TXT_161021,Primordial Chyrella Suit,PvP绮璃灵裳上衣
-PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,PvP绮璃灵裳手套
-PROPITEM_TXT_161023,Primordial Chyrella Boots,PvP绮璃灵裳鞋子
-PROPITEM_TXT_161024,Primordial Lenvire Helmet,PvP岚薇幻铠帽子
-PROPITEM_TXT_161025,Primordial Lenvire Suit,PvP岚薇幻铠上衣
-PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,PvP岚薇幻铠手套
-PROPITEM_TXT_161027,Primordial Lenvire Boots,PvP岚薇幻铠鞋子
-PROPITEM_TXT_161028,Primordial Lenvira Helmet,PvP岚薇幻羽帽子
-PROPITEM_TXT_161029,Primordial Lenvira Suit,PvP岚薇幻羽上衣
-PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,PvP岚薇幻羽手套
-PROPITEM_TXT_161031,Primordial Lenvira Boots,PvP岚薇幻羽鞋子
-PROPITEM_TXT_161032,Primordial Etranor Helmet,PvP伊特诺圣铠帽子
-PROPITEM_TXT_161033,Primordial Etranor Suit,PvP伊特诺圣铠上衣
-PROPITEM_TXT_161034,Primordial Etranor Gauntlets,PvP伊特诺圣铠手套
-PROPITEM_TXT_161035,Primordial Etranor Boots,PvP伊特诺圣铠鞋子
-PROPITEM_TXT_161036,Primordial Etranar Helmet,PvP伊特纳尔圣铠帽子
-PROPITEM_TXT_161037,Primordial Etranar Suit,PvP伊特纳尔圣铠上衣
-PROPITEM_TXT_161038,Primordial Etranar Gauntlets,PvP伊特纳尔圣铠手套
-PROPITEM_TXT_161039,Primordial Etranar Boots,PvP伊特纳尔圣铠鞋子
-PROPITEM_TXT_161040,Primordial Kevric Helmet,PvP凯夫里克帽子
-PROPITEM_TXT_161041,Primordial Kevric Suit,PvP凯夫里克上衣
-PROPITEM_TXT_161042,Primordial Kevric Gauntlets,PvP凯夫里克手套
-PROPITEM_TXT_161043,Primordial Kevric Boots,PvP凯夫里克鞋子
-PROPITEM_TXT_161044,Primordial Kevricar Helmet,PvP凯夫里卡尔帽子
-PROPITEM_TXT_161045,Primordial Kevricar Suit,PvP凯夫里卡尔上衣
-PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,PvP凯夫里卡尔手套
-PROPITEM_TXT_161047,Primordial Kevricar Boots,PvP凯夫里卡尔鞋子
-PROPITEM_TXT_161048,PvP Ustamel Helmet,PvP乌斯塔梅尔帽子
-PROPITEM_TXT_161049,PvP Ustamel Suit,PvP乌斯塔梅尔上衣
-PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvP乌斯塔梅尔手套
-PROPITEM_TXT_161051,PvP Ustamel Boots,PvP乌斯塔梅尔鞋子
-PROPITEM_TXT_161052,PvP Ustamen Helmet,PvP乌斯塔门帽子
-PROPITEM_TXT_161053,PvP Ustamen Suit,PvP乌斯塔门上衣
-PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvP乌斯塔门手套
-PROPITEM_TXT_161055,PvP Ustamen Boots,PvP乌斯塔门鞋子
-PROPITEM_TXT_161056,PvP Virashon Helmet,PvP维拉雄帽子
-PROPITEM_TXT_161057,PvP Virashon Suit,PvP维拉雄上衣
-PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvP维拉雄手套
-PROPITEM_TXT_161059,PvP Virashon Boots,PvP维拉雄鞋子
-PROPITEM_TXT_161060,PvP Verashan Helmet,PvP维拉尚帽子
-PROPITEM_TXT_161061,PvP Verashan Suit,PvP维拉尚上衣
-PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvP维拉尚手套
-PROPITEM_TXT_161063,PvP Verashan Boots,PvP维拉尚鞋子
+PROPITEM_TXT_161000,Primordial Runthiel Helmet,PvP原初圣殿骑士帽子(男)
+PROPITEM_TXT_161001,Primordial Runthiel Suit,PvP原初圣殿骑士上衣(男)
+PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,PvP原初圣殿骑士手套(男)
+PROPITEM_TXT_161003,Primordial Runthiel Boots,PvP原初圣殿骑士鞋子(男)
+PROPITEM_TXT_161004,Primordial Runthien Helmet,PvP原初圣殿骑士帽子(女)
+PROPITEM_TXT_161005,Primordial Runthien Suit,PvP原初圣殿骑士上衣(女)
+PROPITEM_TXT_161006,Primordial Runthien Gauntlets,PvP原初圣殿骑士手套(女)
+PROPITEM_TXT_161007,Primordial Runthien Boots,PvP原初圣殿骑士鞋子(女)
+PROPITEM_TXT_161008,Primordial Zaythor Helmet,PvP原初屠戮者帽子(男)
+PROPITEM_TXT_161009,Primordial Zaythor Suit,PvP原初屠戮者上衣(男)
+PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,PvP原初屠戮者手套(男)
+PROPITEM_TXT_161011,Primordial Zaythor Boots,PvP原初屠戮者鞋子(男)
+PROPITEM_TXT_161012,Primordial Zaythar Helmet,PvP原初屠戮者帽子(女)
+PROPITEM_TXT_161013,Primordial Zaythar Suit,PvP原初屠戮者上衣(女)
+PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,PvP原初屠戮者手套(女)
+PROPITEM_TXT_161015,Primordial Zaythar Boots,PvP原初屠戮者鞋子(女)
+PROPITEM_TXT_161016,Primordial Chyrelle Helmet,PvP原初谑影者帽子(男)
+PROPITEM_TXT_161017,Primordial Chyrelle Suit,PvP原初谑影者上衣(男)
+PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,PvP原初谑影者手套(男)
+PROPITEM_TXT_161019,Primordial Chyrelle Boots,PvP原初谑影者鞋子(男)
+PROPITEM_TXT_161020,Primordial Chyrella Helmet,PvP原初谑影者帽子(女)
+PROPITEM_TXT_161021,Primordial Chyrella Suit,PvP原初谑影者上衣(女)
+PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,PvP原初谑影者手套(女)
+PROPITEM_TXT_161023,Primordial Chyrella Boots,PvP原初谑影者鞋子(女)
+PROPITEM_TXT_161024,Primordial Lenvire Helmet,PvP原初神射手帽子(男)
+PROPITEM_TXT_161025,Primordial Lenvire Suit,PvP原初神射手上衣(男)
+PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,PvP原初神射手手套(男)
+PROPITEM_TXT_161027,Primordial Lenvire Boots,PvP原初神射手鞋子(男)
+PROPITEM_TXT_161028,Primordial Lenvira Helmet,PvP原初神射手帽子(女)
+PROPITEM_TXT_161029,Primordial Lenvira Suit,PvP原初神射手上衣(女)
+PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,PvP原初神射手手套(女)
+PROPITEM_TXT_161031,Primordial Lenvira Boots,PvP原初神射手鞋子(女)
+PROPITEM_TXT_161032,Primordial Etranor Helmet,PvP原初救世神使帽子(男)
+PROPITEM_TXT_161033,Primordial Etranor Suit,PvP原初救世神使上衣(男)
+PROPITEM_TXT_161034,Primordial Etranor Gauntlets,PvP原初救世神使手套(男)
+PROPITEM_TXT_161035,Primordial Etranor Boots,PvP原初救世神使鞋子(男)
+PROPITEM_TXT_161036,Primordial Etranar Helmet,PvP原初救世神使帽子(女)
+PROPITEM_TXT_161037,Primordial Etranar Suit,PvP原初救世神使上衣(女)
+PROPITEM_TXT_161038,Primordial Etranar Gauntlets,PvP原初救世神使手套(女)
+PROPITEM_TXT_161039,Primordial Etranar Boots,PvP原初救世神使鞋子(女)
+PROPITEM_TXT_161040,Primordial Kevric Helmet,PvP原初格斗宗师帽子(男)
+PROPITEM_TXT_161041,Primordial Kevric Suit,PvP原初格斗宗师上衣(男)
+PROPITEM_TXT_161042,Primordial Kevric Gauntlets,PvP原初格斗宗师手套(男)
+PROPITEM_TXT_161043,Primordial Kevric Boots,PvP原初格斗宗师鞋子(男)
+PROPITEM_TXT_161044,Primordial Kevricar Helmet,PvP原初格斗宗师帽子(女)
+PROPITEM_TXT_161045,Primordial Kevricar Suit,PvP原初格斗宗师上衣(女)
+PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,PvP原初格斗宗师手套(女)
+PROPITEM_TXT_161047,Primordial Kevricar Boots,PvP原初格斗宗师鞋子(女)
+PROPITEM_TXT_161048,PvP Ustamel Helmet,PvP原初心灵师帽子(男)
+PROPITEM_TXT_161049,PvP Ustamel Suit,PvP原初心灵师上衣(男)
+PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvP原初心灵师手套(男)
+PROPITEM_TXT_161051,PvP Ustamel Boots,PvP原初心灵师鞋子(男)
+PROPITEM_TXT_161052,PvP Ustamen Helmet,PvP原初心灵师帽子(女)
+PROPITEM_TXT_161053,PvP Ustamen Suit,PvP原初心灵师上衣(女)
+PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvP原初心灵师手套(女)
+PROPITEM_TXT_161055,PvP Ustamen Boots,PvP原初心灵师鞋子(女)
+PROPITEM_TXT_161056,PvP Virashon Helmet,PvP原初奥术师帽子(男)
+PROPITEM_TXT_161057,PvP Virashon Suit,PvP原初奥术师上衣(男)
+PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvP原初奥术师手套(男)
+PROPITEM_TXT_161059,PvP Virashon Boots,PvP原初奥术师鞋子(男)
+PROPITEM_TXT_161060,PvP Verashan Helmet,PvP原初奥术师帽子(女)
+PROPITEM_TXT_161061,PvP Verashan Suit,PvP原初奥术师上衣(女)
+PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvP原初奥术师手套(女)
+PROPITEM_TXT_161063,PvP Verashan Boots,PvP原初奥术师鞋子(女)
 PROPITEM_TXT_161064,Leafloop,叶环
 PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.",盘绕成螺旋的小藤蔓，充盈着温和的自然魔法。
 PROPITEM_TXT_161066,Silent Petal,寂静花瓣
@@ -32439,13 +32439,13 @@ PROPITEM_TXT_1904119,Celestial Champion Suit (M),天界冠军衣服(男)
 PROPITEM_TXT_1904120,Celestial Champion Shoes (M),天界冠军鞋子(男)
 PROPITEM_TXT_1904121,Celestial Champion Hands (M),天界冠军手套(男)
 PROPITEM_TXT_1904122,Celestial Champion Set (M),天界冠军套装(男)
-PROPITEM_TXT_1904123,The Celestial Champion Set for male characters.,男性天界冠军套装。
+PROPITEM_TXT_1904123,The Celestial Champion Set for male characters.,天界冠军套装。
 PROPITEM_TXT_1904124,Celestial Champion Hat (F),天界冠军帽子(女)
 PROPITEM_TXT_1904125,Celestial Champion Suit (F),天界冠军衣服(女)
 PROPITEM_TXT_1904126,Celestial Champion Shoes (F),天界冠军鞋子(女)
 PROPITEM_TXT_1904127,Celestial Champion Hands (F),天界冠军手套(女)
 PROPITEM_TXT_1904128,Celestial Champion Set (F),天界冠军套装(女)
-PROPITEM_TXT_1904129,The Celestial Champion Set for female characters.,男性天界冠军套装。
+PROPITEM_TXT_1904129,The Celestial Champion Set for female characters.,天界冠军套装。
 PROPITEM_TXT_1904130,Celestial Champion Sword,天界冠军剑
 PROPITEM_TXT_1904131,Celestial Champion Axe,天界冠军斧
 PROPITEM_TXT_1904132,Celestial Champion Big Sword,天界冠军巨剑
