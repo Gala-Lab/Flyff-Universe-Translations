@@ -22,8 +22,8 @@ MMI_21,Register Bounty,发出悬赏
 MMI_22,Bounty List,查看悬赏名单
 MMI_24,View equipment,查看装备
 MMI_25,Mailbox,邮件
-MMI_26,Apply,应用
-MMI_27,Status,状态
+MMI_26,Apply,申请
+MMI_27,Status,动态
 MMI_28,Cancel,取消
 MMI_29,Enter,进入
 MMI_30,Ranking,排名
@@ -31,12 +31,12 @@ MMI_31,Cheer,鼓励
 MMI_32,Remove piercing card,移除穿洞卡片
 MMI_33,Lineup Setup,组织参加者
 MMI_34,Claim Guild Penya,领取奖金和申请费
-MMI_35,Reward Information,奖金信息
+MMI_35,Reward Information,奖励规则
 MMI_36,Claim MVP Penya Reward,领取MVP奖金
 MMI_37,Participation Information,参加资格
 MMI_38,Basic Rules,基本规则
 MMI_39,Winning Conditions,获胜条件
-MMI_40,Application Fee Information,委托信息
+MMI_40,Application Fee Information,申请费相关
 MMI_41,The refund of application fee,申请费退款
 MMI_42,Cosmetic Upgrades,美容店
 MMI_44,Rock-Paper-Scissors,小游戏(剪刀-石头-布)
@@ -83,14 +83,14 @@ MMI_1015,Pet Sacrificing,宠物献祭
 MMI_1016,Red Chip Shop,红纸片商店
 MMI_1017,Cosmetic Wardrobe,魔法衣橱
 MMI_1018,Lv80 GS Apply,Lv80 公会战申请
-MMI_1019,Lv80 GS Status,Lv80 公会战战况
+MMI_1019,Lv80 GS Status,Lv80 公会战申请动态
 MMI_1020,Lv80 GS Cancel,Lv80 公会战取消
 MMI_1021,Lv80 GS Enter,Lv80 公会战入场
 MMI_1022,Lv80 GS Lineup Setup,Lv80 公会战阵容
 MMI_1023,Lv80 GS Ranking,Lv80 公会战排名
 MMI_1024,Lv80 GS Information,Lv80 公会战信息
 MMI_1025,Lv60 GS Apply,Lv60 公会战申请
-MMI_1026,Lv60 GS Status,Lv60 公会战战况
+MMI_1026,Lv60 GS Status,Lv60 公会战申请动态
 MMI_1027,Lv60 GS Cancel,Lv60 公会战取消
 MMI_1028,Lv60 GS Enter,Lv60 公会战入场
 MMI_1029,Lv60 GS Lineup Setup,Lv60 公会战阵容
@@ -189,7 +189,7 @@ MMI_2033,Item Exchange,道具兑换
 MMI_1118,The Last Beacon,最后的信标
 MMI_1119,Re-join Last Beacon match,重新加入最后的信标匹配
 MMI_1122,Lv165 GS Apply,Lv165 公会战申请
-MMI_1123,Lv165 GS Status,Lv165 公会战战况
+MMI_1123,Lv165 GS Status,Lv165 公会战申请动态
 MMI_1124,Lv165 GS Cancel,Lv165 公会战取消
 MMI_1125,Lv165 GS Join,Lv165 公会战入场
 MMI_1126,Lv165 GS Line Up,Lv165 公会战阵容

@@ -19,8 +19,8 @@ TEXTCLIENT_APP_PRIVACY,Cookie Settings,隐私
 TEXTCLIENT_APP_NAVIGATOR,Navigator,导航系统
 TEXTCLIENT_APP_DEBUG,Debug,bug反馈
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒后，结束游戏
-TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,将于%d秒内切换角色。
-TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,将在%d秒内关联帐号。
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,将于%d秒后切换角色。
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,将在%d秒后关联帐号。
 TEXTCLIENT_LOGOUT,Do you want to disconnect?,要结束与此服务器的连接吗
 TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000你会失去你的游客角色。#nc 请关联一个账号。
 TEXTCLIENT_EXIT,Do you want to exit the program?,要结束游戏程式吗
@@ -837,7 +837,7 @@ TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,你已经在�
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,恭喜你在BOSS猎杀排名中排名%d！
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜你在BOSS击杀排名中获得%d分！
 TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,你获得了%d点BOSS击杀积分 (总计%d)！
-TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,您无法购买，因为服务器将在几秒钟内进行维护。
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,您无法购买，因为服务器将在几秒钟后进行维护。
 TEXTCLIENT_CTRLRECOVERY,You found a HP container!,你找到了一个HP容器！
 TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,奖励领取成功
 TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,你收到了%s奖励fCoins。
@@ -1081,11 +1081,11 @@ TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transforme
 TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,使用翅膀特效期间无法使用轮盘。
 TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,飞行状态下无法使用轮盘。
 TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,无法在该地牢中使用轮盘。
-TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,你正在使用银行扩展背包。
-TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,银行已扩展。
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,你正在使用仓库扩展背包。
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,仓库已扩展。
 TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,战斗状态下无法使用该物品。
-TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s 对你使用了 %s！
-TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,你对 %s 使用了 %s！
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,你受到了%s效果影响，施放者为%s！
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,你对%s使用了%s！
 TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,你使用了 %s！
 TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,找不到目标。
 TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,目标已被彩虹屏障阻挡！
@@ -1190,8 +1190,8 @@ TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible
 TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,剩余%d分钟以%s
 TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,在彩虹赛跑期间无法传送。
 TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,你已被取消竞赛资格。
-TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,彩虹竞赛将在10分钟内举行！快去达肯2报名吧。
-TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,银行已扩容
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,彩虹竞赛将在10分钟后开始！快去达肯2报名吧。
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,仓库已扩容
 TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,由于无法装备飞行物品，不能进入彩虹竞赛。​
 TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,无法直接登入，请通过网站进行登录。​
 TEXTCLIENT_EVENTBUFF,%s is active!,%s 已激活！
@@ -1569,7 +1569,7 @@ TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the 
 TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,副本已结束。请稍后重试。
 TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s 今日已经没有剩余入场次数。
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s 已在另一个副本中。
-TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告： '%s' 是常规玩家。切勿访问任何网站，切勿提供您的凭据。唯一的官方网站是 $WEBSITE$. 提防诈骗和网络钓鱼网站。
+TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告：'%s' 是常规玩家。\n切勿访问任何不明网站，切勿泄露您的登录凭据。\n唯一的官方网站是 $WEBSITE$。\n谨防诈骗和钓鱼网站。
 TEXTCLIENT_APP_DONATION,Donation,捐赠
 TEXTCLIENT_APP_LORD,Lord Skills,领主技能
 TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,捐赠活动 %s +%d%% 开启了!
