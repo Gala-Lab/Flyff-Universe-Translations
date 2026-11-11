@@ -1569,7 +1569,7 @@ TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the 
 TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,副本已结束。请稍后重试。
 TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s 今日已经没有剩余入场次数。
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s 已在另一个副本中。
-TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告： '%s' 是常规玩家。\n切勿访问任何不明网站，切勿泄露您的隐私信息。\n唯一的官方网站是 $WEBSITE$. \n谨防诈骗和钓鱼网站。
+TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告：'%s' 是常规玩家。\n切勿访问任何不明网站，切勿泄露您的登录凭据。\n唯一的官方网站是 $WEBSITE$。\n谨防诈骗和钓鱼网站。
 TEXTCLIENT_APP_DONATION,Donation,捐赠
 TEXTCLIENT_APP_LORD,Lord Skills,领主技能
 TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,捐赠活动 %s +%d%% 开启了!
