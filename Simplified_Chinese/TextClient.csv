@@ -125,6 +125,7 @@ TEXTCLIENT_HELPER,Helper,助手
 TEXTCLIENT_APP_ITEM_DURATION,Duration,持续时间
 TEXTCLIENT_APP_MESSENGER,Messenger,好友
 TEXTCLIENT_APP_PARTY,Party,剧团
+TEXTCLIENT_APP_SEARCHPARTY,Search Party,Search Party
 TEXTCLIENT_APP_GUILD,Guild,公会
 TEXTCLIENT_APP_COUPLE,Couple,情侣
 TEXTCLIENT_APP_HELP,Help,帮助
@@ -251,7 +252,7 @@ TEXTCLIENT_CANNOTPOST,You cannot send this item.,无法发送的物品
 TEXTCLIENT_MAIL_UNKNOWN,Unknown user,无法判别的使用者
 TEXTCLIENT_POST_ERROR,You have failed to send.,传送邮件失败
 TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,邮件已成功发送。
-TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.",发生错误，请重试该操作。
+TEXTCLIENT_ERROR_RETRY,"An error occurred, please retry the operation.",发生错误，请重试该操作。
 TEXTCLIENT_REALTIME,Real Time - %s,实际时间 - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,瑞加大陆时间 - %s
 TEXTCLIENT_NEW_QUEST,New Quest,新任务
@@ -520,6 +521,7 @@ TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,该产品已无效�
 TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,无法使用飞飞商城因为服务器已经离线
 TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,您没有足够的钱购买该物品，购买前请刷新您的帐户。
 TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,此物品每个角色限量购买，你已达到最大购买量
+TEXTCLIENT_CASHSHOP_GACHACOMPLETE,You have obtained all rewards and can no longer purchase tickets.,You have obtained all rewards and can no longer purchase tickets.
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.",哎呀，发生了一点预期之外的错误，请再试一次哦^^
 TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,感谢您的购买！如果库存已满，请腾出空间并再次登录来接收物品。
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,该玩家已无效，无法使用 Flyff 商店。
@@ -762,6 +764,7 @@ TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,飞行时无法使用
 TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,蠢货！我会融化你们所有人！！
 TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,这就是地狱的滋味！
 TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s！靠近我！面对我！燃烧吧！
+TEXTCLIENT_BOSS_METEONYKER_DEVOUR,Your embers are mine! Burn for me!,Your embers are mine! Burn for me!
 TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,你认为我只有一个人?!
 TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,现在不能移除这个BUFF。
 TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,这个BUFF已经被移除。
@@ -820,6 +823,7 @@ TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,你刚刚发现了一个 %s!
 TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s 刚刚发现了一个 %s!
 TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,该物品无法被祝福。
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,物品唤醒成功。
+TEXTCLIENT_AWAKE_AUTOREDUCED,Some auto-roll targets were lowered to match this blessing.,Some auto-roll targets were lowered to match this blessing.
 TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,只能用在被祝福的物品上。
 TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,女神的祝福已被移除。
 TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,这里是送给你的回归礼物！
@@ -1630,3 +1634,17 @@ TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %
 TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,怪物正在接近……
 TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,BOSS来了！
 TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,恭喜您完成比赛！您已收到奖励。
+TEXTCLIENT_TEAMFINDER_JOINED,%s (%s Lv.%d) has joined the team as a %s.,%s (%s Lv.%d) has joined the team as a %s.
+TEXTCLIENT_TEAMFINDER_FILLED,The team has been filled.,The team has been filled.
+TEXTCLIENT_TEAMFINDER_UPDATED,The Team Finder listing has been updated.,The Team Finder listing has been updated.
+TEXTCLIENT_PARTYFAILENTER_BLOCKED,You were blocked from joining the party.,You were blocked from joining the party.
+TEXTCLIENT_PARTYFAILENTER_KICKED,You were kicked from this party and cannot rejoin via search.,You were kicked from this party and cannot rejoin via search.
+TEXTCLIENT_PARTYFAILENTER_INPARTY,You can apply after leaving your party.,You can apply after leaving your party.
+TEXTCLIENT_TEAMFAILENTER_SLOT,This role is no longer available.,This role is no longer available.
+TEXTCLIENT_TEAMFAILENTER_LEVEL,Your level does not match the joining criteria.,Your level does not match the joining criteria.
+TEXTCLIENT_TEAMFINDER_CLOSED,The Team Finder listing has closed.,The Team Finder listing has closed.
+TEXTCLIENT_TEAMFINDER_REMINDER,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.
+TEXTCLIENT_TEAMFINDER_BADWORDS,The description contains forbidden words.,The description contains forbidden words.
+TEXTCLIENT_TEAMFINDER_LEVELRANGE,The required level must be between %d and %d.,The required level must be between %d and %d.
+TEXTCLIENT_TEAMFINDER_LEVELORDER,The minimum level cannot be higher than the maximum level.,The minimum level cannot be higher than the maximum level.
+TEXTCLIENT_APP_CONTENT_GUIDE,Content Guide,Content Guide

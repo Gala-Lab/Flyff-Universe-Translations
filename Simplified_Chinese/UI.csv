@@ -237,6 +237,16 @@ UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,精通: 水
 UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,精通: 雷
 UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,精通: 风
 UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,全元素属性精通
+UI_TOOLTIP_DST_ELEMENT_ATTACK_FIRE,Fire Attack,Fire Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WATER,Water Attack,Water Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_ELECTRICITY,Electricity Attack,Electricity Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WIND,Wind Attack,Wind Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_EARTH,Earth Attack,Earth Attack
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_FIRE,Fire Defense,Fire Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WATER,Water Defense,Water Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_ELECTRICITY,Electricity Defense,Electricity Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WIND,Wind Defense,Wind Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_EARTH,Earth Defense,Earth Defense
 UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,反弹伤害
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,MP消耗降低
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP消耗降低
@@ -316,6 +326,7 @@ UI_PARTY_CHANGETROUP,Upgrade to an Advanced Party?,确认把单幕剧团升级�
 UI_PARTY_CHANGEPARTY,Upgrade Party,剧团转型
 UI_PARTYNAME_ENTER,Enter party name:,请输入要改变的巡回剧团名称
 UI_PARTYNAME_TITLE,Change Party Name,改变名称
+UI_PARTY_TEAMFINDER_SETTINGS,Settings,Settings
 UI_FRIEND_CONFIRM,Confirm Friend Request,确认添加好友
 UI_FRIEND_INVITEQUESTION,%s wants to add you as a friend. Accept the request?,%s对您提出加为好友的请求，您要接受吗
 UI_MESSENGER_ONLINE,Online,在线
@@ -347,6 +358,8 @@ UI_SENDMEMO_TITLE,Send Memo,消息发送窗口
 UI_POST_TITLE,Mailbox,邮件
 UI_POST_TAB_SEND,Send Mail,发送邮件
 UI_POST_TAB_RECEIVE,Inbox,收件箱
+UI_POST_ATTACHMENTS,Attachments,Attachments
+UI_POST_MORE_ATTACHMENTS,+%d more,+%d more
 UI_OPTION_UISCALE,Scale,界面比例
 UI_OPTION_TEXTSCALE,Font Size,字体大小
 UI_IGNORELIST_TITLE,Ignore List,黑名单
@@ -380,6 +393,8 @@ UI_POSTREAD_DELETETITLE,Delete Mail,删除邮件
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Any attached items and Penya will also be deleted.,要删除邮件吗？删除邮件的同时，里面的物品、金币与邮件会同时被删除。
 UI_POSTREAD_MAILEXPIRED,Mail Expired,过期邮件
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s Penya to retrieve it.,该邮件已过期 %d 天。你必须支付 %s 金币以取回。
+UI_POSTREAD_TAKEALL,Take all,Take all
+UI_POSTREAD_KEEP_PAY_ALL,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?
 UI_QUEST_CANCEL,Remove quest,删除任务
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,取消进行中的任务
 UI_QUEST_ALLQUESTS,All Quests,全部
@@ -864,6 +879,7 @@ UI_APP_TIPS_TIP,View gameplay tips.,小提示
 UI_APP_HELP_TIP,Open the help window.,帮助
 UI_APP_GUILD_TIP,View and manage your guild.,管理您的公会
 UI_APP_PARTY_TIP,View and manage your party.,管理您的剧团
+UI_APP_SEARCHPARTY_TIP,Find a party to join or browse Team Finder listings.,Find a party to join or browse Team Finder listings.
 UI_APP_COUPLE_TIP,View and manage your couple.,管理您的情侣
 UI_APP_MESSENGER_TIP,View and manage your friends list.,管理好友列表
 UI_APP_ITEMDURATION_TIP,View the remaining duration of your active premium items.,显示收费道具的持续时间。
@@ -960,6 +976,26 @@ UI_GUILDCOMBAT_RESULT_GUILD,Guild Rankings,公会排名
 UI_GUILDCOMBAT_RESULT_MEMBER,Player Rankings,成员排名
 UI_GUILDCOMBAT_RESULT_RANK,Rankings,总排名
 UI_GUILDCOMBAT_RESULT_LOG,Battle Log,对战纪录
+UI_GUILDCOMBAT_RESULT_STATS,Statistics,Statistics
+UI_STATS_TITLE,Statistics,Statistics
+UI_STATS_CATEGORY_COMBAT,Combat,Combat
+UI_STATS_CATEGORY_DAMAGE,Damage,Damage
+UI_STATS_CATEGORY_SUPPORT,Support,Support
+UI_STATS_CATEGORY_ITEMS,Items,Items
+UI_STAT_COLLECTED_0,Points,Points
+UI_STAT_COLLECTED_1,Damage Dealt,Damage Dealt
+UI_STAT_COLLECTED_2,Damage Taken,Damage Taken
+UI_STAT_COLLECTED_3,Kills,Kills
+UI_STAT_COLLECTED_4,Deaths,Deaths
+UI_STAT_COLLECTED_5,Barrier of Life Negation,Barrier of Life Negation
+UI_STAT_COLLECTED_6,Healing Dealt,Healing Dealt
+UI_STAT_COLLECTED_7,Healing Received,Healing Received
+UI_STAT_COLLECTED_8,Item Healing,Item Healing
+UI_STAT_COLLECTED_9,Scroll of Holies Used,Scroll of Holies Used
+UI_STAT_COLLECTED_10,Damage Amplified,Damage Amplified
+UI_STAT_COLLECTED_11,Damage Blocked,Damage Blocked
+UI_STAT_COLLECTED_12,Damage Reflected,Damage Reflected
+UI_STAT_COLLECTED_13,Damage Redirected,Damage Redirected
 UI_GUILDCOMBAT_LOG_GUILD,[%s],[%s]
 UI_GUILDCOMBAT_LOG1,Basic Point +2,基本点数 +2
 UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,公会会长的追加点数 +1
@@ -1170,6 +1206,7 @@ UI_SEARCHPARTY_TITLE,Search Party,搜索剧团
 UI_SEARCHGUILD_TITLE,Search Guild,搜索公会
 UI_GROUPSEARCH,Search,搜索
 UI_TOOLTIP_TRANSMUTE,Transmutation:,幻化: 
+UI_TOOLTIP_TRANSMUTE_EXPIRED,Transmutation expired,Transmutation expired
 UI_TOOLTIP_RARITY,Rarity:,品质: 
 UI_TOOLTIP_RARITY_NORMAL,Common,普通
 UI_TOOLTIP_RARITY_RARE,Uncommon,精良
@@ -1197,6 +1234,7 @@ UI_UPGRADESAFE_CURRENT,~Current Value~,~当前精炼等级~
 UI_SEARCHGROUP_MODE_NO,Not Listed,不可查找
 UI_SEARCHGROUP_MODE_CONFIRM,Requires Leader Approval,团长批准
 UI_SEARCHGROUP_MODE_FREE,Open to Anyone,自由加入
+UI_SEARCHGROUP_MODE_TEAMFINDER,Team Finder,Team Finder
 UI_GROUPSEARCH_REFRESH,Refresh,刷新
 UI_GROUPSEARCH_FILTER,Filter:,筛选：
 UI_GROUPSEARCH_SORT,Sort:,分类：
@@ -1220,6 +1258,7 @@ UI_GROUPSEARCH_JOIN,Join,加入
 UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the leader.,您的申请必须通过剧团团长的批准
 UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the master.,您的申请必须通过公会会长的批准
 UI_PARTY_JOINQUESTION,%s wants to join your party. Accept the request?,%s 想加入你的剧团。是否接受？
+UI_TEAMFINDER_JOINQUESTION,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?
 UI_GUILD_SEARCHNOTICE,Advertisement,搜索通知
 UI_GUILD_SEARCHNOTICE_TIP,Setup your guild's notice in the Guild Finder,在公会搜索中设置通知
 UI_DAMAGEMETER_RESET,Reset Damage Statistics,重置伤害统计
@@ -1669,9 +1708,13 @@ UI_DUNGEON_TITLE,Dungeon,副本
 UI_DUNGEON_EASY,Easy,简单
 UI_DUNGEON_MEDIUM,Medium,中等
 UI_DUNGEON_HARD,Hard,困难
+UI_DUNGEON_VERY_HARD,Very Hard,Very Hard
+UI_DUNGEON_NIGHTMARE,Nightmare,Nightmare
 UI_DUNGEON_LOW_DROPS,Low Drop Rate,低掉落率
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,正常掉落率
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate,提升的掉落率
+UI_DUNGEON_VERY_HIGH_DROPS,Highly Increased Drop Rate,Highly Increased Drop Rate
+UI_DUNGEON_EXTREME_DROPS,Extremely Increased Drop Rate,Extremely Increased Drop Rate
 UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,击杀boss！
 UI_DUNGEON_ENTRANCE_SOLO,Solo Only,单人
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,剧团或单人
@@ -1714,6 +1757,51 @@ UI_APP_LOTTERY_TIP,View the lottery menu.,显示幸运轮盘菜单
 UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel.,你需要%d个 %s来转动轮盘
 UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,下次免费转动: %s秒
 UI_APP_LOTTERY_FREESPINTIMER_READY,Your free spin is ready!,开始转动吧！！
+UI_APP_PREMIUMGACHA,Fortune Pang's Roulette,Fortune Pang's Roulette
+UI_APP_PREMIUMGACHA_TIP,Open the Fortune Pang's Roulette.,Open the Fortune Pang's Roulette.
+UI_APP_PREMIUMGACHA_MAINPRIZE,1st Prize,1st Prize
+UI_APP_PREMIUMGACHA_OBTAINED,Obtained,Obtained
+UI_APP_PREMIUMGACHA_COUNT,x%d,x%d
+UI_APP_PREMIUMGACHA_RULES_TITLE,Event Rules and Important Notices,Event Rules and Important Notices
+UI_APP_PREMIUMGACHA_RULES,"Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities.","Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities."
+UI_APP_PREMIUMGACHA_PROBABILITY,Probability Info,Probability Info
+UI_APP_PREMIUMGACHA_RESETS,Remaining Reset Attempts\n%d / %d,Remaining Reset Attempts\n%d / %d
+UI_APP_PREMIUMGACHA_RESET,Reset,Reset
+UI_APP_PREMIUMGACHA_SKIP,Skip,Skip
+UI_APP_PREMIUMGACHA_DRAW,Current draw: %d / %d,Current draw: %d / %d
+UI_APP_PREMIUMGACHA_START,Start!,Start!
+UI_APP_PREMIUMGACHA_RESULT_TITLE,Result,Result
+UI_APP_PREMIUMGACHA_RESULT,You obtained %s x%d.,You obtained %s x%d.
+UI_APP_PREMIUMGACHA_PICK_TITLE,1st Prize,1st Prize
+UI_APP_PREMIUMGACHA_PICK,1st Prize! Choose your reward:,1st Prize! Choose your reward:
+UI_APP_PREMIUMGACHA_CONFIRM,Confirm,Confirm
+UI_APP_PREMIUMGACHA_RESET_TITLE,Roulette Reset,Roulette Reset
+UI_APP_PREMIUMGACHA_CYCLE_COMPLETE,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.
+UI_APP_PREMIUMGACHA_RESET_INFO,"You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards.","You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards."
+UI_APP_PREMIUMGACHA_RESET_CONFIRM,"Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw.","Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw."
+UI_APP_PREMIUMGACHA_ERR_TICKETS,You do not have enough Fortune Pang's Roulette Tickets.,You do not have enough Fortune Pang's Roulette Tickets.
+UI_APP_PREMIUMGACHA_ERR_NOPRODUCT,Fortune Pang's Roulette tickets were not found in the Premium Shop.,Fortune Pang's Roulette tickets were not found in the Premium Shop.
+UI_APP_PREMIUMGACHA_ERR_PENYA,You do not have enough Penya.,You do not have enough Penya.
+UI_APP_PREMIUMGACHA_ERR_INACTIVE,The Fortune Pang's Roulette event is not running.,The Fortune Pang's Roulette event is not running.
+UI_APP_PREMIUMGACHA_ERR_PICK,Claim your reward first.,Claim your reward first.
+UI_APP_PREMIUMGACHA_ERR_RESET,The roulette cannot be reset right now.,The roulette cannot be reset right now.
+UI_APP_PREMIUMGACHA_ERR_COMPLETED,You have obtained every reward of this event.,You have obtained every reward of this event.
+UI_APP_PREMIUMGACHA_ERR_RESET_REQUIRED,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.
+UI_APP_PREMIUMGACHA_ERR_REFUSED,You cannot use the Fortune Pang's Roulette right now.,You cannot use the Fortune Pang's Roulette right now.
+UI_APP_PREMIUMGACHA_PROB_DRAW,Draw %d / %d,Draw %d / %d
+UI_APP_PREMIUMGACHA_PROB_ALL,All remaining prizes can be drawn.,All remaining prizes can be drawn.
+UI_APP_PREMIUMGACHA_PROB_MAIN_LOCKED,The 1st Prize cannot be drawn on this draw.,The 1st Prize cannot be drawn on this draw.
+UI_APP_PREMIUMGACHA_PROB_LOCKED,1st Prize to %s cannot be drawn on this draw.,1st Prize to %s cannot be drawn on this draw.
+UI_APP_PREMIUMGACHA_PROB_GUARANTEED,The 1st Prize is guaranteed on this draw.,The 1st Prize is guaranteed on this draw.
+UI_APP_PREMIUMGACHA_PROB_COMPLETE,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.
+UI_APP_PREMIUMGACHA_PROB_TIER,Tier,Tier
+UI_APP_PREMIUMGACHA_PROB_ITEM,Item,Item
+UI_APP_PREMIUMGACHA_PROB_CHANCE,Chance,Chance
+UI_APP_PREMIUMGACHA_TIER1,1st Prize,1st Prize
+UI_APP_PREMIUMGACHA_TIER2,2nd Prize,2nd Prize
+UI_APP_PREMIUMGACHA_TIER3,3rd Prize,3rd Prize
+UI_APP_PREMIUMGACHA_TIER4,4th Prize,4th Prize
+UI_APP_PREMIUMGACHA_TIER5,5th Prize,5th Prize
 UI_LUCKYROULETTE,Lucky Roulette,幸运轮盘
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to earn 120 lottery coins to spend on the Lottery Wheel!,在线24小时即可获得120枚幸运轮盘币！
 UI_LUNAR_NEW_YEAR,Lunar New Year,中国春节
@@ -2802,6 +2890,14 @@ UI_NEWYEARPASS_2025,2025 New Year Pass,2025 新年通行证
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,收集 %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc",收集资源（草药、原木、矿石、浆果） #cffc32f07#b%d/%d#nb#nc
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,可用祝福次数已耗尽。
+UI_GENERALAWAKE_AUTO,Auto-roll,Auto-roll
+UI_GENERALAWAKE_USEMAX,Use at most,Use at most
+UI_GENERALAWAKE_AND,and,and
+UI_GENERALAWAKE_ADDAND,+ Stat,+ Stat
+UI_GENERALAWAKE_ADD,Add,Add
+UI_GENERALAWAKE_AUTOSTART,Start Auto,Start Auto
+UI_GENERALAWAKE_AUTOSTOP,Stop,Stop
+UI_GENERALAWAKE_REMOVE,Remove,Remove
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,周排行榜
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,长期排行榜
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,称号:
@@ -3488,6 +3584,8 @@ UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled,水手无敌已启用
 UI_WAVEDEFENSE_STATUS_LEAVE,Leave,离开
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,确定要离开比赛吗？
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC锦标赛通行证
+UI_CHRISTMAS_PASS_2026,2026 Christmas Pass,2026 Christmas Pass
+UI_NEWYEARPASS_2027,2027 New Year Pass,2027 New Year Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,每日奖励: %d / 今日已领取 %d 
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP 纪念通行证
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",此物品将于 2026年10月29日 维护后移除。
@@ -3505,3 +3603,54 @@ UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,防守成功！
 UI_ZD_DEFENSE_FAILED,Defense Failed!,防守失败！
 UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,拾取奖励!
 UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,%d 秒后返回城镇
+UI_TOOLTIP_GUILDCONTRIB,Guild Contribution: %d,Guild Contribution: %d
+UI_16UPDATE_PASS,1.6 Update Pass,1.6 Update Pass
+UI_VENDORSALESLOG_TITLE,Sales History,Sales History
+UI_VENDORSALESLOG_BUTTON,Sales,Sales
+UI_VENDORSALESLOG_DATE,Date,Date
+UI_VENDORSALESLOG_ITEM,Item,Item
+UI_VENDORSALESLOG_TOTAL,Total,Total
+UI_VENDORSALESLOG_BUYER,Buyer,Buyer
+UI_VENDORSALESLOG_VIA,Via,Via
+UI_VENDORSALESLOG_VIA_VENDOR,Vendor,Vendor
+UI_VENDORSALESLOG_VIA_SHOP,Shop,Shop
+UI_VENDORSALESLOG_REFRESH,Refresh,Refresh
+UI_OPTION_FARM_TRACKER,Farm Tracker,Farm Tracker
+UI_FARMTRACKER_FILTER,Add Item to Farm Tracker,Add Item to Farm Tracker
+UI_FARMTRACKER_TIME,Time : %s,Time : %s
+UI_FARMTRACKER_RESET,Reset Farm Tracker,Reset Farm Tracker
+UI_FARMTRACKER_KILLS,Kills: %s,Kills: %s
+UI_FARMTRACKER_PENYA,Penyas: %s,Penyas: %s
+UI_FARMTRACKER_FILTER_TITLE,Farm Tracker,Farm Tracker
+UI_FARMTRACKER_FILTER_SETTINGS,Farm Tracker Filter Settings,Farm Tracker Filter Settings
+UI_TEAMFINDER_TITLE,Team Finder,Team Finder
+UI_TEAMFINDER_DUNGEON,Dungeon,Dungeon
+UI_TEAMFINDER_PLAYERS,Amount of players,Amount of players
+UI_TEAMFINDER_ROLES,Roles,Roles
+UI_TEAMFINDER_CLASSES,Classes,Classes
+UI_TEAMFINDER_LANGUAGES,Languages,Languages
+UI_TEAMFINDER_DESCRIPTION,Description,Description
+UI_TEAMFINDER_ROLE_HEALER,Healer,Healer
+UI_TEAMFINDER_ROLE_TANK,Tank,Tank
+UI_TEAMFINDER_ROLE_DPSSINGLE,DPS (1v1),DPS (1v1)
+UI_TEAMFINDER_ROLE_DPSAOE,DPS (AoE),DPS (AoE)
+UI_TEAMFINDER_ANYCLASS,Any Class,Any Class
+UI_TEAMFINDER_CONFIRM,Confirm,Confirm
+UI_TEAMFINDER_CANCEL,Cancel,Cancel
+UI_TEAMFINDER_ALLDUNGEONS,All Dungeons,All Dungeons
+UI_TEAMFINDER_LEVEL,Required Level,Required Level
+UI_SEARCHPARTY_TAB_SEARCH,Party,Party
+UI_SEARCHPARTY_TAB_TEAMFINDER,Dungeon Team,Dungeon Team
+UI_TEAMFINDER_DETAILS_TITLE,Team Finder Details,Team Finder Details
+UI_TEAMFINDER_YOURROLE,Your Role,Your Role
+UI_TEAMFINDER_MESSAGELEADER,Message Leader,Message Leader
+UI_TEAMFINDER_EXPIRY,Remaining time:,Remaining time:
+UI_TEAMFINDER_PRESETS,Presets,Presets
+UI_TEAMFINDER_PRESET_SAVE,Save,Save
+UI_TEAMFINDER_PRESET_APPLY,Apply,Apply
+UI_TEAMFINDER_PRESET_REMOVE,Remove,Remove
+UI_TEAMFINDER_PRESET_NAME,Name,Name
+UI_TEAMFINDER_PRESET_MSGBOX_TITLE,Save Preset,Save Preset
+UI_TEAMFINDER_PRESET_MSGBOX_TEXT,Enter a name for the preset. Setting an existing name overwrites it.,Enter a name for the preset. Setting an existing name overwrites it.
+UI_TEAMFINDER_DELETE,Delete,Delete
+UI_APP_CONTENT_GUIDE_TIP,Open the guide about in game content.,Open the guide about in game content.

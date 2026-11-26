@@ -237,6 +237,16 @@ UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water
 UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity
 UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind
 UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery
+UI_TOOLTIP_DST_ELEMENT_ATTACK_FIRE,Fire Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WATER,Water Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_ELECTRICITY,Electricity Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WIND,Wind Attack
+UI_TOOLTIP_DST_ELEMENT_ATTACK_EARTH,Earth Attack
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_FIRE,Fire Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WATER,Water Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_ELECTRICITY,Electricity Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WIND,Wind Defense
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_EARTH,Earth Defense
 UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease
@@ -316,6 +326,7 @@ UI_PARTY_CHANGETROUP,Upgrade to an Advanced Party?
 UI_PARTY_CHANGEPARTY,Upgrade Party
 UI_PARTYNAME_ENTER,Enter party name:
 UI_PARTYNAME_TITLE,Change Party Name
+UI_PARTY_TEAMFINDER_SETTINGS,Settings
 UI_FRIEND_CONFIRM,Confirm Friend Request
 UI_FRIEND_INVITEQUESTION,%s wants to add you as a friend. Accept the request?
 UI_MESSENGER_ONLINE,Online
@@ -347,6 +358,8 @@ UI_SENDMEMO_TITLE,Send Memo
 UI_POST_TITLE,Mailbox
 UI_POST_TAB_SEND,Send Mail
 UI_POST_TAB_RECEIVE,Inbox
+UI_POST_ATTACHMENTS,Attachments
+UI_POST_MORE_ATTACHMENTS,+%d more
 UI_OPTION_UISCALE,Scale
 UI_OPTION_TEXTSCALE,Font Size
 UI_IGNORELIST_TITLE,Ignore List
@@ -380,6 +393,8 @@ UI_POSTREAD_DELETETITLE,Delete Mail
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Any attached items and Penya will also be deleted.
 UI_POSTREAD_MAILEXPIRED,Mail Expired
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s Penya to retrieve it.
+UI_POSTREAD_TAKEALL,Take all
+UI_POSTREAD_KEEP_PAY_ALL,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?
 UI_QUEST_CANCEL,Remove quest
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress
 UI_QUEST_ALLQUESTS,All Quests
@@ -864,6 +879,7 @@ UI_APP_TIPS_TIP,View gameplay tips.
 UI_APP_HELP_TIP,Open the help window.
 UI_APP_GUILD_TIP,View and manage your guild.
 UI_APP_PARTY_TIP,View and manage your party.
+UI_APP_SEARCHPARTY_TIP,Find a party to join or browse Team Finder listings.
 UI_APP_COUPLE_TIP,View and manage your couple.
 UI_APP_MESSENGER_TIP,View and manage your friends list.
 UI_APP_ITEMDURATION_TIP,View the remaining duration of your active premium items.
@@ -960,6 +976,26 @@ UI_GUILDCOMBAT_RESULT_GUILD,Guild Rankings
 UI_GUILDCOMBAT_RESULT_MEMBER,Player Rankings
 UI_GUILDCOMBAT_RESULT_RANK,Rankings
 UI_GUILDCOMBAT_RESULT_LOG,Battle Log
+UI_GUILDCOMBAT_RESULT_STATS,Statistics
+UI_STATS_TITLE,Statistics
+UI_STATS_CATEGORY_COMBAT,Combat
+UI_STATS_CATEGORY_DAMAGE,Damage
+UI_STATS_CATEGORY_SUPPORT,Support
+UI_STATS_CATEGORY_ITEMS,Items
+UI_STAT_COLLECTED_0,Points
+UI_STAT_COLLECTED_1,Damage Dealt
+UI_STAT_COLLECTED_2,Damage Taken
+UI_STAT_COLLECTED_3,Kills
+UI_STAT_COLLECTED_4,Deaths
+UI_STAT_COLLECTED_5,Barrier of Life Negation
+UI_STAT_COLLECTED_6,Healing Dealt
+UI_STAT_COLLECTED_7,Healing Received
+UI_STAT_COLLECTED_8,Item Healing
+UI_STAT_COLLECTED_9,Scroll of Holies Used
+UI_STAT_COLLECTED_10,Damage Amplified
+UI_STAT_COLLECTED_11,Damage Blocked
+UI_STAT_COLLECTED_12,Damage Reflected
+UI_STAT_COLLECTED_13,Damage Redirected
 UI_GUILDCOMBAT_LOG_GUILD,[%s]
 UI_GUILDCOMBAT_LOG1,Basic Point +2
 UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1
@@ -1170,6 +1206,7 @@ UI_SEARCHPARTY_TITLE,Search Party
 UI_SEARCHGUILD_TITLE,Search Guild
 UI_GROUPSEARCH,Search
 UI_TOOLTIP_TRANSMUTE,Transmutation:
+UI_TOOLTIP_TRANSMUTE_EXPIRED,Transmutation expired
 UI_TOOLTIP_RARITY,Rarity:
 UI_TOOLTIP_RARITY_NORMAL,Common
 UI_TOOLTIP_RARITY_RARE,Uncommon
@@ -1197,6 +1234,7 @@ UI_UPGRADESAFE_CURRENT,~Current Value~
 UI_SEARCHGROUP_MODE_NO,Not Listed
 UI_SEARCHGROUP_MODE_CONFIRM,Requires Leader Approval
 UI_SEARCHGROUP_MODE_FREE,Open to Anyone
+UI_SEARCHGROUP_MODE_TEAMFINDER,Team Finder
 UI_GROUPSEARCH_REFRESH,Refresh
 UI_GROUPSEARCH_FILTER,Filter:
 UI_GROUPSEARCH_SORT,Sort:
@@ -1220,6 +1258,7 @@ UI_GROUPSEARCH_JOIN,Join
 UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the leader.
 UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the master.
 UI_PARTY_JOINQUESTION,%s wants to join your party. Accept the request?
+UI_TEAMFINDER_JOINQUESTION,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?
 UI_GUILD_SEARCHNOTICE,Advertisement
 UI_GUILD_SEARCHNOTICE_TIP,Setup your guild's notice in the Guild Finder
 UI_DAMAGEMETER_RESET,Reset Damage Statistics
@@ -1669,9 +1708,13 @@ UI_DUNGEON_TITLE,Dungeon
 UI_DUNGEON_EASY,Easy
 UI_DUNGEON_MEDIUM,Medium
 UI_DUNGEON_HARD,Hard
+UI_DUNGEON_VERY_HARD,Very Hard
+UI_DUNGEON_NIGHTMARE,Nightmare
 UI_DUNGEON_LOW_DROPS,Low Drop Rate
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate
+UI_DUNGEON_VERY_HIGH_DROPS,Highly Increased Drop Rate
+UI_DUNGEON_EXTREME_DROPS,Extremely Increased Drop Rate
 UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!
 UI_DUNGEON_ENTRANCE_SOLO,Solo Only
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo
@@ -1714,6 +1757,51 @@ UI_APP_LOTTERY_TIP,View the lottery menu.
 UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel.
 UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s
 UI_APP_LOTTERY_FREESPINTIMER_READY,Your free spin is ready!
+UI_APP_PREMIUMGACHA,Fortune Pang's Roulette
+UI_APP_PREMIUMGACHA_TIP,Open the Fortune Pang's Roulette.
+UI_APP_PREMIUMGACHA_MAINPRIZE,1st Prize
+UI_APP_PREMIUMGACHA_OBTAINED,Obtained
+UI_APP_PREMIUMGACHA_COUNT,x%d
+UI_APP_PREMIUMGACHA_RULES_TITLE,Event Rules and Important Notices
+UI_APP_PREMIUMGACHA_RULES,"Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities."
+UI_APP_PREMIUMGACHA_PROBABILITY,Probability Info
+UI_APP_PREMIUMGACHA_RESETS,Remaining Reset Attempts\n%d / %d
+UI_APP_PREMIUMGACHA_RESET,Reset
+UI_APP_PREMIUMGACHA_SKIP,Skip
+UI_APP_PREMIUMGACHA_DRAW,Current draw: %d / %d
+UI_APP_PREMIUMGACHA_START,Start!
+UI_APP_PREMIUMGACHA_RESULT_TITLE,Result
+UI_APP_PREMIUMGACHA_RESULT,You obtained %s x%d.
+UI_APP_PREMIUMGACHA_PICK_TITLE,1st Prize
+UI_APP_PREMIUMGACHA_PICK,1st Prize! Choose your reward:
+UI_APP_PREMIUMGACHA_CONFIRM,Confirm
+UI_APP_PREMIUMGACHA_RESET_TITLE,Roulette Reset
+UI_APP_PREMIUMGACHA_CYCLE_COMPLETE,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.
+UI_APP_PREMIUMGACHA_RESET_INFO,"You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards."
+UI_APP_PREMIUMGACHA_RESET_CONFIRM,"Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw."
+UI_APP_PREMIUMGACHA_ERR_TICKETS,You do not have enough Fortune Pang's Roulette Tickets.
+UI_APP_PREMIUMGACHA_ERR_NOPRODUCT,Fortune Pang's Roulette tickets were not found in the Premium Shop.
+UI_APP_PREMIUMGACHA_ERR_PENYA,You do not have enough Penya.
+UI_APP_PREMIUMGACHA_ERR_INACTIVE,The Fortune Pang's Roulette event is not running.
+UI_APP_PREMIUMGACHA_ERR_PICK,Claim your reward first.
+UI_APP_PREMIUMGACHA_ERR_RESET,The roulette cannot be reset right now.
+UI_APP_PREMIUMGACHA_ERR_COMPLETED,You have obtained every reward of this event.
+UI_APP_PREMIUMGACHA_ERR_RESET_REQUIRED,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.
+UI_APP_PREMIUMGACHA_ERR_REFUSED,You cannot use the Fortune Pang's Roulette right now.
+UI_APP_PREMIUMGACHA_PROB_DRAW,Draw %d / %d
+UI_APP_PREMIUMGACHA_PROB_ALL,All remaining prizes can be drawn.
+UI_APP_PREMIUMGACHA_PROB_MAIN_LOCKED,The 1st Prize cannot be drawn on this draw.
+UI_APP_PREMIUMGACHA_PROB_LOCKED,1st Prize to %s cannot be drawn on this draw.
+UI_APP_PREMIUMGACHA_PROB_GUARANTEED,The 1st Prize is guaranteed on this draw.
+UI_APP_PREMIUMGACHA_PROB_COMPLETE,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.
+UI_APP_PREMIUMGACHA_PROB_TIER,Tier
+UI_APP_PREMIUMGACHA_PROB_ITEM,Item
+UI_APP_PREMIUMGACHA_PROB_CHANCE,Chance
+UI_APP_PREMIUMGACHA_TIER1,1st Prize
+UI_APP_PREMIUMGACHA_TIER2,2nd Prize
+UI_APP_PREMIUMGACHA_TIER3,3rd Prize
+UI_APP_PREMIUMGACHA_TIER4,4th Prize
+UI_APP_PREMIUMGACHA_TIER5,5th Prize
 UI_LUCKYROULETTE,Lucky Roulette
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to earn 120 lottery coins to spend on the Lottery Wheel!
 UI_LUNAR_NEW_YEAR,Lunar New Year
@@ -2802,6 +2890,14 @@ UI_NEWYEARPASS_2025,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.
+UI_GENERALAWAKE_AUTO,Auto-roll
+UI_GENERALAWAKE_USEMAX,Use at most
+UI_GENERALAWAKE_AND,and
+UI_GENERALAWAKE_ADDAND,+ Stat
+UI_GENERALAWAKE_ADD,Add
+UI_GENERALAWAKE_AUTOSTART,Start Auto
+UI_GENERALAWAKE_AUTOSTOP,Stop
+UI_GENERALAWAKE_REMOVE,Remove
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:
@@ -3488,6 +3584,8 @@ UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled
 UI_WAVEDEFENSE_STATUS_LEAVE,Leave
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?
 UI_FWC_PASS_2026,2026 FWC Championship Pass
+UI_CHRISTMAS_PASS_2026,2026 Christmas Pass
+UI_NEWYEARPASS_2027,2027 New Year Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026."
@@ -3505,3 +3603,54 @@ UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!
 UI_ZD_DEFENSE_FAILED,Defense Failed!
 UI_ZD_REWARD_PICKUP,Pick up your reward at the house!
 UI_ZD_RETURN_COUNT,Returning to town in: %d seconds
+UI_TOOLTIP_GUILDCONTRIB,Guild Contribution: %d
+UI_16UPDATE_PASS,1.6 Update Pass
+UI_VENDORSALESLOG_TITLE,Sales History
+UI_VENDORSALESLOG_BUTTON,Sales
+UI_VENDORSALESLOG_DATE,Date
+UI_VENDORSALESLOG_ITEM,Item
+UI_VENDORSALESLOG_TOTAL,Total
+UI_VENDORSALESLOG_BUYER,Buyer
+UI_VENDORSALESLOG_VIA,Via
+UI_VENDORSALESLOG_VIA_VENDOR,Vendor
+UI_VENDORSALESLOG_VIA_SHOP,Shop
+UI_VENDORSALESLOG_REFRESH,Refresh
+UI_OPTION_FARM_TRACKER,Farm Tracker
+UI_FARMTRACKER_FILTER,Add Item to Farm Tracker
+UI_FARMTRACKER_TIME,Time : %s
+UI_FARMTRACKER_RESET,Reset Farm Tracker
+UI_FARMTRACKER_KILLS,Kills: %s
+UI_FARMTRACKER_PENYA,Penyas: %s
+UI_FARMTRACKER_FILTER_TITLE,Farm Tracker
+UI_FARMTRACKER_FILTER_SETTINGS,Farm Tracker Filter Settings
+UI_TEAMFINDER_TITLE,Team Finder
+UI_TEAMFINDER_DUNGEON,Dungeon
+UI_TEAMFINDER_PLAYERS,Amount of players
+UI_TEAMFINDER_ROLES,Roles
+UI_TEAMFINDER_CLASSES,Classes
+UI_TEAMFINDER_LANGUAGES,Languages
+UI_TEAMFINDER_DESCRIPTION,Description
+UI_TEAMFINDER_ROLE_HEALER,Healer
+UI_TEAMFINDER_ROLE_TANK,Tank
+UI_TEAMFINDER_ROLE_DPSSINGLE,DPS (1v1)
+UI_TEAMFINDER_ROLE_DPSAOE,DPS (AoE)
+UI_TEAMFINDER_ANYCLASS,Any Class
+UI_TEAMFINDER_CONFIRM,Confirm
+UI_TEAMFINDER_CANCEL,Cancel
+UI_TEAMFINDER_ALLDUNGEONS,All Dungeons
+UI_TEAMFINDER_LEVEL,Required Level
+UI_SEARCHPARTY_TAB_SEARCH,Party
+UI_SEARCHPARTY_TAB_TEAMFINDER,Dungeon Team
+UI_TEAMFINDER_DETAILS_TITLE,Team Finder Details
+UI_TEAMFINDER_YOURROLE,Your Role
+UI_TEAMFINDER_MESSAGELEADER,Message Leader
+UI_TEAMFINDER_EXPIRY,Remaining time:
+UI_TEAMFINDER_PRESETS,Presets
+UI_TEAMFINDER_PRESET_SAVE,Save
+UI_TEAMFINDER_PRESET_APPLY,Apply
+UI_TEAMFINDER_PRESET_REMOVE,Remove
+UI_TEAMFINDER_PRESET_NAME,Name
+UI_TEAMFINDER_PRESET_MSGBOX_TITLE,Save Preset
+UI_TEAMFINDER_PRESET_MSGBOX_TEXT,Enter a name for the preset. Setting an existing name overwrites it.
+UI_TEAMFINDER_DELETE,Delete
+UI_APP_CONTENT_GUIDE_TIP,Open the guide about in game content.

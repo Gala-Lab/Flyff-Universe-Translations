@@ -125,6 +125,7 @@ TEXTCLIENT_HELPER,Helper,Assistance
 TEXTCLIENT_APP_ITEM_DURATION,Duration,Durée
 TEXTCLIENT_APP_MESSENGER,Messenger,Messagerie
 TEXTCLIENT_APP_PARTY,Party,Groupe
+TEXTCLIENT_APP_SEARCHPARTY,Search Party,Search Party
 TEXTCLIENT_APP_GUILD,Guild,Guilde
 TEXTCLIENT_APP_COUPLE,Couple,Couple
 TEXTCLIENT_APP_HELP,Help,Aide
@@ -251,7 +252,7 @@ TEXTCLIENT_CANNOTPOST,You cannot send this item.,Vous ne pouvez pas envoyer cet 
 TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Personnage inconnu
 TEXTCLIENT_POST_ERROR,You have failed to send.,L'envoi a échoué.
 TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Le courrier a bien été envoyé.
-TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Une erreur s'est produite, veuillez réessayer l'opération."
+TEXTCLIENT_ERROR_RETRY,"An error occurred, please retry the operation.","Une erreur s'est produite, veuillez réessayer l'opération."
 TEXTCLIENT_REALTIME,Real Time - %s,Temps réel - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Temps Madrigal - %s
 TEXTCLIENT_NEW_QUEST,New Quest,Nouvelle quête
@@ -520,6 +521,7 @@ TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Ce produit n'est pas
 TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,Impossible d'utiliser la Boutique Flyff car le serveur est hors ligne.
 TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,Vous n'avez pas assez d'argent pour acheter l'article. Rechargez votre compte avant d'acheter.
 TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Vous avez atteint le nombre d'achats maximum par personnage pour cet objet.
+TEXTCLIENT_CASHSHOP_GACHACOMPLETE,You have obtained all rewards and can no longer purchase tickets.,You have obtained all rewards and can no longer purchase tickets.
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Erreur inconnue, veuillez réessayer."
 TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Merci pour votre achat ! Si l'inventaire est complet, veuillez faire de la place et vous reconnecter pour recevoir l'article."
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,Le joueur n'est pas valide et ne peut pas utiliser la Boutique Flyff.
@@ -762,6 +764,7 @@ TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Cette compétence ne 
 TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Bande de fous ! Je vous brûlerai tous !
 TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Vous allez brûler ! Vous brûlerez tous !
 TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,"%s ! Approche-toi... Fais moi face, et brûle !"
+TEXTCLIENT_BOSS_METEONYKER_DEVOUR,Your embers are mine! Burn for me!,Your embers are mine! Burn for me!
 TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,Tu pensais que j'étais seul ?!
 TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Impossible d'annuler ce buff actuellement.
 TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,Le buff a été annulé.
@@ -820,6 +823,7 @@ TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Vous avez trouvé un(e) %s !
 TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s a trouvé un(e) %s !
 TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,Cet objet ne peut pas être Béni ou l'est déjà.
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,L'objet a été éveillé avec succès.
+TEXTCLIENT_AWAKE_AUTOREDUCED,Some auto-roll targets were lowered to match this blessing.,Some auto-roll targets were lowered to match this blessing.
 TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,Ceci ne peut être utilisé que sur les objets ayant été Bénis par la Déesse.
 TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,La Bénédiction de la Déesse a été retirée. L'objet peut être à nouveau Béni.
 TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,Voici un cadeau comme tu ne t'es pas connecté depuis longtemps !
@@ -1630,3 +1634,17 @@ TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %
 TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Des monstres approchent...
 TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,Un boss arrive !
 TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Félicitations pour avoir terminé le match ! Vous avez reçu vos récompenses.
+TEXTCLIENT_TEAMFINDER_JOINED,%s (%s Lv.%d) has joined the team as a %s.,%s (%s Lv.%d) has joined the team as a %s.
+TEXTCLIENT_TEAMFINDER_FILLED,The team has been filled.,The team has been filled.
+TEXTCLIENT_TEAMFINDER_UPDATED,The Team Finder listing has been updated.,The Team Finder listing has been updated.
+TEXTCLIENT_PARTYFAILENTER_BLOCKED,You were blocked from joining the party.,You were blocked from joining the party.
+TEXTCLIENT_PARTYFAILENTER_KICKED,You were kicked from this party and cannot rejoin via search.,You were kicked from this party and cannot rejoin via search.
+TEXTCLIENT_PARTYFAILENTER_INPARTY,You can apply after leaving your party.,You can apply after leaving your party.
+TEXTCLIENT_TEAMFAILENTER_SLOT,This role is no longer available.,This role is no longer available.
+TEXTCLIENT_TEAMFAILENTER_LEVEL,Your level does not match the joining criteria.,Your level does not match the joining criteria.
+TEXTCLIENT_TEAMFINDER_CLOSED,The Team Finder listing has closed.,The Team Finder listing has closed.
+TEXTCLIENT_TEAMFINDER_REMINDER,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.
+TEXTCLIENT_TEAMFINDER_BADWORDS,The description contains forbidden words.,The description contains forbidden words.
+TEXTCLIENT_TEAMFINDER_LEVELRANGE,The required level must be between %d and %d.,The required level must be between %d and %d.
+TEXTCLIENT_TEAMFINDER_LEVELORDER,The minimum level cannot be higher than the maximum level.,The minimum level cannot be higher than the maximum level.
+TEXTCLIENT_APP_CONTENT_GUIDE,Content Guide,Content Guide

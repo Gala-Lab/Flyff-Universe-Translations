@@ -125,6 +125,7 @@ TEXTCLIENT_HELPER,Helper,Ajuda
 TEXTCLIENT_APP_ITEM_DURATION,Duration,Duração
 TEXTCLIENT_APP_MESSENGER,Messenger,Mensageiro
 TEXTCLIENT_APP_PARTY,Party,Grupo
+TEXTCLIENT_APP_SEARCHPARTY,Search Party,Search Party
 TEXTCLIENT_APP_GUILD,Guild,Guilda
 TEXTCLIENT_APP_COUPLE,Couple,Couple
 TEXTCLIENT_APP_HELP,Help,Ajuda
@@ -251,7 +252,7 @@ TEXTCLIENT_CANNOTPOST,You cannot send this item.,Você não pode enviar esse ite
 TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Usuário desconhecido
 TEXTCLIENT_POST_ERROR,You have failed to send.,Houve falha no envio.
 TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Correspondência enviada com sucesso!
-TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Ocorreu um erro, por favor tente novamente."
+TEXTCLIENT_ERROR_RETRY,"An error occurred, please retry the operation.","Ocorreu um erro, por favor tente novamente."
 TEXTCLIENT_REALTIME,Real Time - %s,Horário Real - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Horário de Madrigal - %s
 TEXTCLIENT_NEW_QUEST,New Quest,Nova Quest
@@ -520,6 +521,7 @@ TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Este produto é inv�
 TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,Não é possível usar a Loja Flyff porque o servidor está offline.
 TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,Você não tem dinheiro suficiente para comprar o item. Recarregue sua conta antes de comprar.
 TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Você atingiu a quantidade máxima de compras por personagem para este produto.
+TEXTCLIENT_CASHSHOP_GACHACOMPLETE,You have obtained all rewards and can no longer purchase tickets.,You have obtained all rewards and can no longer purchase tickets.
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Erro desconhecido, por favor tente novamente."
 TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Obrigado pela sua compra! Se o seu inventário estiver cheio, libere espaço e faça login novamente para receber o item."
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,O jogador é inválido e não pode usar a Loja Flyff.
@@ -762,6 +764,7 @@ TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Não é possível usa
 TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Tolos! Eu derreterei todos vocês!!
 TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Vocês queimarão! Todos vocês queimarão!
 TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! Chegue mais perto! Enfrente-me! Queime!
+TEXTCLIENT_BOSS_METEONYKER_DEVOUR,Your embers are mine! Burn for me!,Your embers are mine! Burn for me!
 TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,Pensou que eu estava sozinho?!
 TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Não é possível remover o Buff agora.
 TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,O Buff foi removido.
@@ -820,6 +823,7 @@ TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Você acaba de encontrar um 
 TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s acaba de encontrar um %s!
 TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,O item não pode ser Abençoado.
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,O item foi despertado.
+TEXTCLIENT_AWAKE_AUTOREDUCED,Some auto-roll targets were lowered to match this blessing.,Some auto-roll targets were lowered to match this blessing.
 TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,Este recurso só pode ser usado em itens abençoados.
 TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,A Bênção da Deusa foi removida.
 TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,"Aqui está um presente, já que você está de volta após muito tempo!"
@@ -1630,3 +1634,17 @@ TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %
 TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Monsters are approaching...
 TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,A boss is coming!
 TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Congratulations on clearing the match! You have received your rewards.
+TEXTCLIENT_TEAMFINDER_JOINED,%s (%s Lv.%d) has joined the team as a %s.,%s (%s Lv.%d) has joined the team as a %s.
+TEXTCLIENT_TEAMFINDER_FILLED,The team has been filled.,The team has been filled.
+TEXTCLIENT_TEAMFINDER_UPDATED,The Team Finder listing has been updated.,The Team Finder listing has been updated.
+TEXTCLIENT_PARTYFAILENTER_BLOCKED,You were blocked from joining the party.,You were blocked from joining the party.
+TEXTCLIENT_PARTYFAILENTER_KICKED,You were kicked from this party and cannot rejoin via search.,You were kicked from this party and cannot rejoin via search.
+TEXTCLIENT_PARTYFAILENTER_INPARTY,You can apply after leaving your party.,You can apply after leaving your party.
+TEXTCLIENT_TEAMFAILENTER_SLOT,This role is no longer available.,This role is no longer available.
+TEXTCLIENT_TEAMFAILENTER_LEVEL,Your level does not match the joining criteria.,Your level does not match the joining criteria.
+TEXTCLIENT_TEAMFINDER_CLOSED,The Team Finder listing has closed.,The Team Finder listing has closed.
+TEXTCLIENT_TEAMFINDER_REMINDER,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.
+TEXTCLIENT_TEAMFINDER_BADWORDS,The description contains forbidden words.,The description contains forbidden words.
+TEXTCLIENT_TEAMFINDER_LEVELRANGE,The required level must be between %d and %d.,The required level must be between %d and %d.
+TEXTCLIENT_TEAMFINDER_LEVELORDER,The minimum level cannot be higher than the maximum level.,The minimum level cannot be higher than the maximum level.
+TEXTCLIENT_APP_CONTENT_GUIDE,Content Guide,Content Guide
