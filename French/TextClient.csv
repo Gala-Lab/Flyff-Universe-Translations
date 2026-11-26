@@ -1646,5 +1646,5 @@ TEXTCLIENT_TEAM_FINDER_CLOSED,The Team Finder listing has closed.,L'annonce de r
 TEXTCLIENT_TEAMFINDER_REMINDER,The Team Finder listing will expire in 5 minutes. Refresh it by updating the listing again.,L'annonce de recherche d'équipe expirera dans 5 minutes. Mettez-la à jour pour prolonger sa durée de publication.
 TEXTCLIENT_TEAMFINDER_BADWORDS,The description contains forbidden words.,La description contient des mots interdits.
 TEXTCLIENT_TEAMFINDER_LEVELRANGE,The required level must be between %d and %d.,Le niveau requis doit être compris entre %d et %d.
-TEXTCLIENT_TEAMFINDER_LEVELORDER,The minimum level cannot be higher than the maximum level.,The minimum level cannot be higher than the maximum level.
-TEXTCLIENT_APP_CONTENT_GUIDE,Content Guide,Content Guide
+TEXTCLIENT_TEAMFINDER_LEVELORDER,The minimum level cannot be higher than the maximum level.,Le niveau minimum ne peut pas être supérieur au niveau maximum.
+TEXTCLIENT_APP_CONTENT_GUIDE,Content Guide,Guide du contenu
