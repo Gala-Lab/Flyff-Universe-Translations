@@ -237,16 +237,16 @@ UI_TOOLTIP_DST_MASTRY_WATER,Mastery: Water,Maîtrise de l'Eau
 UI_TOOLTIP_DST_MASTRY_ELECTRICITY,Mastery: Electricity,Maîtrise de la Foudre
 UI_TOOLTIP_DST_MASTRY_WIND,Mastery: Wind,Maîtrise du Vent
 UI_TOOLTIP_DST_MASTRY_ALL,All Elements Mastery,Maîtrise élémentale globale
-UI_TOOLTIP_DST_ELEMENT_ATTACK_FIRE,Fire Attack,Fire Attack
-UI_TOOLTIP_DST_ELEMENT_ATTACK_WATER,Water Attack,Water Attack
-UI_TOOLTIP_DST_ELEMENT_ATTACK_ELECTRICITY,Electricity Attack,Electricity Attack
-UI_TOOLTIP_DST_ELEMENT_ATTACK_WIND,Wind Attack,Wind Attack
-UI_TOOLTIP_DST_ELEMENT_ATTACK_EARTH,Earth Attack,Earth Attack
-UI_TOOLTIP_DST_ELEMENT_DEFENSE_FIRE,Fire Defense,Fire Defense
-UI_TOOLTIP_DST_ELEMENT_DEFENSE_WATER,Water Defense,Water Defense
-UI_TOOLTIP_DST_ELEMENT_DEFENSE_ELECTRICITY,Electricity Defense,Electricity Defense
-UI_TOOLTIP_DST_ELEMENT_DEFENSE_WIND,Wind Defense,Wind Defense
-UI_TOOLTIP_DST_ELEMENT_DEFENSE_EARTH,Earth Defense,Earth Defense
+UI_TOOLTIP_DST_ELEMENT_ATTACK_FIRE,Fire Attack,Attaque de feu
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WATER,Water Attack,Attaque d'eau
+UI_TOOLTIP_DST_ELEMENT_ATTACK_ELECTRICITY,Electricity Attack,Attaque de foudre
+UI_TOOLTIP_DST_ELEMENT_ATTACK_WIND,Wind Attack,Attaque de vent
+UI_TOOLTIP_DST_ELEMENT_ATTACK_EARTH,Earth Attack,Attaque de terre
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_FIRE,Fire Defense,Défense contre le feu
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WATER,Water Defense,Défense contre l'eau
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_ELECTRICITY,Electricity Defense,Défense contre la foudre
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_WIND,Wind Defense,Défense contre le vent
+UI_TOOLTIP_DST_ELEMENT_DEFENSE_EARTH,Earth Defense,Défense contre la terre
 UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Renvoi des dégâts
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,Réduction de la consommation de PM
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,Réduction de la consommation de PF
@@ -326,7 +326,7 @@ UI_PARTY_CHANGETROUP,Upgrade to an Advanced Party?,Voulez-vous passer à un grou
 UI_PARTY_CHANGEPARTY,Upgrade Party,Évolution du groupe
 UI_PARTYNAME_ENTER,Enter party name:,Saisir le nom du groupe avancé
 UI_PARTYNAME_TITLE,Change Party Name,Nom du groupe
-UI_PARTY_TEAMFINDER_SETTINGS,Settings,Settings
+UI_PARTY_TEAMFINDER_SETTINGS,Settings,Paramètres
 UI_FRIEND_CONFIRM,Confirm Friend Request,Confirmation de l'ajout d'un ami
 UI_FRIEND_INVITEQUESTION,%s wants to add you as a friend. Accept the request?,Rejoindre la liste d'amis de %s ?
 UI_MESSENGER_ONLINE,Online,Connecté
@@ -358,8 +358,8 @@ UI_SENDMEMO_TITLE,Send Memo,A :
 UI_POST_TITLE,Mailbox,Poste
 UI_POST_TAB_SEND,Send Mail,Envoyer un message
 UI_POST_TAB_RECEIVE,Inbox,Boîte de réception
-UI_POST_ATTACHMENTS,Attachments,Attachments
-UI_POST_MORE_ATTACHMENTS,+%d more,+%d more
+UI_POST_ATTACHMENTS,Attachments,Pièces jointes
+UI_POST_MORE_ATTACHMENTS,+%d more,+%d de plus
 UI_OPTION_UISCALE,Scale,Échelle d'interface
 UI_OPTION_TEXTSCALE,Font Size,Taille de la police
 UI_IGNORELIST_TITLE,Ignore List,Blacklist
@@ -393,8 +393,8 @@ UI_POSTREAD_DELETETITLE,Delete Mail,Supprimer le courrier
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Any attached items and Penya will also be deleted.,"Voulez-vous supprimer ce courrier ? Attention, cela détruira également les objets ou Penyas qui y sont joints."
 UI_POSTREAD_MAILEXPIRED,Mail Expired,Courrier expiré
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s Penya to retrieve it.,Le délai de garde des messages de %d jours a expiré. Le coût supplémentaire pour récupérer vos objets est de %s Penyas.
-UI_POSTREAD_TAKEALL,Take all,Take all
-UI_POSTREAD_KEEP_PAY_ALL,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?
+UI_POSTREAD_TAKEALL,Take all,Tout récupérer
+UI_POSTREAD_KEEP_PAY_ALL,This mail expired %d days ago. You must pay %s Penya to retrieve all items. Continue?,Ce courrier a expiré il y a %d jours. Vous devez payer %s Penya pour récupérer tous les objets. Continuer ?
 UI_QUEST_CANCEL,Remove quest,Abandonner
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Abandonner la quête en cours ?
 UI_QUEST_ALLQUESTS,All Quests,Toutes les quêtes
@@ -879,7 +879,7 @@ UI_APP_TIPS_TIP,View gameplay tips.,Astuces
 UI_APP_HELP_TIP,Open the help window.,Aide
 UI_APP_GUILD_TIP,View and manage your guild.,Afficher la fenêtre de guilde
 UI_APP_PARTY_TIP,View and manage your party.,Afficher la fenêtre de groupe
-UI_APP_SEARCHPARTY_TIP,Find a party to join or browse Team Finder listings.,Find a party to join or browse Team Finder listings.
+UI_APP_SEARCHPARTY_TIP,Find a party to join or browse Team Finder listings.,Trouvez un groupe à rejoindre ou parcourez les annonces de recherche d’équipe.
 UI_APP_COUPLE_TIP,View and manage your couple.,Gérer votre couple.
 UI_APP_MESSENGER_TIP,View and manage your friends list.,Afficher la liste d'amis
 UI_APP_ITEMDURATION_TIP,View the remaining duration of your active premium items.,Afficher la durabilité des objets premiums
@@ -976,26 +976,26 @@ UI_GUILDCOMBAT_RESULT_GUILD,Guild Rankings,Classement de guilde
 UI_GUILDCOMBAT_RESULT_MEMBER,Player Rankings,Classement individuel
 UI_GUILDCOMBAT_RESULT_RANK,Rankings,Général
 UI_GUILDCOMBAT_RESULT_LOG,Battle Log,Journal de bataille
-UI_GUILDCOMBAT_RESULT_STATS,Statistics,Statistics
-UI_STATS_TITLE,Statistics,Statistics
+UI_GUILDCOMBAT_RESULT_STATS,Statistics,Statistiques
+UI_STATS_TITLE,Statistics,Statistiques
 UI_STATS_CATEGORY_COMBAT,Combat,Combat
-UI_STATS_CATEGORY_DAMAGE,Damage,Damage
-UI_STATS_CATEGORY_SUPPORT,Support,Support
-UI_STATS_CATEGORY_ITEMS,Items,Items
+UI_STATS_CATEGORY_DAMAGE,Damage,Dégâts
+UI_STATS_CATEGORY_SUPPORT,Support,Soutien
+UI_STATS_CATEGORY_ITEMS,Items,Objets
 UI_STAT_COLLECTED_0,Points,Points
-UI_STAT_COLLECTED_1,Damage Dealt,Damage Dealt
-UI_STAT_COLLECTED_2,Damage Taken,Damage Taken
-UI_STAT_COLLECTED_3,Kills,Kills
-UI_STAT_COLLECTED_4,Deaths,Deaths
-UI_STAT_COLLECTED_5,Barrier of Life Negation,Barrier of Life Negation
-UI_STAT_COLLECTED_6,Healing Dealt,Healing Dealt
-UI_STAT_COLLECTED_7,Healing Received,Healing Received
-UI_STAT_COLLECTED_8,Item Healing,Item Healing
-UI_STAT_COLLECTED_9,Scroll of Holies Used,Scroll of Holies Used
-UI_STAT_COLLECTED_10,Damage Amplified,Damage Amplified
-UI_STAT_COLLECTED_11,Damage Blocked,Damage Blocked
-UI_STAT_COLLECTED_12,Damage Reflected,Damage Reflected
-UI_STAT_COLLECTED_13,Damage Redirected,Damage Redirected
+UI_STAT_COLLECTED_1,Damage Dealt,Dégâts infligés
+UI_STAT_COLLECTED_2,Damage Taken,Dégâts subis
+UI_STAT_COLLECTED_3,Kills,Éliminations
+UI_STAT_COLLECTED_4,Deaths,Morts
+UI_STAT_COLLECTED_5,Barrier of Life Negation,Annulation de la Barrière de vie
+UI_STAT_COLLECTED_6,Healing Dealt,Soins prodigués
+UI_STAT_COLLECTED_7,Healing Received,Soins reçus
+UI_STAT_COLLECTED_8,Item Healing,Soins par objets
+UI_STAT_COLLECTED_9,Scroll of Holies Used,Parchemins sacrés utilisés
+UI_STAT_COLLECTED_10,Damage Amplified,Dégâts amplifiés
+UI_STAT_COLLECTED_11,Damage Blocked,Dégâts bloqués
+UI_STAT_COLLECTED_12,Damage Reflected,Dégâts renvoyés
+UI_STAT_COLLECTED_13,Damage Redirected,Dégâts redirigés
 UI_GUILDCOMBAT_LOG_GUILD,[%s],[%s]
 UI_GUILDCOMBAT_LOG1,Basic Point +2,Points par ennemi +2 pts
 UI_GUILDCOMBAT_LOG2,Guild Master Bonus +1,Bonus du maître de guilde +1
@@ -1206,7 +1206,7 @@ UI_SEARCHPARTY_TITLE,Search Party,Rech. groupe
 UI_SEARCHGUILD_TITLE,Search Guild,Rech. guilde
 UI_GROUPSEARCH,Search,Rechercher
 UI_TOOLTIP_TRANSMUTE,Transmutation:,Transmutation :
-UI_TOOLTIP_TRANSMUTE_EXPIRED,Transmutation expired,Transmutation expired
+UI_TOOLTIP_TRANSMUTE_EXPIRED,Transmutation expired,Transmutation expirée
 UI_TOOLTIP_RARITY,Rarity:,Rareté :
 UI_TOOLTIP_RARITY_NORMAL,Common,Commun
 UI_TOOLTIP_RARITY_RARE,Uncommon,Peu commun
@@ -1234,7 +1234,7 @@ UI_UPGRADESAFE_CURRENT,~Current Value~,Niveau actuel
 UI_SEARCHGROUP_MODE_NO,Not Listed,Non listé
 UI_SEARCHGROUP_MODE_CONFIRM,Requires Leader Approval,Sur acceptation
 UI_SEARCHGROUP_MODE_FREE,Open to Anyone,Ouvert à tous
-UI_SEARCHGROUP_MODE_TEAMFINDER,Team Finder,Team Finder
+UI_SEARCHGROUP_MODE_TEAMFINDER,Team Finder,Recherche d’équipe
 UI_GROUPSEARCH_REFRESH,Refresh,Rafraîchir
 UI_GROUPSEARCH_FILTER,Filter:,Filtrer :
 UI_GROUPSEARCH_SORT,Sort:,Trier :
@@ -1258,7 +1258,7 @@ UI_GROUPSEARCH_JOIN,Join,Rejoindre
 UI_GROUPSEARCH_LEADERAPPROVAL,Your request must be approved by the leader.,Votre demande doit être approuvée par le Leader.
 UI_GROUPSEARCH_MASTERAPPROVAL,Your request must be approved by the master.,Votre demande doit être approuvée par le Maître.
 UI_PARTY_JOINQUESTION,%s wants to join your party. Accept the request?,%s veut rejoindre votre groupe. Accepter ?
-UI_TEAMFINDER_JOINQUESTION,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?
+UI_TEAMFINDER_JOINQUESTION,%s (%s Lv.%d) wants to join your team as a %s. Accept the request?,%s (%s Niv.%d) souhaite rejoindre votre équipe en tant que %s. Accepter la demande ?
 UI_GUILD_SEARCHNOTICE,Advertisement,Recherche
 UI_GUILD_SEARCHNOTICE_TIP,Setup your guild's notice in the Guild Finder,Choisir le message à afficher dans la recherche de guilde.
 UI_DAMAGEMETER_RESET,Reset Damage Statistics,Réinitialiser le tableau de dégâts
@@ -1708,13 +1708,13 @@ UI_DUNGEON_TITLE,Dungeon,Donjon
 UI_DUNGEON_EASY,Easy,Facile
 UI_DUNGEON_MEDIUM,Medium,Moyen
 UI_DUNGEON_HARD,Hard,Difficile
-UI_DUNGEON_VERY_HARD,Very Hard,Very Hard
-UI_DUNGEON_NIGHTMARE,Nightmare,Nightmare
+UI_DUNGEON_VERY_HARD,Very Hard,Très difficile
+UI_DUNGEON_NIGHTMARE,Nightmare,Cauchemar
 UI_DUNGEON_LOW_DROPS,Low Drop Rate,Butin faible
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,Butin normal
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate,Butin augmenté
-UI_DUNGEON_VERY_HIGH_DROPS,Highly Increased Drop Rate,Highly Increased Drop Rate
-UI_DUNGEON_EXTREME_DROPS,Extremely Increased Drop Rate,Extremely Increased Drop Rate
+UI_DUNGEON_VERY_HIGH_DROPS,Highly Increased Drop Rate,Taux de butin fortement augmenté
+UI_DUNGEON_EXTREME_DROPS,Extremely Increased Drop Rate,Taux de butin extrêmement augmenté
 UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,Finissez le boss !
 UI_DUNGEON_ENTRANCE_SOLO,Solo Only,Uniquement en solo
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Groupe ou Solo
@@ -1757,51 +1757,51 @@ UI_APP_LOTTERY_TIP,View the lottery menu.,Affiche le Menu Lotterie.
 UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel.,Il vous faut %dx %s pour faire tourner la roue
 UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,Prochain tour gratuit dans: %s
 UI_APP_LOTTERY_FREESPINTIMER_READY,Your free spin is ready!,Vous pouvez faire tourner la roue !!!
-UI_APP_PREMIUMGACHA,Fortune Pang's Roulette,Fortune Pang's Roulette
-UI_APP_PREMIUMGACHA_TIP,Open the Fortune Pang's Roulette.,Open the Fortune Pang's Roulette.
-UI_APP_PREMIUMGACHA_MAINPRIZE,1st Prize,1st Prize
-UI_APP_PREMIUMGACHA_OBTAINED,Obtained,Obtained
+UI_APP_PREMIUMGACHA,Fortune Pang's Roulette,Roulette de Pang la Fortune
+UI_APP_PREMIUMGACHA_TIP,Open the Fortune Pang's Roulette.,Ouvrir la roulette de Pang la Fortune.
+UI_APP_PREMIUMGACHA_MAINPRIZE,1st Prize,1er prix
+UI_APP_PREMIUMGACHA_OBTAINED,Obtained,Obtenu
 UI_APP_PREMIUMGACHA_COUNT,x%d,x%d
-UI_APP_PREMIUMGACHA_RULES_TITLE,Event Rules and Important Notices,Event Rules and Important Notices
-UI_APP_PREMIUMGACHA_RULES,"Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities.","Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities."
-UI_APP_PREMIUMGACHA_PROBABILITY,Probability Info,Probability Info
-UI_APP_PREMIUMGACHA_RESETS,Remaining Reset Attempts\n%d / %d,Remaining Reset Attempts\n%d / %d
-UI_APP_PREMIUMGACHA_RESET,Reset,Reset
-UI_APP_PREMIUMGACHA_SKIP,Skip,Skip
-UI_APP_PREMIUMGACHA_DRAW,Current draw: %d / %d,Current draw: %d / %d
-UI_APP_PREMIUMGACHA_START,Start!,Start!
-UI_APP_PREMIUMGACHA_RESULT_TITLE,Result,Result
-UI_APP_PREMIUMGACHA_RESULT,You obtained %s x%d.,You obtained %s x%d.
-UI_APP_PREMIUMGACHA_PICK_TITLE,1st Prize,1st Prize
-UI_APP_PREMIUMGACHA_PICK,1st Prize! Choose your reward:,1st Prize! Choose your reward:
-UI_APP_PREMIUMGACHA_CONFIRM,Confirm,Confirm
-UI_APP_PREMIUMGACHA_RESET_TITLE,Roulette Reset,Roulette Reset
-UI_APP_PREMIUMGACHA_CYCLE_COMPLETE,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.
-UI_APP_PREMIUMGACHA_RESET_INFO,"You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards.","You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards."
-UI_APP_PREMIUMGACHA_RESET_CONFIRM,"Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw.","Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw."
-UI_APP_PREMIUMGACHA_ERR_TICKETS,You do not have enough Fortune Pang's Roulette Tickets.,You do not have enough Fortune Pang's Roulette Tickets.
-UI_APP_PREMIUMGACHA_ERR_NOPRODUCT,Fortune Pang's Roulette tickets were not found in the Premium Shop.,Fortune Pang's Roulette tickets were not found in the Premium Shop.
-UI_APP_PREMIUMGACHA_ERR_PENYA,You do not have enough Penya.,You do not have enough Penya.
-UI_APP_PREMIUMGACHA_ERR_INACTIVE,The Fortune Pang's Roulette event is not running.,The Fortune Pang's Roulette event is not running.
-UI_APP_PREMIUMGACHA_ERR_PICK,Claim your reward first.,Claim your reward first.
-UI_APP_PREMIUMGACHA_ERR_RESET,The roulette cannot be reset right now.,The roulette cannot be reset right now.
-UI_APP_PREMIUMGACHA_ERR_COMPLETED,You have obtained every reward of this event.,You have obtained every reward of this event.
-UI_APP_PREMIUMGACHA_ERR_RESET_REQUIRED,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.
-UI_APP_PREMIUMGACHA_ERR_REFUSED,You cannot use the Fortune Pang's Roulette right now.,You cannot use the Fortune Pang's Roulette right now.
-UI_APP_PREMIUMGACHA_PROB_DRAW,Draw %d / %d,Draw %d / %d
-UI_APP_PREMIUMGACHA_PROB_ALL,All remaining prizes can be drawn.,All remaining prizes can be drawn.
-UI_APP_PREMIUMGACHA_PROB_MAIN_LOCKED,The 1st Prize cannot be drawn on this draw.,The 1st Prize cannot be drawn on this draw.
-UI_APP_PREMIUMGACHA_PROB_LOCKED,1st Prize to %s cannot be drawn on this draw.,1st Prize to %s cannot be drawn on this draw.
-UI_APP_PREMIUMGACHA_PROB_GUARANTEED,The 1st Prize is guaranteed on this draw.,The 1st Prize is guaranteed on this draw.
-UI_APP_PREMIUMGACHA_PROB_COMPLETE,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.
-UI_APP_PREMIUMGACHA_PROB_TIER,Tier,Tier
-UI_APP_PREMIUMGACHA_PROB_ITEM,Item,Item
-UI_APP_PREMIUMGACHA_PROB_CHANCE,Chance,Chance
-UI_APP_PREMIUMGACHA_TIER1,1st Prize,1st Prize
-UI_APP_PREMIUMGACHA_TIER2,2nd Prize,2nd Prize
-UI_APP_PREMIUMGACHA_TIER3,3rd Prize,3rd Prize
-UI_APP_PREMIUMGACHA_TIER4,4th Prize,4th Prize
-UI_APP_PREMIUMGACHA_TIER5,5th Prize,5th Prize
+UI_APP_PREMIUMGACHA_RULES_TITLE,Event Rules and Important Notices,Règles de l'événement et informations importantes
+UI_APP_PREMIUMGACHA_RULES,"Only 4th and 5th Prizes can be obtained on the 1st draw. The 1st Prize becomes available starting from the 5th draw. Rewards already obtained are removed from the pool, and probabilities are adjusted accordingly. Please use the Probability Info feature to check the updated probabilities.","Seuls les 4e et 5e prix peuvent être obtenus lors du premier tirage. Le 1er prix devient disponible à partir du 5e tirage. Les récompenses déjà obtenues sont retirées de la liste des lots disponibles et les probabilités sont ajustées en conséquence. Consultez les informations sur les probabilités pour connaître les chances d'obtention actualisées."
+UI_APP_PREMIUMGACHA_PROBABILITY,Probability Info,Informations sur les probabilités
+UI_APP_PREMIUMGACHA_RESETS,Remaining Reset Attempts\n%d / %d,Réinitialisations restantes\n%d / %d
+UI_APP_PREMIUMGACHA_RESET,Reset,Réinitialiser
+UI_APP_PREMIUMGACHA_SKIP,Skip,Passer
+UI_APP_PREMIUMGACHA_DRAW,Current draw: %d / %d,Tirage actuel : %d / %d
+UI_APP_PREMIUMGACHA_START,Start!,Lancer !
+UI_APP_PREMIUMGACHA_RESULT_TITLE,Result,Résultat
+UI_APP_PREMIUMGACHA_RESULT,You obtained %s x%d.,Vous avez obtenu %s x%d.
+UI_APP_PREMIUMGACHA_PICK_TITLE,1st Prize,1er prix
+UI_APP_PREMIUMGACHA_PICK,1st Prize! Choose your reward:,1er prix ! Choisissez votre récompense :
+UI_APP_PREMIUMGACHA_CONFIRM,Confirm,Confirmer
+UI_APP_PREMIUMGACHA_RESET_TITLE,Roulette Reset,Réinitialisation de la roulette
+UI_APP_PREMIUMGACHA_CYCLE_COMPLETE,You have obtained every reward of this cycle.\nReset the roulette with the Reset button to start a new cycle.,Vous avez obtenu toutes les récompenses de ce cycle.\nCliquez sur le bouton Réinitialiser pour commencer un nouveau cycle.
+UI_APP_PREMIUMGACHA_RESET_INFO,"You have obtained the 1st Prize.\nYou can now reset the roulette with the Reset button, or keep drawing for the remaining rewards.","Vous avez obtenu le 1er prix.\nVous pouvez désormais réinitialiser la roulette à l'aide du bouton Réinitialiser ou poursuivre les tirages pour obtenir les récompenses restantes."
+UI_APP_PREMIUMGACHA_RESET_CONFIRM,"Resetting the roulette will reset your draw progress and reward acquisition status, allowing you to start again from the 1st draw.","La réinitialisation de la roulette remettra à zéro votre progression dans les tirages ainsi que le statut d'obtention des récompenses, vous permettant ainsi de recommencer dès le premier tirage."
+UI_APP_PREMIUMGACHA_ERR_TICKETS,You do not have enough Fortune Pang's Roulette Tickets.,Vous ne possédez pas suffisamment de tickets de la roulette de Pang la Fortune.
+UI_APP_PREMIUMGACHA_ERR_NOPRODUCT,Fortune Pang's Roulette tickets were not found in the Premium Shop.,Les tickets de la roulette de Pang la Fortune sont introuvables dans la boutique premium.
+UI_APP_PREMIUMGACHA_ERR_PENYA,You do not have enough Penya.,Vous ne possédez pas suffisamment de Penya.
+UI_APP_PREMIUMGACHA_ERR_INACTIVE,The Fortune Pang's Roulette event is not running.,L'événement de la roulette de Pang la Fortune n'est pas en cours.
+UI_APP_PREMIUMGACHA_ERR_PICK,Claim your reward first.,Récupérez d'abord votre récompense.
+UI_APP_PREMIUMGACHA_ERR_RESET,The roulette cannot be reset right now.,La roulette ne peut pas être réinitialisée pour le moment.
+UI_APP_PREMIUMGACHA_ERR_COMPLETED,You have obtained every reward of this event.,Vous avez obtenu toutes les récompenses de cet événement.
+UI_APP_PREMIUMGACHA_ERR_RESET_REQUIRED,You have obtained every reward of this cycle.\nReset the roulette to start a new cycle.,Vous avez obtenu toutes les récompenses de ce cycle.\nRéinitialisez la roulette pour commencer un nouveau cycle.
+UI_APP_PREMIUMGACHA_ERR_REFUSED,You cannot use the Fortune Pang's Roulette right now.,Vous ne pouvez pas utiliser la roulette de Pang la Fortune pour le moment.
+UI_APP_PREMIUMGACHA_PROB_DRAW,Draw %d / %d,Tirage %d / %d
+UI_APP_PREMIUMGACHA_PROB_ALL,All remaining prizes can be drawn.,Tous les prix restants peuvent être obtenus.
+UI_APP_PREMIUMGACHA_PROB_MAIN_LOCKED,The 1st Prize cannot be drawn on this draw.,Le 1er prix ne peut pas être obtenu lors de ce tirage.
+UI_APP_PREMIUMGACHA_PROB_LOCKED,1st Prize to %s cannot be drawn on this draw.,Les prix du 1er au %s ne peuvent pas être obtenus lors de ce tirage.
+UI_APP_PREMIUMGACHA_PROB_GUARANTEED,The 1st Prize is guaranteed on this draw.,Le 1er prix est garanti lors de ce tirage.
+UI_APP_PREMIUMGACHA_PROB_COMPLETE,All rewards of this cycle have been obtained. Reset the roulette to start a new cycle.,Toutes les récompenses de ce cycle ont été obtenues. Réinitialisez la roulette pour commencer un nouveau cycle.
+UI_APP_PREMIUMGACHA_PROB_TIER,Tier,Rang
+UI_APP_PREMIUMGACHA_PROB_ITEM,Item,Objet
+UI_APP_PREMIUMGACHA_PROB_CHANCE,Chance,Probabilité
+UI_APP_PREMIUMGACHA_TIER1,1st Prize,1er prix
+UI_APP_PREMIUMGACHA_TIER2,2nd Prize,2e prix
+UI_APP_PREMIUMGACHA_TIER3,3rd Prize,3e prix
+UI_APP_PREMIUMGACHA_TIER4,4th Prize,4e prix
+UI_APP_PREMIUMGACHA_TIER5,5th Prize,5e prix
 UI_LUCKYROULETTE,Lucky Roulette,Roue de la Chance
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to earn 120 lottery coins to spend on the Lottery Wheel!,Jouez 24 heures pour obtenir 120 pièces de loterie à dépenser à la Roue de Loterie !
 UI_LUNAR_NEW_YEAR,Lunar New Year,Nouvel An Lunaire
@@ -2890,14 +2890,14 @@ UI_NEWYEARPASS_2025,2025 New Year Pass,Pass Nouvel An 2025
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Récolter %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Tentative de collecte (Herbes, Bois, Minerai, Baies récoltées) #cffc32f07#b%d/%d#nb#nc"
 UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,Vous n’avez plus de matériaux pour la bénédiction.
-UI_GENERALAWAKE_AUTO,Auto-roll,Auto-roll
-UI_GENERALAWAKE_USEMAX,Use at most,Use at most
-UI_GENERALAWAKE_AND,and,and
-UI_GENERALAWAKE_ADDAND,+ Stat,+ Stat
-UI_GENERALAWAKE_ADD,Add,Add
-UI_GENERALAWAKE_AUTOSTART,Start Auto,Start Auto
-UI_GENERALAWAKE_AUTOSTOP,Stop,Stop
-UI_GENERALAWAKE_REMOVE,Remove,Remove
+UI_GENERALAWAKE_AUTO,Auto-roll,Éveil automatique
+UI_GENERALAWAKE_USEMAX,Use at most,Utiliser au maximum
+UI_GENERALAWAKE_AND,and,et
+UI_GENERALAWAKE_ADDAND,+ Stat,+ Statistique
+UI_GENERALAWAKE_ADD,Add,Ajouter
+UI_GENERALAWAKE_AUTOSTART,Start Auto,Lancer l'éveil automatique
+UI_GENERALAWAKE_AUTOSTOP,Stop,Arrêter
+UI_GENERALAWAKE_REMOVE,Remove,Retirer
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Classement Hebdomadaire
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Classement Permanent
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Titre :
@@ -3584,8 +3584,8 @@ UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled,Marins immortels activé
 UI_WAVEDEFENSE_STATUS_LEAVE,Leave,Quitter
 UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Êtes-vous sûr de vouloir quitter le match ?
 UI_FWC_PASS_2026,2026 FWC Championship Pass,Pass du Championnat FWC 2026
-UI_CHRISTMAS_PASS_2026,2026 Christmas Pass,2026 Christmas Pass
-UI_NEWYEARPASS_2027,2027 New Year Pass,2027 New Year Pass
+UI_CHRISTMAS_PASS_2026,2026 Christmas Pass,Pass de Noël 2026
+UI_NEWYEARPASS_2027,2027 New Year Pass,Pass du Nouvel An 2027
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Récompense quotidienne : %d / %d récupérée(s) aujourd'hui
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",Cet élément sera supprimé après la maintenance du 29 octobre 2026.
@@ -3603,54 +3603,54 @@ UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Défense réussie !
 UI_ZD_DEFENSE_FAILED,Defense Failed!,Défense échouée !
 UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Récupérez votre récompense à la maison !
 UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Retour en ville dans : %d seconde(s)
-UI_TOOLTIP_GUILDCONTRIB,Guild Contribution: %d,Guild Contribution: %d
-UI_16UPDATE_PASS,1.6 Update Pass,1.6 Update Pass
-UI_VENDORSALESLOG_TITLE,Sales History,Sales History
-UI_VENDORSALESLOG_BUTTON,Sales,Sales
+UI_TOOLTIP_GUILDCONTRIB,Guild Contribution: %d,Contribution à la guilde : %d
+UI_16UPDATE_PASS,1.6 Update Pass,Pass de la mise à jour 1.6
+UI_VENDORSALESLOG_TITLE,Sales History,Historique des ventes
+UI_VENDORSALESLOG_BUTTON,Sales,Ventes
 UI_VENDORSALESLOG_DATE,Date,Date
-UI_VENDORSALESLOG_ITEM,Item,Item
+UI_VENDORSALESLOG_ITEM,Item,Objet
 UI_VENDORSALESLOG_TOTAL,Total,Total
-UI_VENDORSALESLOG_BUYER,Buyer,Buyer
+UI_VENDORSALESLOG_BUYER,Buyer,Acheteur
 UI_VENDORSALESLOG_VIA,Via,Via
-UI_VENDORSALESLOG_VIA_VENDOR,Vendor,Vendor
-UI_VENDORSALESLOG_VIA_SHOP,Shop,Shop
-UI_VENDORSALESLOG_REFRESH,Refresh,Refresh
-UI_OPTION_FARM_TRACKER,Farm Tracker,Farm Tracker
-UI_FARMTRACKER_FILTER,Add Item to Farm Tracker,Add Item to Farm Tracker
-UI_FARMTRACKER_TIME,Time : %s,Time : %s
-UI_FARMTRACKER_RESET,Reset Farm Tracker,Reset Farm Tracker
-UI_FARMTRACKER_KILLS,Kills: %s,Kills: %s
-UI_FARMTRACKER_PENYA,Penyas: %s,Penyas: %s
-UI_FARMTRACKER_FILTER_TITLE,Farm Tracker,Farm Tracker
-UI_FARMTRACKER_FILTER_SETTINGS,Farm Tracker Filter Settings,Farm Tracker Filter Settings
-UI_TEAMFINDER_TITLE,Team Finder,Team Finder
-UI_TEAMFINDER_DUNGEON,Dungeon,Dungeon
-UI_TEAMFINDER_PLAYERS,Amount of players,Amount of players
-UI_TEAMFINDER_ROLES,Roles,Roles
+UI_VENDORSALESLOG_VIA_VENDOR,Vendor,Boutique personnelle
+UI_VENDORSALESLOG_VIA_SHOP,Shop,Boutique
+UI_VENDORSALESLOG_REFRESH,Refresh,Actualiser
+UI_OPTION_FARM_TRACKER,Farm Tracker,Suivi du farming
+UI_FARMTRACKER_FILTER,Add Item to Farm Tracker,Ajouter un objet au suivi du farming
+UI_FARMTRACKER_TIME,Time : %s,Temps : %s
+UI_FARMTRACKER_RESET,Reset Farm Tracker,Réinitialiser le suivi du farming
+UI_FARMTRACKER_KILLS,Kills: %s,Monstres vaincus : %s
+UI_FARMTRACKER_PENYA,Penyas: %s,Penyas : %s
+UI_FARMTRACKER_FILTER_TITLE,Farm Tracker,Suivi du farming
+UI_FARMTRACKER_FILTER_SETTINGS,Farm Tracker Filter Settings,Paramètres de filtrage du suivi du farming
+UI_TEAMFINDER_TITLE,Team Finder,Recherche d'équipe
+UI_TEAMFINDER_DUNGEON,Dungeon,Donjon
+UI_TEAMFINDER_PLAYERS,Amount of players,Nombre de joueurs
+UI_TEAMFINDER_ROLES,Roles,Rôles
 UI_TEAMFINDER_CLASSES,Classes,Classes
-UI_TEAMFINDER_LANGUAGES,Languages,Languages
+UI_TEAMFINDER_LANGUAGES,Languages,Langues
 UI_TEAMFINDER_DESCRIPTION,Description,Description
-UI_TEAMFINDER_ROLE_HEALER,Healer,Healer
+UI_TEAMFINDER_ROLE_HEALER,Healer,Soigneur
 UI_TEAMFINDER_ROLE_TANK,Tank,Tank
 UI_TEAMFINDER_ROLE_DPSSINGLE,DPS (1v1),DPS (1v1)
 UI_TEAMFINDER_ROLE_DPSAOE,DPS (AoE),DPS (AoE)
-UI_TEAMFINDER_ANYCLASS,Any Class,Any Class
-UI_TEAMFINDER_CONFIRM,Confirm,Confirm
-UI_TEAMFINDER_CANCEL,Cancel,Cancel
-UI_TEAMFINDER_ALLDUNGEONS,All Dungeons,All Dungeons
-UI_TEAMFINDER_LEVEL,Required Level,Required Level
-UI_SEARCHPARTY_TAB_SEARCH,Party,Party
-UI_SEARCHPARTY_TAB_TEAMFINDER,Dungeon Team,Dungeon Team
-UI_TEAMFINDER_DETAILS_TITLE,Team Finder Details,Team Finder Details
-UI_TEAMFINDER_YOURROLE,Your Role,Your Role
-UI_TEAMFINDER_MESSAGELEADER,Message Leader,Message Leader
-UI_TEAMFINDER_EXPIRY,Remaining time:,Remaining time:
-UI_TEAMFINDER_PRESETS,Presets,Presets
-UI_TEAMFINDER_PRESET_SAVE,Save,Save
-UI_TEAMFINDER_PRESET_APPLY,Apply,Apply
-UI_TEAMFINDER_PRESET_REMOVE,Remove,Remove
-UI_TEAMFINDER_PRESET_NAME,Name,Name
-UI_TEAMFINDER_PRESET_MSGBOX_TITLE,Save Preset,Save Preset
-UI_TEAMFINDER_PRESET_MSGBOX_TEXT,Enter a name for the preset. Setting an existing name overwrites it.,Enter a name for the preset. Setting an existing name overwrites it.
-UI_TEAMFINDER_DELETE,Delete,Delete
-UI_APP_CONTENT_GUIDE_TIP,Open the guide about in game content.,Open the guide about in game content.
+UI_TEAMFINDER_ANYCLASS,Any Class,Toutes les classes
+UI_TEAMFINDER_CONFIRM,Confirm,Confirmer
+UI_TEAMFINDER_CANCEL,Cancel,Annuler
+UI_TEAMFINDER_ALLDUNGEONS,All Dungeons,Tous les donjons
+UI_TEAMFINDER_LEVEL,Required Level,Niveau requis
+UI_SEARCHPARTY_TAB_SEARCH,Party,Groupe
+UI_SEARCHPARTY_TAB_TEAMFINDER,Dungeon Team,Équipe de donjon
+UI_TEAMFINDER_DETAILS_TITLE,Team Finder Details,Détails de la recherche d'équipe
+UI_TEAMFINDER_YOURROLE,Your Role,Votre rôle
+UI_TEAMFINDER_MESSAGELEADER,Message Leader,Contacter le chef d'équipe
+UI_TEAMFINDER_EXPIRY,Remaining time:,Temps restant :
+UI_TEAMFINDER_PRESETS,Presets,Préréglages
+UI_TEAMFINDER_PRESET_SAVE,Save,Enregistrer
+UI_TEAMFINDER_PRESET_APPLY,Apply,Appliquer
+UI_TEAMFINDER_PRESET_REMOVE,Remove,Retirer
+UI_TEAMFINDER_PRESET_NAME,Name,Nom
+UI_TEAMFINDER_PRESET_MSGBOX_TITLE,Save Preset,Enregistrer un préréglage
+UI_TEAMFINDER_PRESET_MSGBOX_TEXT,Enter a name for the preset. Setting an existing name overwrites it.,Saisissez un nom pour le préréglage. Si ce nom existe déjà le préréglage correspondant sera remplacé.
+UI_TEAMFINDER_DELETE,Delete,Supprimer
+UI_APP_CONTENT_GUIDE_TIP,Open the guide about in game content.,Ouvrir le guide du contenu du jeu.
